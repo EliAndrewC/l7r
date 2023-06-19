@@ -1,7 +1,8 @@
 Character Creation
 ------------------
 
-You start with 150 experience points (XPs) with which to create your character.  which you also spend to improve your character.  GMs award more XP after each adventure, and players must keep track of their total Earned XPs.  When your character dies, your next character receives your Earned XPs at character creation.
+You start with 150 experience points (**XPs**) with which to create your character.  GMs award more XP after each adventure, and players must keep track of their total **Earned XPs**, which you also spend to improve your character.  When your character dies, your next character receives your Earned XPs at character creation.  Some campains begin with a non-zero number of Earned XPs if your characters are already somewhat experienced and accomplished.
+
 
 ## The Five Rings
 
@@ -46,13 +47,14 @@ Each Ring begins at 2 and may be raised 1 point at a time by spending 5 times th
 
 ## Skills
 
-Your character's skills are divided into basic and advanced.  Every skill begins at 0 and must be raised 1 point at a time, to a maximum of 5.  Raising a basic skill to 1 or 2 costs 2 XPs, and raising it above that costs 3 XPs.  Raising an advanced skill to 1 or 2 costs 4 XPs, and raising it above that costs twice the new value of the skill in XP.
+Your character's skills are divided into **basic** and **advanced**.  Every skill begins at 0 and must be raised 1 point at a time, to a maximum of 5.  Raising a basic skill to 1 or 2 costs 2 XPs, and raising it above that costs 3 XPs.  Raising an advanced skill to 1 or 2 costs 4 XPs, and raising it above that costs twice the new value of the skill in XP.
+
 
 ## Rolling Dice
 
-L7R uses exclusively 10-sided dice.  Unless stated otherwise, a die that rolls a 10 is rerolled, and the numbers are added together.  Because this repeats every time the die comes up 10, any single die has a potentially infinite range.
+L7R uses exclusively 10-sided dice.  Unless stated otherwise, a die that rolls a 10 is **rerolled**, and the numbers are added together.  Because this repeats every time the die comes up 10, any single die has a potentially infinite range.
 
-Every skill rolls with its associated Ring, and the higher roll, the better the result.  The two numbers that define a roll are the dice rolled and the dice kept.  The dice rolled is the sum of the skill and Ring being used.  The dice kept equals the Ring only, and this indicates how many of the rolled dice are added together.
+Every skill rolls with its associated Ring, and the higher roll, the better the result.  The two numbers that define a roll are the **dice rolled** and the **dice kept**.  The dice rolled is the sum of the skill and Ring being used.  The dice kept equals the Ring only, and this indicates how many of the rolled dice are added together.
 
 
 ## Void Points
@@ -62,14 +64,14 @@ Void points are not directly based on the Void Ring; instead, a character's void
 
 ## Schools
 
-You pick a school at character creation, which has a School Ring, a special ability, 3 school knacks, and 5 techniques.  All characters possess their school's special ability and begin with their school knacks at 1, which cost the same as advanced skills to raise.  You may never use or raise any school knack which your character doesn't posses.  As mentioned above, each School focuses on a particular Ring, which is raised for free at character creation.
+You pick a school at character creation, which has a **School Ring**, a **special ability**, 3 **school knacks**, and 5 **techniques**.  All characters possess their school's special ability and begin with their school knacks at 1, which cost the same as advanced skills to raise.  You may never use or raise any school knack which your character doesn't posses.  As mentioned above, each School focuses on a particular Ring, which is raised for free at character creation.
 
 Characters have a Dan equal to the value of their lowest school knack, so your character may begin as high as Third Dan.  Every school goes up to Fifth Dan, and each Dan grants a technique.
 
 
 ## Advantages and Disadvantages
-W
- e provide rules to represent miscellaneous physical traits, noteworthy mental characteristics, and relevant background information.  Advantages help you while disadvantages make things harder, and you choose which ones to take during character creation.  Every advantage has a certain benefit and XP cost, while each disadvantage has a specific penalty and gives you XPs.
+
+We provide rules to represent miscellaneous physical traits, noteworthy mental characteristics, and relevant background information.  Advantages help you while disadvantages make things harder, and you choose which ones to take during character creation.  Every advantage has a certain benefit and XP cost, while each disadvantage has a specific penalty and gives you XPs.
 
 
 ## Honor, Recognition, and Rank
