@@ -1,5 +1,6 @@
 
-| **Cost** | **Advantage** |
+| Cost | Advantage |
+| ---- | --------- |
 | 2 | Charming |
 | 5 | Discerning |
 | 2 | Fierce |
