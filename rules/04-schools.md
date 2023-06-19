@@ -192,7 +192,7 @@ deals 10 fewer light wounds on their next 2 attacks.
 ## Isawa Duelist School
 
 **School Ring:**
-Fire
+Water
 
 **School Knacks:**
 * double attack
@@ -200,31 +200,31 @@ Fire
 * lunge
 
 **Special Ability:**
-You always roll 10 dice when rolling initiative, keeping the usual 
-number as action dice.
+You add your Water instead of Fire to your rolled damage dice.
 
 **First Dan:**
-Roll one extra die on double attack, iaijutsu, and wound check
-rolls.
+Roll one extra die on double attack, lunge, and wound check rolls.
 
 **Second Dan:**
-You get a free raise on iaijutsu rolls.
+You get a free raise on wound checks.
 
 **Third Dan:**
-When you spend a void point, you may add 3X to any future wound 
-check this combat after seeing the roll, where X is your attack 
-skill.
+After you make any type of attack roll, you may lower your TN to be 
+hit by 5 for the next time that you are attacked this round to get 
+a bonus of 3X on your attack roll, where X is your attack skill. 
+If a successful or unsuccessful parry is made against your attack, 
+you do not suffer the TN penalty.
 
 **Fourth Dan:**
-Raise your current and maximum Fire by 1. Raising your Fire now 
+Raise your current and maximum Water by 1. Raising your Water now 
 costs 5 fewer XP.
-When you miss the TN on a double attack roll by less than 20, you 
-are still considered to have hit, but you deal no extra damage.
+Once per turn, you may lunge as an interrupt action at the cost of 
+1 action die.
 
 **Fifth Dan:**
-After you deal light wounds which result in the defender taking one 
-or more serious wounds, their light wound total is reset to 15 
-instead of 0.
+After a successful wound check, you may add X to a future wound 
+check this combat, where X is the amount by which the wound check 
+exceeded the light wound total.
 
 
 ## Kakita Duelist School
@@ -362,7 +362,7 @@ current phase to add to that damage.
 ## Matsu Bushi School
 
 **School Ring:**
-Water
+Fire
 
 **School Knacks:**
 * double attack
@@ -370,31 +370,31 @@ Water
 * lunge
 
 **Special Ability:**
-You add your Water instead of Fire to your rolled damage dice.
+You always roll 10 dice when rolling initiative, keeping the usual 
+number as action dice.
 
 **First Dan:**
-Roll one extra die on double attack, lunge, and wound check rolls.
+Roll one extra die on double attack, iaijutsu, and wound check
+rolls.
 
 **Second Dan:**
-You get a free raise on wound checks.
+You get a free raise on iaijutsu rolls.
 
 **Third Dan:**
-After you make any type of attack roll, you may lower your TN to be 
-hit by 5 for the next time that you are attacked this round to get 
-a bonus of 3X on your attack roll, where X is your attack skill. 
-If a successful or unsuccessful parry is made against your attack, 
-you do not suffer the TN penalty.
+When you spend a void point, you may add 3X to any future wound 
+check this combat after seeing the roll, where X is your attack 
+skill.
 
 **Fourth Dan:**
-Raise your current and maximum Water by 1. Raising your Water now 
+Raise your current and maximum Fire by 1. Raising your Fire now 
 costs 5 fewer XP.
-Once per turn, you may lunge as an interrupt action at the cost of 
-1 action die.
+When you miss the TN on a double attack roll by less than 20, you 
+are still considered to have hit, but you deal no extra damage.
 
 **Fifth Dan:**
-After a successful wound check, you may add X to a future wound 
-check this combat, where X is the amount by which the wound check 
-exceeded the light wound total.
+After you deal light wounds which result in the defender taking one 
+or more serious wounds, their light wound total is reset to 15 
+instead of 0.
 
 
 ## Mirumoto Bushi School
