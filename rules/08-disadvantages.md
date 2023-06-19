@@ -1,5 +1,6 @@
 
-| **Cost** | **Disadvantage** |
+| Cost | Disadvantage |
+| ---- | ------------ |
 | 3 | Bad Reputation |
 | 5 | Contrary |
 | 6 | Dark Secret |
