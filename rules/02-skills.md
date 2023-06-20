@@ -204,6 +204,8 @@ information.
 
 # Skill List
 
+As a reminder: every skill begins at 0 and must be raised 1 point at a time, to a maximum of 5.  Raising a basic skill to 1 or 2 costs 2 XPs, and raising it above that costs 3 XPs.  Raising an advanced skill to 1 or 2 costs 4 XPs, and raising it above that costs twice the new value of the skill in XP.
+
 ## Social Skills
 
 **Basic:**
