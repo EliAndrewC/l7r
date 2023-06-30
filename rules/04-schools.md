@@ -618,7 +618,7 @@ You get a free raise on all attack rolls.
 **Third Dan:**
 Each adventure you get 2X free raises, where X is equal to your 
 precepts skill, which may be applied to the following rolls: 
-history, law, precepts, tact, and attack. You may not spend more 
+law, precepts, tact, attack, and wound checks. You may not spend more 
 than X of these free raises on a single roll. These free raises 
 may also be applied to action dice at any time, lowering a single 
 die by 5 phases.
