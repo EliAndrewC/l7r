@@ -46,6 +46,7 @@ You are spiritually unbalanced in a way that affects the harmony of the five ele
 
 
 **Driven (5):**
+
 You have some ultimate goal which you want to achieve so badly that you'll disregard the adventure goal in order to pursue it.
 
 
