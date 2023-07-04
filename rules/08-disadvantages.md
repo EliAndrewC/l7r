@@ -82,7 +82,7 @@ It takes one fewer serious wound to kill you.  You may not take the Great Destin
 
 **Poor (4):**
 
-Divide your Rank in half for the purpose of calculating your stipend.  You may not take the Wealthy advantage, and you may not take this in a campsign in which you do not receive a stipend.
+Divide your Rank in half for the purpose of calculating your stipend.  You may not take the Wealthy advantage, and you may not take this in a campaign in which you do not receive a stipend.
 
 
 **Proud (2):**
