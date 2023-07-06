@@ -686,6 +686,12 @@ Special Ability for attack rolls.
 
 ## Doji Artisan School
 
+The Crane clan's philosophy is that all disciplines, whether martial or artistic, should be viewed as different kinds of art.  The Kakita Academy is a single academy in which people study e.g. both the art of dueling and the art of painting.  Although there are separate classes, there are not separate academies for these things, because it is philosophically important for students to understand the similaries between all fields of human endeavor.
+
+Similarly, students cannot study only one discipline - if you wish to learn kenjutsu at the Kakita Academy, you must also learn some non-martial-arts as well, and your instructors in both of those art forms know how to instruct you on how cultivating one discipline influences and guides the other.
+
+Doji Artisans are a particular school born of that philosophy.  As samurai, Doji Artisans have three responsibilities: to make war, to make peace, and to make art.  All three are closely related.  For battle, you learn the art of mizu-do to turn an opponent's momentum against them.  In politics, you learn how to do the same by manipulating an enemy's words.  Through artistic expression, you learn how to shape and frame perceptions, depicting emotions and events and people in ways advantageous to the Crane clan.
+
 **School Ring:**
 Air or Water
 
