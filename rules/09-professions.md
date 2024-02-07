@@ -79,13 +79,13 @@ Priest Rituals
 ** *Time: 5 minutes*
 * Heal an extra serious wound on an off-night.
 ** *Time: 20 minutes*
-* Once per phase of conbat: at the beginning of the phase, pick one of {attack, parry, damage, wound checks}: you and all allies round up all rolls of that type to the nearest multiple of 5 that phase.
+* Once per phase of combat: at the beginning of the phase, pick one of {attack, parry, damage, wound checks}: you and all allies round up all rolls of that type to the nearest multiple of 5 that phase.
 * Once per conversation, pick a skill.  Everyone on your side rounds up all rolls on that skill to the nearest increment of 5.  You may decide which skill to round up after you have seen the results of your own or an ally's roll.
 * Spend a void point to roll precepts to perform a commune roll which is only able to detect supernatural influences which are currently present or nearby.  You may learn the type of influence (elemental, shadowlands, etc) and its strength and proximity.
 * Give the target human, animal, or 1-family plot of land two free raises to resist disease.
 ** *Time: 20 minutes*
 ** *Money bonus: 20%*
-* Before a conversation, bless a target and pick a topic of conversation.  When the target makes their first contested roll on that topic, roll 2k1 and add it to their roll.  Each blessing replaces the previous one.
+* Before a conversation, bless a target and pick a topic of conversation.  When the target makes their first contested roll on that topic, roll 2k1 and add it to their roll.  Each blessing per target replaces the previous one.
 ** *Time: 5 minutes*
 * When a target makes a roll to perform research, roll 2k1 and add it to their roll.
 ** *Time: 5 minutes*
