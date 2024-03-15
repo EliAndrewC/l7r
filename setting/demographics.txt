@@ -26,15 +26,12 @@ SAMURAI
 -------
 5,000 samurai in the median domain
 
-4,000 "useful" samurai (not too young or old):
- - 1200 samurai in the capitol
- - 300 samurai in each of the 6 provincial cities
- - 25 in each of the 36 towns
+3,000 "useful" samurai (not too young or old):
+ - ~1000 samurai in the capitol
+ - ~250 samurai in each of the ~6 provincial cities
+ - ~15 in each of the ~36 towns
 
-samurai are typically 80% bushi, 10% courtier, and 10% merchant
-
-NOTE: subsequent research has shown that the percentage of "useful"
-samurai of working age is probably closer to 60% than 80%.
+samurai are typically ~80% bushi, ~10% courtier, and ~10% merchant
 
 
 MERCHANT HOUSES
@@ -87,9 +84,8 @@ Shrines and monasteries are controlled by the Ministry of Rites, and are organiz
 - an acolyte is a monk without an appointed post who works for a monk with a post
 - each village district has a Country Monk
 - each town has a Preceptor per Order
-- each province has a Provincial Abbot per Order
-- each capitol city has an Abbot per Order
-- each Order has a Grand Abbot per Clan where that Order exists
+- each province has an Abbot per Order
+- each capitol city has a Grand Abbot per Order
 
 
 
@@ -167,12 +163,13 @@ domains may be assembled to assist one side or the other.  Having one or two
 hundred extra troops can change the outcome of a battle, and high-ranking
 Emerald magistrates are not shy about throwing their weight around.
 
-There are also several Imperial legions stationed throughout Rokugan.  We have
+There are also numerous Imperial legions stationed throughout Rokugan.  We have
 not yet established specific numbers and locations for all of them, but the ones
 which we've established to exist are:
-- Beiden Pass
-- the Kaiu Wall
-- the gateway to the Land of the Burning Sands
+- the 1st Imperial Legion guards the Gateway to the Land of the Burning Sands
+- the 2nd Imperial Legion guards Beiden Pass at the Spine of the World Mountains
+- the 3rd Imperial Legion guards the Kaiu Wall
+- most of the remaining Imperial Legions are also stationed along the Kaiu Wall
 
 
 
