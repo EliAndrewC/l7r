@@ -81,11 +81,21 @@ are about 80 ashigaru, of which about 15-20 are good enough to be armed.
 MONKS
 -----
 Shrines and monasteries are controlled by the Ministry of Rites, and are organized as follows:
-- an acolyte is a monk without an appointed post who works for a monk with a post
 - each village district has a Country Monk
 - each town has a Preceptor per Order
 - each province has an Abbot per Order
 - each capitol city has a Grand Abbot per Order
+
+Monk ranks are discussed elsewhere, but shrines and temples are staffed by many monks who report to the leaders mentioned above, and their ranks are generally ordered like this:
+- Initiate
+- Novice
+- Acolyte
+- Junior Monk
+- Adept Monk (Country Monk is equivalent to this)
+- Senior Monk (Town Preceptor is equivalent to this)
+- Steward
+- Abbot
+- Grand Abbot
 
 
 
