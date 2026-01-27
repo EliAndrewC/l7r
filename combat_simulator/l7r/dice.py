@@ -35,7 +35,6 @@ def actual_xky(roll, keep):
     if keep > 10:
         bonus = keep - 10
         keep = 10
-
     return roll, keep, bonus
 
 
