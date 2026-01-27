@@ -1299,7 +1299,7 @@ The twelfth month, Shiwasu (“priests running”), is named for the flurry of a
 
 
 
-Net's talk about a specific campaign, which as of this writing is the campaign I'm currently running.  I call this the "Karmic Inquisitors" campaign, which takes place in Damasu lands, the domain whose capital is Toshi Ranbo, the third-largest city in the Empire.
+Net's talk about the "Karmic Inquisitors" campaign, which takes place in Damasu lands, i.e. the domain whose capital is Toshi Ranbo, the third-largest city in the Empire.
 
 CAMPAIGN DESCRIPTION:
 
@@ -6615,6 +6615,111 @@ The Secret Histories of the Moto:
 Apparently the Yassa is not the only secret writings of the Moto, and they evidently have secret histories as well. Moto Zolzaya and Moto Khunbish have evidently both read some or all of these secret histories, which contain the Moto version of the Black Guard.
 
 According to Moto Zolzaya, when the Moto returned to their ancestral homelands, they reclaimed ancient shrines such as Bodi Kaikhan. Some of those shrines contained secret teachings and rituals, part of the old ways whose practices had fallen out of use. A man named Moto Tsume was the khan of the Vindicator (Zolzaya informs you that the Vindicator histories place him as their high priest who defied their khan), who performed certain rituals to immortalize himself before he was driven out by the other noble families of the Vindicator. Moto Tsume and his disciples escaped into Jigoku after being surrounded in a siege of Bodi Kaikhan, and evidently one of the chief responsibilities of Vindicator priests is to spiritually ward the walls of Bodi Kaikhan to keep them from being able to re-enter the mortal realm directly from Jigoku. The strength of the Vindicator wards is demonstrated by the fact that the Dark Moto are forced to enter the mortal realm in the Shadowlands, presumably through the Festering Pit of Fu Leng.
+
+
+
+
+
+WASP BOUNTY HUNTERS
+
+The Spine of the World Mountains bisect the Empire in two, with Beiden Pass being the main passage between the northern and southern halves of the central Empire.  In the eastern Empire, ships are the fastest and most efficient way to move people and goods up and down the coast, and a narrow mountain pass 150 miles inland is the best way to travel from one side of the mountains to the other (as Beiden pass is ~400 miles to the northwest along the mountain range).
+
+This mountain pass is located in the Hachinaga ("long wasp") province, a dynasty province which the Shin lineage has ruled for over a thousand years.  Their progenitor, Bayushi Shin, personally swore fealty to Lord Bayushi, and his descendents later became part of the Kyo vassal house of the Bayushi family, tasked with defending the valuable mountain pass from the Zenji vassal house of the Matsu Family of the Lion Clan to the north.
+
+The Wasp Clan was founded by Tsuruchi, first of his name, and its holdings consist entirely of the mountainous Hachinaga province.
+
+h3. The lives of Tsuruchi's parents
+
+Tsuruchi, first of his name, was born Bayushi no Kyo Tsuruchi, son of Bayushi no Kyo Chitose and Matsu no Zenji Natsu.
+
+Tsuruchi's father Chitose was the provincial governor of Hachinaga.  Chitose was betrothed from childhood to Bayushi no Kyo Ryoko, a member of the wealthy Rui lineage, but as a young man he fell in love with Natsu, a beautiful Matsu bushiko from the neighboring Zenji domain.  The two entered into a torrid romance, and Natsu was already showing signs of her pregnancy in the months leading up to Chitose's wedding.
+
+Chitose had already inherited the governorship of Hachinaga after his father died at sea on a journey north to Otosan Uchi, and his mother had died in childbirth a few months later.  With no living parents to countermand him, he ignored the advice of his aunt, Chancellor Omika, and broke off his engagement to Ryoko.
+
+The powerful Rui lineage convinced Bayushi no Kyo Haruka, the Kyo daimyo, to deny Chitose's permission to marry Natsu.  Governor Chitose might have ignored his daimyo and defied her orders to marry his true love, but Natsu's mother refused to grant her daughter permission to marry under those circumstances, and as a result Natsu herself refused to consent to a marriage.
+
+However, while Natsu's filial piety stopped her from marrying Chitose, she nevertheless moved to Hachinaga Keep to live with Chitose and raise their son, and she continued bearing him children and raising the next generation of the main line of the Shin lineage.  She spent the rest of her life referred to as the governor's "consort" ("Naisai" literally means "inner wife" and is the official term, though Chitose's political enemies referred to her as his "Mekake" or "female servant" / "mistress").
+
+h3. The deaths of Tsuruchi's parents
+
+The cadet line of the Shin lineage had mixed reactions to their governor's romantic choices.  While most of the lineage displayed understanding tolerance, some were privately furious at what they saw as the disgraceful conduct of their leader.  Some are known to have lobbied their daimyo in private to replace Chitose with one of the Shin cousins who would carry the authority of the Kyo house with more dignity.
+
+Daimyo Haruka refused to entertain such ideas, which she felt would bring instability to the do, though the Rui lineage supported these efforts, presumably in revenge for Governor Chitose's broken bethrothal to their lineage member Ryoko (who is now married to the Deputy Minister of Retainers).  However, the Rui lineage continued to scheme against Chitose's parents at every turn, often with the support of disgruntled members of the Shin cadet line.
+
+In the winter of 1110 (which is 20 years before the start of this campaign), Governor Chitose hosted a banquet, to which many of his consort Natsu's Lion family were invited.  Natsu's mother had passed, but her brother Matsu no Zenji Ginjiro and his children and many of her other cousins were present.
+
+There was much drinking, and memories of the details of this event are fuzzy and disputed.  However, an altercation broke out between the visiting Matsu and their Bayushi hosts, as often happens at events in which both Lion and Scorpion samurai are present.  This quickly escalated into an enormous brawl.  While no one had their swords present and thus most of the damage was done with fists, but hidden knives were unsheathed during the altercation.
+
+No official determinations of guilt were made by Imperial magistrates, but the following facts are reliably attested to during the inquest undertaken by Seppun Shizuko (the Imperial magistrate for the Kyo domain):
+* Kyo Fumikazu (a cadet line Shin lineage courtier, and the first cousin of Governor Chitose) argued with Zenji Fudo (Natsu's second cousin), and eventually Fudo threw a drunken punch.
+* A room-wide fight **immediately** broke out, quickly enough that Seppun Shizuko postulated preplanning on the part of some participants, though with punches being thrown by both sides and memories fuzzy it was impossible to determine who was responsible for the escalation.  The poor recollection of many participants led Magistrate Shizuko to postulate that some of sake may have been drugged, though this was never proven.
+* Governor Chitose and his consort Natsu were seated next to Natsu's brother Ginjiro and his two children.  Ginjiro and his children were knocked unconscious early in the fight and were unable to testify as to who they fought.
+* Chitose and Natsu and their two younger children were all stabbed to death in the fight, and fine daggers of Matsu manufacture with Lion engravings on the handguard were found buried in the bodies of Chitose and Natsu.
+* Tsuruchi and his two siblings were seated on the other side of their parents, and when the fight broke out, he and his friend (and drinking buddy) Kyo Kyoma leapt into action, first trying to break up the fight and then quickly being drawn into it.
+* Kyoma noticed Kyo Fumikazu (the man whose argument started this brawl) approaching Tsuruchi from behind with a drawn knife which was already covered in blood.  He cried out, attacking Fumikazu before Tsuruchi could be stabbed in the back.  Kyoma killed Fumikazu while fighting back-to-back with Tsuruchi.
+* The Lion guests were outnumbered by their Scorpion hosts, and so they were all eventually subdued.  The only Lion who died was Zenji Nozomi, one of Natsu's first cousins and the daughter of her brother Ginjiro.  Her forehead was caved in after hitting the edge of the banquet table.  It is unclear whether this happened before or after Governor Chitose and his consort and two younger children were killed.
+
+h3. Tsuruchi's brief governorship
+
+Tsuruchi immediately concluded that his Lion cousins were **not** responsible, and that treacherous members of the Shin cadet line had sought to remove him so that they could take over the lineage and its rulership of the Hachinaga province.  However, with the traitor Fumikazu having died attempting to assassinate him, Tsuruchi couldn't be sure who was and wasn't involved.
+
+Tsuruchi first demanded that Fumikazu's immediate family denounce Fumikazu, and they refused.  Tsuruchi immediately expelled them from the province, sending them to Shiro Kyo and petitioning Daimyo Haruka to conduct her own inquest and sentence those she believed responsible to death.  Tsuruchi then proceeded to demand that all loyal members of the Shin lineage denouce not only the treacherous Fumikazu, but the other members of the Shin lineage who had refused to do so.
+
+After Tsuruchi's uncle Ginjiro returned home following the banquet and conducted funeral rites for his daughter, he advised his own daimyo, Zenji Kana, that Hachinaga Keep was now lightly defended, and was ripe for conquest.  It had been a Lion province in the past, and could be again.  Ginjiro was but a mere clerk of the 8th Rank in the Zenji Ministry of War, but with his intimate knowledge of Hachinaga Keep and its surrounding fortifications and landscape he was appointed as the general of the invasion force.
+
+Ginjiro force-marched his small army and quickly laid siege to Hachinaga Keep.  Surrounding it on all sides and cutting off any attempts to send for reinforcements to the Kyo capital (though the siege would surely be noticed before long).
+
+Under a banner of truce, Tsuruchi met with his uncle Ginjiro.  He appealed his kinship with the Lion, declaring that he and Ginjiro had a common enemy in the treacherous Scorpion members of the Kyo house who had murdered Ginjiro's daughter and Tsuruchi's siblings and parents.  Tsuruchi further declared that Daimyo Haruka had broken loyalty with the Shin, first by not permitting the marriage of his parents, and now by failing to prosecute the treacherous members of the Shin cadet line who had assassinated them.
+
+Tsuruchi swore that he and all loyal members of the Shin lineage were prepared to swear fealty to Zenji Kana as their new daimyo and join the Kana as a new lineage of the Kana House of the Matsu Family, renouncing their Scorpion loyalties and becoming Lion, so long as the Shin were permitted to retain their status as a dynasty lineage with authority over the Hachinaga province.
+
+Ginjiro stated that he had not been given the authority to accept such a bargain on behalf of his daimyo, but promised to send a swift messenger to Shiro Zenji.  He swore that he would advocate for this outcome, and convey Tsuruchi's sincerity and honor to Daimyo Kana.
+
+Ginjiro did indeed send a letter, and his daimyo's reply ordered him to refuse Tsuruchi's surrender and attack the keep.  He did, and after a brief siege, the Shin defenses were overwhelmed and an injured Tsuruchi offered Isshin, the ancestral sword of the Shin lineage, to his uncle as part of a negotiated surrender in the great hall of the keep.  Tsuruchi declared that it was better for his mother's brother to honor this sword and for it to stay in its ancestral lands than for it to be placed in the hands of his treacherous Scorpion cousins.
+
+The surviving members of the Shin lineage were set free to return to the Kyo domain, though many of them, including Tsuruchi himself, were unwilling to continue serving a daimyo who they perceived to have broken loyalty with them, and also unwilling to swear fealty to a Lion daimyo who had previously rejected them.
+
+Thus, Tsuruchi and many of his former retainers became ronin, and Tsuruchi's uncle Ginjiro was appointed as the new provincial governor of Hachinaga.
+
+h3. Tsuruchi's career as an Imperial bounty hunter
+
+In the years that followed, Tsuruchi was granted a post as an Imperial magistrate, and took on the role of a bounty hunter.  It turned out that there are often matters serious enough to generate an Imperial bounty, but not serious enough to cause Imperial magistrates to spend their limited time and attention seeking out people who are being sheltered by their families.  Indeed, in many politically touchy cases, some Imperial magistrates are loathe to disturb the Emperor's peace by forcing a standoff with locals over matters which, on the scale of Imperial concerns, are relatively minor.  Thus, it is often the case that samurai with Imperial bounties on their heads can live out their lives in quiet obscurity, with their families claiming that they have not seen their wayward relatives.
+
+Tsuruchi no longer had any family to be drawn into the political fallout from targeted well-connected fugitives, and he quickly became infamous throughout the Empire for his ruthless devotion to seeking out those who dared defy the Emperor's justice.  While some Imperial bounty hunters famed in history for adopting a similar philosophy have often challenged their targets to duels so that they have a chance to die honorably, Tsuruchi preferred to employ his mastery of the bow in striking down such targets, declaring:
+
+bq). A single arrow, a single life.
+
+Tsuruchi's Imperial yoriki (assistants) began as a small group of former Shin samurai, but soon were joined by others who were brave enough and free enough from entangling family concerns (mostly but not entirely other ronin).
+
+Many of the bounties Tsuruchi collected were put out by the Crane clan, who often had the money necessary to register Imperial bounty against those wanted for infractions recognized by Imperial magistrates.  The Crane were grateful that many of these bounties, which would have previously gone uncollected, were now resulting in their targets being brought to justice.  Tsuruchi thus earned himself many well-connected Crane friends, even as he made himself powerful enemies throughout the rest of the Empire.  A few Crane have expressed a sense of betrayal when Tsuruchi has accepted bounties on Crane samurai, but the wise and powerful Crane courtiers who control the Imperial courts have publicly commended Tsuruchi's unflinching sense of justice.
+
+h3. Tsuruchi's revenge
+
+Two years after Tsuruchi became a ronin, the Crane clan was able, through their agents, to obtain a copy of the letter which Tsuruchi's uncle Ginjiro sent to Daimyo Kana, in which he had sworn to advocate for Tsuruchi and the Shin lineage.  This is the text of the letter in its entirety:
+
+bq). To my daimyo, the Lady Matsu no Zenji Kana, I submit this report from the front.
+bq). Bayushi no Kyo Tsuruchi has offered to surrender if he and his lineage are permitted to swear fealty to you and continue administering the Hachinaga province under your authority.  I believe Tsuruchi would serve you loyally as an honorable retainer if you accept.  That said, my tactical assessment is that due to the meager skeleton force remaining in Hachinaga Keep, we can most certainly take the fortress with a minimum of casualties.
+bq). Matsu no Zenji Ginjiro, General of the Expeditionary Force, bowing in service.
+
+When Tsuruchi was presented with a copy of this letter, he was furious.  He declared his uncle an oathbreaker, having forsworn himself in his promise to Tsuruchi in order to greedily obtain a governorship for himself.
+
+Kakita Yoshi, the Imperial Chancellor, had personally vouched for the authenticity of the letter, and personally met with Tsuruchi to present it to him.  Yoshi promised that if Tsuruchi were able to gather enough ronin and mercenaries to take vengeance on his uncle Ginjiro and retook Hachinaga Keep, then the Crane clan would formally back the creation of a new Minor Clan so that Tsuruchi could resume rulership of his ancestral lands without being forced to serve either the Lion or Scorpion clans who had now both betrayed him.
+
+Yoshi cautioned Tsuruchi that he could not guarantee that the Imperial Chancellary would back the Crane position, nor that the Emperor would approve the proposal.  The Lion and Scorpion Clans would certainly both oppose this, though the Crane would be eager to deny their rivals this strategically important mountain pass and would therefore fully back the effort in lobbying the other Great Clans.  Tsuruchi was willing to take the risk, and within two years he had made his preparations and launched his surprise attack on Hachinaga Keep, infiltrating its fortifications and scattering its defenders before they could respond.
+
+When his uncle Ginjiro made his own surrender to Tsuruchi in the great hall of the keep, Tsuruchi accepted back his ancestral sword Isshin.  He offered to allow Ginjiro to commit seppuku to cleanse the stain of dishonor from his family, and when Ginjiro stated that he had abided by his word and carried no dishonor, Tsuruchi drove the sword Isshin into the floor of the great hall, snapping it in two, declaring that it had been tainted by the Ginjiro's treachery and using its broken shard to execute his uncle.  He then released the other Lion survivors, declaring that they had served their daimyo admirably and honorably and that he held no animus towards any surviving member of the Zenji House.
+
+Yoshi quickly arranged for a prestigious Imperial delegation to be accept Tsuruchi's invitation to Hachinaga Keep, which forestalled any attempt by either the Lion or Scorpion to attack the keep, as those guests would have been honor-bound to fight in its defense.  This delay provided enough time for the Imperial Chancellary to recommend the creation of the Wasp clan, and the Emperor signed the new clan charter, making Tsuruchi the first of his name and daimyo of the new Tsuruchi family.
+
+h3. Tsuruchi's legacy
+
+It has been 15 years since the Wasp clan was created.  At the urging of the Crane clan, and in recognition of Tsuruchi's personal accomplishments as a bounty hunter, the Wasp Clan charter grants all Wasp samurai the authority to act as Imperial magistrates for the purpose of pursuing Imperial bounties.  This makes every Wasp a potential bounty hunter, even if most Wasp samurai have other duties to attend to.
+
+Because the Wasp domain is very small (it was a single small but strategically important province), the bounties they collect, which would be a pittance for even an average-sized domain, represent a significant fraction of the Wasp Clan income.  This has sometimes led to questionable methods from less scrupulous Wasp bounty hunters in their methods and tactics, and the Clan's long-term reputation is still very much in the process of being determined.
+
+Among other things, it remains to be seen whether Tsuruchi's particular idiosyncracies will become the standard for the Wasp in generations to come.  The most notable example is swords: Tsuruchi has left the broken blade of his ancestral sword Isshin embedded in the floor of the great hall of Hachinaga Keep, where it is seen by visitors.  The broken hilt and base of the blade are displayed on the alter of an ancestral shrine in the corner of the same room.  Tsuruchi himself has not chosen another sword, using only borrowed swords when necessary, declaring that there shall be no Ancestral Sword of the Wasp, and refusing to so much as carry a sword while at home in Hachinaga Keep.
+
+Because their daimyo exhibits this behavor, many of Tsuruchi's retainers have chosen to show deference to their lord by mimicing his behavior, and as such it is rare to see a Wasp clan samurai carrying a sword in Hachinaga Keep.  And because many guests worry about offending the sensibilities of their hosts, visitors to Hachinaga Keep also frequently shed their daisho before entering.  Such things lead many to wonder how a clan willing to so flagrantly violate ancient traditions can long survive, and whether the next generation of Wasp will revert to the more accepted ways of bushido.
 
 
 
