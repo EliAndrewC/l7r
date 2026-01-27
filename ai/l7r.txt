@@ -2426,7 +2426,7 @@ The Damasu administration have mainly left this temple alone, as they do not wis
 
 RELIC SEEKERS
 
-During the Karmic Inquisitors campaign, the PCs tasked a large staff to look into "relic seekers" - i.e. pilgrims who come to the temple looking to pray before and even be granted private audiences with many [[Temple relics]].  This page contains an alphabetically sorted list of all the people whose names are recorded as having:
+During the Karmic Inquisitors campaign, the PCs tasked a large staff to look into "relic seekers" - i.e. pilgrims who come to the temple looking to pray before and even be granted private audiences with many Temple relics.  This page contains an alphabetically sorted list of all the people whose names are recorded as having:
 * arrived in the past 2 and a half years
 * have potentially been around for most or all of the intervening time
 * are either still in the city or who at least may still be in the city now (in many cases this is known and in other cases it is unclear)
@@ -2455,37 +2455,37 @@ Akuhiko began seeking access to temple relics last year following her gempukku, 
 
 h3. **Akodo no Damasu Beni**
 
-The second son of [[:akodo-no-damasu-daitengu]], Beni is unlikely to be involved in the courtly politics of his elders, but his mother is one of the "new guard" Damasu who Fukumi believes is working to supplant the current presumptive heir to the domain.
+The second son of Akodo no Damasu Daitengu, Beni is unlikely to be involved in the courtly politics of his elders, but his mother is one of the "new guard" Damasu who Fukumi believes is working to supplant the current presumptive heir to the domain.
 
 h3.  **Akodo no Damasu Genya**
 
-Genya is the second son of [[:akodo-no-damasu-eiji-1]], the county magistrate of Hoshizora, where the PCs caught the horse thieves, and defeated a powerful bandit lord and his ninja retainer.
+Genya is the second son of Akodo no Damasu Eiji, the county magistrate of Hoshizora, where the PCs caught the horse thieves, and defeated a powerful bandit lord and his ninja retainer.
 
 h3. **Akodo no Damasu Hoshiko**
 
-The second daughter of [[:akodo-no-damasu-masatoshi]], the Governor of Mino, Hoshiko has come to the temple seeking wisdom - strength of mind and spirit rather than strength of muscle.  Her father is a courtier who wields considerable power in the Lion and Imperial courts - his brother is the Hiyu representative on the Imperial Chancellary, hence Hoshiko's mother becoming governor of Mino.
+The second daughter of Akodo no Damasu Masatoshi, the Governor of Mino, Hoshiko has come to the temple seeking wisdom - strength of mind and spirit rather than strength of muscle.  Her father is a courtier who wields considerable power in the Lion and Imperial courts - his brother is the Hiyu representative on the Imperial Chancellary, hence Hoshiko's mother becoming governor of Mino.
 
 h3. **Akodo no Damasu Jinsei**
 
-The second son of [[:akodo-no-damasu-taro]], Jinsei's father sent him to Toshi Ranbo after his gempukku the week before Setsuban last year to continue his training.  Believing that strength will be needed in the years ahead as peaceful relations with the Crane clan inevitably break down again, Jinsei has spent considerable time in the Temple of Bishamon praying before its holy relics, as well as testing himself in the city's many dojos.
+The second son of Akodo no Damasu Taro, Jinsei's father sent him to Toshi Ranbo after his gempukku the week before Setsuban last year to continue his training.  Believing that strength will be needed in the years ahead as peaceful relations with the Crane clan inevitably break down again, Jinsei has spent considerable time in the Temple of Bishamon praying before its holy relics, as well as testing himself in the city's many dojos.
 
 h3. **Akodo no Damasu Maya**
 
-Maya is the second daughter of [[:akodo-no-damasu-fusanosuke]], the governor of Higo, and a prominent "new guard" member of the Damasu lineage.  Like the others just past their gempukku, and as is common for second children, Maya has been sent to the Temple of Bishamon to train and study and pray and absorb the wisdom and power of Bishamon through the temple and its relics, that she might find her way in the domain and prove worth of a suitable posting, whether or not her older sister potentially inherits the governorship of Higo.
+Maya is the second daughter of Akodo no Damasu Fusanosuke, the governor of Higo, and a prominent "new guard" member of the Damasu lineage.  Like the others just past their gempukku, and as is common for second children, Maya has been sent to the Temple of Bishamon to train and study and pray and absorb the wisdom and power of Bishamon through the temple and its relics, that she might find her way in the domain and prove worth of a suitable posting, whether or not her older sister potentially inherits the governorship of Higo.
 
 h3. **Akodo no Damasu Ryuji**
 
-The eldest son of [[:akodo-no-damasu-takanari]], the Minister of War for all of Damasu lands, Ryuji came to the temple the winter before last, just after his gempukku.  It is far more common for second sons of high-ranking officials to make this kind of pilgrimage and adopt this type of training regimen, but General Takanari is a military man through and through, and understands that the first step towards being a great military leader is the cultivation of personal strength.
+The eldest son of Akodo no Damasu Takanari, the Minister of War for all of Damasu lands, Ryuji came to the temple the winter before last, just after his gempukku.  It is far more common for second sons of high-ranking officials to make this kind of pilgrimage and adopt this type of training regimen, but General Takanari is a military man through and through, and understands that the first step towards being a great military leader is the cultivation of personal strength.
 
 h3. **Akodo no Damasu Takeshi**
 
-Taskeshi is the second son of [[:akodo-no-damasu-aiji]] the Governor of Yamagata.  He is large for his age, teeming with fat and muscle, and has been studying sumo during the pilgrimage he started the year before last.
+Taskeshi is the second son of Akodo no Damasu Aiji the Governor of Yamagata.  He is large for his age, teeming with fat and muscle, and has been studying sumo during the pilgrimage he started the year before last.
 
 Takeshi has expressed an ease of being away from home for so long, given that he left the Chura domain and most of his friends and most of his extended family as a child.  He still refers to Shiro Chura as his home, despite that factually no longer being the case.
 
 h3. **Akodo no Damasu Yumiko**
 
-The eldest daughter of [[:akodo-no-damasu-shiho]], the county magistrate of Hoshizora, the county where the PCs reclaimed the stolen teaset from Village Headsman [[:tomonori]]:
+The eldest daughter of Akodo no Damasu Shiho, the county magistrate of Hoshizora, the county where the PCs reclaimed the stolen teaset from Village Headsman Tomonori:
 
 
 The Nire lineage has only 2 county magistrates and no position on the chancellary.  The magistrate positions they hold are not hereditary to their lineage, which means that Yumiko must struggle to become worthy - so accomplished that the chancellary **must** choose her to replace her mother when the time comes, despite members of every other lineage putting forth their own candidates.  It is for this purpose that Yumiko, as the eldest child of the second-highest-ranking member of her lineage, arrived in the summer of this year, seeking the strength for the path ahead of her.
@@ -2494,9 +2494,9 @@ Despite being the child of a county magistrate, Yumiko wears simple pilgrim's ro
 
 h3. **Asahina Kenta**
 
-Kenta was a shrine guard in Shinden Asahina, when an Daidoji priest named Kouji entered the shrine.  Though not armed, Kouji and his companions pushed their way towards the shrine, and Kouij began making a speech about having been told in a dream by a divine figure that the time had come for the cursed sword Shitsuten (Lost Heaven) to be wielded once again.  (See the [[Famous swords]] page for an explanation of Shitsuten.)
+Kenta was a shrine guard in Shinden Asahina, when an Daidoji priest named Kouji entered the shrine.  Though not armed, Kouji and his companions pushed their way towards the shrine, and Kouij began making a speech about having been told in a dream by a divine figure that the time had come for the cursed sword Shitsuten (Lost Heaven) to be wielded once again.  (See the Famous swords section for an explanation of Shitsuten.)
 
-Kenta tried to stop the priest, who had clearly fallen under the sword's influence, but he and his fellow guards were not strong enough, and Kenta almost died from being pummeled to the ground by the fists of the Daidoji.  The raid was later ruled as being legitimate by [[:doji-wayu]], the karo to the Crane Clan magistrate for Shinden Asahina, Doji Masayo, who later appeared with the sword at the Sunset Blade Trials and killed Damasu Tsuo in her duel.
+Kenta tried to stop the priest, who had clearly fallen under the sword's influence, but he and his fellow guards were not strong enough, and Kenta almost died from being pummeled to the ground by the fists of the Daidoji.  The raid was later ruled as being legitimate by Doji Wayu, the karo to the Crane Clan magistrate for Shinden Asahina, Doji Masayo, who later appeared with the sword at the Sunset Blade Trials and killed Damasu Tsuo in her duel.
 
 Out of the ashes of his shameful defeat, Kenta has made a warrior's pilgrimage to Toshi Ranbo, and ever since his arrival at the end of the summer of last year, Kenta has not only prayed at the Temple of Bishamon daily, but also trained unceasingly, pushing himself so that he will never again fail in his duties.
 
@@ -2504,7 +2504,7 @@ h3. **Asako Sachi**
 
 Sachi is a renoun ichthyologist, with a specialty in tropical fish, and she has reliably received invitations to every Imperial Winter Court, where she advises courtiers from each of the 7 Great Clans, as well as the Imperial Families and minor clans.  Being from Asako lands, which was always close to Damasu lands - and now borders the Damasu directly - she has visited Toshi Ranbo many times over the years, but the year before last she bought a house in the city and has spent most of her time here, especially in the Temple District.
 
-Steward [[:iori]] regards her with some amount of disfavor for 2 main reasons.  First, she left the city to attend Imperial Winter Court in Kyuden Shinjo the time before last, which forfeited her place in line (even as others such as Setsuko the beggar-nun - see below - were given priority).  Second, Iori considers it unseemly that she is so interested in all of the city's relics - she has spent just as much time in the Temple of Daikoku and their relics, handling the Wealth Bringer Rice Husk, the Key to Treasure Mountain, the Endless Warren, the Statue of Abundance, and others.  While many pilgrims seek the wisdom of all of the fortunes, Iori regards Sachi as a dilettante, hoping to gain wisdom and influence through proximity to the divine, rather than through discipline and study.
+Steward Iori regards her with some amount of disfavor for 2 main reasons.  First, she left the city to attend Imperial Winter Court in Kyuden Shinjo the time before last, which forfeited her place in line (even as others such as Setsuko the beggar-nun - see below - were given priority).  Second, Iori considers it unseemly that she is so interested in all of the city's relics - she has spent just as much time in the Temple of Daikoku and their relics, handling the Wealth Bringer Rice Husk, the Key to Treasure Mountain, the Endless Warren, the Statue of Abundance, and others.  While many pilgrims seek the wisdom of all of the fortunes, Iori regards Sachi as a dilettante, hoping to gain wisdom and influence through proximity to the divine, rather than through discipline and study.
 
 Admittedly, Sachi is not only interested in relics, as she spends perhaps more time with the Order of Sadahako than with all other temples combined, and they are so new that they have no significant relics to speak of.  However, she seems especially interested in those who personally knew the prophet Baiten, which Iori takes to only confirm his theory that she is seeking closeness to greatness rather than earnestly trying to put in the hard work to make herself great.
 
@@ -2524,7 +2524,7 @@ He returned early last year, after the peace treaty was negotiated in Imperial W
 
 h3. **Bayushi no Akiko Maiko**
 
-Wielder of the feared sword Tamashikari (Soul Anchor) - see the [[Famous swords]] page for details.
+Wielder of the feared sword Tamashikari (Soul Anchor) - see the Famous swords section for details.
 
 Maiko arrived the week before Setsuban last year on a warrior's pilgrimage.  She has stayed in the city testing herself in local dojos and working her way through the Order of Bishamon’s Temple relics to pray and further strengthen herself for whatever future trials lie ahead of her now that her work hunting moon cultists in Scorpion lands has been declared to be complete.
 
@@ -2610,7 +2610,7 @@ Chokoku arrived in Toshi Ranbo mid-spring, looking to further test and strengthe
 
 h3. **Matsu no Hiroshi Emiko**
 
-Emiko is in the position that [[:doji-no-tsume-moe]] expects to be in a few years.  She has married, had children, and having discharged her filial responsibility to provide heirs, is now taking some time away to strengthen herself.  She stopped in Toshi Ranbo in what was supposed to be the middle of a long warrior's pilgrimage, visiting many temples to Bishamon, first in Lion lands and then later in Crab lands, but she was so overcome by the presence of mighty Bishamon here in his Temple in Toshi Ranbo that rather than leaving in Autumn of last year as planned, she has stayed on to pray before each temple relic, as she trains and tests herself in the city's many dojos.
+Emiko is in the position that Doji no Tsume Moe expects to be in a few years.  She has married, had children, and having discharged her filial responsibility to provide heirs, is now taking some time away to strengthen herself.  She stopped in Toshi Ranbo in what was supposed to be the middle of a long warrior's pilgrimage, visiting many temples to Bishamon, first in Lion lands and then later in Crab lands, but she was so overcome by the presence of mighty Bishamon here in his Temple in Toshi Ranbo that rather than leaving in Autumn of last year as planned, she has stayed on to pray before each temple relic, as she trains and tests herself in the city's many dojos.
 
 Emiko fought on the southern front of the war, under in the infantry forces of General Matsu Agetoki, and personally participated in the failed siege of Kyuden Kakita.  Now that the war is over, she has been struck by the difference between training to fight in a military unit and training to fight as an individual.  She realizes that although various sensei did emphasize the differences, it was not until she found herself in battle that she truly understood the distinction, and she wonders whether it would be possible to transmit the wisdom she has gained now that she has experienced both.
 
@@ -2620,9 +2620,9 @@ Emiko has two scars on her face she recieved during the war, and she uses makeup
 
 h3. **Matsu Yokijiro**
 
-The wielder of the great sword Akuzuki (Wicked Moon)  - for more information on this sword, see the [[Famous swords]] page.
+The wielder of the great sword Akuzuki (Wicked Moon)  - for more information on this sword, see the Famous swords section.
 
-For information on Yokijiro himself, see the biography on his character page at [[:matsu-yokijiro]].
+For information on Yokijiro himself, see the biography on his character page at Matsu Yokijiro.
 
 Last year, Yokijiro fought and won his duel in the Sunset Blade Trials against the acclaimed duelist Doji Reju, a man who has always won every duel against any lesser or equal opponent, proving that Yokijiro's skill and sword are so far beyond the great duelist Reju than even Reju was forced to concede the superiority of his opponent.
 
@@ -2646,7 +2646,7 @@ After the Moto defeated an Oni Lord at the Battle of Kussate Iru, and Moto Gaher
 
 h3. **Setsuko the beggar nun**
 
-Setsuko has been coming to the city off and on for decades seeking Bishamon's blessings.  Every year she must return to Otosan Uchi during the week of the Bon Festival, to hunt the rogue Shinigami which killed her family.  This means that she has never stayed in Toshi Ranbo for long enough to gain access to all of the temple's relics, though last spring Steward [[:iori]], for the first time, allowed her to don the Helm of Discerning Valor before she left the city to return to Otosan Uchi, allowing her to jump ahead of numerous others who had been waiting far longer, and granting her months worth of the helm's wisdom.
+Setsuko has been coming to the city off and on for decades seeking Bishamon's blessings.  Every year she must return to Otosan Uchi during the week of the Bon Festival, to hunt the rogue Shinigami which killed her family.  This means that she has never stayed in Toshi Ranbo for long enough to gain access to all of the temple's relics, though last spring Steward Iori, for the first time, allowed her to don the Helm of Discerning Valor before she left the city to return to Otosan Uchi, allowing her to jump ahead of numerous others who had been waiting far longer, and granting her months worth of the helm's wisdom.
 
 Although it's unusual for Iori to make an exception for someone who spends so little time in the Temple of Bishamon, he asserted that the holiness of her mission was important enough to warrant the irregularity.  This caused significant upset among other relic-seekers, all of whom were more wealthy and powerful than Setsuko the beggar-nun, but Iori asserted that such things are of no consequence to mighty Bishamon, and the only question he should consider is what higher purpose Bishamon wishes him to support. 
 
@@ -2672,7 +2672,7 @@ h3. **Shinjo no Dorai Yuriko**
 
 The Dorai domain of the Shinjo house controls the most fertile wheat fields in the Firefly River Valley, making them the owners of the breadbasket of northwestern Rokugan.  Toshi Ranbo imports considerable wheat flour from the Dorai, and for decades Yuriko's father Rakuo has negotiated these imports on behalf of his daimyo and other wheat-sellers.  This year the Dorai have shifted to importing unmilled wheat directly and letting local laborers mill it into flour, and so as Rakuo's eldest child, Yuriko has gotten a front row seat to the business negotiations which are involved in such matters.
 
-Rakuo has spent decades in and out of Toshi Ranbo, and has expressed considerable interest in audiences with temple relics, but due to his lack of availability, he has usually lost his place in line, and Steward [[:iori]] appears to have a relatively low opinion of him.  However, Rakuo has had his daughter stay in Toshi Ranbo for as long as it takes, so she has not left the city for a year, ever since she arrived here late in the year following her gempukku in the spring.  [[:iori]] has shown much more favor towards her than her father, and Yuriko will likely have been granted personal time with every temple relic by next summer.
+Rakuo has spent decades in and out of Toshi Ranbo, and has expressed considerable interest in audiences with temple relics, but due to his lack of availability, he has usually lost his place in line, and Steward Iori appears to have a relatively low opinion of him.  However, Rakuo has had his daughter stay in Toshi Ranbo for as long as it takes, so she has not left the city for a year, ever since she arrived here late in the year following her gempukku in the spring.  Iori has shown much more favor towards her than her father, and Yuriko will likely have been granted personal time with every temple relic by next summer.
 
 Her father came with her when she arrived in the city last year, so his name will turn up on any lists of pilgrims interested in relics, though he otherwise does not fit the pattern that the PCs are looking for:
 
@@ -2682,7 +2682,7 @@ By now the PCs are already quite familiar with Shione Haru, whose name is pronou
 
 As he has explained, Haru came to the city last winter with his brother-in-law Putera (poo-TER-ah!) to seek Bishamon's wisdom as to how they should steer their clan's future.  Putera ultimately decided that he had gotten all the relic access he needed, but Haru (ha-ROO!) has stayed for over a year, spending the time setting up business deals with his sugarcane empire as the primary owner of the Silken Syrum Consortium, which provides literally all of the sugarcane products to the northern empire.
 
-Haru (ha-ROO!) evidently made a poor impression when, in the Yasuki style, he tried to bribe his way into getting quicker relic access.  When told that extra donations were only good up to a point, and time and preparation was required, especially for accessing certain relics, Haru (ha-ROO!) immediately asked just how much of a donation would be sufficient to bypass this.  It was almost as if it was inconceivable to him that there could be some requirement that more money could not bypass, which did not kindly dispose Steward [[:iori]] towards him.
+Haru (ha-ROO!) evidently made a poor impression when, in the Yasuki style, he tried to bribe his way into getting quicker relic access.  When told that extra donations were only good up to a point, and time and preparation was required, especially for accessing certain relics, Haru (ha-ROO!) immediately asked just how much of a donation would be sufficient to bypass this.  It was almost as if it was inconceivable to him that there could be some requirement that more money could not bypass, which did not kindly dispose Steward Iori towards him.
 
 Over the past year, Haru (ha-ROO!) has made frequently trips to the Temple of Bushamon, but has rarely stayed overnight, and not for any significantly length of time, not even during holy weeks of prayer and fasting.
 
@@ -2700,7 +2700,7 @@ Togashi Ichiharu, Mirumoto Kiyoshi, and Kitsuki Hina:
 
 This trio of traveling adventurers have been to the city many times before, but returned for the first time in nearly a decade late last year, arriving just before the Harvest Moon of the Fall Equinox.  This is not the first time that Kiyoshi or Hina have expressed an interest in temple relics, but in the past Togashi Ichiharu always eschewed such things, as part of his vows as an ascetic Ize Zumi monk.
 
-It's unclear what changed last year to cause him to seek out the encounters with temple relics, but he has remained in the city for most of the intervening time.  Steward [[:iori]] is somewhat suspicious of him, though not in the sense of believing his motives to be impure, for the piousness of the Togashi is known throughout the Empire.  However, Iori has expressed that Ichiharu is likely the victim of false doctrines, as he asserts that "the mad monks of Tohashi mountain" are as likely to confuse people away from enlightenment as they are to help people achieve it.
+It's unclear what changed last year to cause him to seek out the encounters with temple relics, but he has remained in the city for most of the intervening time.  Steward Iori is somewhat suspicious of him, though not in the sense of believing his motives to be impure, for the piousness of the Togashi is known throughout the Empire.  However, Iori has expressed that Ichiharu is likely the victim of false doctrines, as he asserts that "the mad monks of Tohashi mountain" are as likely to confuse people away from enlightenment as they are to help people achieve it.
 
 Iori also believes that Ichiharu may be frequently leaving the city or even the domain, despite being told to remain in the city to be on hand if the opportunity arises to be granted a private audience with a relic.  Every time Ichiharu has been summoned he has responded, but at other times the enigmatic monk is frequently nowhere to be found, not even when Kiyoshi and Hina's whereabouts are accounted for.
 
@@ -2724,7 +2724,7 @@ There weren't any shocking living situations, though there were a few minor surp
 * **Asako Sachi** has a small city home which she evidently has barely used since buying it.  She has been so popular with the city's courtiers, and with the daimyo Damasu Chiho in particular, that she has been granted semi-permanent quarters in the castle keep.  Strangely, she seemed to have some other third residence, since she spends at least a few days each week elsewhere in the city, and not at her rented home.  Your staff initially assumed she was pursuing romantic entanglements, but it turned out to be the opposite - she frequently spends the night praying at the Temple of Sadahako, alternating between the smaller one in the Temple District, and the larger temple a mile outside the city.
 * **Hida no Noriko Takeo** is renting a house in the merchant neighborhood to the northeast of Merchant's Cross Lake, specifically the one which used to be a samurai neighborhood.  When asked, his wife explained that she hadn't realized the neighborhood status had changed when she rented it.  This would be in keeping with a separate real estate blunder she also made, in which she bought several warehouses from the Akio merchant family, apparently not realizing that they were in northeast Owari too far from the city, canals, and Imperial roads to be useful.  Your staff described Takeo as smiling fondly as his wife described the home rental snafu, reporting that he seems charmed rather than annoyed by his wife's poor household management skills.  (Presumably, if this was something he valued highly enough, he would have married a Yasuki instead of a fellow Hida.)
 * **Kuni Isamu** told the temple that they could find him through the local Witch Hunters (plural!  Toshi Ranbo is one of only 4 cities in the Empire to have more than 1 Witch Hunter, along with Otosan Uchi, Ryoko Owari, and the Yasuki Estates).  However, he turned out to be living with his friend and fellow recipient of the Order of the Precious Crown, Shiba Asayo.  Both of them appear to be training dogs for sport, to compete in some kind of local dogfighting circuit.  Evidently they are engaged in a project to prove that dogs initially trained for hunting and then turned into fighters will be superior to classically trained fighting dogs in certain respects, and they perform this project in their spare time on the grounds of Asayo's rented country home in Hikobayashi, just outside the city.
-* **Ikoma Haruto** has a small rented home in the city, along with other visiting members of the Ikoma family.  It's surprising that he does not stay with Ikoma Aimi, the Ikoma Emmisary to the Damasu, especially since his father is the Ikoma Family Deputy Minister of War, and is from the same ruling Ikoma lineage as Aimi.  More surprising is that when your staff visited Aimi's estate, they were followed out by a Phoenix merchant named [[:shiba-no-kenshin-basho]], who inquired about their business and position.  Upon learning that the visiting monks report to the karmic inquisitors, Basho immediately made a 4 bu, 1 zenni donation (no one would ever give a gift of exactly 4 bu, due to the number's association with death), and asked to be informed when you retuned to the city, so he could speak to you about his business as a horse trader.
+* **Ikoma Haruto** has a small rented home in the city, along with other visiting members of the Ikoma family.  It's surprising that he does not stay with Ikoma Aimi, the Ikoma Emmisary to the Damasu, especially since his father is the Ikoma Family Deputy Minister of War, and is from the same ruling Ikoma lineage as Aimi.  More surprising is that when your staff visited Aimi's estate, they were followed out by a Phoenix merchant named Shiba no Kenshin Basho, who inquired about their business and position.  Upon learning that the visiting monks report to the karmic inquisitors, Basho immediately made a 4 bu, 1 zenni donation (no one would ever give a gift of exactly 4 bu, due to the number's association with death), and asked to be informed when you retuned to the city, so he could speak to you about his business as a horse trader.
 
 h3. Initial follow-up to the initial findings
 
@@ -2764,7 +2764,7 @@ Here's a list of the 10 most famous swords which the PCs was able to learn about
 
 h4. **Amatsukami no Ken** (Heavenly Sovereign's Sword)
 
-This is the ancestral sword of the Damasu, currently wielded by their daimyo, [[:akodo-no-damasu-chiho]].
+This is the ancestral sword of the Damasu, currently wielded by their daimyo, Akodo no Damasu Chiho.
 
 This sword was not forged by human hands, and was given to Akodo Damasu during a trance he entered while praying to his ancestors.  It is adorned with symbols of the heavens - clouds and stars - etched along its blade, and regardless of whether exposed to sunlight or moonlight, its blade glints and gleams with the light of the stars.
 
@@ -2772,7 +2772,7 @@ It’s particularly noted for its role in the Battle of the Shifting Mists, the 
 
 Akodo Damasu's wisdom is channeled through this blade, and brings clarity in leadership to all who have come after him, guiding its wielder through political turmoil and battle alike with an almost preternatural foresight.  The sword was lost when the Tsume took the city of Toshi Ranbo, and it was taken as a trophy by Tsume Yasujiro who became the governor of Toshi Ranbo under Tsume occupation.
 
-When [[:kakita-kenji]] forced the governor to step down by winning a duel against his yojimbo Tsume Koreshiba, it was decided that the sword should stay in the city, and it was passed onto Doji Hirota, who married the new governor, Tsume Momoko.  As a result, the sword was returned to its rightful Damasu ownership when Akodo Toturi retook the city.
+When Kakita Kenji forced the governor to step down by winning a duel against his yojimbo Tsume Koreshiba, it was decided that the sword should stay in the city, and it was passed onto Doji Hirota, who married the new governor, Tsume Momoko.  As a result, the sword was returned to its rightful Damasu ownership when Akodo Toturi retook the city.
 
 h4. **Ohari** (Big Needle)
 
@@ -2782,7 +2782,7 @@ The sword gained its reputation during the Gozoku.  The Tsume house and their al
 
 Tsume Nobura was made the daimyo of the new Nobura domain, and while acting as general of his new retainers, he tried to expand his holdings by pushing into Hiyu lands.  The Damasu contributed troops to the support of their southern neighbors, and General Fumikazu personally struck down General Nobura, piercing his armor with his family sword Ohari, which stabbed (rather than slashed) through the heavy armor like a needle passing through cloth, scattering his troops and winning the battle in that moment.
 
-[[:akodo-no-damasu-eisuke]] retold this history and proudly displayed Ohari to inspire his men at each of the 4 sieges of Owari, who were so committed to the city that they were willing to fight and die to the last rather than surrender.  After Eisuke was promoted to the position of Minister of Revenue of the Damasu, he passed the sword onto his daughter, [[:akodo-no-damasu-gisako]], who succeeded him as governor or Owari, as the sword now holds a special reputation as a defender of the city.
+Akodo no Damasu Eisuke retold this history and proudly displayed Ohari to inspire his men at each of the 4 sieges of Owari, who were so committed to the city that they were willing to fight and die to the last rather than surrender.  After Eisuke was promoted to the position of Minister of Revenue of the Damasu, he passed the sword onto his daughter, Akodo no Damasu Gisako, who succeeded him as governor or Owari, as the sword now holds a special reputation as a defender of the city.
 
 The family considered vowing that the sword should never leave the city, but its past successes in faraway battles led them to decide against this, for this would undersell the power of this sword.  After all, Ohari has had success in many battles, both in and out of the city of Owari, so while the family has decided that the sword should stay at the side of the Riori governor of the Owari province, it may leave when the governor leaves, and be deployed anytime the governor rides to battle.
 
@@ -2836,7 +2836,7 @@ The blade now carries with it not only the residual patterns from the scorching 
 
 This sword is said to be at its most powerful when attacking - it has never participated in a broken siege as the attacker.  However, the times when its wielders have been defeated have invariably been when on the defense, when the sword (while great in power in all situations) is less able to bring is awesome might to bear.  During the Lion/Crane war, the Lion clan was consistently on the offense, which allowed for few circumstances in which the sword could be wielded effectively.
 
-Kasai Tsume is currently in the posession of [[:doji-no-tsume-takashi]], the son of Tsume Retsu and current daimyo of the Tsume family.
+Kasai Tsume is currently in the posession of Doji no Tsume Takashi, the son of Tsume Retsu and current daimyo of the Tsume family.
 
 h4. **Shitsuten** (Lost Heaven)
 
@@ -2874,7 +2874,7 @@ While being a tree is not inherently bad, and the souls of trees may exist conte
 
 Bayushi Aramoro was the brother of Bayushi Shoju, the daimyo of the Scorpion Clan, when the treasonous moon cult tried to overthrow him.  Although the moon cult was defeated, it did kill his children, and Bayushi Shoju died soon after, from wounds suffered at the hands of a poisoned blade.  Aramoro became the new daimyo and married Shoju's widow, Bayushi Kachiko (known as the Mistress of Lies).
 
-There were many trees planted in Traitor's Grove in the years following the destruction of the moon cult, as those who offered knowing assistance in any way to the coup were found and executed there.  Bayushi no Akiko Otera was a county magistrate from the neighboring Akiko House of the Bayushi family, and he was instrumental in uncovering the moon cult before the coup could strike.  He and his karo [[:bayushi-no-akiko-maiko]] were promoted and serve as agents of Bayushi Aramoro, now performing duties which Aramoro previously performed for his brother Shoju.
+There were many trees planted in Traitor's Grove in the years following the destruction of the moon cult, as those who offered knowing assistance in any way to the coup were found and executed there.  Bayushi no Akiko Otera was a county magistrate from the neighboring Akiko House of the Bayushi family, and he was instrumental in uncovering the moon cult before the coup could strike.  He and his karo Bayushi no Akiko Maiko were promoted and serve as agents of Bayushi Aramoro, now performing duties which Aramoro previously performed for his brother Shoju.
 
 Tamashikari (Soul Anchor) was the sword previously wielded by Aramoro, but now that he is daimyo he has given it to Bayushi Maiko, who unlike Otera is an accomplished duelist, and therefore a better candidate to wield the sword.  Although there are a few more famous swords in Scorpion lands, including **Itsuwari**, their Ancestral Sword now wielded by Aramoro, there is no sword more feared than Tamashikari, which anchors itself to the souls of those it kills, ensuring that those souls may be later bound to trees in Traitor's Grove at a later time.
 
