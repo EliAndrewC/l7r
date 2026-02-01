@@ -471,7 +471,7 @@ LARGE CITIES:
 
 Otosan Uchi is the capital of the Empire and is also its largest city, with a total population of approximately 1 million humans.
 
-Ryoko Owari (aka Kyuden Miyoko) is the second-largest city in the Empire, with a population of approximately 500,000.  It is located south of Beiden Pass, which cuts through the Spine of the World Mountains and is the central trading hub for the southern and western halves of Rokugan.  Remember that the capital city of most domains contains only around 5% of the domain's population.  Yet for a city like Ryoko Owari, the city might be half or more of the population of the Miyoko domain (the Miyoko are the vassal House of the Shosuro family which control Ryoko Owari).
+Ryoko Owari (aka Kyuden Michio) is the second-largest city in the Empire, with a population of approximately 500,000.  It is located south of Beiden Pass, which cuts through the Spine of the World Mountains and is the central trading hub for the southern and western halves of Rokugan.  Remember that the capital city of most domains contains only around 5% of the domain's population.  Yet for a city like Ryoko Owari, the city might be half or more of the population of the Miyoko domain (the Miyoko are the vassal House of the Shosuro family which control Ryoko Owari).
 
 Toshi Ranbo (aka Kyuden Damasu) is the third-largest city in the Empire, with a population of over 300,000 (the population used to be even higher, but recent war and other fighting has diminished the population by tens of thousands).
 
@@ -481,7 +481,7 @@ City                Approximate     Owned by
                     Population
 
 Otosan Uchi         1,000,000       Imperial (Hantei)
-Ryoko Owari           500,000       Scorpion (Shosuro Family, Miyoko house)
+Ryoko Owari           500,000       Scorpion (Shosuro Family, Michio house)
 Toshi Ranbo           300,000       Lion (Akodo Family, Damasu house)
 The Yasuki Estates    250,000       Crab
 Kyuden Daidoji        200,000       Crane
@@ -6622,6 +6622,16 @@ According to Moto Zolzaya, when the Moto returned to their ancestral homelands, 
 
 WASP BOUNTY HUNTERS
 
+As of this writing, my current campaign is the Wasp Bounty Hunters campaign, which has this three-paragraph description:
+
+It’s been 15 years since Tsuruchi, first of his name, founded the Wasp clan, a minor clan whose charter authorizes all Wasp samurai to pursue Imperial bounties. Because most Imperial magistrates are reluctant to create major political incidents over minor bounties, the Wasp have already settled into an important niche within the landscape of the Emerald Empire.
+
+As a tiny minor clan, the bounties which would be a pittance to even an average-sized House represent a significant fraction of the Wasp Clan’s income. This creates a constant tension between the pursuit of unflinching justice and the temptation of unscrupulous profit. The actions taken by the clan’s samurai in these formative years may determine whether the Tsuruchi name represents honorable enforcers or desperate mercenaries.
+
+The Wasp now stand at the top of the “Three Man Alliance,” a pact between the Wasp, Fox, and Sparrow clans in the southeastern reaches of Rokugan. The PCs serve as yoriki (assistants) to Tsuruchi Kyoma, a close friend of the Wasp daimyo who has been tasked with overseeing bounty operations among their southern allies. While Kyoma focuses on cementing the bonds of the Three Man Alliance through long nights of fellowship and shared cups, his yoriki are left to carry the heavy mantle of administrative and moral authority. Their decisions about which bounties are pursued and how the law is applied will shape the legacy of the Wasp in the eyes of the Empire.
+
+Here's my writeup on the creation of the Wasp clan:
+
 The Spine of the World Mountains bisect the Empire in two, with Beiden Pass being the main passage between the northern and southern halves of the central Empire.  In the eastern Empire, ships are the fastest and most efficient way to move people and goods up and down the coast, and a narrow mountain pass 150 miles inland is the best way to travel from one side of the mountains to the other (as Beiden pass is ~400 miles to the northwest along the mountain range).
 
 This mountain pass is located in the Hachinaga ("long wasp") province, a dynasty province which the Shin lineage has ruled for over a thousand years.  Their progenitor, Bayushi Shin, personally swore fealty to Lord Bayushi, and his descendents later became part of the Kyo vassal house of the Bayushi family, tasked with defending the valuable mountain pass from the Zenji vassal house of the Matsu Family of the Lion Clan to the north.
@@ -6720,6 +6730,254 @@ Because the Wasp domain is very small (it was a single small but strategically i
 Among other things, it remains to be seen whether Tsuruchi's particular idiosyncracies will become the standard for the Wasp in generations to come.  The most notable example is swords: Tsuruchi has left the broken blade of his ancestral sword Isshin embedded in the floor of the great hall of Hachinaga Keep, where it is seen by visitors.  The broken hilt and base of the blade are displayed on the alter of an ancestral shrine in the corner of the same room.  Tsuruchi himself has not chosen another sword, using only borrowed swords when necessary, declaring that there shall be no Ancestral Sword of the Wasp, and refusing to so much as carry a sword while at home in Hachinaga Keep.
 
 Because their daimyo exhibits this behavor, many of Tsuruchi's retainers have chosen to show deference to their lord by mimicing his behavior, and as such it is rare to see a Wasp clan samurai carrying a sword in Hachinaga Keep.  And because many guests worry about offending the sensibilities of their hosts, visitors to Hachinaga Keep also frequently shed their daisho before entering.  Such things lead many to wonder how a clan willing to so flagrantly violate ancient traditions can long survive, and whether the next generation of Wasp will revert to the more accepted ways of bushido.
+
+Here is a timeline of events related to the Wasp (charting many of the events described above) and weaving in events relevant to past campaigns as a reference for new and returning players:
+
+As a reminder, the Karmic Inquisitors campaign took place in the winter of 1129 and ended in the 1st month of 1130.  This campaign begins two months later, in the 3rd month of 1130 (the final month of spring).
+
+| *Year* | *Events* |
+| *???* | At the dawn of the Empire, the warrior Shin swears fealty to Lord Bayushi, who grants Bayushi Shin authority over Hachinaga pass, an important mountain passage through the Spine of the World Mountains.
+A nearby warlord named Myo also swears fealty to Lord Bayushi and is permitted to retain his existing territory as a loyal retainer of the newly founded Scorpion clan. |
+| 417 | During the reign of Hantei the Tenth and the establishment of the Six Ministries, the descendants of Bayushi Shin formally swear fealty to the descendants of Bayushi Myo, and the Shin lineage is formally recognized as the provincial lineage with rulership the Hachinaga province and granted a seat on the Myo chancellary. |
+| 1088 | Bayushi no Kyo Chitose becomes the latest Shin lineage governor of Hachinaga. |
+| 1089 | Governor Chitose enters into a torrid love affair with Matsu no Zenji Natsu, a bushi-ko from the neighboring Lion domain. |
+| 1090 | Chitose breaks off the his engagement with Bayushi no Kyo Ryoko, but is denied permission from his daimyo to marry his true love. |
+| 1091 | Chitose and Natsu celebrate the birth of their first child. |
+| 1105 | Chitose and Natsu's eldest son chooses the name Tsuruchi for himself at his gempukku. |
+| 1110 | Bayushi no Kyo Chitose hosts a late winter banquet, inviting his consorts Lion family members from the neighboring Zenji vassal house of the Matsu family.  He and his consort are both assassinated during a brawl which appears to have been staged as cover for these killings. |
+| 1111 | Matsu no Zenji Ginjiro force marches a hastily assembled army to take Hachinaga Keep.  Tsuruchi offers to have the entire Shin lineage swear fealty to the Zenji daimyo, and is refused.  Ginjiro captures the keep, accepts Tsuruchi's surrender, takes possession of the ancestral sword of the lineage (Isshin), and releases Tsuruchi and the other remaining survivors.  Ginjiro is appointed as the new Lion governor of the Hachinaga province. |
+| 1112 | After becoming an Imperial magistrate, Tsuruchi takes many of his former retainers on as his yoriki (assistants / lieutenants) and quickly makes a name for himself as a ruthlessly effective bounty hunter. |
+| 1113 | Kakita Yoshi, the Imperial chancellor, meets with Tsuruchi and shares Ginjiro's, revealing the perfidity of Tsuruchi's uncle and offering Crane support if Tsuruchi wishes to seek vengeance.  |
+| 1114 | While he continues remitting bounties with impressive ferocity, Tsuruchi gathers an increasingly large collection of allies and mercenaries as he and his former retainers begin planning the retaking of Hachinaga Keep. |
+| 1115 | Tsuruchi and his retainers infiltrate Hachinaga Keep after a late winter thaw and overwhelm its defenses.  After his uncle Ginjiro surrenders and returns the sword Isshin while refusing to admit wrongdoing, Tsuruchi drives the ancestral sword into the floor of the great hall, snapping it in two and using the broken base of the sword to execute his uncle. |
+| 1116 | The Imperial chancellary approves Kakita Yoshi's proposal to create a new minor clan, elevating Tsuruchi to the position of Wasp clan daimyo.  The Emperor accepts his chancellary's recommendation and signs the Wasp clan charter, granting all Wasp clan samurai the authority to pursue Imperial bounties. 
+Akodo no Damasu Kojima, daimyo of the Damasu house, executes a Tsume noble for smuggling without bringing the matter before any Imperial magistrate. |
+| 1117 | Tsuruchi and the daimyo of the Fox and Sparrow clans form the [[Three Man Alliance]].
+Doji no Tsume Retsu, daimyo of the the Tsume house, invades Toshi Ranbo in retaliation, taking the city in a sneak attack immediately after a giant flood which prevented any immediate reinforcements from other Lion domains.  Kojima is killed along with most of his extended family and almost all of his high-ranking retainers from the Damasu chancellary and ministries. |
+| 1118 | Tsuruchi marries Doji Naomi (who becomes Tsuruchi Naomi), the youngest daughter of Doji Kuwanen.
+The Lion clan attempts to retake the city after the spring thaw.  Doji Chuto, General of the Northern Armies of the Crane, successfully defends it, killing Akodo Toturi's brother, resulting in Toturi becoming the next daimyo of the Lion clan. |
+| 1120 | The prophet Baiten reveals that the next Day of Thunder is at hand.
+Prince Hantei Fukuhachi prevents the government of Toshi Ranbo from prosecuting Baiten.
+The prophet Baiten returns to the city and is murdered - it later becomes apparent this was ordered by the moon cultist Imperial Magistrate Shinjo Jotsu.
+Jotsu's Imperial magistrate colleague Otaku Taira becomes a ronin and goes on a religious pilgrimage to gather forces to oppose the moon cult. |
+| 1121 | The Lion Clan retake the city of Toshi Ranbo, escalating tensions and triggering a buildup of troops on both sides of the border. |
+| 1122 | The Lion/Crane war begins. |
+| 1123 | The Day of Thunder occurs.
+Bayushi Shoju is murdered.  His brother, Bayushi Aramoro later marries his widow, Bayushi Kachiko.
+Hida Kisada is wounded, and his oldest daighter Hida O-Ushi, the Crab Thunder, is killed.
+Jama no Iuchiban Kohaku arrives late to the Day of Thunder, fails to stop the 7 Thunders from defeating Shinjo Jotsu, and takes revenge by slaying the remaining Thunders.  Oni no Kohaku kills hundreds of samurai before being slain.  Kohaku announces that all loyal moon cultists should take refuge in Kyuden Shinjo, where the moon cult remains strong. |
+| 1124 | Shinjo Hanari executes Shinjo Yokatsu for high treason against the Empire, and declares a blood debt on his line, and becomes daimyo of the Unicorn clan. |
+| 1127 | The Black Scrolls are opened and recharged at the Forgotten Tomb.
+Kuni Yori is executed for high treason against the Empire for experimenting with moon cultists and the practice of maho.  Kuni Utagu becomes the new Jade Champion.
+Iuchi Shahai and the remaining moon cultists attempt to assassinate the Emperor at Imperial Winter Court at Kyuden Shinjo.
+Shinjo Hanari excecutes Iuchi Daiyu, the daimyo of the Iuchi family (and Shahai's father), and declares a blood debt on Shahai's line.  Iuchi Morijiro (a priest rather than a bushi) becomes daimyo of the Iuchi family. |
+| 1128 | The Crab clan, under the direction of the Kuni Witch hunters, begin experimenting with the Black Scrolls. |
+| 1129 | The kumosaya fungal blight destroys half of the Damasu rice and soybean crop. |
+| 1130 | Tsuruchi Naomi begins considering suitors for her eldest son Ichiro (the future daimyo of the Wasp). |
+
+
+
+
+
+THE MEASURE OF STANDING AND THE ACCORDANCES OF RANK
+
+The Wasp Bounty Hunters campaign is one in which the specifics of rank and money are especially important, even by the standards of Rokugan.  Here are some notes about this:
+
+At the dawn of the Empire, the Lady Doji established the **Measure of Standing**, the system determining what actions are and aren't appropriate between members of different ranks.
+
+All samurai have a rank, and there are 15 ranks.  This is an in-universe system of ordering the peerage of the Empire.  The Emperor is the only person who is "of the fifteenth rank", and a samurai just past their gempukku with no government post and no immediate family of a high rank is "of the first rank".
+
+h3. Baseline ranks
+
+This is the current standard baseline of what types of people inhabit the various ranks (this has changed somewhat from the early days of the Empire, at which time there were only ten ranks):
+* Rank 15: the Emperor (and no one else)
+* Rank 14: Clan Daimyo
+* Rank 13: Family Daimyo
+* Rank 12: House Daimyo
+* Rank 11: Chancellor
+* Rank 10: Minister
+* Rank 9: Deputy Minister
+* Rank 8: Governor
+* Rank 7: Provincial Minister
+* Rank 6: Deputy Provincial Minister
+* Rank 5: County Magistrate
+* Rank 4: Squad Sergeant
+* Rank 3: Corporal
+* Rank 2: rank and file legionnaires
+* Rank 1: unposted samurai with no higher-ranking immediate family
+
+Ranks have an "upper" and "lower" level, which we usually represent with decimals on character sheets, e.g. "Rank 7.5" would be referred to as "the upper seventh rank" and "Rank 7.0" would be referred to as "the lower seventh rank".
+
+h3. Accordances of Rank
+
+Once the Lady Doji had detailed the Measure of Standing, she proceeded to establish the **Accordances of Rank**, which detail the rights, privileges, and restrictions which samurai nobles must respect in relation to one another and to the lower classes, i.e. heimen (half-people) and hinin (non-people).
+
+To this day, Lady Doji's guidance continues to dictate all aspects of life, ranging from:
+* the clothing that can be worn by people of different classes and ranks
+* under what circumstances someone is expected to greet another by nodding, bowing, scraping, kneeling, pressing one's head to the floor, etc
+* the provisions of hospitality, e.g. under what circumstances a host should merely provide room and board for a guest, as opposed to being expected to give up their own quarters to an honored guest
+
+Money (and the monetary value of certain gifts) is also one of the Accordances of Rank:
+* The stipend a samurai receives from their daimyo should be the square of their formal Rank, i.e. people of the seventh rank should have a stipend of 49 koku per year.  (This is the same for people of both the upper and lower seventh rank, i.e. people whose characters sheets say Rank 7.0 and Rank 7.5.)
+* When a gift is given, the value of the gift is always based on the rank of the highest-ranking person involved, regardless of whether that person is on the giving or receiving side.
+* A **courtesy gift** is given when visiting the home or office of someone with whom you have an established personal or professional relationship.  A courtesy gift has no expectation of value, regardless of the relative ranks of those involved.  ("I happened to pass by a fruit vendor on the way over here and thought you might enjoy a fresh persimmon"  would be equally appropriate for a clerk of the second rank or a member of the Imperial Chancellary, provided you are already friends or colleagues.)
+* A **token gift** should be given by anyone visiting the home or office of someone with whom they do not have a close personal or professional relationship.  The value of that gift should be zeni equal to the highest rank of anyone involved.
+** When a retainer is visiting directly on behalf of a higher-ranking official, the rank of their master is used, but if the retainer is merely carrying out their general duties, then the retainer's rank is used.
+** When a guest is meeting with a subordinate, the rank of the head of their office or household is used rather than the rank of the subordinate who is representing their master.
+* When making a request which would require their host to expend an extra effort above and beyond the normal day-to-day responsibilities of their position, a **consideration gift** is appropriate.  The expected value of a consideration gift should be counted in bu rather than zeni (i.e. bu equal to the rank of the highest-ranking person involved).
+* A **compensatory gift** is called for when making a request which is understood to be especially burdensome.  The value of a compensatory gift should be counted in koku rather than bu.
+* Above and beyond these baseline gifts, guests and petitioners are expected to provide an **indemnity gift** to account for extra expenses incurred by requests which rise above the expectations of normal duty and hospitality.
+
+h3. The Doctrine of Three Steps
+
+Interactions between people of different ranks are governed by the **Doctrine of Three Steps**:
+* Two people are of **peer standing** if they are no more than 1 rank apart.
+* Two people are of **accordant standing** if they are no more than 3 ranks apart, and are otherwise of **discordant standing** with respect to one another.
+* Some interactions require peer standing and others merely require accordant standing.
+* These comparisons use only the baseline numbers, e.g. someone of the upper seventh rank is of peer standing with someone of the lower sixth rank, despite there being a "1.5 rank" difference between them.
+* A person's **merits** may raise or lower their status for the purpose of determining their peer standing with respect to others of accordant standing, but does not alter their discordant standing among significantly higher or lower ranked individuals.
+** Players can think of merits as the advantages and disadvantages which affect their perceived rank, though magistrates may take other things into account.  The legal standard for considering merits (as originally defined by Soshi Saibankan) is **the totality of circumstance**, which can include anything the magistrate considers relevant.
+
+The Accordances of Rank apply the Doctrine of Three Steps to dictate everything from banquet seating:
+* Two people must be of accordant standing to eat at the same small table.
+* When sizeable groups are seated around a large table (e.g. the banquet table of a lord's great hall), they must be ordered such that all are seated beside others of accordant standing.
+* When small groups of discordant standing eat around the same large table, a respectful distance must be maintained between them, proportionate to their differences in rank.
+
+...to challenging other samurai to duels:
+* Challenges are considered **proper** or **improper** irrespective of rank.  What constitutes grounds for a proper challenge has nothing to do with rank, but whether a proper challenge must be accepted is determined by the rank of the parties involved.
+* A samurai MUST accept proper challenges from an equal or higher ranking bushi.
+* A samurai MAY **dismiss** a proper challenge from a lower ranking samurai who is of discordant standing, i.e. a samurai more than 3 **formal ranks** (i.e. your legal rank, not considering merit) below you is always **dismissible**.
+* In other words, a samurai more than 3 ranks above another is **beyond the reach** of the challenger even if the challenge is valid.
+* Conversely, the Doctrine of Three Steps dictates that a higher-ranking challenged party is **within the reach** of the challenger (such that the challenger is not dismissible) if there are no more than 3 formal ranks between them.
+* A samurai MUST accept a proper challenge from a lower-ranking bushi of peer standing.
+** As mentioned above, while accordant standing is determined by formal rank, peer standing is adjusted by the merits of each party.
+** Therefore a magistrate might rule that after considering the merits of two samurai of accordant standing, the totality of circumstance grants the challenger peer standing with the challenged party despite being of lower rank, and thus a proper challenge must be accepted.
+
+The Doctrine of Three Steps also requires that no samurai may be more than 3 ranks lower than their immediate family members (parents, spouses, siblings, and children).
+* For example, if a family member is promoted to the eighth rank, any members of their immediate family are immediately raised to the fifth rank if they were previously at a lower rank.
+* A samurai must be of a lower rank than their superior, so depending on the circumstances, the promotion of a family member may require a samurai to leave their post.  ("My deepest apologies, but my brother's new duties are heavy, and I am called to assist him in his new position.  The Ministry of Retainers will no doubt select my replacement in short order.")
+* In other cases, such a promotion might trigger the minor elevation of a superior to the upper rank.  ("Congratulations on your promotion to the upper fifth rank.  Coincidentally, I myself have just been elevated to the lower fifth rank as a result of my brother's recent appointment.  It appears to have been a favorable season, has it not?")
+
+h3. Investigations and bounties
+
+The Doctrine of Three Steps limits which magistrates can interview other samurai in the course of an investigation (or in pursuit of a bounty).  It is always a samurai's prerogative to call upon another samurai of lower rank, but even duly authorized magistrates and bounty hunters are dismissible by someone "beyond their reach".  Such investigators must therefore be of accordant standing with those they wish to interview.  While some samurai may deign to meet with and answer questions posed by lower-ranking officials of discordant standing, this is unusual and not something to ever be expected.
+
+To execute an arrest, a magistrate or bounty hunter must be of peer standing with their target.  Even possessing a lawful warrant is not sufficient to proceed with the capture of a target without possessing sufficient rank.  As per the Accordances of Rank, the merits of an investigator may elevate someone from merely being of accordant standing to being considered of peer standing with a target, in which case they may proceed to detain such a target.  (Of course, there may be disagreement in the moment about the weight of the respective merits, and occasionally such matters are ultimately decided through deeds, not words.)
+
+Magistrates and bounty hunters must exercise caution in their investigations to ensure that they do not forget their place.  Samurai whose rank is within reach of investigators but who are too highly ranked to be of peer standing with those investigators may decline to personally meet with them, foisting such meetings off on underlings.
+
+Of course, in many circumstances, some samurai prefer to press forward and make an arrest if they believe they know all that's needed to press forward, trusting that victory will be sufficient justification, in the event that the matter is ever brought before an Imperial magistrate for review.
+
+
+
+
+
+BOUNTIES
+
+The Wasp Clan Charter grants all Wasp samurai the authority to pursue Imperial bounties.  How do those work?
+
+h3. Registering a bounty
+
+Fugitives often flee the jurisdiction where they are wanted, and crossing clan boundaries to hide amongst the enemies of the magistrates who seek them.
+
+Even when they don't cross clan boundaries, it is Imperial magistrates who are responsible for notifying other jurisdictions about a fugitive on the run.  "Soshi Saibankan":https://hiddenway.obsidianportal.com/wikis/soshi-saibankan helped formalize these procedures during the reign of Hantei the Tenth, which may include:
+
+* Providing waystations along Imperial roads with descriptions of fugitives.
+* Including notices of criminals at large in their regular correspondence with Imperial magistrates from neighboring domains.
+* Assembling bulletins of the current outstanding list of wanted individuals to be distributed to local authorities in their jurisdiction.
+* Registering and disseminating notices of duly attested bounties for targets of interest.
+
+As with most formal matters in the Emerald Empire, bounties are governed by the [[Doctrine of Three Steps]]:
+* Any samurai may always register a bounty for another samurai of equal or lower rank.
+* In order to register a bounty for a high-ranking samurai, the Imperial magistrate must determine the petitioner to be of **peer standing** with the target.  At a high level:
+** the petitioner's adjusted rank, taking into account both parties' **merits** (e.g. advantages and disadvantages which affect perceived rank), must end up being no more than 1 rank below the other samurai
+** additionally, in order to qualify as being of peer standing with another samurai, your **formal rank** (i.e. what it says on your character sheet) must be no more than 3 ranks different from theirs
+
+Here is how the monies involved in a bounty are handled:
+* When a bounty is registered, a **token gift** (zeni equal to the rank of the highest ranking person involved) is given, or a **courtesy gift** (no expectation of value) if the petitioner already has a personal or professional relationship with the Imperial magistrate.
+* The Imperial magistrate must have jurisdiction over the matter.  This generally means that someone involved must be from the magistrate's jurisdiction, or the subject of the inquiry (e.g. a crime) must have occurred there.
+* If the Imperial magistrate accepts the bounty, an **indemnity gift** of a tithe (10%) of the total bounty must be paid immediately.
+* The target of the bounty must generally be turned over to the Imperial magistrate who registered the bounty, at which point the bounty is paid out.
+** Generally the Imperial magistrate will pay out the remainder and then be reimbursed from the person who posted the bounty, though for exceptionally large bounties the Imperial magistrate may need to wait for the petitioner to produce the payment.
+** If the target was killed resisting arrest, then it is still traditional to bring their head to the Imperial magistrate who registered the bounty.  However, due to the difficulties involved, a bounty may be disbursed by the local Imperial magistrate in such a case, who will then write to their colleague about the matter to initiate the chain of reimbursement.  Such an action would surely require a **consideration gift** (and possibly an **indemnity gift** if the amount or distance was large enough) if the bounty hunter lacked a pre-existing relationship with the local Imperial magistrate.
+* Traditionally, a samurai who collects a bounty keeps half of the bounty.  Their superior gets a tithe (10%) of the posted amount, and the remainder goes to the daimyo's treasury.
+
+h3. An example bounty
+
+Shinjo Yoshi is visiting Scorpion lands.  While in Ryoko Owari he becomes inebriated, and takes offense at a perceived slight by Shosuro no Michio Takashi.  Yoshi attacks Takashi without warning, severely injuring him.  When he sobers up the next morning, Yoshi realizes that he may be arrested or challenged to a duel or both, and decides to immediately leave the city and return home.
+
+Takashi is wealthy and vengeful enough that his family immediately visits Hantei Sukune, the local Imperial magistrate for the Michio house, who is posted to Ryoko Owari.  Sukune is of the eleventh rank, but Takashi's aunt, Shosuro no Michio Mitsu is the chancellor of his lineage, and because she frequently sees Sukune at social events, she is not expected to provide a token gift of 11 zeni and merely brings a courtesy gift.
+
+Mitsu registers a 100 koku bounty, immediately paying an additional 10 koku to Sukune to cover the cost and hassle of sending out notice of such a large bounty.  Neither party is certain that the remaining 100 koku will ever be paid, since Yoshi will likely be hidden by his family back in Unicorn lands, where he can spend his time "out in the provinces" away from the prying eyes of the Imperial magistrate for the Shinjo house, Seppun Toshiken.
+
+Realistically, with turbulent times in the aftermath of the Lion/Unicorn war, and the fallout from the continued existence of the Moon Cult in Unicorn lands, Seppun Toshiken has his hands full already and will have very little time to dispatch his yoriki to hunt wayward fugitives.  Even if a local peasant informant reported the whereabouts for a finder's fee (usually a tithe of the bounty, once collected), Toshiken would be required to navigate the overlapping loyalties and family connections of the local Shinjo, spending his own social and political capital in order to settle the matter of a barfight which occurred hundreds of miles away.
+
+Enter the Wasp clan.  Tsuruchi Mukami doesn't care about the hurt feelings of the Shinjo, and learns of the bounty against Shinjo Yoshi from checking the local bulletin in Kyuden Ikoma.  Because he is already close to the Shinjo domain, he crosses the Drowned Merchant River and attempts to discern where Yoshi is hiding.
+
+Mukami quickly discovers that Yoshi has not bothered to leave Kyuden Shinjo!  He has reverted to using his childhood nickname "Yaku", but it doesn't take Mukami long to determine that "Shinjo Yaku" is in fact Shinjo Yoshi.  Mukami expected to expend considerable resources finding Yoshi, and had anticipated needing to promise a 10% finder's fee, but in the end he needed to spend only a few bu greasing local palms to track down Yoshi's favorite drinking spots.
+
+Mukami lies in wait for Yoshi, and one evening when Yoshi emerges from a local drinking house, Mukami steps out of an alleyway and announces himself, declaring that Yoshi must surrender himself and journey back to Ryoko Owari to answer the charges against him.
+
+Yoshi quicky turns to flee, and Mukami instantly raises his bow and fires a single arrow into Yoshi's back.  Yoshi's friends look on in dismay and rage, but they decline to interfere with an Imperial bounty hunter, especially with so many witnesses on the street.  However, Mukami immediately withdraws, as he is uncertain what Yoshi's friends would do if he tried to take Yoshi's head here and now.
+
+Yoshi is dead within the hour, and so Mukami pays a visit to Seppun Toshiken.  Given the circumstances and the desire of Yoshi's family to bury him without interference, Mukami suggests that it should not be necessary to bring his head back to Ryoko Owari, and that Yoshi's body should remain here in Kyuden Shinjo.  Given the circumstances, Mukami provides a 13-bu consideration gift, in understanding of the difficulties of this messy affair.
+
+Toshiken disburses the 100 koku bounty to Mukami, who immediately returns to Kyuden Ikoma, where he will be safe from any retaliation.  Upon his return, he hands 50 koku to Tsuruchi Okame, the Wasp clan's ambassador to the Ikoma family, who oversees all bounty collection for the region.  Okame keeps 10 koku for herself, and sends the remaining 40 koku home to the Wasp clan treasury.  Because it is an especially large bounty, she includes a letter to her daimyo commending Mukami for his skillful execution of his mission.
+
+(Behind the scenes, Seppun Toshiken's staff writes to Hantei Sukune's staff, informing them of what occurred.  Because this amount is a pittance to the Imperials involved, Sukune immediately sends the 100 koku reimbursement to Toshiken, and doesn't even bother to collect her own repayment from Shosuro Mitsu until the following week, when she happens to be in Ryoko Owari's southern district on other business and finds it convenient to visit Mitsu's estate.)
+
+h3. Non-criminal bounties targeting political adversaries
+
+In the previous example, a samurai committed assault and fled the jurisdiction rather than face an magistrate's inquest.  However, bounties may also be placed for persons of interest in an open inquiry, e.g. for witnesses to a crime of which they have no suspected culpability.  Consider the following:
+
+Hida no Akito Zenshiro is visiting Kyuden Kakita to negotiate tariff rates between the the Kakita family and the northern territories of the Crab clan.  While a new agreement is eventually struck, in the course of negotiations he makes several derisive comments about the "unseemly greed" of his Crane.  While none of these were made in the presence of his hosts, he was overheard saying such things on multiple occasions by various people around Kyuden Kakita.
+
+A few months after Zenshiro returns home, a local courtier name Kakita Torikago calls upon his friend, Seppun Shogo, the Imperial magistrate for Kakita lands.  Torikago explains that there was a troubling incident at a local tea house, the Evening's Sigh, which culminated in a large brawl.  The matter has been mostly dealt with, but two of the participants still have conflicting recollections about who said what in the hours leading up to the incident.
+
+Hida Zenshiro was not present for the brawl, but multiple witnesses attest to seeing him there that evening, having left less than an hour prior to the altercation.  Torikago explains that Kakita Hideo, the Kakita Deputy Minister of Justice, has already written to Zenshiro, requesting that he return to the city as an honored guest of the Kakita to help clear up this matter.  However, Zenshiro's reply letter states that he has never been to the Evening's Sigh, and was not present that evening, and therefore he has declined the invitation to return.
+
+Torikago explains that the Kakita Ministry of Justice is deeply troubled by this matter.  Either a witness to these events is falsifying statements to avoid an awkward interview and , or someone has impersonated a traveling Crab samurai and the impersonator may still be at large.  Either way, Torikago requests that Shogo send an Imperial summons, compelling Zenshiro to return to Kyuden Kakita to help resolve this matter.
+
+Because of the awkwardness involved in forcing the hand of the younger brother of the Akito house's Minister of Revenue, Torikago offers a **compensatory gift** (given that Shogo is of the twelfth rank, this is a gift of 12 koku).
+
+After several more months, Hida Zenshiro has not yet appeared nor offered a reply.  The local Imperial magistrate for Shiro Akito, Seppun Miharu, has passed along the summons to his brother, the Akito Minister of Revenue, and his yoriki have called upon the family estate but each time been told that Torikago is away and that the date of his return is unknown.
+
+Once again, Kakita Torikago calls upon his dear friend Seppun Shogo about this matter.  He expresses once again the conviction with which the Kakita Ministry of Justice takes its responsibilities in this matter, and reluctantly requests that Shogo place a bounty on whoever delivers Hida Zenshiro to Kyuden Kakita to finally settle this matter.  Given the seriousness of the matter, Torikago suggests that a 50 koku bounty would be appropriate.
+
+However, while this bounty pertains to an Imperial summons and therefore it would be Shogo placing the bounty, Torikago understands that this request is in service of Kakita family duties, and therefore he offers to fully fund the bounty himself (in the form of a 50 koku **indemnity gift** once the bounty is paid) to avoid placing an undue burden on the office of the Imperial magistrate.  And while there is no 10% fee on bounties placed by Imperial magistrates, Torikago also offers another 12-koku compensatory gift, in recognition of the trouble to which he is putting his friend by making this request,.
+
+Prior to the creation of the Wasp clan, it is unlikely that a bounty such as this would have ever been collected.  Samurai from the major clans would have avoided stepping into such a political minefield for what, to most of the noble houses, is a trifling sum.  However, this is NOT a trivial amount of money for a Wasp samurai, and so it's possible that some enterprising Wasp bounty hunter may choose to confront Hida Zenshiro to enforce the Imperial summons.
+
+This confrontation, if it does happen, may be dangerous for both parties.  Zenshiro and his Hida relatives would surely never interfere with a duly authorized agent of the Emperor's justice, but if the Wasp bounty hunter forgets his place, he may find himself killed by the Hida, who will be all too happy to explain that the upstart Wasp samurai offered a personal insult which resulted in a quarrel which led to his death - assuming that there are sufficient local witnesses to require an explanation be offered at all!
+
+Zenshiro may additionally argue that this is clearly a manipulated summons, and that any Wasp bounty hunter enforcing it would be tarnishing the Emperor's justice and the good standing of their clan by allowing themselves to be used to harass the political enemies of the Crane.  That said, as agents of the Emperor's justice, some Wasp samurai may consider it disloyal to turn aside in the pursuit of an officially sanctioned bounty for such reasons.
+
+And of course, if Zenshiro declines to agree to return to Kyuden Kakita, it's entirely possible that he himself might be killed while refusing to surrender himself into the authority of the Wasp bounty hunter who confronts him!  This would surely be a shame, including for the poor Kakita family, whose mystery of the events leading up to their unfortunate teahouse brawl would sadly go forever unsolved.
+
+h3. Most common bounties
+
+While every case is unique, there are categories of bounties which represent the vast majority of fugitives which appear in the Imperial bulletins:
+
+* **A samurai who has declined a proper challenge to a duel, or fled to avoid being presented with one.**  The most serious disputes between samurai are handled via duels, sometimes duels to submission (in which either party may forfeit after blood has been drawn) or duels to the death.  In both cases, a samurai who has offended another while away from home will sometimes return to the safety of their own lands to avoid being forced to answer for the alleged insult.  The going rate for such bounties is the yearly stipend of the highest ranking samurai involved (i.e. whichever of the challenger and the challenged is higher ranking).
+
+* **A local peasant criminal flees their home as the authorities are closing in on them.**  Such cases normally do not result in a bounty being placed, though sometimes a county magistrate or provincial governor or minister of justice will take personal umbrage at the thought of such a criminal escaping, and will register a sizeable bounty on the head of such criminals (usually 5-10 koku).
+
+* **A disgraced and cowardly samurai abandons their family to flee justice.**  Samurai commit crimes as well, and sometimes the shame of facing public judgment is too much to bear.  Sometimes they become ronin and live in exile.  Other times they assume a false identity, either one invented from whole cloth or stolen from a family member who has already passed (and who therefore is likely to have letters of introduction and perhaps even travel papers in their name).  Even if the fugitive's family would prefer to let their dishonorable scion be forgotten (and may literally strike them from the family records), their enemies might pay to register a sizeable bounty in such cases (usually 10 koku per rank of the fugitive, e.g. 30 koku for a samurai of the third rank).
+
+* **A samurai avoiding a legal inquiry out of shame.**  The cases of Shinjo Yoshi and Hida no Akito Zenshiro are both examples of this.  Sometimes a samurai is hiding amongst their family because they are guilty of a crime.  Other times they have witnessed something which they would rather not be involved in and have declined to answer a legal summons to testify (whether to avoid embarrassment or protect a friend or simply avoid a troublesome joiurney).  In some cases they may be targeted for harrassment by their political enemies; the Crane clan have shown increasingly willingness to use their great wealth in this way.  The amounts of these bounties based on the seriousness of the matter rather than the ranks of those involved (except insofar as higher-ranking people are likely to command larger bounties).
+
+h3. Questionable bounty collection
+
+The above example of Hida no Akito Zenshiro is an instructive one, because it is plausibly a case of someone responding to an insult by spending money to use the Imperial Ministry of Justice to harrass someone.  In addition to having to deal with the hassle of dodging an Imperial summons, if a Wasp bounty hunter does confront Zenshiro, then he may be subjected to the indignity of being forced to travel over 500 miles (and then the same distance on the return trip) only to find that the sightings of him on the night in question are quickly dismissed as a case of "mistaken identity".
+
+This is far from the most questionable type of bounty collection which might tempt an overeager Wasp samurai.  Even before the founding of the Wasp clan, unscrupulous bounty hunters have been been accused of conducting targeted assassinations and other acts which amount to murder for profit.  Some examples:
+
+* A bounty hunter will typically not even meet the person who placed the bounty, often not even after it has been remitted.  However, in some cases, a samurai who places a bounty might meet with a specific bounty hunter and provide generous gifts, explaining how dangerous their task is, and warning them that their target will certainly resist and need to be slain.  They may even promise that in the event of that occurring, there will be additional gifts given in appreciation for the danger that was braved in carrying out the Emperor's justice.
+
+* At any given time, there are dozens or hundreds of outstanding bounties for bandit fugitives.  This means that when encountering ANY small group of traveling peasants, at least 1 of them is likely to match the physical description of one or more fugitives on the current bulletin of uncollected bounties.  A bounty hunter willing to profane the Emperor's justice might attack the group, place the head of the closest match in a bag filled with salt (to preserve it), and deliver it in fulfillment of the bounty, collecting the reward for having captured a wanted bandit, who "confessed to their crimes as he lay dying".
+** Depending on the circumstances, an unscrupulous local magistrate might be happy to pay this bounty without caring whether the true criminal was slain.  After all, the magistrate can now brag that no one escapes their wrath after committing a crime in their jurisdiction, even after fleeing to distant lands.  While no samurai of honor would ever stoop to such duplicity, even an honest magistrate might not think to interrogate such a matter too closely, or question the authenticity of an already-difficult-to-identify severed head preserved in salt.
+
+* One reason to obtain Imperial travel papers (or letters of introduction from prestigious officials) is to unambiguously identify yourself while far from home.  It used to be distressingly common for unscrupulous local officials to shake down travelers who lacked such identification.  Now that Wasp bounty hunters are increasingly checking for criminals along the Empire's roads and waystations, they will certainly face the same temptations to accept a gifts of consideration in lieu of formal identification from "suspicious" travelers.
 
 
 
