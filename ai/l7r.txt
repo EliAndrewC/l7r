@@ -162,8 +162,6 @@ Rokugan's unit of currency is the koku, which is a gold coin.  1 koku also refer
 
 1 zeni is worth 10 sen, which is a small copper piece, usually minted as a connected line of 10 sen which can be severed into either individual pieces or multi-sen blocks in order to literally "make change".
 
-Samurai 
-
 MERCHANT FAMILIES:
 
 Although there are many samurai merchants, those with this sort of logistical training generally hold government posts and do not have time to run their own independent businesses.  Much of the commerce in the Empire is therefore performed by heimen peasant merchant families.
@@ -523,9 +521,9 @@ Overview:
 
 Occasionally PCs visit a peasant farming village and need to talk to someone in charge.  We’ve always said that this is the “village headsman”.  However, as much time as we’ve spent fleshing out details about the government of Rokugan, we’ve spent very little time detailing who this is, how they are selected, their responsibilities, what power they have within the village, how they are compensated for their duties, etc.
 
-This document summarizes some things we’ve already established about peasant village life, raises some questions about how farm plots are actually divided up, and makes some suggestions about the possible “real” job of a village headsman.
+This document summarizes some things we’ve already established about peasant village life, describes how farm plots are actually divided up, and explains some details about the responsibilities of a village headsman.
 
-Random things a village headsman probably does:
+Random things a village headsman does:
 
 We have occasionally mentioned things which the government needs to do, and said that the village headsman is probably the one who does these things.  This includes:
 
@@ -535,9 +533,7 @@ We have occasionally mentioned things which the government needs to do, and said
 
 -> Mediating disputes too trivial to bring before the county magistrate.
 
-I’m sure we have more things we’ve listed in the past, but I honestly can’t think of any now.  One thing to note is that birth records, death records, marriage records, and travel records are all the responsibility of the “country monk” for a village district.  Additionally, the military training of ashigaru is handled by the county magistrate.  Finally, we’ve portrayed the overseeing of tenant land owned by large merchant families as being handled by clerks from that merchant family.
-
-In the peasant campaign, the village headsman almost never came up, even in the early part of the campaign when the adventures all took place in the countryside.  Since all of that big stuff was being handled by country monks, county magistrates, and merchant clerks, there wasn’t much left for a village headsman to really do!
+One thing to note is that birth records, death records, marriage records, and travel records are all the responsibility of the “country monk” for a village district.  Additionally, the military training of ashigaru is handled by the county magistrate.  Finally, we’ve portrayed the overseeing of tenant land owned by large merchant families as being handled by clerks from that merchant family.
 
 "What is a village, and who lives there?"
 
@@ -551,7 +547,7 @@ We wrote an overview of the demographics of Rokugan years ago and have mostly ke
 
 -> The median village district consists of a central village with around half a dozen smaller hamlets.  (The word “hamlet” in Europe originally referred to a small community organized around orchards rather than farms, but we use it with the colloquial meaning of “a small village” and most “hamlets” in Rokugan are small farming communities.)
 
-We’ve had to do a lot of guesswork around the default family size, particularly the number of related farmers living in the same thatched-roof cottage.  We generally assume a median household size of 5, split over 2-3 generations, but this isn’t based on any real research of feudal farming communities.  However, using that as a baseline and combining it with the numbers we have for hamlets, villages, and counties:
+We generally assume a median household size of 5, split over 2-3 generations.  Using that as a baseline and combining it with the numbers we have for hamlets, villages, and counties:
 
 -> Most hamlets have a population of 50-100 (i.e. 10-20 households)
 
@@ -583,61 +579,57 @@ Dynamic family sizes and farm plots:
 
 Everything in the previous section is more-or-less centered on relatively small nuclear families living in small-ish households working on relatively small plots of land.  This is an accurate portrayal of many modern farms, including my own grandfather’s farm and Julie’s grandfather’s farm.
 
-One issue with this is that family sizes change frequently, not just with births and deaths and marriages (all of which are happening relatively often) but with households merging together, households splitting apart, and family members leaving to go work in the towns and cities.  When a family grows, does the merchant family who owns the farmland assign them a larger plot?  How does that work?  Does the family petition for this?  Does the merchant family assign plots based on family size?  Do they even know the family size?
+One issue with this is that family sizes change frequently, not just with births and deaths and marriages (all of which are happening relatively often) but with households merging together, households splitting apart, and family members leaving to go work in the towns and cities.  When a family grows, does the merchant family who owns the farmland assign them a larger plot?  How does that work?  How does the family petition for this?  How does the merchant family assign plots based on family size?  Do they even know the family size?
 
-I’ve been thinking a lot about these assumptions after reading this book review of Seeing Like a State, which led me to buy the actual book, which I have also been reading.  Here’s an excerpt from the book about a specific European farming village:
+I’ve been thinking a lot about these questions after reading this book review of Seeing Like a State, which led me to buy the actual book, which I have also been reading.  Here’s an excerpt from the book about a specific European farming village:
 
 > Novoselok village had a varied economy of cultivation, grazing, and forestry…the complex welter of strips was designed to ensure that each village household received a strip of land in every ecological zone. An individual household might have as many as ten to fifteen different plots constituting something of a representative sample of the village’s ecological zones and microclimates. The distribution spread a family’s risks prudently, and from time to time the land was reshuffled as families grew or shrunk…The strips of land were generally straight and parallel so that a readjustment could be made by moving small stakes along just one side of a field, without having to think of areal dimensions. Where the other side of the field was not parallel, the stakes could be shifted to compensate for the fact that the strip lay toward the narrower or wider end of the field. Irregular fields were divided, not according to area, but according to yield.
 
 The book itself has these crazy pictures of the way that land was partitioned.  Though the words “plots of land” do factor in, it seems like actually fields were subdivided such that different families work different parts of the same fields.  A single family didn’t work a single contiguous “plot”, but rather many different plots which were themselves pieces of many different fields.
 
-"Maybe this is what a village headsman actually does?"
+This is a big part of what a village headsman actually does:
 
-If we take the above as being representative of a Rokugani farming village, then someone is responsible for assigning different plots to different farmers.  This was often done by village elders, and seems like a reasonable job for a village headsman.
+If we take the above as being representative of a Rokugani farming village, then someone is responsible for assigning different plots to different farmers.  This was often done by village elders, and in Rokugan is overseen by a village headsman.
 
-"What does this imply about rent and taxes?"
+What does this imply about rent and taxes?
 
 In some previous adventures, we’ve talked about the value of a single farm.  We generally portray this as having a market value of about 50 koku, with enormous variation depending on how cash-rich or food-poor the domain is at any given time.  There is certainly some sense in which this must be true.  Sometimes freeholding farmers would buy or otherwise come to own their own bit of farmland outside of the main village fields and work them without needing to share or coordinate with the other villagers.  However, we’ve always portrayed this as the exception, and said that around 90% of farmers in Rokugan are tenant farmers whose landlords collect rent, pay taxes out of that rent, and keep what’s left over.
 
-We have also portrayed the “tenant farms” as being individually owned by different entities, such that within a single village, many different merchants and samurai might own different farms as a source of revenue.  However, if large fields are subdivided and worked by different families in different years, then it’s probably not possible for a merchant house to own a single farm in the middle of the village.  Instead, they probably own large fields, and if that field is worked by a combination of 10 different households, then that merchant family would be said to own that field and have “authority over 10 households”.
+We sometimes talk about “tenant farms” as being individually owned by different entities, because many different merchants and samurai might own different farms as a source of revenue.  However, when large central fields are subdivided and worked by different families in different years, then it’s not possible for a merchant house to own a single farm in the middle of the village.  Instead, they own large fields, and if that field is worked by a combination of 10 different households, then that merchant family is said to own that field and have “authority over 10 households”.
 
-In this scenario, it’s a little harder to track how rent is collected.  If individual farmers aren’t assigned specific farms, then how much do they owe?  The existing system is fine for computing the overall value, rent, and taxes associated with the village fields, but how is a merchant family supposed to figure out who specifically owes what amount of rent?
+In this scenario, it’s harder to track how rent is collected.  If individual farmers aren’t assigned specific farms, then how much do they owe?  The existing system is fine for computing the overall value, rent, and taxes associated with the village fields, but how is a merchant family supposed to figure out who specifically owes what amount of rent?
 
-One possibility is that the village headsman tracks this as well.  If he’s doling out different parts of the fields, then he has enough information to either compute the associated rent, or pass along enough information to the merchant clerk for them to compute it.
+Generally, the village headsman tracks this as well.  He doles out different parts of the fields, and he has enough information to either compute the associated rent, or pass along enough information to the merchant clerk for them to compute it.
 
-Open questions:
-
-This still leaves open a lot of questions, some of which I raised at the beginning of the document.  Here’s a partial list, along with some possible answers:
+Things which vary from place to place:
 
 How is the village headsman chosen?
--> Presumably he is appointed by the county magistrate, with the understanding that the position is hereditary (see below).
+-> Usually appointed by the county magistrate, with the understanding that the position is often hereditary (see below).
 
 How often is a new village headsman appointed?
--> I’m guessing this is rare, and usually only happens if the previous headsman dies or becomes otherwise ineligible. Unless the county magistrate becomes dissatisfied for some reason, this is probably a lifetime appointment.
+-> This is typically rare, and usually only happens if the previous headsman dies or becomes otherwise ineligible.  Unless the county magistrate becomes dissatisfied for some reason, this is expected to be a lifetime appointment.
 
 Is this a hereditary position?
 -> Generally yes.  We’ve portrayed Rokugan as a place where many positions are de facto hereditary even if in theory anyone could be appointed.  This seems like one of those cases.  Family and the continuation of traditional roles is highly valued.  With that being said, “It’s time for someone new” could easily happen if a new magistrate took issue with any previous problems in a village and blamed the headsman.
 
 Is the village headsman necessarily a man?
--> Generally yes.  If the village headsman must necessarily receive ashigaru training, lead bandit hunting units of other ashigaru when bandits are reported, and possibly assume some kind of command posture over other ashigaru during wartime, then that implies the village headsman would almost always be a man.  However, one imagines that a husband and wife might share the headsman responsibilities, with the husband taking care of the martial duties, and the wife managing the bookkeeping.  Original L5R sometimes portrayed women as being more savvy about money and often managing household finances, so this would be in line with that.
+-> Generally yes.  If the village headsman must necessarily receive ashigaru training, lead bandit hunting units of other ashigaru when bandits are reported, and possibly assume some kind of command posture over other ashigaru during wartime, then that implies the village headsman would almost always be a man.  However, a husband and wife often share the headsman responsibilities, with the husband taking care of the martial duties, and the wife managing the bookkeeping.  Original L5R sometimes portrayed women as being more savvy about money and often managing household finances, so this would be in line with that.
 
 Do hamlets have their own village headsman?
--> No, but with a caveat: a village district is, on average, probably about 15 square miles.  The village itself is a small fraction of this, probably only a few square miles, with the outlying hamlets each being miles away.  Overseeing all of this sounds time consuming enough that I wouldn’t expect someone to be able to do it “in their free time” while also personally working in their own fields.  However, if the headsman’s stipend (see the next question) and merchant gifts are enough to allow him (and perhaps his wife) to not need to personally spend all day farming, then a single headsman for the whole village district seems reasonable.  Presumably the village headsman still has a larger family which works land along with the rest of the village - we have previously portrayed the village headsman as still being themselves a farmer rather than some kind of educated clerk who spends all day doing paperwork.
+-> No, but with a caveat: a village district is, on average, probably about 15 square miles.  The village itself is a small fraction of this, probably only a few square miles, with the outlying hamlets each being miles away.  Overseeing all of this sounds time consuming enough that we wouldn’t expect someone to be able to do it “in their free time” while also personally working in their own fields.  However, when the headsman’s stipend (see the next point) and merchant gifts are enough to allow him (and perhaps his wife) to not need to personally spend all day farming, then a single headsman can manage the whole village district.  Such a village headsman typically has a larger family which works land along with the rest of the village - we have previously portrayed the village headsman as still being themselves a farmer rather than some kind of educated clerk who spends all day doing paperwork.
 
 How is the village headsman compensated?
--> Unlicensed ashigaru receive a stipend, and licensed ashigaru receive a much larger stipend.  Presumably the village headsman receives a large government stipend as well.  Though one imagines that merchant houses who own land in the village also give “generous” gifts to the village headsman, without whom they might have a difficult time collecting rent.  Working out the exact amount of this stipend might be kind of important.  If it’s a huge amount, I would expect other people in the village to covet this position and have real reason to try to make the magistrate dissatisfied with the existing headsman.  If it’s only 1-2 koku per year, then the position has more prestige than wealth.  It would also be useful to know “how much money is a meaningful amount to this person?”  Which is closely related to the classic question “how much does someone typically pay to bribe this person?”
+-> Unlicensed ashigaru receive a stipend, and licensed ashigaru receive a much larger stipend.  In most localities, the village headsman receives a government stipend as well.  Merchant houses who own land in the village also give “generous” gifts to the village headsman, without whom they might have a difficult time collecting rent.  The size of this stipend can be extremely important.  Wen it’s a huge amount, other people in the village covet this position and have real reason to try to make the magistrate dissatisfied with the existing headsman.  When it’s only 1-2 koku per year, then the position has more prestige than wealth.  This also affects how much money is a meaningful amount to the headsman, which is closely related to the classic question “how much does someone typically pay to bribe this person?”
 
 What happens when two neighbors get into a dispute?
--> We’ve portrayed the village headsman as probably handling small disputes, and that peasants only bring cases before the county magistrate in extreme situations.  This probably fits even more with this set of headsman responsibilities (i.e. managing usufruct rights to the land) - if two farmers get into an argument over a fallen tree or something, then the headsman probably resolves it without needing to involve the county magistrate.  On the other hand, if fields belonging to two different merchant families are involved, the headsman might be more likely to escalate to the county magistrate (or rule in favor of whichever clerk gave him a larger gift).
+-> We’ve portrayed the village headsman as probably handling small disputes, and that peasants only bring cases before the county magistrate in extreme situations.  This is especially true within the headsman responsibilities (e.g. managing usufruct rights to the land) - if two farmers get into an argument over a fallen tree or something, then the headsman usually resolves it without needing to involve the county magistrate.  On the other hand, if fields belonging to two different merchant families are involved, the headsman might be more likely to escalate to the county magistrate (or rule in favor of whichever clerk gave him a larger gift).
 
 Who is the village headsman actually loyal to?
 -> The samurai presumably like to think that the headsman represents their interests.  The merchants presumably like to think their gifts are meaningful enough to keep him loyal to them.  The headman’s farming community neighbors presumably like to think that he’s one of them and does right by them.
 
-This might be another reason to need to work out the headsman’s stipend.  One thing which makes this kind of question so difficult is that, based on the numbers above, the village produces ~400 koku worth of rent and ~800 koku worth of taxes every year.  With those kind of numbers, saying that the village headsman gets a 10 koku/year stipend isn’t crazy, and to some extent the samurai and merchants should probably be highly invested in making sure that this guy is paid well enough to care about staying in their good graces, have time to actually do the job well without worrying about his own farm, actually fill out paperwork, etc.
+One thing which gives the headsman's stipend so many downstream consequences is that, based on the numbers above, the village produces ~400 koku worth of rent and ~800 koku worth of taxes every year.  With those kind of numbers, ensuring the village headsman gets a 10 koku/year stipend isn’t crazy (and localities where this doesn't happen often end up with different outcomes).  Although shortsightedness sometimes keeps this from being true, samurai and merchants SHOULD be highly invested in making sure that this guy is paid well enough to care about staying in their good graces, have time to actually do the job well without worrying about his own farm, actually fill out paperwork, etc.
 
-On the other hand, actual societies generally struggled to do any of that in a hierarchical and organized way (and paying someone a lot of money doesn’t necessarily make them loyal to you anyway), so maybe it’s all fairly informal.  Maybe the headsman gets paid like a 1 koku/year stipend, with another 1 koku gift from each large merchant house or samurai lineage which owns land in the village, and mostly is just another member of the peasant class who speaks on behalf of his neighbors who he actually cares about. 
-
-Note that this emphasizes both both much thought we've put into the social hierarchy of Rokugan, but also how many open questions we have.
+On the other hand, paying someone a lot of money doesn’t necessarily make them loyal to you!  In some places the headsman gets paid a 1 koku/year stipend, with another 1 koku gift from each large merchant house or samurai lineage which owns land in the village, and mostly is just another member of the peasant class who speaks on behalf of his neighbors who he actually cares about.
 
 
 
@@ -1076,10 +1068,6 @@ In the solar calendar, kokuu marks the waning of spring and the time when farmer
 28th Day (2 May): Hachijuuhachiya (88 nights since spring)
 Hachijuuhachiya marks the time when new planted rice is safe from even the most freakish spring frost.
 
-That takes us to the end of spring.
-
-I will describe the summer months next:
-
 4th Month: Uzuki (“unohana” or “deutzia”), Month of the Horse
 6 May – 5 June
 Seasonal color: Orange flower combination (deadleaf yellow and purple)
@@ -1155,8 +1143,6 @@ The thirtieth day of the sixth month is Setsubun, the eve before the beginning o
 This day of reckoning is also a day of atonement, when the Emperor performs the sacred and ancient ceremony of Oharae, the Great Purification. The Oharae rituals echo the Heavenly Grotto myth, in which Amaterasu secluded herself in a grotto and emerged after being coaxed and worshipped by the heavenly hosts. The rituals include use of sacred regalia bestowed by the kami (mirrors, swords, jewels, and silk scarves), and powerful magic such as spirit-calling (shoukon) and spirit-shaking (tamafuri). The Oharae cleanses major sins committed in the past year, such as taboo defilements of sacred spaces, croplands, and relationships.
 In ancient times, the Oharae may have included human sacrifices. Some tsukai and Bloodspeakers perform human sacrifices and rites of defilement on this day, such as flaying piebald horses in the reverse direction, to weaken kami and call oni.
 
-Here are the Autumn months:
-
 7th Month: Fumizuki (“poetry”), Month of the Rooster
 8 August – 7 September
 Seasonal color: Cicada wing combination (cedar bark and sky blue)
@@ -1229,8 +1215,6 @@ In the solar calendar, Kanro marks the last section of the year before farmers c
 7th Day: Fukandenden no Sou (Presentation of the Report on Unfit Lands)
 On the seventh day of the ninth month, Ministers of Revenue present reports to their Governors and daimyo on land that has fallen into disuse or that has suffered crop failures. This report may be used to help determine tax exemptions.
 
-Here is a description of the Winter months:
-
 9th Day (16 Oct): Choyo no sekku (Chrysanthemum Festival)
 The Chrysanthemum Festival is the last of the five Gosechi holidays.
 The ninth day of the ninth month is Choyo no sekku, the Chrysanthemum Festival. Gardens, temples, shrines, and fine homes display fine specimens of the seasonal flowers, including unusual “doll chrysanthemums” grown in the shape of a human figure doll. People drink wine steeped with chrysanthemum petals on this day, to promote longevity and good health.
@@ -1299,7 +1283,7 @@ The twelfth month, Shiwasu (“priests running”), is named for the flurry of a
 
 
 
-Not let's talk about the "Karmic Inquisitors" campaign, which was an earlier campaign I ran which takes place in Damasu lands, i.e. the domain whose capital is Toshi Ranbo, the third-largest city in the Empire.
+Now let's talk about the "Karmic Inquisitors" campaign, which is an older campaign I ran which takes place in Damasu lands, i.e. the domain whose capital is Toshi Ranbo, the third-largest city in the Empire.
 
 CAMPAIGN DESCRIPTION:
 
@@ -1846,45 +1830,7 @@ Thus it came to pass that even after the source of Suro’s power later became k
 
 Disciples of Suro learn to call upon the power of the Shadow of Nothing by beseeching Suro to share this power with those who serve him. In the days before the Empire, this was done openly by those to the south of the Spine of the World mountains who later swore fealty to Bayushi, founder of the Scorpion clan. The Order of Lord Moon knows that the high priestess who was chosen by the Shinsei as the Scorpion clan Thunder chose her name in honor of Suro, which is why she was known as Shosuro. Indeed, after the defeat of Fu Leng, it was Shosuro alone who returned with the Black Scrolls, and though she died of her wounds shorly after, it was surely the power of the Shadow whose power allowed her to be the last surviving Thunder.
 
-Here's a story told about Nanube by the Teacher of the Astral Ways during a full moon ceremony:
-
-No Answer to Believe
-
-Many centuries ago, Nanube the Deceiver arrived in Lady Sun's court as an emissary, with no announced mission.
-
-She spent considerable time there, getting to know the members of Lady Sun's celestial administration, and learning the ways of the Realm of Day.
-
-Eventually Nanube requested an audience with Lady Sun.  She explained to Amaterasu the true hidden purpose of her visit.  That Lord Moon desired a Shard of Pure Sunlight, undiluted such that only Lady Sun can provide, to remind him of her presence when they are apart.
-
-Nanube explained that Lord Moon was too proud to admit that he desires such a thing, and that he would never express such vulnerability himself, never make such an admission of need.  Nanube was sent, therefore, to attempt to determine which members of Lady Sun's celestial administration might be bribed, coerced, or corrupted into helping him obtain what he seeks.
-
-However, Nanube explained that she now realized that members of Lady Sun's court are too pure and honest to be subordinated in this way, and therefore there are no lies that even Nanube the Deceiver could tell which would achieve her objectives.  Thus, with all possible lies having failed before they could even be told, she could only tell the truth.
-
-And the truth is that while a Shard of Pure Sunlight is a thing easily created by Lady Sun, and therefore Lord Moon should be more than capable of bargaining for it, his stubborn pride will never allow him to admit the vulnerability he feels, or the loneliness and aching need for his consort when they are apart.  And even worse, if Lady Sun did feel generous enough to offer a shard of her sunlight as a gift given freely, that same stubbornness would prevent Lord Moon from ever admitting how moved he was by the gesture, or how meaningful the gift was to him, even as it warmed his cold heart in lonely night.
-
-Lady Sun was so overcome by this rare honesty from Nanube, and by the feelings of her husband, that it was with tears in her eyes that she brought forth the shining shard of pure sunlight, presenting it to Nanube in a crystal orb.  "No matter any reward, or even any appreciation for this gift - tell my husband that I give this to him freely, with warmth and love."
-
-Nanube hesitated.  "My Lady Sun, your husband may be so prideful that if I tell him this, he may reject the gift, or be too self conscious to allow himself to enjoy its presence by his side.  I fear I shall need to invent some convincing lie for how I obtained this - but I promise you that I will ensure that my Lord Moon accepts it and treasures it."
-
-Lady Sun frowned.  "Nanube, in the time you have spent with us, you have seen the purity and virtue of my realm, and witnessed my generosity.  Will you not consider turning away from your life of lies and deceptions, and embrace truth and honesty?
-
-Nanube laughed.  "My Lady Sun, is there any answer I could give that you would believe?"
-
-"I suppose not," replied Lady Sun, dismissing Nanube from her presence.
-
-Nanube returned to Lord Moon's Court, presenting Lord Moon with Lady Sun's gift.  "Excellent!" beamed Lord Moon, who handed the orb of pure sunlight to Goju.  "This shall be of great help to Goju in his hunt - the Hikarikage has indeed been a most troublesome prey.  Tell me, what did my wife ask in return?  A Stardust Bloom?  The use of the Tidebringer's Covenant?  That I return the Evening's Sigh to her?"
-
-Nanube shook her head.  "I told you, my Lord, that those things would be unnecessary, and that Lady Sun would provide a Shard without asking anything in return.  Though I did expend considerable resources bribing certain members of her court."
-
-Lord Moon frowned.  "What members of Lady Sun's administration were you able to tempt, Nanube - and to what purpose?"
-
-Nanube laughed.  "My Lord Moon, is there any answer I could give that you would believe?"
-
-"I suppose not," replied Lord Moon, dismissing Nanube from his presence.
-
-(end of story)
-
-Here is a different story of Lord Moon (and Lady Sun), this one told by Soshi Saibankan during his time as an Imperial Magistrate.  The story is part of a transcript of a famous Saibankan ruling, to give an idea of how he talked. Many magistrates to this day model their own rulings after Saibankan’s way of speaking.
+Here is a story of Lord Moon (and Lady Sun), told by Soshi Saibankan during his time as an Imperial Magistrate.  The story is part of a transcript of a famous Saibankan ruling, to give an idea of how he talked. Many magistrates to this day model their own rulings after Saibankan’s way of speaking.
 
 Here are the facts of this case:
 
@@ -1941,6 +1887,44 @@ Magistrates and judges must always keep this tension in the forefront of our min
 Indeed, one error that both men have made here is in asking for me to use my judgment and apply my discretion to do what is right. But the particulars of this case allow for no other ruling than that Masao must answer Asahi’s challenge, and fight him to the death.
 
 (end of ruling)
+
+Here's a story told about Nanube by the Teacher of the Astral Ways during a full moon ceremony:
+
+No Answer to Believe
+
+Many centuries ago, Nanube the Deceiver arrived in Lady Sun's court as an emissary, with no announced mission.
+
+She spent considerable time there, getting to know the members of Lady Sun's celestial administration, and learning the ways of the Realm of Day.
+
+Eventually Nanube requested an audience with Lady Sun.  She explained to Amaterasu the true hidden purpose of her visit.  That Lord Moon desired a Shard of Pure Sunlight, undiluted such that only Lady Sun can provide, to remind him of her presence when they are apart.
+
+Nanube explained that Lord Moon was too proud to admit that he desires such a thing, and that he would never express such vulnerability himself, never make such an admission of need.  Nanube was sent, therefore, to attempt to determine which members of Lady Sun's celestial administration might be bribed, coerced, or corrupted into helping him obtain what he seeks.
+
+However, Nanube explained that she now realized that members of Lady Sun's court are too pure and honest to be subordinated in this way, and therefore there are no lies that even Nanube the Deceiver could tell which would achieve her objectives.  Thus, with all possible lies having failed before they could even be told, she could only tell the truth.
+
+And the truth is that while a Shard of Pure Sunlight is a thing easily created by Lady Sun, and therefore Lord Moon should be more than capable of bargaining for it, his stubborn pride will never allow him to admit the vulnerability he feels, or the loneliness and aching need for his consort when they are apart.  And even worse, if Lady Sun did feel generous enough to offer a shard of her sunlight as a gift given freely, that same stubbornness would prevent Lord Moon from ever admitting how moved he was by the gesture, or how meaningful the gift was to him, even as it warmed his cold heart in lonely night.
+
+Lady Sun was so overcome by this rare honesty from Nanube, and by the feelings of her husband, that it was with tears in her eyes that she brought forth the shining shard of pure sunlight, presenting it to Nanube in a crystal orb.  "No matter any reward, or even any appreciation for this gift - tell my husband that I give this to him freely, with warmth and love."
+
+Nanube hesitated.  "My Lady Sun, your husband may be so prideful that if I tell him this, he may reject the gift, or be too self conscious to allow himself to enjoy its presence by his side.  I fear I shall need to invent some convincing lie for how I obtained this - but I promise you that I will ensure that my Lord Moon accepts it and treasures it."
+
+Lady Sun frowned.  "Nanube, in the time you have spent with us, you have seen the purity and virtue of my realm, and witnessed my generosity.  Will you not consider turning away from your life of lies and deceptions, and embrace truth and honesty?
+
+Nanube laughed.  "My Lady Sun, is there any answer I could give that you would believe?"
+
+"I suppose not," replied Lady Sun, dismissing Nanube from her presence.
+
+Nanube returned to Lord Moon's Court, presenting Lord Moon with Lady Sun's gift.  "Excellent!" beamed Lord Moon, who handed the orb of pure sunlight to Goju.  "This shall be of great help to Goju in his hunt - the Hikarikage has indeed been a most troublesome prey.  Tell me, what did my wife ask in return?  A Stardust Bloom?  The use of the Tidebringer's Covenant?  That I return the Evening's Sigh to her?"
+
+Nanube shook her head.  "I told you, my Lord, that those things would be unnecessary, and that Lady Sun would provide a Shard without asking anything in return.  Though I did expend considerable resources bribing certain members of her court."
+
+Lord Moon frowned.  "What members of Lady Sun's administration were you able to tempt, Nanube - and to what purpose?"
+
+Nanube laughed.  "My Lord Moon, is there any answer I could give that you would believe?"
+
+"I suppose not," replied Lord Moon, dismissing Nanube from his presence.
+
+(end of story)
 
 Here's another story about a member of Lord Moon's court - this one is about Goju:
 
@@ -2110,10 +2094,6 @@ Augury, then, is a means for ordinary men and women to listen to the whispers of
 
 (end of introduction)
 
-
-
-
-
 EXAMPLES OF OMENS AND PORTENTS:
 
 Here are the 7 omens and portents which the Order of Daikoku was looking for in order to see whether there would be some kind of crop blight:
@@ -2174,7 +2154,7 @@ As another example, here are the signs which the Damasu know to look for which w
 
 4) Ailments in animals: Domesticated animals or city-dwelling creatures show signs of sickness. This could be beloved pets, or even urban wildlife like birds and rats. These creatures falling ill, especially en masse, is taken as a grim sign.
 
-5) Divinations of sisease: Omens and divinations begin to suggest an impending health crisis. Priests might have dreams filled with images of disease and suffering, or those casting lots might repeatedly pull symbols associated with illness or death.
+5) Divinations of disease: Omens and divinations begin to suggest an impending health crisis. Priests might have dreams filled with images of disease and suffering, or those casting lots might repeatedly pull symbols associated with illness or death.
 
 6) Aberrant blooms: Certain plants, particularly those traditionally associated with healing or disease, bloom out of season.
 
@@ -2186,7 +2166,7 @@ As another example, here are the signs which the Damasu know to look for which w
 
 THE DAMASU DOMAIN:
 
-The Karmic Inquisitors campaign takes place in Damasu lands, which we've mentioned a few times before.  Here's some setting information about Damasu lands.
+The Karmic Inquisitors campaign took place in Damasu lands, which we've mentioned a few times before.  Here's some setting information about Damasu lands.
 
 DAMASU LINEAGES:
 
@@ -2486,7 +2466,6 @@ Takeshi has expressed an ease of being away from home for so long, given that he
 h3. **Akodo no Damasu Yumiko**
 
 The eldest daughter of Akodo no Damasu Shiho, the county magistrate of Hoshizora, the county where the PCs reclaimed the stolen teaset from Village Headsman Tomonori:
-
 
 The Nire lineage has only 2 county magistrates and no position on the chancellary.  The magistrate positions they hold are not hereditary to their lineage, which means that Yumiko must struggle to become worthy - so accomplished that the chancellary **must** choose her to replace her mother when the time comes, despite members of every other lineage putting forth their own candidates.  It is for this purpose that Yumiko, as the eldest child of the second-highest-ranking member of her lineage, arrived in the summer of this year, seeking the strength for the path ahead of her.
 
@@ -2812,7 +2791,6 @@ Kishin no Ketsui features a golden guard engraved with a lion's mane, depicting 
 
 Akodo no Damasu Sei carried this sword in Imperial court while the peace treaty between the Lion and Crane was being negotiated.  While Sei did not act as a primary negotiator or meet personally with the Emperor, he was heavily involved in the ancillary negotiations.  (Timetables on the delivery of gifts and other payments, the percentage of payments made in gold vs silver vs rice, etc.)  Sei brought this sword to Damasu lands after swearing fealty to Damasu Chiho after the war, and now uses the sword to strengthen the peace as Chancellor of the new Sei lineage.
 
-
 h4. **Akuzuki** (Wicked Moon)
 
 This sword is not only impressive on its own, but also has a fantastic sheath - it was the saya that caused a Tsume bushi to once comment that this sword seemed "too good for" it's current wielder, Matsu Yokijiro.  Yokijiro absolutely humiliated the hapless Tsume, who quickly realized that not only was the sword impressive, but Yokijiro would certainly kill him in a duel.
@@ -2822,7 +2800,6 @@ Had the cowardly Tsume actually been willing to fight Yokijiro and somehow slain
 Akuzuki has been in Yokijiro's family for 3 generations, which is only 1 fewer generation than the previous record, during which time it was in the possession of a family line of Shosuro duelists.  Yokijiro is proud of this accomplishment, and has won many duels with this sword, but he wonders whether the 4th generation is cursed - the number 4 is associated with death, so if he leaves this sword to his own grandson, this may doom his grandson to die in a duel.
 
 Of course, this is not necessarily a bad thing, and although Yokijiro has sought the counsel of members of the Order of Bishamon about this, his current intention is indeed to pass this sword along to his grandson (who is currently only a baby) upon his retirement.  After all, even if the curse is real, his grandson may win many righteous duels along the way to his death, and to pass the sword along to someone else when he retires would be a failure to teach courage to his descendants.
-
 
 h4. **Kasai Tsume** (Fire Claw)
 
@@ -3261,16 +3238,13 @@ The Isawa inlaws-to-be were not happy about this, since they made the marriage a
 
 Soshitatsu is furious and has challenged the Isawa merchant to a duel, which has been declined.  He is now bringing this matter before the PCs in the hopes that they will compel the challenge to be accepted and/or help shame the Isawa for refusing.
 
-
 3) Doji Chiyokami is a sassy bushi-ko who takes offense easily.  She came to the city only a few months ago and already has fought two duels.  The first was over a sexist comment that a fellow bushi made.  The second was because she discovered that she had been over-charged for a saddle.  In each case she won and killed her opponent.
 
 Her captain has ordered her to stop issuing challenges without prior permission.  She refuses saying that this is out of bounds and that she was justified in her challenges, pointing out that her opponents could have withdrawn from their duels and been spared their fates, had they been willing to live with the shame of having been beaten.
 
 Because the PCs have special appellate authority, this matter is being appealed to them rather than the usual higher-ups in the city.
 
-
 4) Doji Miu murdered a fellow bushi in a fit of rage over an argument they were having which got out of hand.  She is scheduled to be hanged (a punishment usually reserved for common criminals) and wishes to be allowed to commit seppuku, or failed that wishes to be beheaded (as fitting her station).  She asks the PCs to hear her case and allow her a less undignified death.
-
 
 ABUSE OF AUTHORITY CASES:
 
@@ -3284,16 +3258,13 @@ The sergeant in charge in guarding the warehouse demanded a processing fee of 6 
 
 Afterwards Tatsutaro complained to captain Doji Renshi, who refused to do anything about it.  So now the matter is being appealed to the Board of Justice, who should decide not only whether to order the "fee" refunded, but also whether to add a penalty or punishment to the sergeant and/or Dijo Renshi.  However, if the PCs decide to rule in the merchant's favor, Renshi will strongly castigate them, fishing for a duel.
 
-
 2) Toshi Ranbo currently has a large garrison of bushi to protect the city from a possible second attempt on the part of the Lion to take back the city.  Because the city lacked sufficient barracks to house these extra troops, the Tsume quartered a lot of their men in the homes of local merchants.  All of the large estates were seized, but many small manors still exist, and they were packed with troops while new barracks were constructed.
 
 At this point sufficient barracks have been constructed to house all of the city's troops, and so most private homes have now been empties of troops.  However, a few lieutenants have men still staying in private homes.  No compensation is being given, and the merchants' servants are expected to do laundry and run errands for the bushi.  The bushi have been politely asked to vacate, but they keep promising that they'll do it really, really soon and then not making any effort to leave.  The merchants have finally mustered the courage to appeal to the PCs to order the troops to withdraw, and possibly to provide compensation for the extra time that their houses have been used.
 
-
 3) A district has recently made a large police action searching for opium, and the homes and warehouses of several suspected merchants were searched.  One tobacco merchant was at home when a rude corporal burst in to search his house.  The merchant was completely innocent, and when the search was complete, he angrily demanded that the corporal leave.  Not liking being ordered around, the corporal wandered into the kitchen where the merchant's wife was cooking dinner, and helped himself to some of the food.  Enraged, the merchant ordered the man out, but the corporal proceeded to fondle the wife's breasts.  The merchant furiously grabbed a kitchen knife and stabbed the corporal to death.
 
 He was subsequently arrested and beaten by the other bushi present, his property was confiscated, and he was sentenced to several years of forced labor; he was spared execution due to the extenuating circimstances.  His family had to become servants for a rival tobacco merchant family.  Now his family is appealing for his release and compensation for their stolen property and unjust sentence.
-
 
 4) Doji Kazuya is a sergeant who has arranged for a group rate for his men at a fancy bathhouse.  However, he has consistently either not paid or underpaid, making vaguely threatening comments about how the bathhouse should be grateful for the presence of so many bushi to protect him from unfortunate things happening.  The owner is fed up and has finally stripped these bushi of their access to the bathhouse until the bill is settled, and is suing the sergeant for the money owed.  The sergeant is claiming that the agreement was for much less money than is being claimed, and points out that this has gone on for literally years, so clearly the merchant really did value having his bushi around to protect it; now that the city is safer and he no longer needs so much protection he's within his rights to cancel their arrangement, but demanding back payments is ridiculous.  Any decent interrogator will discern that the sergeant is lying and just trying to get out of paying, but the PCs will still need to decide whether to acknowledge this.
 
@@ -3305,17 +3276,13 @@ For these cases, it's important to understand the different ways which assaults 
 
 However, not long after he was released from his sentence of forced labor, he was seen stumbling home drunk again late one night.  He was confronted by a crowd, which proceeded to beat him to death in anger.  They were not punished or forced to pay any restitution for this, so his widow and children are appealing to the PCs for compensation, since the man of the family is now no longer around to support them.
 
-
 2) A successful stonemason has recently married the sister of several successful carpenters.  However, it quickly turned out that he was abusive, so the woman's brothers confronted the man, and in the fight that resulted, they ended up killing him.  They have been arrested, but are appealing on the grounds that they were following their filial duty to protect their sister.
 
-
 3) A man discovers that his 12-year-old son has obtained and smoked opium for the first time.  He thrashed his son and demanded to know where he obtained the opium, then went to confront the father of the boy who had provided it.  He angrily demanded that the other father beat his boy, and even threatened to involve the magistrates.  A fight broke out, and he ended up killing the other boy's father, which got him arrested.  He's appealing to the PCs on the grounds that he was perfectly justified in protecting his son from criminals and other bad influences.
-
 
 4) A man's aging aunt suffered from dementia, and some of her neighbors worried whether she was possessed or even a witch.  One day while walking through town with her nephew, she temporarily got away from him and tried to walk off with someone else's child, believing it to be hers.  She was confronted and after the child was taken away from her, she was killed by a shopkeeper who was convinced that she was a witch, trying to abduct a child for some dark ritual.  The Witch Hunters later confirmed that she was not a witch after examining her body, but declared that the attack was justified because the populace should be ever vigilant against witchcraft.
 
 Her nephew later confronted the shopkeeper, and a fight broke out between the two of them, and the shopkeeper was killed.  The man was arrested for murder, and is appealing the decision to the council, arguing that this is a personal dispute and he should not be considered guilty of murder.
-
 
 5) Kyoude is a mercenary with a long reputation of honesty and great moral character.  His son has been raised and educated to become a clerk rather than follow in his father's footsteps, and has recently passed his gempuku and married and taken a well-paying job.  However, this job turned out to be at the largest geisha house in the district, where gambling and opium and prostitution are abundant.  When Kyoude learned of this, he ordered his son to quit.
 
@@ -3326,7 +3293,6 @@ However, the owner could not bear the loss of face of having to capitulate to th
 When the magistrates arrived shortly thereafter, Kyoude explained what had happened to the lieutenant who arrived on the scene.  The lieutenant recognized Kyoude and decided to confiscate his weapon and tell him not to leave the city and refer the matter to his captain.  Evidently he didn't want to arrest Kyoude and approved of the killings, but he knew that his captain might see things differently and didn't want to declare the actions legal and then be overruled.
 
 Kyoude and his cousins were eventually sentenced to death by the district captain, and the matter has been appealed to the PCs, who must decide whether to let them die, commute them down to a lesser sentence, or simply let them go with a pat on the back.
-
 
 Another set of cases which can come up revolve around a new monk character who might come to the city partway through the campaign.  Here's the writeup I wrote about Grand Abbot Benshi and associated cases:
 
@@ -3739,9 +3705,7 @@ Here are some miscellaneous vows for which I have not written extensive explanat
 
 → The vow of charity was recently popularized by the prophet Grand Abbot Okawa which sometimes supplements and other times replaces a vow of poverty, usually depending on whether it’s being sworn by a monk or samurai.
 
-I know that some of what I've described is based on historical example, and some of it is invented for the fictional setting of Rokugan and does not match the historical concepts of vows.  When I ask you to help me generate vows in the future, I would like you to combine things which I have described here while still drawing on historical Japanese vows, such as those sworn in a Shinto or Buddhist religious order.
-
-Before moving on, here is the high-level description of one of my campaigns:
+I know that some of what I've described is based on historical example, and some of it is invented for the fictional setting of Rokugan and does not match the historical concepts of vows.  I generally want vows to combine things which I have described here while still drawing on historical Japanese vows, such as those sworn in a Shinto or Buddhist religious order.
 
 Here is the vow of obedience sworn by all members of the Order of Bishamon swear in Lion lands (different clans often have different versions of these vows):
 
@@ -4013,25 +3977,9 @@ Unfortunately, the fungal blight kumosaya caught the entire domain by surprise, 
 
 In their role as karmic inquisitors from the Order of Bishamon, the PCs have been tasked with uncovering the mystery of not only what kinds of sins might have prompted the blight, but also why these omens and portents did not forewarn the government.
 
-There are specifically 7 signs which ought to have heralded this disaster:
+There are specifically 7 signs which ought to have heralded this disaster, and some other members of The Order have encouraged the PCs to make use of the present crisis to right wrongs in the domain. As they journey from place to place, look out for any wrongdoing by the wealthy and powerful and then find a way to credibly argue that this was the cause of some individual sign failing to manifest. This would allow the PCs to right a variety of wrongs in addition to solving the overarching mystery. It will be up to the PCs whether or not to employ this tactic.
 
-1) A “pillar of cloud”: A strange and ominous cloud formation should have appeared in the sky over the province of Izumo, perhaps taking the shape of a pillar or tower. The cloud should have been visible from a great distance and persisted for an extended period of time, given the magnitude of the blight. The foretunetellers of Izumo were shocked at the fact that this did not happen prior to the blight.
-
-2) Dead rats appearing in public places: Large numbers of dead rats should have started turning up in public areas, such as streets or markets. The rats would have appeared to have died without any apparent cause or be arranged in a peculiar pattern. The Order of Daikoku, being one of the other Damasu temples, assures the government that Daikoku would have sent such a warning if he were not displeased due to some currently-unknown sin.
-
-3) Strong winds in affected villages: Country monks in the provinces known to be on the lookout for fierce windstorms, and they especially know to report any which cause widespread damage and destruction. The sovereign temples in the capital received no such reports.
-
-4) Prophetic dreams warning of the coming blight: People throughout the domain ought to have had vivid and disturbing dreams about the crops being destroyed or overrun by noxious growths. Thus far, the initial inquiry indicated that that few if any farmers in the provinces can remember such dreams, yet this should have been so widespread as to be the talk of every town in Damasu lands.
-
-5) Augural readings from divinations being performed to predict the coming crop: Those skilled in the art of divination perform readings to predict the quality and quantity of the upcoming crop every year. The signs and omens that they read can be interpreted in a variety of ways, but they should have pointed to the same grim conclusion of the harvest will be ruined by a blight or pestilence. Yet this did not happen!
-
-6) A blood rain: A strange and unsettling rain has sometimes fallen over the region prior to crop blights, appearing to be colored red. The rain is usually accompanied by an unusual smell or taste, and for previous severe blights it has sometimes stained the crops and the earth. (In Lion lands, a red rain is always a sign of impending disaster or a harbinger of war.)
-
-7) A long dry spell: This one actually did happen, and is the only omen to have given any hint about the kumosaya blight. It’s unclear why this and only this sign was given, while all of the others failed to manifest.
-
-Some other members of The Order have encouraged the PCs to make use of the present crisis to right wrongs in the domain. As they journey from place to place, look out for any wrongdoing by the wealthy and powerful and then find a way to credibly argue that this was the cause of some individual sign failing to manifest. This would allow the PCs to right a variety of wrongs in addition to solving the overarching mystery. It will be up to the PCs whether or not to employ this tactic.
-
-One of the PCs is a disciple of Nanube, a member of Lord Moon's heavenly court.  Nanube is known as the Deceiver, or sometimes more simply as the Liar.  Here is a high-level description of Nanube:
+One of the PCs was a disciple of Nanube, a member of Lord Moon's heavenly court.  Nanube is known as the Deceiver, or sometimes more simply as the Liar.  Here is a high-level description of Nanube:
 
 With this in mind, suppose that one of the PCs wanted to swear a vow to Nanube that they would use each and every one of these failed omens and portents in order to "take down" a human or family or institution which was guilty of wrongdoing, by framing them of being the reason why these omens and portents did not trigger.  The idea is that lies will bring about justice when the truth has failed.
 
@@ -4661,7 +4609,7 @@ THE MOTO:
 
 Now that we've discussed gaijin, let's discuss the Moto.
 
-One of my past campaigns involved the Moto family of the Unicorn clan, which are loosely based on the peoples of Mongolia (in the same way that Rokugan is based on Japan and partially Imperial China).
+One of my past campaigns (the "Hidden Way" campaign) involved the Moto family of the Unicorn clan, which are loosely based on the peoples of Mongolia (in the same way that Rokugan is based on samurai Japan with a bit of Imperial China thrown in).
 
 Moto etiquette:
 
@@ -4759,7 +4707,7 @@ The Vindicator Moto have sworn religious vows to oppose the Shadowlands, and the
 
 They are mainly a normal nomadic tribe (like most Moto), but their holy place is Bodi Kaikhan, a shrine consecrated to Emma-O, the Fortune of Death. In addition to being a holy place of the Moto, it is also a pilgrimage destination for members of The Order of Peaceful Repose, a sect of the Brotherhood of Shinsei. This order is rooted in pre-Imperial funerary traditions, formed by priests who developed methods of pacifying or banishing the spirits those who did not pass peacefully from this world.
 
-(It has since been explained to the PCs that Bodi Kaikhan is in fact a shrine to the 4 Gods of Death rather than to Emma-O specifically.)
+(It has since been explained to the PCs in the Hidden Way that Bodi Kaikhan is in fact a shrine to the 4 Gods of Death rather than to Emma-O specifically.)
 
 The Gods of Death:
 
@@ -5239,44 +5187,6 @@ To the extent that the above laws constitute the bulk of Moto laws, it’s notab
 
 
 
-BETWEEN PLACES:
-
-Now let's refocus on Rokugan itself, specifically talking about some miscellaneous setting details which I find interesting and which reflect my vision for the setting.
-
-I've repeatedly made reference to the Forgotten Tomb, which is something I come back to periodically.  This is a general category of place which I refer to as one of the "between places", i.e. places which are coexistent between two different realms.
-
-Here's another introduction that I wrote for a different adventure, in which the PCs journeyed deep into a cave to meet with a gaijin shaman-woman who they believed had wisdom to share with them:
-
-The morning light fades quickly behind you, being already mainly blocked by the Twilight Mountains.
-As you walk deeper into the cave, the light from your lanterns begins to spread out in front of you.
-Normally a lantern radiates light, illumating closer things more brightly than distant surfaces.
-But you walk into the tunnel, you find that very little light is cast behind you, and the light
-in front of you is so dissipated that it creates the effect of an ambient glow, illuminating the
-passage evenly.  You quickly find that you can see the turn in the tunnel 20 feet ahead of you as
-clearly as the hand in front of your face, though the same does not apply to the path behind you,
-into which the light quickly scatters and disperses into the darkness.
-
-As you go deeper, you find that the smoke from your lantern also intensifies, but without the
-lantern itself flaring as it would if it encountered marsh fumes or mine gases.  Instead, the smoke
-rolls out in waves onto the floor ahead of you, being carried faster and more intensely than the
-slight breeze at your backs can account for.
-
-Eventually you come to a dip in the passage, where most of the tunnel is submerged in water.  The
-water is quite cold, and ordinarily you might prefer to avoid it as much as possible, to avoid
-frostbite or worse.  But the smoke from your lantern seems to have multiplied, possibly joining
-some existing smoke hovering above the water.  Indeed, the smell of the smoke has shifted, the
-oily smoke of your lantern mixing with the smoke from some other fires which must be burning
-ahead.  As people familiar with mines as "silver miners", you feel confident that the vapors
-you're encountering are not the "damps" of mine gases, and in fact the smoke seems unnatural.
-
-You are entering one of the "between places".  People have sometimes gotten lost in the Shinomen Forest only a hundred miles from the Gateway to the Land of the Burning Sands and exited the Isawa Woodlands in Phoenix lands.  The Shifting Islands around the Mantis Isles are another example, where chidren playing have fallen asleep and woken up off the coast of Otosan Uchi.  Depending on the makeup of this place, you might find an exit out into the Ivory Kingdom.  Though of course, the most dangerous type of "between places" are the ones which are coexistent between different realms.  The Forgotten Tomb simultaneously exists in the mortal world and in Yomi, the realm of the honored dead.  Regardless of what type of place you are in, this may be your last chance to turn back.
-
-(end of introduction)
-
-
-
-
-
 THE BURNING SANDS DESERT
 
 Something I like in worldbuilding is when there is genuine ambiguity around the nature of something within the setting.  For such an example of "legitimate" debate, consider the existence of the Burning Sands Desert.  The following is also drawn from some of my notes from a previous campaign:
@@ -5350,6 +5260,8 @@ What follows is a brief summary of the six doctrines, each corresponding to the 
 5) Communicating their will unambiguously carries a high price, which is rarely worth paying.  Lesser spirits are easily understood by humans, but the fortunes must reduce themselves to such an inferior existence for a time when they choose to communicate clearly.  Why should they bear that burden when their mortal servants are already given sufficient direction to discern their will?
 
 6) The fortunes are vast in their existence, but humans are deep in our nature.  We are composed of many disparate parts, and a single fortune is the avatar of only a single piece of our composition.  While that existence has a weight far beyond mortal man, in a sense it is we who are the giants, for we are constructions of all the fortunes combined.  The fortunes are clear to any who listen, but we so rarely pay our attention to whatever small part of ourselves speaks their will that we wrongly call the fortunes unfathomable.
+
+(end of introduction)
 
 Note that all of the above continues the running theme of the fortunes as cycle/connection entities which make up the fabric of reality.  Moreover, these doctrines highlight the dynamic nature of the relationship between the fortunes and humans. Whether it's the struggle to understand their instructions, the selective rewarding of their most dedicated followers, or the transformative impact of undertaking tasks on their behalf, these doctrines suggest that the relationship with the fortunes is not just about receiving clear, direct guidance, but also about personal growth, self-discovery, and connection with the deeper truths of existence.
 
@@ -5454,6 +5366,40 @@ With that being said, one concept which the wise do understand in Rokugan is the
 
 
 
+
+BETWEEN PLACES:
+
+Now let's refocus on Rokugan itself, specifically talking about some miscellaneous setting details which I find interesting and which reflect my vision for the setting.
+
+I've repeatedly made reference to the Forgotten Tomb, which is something I come back to periodically.  This is a general category of place which I refer to as one of the "between places", i.e. places which are coexistent between two different realms.
+
+Here's another introduction that I wrote for a different adventure, in which the PCs journeyed deep into a cave to meet with a gaijin shaman-woman who they believed had wisdom to share with them:
+
+The morning light fades quickly behind you, being already mainly blocked by the Twilight Mountains.
+As you walk deeper into the cave, the light from your lanterns begins to spread out in front of you.
+Normally a lantern radiates light, illumating closer things more brightly than distant surfaces.
+But you walk into the tunnel, you find that very little light is cast behind you, and the light
+in front of you is so dissipated that it creates the effect of an ambient glow, illuminating the
+passage evenly.  You quickly find that you can see the turn in the tunnel 20 feet ahead of you as
+clearly as the hand in front of your face, though the same does not apply to the path behind you,
+into which the light quickly scatters and disperses into the darkness.
+
+As you go deeper, you find that the smoke from your lantern also intensifies, but without the
+lantern itself flaring as it would if it encountered marsh fumes or mine gases.  Instead, the smoke
+rolls out in waves onto the floor ahead of you, being carried faster and more intensely than the
+slight breeze at your backs can account for.
+
+Eventually you come to a dip in the passage, where most of the tunnel is submerged in water.  The
+water is quite cold, and ordinarily you might prefer to avoid it as much as possible, to avoid
+frostbite or worse.  But the smoke from your lantern seems to have multiplied, possibly joining
+some existing smoke hovering above the water.  Indeed, the smell of the smoke has shifted, the
+oily smoke of your lantern mixing with the smoke from some other fires which must be burning
+ahead.  As people familiar with mines as "silver miners", you feel confident that the vapors
+you're encountering are not the "damps" of mine gases, and in fact the smoke seems unnatural.
+
+You are entering one of the "between places".  People have sometimes gotten lost in the Shinomen Forest only a hundred miles from the Gateway to the Land of the Burning Sands and exited the Isawa Woodlands in Phoenix lands.  The Shifting Islands around the Mantis Isles are another example, where chidren playing have fallen asleep and woken up off the coast of Otosan Uchi.  Depending on the makeup of this place, you might find an exit out into the Ivory Kingdom.  Though of course, the most dangerous type of "between places" are the ones which are coexistent between different realms.  The Forgotten Tomb simultaneously exists in the mortal world and in Yomi, the realm of the honored dead.  Regardless of what type of place you are in, this may be your last chance to turn back.
+
+(end of introduction)
 
 A recurring concept in my setting is that people who encounter supernatural entities are "touched" by the experience, in ways which can be seen as both a blessing and a curse.
 
@@ -6023,7 +5969,7 @@ For the first time, Hoshi smiled.
 
 [Note from Yuki: because of the pages missing from sensei’s autobiography, I’m not sure if there’s more to this chapter.  I’ll investigate further before this is published.]
 
-With that journal entry complete, here are some backstories of NPCs who are legionnaires in the 3rd Imperial Legion, which is stationed on the Kaiu Wall which protects the Empire from the Shadowlands.  Some of these backstories rely on the understanding that the human body can expel and heal itself from small amounts of Shadowlands taint, but that with enough of it the taint settles into your body permanently, making you forever tainted.  Also note that all of these 3rd Imperial Legion backstories are being told by an unreliable narrator, an unnamed courtier who is relaying these stories to an unknown third party:
+With that journal entry complete, here are some backstories of NPCs who are legionnaires in the 3rd Imperial Legion, which is stationed on the Kaiu Wall which protects the Empire from the Shadowlands, where my "Kaiu Wall" campaign took place.  Some of these backstories rely on the understanding that the human body can expel and heal itself from small amounts of Shadowlands taint, but that with enough of it the taint settles into your body permanently, making you forever tainted.  Also note that all of these 3rd Imperial Legion backstories are being told by an unreliable narrator, an unnamed courtier who is relaying these stories to an unknown third party:
 
 The legion's general is Matsu Tsutomu.  When assigned to the Wall during his first tour in the Imperial Legions, Tsutomu was almost killed while on a raiding party.  He and his comrades had been assigned to clear out a horde of goblins about 80 miles from the Wall.  What the Hiruma scouts had failed to realize was that a family of ogres had taken control of the horde and merged it with other nearby hordes.  The battle was intense, with heavy losses on both sides, and most of the raiding party was killed.
 
@@ -6045,29 +5991,7 @@ Panicked, he departed immediately, and despite the protests from his family he d
 
 It has now been almost two decades since his last great battle.  Now that he is well into his 40s, many wonder how long he can remain in command before being forced into retirement.  Tsutomu is convinced that the Day of Thunder heralds dangerous times ahead, and believes it will not be long before his destiny is fulfilled.
 
-Let us now consider the ambiguities and interpretations of this story.
-
-Matsu Tsutomu's experiences hold considerable ambiguity. At the core, there are two main incidents that appear supernatural: his alleged possession by an ancestor, Matsu Mori, during a battle, and his premonitory intuition or dream hinting at a disaster striking his homeland.
-
-From a mundane perspective, it's plausible that Tsutomu, under the extreme stress of battle, might have experienced what is commonly termed a "hysterical strength" phenomenon. This could explain the "inhuman display of strength and skill" he manifested to defeat the ogre. His conviction of possession by Matsu Mori might have been a psychological reaction, perhaps a dissociative state, in response to an intense, life-threatening situation.
-
-His premonitory intuition or dream could be attributed to an anxious mind grappling with the pressure and responsibility of his position. Constant exposure to the threat of the Shadowlands could have fed his subconscious fears, manifesting as a nightmare or waking premonition of disaster.
-
-From a supernatural perspective, within Rokugan's cosmology, his experiences take on a different hue. Rokugani tradition is steeped in ancestral reverence, and the belief in ancestral spirits guiding or intervening in the lives of the living is commonplace. Tsutomu being possessed by his ancestor, Matsu Mori, during a critical battle aligns with this worldview. Similarly, his premonitory dream could be seen as a gift of foresight, a divine warning or omen from the Kami, reinforcing his connection to supernatural forces and destiny.
-
-Current Influence:
-
-Regardless of the nature of Tsutomu's experiences, they've indelibly shaped his worldview and guide his decisions as the general of the 1st Imperial legion.
-
-His purported possession by Matsu Mori fostered in him a deep-seated belief in destiny and a sense of divine mandate, which continues to drive him. This conviction, regardless of its basis in reality, has made him fearless in the face of danger, led him to volunteer for additional tours on the Wall, and motivates him to train obsessively and study Shadowlands lore. This also means he perceives his role not just as a duty, but as a personal calling to serve and protect the Empire.
-
-His premonitory intuition of a disaster striking his homeland has drastically impacted his personal life and further fueled his commitment to his duty. His self-imposed exile from his family and homeland illustrates the depths of his commitment to safeguarding the Empire. It also shows his willingness to make personal sacrifices for the greater good, which has undoubtedly earned him the respect and loyalty of his soldiers.
-
-Furthermore, Tsutomu's belief in the validity of his premonitory dream means that he is constantly on the alert for potential threats to the Empire. His sense of urgency and expectation of an imminent, major conflict likely influences his strategic decisions, making him a vigilant and proactive leader.
-
-In essence, Tsutomu's experiences, whether mundane or supernatural, have cultivated a profound sense of duty, self-sacrifice, and resolve in him, shaping him into a committed, driven, and vigilant leader of the 1st Imperial legion.
-
-With all of that in mind, Tsutomu is not the only member of the 3rd legion who attunes their attention to the tides of fate:
+Here's a much shorter example:
 
 Mirumoto Uta is a samurai merchant who works as a supply sergeant for her battalion in the 3rd Imperial legion.  She is acquiring a reputation as a degenerate gambler, and many believe that if she were not wealthy enough to sustain the frequent losses that all gamblers face, it would put her position and career in jeopardy.  She has explained that she doesn’t gamble for the money or the thrill, but as a form of fortune telling.  It is well known that luck ebbs and flows like the tide, with peaks and troughs like waves on the beach.  By gambling regularly to measure whether her good fortune is waxing or waning, she can choose opportune times to volunteer for missions in the Shadowlands.  Uta attributes her success in goblin battles to this practice.
 
@@ -6978,6 +6902,189 @@ This is far from the most questionable type of bounty collection which might tem
 ** Depending on the circumstances, an unscrupulous local magistrate might be happy to pay this bounty without caring whether the true criminal was slain.  After all, the magistrate can now brag that no one escapes their wrath after committing a crime in their jurisdiction, even after fleeing to distant lands.  While no samurai of honor would ever stoop to such duplicity, even an honest magistrate might not think to interrogate such a matter too closely, or question the authenticity of an already-difficult-to-identify severed head preserved in salt.
 
 * One reason to obtain Imperial travel papers (or letters of introduction from prestigious officials) is to unambiguously identify yourself while far from home.  It used to be distressingly common for unscrupulous local officials to shake down travelers who lacked such identification.  Now that Wasp bounty hunters are increasingly checking for criminals along the Empire's roads and waystations, they will certainly face the same temptations to accept a gifts of consideration in lieu of formal identification from "suspicious" travelers.
+
+
+
+
+
+THE SPARROW CLAN
+
+After his Imperial Majesty Hantei the Tenth gifted his Empire with the then-new system of the "Six Ministries":https://karmicinquisitors.obsidianportal.com/wikis/six-ministries, some within the great clans wrestled with the various ways to apply this new structure upon their existing way of life.
+
+In particular, while every domains had always collected taxes, the new Ministry of Revenue standardized both the assessment of land yield and the rates of tax and rent.  Taxes could now be no more than one-third the estimated land yield, and rent no more than one-sixth, mandating  by Imperial decree that even tentant farmers need never surrender more than half the expected output of their fields.
+
+In earlier centuries, most farmers had worked their own land, but it is the natural tendency of farmers over time to sell what holdings they possess in periods of great need (usually famine or sickness) to wealthy merchants or nobles, who had gradually become the landlords over most of the Empire's farms.  This has its advantages; the Ministry of Revenue can hold landlords responsible for their taxes even when their tenants are unable to pay rent, thus ensuring a more stable continuity.  On the other hand, greedy landowners might squeeze the farmers to a degree which causes great suffering and instability.  This was especially true in regions where rent had previously been higher, as the Imperial decree of the tenth Hantei had significantly reduced the profitability of holdings in domains where rent had previously been much higher.
+
+During a handful of lean years late in the reign of Hantei the Tenth, domains throughout the Empire had to decide what to do with landlords unable to meet their tax obligations.  A common approch had always been to confiscate some portion of their holdings as payment, and the new Ministry of Revenue had now standardized the assessed value of such land, making it more straightforward (and therefore more common) to determine exactly how much farmland would pay exactly what amount of debt.  But what specifically should be done with such land?
+
+While local daimyo could decide to continue auctioning off this siezed property, or granting it as rewards to their loyal vassals, a new idea was beginning to grow in popularily among the new Imperial chancellary.  "Perhaps we should give the land back to the peasants," argued Doji Suzume, the second son of the Crane Clan Champion.  Suzume's advocated for a virtuous cycle - landlords would provide stability as long as they are able, and then during times of great need it would be returned to the peasants.
+
+Some went even further; Suzume's aunt (his mother's older sister) Doji Masako argued that the so-called "stability" provided by merchant landlords would be more than offset if the peasantry was not deprived of the yearly rent money and thus had the general prosperity to better weather the lean times.  Although never officially backing this position, Suzume's uncle (his father's younger brother) Doji Onegano, the chancellor who represented the Doji Family and thus the entire Crane clan on the Imperial chancellary, publicly stated that the wealth of the Crane was certainly sufficient to trade away some of their income for a more just balance within the Celestial Order.  As this thinking began to gain a small measure of support (especially among the Dragon and Phoenix clans) Onegano went even further, stating that the teachings of the Shinsei as demanded such actions, and that this sort of renunciation of wealth was in fact required in order to live in accordance with the Tao.
+
+While this thinking appealed to some, most rejected this thinking, and Onegano's rivals immediately began conspiring about how to defeat both his faction and the dangerous ideology which drove it.  Rather than censure him or provide him with opportunties to righteously martyr himself, his brother Doji Ginrei (the Crane Clan Champion) petitioned the Emperor to create a new minor clan, where these principles could be tested.  He generously offered up hundreds of square miles Crane territory - the Iron Foothills between Kakita and Daidoji lands, so that all the Empire could see whether these teachings would truly yield the prosperity.  And because Ginrei's second son Suzume had been among this movement's most famous advocates, Ginrei further offered up Suzume as the clan's founder, to be aided by with Ginei's brother Onegano and his sister-in-law Masako.
+
+Signing the charter of the new Sparrow Clan was among the final acts taken by the aging Hantei the Tenth.  Suzume, first of his name, was quickly shuffled down to the now-renamed Sparrow Hills, along with many other members of this new faction, who were all but exiled from the capital.  They were joined by not only their political supporters (some who came in earnest, and others who were similarly forced into it as a form of exile) but by a surge of peasants excited by the prospect of being given land which would be forever theirs, paying always their taxes and never any rent.
+
+Suzume's older brother, Doji Tadaka, went on to become the Doji daimyo (and thus the Crane Clan Champion), and one of the founding members of the Gozoku.
+
+h3. Sparrow lands
+
+Suzume and his followers quickly discovered the poor quality of the lands he had been granted.  The hilly terrain was unsuitable for rice farming, as the sloping hills made it impossible to maintain flooded rice patties.  The crop yield of the "upland rice" that could be grown on the hillsides was barely half of what could be grown in the surrounding territories, and even the marshy valleys between the hills were barely suitable for taro, rather than more productive crops.  What's more, their rivals in the Imperial chancellary (supported by the greedy first Imperial treasurer, Yasuki Taka) instituted unfavorable land yield assessment standards on these less common crops which more than wiped out any gains the Sparrow clan could hope to realize from eliminating so-call "inefficient middlemen" landlords.
+
+The most punishing regulation was assessing "upland rice" fields as if they could produce a crop every year.  While "wet rice" grown in flooded rice paddies do not require a crop rotation cycle and the same fields can be used continuously for centuries without depleting the soil, upland rice often needs 2 years of other nutrient-replenishing crops before it can be grown again.  However, the standards published by the new Ministry of Revenue assess the yield of ALL riceland as if rice is grown each year, inflicting punishingly high taxes on the beleaguered Sparrow.
+
+Still, the humid southern environment was well-suited for growing:
+* tea, which can always be sold to raise moneys needed to buy the food which the Sparrow cannot grow themselves
+* mulberry trees, whose leaves are the only food eaten by silkworms, providing a much-needed cottage industry for Sparrow peasants to supplement their meager incomes
+* autumn soybeans, which can often be grown and harvested in the warm fall months after the upland rice harvest; the Sparrow eventually found that a single season of autumn soybeans followed by a when combined with planting Azuki beans and Soba (buckwheat) in the following year allows for a 2-year crop rotation cycle rather than a 3-year one
+* foxtail millet and barley grow even on the dryer hilltops which dot the Sparrow Hills - although the Sparrow refer to their brewed alcohol as "barley sake", most of the rest of the Empire refuses to call it that, preferring the "polite" term "country wine" (though visitors to Sparrow land often find a cold "barley tea" of steeped roasted barleycorns to be a surprisingly refreshing and nutritious beverage on a hot day)
+
+h3. Sparrow land management
+
+Tenant farming is outlawed in Sparrow lands, as per the terms of their Clan charter.  With no landlords, the Sparrow had to rely on local village headsmen far more than other clans for ensuring that the land was managed and taxes properly collected.  However, the impoverished Sparrow clan was unable to provide the large stipends used by other clans to maintain the loyalty of these peasant headsmen.
+
+As a result, the Sparrow do not merely oversee their village farms from their county townships.  Instead, **unlike anywhere else in the Empire, there are Sparrow samurai living in farming villages**, directly conducting the oversight and management which would otherwise need to be done by peasant village headsmen.
+
+Other clans scorn the Sparrow as "country bumpkins", often claiming (falsely) that their samurai are literally reduced to farming.  That said, out of approximately 2,000 Sparrow clan samurai, at least one samurai is indeed posted to oversee each of their approximately 100 village districts as a "village overseer", and because their immediate family often lives with them, this does mean that a significant fraction of Sparrow samurai live not only "out in the counties" but literally reside in the countryside.
+
+For both practical and spiritual reasons, Sparrow village overseers swear a vow of poverty to Daikoku upon assuming their posts:
+
+bq). I am [full name], child of [personal names of parents], of the lineage of [lineage name].  I stand before you as the appointed village overseer of [village district] within the Sparrow Hills.  I swear this vow to Daikoku, the Fortune of Wealth and Bounty, whose favor sustains the earth and whose wisdom guides its stewards.  For the duration of my service in this post, I renounce all pursuit of personal riches and solemnly swear to maintain no personal wealth in excess of one gold koku, nor shall I possess more than one singular item of any category of belonging.  Should I be granted any item that creates a duality in my possession, or any gift that exceeds this singular necessity, I vow to immediately surrender the duplicate to the farmers under my authority.
+
+bq). I vow to live among my neighbors, taking no shelter and consuming no grain of higher quality than that which the peasants of this district use to sustain their own lives.  In return, I beseech Daikoku’s grace: grant me the discernment to manage our thin soil wisely and the vision to see opportunities for our village to flourish, even in lean years.  I swear this vow with a pure heart and sincere intentions, in the name of Daikoku and in the light of our radiant Lady Sun.
+
+
+
+
+
+THE FOX CLAN
+
+At the dawn of the Empire, most of the humans now living under the Celestial Order were reluctant to farm.  Accustomed to the unjust petulance of the barbarous warlords who had previously ruled over them, many strove to continue living outside of the light of civilization, fearful of their new rulers.
+
+There were fewer humans in those days, so the bounty of the wilds was sufficient for most.  Whole communities could be sustained by hunting, foraging, and sometimes even tending to small flocks or growing wild tubers.  For a time, such peoples refused the Emperor's justice and the blessings of heaven.
+
+In the untapped wilds of the far west, these peoples were often aided by the gods of the land, both the spirits who dwell in the unseen world and the elemental kami.  These were not the folk practices of unclean maho, but shamans who had learned the rhythms of the world and how to solicit the divine favor of the gods.  Although these shamans rejected the newly revealed truths of shugendo and shinseism, they could not be put to death as the maho-tsukai were, as doing so would have angered the gods whom they served.  However, these shamans could not be permitted to remain in the west, as the esteem in which they were held was leading many away from the guidance of the Lady Shinjo.
+
+Asako, first of her name (daimyo of the Asako family of the new Phoenix clan) offered sanctuary to these "shamans of the ki rin", centered around the newly constructed "Ki Rin's Shrine".  However, these shamans of the west were not all of one mind or tradition, and they clashed with each other just as much as they created strife for their Asako hosts.  While many of them were eventually civilized, marrying into the Asako family and adding their ancient lore to the secrets of the Phoenix, others continued to resist the pull of civilization.
+
+While the Asako were unwilling to retract their hospitality, they sought out other places where their intransigent guests might be better suited.
+
+h3. The Kitsune Forest
+
+The third largest forest in the Empire is the Kitsune Mori ("fox forest").  Bordering the Lion on the north, the Scorpion on the west, the Crane on the east, and the Crab on the south, this vast forest is a source of many natural resources... and just as many supernatural troubles.
+
+With the Empire lacking the number of priests and shugenja needed to manage the hosts of troublesome spirits venturing out from the depths of the forest, the remnants of the "ki rin shamans" were granted authority over the forest and the lands immediately surrounding its at-that-time borders.  Hantei Genji signed their clan charter, granting them not only the land but the promise that the forest itself and its resources would be free from Imperial taxation, in recognition of its wild and feral nature.  The Shining Prince understood that he wild gods and spirits and foxes of the great forest could not be tamed or subdued, and that only with patient spiritual discipline could these being be brought out of conflict with their neighbors and into harmony with the Empire.
+
+The line of the Kitsune daimyo are directly traced to these ancient shamans.  Shinun who was a member of one of the primitive tribe relocated to the region, who one day found a dead fox and her two still-living kits snared in a hunter's trap.  One was a black fox, the other a white fox, both auspicious omens.  Shinun freed the kits and released them into the forest.
+
+Osusuki was the black fox, and grew into a shapechanger who married one of Shinun's daughters and thus became the progenitor of the Kitsune family.  Akomachi was the white fox, who grew into a 10-tailed fox spirit who continues to appear to travelers in the form of a silver-haired woman with hands as flawless as snow, alternately granting wishes or stealing hearts or both.  Akomachi is the ancestor of most of the humans in Kitsune lands, and Akomachi is the ancestor of most of the foxes in the Kitsune forest.
+
+Although she did not wield the title at the time, Shinun is now recognized as the first Fox Clan Champion, and the children of of Osusuki and Akomachi ushered in a new age of coexistence, and the forest gradually ceased troubling the 4 major clans in its neighboring domains.
+
+h3. The Fox clan's economy
+
+Although the Fox have less than half the farmland of an average domain, they are quite wealthy from the bounty of their vast forest.  Their priests meticulously track and measure the holy places within the forest which must remain forever free from logging.  That still leaves enough trees to supply the lumber for the entire region, accounting for easily ten thousand koku of income per year just from what can be transported by cart, with significantly more being shipped downriver.
+
+Charcoal is even more in demand, and is significantly easier to transport.  Fox clan charcoal burners are more numerous than farmers, easily identified by their soot-stained clothes.  White charcoal made from sacred oak is a specialty, highly sought-after for its odorless and practically smokeless flame.  The specialists who make such "shrine-grade" charcoal can be identified by their reddened "kiln eyes" and white-dusted clothing.
+
+Incense is even more profitable, with less overall demand but significantly easier transport costs.  The oleoresins and pinewood of the forest are perfect for making ""Kitsune-Koh" (fox scent) incense, highly sought after throughout the Empire.
+
+Fox lands have a higher population than their farmland could support because of the bounty of the forest.  Wild game, shelf mushrooms, and fruits and nuts support not only those who live on the forest's edge but the many hermits and other forest-dwellers who make their lives there.  That said, such foragers cannot afford to eat the best mushrooms, especially matsutake "pine mushrooms" which grow wild in symbiosis with the roots of pine trees.  Even more common wood-ear and shitake mushrooms are widely understood to have superior spiritual essence and purity when wild-harvested rather than cultivated.
+
+
+
+THE THREE MAN ALLIANCE
+
+As two minor clans which share a border, the [[Fox clan]] and the [[Sparrow clan]] have been allies for many centuries.  [[The Crane wives]] set to work after the founding of the [[Wasp clan]] to turn this longstanding alliance into a political and military bloc.
+
+These three minor clans of southeast Rokugan came together because none of them alone possessed any more power than a single vassal house... and in many ways each was even more vulnerable, due to lacking the protections of a patron Family of a great clan.  The Three Man Alliance has two main provisions: a military defense pact and a political caucus on the Imperial chancellary.
+
+h3. The Imperial Chancellary
+
+There are around 350 houses in Rokugan, and therefore about 350 representatives on the Imperial chancellary.  When the chancellary votes on a recommendation to the Emperor, who gets to weigh in is determined by the matter at hand.  On many topics, the full chancellary each makes their opinions known, and their votes are counted.  Some more select matters are voten on by only the heads of the 32 major Families (the 29 families of the 7 great clans, plus the Imperial families of the Seppun, the Miya, and the Otomo).  And for certain matters of particular concern, only 7 representatives of the 7 great clans have a say.
+
+Vote-counting and coalition building are a core part of the political life of the Imperial chancellary.  On topics which directly affect a clan's interests, houses and families from that clan will typically vote as a bloc.  However, there are many matters which are particular to individuals or too small or distant for a large clan to have a unified opinion, and on these matters the entire chancellary will scrambled to call upon their alliances and affections to enact their preferred outcome.
+
+The Three Man Alliance has formed a caucus, i.e. all three members have agreed to always vote the same way.  Convince any two out of the three chancellors, and the third is bound to go along and cast their vote according to the will of the majority of the caucus.
+
+This has somewhat raised the profile of these three minor clans, as one can potentially make a single visit to reliably secure several votes.  That said, because all three clans of the Three Man Alliance owe favors to the Crane clan, their voting bloc is occasionally spoken for prior to even being consulted.
+
+h3. The Lion/Crane War
+
+The military defense pact between the clans of the Three Man Alliance was intended to be more symbolic than strategic.  The Fox clan has enjoyed mostly peaceful coexistence with most of its neighbors for most of the history of the Empire, and the Sparrow clan benefits from hilly terrain which is simultaneously too defensible to be easily taken and too poor to be worth the effort.  Even the new Wasp clan has benefitted from its Imperial position, making the political fallout from attacking it not worth incurring the wrath of the Hantei dynasty (at least, so long as the Wasp retain the Imperial favor by meeting the Emperor's expectations).
+
+All of that changed with the Lion/Crane war.  Sparrow lands are directly south of Kyuden Kakita, to which the Lion clan laid siege.  [[:matsu-no-masao-agetoki]] generaled the cavalry forces in the southern theater of operations of the war, and the defense of Kyuden Daidoji relied on the Sparrow hills as a base of operations from which to block the supply lines of the besieging armies.  The Three Man Alliance never formally declared war on the Lion clan, but they gave safe passage to the Crane through Sparrow territory - but crucially NOT through Hachinaga pass.
+
+That said, the Wasp clan hosted numerous Crane and Lion guests at Hachinaga Keep throughout the war, and Daidoji scouts were said to sometimes slip through the pass undetected in order to infiltrate Lion territory and report on the movements of the enemies of the Crane.  Daidoji sappers were sometimes found deep in Lion territory, in places that they could not possibly have reached without the use of Hachinaga pass.  [[The Crane wives]] frequently expressed frustration with these troublesome guests who slipped past them without the Wasp's knowledge, and numerous individual members of the Daidoji family are permanently banned from Hachinaga Keep to this day.  Still, it just seemed to keep happening throughout the war, despite the best efforts of the Wasp to monitor their guests.
+
+While no battles were fought in Wasp lands, both Wasp and Fox samurai contributed to the defense of the Sparrow hills, and Lion cavalry forces were repelled on numerous occasions over the course of the war.
+
+
+
+
+
+THE CRANE WIVES
+
+After the founding of the Wasp clan, Tsuruchi’s allies in the offered three beautiful and talented young courtiers as wives for him and his two most loyal retainers. These three women form the Wasp clan chancellary, which is referred to by many in the Wasp clan as “the crane wives”.
+
+Whether this the allusion to the famous fable is unfortunate or fitting or both depends on your view of the moral of that story, and this question is a subject of spirited debate within the Wasp clan.
+
+h3. The wives
+
+Tsuruchi Naomi is the youngest daughter of Doji Kuwanen, the Crane Clan Champion.  She married Tsuruchi immediately after the founding of the Wasp clan, and she declared at the beginning of this year that she is beginning to plan the arranged marriage for their eldest son Ichiro (who is currently 12, and therefore only a few years away from being able to marry).
+
+Tsuruchi Ami is the wife of Tsuruchi Takuan, and the head of the Ami lineage.  This is commonly referred to as the "peasantborn" lineage, as most of the samurai in this lineage were either the peasant yoriki who assisted Tsuruchi in his days as an Imperial bounty hunter, or the mercenaries who fought under him when he retook Hachinaga Keep from his treacherous uncle.  Takuan was Tsuruchi's most accomplished peasant assistant, and the only peasantborn Wasp samurai to merit a Crane wife.
+
+Tsuruchi Hitomi is the wife of Tsuruchi Kyoma (the PCs' boss), and head of the Kyoma lineage.  This is the lineage joined by substantially all of the samurai from other clans (and more than a few ronin) who joined the Wasp clan after its founding.  The Kyoma lineage has significantly less internal cohesion than either of the other Wasp lineages; unlike the Tsuruchi lineage there is no common ancestry traced through the common Shin lineage, and unlike the Ami lineage there is no commonality of having come from peasant stock before being elevated into the samurai caste.
+
+h3. The fable
+
+There are many variations on this famous story, most of which share the same basic structure.  The most famous version told version was immortalized by the famous Crane clan storyteller Doji Shizue.  Here is a high-level summary of that account:
+
+bq).  A man saves a crane that had been shot down by hunters.  That night, a woman appears at the man's door and tells him that she is his wife. The man tells her that he is not wealthy enough to support them, but she tells him that she has a bag of rice that will fill their stomachs. Every day, the rice never goes down in the sack, and it always stays full. The next day she tells the man that she is going in a room to make something and that he is not to come in until she is finished. Seven days have passed by and she finally comes out with a beautiful piece of clothing, but she is very skinny. She tells the man to go to the markets the next morning and to sell this for a very large price. He comes back home and tells her that he sold it for a very good price. After that, they are now wealthy. The wife then goes back into the room, telling him once again not to come in until she is finished. The man's curiosity takes over and he peeks in, realizing that the woman is the crane whom he saved. When the crane sees that the man has found out her true identity, she says that she cannot stay there anymore and flies away to never come back.
+
+The Fox clan claim to possess the "original" version of the story; while many local tellings offer their own accoiunts, the Fox clan was founded by those who married shapeshifting animals, and their library has copies of this story which supposedly date back centuries before any other recorded accounts of this tale.  (On the other hand, foxes are notorious tricksters, and only a fool would uncritically accept a fox's assertions.)
+
+bq). A man marries a woman who is in fact a crane disguised as a human. To make money, the crane wife plucks her own feathers to weave silk brocade, which the man sells, but she becomes increasingly ill as she does so. When the man discovers his wife's true identity and the nature of her illness, devastated by the truth, he demands her to stop. She responds that she has been doing it for love, for them. The man says that love exists without sacrifice, but he is wrong. He who lives without sacrifice for someone else does not deserve to be with a crane.
+
+While these stories share the same basic structure, they have somewhat different implications.  Those who refer to the Wasp chancellors as "the Crane wives" mean might mean very different things, depending on which version of the story they accept, and what they consider the moral to be.
+
+TSURUCHI NAOMI
+
+Naomi is the youngest daughter of Doji Kuwanen, the Crane Clan Champion (i.e. daimyo of the ruling Doji family of the Crane clan).
+
+Kakita Yoshi arranged the marriage to cement the relationship between the Crane and Wasp clans, and to ensure that the new Wasp clan would be shaped by a talented and connected Crane courtier.
+
+The eldest son of Tsuruchi and Naomi is currently 12 years old. His childhood name is Ichiro (“first son”), though unlike most children called Ichiro from birth, he plans to choose the name Tsume Ichiro at his gempukku, as he is not only the “first son” of his parents but the first son of the Wasp.
+
+As Ichiro nears his gempukku, Naomi has announced that she will begin the long process of matchmaking this year (1130). She hopes to consult with Kaori, the Imperial matchmaker, but has initially found that her Crane relatives are attempting to block this access; they would prefer Ichiro to be matched with a Crane wife and for Naomi to remove from consideration the possibility of a Lion or Scorpion marriage. This caused some degree of tension in the previous season’s Winter Court of 1129 (held at Ryoko Owari), and Naomi has already begun researching alternatives in case her Crane relatives block her access to Kaori.
+
+TSURUCHI AMI
+
+Tsuruchi Ami is the chancellor of the new Ami lineage of the Wasp, known colloquially as “the peasantborn lineage”. When she was still Doji no Tsume Ami, she was married to Tsuruchi Takuan, the most accomplished peasant informant in Tsuruchi’s employ. Takuan was instrumental in finding reliable mercenaries who could be relied upon to keep to the secret mission of infiltrating Hachinaga Keep.
+
+Takuan himself was not made chancellor, as his background made him unsuitable for such work, and so his wife was given the position. Takuan now serves as the Wasp Minister of Retainers.
+
+TSURUCHI HITOMI
+
+After the founding of the Wasp clan, Tsuruchi’s allies in the offered three beautiful and talented young courtiers as wives for him and his two most loyal retainers. These three women form the Wasp clan chancellary, which is referred to by many in the Wasp clan as “the crane wives”. (Whether this the allusion to the famous fable is unfortunate or fitting or both depends on your view of the moral of that story, and this question is a subject of spirited debate within the Wasp clan.)
+
+Hitomi’s elder brother, Kakita Daini, inherited “the ink-flight scrolls”, an series of silk hangings painted with fine calligraphy by the legendary archer-poet Kakita Akechi, who famously stated “the path of the arrow is the most perfect line ever drawn”.
+
+The “Akechi Scrolls” (also known as the Ink-Flight scrolls) had their calligraphy and illustrations painted using the fletching of arrows. Akechi would dip his arrows in ink and shoot them with such precision that the feathers would “paint” the strokes of kanji onto the silk as they passed or struck.
+
+Twenty years ago, the daimyo of the Masao vassal house of the Matsu family was visiting Kyuden Kakita with his eldest son (and heir to the Masao domain), Matsu Agetoki. Kakita Daini was the best archer in the Kakita house, and Aketoki – an accomplished archer himself – challenged him to an archery contest. The two of them spent the afternoon each challenging the other to impromptu feats of precision, naming certain shots for the other to make, and arguing with increasing tempers about the fairness of the challenges, or the trickery (as in trick-shooting) of each other’s accomplishments.
+
+Finally, Agetoki angrily declared that Daini hit a human-sized target with reliability from even such a distance as across the Kakita castle courtyard. Daini furiously declared that he certainly could, and the two of them made a wager. Agetoki would stand “just as I am now” on one side of the courtyard, and Daini would take aim and shoot at him. Then Daini would stand “just as you are now” and let Agetoki do the same. Then they would repeat. Whichever man backed out or first rendered unable to stand would forfeit.
+
+Agetoki wagered the Owari province of the Masao domain (once he succeeded his father and became the Masao daimyo) against the ink-flight scrolls. Daini sneeringly agreed, laughing at the fact that if Agetoki survived his arrow, he would likely be disowned and removed from the line of succeession so that his family could keep the province, and that he might as well prepare to commit seppuku.
+
+Daini’s arrow struck true, to Agetoki’s chest... at which point Agetoki was revealed to have slipped a metal sheet underneath his clothing. Agetoki took aim on his turn, offering Daini a chance to forfeit. Daini refused, accusing Agetoki of both shameful deceit and (worse!) showing bad manners to his Crane hosts if he refused to cancel the wager. Agetoki fired, his arrow striking true, and Daini fell to the ground.
+
+Agetoki’s father seemed perhaps even more furious than the Kakita, and he took his leave, declaring that he and his son took would leave without the Akechi Scrolls. However, as they departed Kyuden Kakita, a messenger from Kakita Toshimo (at that time the daimyo of the Kakita family) brought to them the Akechi Scrolls, along with a message that the terms of the wager had been met, and the honor of the Crane clan would not permit them to keep possession of this great heirloom after staking a wager in good faith.
+
+Daini died the following morning from his wounds. His sister chose the name Hitomi for herself a few years later at her gempukku, pledging to reclaim the lost faimly heirlooms. Unfortunately, the Lion/Crane war deterred those plans, and at this point the goal seems further away than ever.
+
 
 
 
