@@ -186,7 +186,7 @@ minimum of 1.
 
 **Fifth Dan:**
 After making a successful or unsuccessful parry roll, the attacker 
-deals 10 fewer light wounds on their next 2 attacks.
+deals 10 fewer light wounds on their next 2 damage rolls.
 
 
 ## Isawa Duelist School
@@ -508,7 +508,8 @@ You roll an extra 3k1 on wound checks.
 **Fifth Dan:**
 After you successfully parry, the TN to hit the parried opponent on 
 the next attack directed at them this combat is lowered by the 
-amount by which your parry roll exceeded its TN.
+amount by which your parry roll exceeded its TN.  This can lower the
+TN to a negative number.
 
 
 ## Shinjo Bushi School
@@ -535,6 +536,7 @@ You get a free raise on parry rolls.
 After a successful or unsuccessful parry, all your action dice are 
 decreased by X, where X is equal to your attack skill. Action dice 
 are considered to have been held since their newly lowered value.
+This can lower dice to negative numbers.
 
 **Fourth Dan:**
 Raise your current and maximum Air by 1. Raising your Air now 
