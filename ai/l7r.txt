@@ -5,7 +5,7 @@ I'm the GM for a Legend of the Five Rings campaign.  My version of Rokugan is ba
 
 
 
-I should probably start by talking about my version of Rokugan, which I run as a "low fantasy" setting.  Magic and gods and other supernatural things exist, but they are relatively rare.  However, because they exist, people are justifiably superstitious, since it is difficult to tell which of your prayers and practices are helpful and which produce no effect.
+I should probably start by talking about my version of Rokugan, which I run as a "low fantasy" setting.  The core conceit of my setting is "Rokugan is the kind of world that historical people believed themselves to be living in".  Magic and gods and other supernatural things exist, but they are relatively rare.  However, because they exist, people are justifiably superstitious, since it is difficult to tell which of your prayers and practices are helpful and which produce no effect.
 
 Thus, rather than focus on the supernatural, I'd like to begin by discussing the physical, material reality of Rokugan, how it's organized, etc.  I generally describe Rokugan as "Japanese samurai culture with Chinese geography".  Even saying "samurai culture" is reductive since e.g. Heian-period Japan was significantly different than Edo-period Japan.  Similarly, saying "Chinese geography" isn't quite right, since Rokugan's geography doesn't look very much like China, but the phrase does convey that Rokugan is not an island surrounded on all sides by water and that it is much larger than Japan.
 
@@ -2865,7 +2865,7 @@ With this work complete, Maiko came to Toshi Ranbo last winter on a warrior's pi
 
 THE FIRST TOSHI RANBO CAMPAIGN:
 
-The "Karmic Inquisitors" campaign is actually the second time that I've set a campaign in the Damasu domain.  An earlier campaign was set in Toshi Ranbo, and here was my campaign overview at that time:
+The "Karmic Inquisitors" campaign was actually the second time that I've set a campaign in the Damasu domain.  An earlier campaign was set in Toshi Ranbo, and here was my campaign overview at that time:
 
 For a thousand years the the city of Toshi Ranbo was the capital of the Damasu, one of the largest houses of the Akodo family.  Three years ago the domain was conquered by the Tsume, one of the largest houses of the Doji family.  Due to a severe flooding after a torrential rainstorm, the city was cut off from reinforcements, so the Tsume attacked with a huge army and took the city before reinforcements could arrive.
 
@@ -3230,7 +3230,6 @@ HONOR CASES
 The following day, Akaharu challenged Tsuyokatsu to a duel over these verbal insults.  Tsuyokatsu publicly apologized and took back his rash words, citing his alcohol consumption.  He went on to publicly state that he could never defeat Akaharu in a fair fight, and that it was only due to the unusual circumstances (Akaharu's drunkenness) that he had prevailed.  However, Akaharu was not satisfied, and insists that the duel go forward.
 
 As a formidible duelist himself, captain Doji Renshi agrees, and ordered Tsuyokatsu to accept the challenge.  However, Tsuyokatsu's father told him not to, and the matter is appealed to the PCs, who now must decide whether they feel the duel should go forward.
-
 
 2) Tsume Soshitatsu is the third child in his family, and his parents decided when he was born that he was to become a merchant.  At birth he was betrothed to a girl from the House of Isawa, whose family also has a strong history of raising merchants.  However, Soshitatsu's older siblings ended up falling ill and dying when he was very young, leaving him as the only child.  His parents decided that he needed to be raised as a bushi; while they believe it's good to raise merchant children, they only do so when there's already an older child to carry on the family's obligation of military service.
 
@@ -4424,7 +4423,7 @@ Thus, it is clear that the tribe of Gaheris is correct in its claim that theirs 
 I hope this report is satisfactory, as it should answer the question of the Moto homeland. I am not generally knowledgeable about the Moto or the Ki Rin, but if you have other particular questions I can find those who are and discern the correct answers for you as I have done here.
 
 Daotai Kirghiz Bashi
-Magistrate under Kitsuki Tetsi, the Minister of Justice of the Moto clan
+Magistrate under Kitsuki Tetsu, the Minister of Justice of the Moto clan
 
 Note that Bashi incorrectly refers to the Moto as a "clan" rather than a family of the Unicorn clan.  Apparently the northern tribes consider the Moto to be allies of the Unicorn rather than vassals of them.  Considering how fiercely independent the Moto are and how much they hew to their own ways, this isn't an entirely unreasonably assessment!
 
@@ -5281,7 +5280,7 @@ This is my way as the GM of resolving all of the stories of people "becoming" a 
 
 In other cases a fortune has been identified by name without using a name which once belonged to a human.  For example, Bishamon, the Fortune of Strength, has always been known as Bishamon, rather than being named for any specific, identifiable human with that name.
 
-I mentioned "Doji Shizue and the Secrets of Calligraphy" before, and in Rokugan there is a play with that title.  In the play Shizue has sought out the advice of the Kitsu Okura.  The family line of Kitsu Okura denounces this scene, which is the only scene in which Kitsu Okura appears, though his descendents have declined to say which specific part is not accurate to fails to reflect their family understanding of the fortunes.
+I mentioned "Doji Shizue and the Secrets of Calligraphy" before, and in Rokugan there is a play with that title.  In the play Shizue has sought out the advice of the shugenja Kitsu Okura.  The family line of Kitsu Okura denounces this scene, which is the only scene in which Kitsu Okura appears, though his descendents have declined to say which specific part is not accurate to fails to reflect their family understanding of the fortunes.
 
 Here is the scene, which I wrote as an in-universe example of how some people talk about the fortunes:
 
@@ -5969,7 +5968,7 @@ For the first time, Hoshi smiled.
 
 [Note from Yuki: because of the pages missing from sensei’s autobiography, I’m not sure if there’s more to this chapter.  I’ll investigate further before this is published.]
 
-With that journal entry complete, here are some backstories of NPCs who are legionnaires in the 3rd Imperial Legion, which is stationed on the Kaiu Wall which protects the Empire from the Shadowlands, where my "Kaiu Wall" campaign took place.  Some of these backstories rely on the understanding that the human body can expel and heal itself from small amounts of Shadowlands taint, but that with enough of it the taint settles into your body permanently, making you forever tainted.  Also note that all of these 3rd Imperial Legion backstories are being told by an unreliable narrator, an unnamed courtier who is relaying these stories to an unknown third party:
+With that journal entry complete, here are some backstories of NPCs who are legionnaires in the 3rd Imperial Legion, which is stationed on the Kaiu Wall which protects the Empire from the Shadowlands, where my "Kaiu Wall" campaign took place.  Some of these backstories rely on the understanding that the human body can expel and heal itself from small amounts of Shadowlands taint, but that with enough of it the taint settles into your body permanently, making you forever tainted.  Also note that all of these 3rd Imperial Legion backstories are being told by an unreliable narrator, an unnamed courtier who is relaying these stories to an unknown third party (these letters were found in the office of Kuni Yori following his execution, though they were clearly not addressed to him as they refer to him in the third person):
 
 The legion's general is Matsu Tsutomu.  When assigned to the Wall during his first tour in the Imperial Legions, Tsutomu was almost killed while on a raiding party.  He and his comrades had been assigned to clear out a horde of goblins about 80 miles from the Wall.  What the Hiruma scouts had failed to realize was that a family of ogres had taken control of the horde and merged it with other nearby hordes.  The battle was intense, with heavy losses on both sides, and most of the raiding party was killed.
 
@@ -6993,6 +6992,8 @@ Fox lands have a higher population than their farmland could support because of 
 
 
 
+
+
 THE THREE MAN ALLIANCE
 
 As two minor clans which share a border, the [[Fox clan]] and the [[Sparrow clan]] have been allies for many centuries.  [[The Crane wives]] set to work after the founding of the [[Wasp clan]] to turn this longstanding alliance into a political and military bloc.
@@ -7055,7 +7056,7 @@ Naomi is the youngest daughter of Doji Kuwanen, the Crane Clan Champion (i.e. da
 
 Kakita Yoshi arranged the marriage to cement the relationship between the Crane and Wasp clans, and to ensure that the new Wasp clan would be shaped by a talented and connected Crane courtier.
 
-The eldest son of Tsuruchi and Naomi is currently 12 years old. His childhood name is Ichiro (“first son”), though unlike most children called Ichiro from birth, he plans to choose the name Tsume Ichiro at his gempukku, as he is not only the “first son” of his parents but the first son of the Wasp.
+The eldest son of Tsuruchi and Naomi is currently 12 years old. His childhood name is Ichiro (“first son”), though unlike most children called Ichiro from birth, he plans to choose the name Tsuruchi Ichiro at his gempukku, as he is not only the “first son” of his parents but the first son of the Wasp.
 
 As Ichiro nears his gempukku, Naomi has announced that she will begin the long process of matchmaking this year (1130). She hopes to consult with Kaori, the Imperial matchmaker, but has initially found that her Crane relatives are attempting to block this access; they would prefer Ichiro to be matched with a Crane wife and for Naomi to remove from consideration the possibility of a Lion or Scorpion marriage. This caused some degree of tension in the previous season’s Winter Court of 1129 (held at Ryoko Owari), and Naomi has already begun researching alternatives in case her Crane relatives block her access to Kaori.
 
@@ -7086,6 +7087,25 @@ Agetoki’s father seemed perhaps even more furious than the Kakita, and he took
 Daini died the following morning from his wounds. His sister chose the name Hitomi for herself a few years later at her gempukku, pledging to reclaim the lost faimly heirlooms. Unfortunately, the Lion/Crane war deterred those plans, and at this point the goal seems further away than ever.
 
 
+
+
+WASP CLAN NPCS
+
+This section is where I've saved miscellaneous NPC backstory writeups.
+
+Tsuruchi Byajuya:
+
+As the Distinguished Plenipotentiary to the Southern Allies of the Wasp, Tsuruchi Kyoma must maintain a residence in both Shinden Kitsune and in Shiro Suzume. And a man of his stature requires a Household Steward even when he is present. While the PCs manage the affairs of his office, his household stewards manage his personal affairs.
+
+Byakuya is an old friend of Kyoma’s, a relative from the Maiko lineage of the Kyo house – the Scorpion domain that both Tsuruchi and Kyoma are originally from. Byakuya disgraced himself by fathering a child with Kyo Osei, a woman already engaged to be married to another man. Osei’s engagement was broken off when her pregnancy was discovered, and after she died in childbirth, Byakuyu asserted his parental rights to raise the daughter whose birth had killed her mother.
+
+Before this matter could be brought to Seppun Shizuko to resolve, Kyoma accompanied his friend Byakuya to where the baby was being kept. “I regret to inform you that I will be removing a member of your household,” Kyoma cheerfully informed Osei’s family, placing his hand on his sword. “Surely there’s no need to force me to remove more, my dear cousins.”
+
+Kyoma’s former lineage members were recalcitrant, though fortunately only two of them were killed in the ensuring fight. Kyoma and Byakuya left with the baby, and Kyoma offered his friend a posting in the Wasp clan. Kyoma’s wife Tsuruchi Hitomi wrote a letter to Kyo Haruka, the daimyo of the Kyo house, petitioning for Byakuya to be released from his blood oath of fealty and granted permission to join the Wasp clan.
+
+…despite the persistent whispers that the Kyo house maintains animosity toward the Wasp clan, we will continue to quell such scurrilous notions. Gifts such as the ones delivered with this letter demonstrate the friendship of the Wasp, and the release of Kyo Byakuya shall further prove the emptiness of the troublesome notion that the Kyo opposes His Imperial Majesty’s wisdom in chartering a new minor clan…
+
+Byakuya runs Kyoma’s household in Sparrow lands, while raising his young daugher Hatsuko.
 
 
 

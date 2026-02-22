@@ -165,7 +165,7 @@ opponent.
 
 **Special Ability:**
 The two allies fighting on your left and right have their TN to be 
-hit raised by 5; this does not stack.
+hit raised by 5.
 
 **First Dan:**
 Roll an extra die on initiative, parry, and wound check rolls.
@@ -607,7 +607,7 @@ Any non-Void
 * worldliness
 
 **Special Ability:**
-You keep one extra die for damage rolls from unarmed attacks.
+You roll and keep one extra die for damage rolls from unarmed attacks.
 
 **First Dan:**
 Roll one extra die on attack, damage, and wound check rolls.
@@ -618,7 +618,7 @@ You get a free raise on all attack rolls.
 **Third Dan:**
 Each adventure you get 2X free raises, where X is equal to your 
 precepts skill, which may be applied to the following rolls: 
-history, law, precepts, tact, and attack. You may not spend more 
+history, law, precepts, wound checks, and attack. You may not spend more 
 than X of these free raises on a single roll. These free raises 
 may also be applied to action dice at any time, lowering a single 
 die by 5 phases.
@@ -677,7 +677,7 @@ not spend more than X of these free raises on a single roll.
 **Fourth Dan:**
 Raise your current and maximum Air by 1. Raising your Air now 
 costs 5 fewer XP.
-Once per target per conversation or fight, you get a temporary voidpoint after a successful attack or manipulation roll.
+Once per target per conversation or fight, you get a temporary void point after a successful attack or manipulation roll.
 
 **Fifth Dan:**
 Add your Air to all TN and contested rolls. This stacks with your 
@@ -977,8 +977,8 @@ Your Rank is considered 5.0 higher for the purpose of calculating
 your stipend.
 
 **Fifth Dan:**
-After making any TN or contested roll, add your lowest three unkept
-dice to the result.
+After making any TN or contested roll, add your lowest three
+dice to the result.  (Some dice may be counted twice.)
 
 
 ## Shugenja School
