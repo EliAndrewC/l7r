@@ -641,7 +641,7 @@ Now it might be worth talking a bit about the structure of Rokugan's civil and r
 
 For example, a running theme is that in theory the Emperor's authority is supreme and that none would question or oppose the Emperor's wishes, but that in practice people have their own loyalties and incentives and which might sometimes run up against this.  And while it's extremely rare for someone to declare open rebellion against the Emperor's authority, people still find ways to work for their Clan or Family or House or Lineage insterests even if the Emperor would wand them to do otherwise.  Similarly, even if the Emperor would rather the Lion/Crane war not happen, it's rare that he would try to simply order an entire clan to cease military operations, lest he accidentally convince an entire clan that he is against them and sides with their enemies.
 
-The original L5R sourcebooks make a few references to the Imperial government and the Imperial courts and such, but the details are mostly left vague.  This is usually fine, since most tabletop RPG adventures don't require either the players or GM to delve into the details of such things.  However, as I've been running L5R campaigns for over 20 years, I've found it useful to flesh out a lot of the details, since sometimes we do run adventures where the structure of Rokugani government is relevant, and where knowing who reports to whom or which ministers have what authority affects the choices and decisions which PCs and NPCs would make.
+The original L5R sourcebooks make a few references to the Imperial government and the Imperial courts and such, but the details are mostly left vague.  This is usually fine, since most tabletop RPG adventures don't require either the players or GM to delve into the details of such things.  However, as I've been running L5R campaigns over time, I've found it useful to flesh out a lot of the details, since sometimes we do run adventures where the structure of Rokugani government is relevant, and where knowing who reports to whom or which ministers have what authority affects the choices and decisions which PCs and NPCs would make.
 
 As I said, my own version of Rokugan does follow the basic structure from the original L5R source books, though we have made a few slight modifications and also greatly expanded the specificity of what ministries exist, how different people are appointed, etc.  In particular, since Rokugan at a high level is a fantasy setting whose culture is inspiried by Imperial Japan and whose geography is inspired by Imperial China, we drew some inspiration from the Ming Chinese system of the Six Ministries for fleshing out the specifics of Rokugan's government.
 
@@ -2858,6 +2858,61 @@ Tamashikari (Soul Anchor) was the sword previously wielded by Aramoro, but now t
 Those pursued by one who wields Tamashikari have been known to take their own lives rather than risk being killed by this sword, and those challenged to duels under accusation of treachery against either the Scorpion clan or the Empire have sometimes committed seppuku rather than fight in such a duel.  Bayushi Maiko has seemingly completed the years of work required to root out supporters of the moon cult, during which time she used Tamashikari to kill many traitors, in duels and in surprise raids.
 
 With this work complete, Maiko came to Toshi Ranbo last winter on a warrior's pilgrimage, and has stayed in the city testing herself in local dojos and working her way through the Order of Bishamon's Temple relics to pray and further strengthen herself for whatever future trials lie ahead of her.
+
+
+
+
+A FISHY CONVERSATION
+
+During the Toshi Ranbo campaign, one of the PCs asked asked Akodo no Damasu Sei whether any of the servants in Hantei Deigotsu's estate were local, or if all of them had been brought with the prince.  It turns out that all of the servants normally rented with the estate were dismissed, except for Hatsue the senior pondwarden, who tended to the tropical fish kept within the estate.
+
+Hatsue overheard Matsu Gohei addressing the gathered scions of the Damasu (Beni, Genya, Hoshiko, Jinsei, Maya, Takeshi, and also Ryuji who is not going on the secret mission but who was present at this time).  Because she was coincidentally tending to the pond outside the window, she happened to overhear Gohei's address to the young samurai who are to be sent on this mission (and also Ryuji).
+
+Gohei's address was more or less as follows:
+
+Many of you are from lineages who carry swords of great power and renown.  Wielding such a sword requires careful planning as to how to apply and direct its will.  Let us consider this as it applies to your mission.
+
+Suppose that a mad Master of Fire from a few hundred years ago on the Council of Elemental Masters had been a great swordsmith, as Masters of Fire sometimes are.  Each blade crafted by this particular Master of Fire is a powerful nemuranai, and there are many blades forged, some of which were locked away and never used.
+
+Now let us further suppose that the true power of these blades is activated when each sword is wielded in life or death situations, specifically when crossed with the sword of an enemy.  In this case, half of the swords forged by this mad Master of Fire will sunder the blade of their enemy, ensuring a quick victory.  The other half will fail their owners, being shattered the instant that they are struck by the blade of one seeking to take the life of their wielder.
+
+Are you following so far?  Hmm, Damasu Ryuji, you seem bursting with excitement, do you have a question?  ... _(scornfully)_ Pfaw!  No, I said **suppose**, did you not hear me?  There are no such swords as this, I am using this as an instructive example, perhaps your tutors have failed to teach you the value of an imagined scenario in teaching.  Was anyone else confused?  Pfft, I see from your embarassed expressions that a few of you were, but I shall ignore your foolishness so that we may proceed.
+
+Now, as I said **suppose**... and we **are** all clear that this is mere **supposition**, are we not?  Good.  Now let us **suppose** that we found ourselves in posession of one of these swords... which I shall remind Damasu Ryuji **does not really exist**.  Now we have a sword which may be powerful enough to ensure decisive victory, or which may be disasterous for the one who wields it when it is finally deployed.  And because the sword's power is not activated until a life or death struggle against an enemy who means to kill its wielder, there is no way to know until that moment which sword we possess.
+
+How then should we proceed? ... No ideas?  Bah, perhaps we have selected the wrong samurai for this mission, perhaps the Damasu - ah, yes, you?  ... _(scornfully)_ No, you cannot ask the current Master of Fire to evaluate the sword, that will not work - this blade was forged centuries ago by a powerful madman, its power is too strange to be unraveled without seeing it put to use.
+
+... is that all?  No further ideas?  You?  ... **Bah!**  That is foolishness!  To wait until times are desperate enough to risk using the sword could lead to disaster.  No, no, that is folly.
+
+... yes, to put the sword to the test in advance of that crucial moment, that would be required.  But how might we do this?
+
+... you are not entirely wrong.  It would indeed be wise to select a engagement in which failure is an option, but you are still foolish to think that we should select a wielder to sacrifice.  But let us ignore your foolishness and contemplate further the nature of the engagement we should wish to select when testing the sword.
+
+In most duels, as in most battles, the participants are often well-matched.  This is not to say that one duelist or one army will be the equal of the other - most engagements end with a decisive winner and loser.  But men often decline to engage in duels they believe they will lose, and generals refuse to do battle under unfavorable conditions when other options exist.  Still, sometimes a general is presented with no better option, and a duelist is forced to choose between death and dishonor - an easy choice for any true bushi.
+
+So, with this in mind, a plan emerges.  We could place this sword in the hands of a great warrior, and put them in the field, whether in a battle or duel, in an engagement which they may be capable of winning even if they find their own sword being shattered in the encounter.  Ideally one where the price of failure is minimal, to the extent that such things can be made possible.
+
+This has risk, certainly, but the rewards are more than commensurate.  If we fail, then we will have minimized the damage by choosing the time and place in which our great weapon has revealed itself to be useless.  If we succeed, then we will have not only guaranteed that we are indeed in possession of a great weapon, we shall have made this known to our enemies as well, so that they shall respect its power and be disinclined to offer us either duel or battle so long as we possess it.
+
+I am not yet able to reveal to you the nature of your mission, but I command you to keep this **supposition** in mind in the coming years.  Consider the vital importance that such a sword may be - if such a sword truly existed, it would be one of the most important strategic assets possessed by your lord, and establishing its true nature would be among your daimyo's highest possible priorities.  Your mission is no less important than this, and indeed shares many qualities in common with this supposed example.
+
+Now, before we move on to speak of other matters, I should like for each of you...
+
+(Hatsue was unable to hear further, as a passing group of samurai came outside at around this time, and she did not wish to give the false impression that she was eavesdropping.  This was all that she was able to hear of this conversation.)
+
+Chancellor Sei reported this to the PCs, but he has no solid theories about the meaning behind this lecture.  The Sage of the Ancestral Scroll of the Sovereign Temple of Bishamon for Toshi Ranbo (i.e. the local temple librarian) confirms that there are no such swords as this, and that this was indeed a hypothetical scenario.
+
+Chancellor Sei asked the PCs whether they had any understanding of this, and Hayato was able to get a glimpse into a private conversation held between Matsu Gohei and Prince Daigotsu with his Eye of Deception ability.  The two of them were discussing a map of the Gateway to the Land of the Burning Sands.
+
+Hayato was able to get only snippets of this conversation, but this included:
+
+**Prince Daigotsu:** Kitsu Okura is more enigmatic than the Dragon Clan he derides, so I shall not speak to him of these matters, but [[:akodo-godaigo]] has a suitable mindset towards being directed in service to the Empire.
+
+**Matsu Gohei:** Matsu Chokoku is advised by Iuchi Karasu, who hates the Shadowlands as much as any many alive.  I do not know whether this would make his support more or less likely - this may depend on how the rest of the Unicorn clan feels about this matter, and whether it would be with anger or relief.
+
+**Matsu Gohei:** Isawa Tsuke advises Ikoma Ryozo, and the Master of Fire seems, if anything, even more eager than us, though I cannot tell whether he is more interested in serving the empire or increasing his own knowledge and understanding.
+
+**Prince Daigotsu:** Matsu Turi is advised by Asahina Tomo, and neither one seems suitable for our purpose.
 
 
 
@@ -5968,7 +6023,7 @@ For the first time, Hoshi smiled.
 
 [Note from Yuki: because of the pages missing from sensei’s autobiography, I’m not sure if there’s more to this chapter.  I’ll investigate further before this is published.]
 
-With that journal entry complete, here are some backstories of NPCs who are legionnaires in the 3rd Imperial Legion, which is stationed on the Kaiu Wall which protects the Empire from the Shadowlands, where my "Kaiu Wall" campaign took place.  Some of these backstories rely on the understanding that the human body can expel and heal itself from small amounts of Shadowlands taint, but that with enough of it the taint settles into your body permanently, making you forever tainted.  Also note that all of these 3rd Imperial Legion backstories are being told by an unreliable narrator, an unnamed courtier who is relaying these stories to an unknown third party (these letters were found in the office of Kuni Yori following his execution, though they were clearly not addressed to him as they refer to him in the third person):
+With that autobiographical entry complete, here are some backstories of NPCs who are legionnaires in the 3rd Imperial Legion, which is stationed on the Kaiu Wall which protects the Empire from the Shadowlands, where my "Kaiu Wall" campaign took place.  Some of these backstories rely on the understanding that the human body can expel and heal itself from small amounts of Shadowlands taint, but that with enough of it the taint settles into your body permanently, making you forever tainted.  Also note that all of these 3rd Imperial Legion backstories are being told by an unreliable narrator, an unnamed courtier who is relaying these stories to an unknown third party (these letters were found in the office of Kuni Yori following his execution, though they were clearly not addressed to him as they refer to him in the third person):
 
 The legion's general is Matsu Tsutomu.  When assigned to the Wall during his first tour in the Imperial Legions, Tsutomu was almost killed while on a raiding party.  He and his comrades had been assigned to clear out a horde of goblins about 80 miles from the Wall.  What the Hiruma scouts had failed to realize was that a family of ogres had taken control of the horde and merged it with other nearby hordes.  The battle was intense, with heavy losses on both sides, and most of the raiding party was killed.
 

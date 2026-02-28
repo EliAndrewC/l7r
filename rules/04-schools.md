@@ -218,7 +218,7 @@ you do not suffer the TN penalty.
 **Fourth Dan:**
 Raise your current and maximum Water by 1. Raising your Water now 
 costs 5 fewer XP.
-Once per turn, you may lunge as an interrupt action at the cost of 
+Once per round, you may lunge as an interrupt action at the cost of 
 1 action die.
 
 **Fifth Dan:**
