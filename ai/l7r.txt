@@ -83,7 +83,7 @@ Rokugan has a strict caste system, which is part of the Celestial Order.  The Ha
 
 Heimen are "half-people" and include farmers and merchants.
 
-Hinin are "non-people" and laborers, servants, and entertainers.  The lowest part of the hinin caste are the eta, or "untouchables" who perform ritually unclean labor such as mortians and tanners and those who handle "night-soil" (human feces).
+Hinin are "non-people" and laborers, servants, and entertainers.  The lowest part of the hinin caste are the burakumin, or "untouchables" who perform ritually unclean labor such as mortians and tanners and those who handle "night-soil" (human feces).
 
 Monks exist outside the Celestial Order, walking as the Shinsei did with one foot in this world and one foot in the spiritual realm.  Although monks are a small part of the population (less than 1%) they are enormously influential due to the reverence held by humans of all castes for the gods and their servants and those who preach the Tao of Shinsei.
 
@@ -114,7 +114,7 @@ Hinin:
 -> Criminals (someone who starts as e.g. a farmer and turns to crime has been reduced to a hinin and will be recognized as such if caught)
 -> Bankruptees (the particulars vary by the laws of different localities, but e.g. merchants can be reduced to mere laborers through bankruptcy)
 
-Eta (the "untouchables" of the hinin class, such that all eta are hinin but not all hinin are eta):
+Burakumin (the "untouchables" of the hinin class, such that all burakumin are hinin but not all hinin are burakumin):
 -> Tanners
 -> Fullers
 -> Butchers
@@ -122,7 +122,7 @@ Eta (the "untouchables" of the hinin class, such that all eta are hinin but not 
 -> Morticians (this is often work performed by monks, especially in cities)
 -> "Poopsmiths" (the actual term is "Owaiya" which refers to people who handle "night soil")
 -> Torturers (extremely rare, but occasionally employed under certain legally restricted circumstances)
--> Executioners (samurai executions are performed by samurai, but all other executions are performed by eta)
+-> Executioners (samurai executions are performed by samurai, but all other executions are performed by burakumin)
 
 Heimen:
 -> Farmers
@@ -141,7 +141,7 @@ Heimen:
 -> Painters
 -> Sculptors
 -> Scribes
--> Leather workers (note that this is different from Eta tanners)
+-> Leather workers (note that this is different from burakumin tanners)
 -> Oil pressers
 -> Soy sauce brewers
 -> Sake brewers
@@ -355,7 +355,7 @@ With the above in mind, let's look at the populations of different castes and ca
 The median hamlet:
 
 %   category
-10	eta, poor
+10	burakumin, poor
 70	farmer, rural tenant farmer
 5	farmer, poor freeholder
 10	farmer, freeholder
@@ -364,9 +364,9 @@ The median hamlet:
 The median village (remember "village district" refers to a village and its surrounding hamlets, so this section refers only to the village itself):
 
 %   category
-1	eta, well-off
-7	eta, poor
-2	eta, very poor
+1	burakumin, well-off
+7	burakumin, poor
+2	burakumin, very poor
 70	farmer, rural tenant farmer
 5	farmer, poor freeholder
 10	farmer, freeholder
@@ -390,9 +390,9 @@ The median town (remember that a "county" is the town and its surrounding villag
 3	merchants, poor
 5	merchants, other
 
-1	eta, well-off
-6	eta, poor
-3	eta, very poor
+1	burakumin, well-off
+6	burakumin, poor
+3	burakumin, very poor
 
 50	farmer, rural tenant farmer
 2.5	farmer, poor freeholder
@@ -422,9 +422,9 @@ The media provincial city (i.e. the city central to a province, surrounded by co
 5	merchants, poor
 15	merchants, other
 
-1	eta, well-off
-6	eta, poor
-3	eta, very poor
+1	burakumin, well-off
+6	burakumin, poor
+3	burakumin, very poor
 
 1	samurai, merchants
 1	samurai, courtiers
@@ -451,9 +451,9 @@ The median domain capital city:
 5	merchants, poor
 15	merchants, other
 
-1	eta, well-off
-6	eta, poor
-3	eta, very poor
+1	burakumin, well-off
+6	burakumin, poor
+3	burakumin, very poor
 
 1	samurai, merchants
 1	samurai, courtiers
@@ -559,7 +559,7 @@ We generally assume a median household size of 5, split over 2-3 generations.  U
 
 -> Monks are probably a negligible percentage - we’ve said that each village district has a single “country monk” on a plot of tax-free land.  The monk may have a few acolytes to help farm the land, which they may do on a part-time basis on loan from larger families in the village.
 
--> I don’t know enough about the “untouchables” in Japan on which L5R eta are based to be able to make good predictions about them.  This doesn’t matter for most adventures, but it would be good to figure out at some point since this seems like a good source of opportunities for strife and plot hooks.
+-> I don’t know enough about the “untouchables” in Japan on which L5R burakumin are based to be able to make good predictions about them.  This doesn’t matter for most adventures, but it would be good to figure out at some point since this seems like a good source of opportunities for strife and plot hooks.
 
 Rent and taxes:
 
@@ -983,7 +983,7 @@ On the fifth day, new ranks are bestowed to those who have been promoted. Nobles
 
 For samurai and nobles, a new rank may mean new living quarters, new clothing, and other coveted benefits.
 
-For farmers, laborers, and eta, this is a day to pay one's respects to one's new superiors with effusive congratulations and gifts.
+For farmers, laborers, and burakumin, this is a day to pay one's respects to one's new superiors with effusive congratulations and gifts.
 
 7th Day (10 Feb): Wakana no sekku or Nanakusa no sekku (Festival of Young Herbs)
 
@@ -5163,7 +5163,7 @@ What follows is intended to be a near-complete copy of the “partial” Yassa w
 
 > It is ordered to believe that man stands above hell under the rule of heaven, and that the celestial order alone is responsible for his life and death, riches and poverty.
 
-> Monks and priests, persons who are dedicated to religious practice, physicians, teachers, and eta who bathe the bodies of the dead are to be freed from conscription or being taxed or put to any required service.
+> Monks and priests, persons who are dedicated to religious practice, physicians, teachers, and burakumin who bathe the bodies of the dead are to be freed from conscription or being taxed or put to any required service.
 
 > It is forbidden for any gaijin to hold a noble station, government appointment, or honorary title.
 
@@ -5203,7 +5203,7 @@ What follows is intended to be a near-complete copy of the “partial” Yassa w
 
 > Entertainers shall no longer have the same status as prostitutes and shall instead be awarded the same standing as laborers, and may not have their food or tools taken from their homes as tribute or pillage.
 
-> Prostitution is illegal in Rokugan by Imperial decree, though this is usually honored more in breach than observance. In general, the above few rules do seem to comport with the Celestial Order – farmers are heimin (half-people), servants and laborers are hinin (non-people), criminals are the lowest form of hinin (worthy of less respect even than the hinin eta “untouchables”).
+> Prostitution is illegal in Rokugan by Imperial decree, though this is usually honored more in breach than observance. In general, the above few rules do seem to comport with the Celestial Order – farmers are heimin (half-people), servants and laborers are hinin (non-people), criminals are the lowest form of hinin (worthy of less respect even than the hinin burakumin “untouchables”).
 
 > Men guilty of the theft or destruction of a horse or a thing of equal value will be punished by death and their bodies cut into two parts. For lesser thefts the punishment shall be, according to the value of the thing stolen, a number of blows of a staff – seven, seventeen, seventy-seven, up to seven hundred. But this bodily punishment may be avoided by paying seven times the worth of the thing stolen.
 
@@ -6462,7 +6462,7 @@ Each company captain in the 1st Imperial Legion has a several thousand koku budg
 
 → Several hundred additional koku in feeding the troops and support staff – this reflects an increase in the price of good food this far away from the heart of the Empire.
 
-→ Hundreds of koku to pay for the support staff and their expenses – a company has ~50 samurai and about two dozen peasant workers, including unskill or semiskilled labor such as cooks, custodians, launderers, and eta, as as well as skill labor such as smiths to maintain the weapons and armor.
+→ Hundreds of koku to pay for the support staff and their expenses – a company has ~50 samurai and about two dozen peasant workers, including unskill or semiskilled labor such as cooks, custodians, launderers, and burakumin, as as well as skill labor such as smiths to maintain the weapons and armor.
 
 → Hundreds of koku for equipment. This not only includes the upkeep and replacements of weapons and armor, but also the tents, building materials, ditches and fortifications (these being less common in the 1st legion).
 
@@ -6498,7 +6498,7 @@ In addition, there are several other much larger tents:
 
 Servants sleep in separate tents which line the outside of the company’s area. These tend to be numerous and smaller since many servants frequently live in the legion long-term with their families.
 
-Eta and the latrines they dig are located outside of the company encampment.
+Burakumin and the latrines they dig are located outside of the company encampment.
 
 In addition to tents, a company encampment has several buildings, usually made of stone or clay/mud bricks:
 
