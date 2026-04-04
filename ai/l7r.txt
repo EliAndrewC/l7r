@@ -5291,7 +5291,9 @@ THE FORTUNES:
 
 While some historical polytheistic religions have a concept of gods who are basically just humans with superpowers, I don't want that at all for my fictional setting of Rokugan.  The idea that the fortunes are part of the fabric of reality is a core part of the theology of my worldbuilding.
 
-In my version of Rokugan, one question which arises is why the fortunes do not give clearer direction to humanity.  Kitsu Okura wrote the book "On the Relationship between Man and the Fortunes" 300 years ago, which sought to tackle this question.  He identifies what he calls "the six doctrines" which attempt to explain this mystery.
+In my version of Rokugan, one question which arises is why the fortunes do not give clearer direction to humanity.  Of course, this is a question real-world theologans have also had to grapple with in basically every world religion, and Rokugan is (as a reminder) intended to be "the kind of of world historical people genuinely believed themselves to be living in".
+
+Kitsu Okura wrote the book "On the Relationship between Man and the Fortunes" 300 years ago, which sought to tackle this question.  He identifies what he calls "the six doctrines" which attempt to explain this mystery.
 
 Here is the introduction to that book, which I wrote as a "primary source document" for my players to read.  Hopefully this will help explain these concepts as well for the purpose of generating vows:
 
@@ -5620,7 +5622,7 @@ Takaba lived centuries before Hantei Iuchiban became the first bloodspeaker, and
 
 One day he found that his obsidian knife had disappeared. He performed dark divinations to discern its whereabouts, and tracked it to a nearby village, where it was hidden in the barn of a farmer. The farmer denied having stolen the knife, and Takaba believed the denial, confident that such a man wouldn’t dare steal from him.
 
-When Takaba returned to his forest cottage, he found that his silver chalice was missing, despite the wards and underworld guards he had set upon his home. He immediate worked to strengthen the wards and summon additional dark entities to watch over his house. However, when he returned from finding his chalice in another barn of another farmer, his obsidian knife had again been stolen.
+When Takaba returned to his forest cottage, he found that his silver chalice was missing, despite the wards and underworld guards he had set upon his home. He immediately worked to strengthen the wards and summon additional dark entities to watch over his house. However, when he returned from finding his chalice in another barn of another farmer, his obsidian knife had again been stolen.
 
 Takaba set about studying the ways of wards and traps, experimenting with different principles and practices to fortify the protections he had set. Still, every time he left to recover a stolen object, he would find another possession missing.
 
@@ -6844,7 +6846,7 @@ To execute an arrest, a magistrate or bounty hunter must be of peer standing wit
 
 Magistrates and bounty hunters must exercise caution in their investigations to ensure that they do not forget their place.  Samurai whose rank is within reach of investigators but who are too highly ranked to be of peer standing with those investigators may decline to personally meet with them, foisting such meetings off on underlings.
 
-Of course, in many circumstances, some samurai prefer to press forward and make an arrest if they believe they know all that's needed to press forward, trusting that victory will be sufficient justification, in the event that the matter is ever brought before an Imperial magistrate for review.
+Of course, in many circumstances, some samurai prefer to press forward and make an arrest if they believe they know all that's needed to be confident their actions are just and proper, trusting that victory will be sufficient justification, in the event that the matter is ever brought before an Imperial magistrate for review.
 
 
 
@@ -7148,7 +7150,7 @@ WASP CLAN NPCS
 
 This section is where I've saved miscellaneous NPC backstory writeups.
 
-Tsuruchi Byajuya:
+Tsuruchi Byakuya:
 
 As the Distinguished Plenipotentiary to the Southern Allies of the Wasp, Tsuruchi Kyoma must maintain a residence in both Shinden Kitsune and in Shiro Suzume. And a man of his stature requires a Household Steward even when he is present. While the PCs manage the affairs of his office, his household stewards manage his personal affairs.
 
