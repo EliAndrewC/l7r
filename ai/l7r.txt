@@ -5347,7 +5347,7 @@ Okura:  Suppose that you were touched by the Fortune of obedience, whom I shall 
 
 Shizue (frowning):  Is there such a Fortune?  I have not encountered such in my studies, not in any library in the Empire.
 
-Okura:  Pfaw!  I spoke the word ‘obedience' and you felt my meaning.  Are you foolish enough to doubt the existence of its Fortune simply because lesser scholars have failed to learn his name?
+Okura:  Pfaw!  I spoke the word 'obedience' and you felt my meaning.  Are you foolish enough to doubt the existence of its Fortune simply because lesser scholars have failed to learn his name?
 
 Shizue:  Apologies.  What effect would result from being touched by the great Fortune of obedience?
 
@@ -6474,7 +6474,7 @@ Layout
 
 The 1st legion is mostly made of of tents rather than wooden barracks, due to the harshness of the climate and its effect on wooden buildings.
 
-The standard sleeping tent is ~10×10 feet wide and 6-8 feed high. A typical company has ~8 of these sleeping tents:
+The standard sleeping tent is ~10x10 feet wide and 6-8 feed high. A typical company has ~8 of these sleeping tents:
 
 -> 4 holding the non-officer legionnaires of the company's 4 platoons (~8 legionnaires in each)
 
