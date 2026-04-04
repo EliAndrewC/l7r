@@ -569,7 +569,7 @@ The above numbers all talk about households who work plots of land.  We occasion
 
 -> The land is taxed at 1/3 of the estimated production.  This is a set amount, such as 5 koku per year, rather than 1/3 of whatever happens to be grown this year.  Thus, farmers who produce more food get to keep all of the excess for themselves.
 
--> When land is owned by landlords and worked by tenant farmers, the rent is 1/6 the total value of the land.  This means that rent and taxes add up to ½ the value produced.
+-> When land is owned by landlords and worked by tenant farmers, the rent is 1/6 the total value of the land.  This means that rent and taxes add up to 1/2 the value produced.
 
 -> Crucially, taxes are paid by the landowner regardless of what they have been able to collect from the tenant farmers.  If the year is so bad that little could be collected, the full tax amount is still owed.
 
@@ -1185,7 +1185,7 @@ Hazuki, the "leaf month," is the last month before the harvest. It includes the 
 Hazuki is also the month for harvesting millet.
 
 1st Day (7 Sep): Hakuro (white dew)
-In the solar calendar, Hakuro marks the time when dew condenses on grass and leaves in the early morning chill. It is a cliché of autumn that people who walk in the early morning, such as a lover returning home from a secret tryst, get their clothes covered in dew.
+In the solar calendar, Hakuro marks the time when dew condenses on grass and leaves in the early morning chill. It is a cliche of autumn that people who walk in the early morning, such as a lover returning home from a secret tryst, get their clothes covered in dew.
 
 4th Day (11 Sep): Nihyakuhatsuka (220 days since Spring)
 The fifth day of the eighth month is the 220th day since Spring, another important milestone approaching the rice harvest.
