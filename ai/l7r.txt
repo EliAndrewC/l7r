@@ -355,51 +355,51 @@ With the above in mind, let's look at the populations of different castes and ca
 The median hamlet:
 
 %   category
-10	burakumin, poor
-70	farmer, rural tenant farmer
-5	farmer, poor freeholder
-10	farmer, freeholder
-5	farmer, wealthy landowner
+10  burakumin, poor
+70  farmer, rural tenant farmer
+5   farmer, poor freeholder
+10  farmer, freeholder
+5   farmer, wealthy landowner
 
 The median village (remember "village district" refers to a village and its surrounding hamlets, so this section refers only to the village itself):
 
 %   category
-1	burakumin, well-off
-7	burakumin, poor
-2	burakumin, very poor
-70	farmer, rural tenant farmer
-5	farmer, poor freeholder
-10	farmer, freeholder
-5	farmer, wealthy landowner
+1   burakumin, well-off
+7   burakumin, poor
+2   burakumin, very poor
+70  farmer, rural tenant farmer
+5   farmer, poor freeholder
+10  farmer, freeholder
+5   farmer, wealthy landowner
 
 The median town (remember that a "county" is the town and its surrounding village districts, so this is only the town itself):
 
 %   category
 
-1	servants, working for wealthy samurai families
-1	servants, working for wealthy merchant families
-1.5	Indentured servants, working for non-wealthy merchant families
-2	servants, miscellaneous
+1   servants, working for wealthy samurai families
+1   servants, working for wealthy merchant families
+1.5 Indentured servants, working for non-wealthy merchant families
+2   servants, miscellaneous
 
-1	laborers, master (rich)
-1	laborers, poor
-10	laborers, other
+1   laborers, master (rich)
+1   laborers, poor
+10  laborers, other
 
-1	merchants, very rich
-1	merchants, rich
-3	merchants, poor
-5	merchants, other
+1   merchants, very rich
+1   merchants, rich
+3   merchants, poor
+5   merchants, other
 
-1	burakumin, well-off
-6	burakumin, poor
-3	burakumin, very poor
+1   burakumin, well-off
+6   burakumin, poor
+3   burakumin, very poor
 
-50	farmer, rural tenant farmer
-2.5	farmer, poor freeholder
-5	farmer, freeholder
-2.5	farmer, wealthy landowner
+50  farmer, rural tenant farmer
+2.5 farmer, poor freeholder
+5   farmer, freeholder
+2.5 farmer, wealthy landowner
 
-2.5	samurai
+2.5 samurai
 
 Remember that the county town is the "lowest" level of organized society that still has samurai - villages and hamlets are peasant-only!  Also note that it's the lowest level to have merchants - this is why farmers come into town for market day approximately once per week.
 
@@ -407,28 +407,28 @@ The media provincial city (i.e. the city central to a province, surrounded by co
 
 %   Category
 
-2	servants, working for wealthy samurai families
-6	servants, working for wealthy merchant families
-6	Indentured servants, working for non-wealthy samurai families
-4	Indentured servants, working for non-wealthy merchant families
-2	servants, miscellaneous
+2   servants, working for wealthy samurai families
+6   servants, working for wealthy merchant families
+6   Indentured servants, working for non-wealthy samurai families
+4   Indentured servants, working for non-wealthy merchant families
+2   servants, miscellaneous
 
-5	laborers, master (rich)
-5	laborers, poor
-25	laborers, other
+5   laborers, master (rich)
+5   laborers, poor
+25  laborers, other
 
-2	merchants, very rich
-3	merchants, rich
-5	merchants, poor
-15	merchants, other
+2   merchants, very rich
+3   merchants, rich
+5   merchants, poor
+15  merchants, other
 
-1	burakumin, well-off
-6	burakumin, poor
-3	burakumin, very poor
+1   burakumin, well-off
+6   burakumin, poor
+3   burakumin, very poor
 
-1	samurai, merchants
-1	samurai, courtiers
-8	samurai, bushi
+1   samurai, merchants
+1   samurai, courtiers
+8   samurai, bushi
 
 Note that there are no farmers in the median provincial city.  This is largely an artifact of what we count as being "part of the city", i.e. while there are generally no farms within the city's walls, provincial cities are frequently located in areas with rich farmland.  However, these farms are counted by the government as being part of the surrounding county lands, rather than being part of the city itself.
 
@@ -436,28 +436,28 @@ The median domain capital city:
 
 %   Category
 
-2	servants, wealthy samurai families
-6	servants, wealthy merchant families
-6	servants, non-wealthy samurai families
-4	servants, non-wealthy merchant families
-2	servants, miscellaneous
+2   servants, wealthy samurai families
+6   servants, wealthy merchant families
+6   servants, non-wealthy samurai families
+4   servants, non-wealthy merchant families
+2   servants, miscellaneous
 
-5	laborers, master (rich)
-5	laborers, poor
-25	laborers, other
+5   laborers, master (rich)
+5   laborers, poor
+25  laborers, other
 
-2	merchants, very rich
-3	merchants, rich
-5	merchants, poor
-15	merchants, other
+2   merchants, very rich
+3   merchants, rich
+5   merchants, poor
+15  merchants, other
 
-1	burakumin, well-off
-6	burakumin, poor
-3	burakumin, very poor
+1   burakumin, well-off
+6   burakumin, poor
+3   burakumin, very poor
 
-1	samurai, merchants
-1	samurai, courtiers
-8	samurai, bushi
+1   samurai, merchants
+1   samurai, courtiers
+8   samurai, bushi
 
 Note that this is just the same numbers as for a provincial city - it is generally true that in "the median domain" a captial city is simply just a larger version of the domain's provincial cities.
 
@@ -777,13 +777,13 @@ As an example, let's consider the Ryusei domain of the Mirumoto family of the Dr
 
 The Ryusei House Chancellary is comprised of representatives from its six largest lineages, which collectively make up almost 90% of the domain. The ruling lineage (i.e. the daimyo's lineage) is the Ryusei lineage, and it and the others are listed below:
 
-Lineage	    Chancellor	                Governors and Magistrates	Ministry Officials	    % of Domain
-Ryusei	    Mirumoto no Ryusei Maino	4	                        11	                    17%
-Isa	        Mirumoto no Ryusei Saharu	5	                        12	                    16%
-Sasara	    Mirumoto no Ryusei Kazuchi	2	                        12	                    16%
-Moe	        Mirumoto no Ryusei Yumiyo	9	                        13	                    15%
-Tokino	    Mirumoto no Ryusei Biei	    4	                        9	                    14%
-Joji	    Mirumoto no Ryusei Kyono	7	                        9	                    11%
+Lineage     Chancellor                  Governors and Magistrates   Ministry Officials      % of Domain
+Ryusei      Mirumoto no Ryusei Maino    4                           11                      17%
+Isa         Mirumoto no Ryusei Saharu   5                           12                      16%
+Sasara      Mirumoto no Ryusei Kazuchi  2                           12                      16%
+Moe         Mirumoto no Ryusei Yumiyo   9                           13                      15%
+Tokino      Mirumoto no Ryusei Biei     4                           9                       14%
+Joji        Mirumoto no Ryusei Kyono    7                           9                       11%
 
 There are three smaller lineages which make up most of the rest of the remaining samurai in the domain: the Shun, the Meguri, and the Noa.
 
@@ -791,13 +791,13 @@ Of the lineages mentioned, three are significant for not having originally been 
 
 Here's a breakdown of how many ministers and deputy ministers at the domain and provincial level each Ryusei lineage has in each ministry:
 
-Lineage	    Works	Justice	    Retainers	Rites	Revenue	    War
-Ryusei	    1	    4	        2	        0	    3	        1
-Isa	        3	    0	        1	        2	    2	        4
-Sasara	    2	    1	        1	        5	    1	        3
-Moe	        4	    3	        1	        2	    2	        1
-Tokino	    0	    2	        2	        1	    2	        2
-Joji	    2	    2	        2	        1	    1	        1
+Lineage     Works   Justice     Retainers   Rites   Revenue     War
+Ryusei      1       4           2           0       3           1
+Isa         3       0           1           2       2           4
+Sasara      2       1           1           5       1           3
+Moe         4       3           1           2       2           1
+Tokino      0       2           2           1       2           2
+Joji        2       2           2           1       1           1
 
 Note that these numbers reflect the nature and character of the lineages, as is usually the case for most domains.  Some examples:
 
@@ -811,12 +811,12 @@ Provinces:
 
 House Ryusei has five provinces, which are listed below, along with their governor, the lineage of their governor, and the number of counties.
 
-Province	Governor	                    Counties
-Honshu	    Mirumoto no Ryusei Fumiyuki	    5
-Kansai	    Mirumoto no Ryusei Reishi	    6
-Maebashi	Mirumoto no Ryusei Seitaro	    7
-Nagano	    Mirumoto no Ryusei Urumi	    7
-Yokohama	Mirumoto no Ryusei Yayoi	    4
+Province    Governor                        Counties
+Honshu      Mirumoto no Ryusei Fumiyuki     5
+Kansai      Mirumoto no Ryusei Reishi       6
+Maebashi    Mirumoto no Ryusei Seitaro      7
+Nagano      Mirumoto no Ryusei Urumi        7
+Yokohama    Mirumoto no Ryusei Yayoi        4
 
 Note that in Ryusei lands, all of the lineages are "cosmopolitan lineages" and there are no "provincial lineages" or "dynasty provinces".  To define these terms:
 
@@ -1445,25 +1445,25 @@ TEMPLE ORGANIZATION:
 
 When the Shinsei was advising the Hantei on the new Empire being created, part of his guidance was the identification of the 7 Major Fortunes whose favor would bring good luck and prosperity to humanity:
 
-Fortune:	    Domain
-Benten:	        The fortune of romantic love
-Bishamon:	    The fortune of strength
-Daikoku:	    The fortune of wealth
-Ebisu:	        The fortune of honest work
-Fukurokujin:	The fortune of wisdom and mercy
-Hotei:	        The fortune of contentment
-Jurojin:	    The fortune of longevity
+Fortune:        Domain
+Benten:         The fortune of romantic love
+Bishamon:       The fortune of strength
+Daikoku:        The fortune of wealth
+Ebisu:          The fortune of honest work
+Fukurokujin:    The fortune of wisdom and mercy
+Hotei:          The fortune of contentment
+Jurojin:        The fortune of longevity
 
 The Shinsei further recommended that each clan cultivate 2 major Fortunes to be their patrons, ensuring that every city within the clan have a temple to each of their 2 patron Fortunes.
 
-Clan:	    Patron Fortunes
-Crab:	    Bishamon + Ebisu
-Crane:	    Benten + Daikoku
-Dragon:	    Hotei + Ebisu
-Lion:	    Bishamon + Daikoku
-Phoenix:	Fukurokujin + Hotei
-Scorpion:	Benten + Jurojin
-Unicorn:	Fukurokujin + Jurojin
+Clan:       Patron Fortunes
+Crab:       Bishamon + Ebisu
+Crane:      Benten + Daikoku
+Dragon:     Hotei + Ebisu
+Lion:       Bishamon + Daikoku
+Phoenix:    Fukurokujin + Hotei
+Scorpion:   Benten + Jurojin
+Unicorn:    Fukurokujin + Jurojin
 
 In the late 3rd century, Hantei the Tenth formalized the system of the Six Ministries, and along with it codified the requirement that each of the Empire's cities contain a temple to each of its clan's patron fortunes.
 
@@ -1511,14 +1511,14 @@ To summarize, anytime this explanation refers to the Order of Bishamon, we're ta
 
 The Temple of Bishamon in Toshi Ranbo is one of the largest in the Empire, with over 200 monks living in the temple complex.  Because this is unusually large, it's not necessarily representative of most major temples in most major cities, but here are the rough numbers for the monks in each category in the temple:
 
-Position	    Count
-Novices	        80-100
-Acolytes	    60-80
-Junior Monks	40-60
-Adept Monks	    30-40
-Senior Monks	20-30
-Stewards	    10-20
-Grand Abbot	    1
+Position        Count
+Novices         80-100
+Acolytes        60-80
+Junior Monks    40-60
+Adept Monks     30-40
+Senior Monks    20-30
+Stewards        10-20
+Grand Abbot     1
 
 Most of the monks in all of the above categories live in the Temple of Bishamon complex. This does not include most of the initiates, who have begun their study, usually part-time while working their existing jobs and handling their normal family obligations. As the Shinsei said of the monastic life, "many are called, few are chosen" - there are generally 200-500 initiates, more in number than all other categories combined!
 
@@ -1540,27 +1540,27 @@ The Temple of Bishamon's annual income before the fall of the previous Damasu re
 
 Here is a rough breakdown of what a typical year of income was for the Temple of Bishamon prior to the fall of the Damasu:
 
-Koku/year	Percent	Source
-~4,000	    ~40%	government funding
-~2,500	    ~25%	donations from the city's population
-~1,500	    ~15%	income from performing religious services and ceremonies
-~1000	    ~10%	income from land, property, and other investments
-~500	    ~5%	    income from the sale of non-religious goods and services
-~500	    ~5%	    offerings from subordinate temples, monasteries, and shrines in the provinces
+Koku/year   Percent Source
+~4,000      ~40%    government funding
+~2,500      ~25%    donations from the city's population
+~1,500      ~15%    income from performing religious services and ceremonies
+~1000       ~10%    income from land, property, and other investments
+~500        ~5%     income from the sale of non-religious goods and services
+~500        ~5%     offerings from subordinate temples, monasteries, and shrines in the provinces
 
 Note that all of these numbers are extremely approximate, but they should each offer a rough order of magnitude of the Temple of Bishamon's income from various sources. One other point of interest is that the Temple of Bishamon in the capital distributes more monies in a typical year to its subordinate temples than it receives, so the 5% of "revenue" is misleading and could just as easily be expressed as a negative.
 
 Here's roughly what the temple has historically done with that income each year:
 
-Koku/year	Percent	Category
-~2,000	    ~20%	Religious ceremonies, events, and festivals
-~1,500	    ~15%	Savings, investments, loans, land and property management
-~1,000	    ~10%	Maintenance, cleaning, repair, and renovations to the Temple
-~1000	    ~10%	Donations to the needy and other community projects
-~1000	    ~10%	Gifts to patrons, public relations, offerings to other temples, and other forms of diplomacy
-~1000	    ~10%	Funds for subordinate temples, monasteries, and shrines, as well as pilgrimages to these and other destinations
-~1000	    ~10%	Scholarly pursuits, acquisition and upkeep of books, ink, paper, and other religious artifacts and symbols
-~1000	    ~5%	    Room and board for the temple monks
+Koku/year   Percent Category
+~2,000      ~20%    Religious ceremonies, events, and festivals
+~1,500      ~15%    Savings, investments, loans, land and property management
+~1,000      ~10%    Maintenance, cleaning, repair, and renovations to the Temple
+~1000       ~10%    Donations to the needy and other community projects
+~1000       ~10%    Gifts to patrons, public relations, offerings to other temples, and other forms of diplomacy
+~1000       ~10%    Funds for subordinate temples, monasteries, and shrines, as well as pilgrimages to these and other destinations
+~1000       ~10%    Scholarly pursuits, acquisition and upkeep of books, ink, paper, and other religious artifacts and symbols
+~1000       ~5%     Room and board for the temple monks
 
 Remember that these are all the approximate baseline numbers before everything changed when Toshi Ranbo fell to the Tsume invasion, and the Temple fell on extremely hard times for several years afterwards. This had rippling effects not immediately reflecting in high-level budget numbers.
 
@@ -1574,16 +1574,16 @@ Because monks tend to perform many roles, there's not a simple or clear breakdow
 
 Because of these shared roles and responsibilities, any breakdown of temple work will add up to well over 100%. However, this is still useful to help understand how the Temple of Bishamon's monks spend their days:
 
-Percent	Role	            Work
-~33%	Clergy	            Performing religious ceremonies, rituals, and prayers, as well as guiding others in meditation, study, and training. Some monks specialize in specific aspects of the faith or in performing particular rituals.
-~25%	Educators	        The most common task is recruiting and instructing initiates who have not yet been chosen to join the temple, followed by the continuing education of the temple's novices, acolytes, and junior monks.
-~20%	Custodians	        This not only includes those who clean the temple but also the skilled work responsible for doing maintenance and repair work. In some cases this will require bringing in and overseeing outside contractors for extremely specialized labor.
-~20%	Cooks	            The kitchen staff needs to be large to serve multiple meals per day to hundreds of monks, and this figure also includes those who work in community kitchens which exist as part of the Temple of Bishamon's charitable outreach.
-~15%	Scribes/Scholars	The temple librarians copy religious texts, maintain the temple's library and archives, and engage in scholarly pursuits related to the temple's religious teachings and history. Making new copies of the Tao (and other religious texts) in particular is such an incredibly time consuming and important work which many monks devote their entire lives to it.
-~10%	Administrators	    Responsible for managing the temple's finances, resources, and personnel, the stewards and senior monks in these positions also liaise with the city government (particularly the Damasu Ministry of Rites), handle correspondence with other temples, and manage temple visitors and pilgrims.
-~10%	Philanthropy	    Those who oversee and distribute the temple's charitable donations, which include not only direct donations to the poor but also things like soup kitchens and the like.
-~10%	Security	        Responsible for maintaining safety and order within the temple grounds and protecting the temple's valuable religious artifacts and sacred spaces. Counterintuitively, the Temple of Bishamon actually has fewer monks in this role than other temples, because martial training is so much more common as part of the Order of Bishamon's religious education. Thus, while some other temples require a larger staff specifically devoted to security, the Temple of Bishamon has a smaller percentage of its members specifically designated in this role.
-~10%	Pilgrims	        This includes not only the holy journeys we think of when talking about pilgrimages, but also coordinating with the subordinate temples in the provinces and managing the offerings and donations which flow in both directions.
+Percent    Role                Work
+~33%    Clergy                Performing religious ceremonies, rituals, and prayers, as well as guiding others in meditation, study, and training. Some monks specialize in specific aspects of the faith or in performing particular rituals.
+~25%    Educators            The most common task is recruiting and instructing initiates who have not yet been chosen to join the temple, followed by the continuing education of the temple's novices, acolytes, and junior monks.
+~20%    Custodians            This not only includes those who clean the temple but also the skilled work responsible for doing maintenance and repair work. In some cases this will require bringing in and overseeing outside contractors for extremely specialized labor.
+~20%    Cooks                The kitchen staff needs to be large to serve multiple meals per day to hundreds of monks, and this figure also includes those who work in community kitchens which exist as part of the Temple of Bishamon's charitable outreach.
+~15%    Scribes/Scholars    The temple librarians copy religious texts, maintain the temple's library and archives, and engage in scholarly pursuits related to the temple's religious teachings and history. Making new copies of the Tao (and other religious texts) in particular is such an incredibly time consuming and important work which many monks devote their entire lives to it.
+~10%    Administrators        Responsible for managing the temple's finances, resources, and personnel, the stewards and senior monks in these positions also liaise with the city government (particularly the Damasu Ministry of Rites), handle correspondence with other temples, and manage temple visitors and pilgrims.
+~10%    Philanthropy        Those who oversee and distribute the temple's charitable donations, which include not only direct donations to the poor but also things like soup kitchens and the like.
+~10%    Security            Responsible for maintaining safety and order within the temple grounds and protecting the temple's valuable religious artifacts and sacred spaces. Counterintuitively, the Temple of Bishamon actually has fewer monks in this role than other temples, because martial training is so much more common as part of the Order of Bishamon's religious education. Thus, while some other temples require a larger staff specifically devoted to security, the Temple of Bishamon has a smaller percentage of its members specifically designated in this role.
+~10%    Pilgrims            This includes not only the holy journeys we think of when talking about pilgrimages, but also coordinating with the subordinate temples in the provinces and managing the offerings and donations which flow in both directions.
 
 There are other miscellaneous specialized roles within the temple not listed here, but the above should give a decent idea of the overall categories. Remember that the above percentages add up to much more than 100% due to the fact that many monks perform multiple roles at different times.
 
@@ -1593,33 +1593,33 @@ Considering the various roles and jobs which exist in the temple, this varies co
 
 First let's consider the daily routine of Kenta, who reports to the Custodian of the Temple Grounds.
 
-Hour	Task	Description
-Hour of the Tiger (4-6am)	Waking and morning prayers	Like most temple monks, Kenta often wakes before dawn to begin his day. After waking, Kenta hurries to attend the temple's communal morning prayers.
-Hour of the Hare (6-8am)	Cleaning duties	Kenta begins his custodial work early in the day, with tasks like sweeping the grounds, cleaning the main hall, and especially any tasks which are best performed while the day's weather is still cool.
-Hour of the Dragon (8-10am)	Breakfast and rest	The temple provides a daily communal breakfast, typically rice and vegetables. After eating, Kenta spends some time in daily meditation, which provides him with the physical rest and spiritual centering that will prepare him for the remainder of the day.
-Hour of the Serpent (10am-noon)	Cleaning duties	As the day heats up, Kenta tends to focus on indoor tasks. Note that this cycle of indoor/outdoor tasks is often reversed between the summer and winter, as snow on the ground usually makes it more advisable to perform indoor tasks in the early hours and outdoor tasks at midday.
-Hour of the Horse (noon-2pm)	Midday prayers and lunch	At midday Kenta participates in another period of communal prayers and meditation, followed by the temple lunch, which is similar to breakfast in its simplicity.
-Hour of the Goat (2-4pm)	Personal time	While many of the custodial staff use this time for afternoon naps, Kenta uses this time for continuing education. He aspires to become an Adept monk, but first he must improve his reading and writing abilities, which he does by attending classes taught by the Teacher of Bishamon's Wisdom. Once his literacy has improved, he will "graduate" to begin receiving direct instruction from the Senior monk who oversees him.
-Hour of the Monkey (4-6pm)	Cleaning duties	As the day cools down, Kenta either resumes his outdoor cleaning (in the summer) or his indoor tasks (in the winter).
-Hour of the Rooster (6-8pm)	Evening prayers and dinner	Just as the day begins with prayers, so does it end. Kenta looks forward to the temple dinners, which are larger and fuller meals than the simple breakfasts and lunches. Dinner may involve soup, noodles, pickles, bean curd, seitan, and on some nights the kitchen serves fried tempura or a piece of fresh fruit as a dessert.
-Hour of the Dog (8-10pm)	Bathing and personal time	While some of the other young monks venture out into the city for entertainment during this time, Kenta usually spends a few minutes relaxing his thoughts and then turning in about 60 minutes before the Hour of the Boar, when most of the temple turns in for the night. Once his literacy improves enough for it to be practical, he plans to spend this time reading the Tao and whatever other texts his sensei recommends to him.
+Hour    Task    Description
+Hour of the Tiger (4-6am)    Waking and morning prayers    Like most temple monks, Kenta often wakes before dawn to begin his day. After waking, Kenta hurries to attend the temple's communal morning prayers.
+Hour of the Hare (6-8am)    Cleaning duties    Kenta begins his custodial work early in the day, with tasks like sweeping the grounds, cleaning the main hall, and especially any tasks which are best performed while the day's weather is still cool.
+Hour of the Dragon (8-10am)    Breakfast and rest    The temple provides a daily communal breakfast, typically rice and vegetables. After eating, Kenta spends some time in daily meditation, which provides him with the physical rest and spiritual centering that will prepare him for the remainder of the day.
+Hour of the Serpent (10am-noon)    Cleaning duties    As the day heats up, Kenta tends to focus on indoor tasks. Note that this cycle of indoor/outdoor tasks is often reversed between the summer and winter, as snow on the ground usually makes it more advisable to perform indoor tasks in the early hours and outdoor tasks at midday.
+Hour of the Horse (noon-2pm)    Midday prayers and lunch    At midday Kenta participates in another period of communal prayers and meditation, followed by the temple lunch, which is similar to breakfast in its simplicity.
+Hour of the Goat (2-4pm)    Personal time    While many of the custodial staff use this time for afternoon naps, Kenta uses this time for continuing education. He aspires to become an Adept monk, but first he must improve his reading and writing abilities, which he does by attending classes taught by the Teacher of Bishamon's Wisdom. Once his literacy has improved, he will "graduate" to begin receiving direct instruction from the Senior monk who oversees him.
+Hour of the Monkey (4-6pm)    Cleaning duties    As the day cools down, Kenta either resumes his outdoor cleaning (in the summer) or his indoor tasks (in the winter).
+Hour of the Rooster (6-8pm)    Evening prayers and dinner    Just as the day begins with prayers, so does it end. Kenta looks forward to the temple dinners, which are larger and fuller meals than the simple breakfasts and lunches. Dinner may involve soup, noodles, pickles, bean curd, seitan, and on some nights the kitchen serves fried tempura or a piece of fresh fruit as a dessert.
+Hour of the Dog (8-10pm)    Bathing and personal time    While some of the other young monks venture out into the city for entertainment during this time, Kenta usually spends a few minutes relaxing his thoughts and then turning in about 60 minutes before the Hour of the Boar, when most of the temple turns in for the night. Once his literacy improves enough for it to be practical, he plans to spend this time reading the Tao and whatever other texts his sensei recommends to him.
 
 As another example, consider the daily routine of Mizuki, who serves as the Scribe of the Eternal Tao. She is a senior monk who oversees the all copying of the Tao performed by all scribes in the temple library.
 
-Hour	Task	Description
-Hour of the Tiger (4-6am)	Waking and morning prayers	Rather than answering the call to morning prayers rung by the Herald of the Bell, Mizuki instead calls together her scribes to lead them in directed prayer and meditation based on what parts of the Tao will be copied on this day. She invites them to consider the koans and riddles and wisdom of the Shinsei they are about to transcribe, and has each of her scribes select a single word related to their day's work which shall be the focus of their centering prayer.
-Hour of the Hare (6-8am)	Planning and organizing	Mizuki begins her workday by reviewing the day's tasks and planning any special projects that must be handled, such as messages, correspondence, purchases, meetings, deliveries, etc.
-Hour of the Dragon (8-10am)	Breakfast and review of work	After a simple communal breakfast of rice and vegetables, Mizuki reviews the previous day's transcriptions, looking for errors or areas of improvement in her scribes' copying and calligraphy. During this time, she will mentor the junior scribes based on their previous day's output, to help them learn and improve.
-Hour of the Serpent (10am-noon)	Management and oversight	Mizuki typically splits this time between providing guidance and advice as needed to her scribes and performing transcription herself. These two tasks are related, as demonstrating how such things are properly done serves as a useful form of instruction for the junior monks.
-Hour of the Horse (noon-2pm)	Lunch and administrative duties	Mizuki is typically too busy to join her workers for midday prayers and meditation, and often works through lunch without noticing her own hunger. This is the time when she continues the day's special projects now that there is sufficient light to write correspondence, order new materials, and update her team's financial records. When the temple was suffering financially under the Tsume and in the aftermath of the Damasu retaking the city, Mizuki's team couldn't afford the cost of the candles and lanterns necessary to do this work in the early morning or late evening, and now that the temple's treasury has been restored to its former glory she is slowly re-accustoming herself to the new normal.
+Hour    Task    Description
+Hour of the Tiger (4-6am)    Waking and morning prayers    Rather than answering the call to morning prayers rung by the Herald of the Bell, Mizuki instead calls together her scribes to lead them in directed prayer and meditation based on what parts of the Tao will be copied on this day. She invites them to consider the koans and riddles and wisdom of the Shinsei they are about to transcribe, and has each of her scribes select a single word related to their day's work which shall be the focus of their centering prayer.
+Hour of the Hare (6-8am)    Planning and organizing    Mizuki begins her workday by reviewing the day's tasks and planning any special projects that must be handled, such as messages, correspondence, purchases, meetings, deliveries, etc.
+Hour of the Dragon (8-10am)    Breakfast and review of work    After a simple communal breakfast of rice and vegetables, Mizuki reviews the previous day's transcriptions, looking for errors or areas of improvement in her scribes' copying and calligraphy. During this time, she will mentor the junior scribes based on their previous day's output, to help them learn and improve.
+Hour of the Serpent (10am-noon)    Management and oversight    Mizuki typically splits this time between providing guidance and advice as needed to her scribes and performing transcription herself. These two tasks are related, as demonstrating how such things are properly done serves as a useful form of instruction for the junior monks.
+Hour of the Horse (noon-2pm)    Lunch and administrative duties    Mizuki is typically too busy to join her workers for midday prayers and meditation, and often works through lunch without noticing her own hunger. This is the time when she continues the day's special projects now that there is sufficient light to write correspondence, order new materials, and update her team's financial records. When the temple was suffering financially under the Tsume and in the aftermath of the Damasu retaking the city, Mizuki's team couldn't afford the cost of the candles and lanterns necessary to do this work in the early morning or late evening, and now that the temple's treasury has been restored to its former glory she is slowly re-accustoming herself to the new normal.
 
 Mizuki's scribes are not allowed the normal midday break. Unlike cooks and custodians and lecturers, Mizuki's team needs sunlight to for their work, and so they work with few breaks throughout the daylight hours, taking their personal time in the morning and evening.
-Hour of the Goat (2-4pm)	Personal study	During this time, Mizuki continues to oversee her team, but shifts her own work from transcription to study, diving deeper into the Tao to gain the understanding which only comes with intense and continued study, contemplation, meditation, and prayer. During this time, she especially contemplates any questions she has recently been posed, either by members of her team or students she instructs, or by those she has met with from outside the temple.
-Hour of the Monkey (4-6pm)	Oversight and teaching	In addition to the normal oversight and review of the work being performed by her scribes, Mizuki spends some of this time lecturing and leading members of the temple in prayer and meditation, usually based on some of the teachings having been transcribed earlier in the day. Her students consist of a combination of members of the temple library and monks from other parts of the Temple of Bishamon. Occasionally a visiting samurai or pilgrim to the temple will join her lectures, which some have referred to as "one of the temple's hidden gems".
-Hour of the Rooster (6-8pm)	Dinner and personal time	With the sun's light fading, Mizuki ends her day's work by enjoying the temple dinner, which is especially welcome on days when she found herself working through lunch. Sometimes she eats outside the temple with patrons and benefactors, often samurai who have commissioned copies of the Tao, to whom she often repeats snippets from her lectures.
+Hour of the Goat (2-4pm)    Personal study    During this time, Mizuki continues to oversee her team, but shifts her own work from transcription to study, diving deeper into the Tao to gain the understanding which only comes with intense and continued study, contemplation, meditation, and prayer. During this time, she especially contemplates any questions she has recently been posed, either by members of her team or students she instructs, or by those she has met with from outside the temple.
+Hour of the Monkey (4-6pm)    Oversight and teaching    In addition to the normal oversight and review of the work being performed by her scribes, Mizuki spends some of this time lecturing and leading members of the temple in prayer and meditation, usually based on some of the teachings having been transcribed earlier in the day. Her students consist of a combination of members of the temple library and monks from other parts of the Temple of Bishamon. Occasionally a visiting samurai or pilgrim to the temple will join her lectures, which some have referred to as "one of the temple's hidden gems".
+Hour of the Rooster (6-8pm)    Dinner and personal time    With the sun's light fading, Mizuki ends her day's work by enjoying the temple dinner, which is especially welcome on days when she found herself working through lunch. Sometimes she eats outside the temple with patrons and benefactors, often samurai who have commissioned copies of the Tao, to whom she often repeats snippets from her lectures.
 
 On days when Mizuki needs to leave the temple to purchase additional supplies or handle other business, this is generally the time when she does so.
-Hour of the Dog (8-10pm)	Personal time, bathing, and preparing for the next day	Depending on the hardships of the day, Mizuki might spend this time in additional study, having evening tea with her closest friends in the temple, or finishing up the day's work by candlelight now that the Temple of Bishamon can once again afford candles.
+Hour of the Dog (8-10pm)    Personal time, bathing, and preparing for the next day    Depending on the hardships of the day, Mizuki might spend this time in additional study, having evening tea with her closest friends in the temple, or finishing up the day's work by candlelight now that the Temple of Bishamon can once again afford candles.
 
 Hopefully the similarities and differences between Kenta and Mizuki can help give an idea of the general rhythm of temple life.
 
@@ -1631,30 +1631,30 @@ For married monks (remember that only Adept monks and below can marry, while Sen
 
 Now let's talk about the timeline of events related to the Karmic Inquisitors campaign:
 
-Year	Events
-1116	Akodo no Damasu Kojima, daimyo of the Damasu house, executes a Tsume noble for smuggling without bringing the matter before any Imperial magistrate.
-1117	Doji no Tsume Retsu, daimyo of the the Tsume house, invades Toshi Ranbo in retaliation, taking the city in a sneak attack immediately after a giant flood which prevented any immediate reinforcements from other Lion domains. Kojima is killed along with most of his extended family and almost all of his high-ranking retainers from the Damasu chancellary and ministries.
-1118	The Lion clan attempts to retake the city after the spring thaw. Doji Chuto, General of the Northern Armies of the Crane, successfully defends it, killing Akodo Toturi's brother, resulting in Toturi becoming the next daimyo of the Lion clan.
-1119	Tsume Retsu is murdered under mysterious circumstances. The killer is never found. Enemies of the Tsume point to his son, Doji no Tsume Takashi, who becomes daimyo of the Tsume house. Takashi and his retainers maintain the his father's political enemies had Retsu assassinated.
-1120	The prophet Baiten reveals that the next Day of Thunder is at hand.
+Year    Events
+1116    Akodo no Damasu Kojima, daimyo of the Damasu house, executes a Tsume noble for smuggling without bringing the matter before any Imperial magistrate.
+1117    Doji no Tsume Retsu, daimyo of the the Tsume house, invades Toshi Ranbo in retaliation, taking the city in a sneak attack immediately after a giant flood which prevented any immediate reinforcements from other Lion domains. Kojima is killed along with most of his extended family and almost all of his high-ranking retainers from the Damasu chancellary and ministries.
+1118    The Lion clan attempts to retake the city after the spring thaw. Doji Chuto, General of the Northern Armies of the Crane, successfully defends it, killing Akodo Toturi's brother, resulting in Toturi becoming the next daimyo of the Lion clan.
+1119    Tsume Retsu is murdered under mysterious circumstances. The killer is never found. Enemies of the Tsume point to his son, Doji no Tsume Takashi, who becomes daimyo of the Tsume house. Takashi and his retainers maintain the his father's political enemies had Retsu assassinated.
+1120    The prophet Baiten reveals that the next Day of Thunder is at hand.
 Prince Hantei Fukuhachi prevents the government of Toshi Ranbo from prosecuting Baiten.
 Doji Chuto is murdered by a bloodspeaker (whose name may not be spoken except by those with a rite of vengeance against him, but who all locals know is Jama Manabu), and Oni no Manabu ravages the city.
 The prophet Baiten returns to the city and is murdered - it later becomes apparent this was ordered by the moon cultist Imperial Magistrate Shinjo Jotsu.
 Jotsu's Imperial magistrate colleague Otaku Taira becomes a ronin and goes on a religious pilgrimage to gather forces to oppose the moon cult.
-1121	The Lion Clan retake the city of Toshi Ranbo, escalating tensions and triggering a buildup of troops on both sides of the border.
-1122	The Lion/Crane war begins.
-1123	The Day of Thunder occurs.
+1121    The Lion Clan retake the city of Toshi Ranbo, escalating tensions and triggering a buildup of troops on both sides of the border.
+1122    The Lion/Crane war begins.
+1123    The Day of Thunder occurs.
 Bayushi Shoju is murdered. His brother, Bayushi Aramoro later marries his widow, Bayushi Kachiko.
 Hida Kisada is wounded, and his oldest daighter Hida O-Ushi, the Crab Thunder, is killed.
 Jama no Iuchiban Kohaku arrives late to the Day of Thunder, fails to stop the 7 Thunders from defeating Shinjo Jotsu, and takes revenge by slaying the remaining Thunders. Oni no Kohaku kills hundreds of samurai before being slain. Kohaku announces that all loyal moon cultists should take refuge in Kyuden Shinjo, where the moon cult remains strong.
-1124	Shinjo Hanari executes Shinjo Yokatsu for high treason against the Empire, and declares a blood debt on his line, and becomes daimyo of the Unicorn clan.
-1127	The Black Scrolls are opened and recharged at the Forgotten Tomb.
+1124    Shinjo Hanari executes Shinjo Yokatsu for high treason against the Empire, and declares a blood debt on his line, and becomes daimyo of the Unicorn clan.
+1127    The Black Scrolls are opened and recharged at the Forgotten Tomb.
 Kuni Yori is executed for high treason against the Empire for experimenting with moon cultists and the practice of maho. Kuni Utagu becomes the new Jade Champion.
 Iuchi Shahai and the remaining moon cultists attempt to assassinate the Emperor at Imperial Winter Court at Kyuden Shinjo.
 Shinjo Hanari excecutes Iuchi Daiyu, the daimyo of the Iuchi family (and Shahai's father), and declares a blood debt on Shahai's line. Iuchi Morijiro (a priest rather than a bushi) becomes daimyo of the Iuchi family.
-1128	The Crab clan, under the direction of the Kuni Witch hunters, begin experimenting with the Black Scrolls.
+1128    The Crab clan, under the direction of the Kuni Witch hunters, begin experimenting with the Black Scrolls.
 With the Lion/Crane war ended, a dueling tournament is conducted according to the terms of the peace treaty to settle the ownership of several disputed provinces between the Tsume and Damasu.
-1129	A fungal blight destroys half of the Damasu rice and soybean crop, with only 1 Tsume province being seriously affected.
+1129    A fungal blight destroys half of the Damasu rice and soybean crop, with only 1 Tsume province being seriously affected.
 Timeline of events specifically relating to the moon cult
 The PCs belong to the Order of Lord Moon, which they conversationally refer to as "The Order". (If they are ever overhead discussing "The Order", they can easily claim that they are referring to The Order of Bishamon, to which they also belong.)
 
@@ -2348,25 +2348,25 @@ Since the PCs are members of the Brotherhood of Shinsei, let's talk about the si
 
 When the Shinsei was advising the Hantei on the new Empire being created, part of his guidance was the identification of the 7 Major Fortunes whose favor would bring good luck and prosperity to humanity:
 
-Fortune	Domain
-Benten	The fortune of romantic love
-Bishamon	The fortune of strength
-Daikoku	The fortune of wealth
-Ebisu	The fortune of honest work
-Fukurokujin	The fortune of wisdom and mercy
-Hotei	The fortune of contentment
-Jurojin	The fortune of longevity
+Fortune     Domain
+Benten      The fortune of romantic love
+Bishamon    The fortune of strength
+Daikoku     The fortune of wealth
+Ebisu       The fortune of honest work
+Fukurokujin The fortune of wisdom and mercy
+Hotei       The fortune of contentment
+Jurojin     The fortune of longevity
 
 The Shinsei further recommended that each clan cultivate 2 major Fortunes to be their patrons, ensuring that every city within the clan have a temple to each of their 2 patron Fortunes.
 
-Clan	Patron Fortunes
-Crab	Bishamon + Ebisu
-Crane	Benten + Daikoku
-Dragon	Hotei + Ebisu
-Lion	Bishamon + Daikoku
-Phoenix	Fukurokujin + Hotei
-Scorpion	Benten + Jurojin
-Unicorn	Fukurokujin + Jurojin
+Clan        Patron Fortunes
+Crab        Bishamon + Ebisu
+Crane       Benten + Daikoku
+Dragon      Hotei + Ebisu
+Lion        Bishamon + Daikoku
+Phoenix     Fukurokujin + Hotei
+Scorpion    Benten + Jurojin
+Unicorn     Fukurokujin + Jurojin
 
 In the late 3rd century, Hantei the Tenth formalized the system of the Six Ministries, and along with it codified the requirement that each of the Empire's cities contain a temple to each of its clan's patron fortunes.
 
@@ -6433,12 +6433,12 @@ Ranks in the Imperial legion:
 
 Here's a rough outline of the makeup of a legion.
 
-Unit	Rank of Officer in Charge	Number of samurai troops
-Legion	Legion General	~1000
-Battlation	Battalion Commander	~200
-Company	Company Captain	~50
-Platoon	Platoon Lieutenant	~10-15
-Squad	Squad Sergeant and Corporal	~4-6
+Unit        Rank of Officer in Charge       Number of samurai troops
+Legion      Legion General                  ~1000
+Battlation  Battalion Commander             ~200
+Company     Company Captain                 ~50
+Platoon     Platoon Lieutenant              ~10-15
+Squad       Squad Sergeant and Corporal     ~4-6
 
 Other notes:
 
