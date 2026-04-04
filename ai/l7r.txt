@@ -1367,13 +1367,13 @@ The Order's ceremonies require many implements, including porcelain masks, obsid
 
 Part of this job involves having good hiding places for these things, including:
 
-→ Under the floorboards in rooms of the Temple of Bishamon where they are unlikely to be discovered.
+-> Under the floorboards in rooms of the Temple of Bishamon where they are unlikely to be discovered.
 
-→ Buried in a cemetery, where they can be retrieved and where it is unlikely that they will be found.
+-> Buried in a cemetery, where they can be retrieved and where it is unlikely that they will be found.
 
-→ In a hidden cache in the wilderness outside the city, close to where the nighttime rituals of The Order will be performed.
+-> In a hidden cache in the wilderness outside the city, close to where the nighttime rituals of The Order will be performed.
 
-→ Under the false bottom of a trunk or chest.
+-> Under the false bottom of a trunk or chest.
 
 Osei's personal history is itself shrouded in mystery. She was recruited by the previous Seeker of the Moon's Chosen, and while she passed every test and evaluation put to her by The Order, the previous Seeker declined to share what details of her life story she revealed to him when he was inquiring into her past.
 
@@ -1834,19 +1834,19 @@ Here is a story of Lord Moon (and Lady Sun), told by Soshi Saibankan during his 
 
 Here are the facts of this case:
 
-→ Kakita Masao and Matsu Asahi were drinking in the same restaurant in Otosan Uchi.
+-> Kakita Masao and Matsu Asahi were drinking in the same restaurant in Otosan Uchi.
 
-→ Both men were very drunk, but Asahi had arrived much earlier and was therefore significantly more intoxicated.
+-> Both men were very drunk, but Asahi had arrived much earlier and was therefore significantly more intoxicated.
 
-→ The two of them exchanged words and ended up insulting one another, which led to a drunken fight.
+-> The two of them exchanged words and ended up insulting one another, which led to a drunken fight.
 
-→ Asahi was widely understood to be the superior fighter, being a veteran and accomplished duelist, while Masao was still young and inexperienced. However, despite being drunk himself, Masao knocked Asahi unconscious, probably due to the older man's heavier intoxication.
+-> Asahi was widely understood to be the superior fighter, being a veteran and accomplished duelist, while Masao was still young and inexperienced. However, despite being drunk himself, Masao knocked Asahi unconscious, probably due to the older man's heavier intoxication.
 
-→ Masao proceeded to brag to the entire bar that Asahi was lucky that this was merely a brawl and not a real duel, declared himself the superior fighter, proclaiming that in any real duel he would have surely killed Asahi.
+-> Masao proceeded to brag to the entire bar that Asahi was lucky that this was merely a brawl and not a real duel, declared himself the superior fighter, proclaiming that in any real duel he would have surely killed Asahi.
 
-→ Asahi challenged him to a duel to the death the next day, in repayment for the insult. Masao apologized profusely, publicly said he knew Asahi was the superior opponent, and begged Masao to pretend that he had never said those things. Asahi petitioned the Office of the Emerald Champion to have a magistrate rule that Masao must accept his challenge.
+-> Asahi challenged him to a duel to the death the next day, in repayment for the insult. Masao apologized profusely, publicly said he knew Asahi was the superior opponent, and begged Masao to pretend that he had never said those things. Asahi petitioned the Office of the Emerald Champion to have a magistrate rule that Masao must accept his challenge.
 
-→ Masao argued that they were both drunk, that he had apologized and publicly set the record straight, and that even if a duel was warranted, it should be to submission rather than to the death. Masao declared that he was happy to submit to a superior opponent, possibly after simply seeing his opponent show his stance, if indeed Asahi turned out to be as skilled as his reputation suggested.
+-> Masao argued that they were both drunk, that he had apologized and publicly set the record straight, and that even if a duel was warranted, it should be to submission rather than to the death. Masao declared that he was happy to submit to a superior opponent, possibly after simply seeing his opponent show his stance, if indeed Asahi turned out to be as skilled as his reputation suggested.
 
 Here was Saibankan's ruling, in which he characteristically told a fable and then explained how it informed his ruling:
 
@@ -2216,11 +2216,11 @@ Her first husband, Damasu Haruto, was killed in the first failed siege to take b
 
 Presumably the Damasu House Ministry of Retainers could compute the exact percentage of the Damasu lineage comes from what background, but a good rule of thumb is that the current Damasu lineage is divided into thirds:
 
-→ A third are from the original Damasu lineage, e.g. people who were out in the provinces or in the capital of Otosan Uchi when the Tsume invaded.
+-> A third are from the original Damasu lineage, e.g. people who were out in the provinces or in the capital of Otosan Uchi when the Tsume invaded.
 
-→ A third are from other scattered lineages of the Damasu family which no longer exist, with all of their senior members having died in the war.
+-> A third are from other scattered lineages of the Damasu family which no longer exist, with all of their senior members having died in the war.
 
-→ A third are from other Lion domains, who like Akodo Hiroki joined the lineage after the Lion clan retook the city of Toshi Ranbo. Most people from this third of the lineage were being rewarded with prestigious government posts, and if you ever meet an NPC from the Damasu lineage in such a respected position, they are almost certainly from this third of the lineage.
+-> A third are from other Lion domains, who like Akodo Hiroki joined the lineage after the Lion clan retook the city of Toshi Ranbo. Most people from this third of the lineage were being rewarded with prestigious government posts, and if you ever meet an NPC from the Damasu lineage in such a respected position, they are almost certainly from this third of the lineage.
 
 The Chura lineage
 
@@ -3567,27 +3567,27 @@ Company captains swear an even longer form of this oath, being required to swear
 
 Battalion commanders and Legion generals swear even longer oaths, which depending on the particular duties of the legion and their assignments may draw from the oaths of office from any or all the 6 ministries, with these being examples from those other oaths which may be pulled in to form the Officers' oaths:
 
-→ I shall avoid any and all actions which are injurious to the functioning of a well-ordered society.
+-> I shall avoid any and all actions which are injurious to the functioning of a well-ordered society.
 
-→ I possess pure faith and obedience to Emperor and shall preserve, support and secure the Empire without being affected by fear, mercy, love or hatred.
+-> I possess pure faith and obedience to Emperor and shall preserve, support and secure the Empire without being affected by fear, mercy, love or hatred.
 
-→ I shall discharge strictly and conscientiously the lofty duties that have been bestowed upon me.
+-> I shall discharge strictly and conscientiously the lofty duties that have been bestowed upon me.
 
-→ I will promote the general welfare of the Empire.
+-> I will promote the general welfare of the Empire.
 
-→ I will be responsible for my subordinates by becoming an example, building morale and confidence, and making right and honest decisions.
+-> I will be responsible for my subordinates by becoming an example, building morale and confidence, and making right and honest decisions.
 
-→ I will devote myself to the glory of the Empire, promotion of righteousness, and the propagation of justice.
+-> I will devote myself to the glory of the Empire, promotion of righteousness, and the propagation of justice.
 
-→ I shall guard righteousness and undertake to be diligent in seeking truth and justice.
+-> I shall guard righteousness and undertake to be diligent in seeking truth and justice.
 
-→ I will hold the good of the Emperor and the prosperity of his subjects as my supreme obligation.
+-> I will hold the good of the Emperor and the prosperity of his subjects as my supreme obligation.
 
-→ I will always preserve the Empire with my eyes, soul, thoughts, and care, and my mind will only be centered on the Emperor's commands to promote the public good.
+-> I will always preserve the Empire with my eyes, soul, thoughts, and care, and my mind will only be centered on the Emperor's commands to promote the public good.
 
-→ I will promote peace and harmony among the Emperor's subjects, and day and night I shall be the most vigilant custodian of his land.
+-> I will promote peace and harmony among the Emperor's subjects, and day and night I shall be the most vigilant custodian of his land.
 
-→ I will always promote all that will advance the Empire and oppose all that may harm it.
+-> I will always promote all that will advance the Empire and oppose all that may harm it.
 
 Note the pattern that oaths sworn by large numbers of people are usually fairly simple, and they get more and more complicated for higher-ranking positions.  For example, here is the oath of office sworn by the Damasu Minister of Works (the Damasu is a vassal family of the Akodo family of the Lion clan).
 
@@ -3629,23 +3629,23 @@ Akuma published a number of works of scholarships written by people who were nev
 
 On Vows to the Fortunes is still considered the foundational work of scholarship on the subject of vows, despite its origins, which speaks to its quality.  Here is some of the most salient information it contains.
 
-→ The fortunes reward those who are devoted to them. This devotion is defined as shaping your thoughts and decisions and actions around being in tune with the fortunes, keeping them and their will in mind at every moment.
+-> The fortunes reward those who are devoted to them. This devotion is defined as shaping your thoughts and decisions and actions around being in tune with the fortunes, keeping them and their will in mind at every moment.
 
-→ There are a thousand fortunes, though this number is probably not literal, and should be taken to mean "a large number, but still finite and theoretically within the ability of the human race to count and record". This is too many for any one person to keep in their head at all times. Therefore, humans do not displease any fortune by our neglect, so long as we do not act contrary to their wishes or actively reject their importance.
+-> There are a thousand fortunes, though this number is probably not literal, and should be taken to mean "a large number, but still finite and theoretically within the ability of the human race to count and record". This is too many for any one person to keep in their head at all times. Therefore, humans do not displease any fortune by our neglect, so long as we do not act contrary to their wishes or actively reject their importance.
 
-→ We gain the favor of the fortunes by focusing on individual, specific fortunes and behaving in accordance with their wishes and nature. Humans are only capable of doing this with a few fortunes at a time - the upper limit of different fortunes that the human mind can act in conscious accordance with is thought to be 7, and most people are advised to pick a much smaller number when swearing vows.
+-> We gain the favor of the fortunes by focusing on individual, specific fortunes and behaving in accordance with their wishes and nature. Humans are only capable of doing this with a few fortunes at a time - the upper limit of different fortunes that the human mind can act in conscious accordance with is thought to be 7, and most people are advised to pick a much smaller number when swearing vows.
 
-→ Counterintuitively, swearing a vow to the Fortunes does not actually gain their favor in any way, while breaking a vow angers them and brings misfortune to the vowbreaker. With this in mind, why swear a vow at all? The answer is that swearing a vow forces you to orient your thoughts around maintaining your vow until it becomes second nature to you. Living and abiding by your vow will then become part of your natural state of mind, and that will gain you the favor and blessings of the fortunes.
+-> Counterintuitively, swearing a vow to the Fortunes does not actually gain their favor in any way, while breaking a vow angers them and brings misfortune to the vowbreaker. With this in mind, why swear a vow at all? The answer is that swearing a vow forces you to orient your thoughts around maintaining your vow until it becomes second nature to you. Living and abiding by your vow will then become part of your natural state of mind, and that will gain you the favor and blessings of the fortunes.
 
-→ Theoretically a person could achieve a similar result without swearing a vow, but in practice it doesn't usually work that way. For example, if you choose to not swear a vow because that gives you the option of acting in ways that might theoretically break such a vow, then you will gain less favor with the fortunes even if that sort of situation never comes up.
+-> Theoretically a person could achieve a similar result without swearing a vow, but in practice it doesn't usually work that way. For example, if you choose to not swear a vow because that gives you the option of acting in ways that might theoretically break such a vow, then you will gain less favor with the fortunes even if that sort of situation never comes up.
 
-→ There are many recorded cases of people gaining the blessings of the fortunes without having taken vows of any kind, though this is most commonly among peasants who didn't even know that swearing a vow was an option available to them, and who wouldn't have known how to do this properly in any case.
+-> There are many recorded cases of people gaining the blessings of the fortunes without having taken vows of any kind, though this is most commonly among peasants who didn't even know that swearing a vow was an option available to them, and who wouldn't have known how to do this properly in any case.
 
-→ There are a number of generic vows that can be sworn to many different fortunes, with different significance depending on the fortune being sworn to. Note that vows can be sworn to any divine being, not just the fortunes, e.g. to Lady Sun, though most vows are sword to one or more of the Thousand Fortunes.
+-> There are a number of generic vows that can be sworn to many different fortunes, with different significance depending on the fortune being sworn to. Note that vows can be sworn to any divine being, not just the fortunes, e.g. to Lady Sun, though most vows are sword to one or more of the Thousand Fortunes.
 
-→ In general, it's far worse to swear a vow and break it than to have never sworn a vow at all.  And swearing a vow to do things you don't find difficult doesn't have much benefit, since if you don't need to reshape your thoughts around following the vow then it will not gain much favor with a fortune.  This makes vows inherently somewhat risky - in order to be meaningful or significant they must be difficult, but the more difficult they are the more likely you are to break your vow and be worse off than you were before.
+-> In general, it's far worse to swear a vow and break it than to have never sworn a vow at all.  And swearing a vow to do things you don't find difficult doesn't have much benefit, since if you don't need to reshape your thoughts around following the vow then it will not gain much favor with a fortune.  This makes vows inherently somewhat risky - in order to be meaningful or significant they must be difficult, but the more difficult they are the more likely you are to break your vow and be worse off than you were before.
 
-→ Because of this dynamic, a standard piece of advice is to practice operating under the burden of an especially difficult vow before you actually swear it, in order to ensure that you will be able to keep it.  Religious institutions should prevent new members from swearing vows until they have been tested, to ensure that newcomers do not bring ruin to themselves and to their entire orders by swearing and then breaking vows.
+-> Because of this dynamic, a standard piece of advice is to practice operating under the burden of an especially difficult vow before you actually swear it, in order to ensure that you will be able to keep it.  Religious institutions should prevent new members from swearing vows until they have been tested, to ensure that newcomers do not bring ruin to themselves and to their entire orders by swearing and then breaking vows.
 
 Another in-universe work of literature which teaches people in Rokugan about vows is the book "Benten's Blessing" by Doji Shizue.
 
@@ -3667,9 +3667,9 @@ Shortly before her gempukku, Matsu Hitomi watched her brother die in a duel agai
 
 Hitomi left on a warrior's pilgrimage to train and swore vows to the two fortunes of vengeance:
 
-→ Yozo is the fortune of legal vengeance, e.g. the sentence of a magistrate to someone convicted of a crime as their punishment. Yozo is sometimes said to be the fortune of penance, both voluntarily taken and forcibly inflicted.
+-> Yozo is the fortune of legal vengeance, e.g. the sentence of a magistrate to someone convicted of a crime as their punishment. Yozo is sometimes said to be the fortune of penance, both voluntarily taken and forcibly inflicted.
 
-→ Hofukushu is the fortune of personal vengeance, e.g. the burning need to take revenge on someone who has harmed your family.  Hofukushu is sometimes said to be the fortune of sacrificial revenge, favoring those who would throw aside all other goals in pursuit of vengeance.
+-> Hofukushu is the fortune of personal vengeance, e.g. the burning need to take revenge on someone who has harmed your family.  Hofukushu is sometimes said to be the fortune of sacrificial revenge, favoring those who would throw aside all other goals in pursuit of vengeance.
 
 Hitomi went on a warrior's pilgrimage, training for years in self-imposed exile until she considered herself worthy to return home and face Akimori. She did so, and although Akimori had risen to such a high position that she had no standing to challenge him, he saw her and judged that she had become a worthy opponent and accepted her new challenge. Hitomi prevailed in her duel, though she almost died of her wounds afterwards. As he lay dying, Akimori thanked her for the greatest warrior's challege of his life, saying he was glad to have spared her all those years ago, and was happy to see she had finally become a worthy opponent.
 
@@ -3683,19 +3683,19 @@ A "vow of devotion" is one of the most common vows, this can be sworn to any for
 
 Some non-monastic examples:
 
-→ A vow of devotion sworn to Bishamon (the fortune of strength) is something a duelist might swear, requiring them to devote their entire life to bettering their skill in single combat. Any other responsibilities would come second, and all other pursuits would need to be judged in terms of how they further this goal. For example, someone swearing this vow might raise their Tact skill, but only to help ensure they are not manipulated out of being able to duel a worthy opponent. Someone holding a government post who has sworn this vow might be required to delegate far more of their responsibilities than they otherwise would. This devotion would be rewarded by increased strength and success in combat.
+-> A vow of devotion sworn to Bishamon (the fortune of strength) is something a duelist might swear, requiring them to devote their entire life to bettering their skill in single combat. Any other responsibilities would come second, and all other pursuits would need to be judged in terms of how they further this goal. For example, someone swearing this vow might raise their Tact skill, but only to help ensure they are not manipulated out of being able to duel a worthy opponent. Someone holding a government post who has sworn this vow might be required to delegate far more of their responsibilities than they otherwise would. This devotion would be rewarded by increased strength and success in combat.
 
-→ A vow of devotion sworn to Benten (the fortune of romantic love) is something a matchmaker might swear, requiring them to be looking at all times for favorable matches among all of the unmarried people they know, even those who have not actively sought this help. This usually requires discovering all that you can about those people you wish to match, forcing you into being a busybody, and those who swear this vow are often condemned as gossips and meddlers. This devotion will be rewarded by wisdom into the nature of love and proper matches, especially for the family of the person who swore the vow.
+-> A vow of devotion sworn to Benten (the fortune of romantic love) is something a matchmaker might swear, requiring them to be looking at all times for favorable matches among all of the unmarried people they know, even those who have not actively sought this help. This usually requires discovering all that you can about those people you wish to match, forcing you into being a busybody, and those who swear this vow are often condemned as gossips and meddlers. This devotion will be rewarded by wisdom into the nature of love and proper matches, especially for the family of the person who swore the vow.
 
-→ A vow of devotion sworn to Yozo (the fortune of legal vengeance) is something a magistrate might swear, requiring them to always enact the proper punishment for each crime, regardless of all other considerations. This will frequently involve offending powerful families and interests, and those who swear this vow will often find their careers derailed by the schemes and plotting of those who resent justice being imposed on them. This devotion will be rewarded by being given the insight to separate truth from falsehood and thus have the information necessary to be capable of imposing just retribution.
+-> A vow of devotion sworn to Yozo (the fortune of legal vengeance) is something a magistrate might swear, requiring them to always enact the proper punishment for each crime, regardless of all other considerations. This will frequently involve offending powerful families and interests, and those who swear this vow will often find their careers derailed by the schemes and plotting of those who resent justice being imposed on them. This devotion will be rewarded by being given the insight to separate truth from falsehood and thus have the information necessary to be capable of imposing just retribution.
 
 Another example vow is the "vow of poverty".  Members of ascetic monastic orders are required to swear this vow, and that's the most common reason. However, there are several different forms of this vow, based on what exactly you are giving up, where you are directing the resources which would have otherwise been your personal property, and the purpose of the vow. Here are some non-monastic examples:
 
-→ Witch Hunters swear a version of this vow used by those who hold public office. (Witch Hunters swear specifically to Hofukushu, but officials who swear this vow for any other office invariably choose a different fortune.) All gifts you accept are accepted on behalf of your office, and when you leave your office, the gifts stay with the office, along with all monies and resources you have accumulated during your time there. You must immediately find another position after leaving any current position, and failing that must join a monastery and have that take the place of your government post. This poverty is rewarded by increased trust in the office you hold and success in your official endeavors.
+-> Witch Hunters swear a version of this vow used by those who hold public office. (Witch Hunters swear specifically to Hofukushu, but officials who swear this vow for any other office invariably choose a different fortune.) All gifts you accept are accepted on behalf of your office, and when you leave your office, the gifts stay with the office, along with all monies and resources you have accumulated during your time there. You must immediately find another position after leaving any current position, and failing that must join a monastery and have that take the place of your government post. This poverty is rewarded by increased trust in the office you hold and success in your official endeavors.
 
-→ Some pilgrims and ronin and those who live in exile choose to eschew material things, swearing a vow of poverty to a fortune whose favor they wish to solicit. You may have no more than 1 koku in money, no more than 1 of any item or article of clothing, and no more possessions than you can carry. Anything in excess of this must be immediately discarded (not gifted!), e.g. if someone gives you a second hat as a gift, then immediately upon accepting it, you must thank your previous hat for its service to you and then throw it on the ground and leave it behind. This poverty is rewarded by success in your travels, and those who abide by these rules will find themsevles able to find success without worrying about their material needs being met despite an inability to meet those needs with their own resources.
+-> Some pilgrims and ronin and those who live in exile choose to eschew material things, swearing a vow of poverty to a fortune whose favor they wish to solicit. You may have no more than 1 koku in money, no more than 1 of any item or article of clothing, and no more possessions than you can carry. Anything in excess of this must be immediately discarded (not gifted!), e.g. if someone gives you a second hat as a gift, then immediately upon accepting it, you must thank your previous hat for its service to you and then throw it on the ground and leave it behind. This poverty is rewarded by success in your travels, and those who abide by these rules will find themsevles able to find success without worrying about their material needs being met despite an inability to meet those needs with their own resources.
 
-→ When someone is devoted to a personal, family, and/or political cause which they cannot directly work towards (usually due to being away from home), they might swear a vow of poverty to whichever fortune most aligns with that cause, sending all of what they earn to support that cause. All possessions of value must be sold or donated to the cause, they must live in government housing or stay in flophouses (or as guests of friends/allies who support them), and all income beyond what is needed for survival and the execution of their duties must go to support this cause. This poverty is rewarded by directing the favor of the fortune to that cause, and also in empowering the one who swore it with the skill and ability to ensure success in similar causes in their own life.
+-> When someone is devoted to a personal, family, and/or political cause which they cannot directly work towards (usually due to being away from home), they might swear a vow of poverty to whichever fortune most aligns with that cause, sending all of what they earn to support that cause. All possessions of value must be sold or donated to the cause, they must live in government housing or stay in flophouses (or as guests of friends/allies who support them), and all income beyond what is needed for survival and the execution of their duties must go to support this cause. This poverty is rewarded by directing the favor of the fortune to that cause, and also in empowering the one who swore it with the skill and ability to ensure success in similar causes in their own life.
 
 Another interesting vow is the "vow of soothsaying".  While the word "soothsaying" is commonly used to refer to predicting the future, the literal meaning of the word is "truth-speaking". This vow can be theoretically sworn to any fortune, and one would choose the fortune whose affairs are most relevant to the reasons why you'd feel led to swear this vow. Note that while the vow may be intended to cover a specific area, all versions of this vow require truth-speaking at all times, so anyone who swears any version of this vow to any fortune may never tell any lie for any reason.
 
@@ -3703,11 +3703,11 @@ Unlike the above vows, this is less likely to be sworn by monks, since monks rar
 
 Some examples:
 
-→ Ritsu the pilgrim is one who has been blessed by Benten with the ability to look at a person and sketch a drawing of their soulmate.  He swore the vow of soothsaying to Benten, because people are often upset at discovering the identity of their soulmate. Over the past few years, 3 different people have received sketches of gaijin soulmates. While this is promising news for Moto Gaheris' military campaign (Toranosuke the abbot of Chai Sedo has declared that this portends success), it's bad news for those receiving the sketches. By vowing to always convey truth to all who seek it, Ritsu is rewarded by receiving divine truth from Benten in return, and thus finds success in the performance of his holy works.
+-> Ritsu the pilgrim is one who has been blessed by Benten with the ability to look at a person and sketch a drawing of their soulmate.  He swore the vow of soothsaying to Benten, because people are often upset at discovering the identity of their soulmate. Over the past few years, 3 different people have received sketches of gaijin soulmates. While this is promising news for Moto Gaheris' military campaign (Toranosuke the abbot of Chai Sedo has declared that this portends success), it's bad news for those receiving the sketches. By vowing to always convey truth to all who seek it, Ritsu is rewarded by receiving divine truth from Benten in return, and thus finds success in the performance of his holy works.
 
-→ A healer might swear the vow of soothsaying to Jurojin (the fortune of longevity), vowing to only speak the truth when asked their opinion. This can be unpleasant when delivering bad news, but is especially awkward when rendering a healer unable to pass off guesses as facts. Hearing "I don't know what's wrong and have no idea if this medicine will help" is not reassuring and will often cause patients to seek help elsewhere, even from those who would decieve them by claiming certainty where none exists. This truth-speaking would be rewarded by helping the healer actually find truth, making them more able to diagnose maladies and afflictions.
+-> A healer might swear the vow of soothsaying to Jurojin (the fortune of longevity), vowing to only speak the truth when asked their opinion. This can be unpleasant when delivering bad news, but is especially awkward when rendering a healer unable to pass off guesses as facts. Hearing "I don't know what's wrong and have no idea if this medicine will help" is not reassuring and will often cause patients to seek help elsewhere, even from those who would decieve them by claiming certainty where none exists. This truth-speaking would be rewarded by helping the healer actually find truth, making them more able to diagnose maladies and afflictions.
 
-→ A merchant might swear the vow of soothsaying to Daikoku (the fortune of wealth), vowing honesty in all business dealings. This can make negotiations considerably harder - while this vow does not require you to volunteer all information, anyone who knows you have sworn this vow can ask you questions, and refusing to answer is often as good as answering. This truth-speaking is rewarded by preventing you from being cheated, and bringing ruin to those who would use dishonest tactics to oppose your business endeavors.
+-> A merchant might swear the vow of soothsaying to Daikoku (the fortune of wealth), vowing honesty in all business dealings. This can make negotiations considerably harder - while this vow does not require you to volunteer all information, anyone who knows you have sworn this vow can ask you questions, and refusing to answer is often as good as answering. This truth-speaking is rewarded by preventing you from being cheated, and bringing ruin to those who would use dishonest tactics to oppose your business endeavors.
 
 One thing to note about the vow of soothsaying is that it doesn't require "honesty" per se.  You may not tell a direct lie, but it is permitted within the framework of the vow to make statements which are technically true but which intentionally deceive the listener into forming beliefs which are false.
 
@@ -3719,45 +3719,45 @@ It's dangerous to swear more than one limited vow at a time, unless the vows in 
 
 Some examples of limited vows:
 
-→ Instead of swearing a vow of devotion to Bishamon (the fortune of strength), one might swear a vow of pilgrimage, requiring them to go on a defined number of pilgrimages and/or visit a certain number of sites at which to train, e.g. training at at least one dojo in every clan in the Empire. Someone who swears this vow and begins planning for how to accomplish such a pilgrimage will be rewarded by beginning to accrue Bishamon's favor prior to actually making the pilgrimage. In this way, swearing a vow is like borrowing against future earnings to recieve benefits early.
+-> Instead of swearing a vow of devotion to Bishamon (the fortune of strength), one might swear a vow of pilgrimage, requiring them to go on a defined number of pilgrimages and/or visit a certain number of sites at which to train, e.g. training at at least one dojo in every clan in the Empire. Someone who swears this vow and begins planning for how to accomplish such a pilgrimage will be rewarded by beginning to accrue Bishamon's favor prior to actually making the pilgrimage. In this way, swearing a vow is like borrowing against future earnings to recieve benefits early.
 
-→ Someone might swear a vow of offering to a particular fortune, swearing to eventually make donations whose total is far in excess of what they have at the moment. For example, someone might swear to donate 1000 koku despite only having a stipend of ~50 koku/year. This would be rewarded by accumulating much of the favor that they'd eventually get up-front as well as being more likely to receive the kind of good fortune that makes them able to fulfill the obligation of their vow. The risk is that if they die or are otherwise rendered unable to ever meet the total, then they will be judged harshly if they could have been more generous with the percentage of their wealth.
+-> Someone might swear a vow of offering to a particular fortune, swearing to eventually make donations whose total is far in excess of what they have at the moment. For example, someone might swear to donate 1000 koku despite only having a stipend of ~50 koku/year. This would be rewarded by accumulating much of the favor that they'd eventually get up-front as well as being more likely to receive the kind of good fortune that makes them able to fulfill the obligation of their vow. The risk is that if they die or are otherwise rendered unable to ever meet the total, then they will be judged harshly if they could have been more generous with the percentage of their wealth.
 
-→ Building a shrine or temple to a fortune is a great non-vow way to earn their favor, but someone unable to do so might swear a vow of creation, obligating them to see that a shrine is constructed as soon as they are able. This will be rewarded with the success that enables the person to build such a shrine, and punished if they fail to live up to their obligation.
+-> Building a shrine or temple to a fortune is a great non-vow way to earn their favor, but someone unable to do so might swear a vow of creation, obligating them to see that a shrine is constructed as soon as they are able. This will be rewarded with the success that enables the person to build such a shrine, and punished if they fail to live up to their obligation.
 
-→ Someone slighted in a particular way might swear a vow of revenge. This would often be sworn to Hofukushu (the elder fortune of vengeance), but depending on the nature of the offense and the nature of the intended vengeance this may be sworn to a different fortune instead. This obligates someone to focus their entire life on achieving vengeance until this has been accomplished. This will be rewarded by helping ensure that you have your revenge.
+-> Someone slighted in a particular way might swear a vow of revenge. This would often be sworn to Hofukushu (the elder fortune of vengeance), but depending on the nature of the offense and the nature of the intended vengeance this may be sworn to a different fortune instead. This obligates someone to focus their entire life on achieving vengeance until this has been accomplished. This will be rewarded by helping ensure that you have your revenge.
 
 Here are some other example vows with a bit less detail, since you can probably discern the general pattern of what is expected and what rewards one can expect from each.
 
-→ The vow of pacifism prevents one from ever offering violence, even in self-defense. This is most commonly sworn by monks, peasants, and samurai who have retired. The vow of non-killing is a more moderate alternative, though in some ways is riskier since any act of violence might potentially end with someone's death, thus causing the vow to be broken.
+-> The vow of pacifism prevents one from ever offering violence, even in self-defense. This is most commonly sworn by monks, peasants, and samurai who have retired. The vow of non-killing is a more moderate alternative, though in some ways is riskier since any act of violence might potentially end with someone's death, thus causing the vow to be broken.
 
-→ A vow of prayer specifies the times, days, and manner which one must spend in prayer to a chosen fortune. This is typically very frequent, e.g. "every night at sundown", and will usually interfere with other activities, since one might need to make frequent excuses at social gatherings to go pray. However, to some extent this inconvenience is the point, since it forces you to pay attention to your vow and orient your life and schedulearound it, which is what wins the favor of the fortune.
+-> A vow of prayer specifies the times, days, and manner which one must spend in prayer to a chosen fortune. This is typically very frequent, e.g. "every night at sundown", and will usually interfere with other activities, since one might need to make frequent excuses at social gatherings to go pray. However, to some extent this inconvenience is the point, since it forces you to pay attention to your vow and orient your life and schedulearound it, which is what wins the favor of the fortune.
 
-→ A vow of fasting is similar to the vow of prayer, specifing instead the duration and manner of fasting. This can be either a limited vow (specifying e.g. a total number of days on which someone will fast) or a permanent one (specifying a schedule of fasting one must adhere to for the rest of their life). In some cases the food that would otherwise be eaten is offered instead to the fortune - this is most common with the limited form of the vow.
+-> A vow of fasting is similar to the vow of prayer, specifing instead the duration and manner of fasting. This can be either a limited vow (specifying e.g. a total number of days on which someone will fast) or a permanent one (specifying a schedule of fasting one must adhere to for the rest of their life). In some cases the food that would otherwise be eaten is offered instead to the fortune - this is most common with the limited form of the vow.
 
-→ A vow of matchmaking is a more specific version of the vow of devotion to Benton listed above. A favorable marriage is defined in many ways, such as producing many children, bringing families together, eliminating conflict, generating prosperity, etc. A matchmaker might generally try to balance all of these aspects... or they could devote themselves to one particular aspect and eschew all other considerations. For example, a matchmaker might swear to only recommend marriages where the strength of romantic love will be the strongest regardless of all other considerations, or only recommend marriages in which the families being joined together are sufficiently compatible that there will be the least amount of conflict between spouses and their parents.
+-> A vow of matchmaking is a more specific version of the vow of devotion to Benton listed above. A favorable marriage is defined in many ways, such as producing many children, bringing families together, eliminating conflict, generating prosperity, etc. A matchmaker might generally try to balance all of these aspects... or they could devote themselves to one particular aspect and eschew all other considerations. For example, a matchmaker might swear to only recommend marriages where the strength of romantic love will be the strongest regardless of all other considerations, or only recommend marriages in which the families being joined together are sufficiently compatible that there will be the least amount of conflict between spouses and their parents.
 
-→ A vow of atonement is sworn by someone who has committed some offence for which they seek redemption. This can either be a limited vow (obligating one to a particular outcome) or a permanent vow (signing one up for a lifetime of obligation). This is usually sworn to either a fortune one has offended or a fortune whose affairs are most relevant to the offense someone has made against another person.
+-> A vow of atonement is sworn by someone who has committed some offence for which they seek redemption. This can either be a limited vow (obligating one to a particular outcome) or a permanent vow (signing one up for a lifetime of obligation). This is usually sworn to either a fortune one has offended or a fortune whose affairs are most relevant to the offense someone has made against another person.
 
-→ The vow of deathseeking is sworn by Lion clan samurai to Emma-O (the fortune of death) as an alternative to the vow of atonement. Someone so disgrased that their only other option would be execution or seppuku might swear this vow, intending to throw themselves into dangerous situations benefiting their daimyo as a way to atone. In wartime deathseekers usually congregate into Deathseeker platoons (or sometimes even larger units), where they go into extremely dangerous battles. Samurai who swear this vow are said to usually find death within a year.
+-> The vow of deathseeking is sworn by Lion clan samurai to Emma-O (the fortune of death) as an alternative to the vow of atonement. Someone so disgrased that their only other option would be execution or seppuku might swear this vow, intending to throw themselves into dangerous situations benefiting their daimyo as a way to atone. In wartime deathseekers usually congregate into Deathseeker platoons (or sometimes even larger units), where they go into extremely dangerous battles. Samurai who swear this vow are said to usually find death within a year.
 
-→ The vow of judgment is most commonly sworn to Yozo (the fortune of legal vengeance), but often sworn to some other fortune whose affairs are relevant to the vower's area of responsibility. In some ways this is an even more extreme vow than the one sworn by deathseekers, because it requires one to do everything possible to bring about the outcome they consider to be just, regardless of any other factors. For example, someone who has sworn this vow to Yozo might find themselves obligated to carry out an execution even if overruled and the sentence commuted by a higher authority. Or if a magistrate believed someone to be innocent, they would be obligated to take up arms against their own family if necessary to secure a prisoner's release and escape.
+-> The vow of judgment is most commonly sworn to Yozo (the fortune of legal vengeance), but often sworn to some other fortune whose affairs are relevant to the vower's area of responsibility. In some ways this is an even more extreme vow than the one sworn by deathseekers, because it requires one to do everything possible to bring about the outcome they consider to be just, regardless of any other factors. For example, someone who has sworn this vow to Yozo might find themselves obligated to carry out an execution even if overruled and the sentence commuted by a higher authority. Or if a magistrate believed someone to be innocent, they would be obligated to take up arms against their own family if necessary to secure a prisoner's release and escape.
 
 Note that the specifics of each vow are tied to the fortune being honored, the individual's situation or role, and the type of commitment they're willing to make, be it limited or permanent. This provides a depth of customization and personal commitment that makes each vow unique and meaningful.
 
 Here are some miscellaneous vows for which I have not written extensive explanations:
 
-→ The vow of obedience sworn by acolytes of a religious order.
+-> The vow of obedience sworn by acolytes of a religious order.
 
-→ The vow of celibacy sworn by members of some ascetic orders.
+-> The vow of celibacy sworn by members of some ascetic orders.
 
-→ The vow of silence which some monks take to prohibit themselves from speaking, sometimes with well-specified exceptions such as certain holy days.
+-> The vow of silence which some monks take to prohibit themselves from speaking, sometimes with well-specified exceptions such as certain holy days.
 
-→ The vow of bloodlessness which prohibits the eating of "anything that bleeds", i.e. adopting a vegetarian diet.
+-> The vow of bloodlessness which prohibits the eating of "anything that bleeds", i.e. adopting a vegetarian diet.
 
-→ The vow of isolation in which some holy men practice self-imprisonment. Criminals sentenced to spend the rest of their lives in prison monasteries are sometimes forced to swear this vow under penalty of death.
+-> The vow of isolation in which some holy men practice self-imprisonment. Criminals sentenced to spend the rest of their lives in prison monasteries are sometimes forced to swear this vow under penalty of death.
 
-→ The vow of charity was recently popularized by the prophet Grand Abbot Okawa which sometimes supplements and other times replaces a vow of poverty, usually depending on whether it's being sworn by a monk or samurai.
+-> The vow of charity was recently popularized by the prophet Grand Abbot Okawa which sometimes supplements and other times replaces a vow of poverty, usually depending on whether it's being sworn by a monk or samurai.
 
 I know that some of what I've described is based on historical example, and some of it is invented for the fictional setting of Rokugan and does not match the historical concepts of vows.  I generally want vows to combine things which I have described here while still drawing on historical Japanese vows, such as those sworn in a Shinto or Buddhist religious order.
 
@@ -3905,25 +3905,25 @@ Here's another example of a vow.  Akodo no Sugiwara Natsuki was interested in sw
 
 Here are some miscellaneous facts about the Empire's roads:
 
-→ In the first few centuries of the Empire, most roads were local and connected domain capitals to their holdings in the provinces.
+-> In the first few centuries of the Empire, most roads were local and connected domain capitals to their holdings in the provinces.
 
-→ In the 3rd century, the Emperor Hantei the 10th launched the most massive public works project in history, ultimately constructing over 50,000 miles of Imperial roads, and mandating by Imperial decree that those who traveled along those roads may not be taxed by local daimyo.
+-> In the 3rd century, the Emperor Hantei the 10th launched the most massive public works project in history, ultimately constructing over 50,000 miles of Imperial roads, and mandating by Imperial decree that those who traveled along those roads may not be taxed by local daimyo.
 
-→ In addition to the roads themselves, the Emperor mandated waystations. In many places a waystation exists once per mile along the roads, to protect against bandits and ensure safe passage for travelers.
+-> In addition to the roads themselves, the Emperor mandated waystations. In many places a waystation exists once per mile along the roads, to protect against bandits and ensure safe passage for travelers.
 
-→ The Emperor spends well over a million koku per year on road upkeep, construction, and waystation staffing.
+-> The Emperor spends well over a million koku per year on road upkeep, construction, and waystation staffing.
 
-→ Koshin was already a minor fortune who had previously been prayed to during local road construction projects. He rose to prominence, especially in Crane lands, whose merchant caravans could now travel the Empire as never before. (Remember that the Yasuki were still part of the Crane at this time.)
+-> Koshin was already a minor fortune who had previously been prayed to during local road construction projects. He rose to prominence, especially in Crane lands, whose merchant caravans could now travel the Empire as never before. (Remember that the Yasuki were still part of the Crane at this time.)
 
-→ The Unicorn clan favored Koshin even more than the Crane clan, as the Ki Rin Trail had begun to bring them great prosperity. Although the Ki Rin Trail was never a formal road system, the Unicorn clan established the same sorts of waystations for hundreds of miles to the east and west of Medin al Salaat to allow merchants to bring them wealth and prosperity. (It's unclear whether the temple to Koshin that the Unicorn built in Medin al Salaat is still operating.)
+-> The Unicorn clan favored Koshin even more than the Crane clan, as the Ki Rin Trail had begun to bring them great prosperity. Although the Ki Rin Trail was never a formal road system, the Unicorn clan established the same sorts of waystations for hundreds of miles to the east and west of Medin al Salaat to allow merchants to bring them wealth and prosperity. (It's unclear whether the temple to Koshin that the Unicorn built in Medin al Salaat is still operating.)
 
-→ Koshin is therefore not just the fortune of physical roads, but of orderly systems of travel.
+-> Koshin is therefore not just the fortune of physical roads, but of orderly systems of travel.
 
-→ Intuitively, one might expect that Koshin is most closely related to Natsu-togumara, the fortune of travel. However, in fact Koshin is said to sit at the right hand of Daikoku, the fortune of wealth, because roads bring wealth, and wealth enables the construction of roads.
+-> Intuitively, one might expect that Koshin is most closely related to Natsu-togumara, the fortune of travel. However, in fact Koshin is said to sit at the right hand of Daikoku, the fortune of wealth, because roads bring wealth, and wealth enables the construction of roads.
 
-→ A sect of the Order of Koshin which originated in Hiruma lands is the Order of the Barefoot Brethren. Originally centered in Hiruma Castle, the order moved to Kyuden Kaiu after the Maw destroyed most of Hiruma lands. Its members frequently walk the roads of the Empire so much (usually carrying messages) that they wear through the soles of their shoes, arriving barefoot at their destinations. Some Miya heralds make a point of walking by foot, sometimes barefoot.
+-> A sect of the Order of Koshin which originated in Hiruma lands is the Order of the Barefoot Brethren. Originally centered in Hiruma Castle, the order moved to Kyuden Kaiu after the Maw destroyed most of Hiruma lands. Its members frequently walk the roads of the Empire so much (usually carrying messages) that they wear through the soles of their shoes, arriving barefoot at their destinations. Some Miya heralds make a point of walking by foot, sometimes barefoot.
 
-→ When the system of roads was being constructed in the Empire, people would often swear vows of creation to Koshin, swearing that they will create a certain amount of road or construct a certain number of waystations. Natsuki might consider this, but when it comes to staffing the Ki Rin Trail waystations, he could end up in the same position as Tetsu, where if Gaheris' military efforts fail then he is obligated to fulfill his vow regardless at great expense and risk. (On the other hand, he is more likely to experience success in his endeavors and even make Gaheris' military success more likely if he swore this vow!)
+-> When the system of roads was being constructed in the Empire, people would often swear vows of creation to Koshin, swearing that they will create a certain amount of road or construct a certain number of waystations. Natsuki might consider this, but when it comes to staffing the Ki Rin Trail waystations, he could end up in the same position as Tetsu, where if Gaheris' military efforts fail then he is obligated to fulfill his vow regardless at great expense and risk. (On the other hand, he is more likely to experience success in his endeavors and even make Gaheris' military success more likely if he swore this vow!)
 
 With all of this in mind, Natsuki visited a disused waystation in the desert - the Eyes Over the Desert Wells.  He decided to swear a vow of creation, that he would return and establish a new waystation on this site.  Here is the wording of the vow that he swore:
 
@@ -4109,11 +4109,11 @@ The Office of the Jade Champion is in charge of the Kuni Witch Hunters, who are 
 
 There are many different types of maho, because maho is not really a single practice - the textbook list of the 7 maho disciplines for Witch hunters and other authorities to watch out for are:
 
-→ Shadowlands taint magic:
+-> Shadowlands taint magic:
 
 This is the basis of most tsukai practices, and witches are able to take on additional Shadowlands taint in order to give themselves extra powers, strengthening themselves or cursing others through the direct application of channeled Shadowlands energy. Some textbooks list this discipline as "Curses", but this is misleading because taking on Shadowlands taint has other applications such as increasing a tsukai's physical prowess, which is why it's more correctly listed as the general Shadowlands taint magic.
 
-→ Name magic:
+-> Name magic:
 
 Tsukai gain power based on the strength of their own name, and based on the strength of names they take. Many spells and rituals involve sacrificing a name.
 
@@ -4121,37 +4121,37 @@ Tsukai are interesed in taking the names of others - they must merely ask you to
 
 Name magic was not originally considered a maho discipline until Hantei Iuchiban became the first bloodspeaker and used name magic to corrupt the officer corps of the 1st Imperial Legion.
 
-→ Wound magic:
+-> Wound magic:
 
 Tsukai practice bloodletting of themselves and of victims in order to fuel their magic. Any human magic driven by wounds is considered maho. (Ratling shamans sometimes practice ritual bloodletting, but this has been classified as non-maho because of the special nature of Ratlings and the fact that they are biologically incapable of carrying the Shadowlands taint.)
 
-→ Summoning:
+-> Summoning:
 
 One of the most famous tsukai abilities, this is most notably used to summon oni from jigoku, but is also used to summon mujina (jigoku trickster spirits), kansen (corrupted kami/spirits), zombies (given a supply of corpses), ghosts, etc.
 
-→ Crafting:
+-> Crafting:
 
 The most famous items crafted by tsukai are obsidian blades, and they also create totems which they use to store power they generate from sacrificial rituals. In theory tsukai can make all manner of interesting things, though this usually involves the sacrifice of some other object which itself already had great name.  For example, the creation of an obsidian sword requires the sacrifice of a sword whose name is itself very famous, as it is the strength of the original sword's name which serves as the source of power for the creation of the obsidian blade.
 
-→ Dark Divinination:
+-> Dark Divinination:
 
 Tsukai can learn secrets from those whose names they know, starting always with what they fear, desire, and regret. Such knowledge is often the basis for subsequent curses.  It is for this reason that Witch Hunters rarely tell anyone their true name.  Instead, they choose a name for themselves at their gempukku but only declare that name at the ceremony, and then assume a false name for their entire lives.
 
 This practice is regarded with extreme suspicion, as many people who are experts in the connections between the living and their ancestors have credibly claimed that it prevents Witch Hunters from being able to be guided by their ancestors, or from having their deeds echo through the realm of the honored dead.  However, this has never been proven, nor has the Imperial Ministry of Rites or the Office of the Jade Champion ever taken any position on this matter.
 
-→ Fleshshaping:
+-> Fleshshaping:
 
 One of the least common areas of maho, this is most famously used by the Kadi sorcerers of Medin al Salaat, who give themselves inhuman features and abilities by changing their own bodies. This is significantly less common in Rokugan, since that's kind of a giveaway which would prevent them from remaining hidden among the peasant population, though particularly malicious tsukai may inflict horrific disfigurement on victims they capture.
 
 While many maho practices involve only 1 of the maho disciplines, the most powerful tsukai perform rituals which combine several disciplines and usually require several practitioners. For example, consider summoning an oni:
 
-→ It requires so much blood to be shed that an entire coven is usually required, since a single tsukai would be killed by the wounds.
+-> It requires so much blood to be shed that an entire coven is usually required, since a single tsukai would be killed by the wounds.
 
-→ It requires so much Shadowlands taint to be channeled that it would overwhelm any one tsukai and drive them mad or worse.
+-> It requires so much Shadowlands taint to be channeled that it would overwhelm any one tsukai and drive them mad or worse.
 
-→ It requires the sacrifice of a name of considerable weight (Recognition) to give the oni the ability to inhabit this realm.
+-> It requires the sacrifice of a name of considerable weight (Recognition) to give the oni the ability to inhabit this realm.
 
-→ It's the most difficult of the summoning arts, requiring a tsukai who has already mastered the lesser forms of summoning.
+-> It's the most difficult of the summoning arts, requiring a tsukai who has already mastered the lesser forms of summoning.
 
 This combines 4 of the 7 maho disciplines, and most maho rituals are similar in that regard.
 
@@ -4399,17 +4399,17 @@ In my previous campaign I tried to take on this challenge.  The Moto were trying
 
 Ide diplomats had previously spread some proper religious doctrine to the Uru, such that the Uru already recognized the divinity of the Hantei. However, the particulars seem to have gotten somewhat lost in translation.  Here are some things which the PCs in the previous campaign learned about the Uru religion:
 
-→ Lord Moon and Lady Sun are known as "those who came before". They gave birth to the "gen", who are the elemental kami of Air, Earth, Fire, and Water.
+-> Lord Moon and Lady Sun are known as "those who came before". They gave birth to the "gen", who are the elemental kami of Air, Earth, Fire, and Water.
 
-→ The elemental kami themselves gave birth to the plants and animals of the world, as well as to "all the races of humans and other creatures".
+-> The elemental kami themselves gave birth to the plants and animals of the world, as well as to "all the races of humans and other creatures".
 
-→ "Those who came before" also gave birth to the Hantei, who is the youngest and most favored of their children. As the golden child of the sun and moon, he has dominion over all of the gen. "Sahir" (the Salaam word for shugenja which is apparently also the Uru word for shugenja) have a lesser control and can only call upon local gen to do their bidding. "Hantei neez Onder ilg Onder ilg Onder" - Karluk says that Hantei is the khan of khan of khans.
+-> "Those who came before" also gave birth to the Hantei, who is the youngest and most favored of their children. As the golden child of the sun and moon, he has dominion over all of the gen. "Sahir" (the Salaam word for shugenja which is apparently also the Uru word for shugenja) have a lesser control and can only call upon local gen to do their bidding. "Hantei neez Onder ilg Onder ilg Onder" - Karluk says that Hantei is the khan of khan of khans.
 
-→ The Uru recognize many of the fortunes, all of them by different names.
+-> The Uru recognize many of the fortunes, all of them by different names.
 
-→ The Uru have no knowledge of the Five Elemental Dragons who are the incarnate divinities of the elements. They do recognize gods of the 4 material elements, but don't understand that they are dragons, and also do not understand how they are different from the fortunes.
+-> The Uru have no knowledge of the Five Elemental Dragons who are the incarnate divinities of the elements. They do recognize gods of the 4 material elements, but don't understand that they are dragons, and also do not understand how they are different from the fortunes.
 
-→ The gen (elemental kami) gave birth to horses long after the human race. The first horses were seen as ugly demons, but a human named Uru was unafraid of them and recognized them as beautiful angels. He befriended the first horses and learned to ride them, which is why the Uru are the first and greatest riders of horses among all the peoples of the world. The word "Uru" literally means "horse rider".
+-> The gen (elemental kami) gave birth to horses long after the human race. The first horses were seen as ugly demons, but a human named Uru was unafraid of them and recognized them as beautiful angels. He befriended the first horses and learned to ride them, which is why the Uru are the first and greatest riders of horses among all the peoples of the world. The word "Uru" literally means "horse rider".
 
 It's challenging to adapt different religious traditions into the same setting, but I tried to do some combination of embracing a certain level of ambiguity, while also offering a framework by which these conflicting religious traditions can be understood.  Obviously their account of how different parts of the world was created is different from what we have established in Rokugan's history of the world, but there shouldn't be any irreconcilable differences in the cosmology of the Uru people as compared to the cosmology of Rokugan.
 
@@ -4429,13 +4429,13 @@ This contributed to the Unicorn losing power a century later, being pushed out b
 
 The Unicorn proceeded to actually "leave" the city en masse and returned in force to their ancestral lands, where they declared war on the Dragon, Lion, Scorpion, and Crab clans.
 
-→ The Dragon almost immediately negotiated a peace treaty which involved Mirumoto Januko giving up almost (but not quite) all of the land they had taken over the centuries in exchange for the Unicorn permanently giving up all claim to the Ryusei domain.
+-> The Dragon almost immediately negotiated a peace treaty which involved Mirumoto Januko giving up almost (but not quite) all of the land they had taken over the centuries in exchange for the Unicorn permanently giving up all claim to the Ryusei domain.
 
-→ The Scorpion suffered an early defeat and gave up all claims to all Unicorn lands immediately, though they proceeded to support the Cran and Lion war efforts, possibly out of spite.
+-> The Scorpion suffered an early defeat and gave up all claims to all Unicorn lands immediately, though they proceeded to support the Cran and Lion war efforts, possibly out of spite.
 
-→ The Crab fought for some time and were driven back but managed to hold the entire Shinomen forest, denying the Unicorn any access to it.
+-> The Crab fought for some time and were driven back but managed to hold the entire Shinomen forest, denying the Unicorn any access to it.
 
-→ The Lion clan was eventually driven back to their original border of the Drowned Merchant River, though they fought the longest and got considerably more concessions from the Unicorn clan as part of the peace treaty.
+-> The Lion clan was eventually driven back to their original border of the Drowned Merchant River, though they fought the longest and got considerably more concessions from the Unicorn clan as part of the peace treaty.
 
 When the Unicorn returned, one of the families they brought back with them was the Moto family, which settled into modern Moto lands to the west of the Twilight Mountains.  Many claimed that the Moto are simply gaijin who swore fealty to the Unicorn clan in Medin al Salaat, and that the Unicorn effectively brought back an army of barbarians with them.
 
@@ -4490,23 +4490,23 @@ Medin al Salaat is the closest gaijin city to the empire of Rokugan. It is the c
 
 The first part of the name "Medin al Salaat" comes from a word with several related words and meanings:
 
-→ The "medina" is the golden gaijin coin which is the official currency of that city-state.
+-> The "medina" is the golden gaijin coin which is the official currency of that city-state.
 
-→ The related word "medin" literally means "value".
+-> The related word "medin" literally means "value".
 
-→ The related word "medinat" means "price", and refers specifically to something which is paid, given up, or sacrificed. While most commonly used in financial terms, one who wanted to threaten another might refer to "the price of crossing me", which would also use the word "medinat".
+-> The related word "medinat" means "price", and refers specifically to something which is paid, given up, or sacrificed. While most commonly used in financial terms, one who wanted to threaten another might refer to "the price of crossing me", which would also use the word "medinat".
 
 Salaam is the name of the gaijin language most commonly spoken in Medin al Salaat. However, the word "salaam" has multiple meanings and related words:
 
-→ Salaam is the name of the language most commonly spoken in the Burning Sands, as well as the general word for "speech" or "speaking". The conjugation is the same in in both uses, though contextually the meaning is different.
+-> Salaam is the name of the language most commonly spoken in the Burning Sands, as well as the general word for "speech" or "speaking". The conjugation is the same in in both uses, though contextually the meaning is different.
 
-→ It's also used as a greeting, especially for strangers. The most common way to greet a stranger in Rokugan is to ask, "Have you eaten?" Whereas in this most common gaijin greeting, saying "Salaam!" which conveys "let us speak together!".
+-> It's also used as a greeting, especially for strangers. The most common way to greet a stranger in Rokugan is to ask, "Have you eaten?" Whereas in this most common gaijin greeting, saying "Salaam!" which conveys "let us speak together!".
 
-→ Because of this usage, it also conveys peacefulness, and is also their word for "peace". Thus, as a greeting this seems to mean, "let us speak peacefully together rather than fight". Historical records of the Hidden Way indicate that this greeting conveys a binding promise not to initiate any fighting - sort of a "we come in peace and will not attack you because we only want to talk".
+-> Because of this usage, it also conveys peacefulness, and is also their word for "peace". Thus, as a greeting this seems to mean, "let us speak peacefully together rather than fight". Historical records of the Hidden Way indicate that this greeting conveys a binding promise not to initiate any fighting - sort of a "we come in peace and will not attack you because we only want to talk".
 
-→ The Salaam language does not have different words for fighting, battles, or war - all three concepts use the same word ("senpet"). Thus, the gaijin mentality (at least for these particular gaijin) is that one is either in a state of being able to speak with someone (salaam) or fighting them (senpet). It's unclear whether this is literally true - in Rokugan there are emissaries and meetings during wartime between enemies, so people are capable of speaking while at war with one another. The uncivilized gaijin may be incapable of this, either because of their barbaric temperament or because they lack the organizational capacity, traditions, and Imperial enforcement of laws/norms that make such meetings possible. Or perhaps this is a metaphor and not literally true.
+-> The Salaam language does not have different words for fighting, battles, or war - all three concepts use the same word ("senpet"). Thus, the gaijin mentality (at least for these particular gaijin) is that one is either in a state of being able to speak with someone (salaam) or fighting them (senpet). It's unclear whether this is literally true - in Rokugan there are emissaries and meetings during wartime between enemies, so people are capable of speaking while at war with one another. The uncivilized gaijin may be incapable of this, either because of their barbaric temperament or because they lack the organizational capacity, traditions, and Imperial enforcement of laws/norms that make such meetings possible. Or perhaps this is a metaphor and not literally true.
 
-→ The word "salaat" is related to the word salaam, and means "prayer".
+-> The word "salaat" is related to the word salaam, and means "prayer".
 
 Putting this all together, the name Medin al Salaat literally means "the value of prayer". Under the rule of the Unicorn clan, this was a sign of their devotion to the fortunes and the benevolence of heaven. Under the current rulers whose Khadi allies practice maho openly, it may have a degrading tone, possibly implying that prayer has no value. This would be in line with other known gaijin sayings, e.g. the infamous and often-repeated motto "Rich men, poor men, wise men, foolish men, good men, evil men - without water, they are all dead men."
 
@@ -4669,15 +4669,15 @@ Moto etiquette:
 
 Moto culture is much less cultured and reserved than Rokugan. In the civilized world, people would be shocked and appauled at an exchange like this:
 
-→ "Well, given that (statement with potentially demeaning implications), perhaps-"
+-> "Well, given that (statement with potentially demeaning implications), perhaps-"
 
-→ "What did you just say to me?! I am <refutation>, and if you intend to insult me, we should get off our horses and settle this like men!"
+-> "What did you just say to me?! I am <refutation>, and if you intend to insult me, we should get off our horses and settle this like men!"
 
-→ "I didn't say anything of the sort - are you an old man whose hearing is failing? I can speak loudly if it helps your frail ears."
+-> "I didn't say anything of the sort - are you an old man whose hearing is failing? I can speak loudly if it helps your frail ears."
 
-→ "Just guard your tongue more carefully, or you may force me to cut it out!"
+-> "Just guard your tongue more carefully, or you may force me to cut it out!"
 
-→ "Pfaw! I'd enjoy seeing you try. But as I was saying..."
+-> "Pfaw! I'd enjoy seeing you try. But as I was saying..."
 
 But that would be totally normal in Moto culture.
 
@@ -4721,17 +4721,17 @@ Approaching a Moto tribe:
 
 The PCs may occasionally want to approach a Moto tribe to speak with their leader. Here's what that usually looks like.
 
-→ PCs approach and indicate they want to speak to the khan to whomever they encounter first. This may just be a few shepherds, or at most one of the large family units which is likely not going to be the khan's family unit.
+-> PCs approach and indicate they want to speak to the khan to whomever they encounter first. This may just be a few shepherds, or at most one of the large family units which is likely not going to be the khan's family unit.
 
-→ A large force rides up containing most of the men of that subfamily. The PCs will typically be outnumbered here even if they've brought multiple platoons as they do on caravan exchanges.
+-> A large force rides up containing most of the men of that subfamily. The PCs will typically be outnumbered here even if they've brought multiple platoons as they do on caravan exchanges.
 
-→ The PCs roll etiquette, with the usual 50% taken off the top. (This is where Friend of the Clans is the most helpful.)
+-> The PCs roll etiquette, with the usual 50% taken off the top. (This is where Friend of the Clans is the most helpful.)
 
-→ The Moto ask what tribute they are due. The larger the group, the greater the tribute, as opposed to being based on Rank. This means that the more backup the PCs bring, the more tribute they are expected to provide.
+-> The Moto ask what tribute they are due. The larger the group, the greater the tribute, as opposed to being based on Rank. This means that the more backup the PCs bring, the more tribute they are expected to provide.
 
-→ The Moto will sometimes ask for something specific, e.g. some nice-looking horses or some clothes/jewelry someone is wearing, etc. They will never ask for weapons, since that is universally regarded as a prelude to violence. If anyone ever does demand a sword, they are telling you they intend to kill you if you don't leave.
+-> The Moto will sometimes ask for something specific, e.g. some nice-looking horses or some clothes/jewelry someone is wearing, etc. They will never ask for weapons, since that is universally regarded as a prelude to violence. If anyone ever does demand a sword, they are telling you they intend to kill you if you don't leave.
 
-→ Depending on how well things go, the PCs will either be taken to the khan, or they will need to prove themselves in some way. Because of the aggressive and insulting style of Moto communcation it would not be uncommon to need to engage in some form of physical competition prior to being taken to the khan, either brawling with them or engaging in a wrestling match or a feat of horsemanship or an archery contest, etc.
+-> Depending on how well things go, the PCs will either be taken to the khan, or they will need to prove themselves in some way. Because of the aggressive and insulting style of Moto communcation it would not be uncommon to need to engage in some form of physical competition prior to being taken to the khan, either brawling with them or engaging in a wrestling match or a feat of horsemanship or an archery contest, etc.
 
 Moto Lands:
 
@@ -4769,31 +4769,31 @@ Moto religious practices are often different from those of the rest of Rokugan, 
 
 The number 4 is unlucky because it sounds like the word "death". Rokugani often avoid it, e.g.
 
-→ People never depart on trips on the 4th day of the month.
+-> People never depart on trips on the 4th day of the month.
 
-→ Buildings in Rokugan are "never" 4 stories, i.e. a basement either will or won't be counted as a floor of the building in order to make the number of floors either 3 or 5.
+-> Buildings in Rokugan are "never" 4 stories, i.e. a basement either will or won't be counted as a floor of the building in order to make the number of floors either 3 or 5.
 
-→ Gifts which would normally be 4 zeni/bu/koku will be supplemented with lower denomination (e.g. 4 koku and 1 bu so the gift is 5 coins) in order to avoid the unlucky number. The exception is a threat - a gift of 4 of something is considered a threat in Rokugani culture just as a gift of a weapon in considered a threat in Moto culture.
+-> Gifts which would normally be 4 zeni/bu/koku will be supplemented with lower denomination (e.g. 4 koku and 1 bu so the gift is 5 coins) in order to avoid the unlucky number. The exception is a threat - a gift of 4 of something is considered a threat in Rokugani culture just as a gift of a weapon in considered a threat in Moto culture.
 
 It is therefore fitting that there are 4 Gods of Death - given the significance of the number, how could there be any other number? However, of the 4 Gods of Death, only 2 are recognized in the rest of Rokugan, and the others appear unique to Moto teachings.
 
 Moto Gaheris, the daimyo of the Moto family, who is referred to by the Moto as "the khan of khans", carries 4 swords, each dedicated to a different god of death:
-→ Bloodstorm, which Gaheris carries into battle, is dedicated to Emma-O
-→ Lamentation, used for defense when attacked/ambushed by another, is dedicated to Enma
-→ Lightning, used in single combat, is dedicated to King Yan
-→ Retirement, used in executions, is dedicated to Wei Tin
+-> Bloodstorm, which Gaheris carries into battle, is dedicated to Emma-O
+-> Lamentation, used for defense when attacked/ambushed by another, is dedicated to Enma
+-> Lightning, used in single combat, is dedicated to King Yan
+-> Retirement, used in executions, is dedicated to Wei Tin
 
 Emma-O is the fortune of death, recogized throughout the Empire since the dawn of civilization. However, there is no Grand Abbot of Emma-O, and temples to Emma-O are all in remote locations to avoid attracting the her attention in populated areas. The order of Emma-O is known as the Order of the Peaceful Repose, and specializes in pacifying upset ghosts and helping them return to Jigoku. There is at least one monastery to Emma-O in every clan, as the services of the Order of the Peaceful Repose will inevitably be required in every clan at some point.
 
 A few well-established truths which are important to remember about the fortunes:
 
-→ No fortune is evil, though many of them are terrifying. Death is a part of the natural order, and Emma-O is therefore an important part of the interconnectedness of all things.
+-> No fortune is evil, though many of them are terrifying. Death is a part of the natural order, and Emma-O is therefore an important part of the interconnectedness of all things.
 
-→ No two fortunes are ever in opposition to one another. This can be counterintuitive, since e.g. there is a fortune of mercy (Fukurokujin) and a fortune of personal vengeance (Hofukushu). It is therefore an important teaching that if you ever find yourself understanding two fortunes in opposition to each other, then you do not understand either of them. Therefore, while Emma-O is the fortune of death, she cannot be said to exist in opposition to Jurojin, the fortune of longevity.
+-> No two fortunes are ever in opposition to one another. This can be counterintuitive, since e.g. there is a fortune of mercy (Fukurokujin) and a fortune of personal vengeance (Hofukushu). It is therefore an important teaching that if you ever find yourself understanding two fortunes in opposition to each other, then you do not understand either of them. Therefore, while Emma-O is the fortune of death, she cannot be said to exist in opposition to Jurojin, the fortune of longevity.
 
-→ Emma-O therefore doesn't rejoice in any specific death more than any other. An uneducated peasant might wrongly guess that Emma-O would delight in someone who dies young and prefer that people lead short lives to long lives. This is clearly not the case - if it was then there could be no fortune of longevity! (An interesting corollary is that Jurojin, the fortune of longevity, does not always prefer long lives to short ones - this is counterintuitive but still a well-established truth.)
+-> Emma-O therefore doesn't rejoice in any specific death more than any other. An uneducated peasant might wrongly guess that Emma-O would delight in someone who dies young and prefer that people lead short lives to long lives. This is clearly not the case - if it was then there could be no fortune of longevity! (An interesting corollary is that Jurojin, the fortune of longevity, does not always prefer long lives to short ones - this is counterintuitive but still a well-established truth.)
 
-→ Emma-O is the only one of the Gods of Death who is a fortune, and fortunes are part of the fabric of reality. Emma-O is not merely a god who happens to favor the concept of death, she literally is death. (To be more precise, she exists as the cycles and connection created by death which further shape and create death in turn.) It's unclear whether this makes her the greatest of the Gods of Death - the Moto don't seem to have seriously considered this question.
+-> Emma-O is the only one of the Gods of Death who is a fortune, and fortunes are part of the fabric of reality. Emma-O is not merely a god who happens to favor the concept of death, she literally is death. (To be more precise, she exists as the cycles and connection created by death which further shape and create death in turn.) It's unclear whether this makes her the greatest of the Gods of Death - the Moto don't seem to have seriously considered this question.
 
 Interestingly, Emma-O is the only one of the Gods of Death who is a fortune, and fortunes are part of the fabric of reality. Emma-O is not merely a god who happens to favor the concept of death, she literally is death. (To be more precise, she exists as the cycles and connection created by death which further shape and create death in turn.) It's unclear whether this makes her the greatest of the Gods of Death - the Moto don't seem to have seriously considered this question.
 
@@ -4807,15 +4807,15 @@ King Yan will send some souls who are worthy (especially those already close to 
 
 King Yan rules over all oni, and tsukai (witches) often pray to him. There is some debate among scholars over whether or not oni are themselves inherently evil, though it is heretical to say that oni are "not malicious". This debate has relevance when considering the worship of King Yan:
 
-→ Oni are thought to be the mechanism by which souls are purified prior to death, as they hunger for and eat away at connections between earthly things. An oni in Jigoku could therefore be seen as performing a holy work in accordance with the Tao.
+-> Oni are thought to be the mechanism by which souls are purified prior to death, as they hunger for and eat away at connections between earthly things. An oni in Jigoku could therefore be seen as performing a holy work in accordance with the Tao.
 
-→ On the other hand, an evil being can still be directed to act according to its nature while unintentionally serving a good and noble purpose. It's unclear whether oni understand themselves to be eating away at the souls of the dead for the benefit of those souls - if not, then they are surely evil and any good they do is incidental to their intentions.
+-> On the other hand, an evil being can still be directed to act according to its nature while unintentionally serving a good and noble purpose. It's unclear whether oni understand themselves to be eating away at the souls of the dead for the benefit of those souls - if not, then they are surely evil and any good they do is incidental to their intentions.
 
-→ Of course, many oni are themselves unintelligent - some possess no more intellect than insects, others are as smart as dogs or horses, and only the Oni Lords have a human (or perhaps super-human) level of intelligence. The question of whether oni are inherently good or evil may therefore only be relevant to Oni Lords.
+-> Of course, many oni are themselves unintelligent - some possess no more intellect than insects, others are as smart as dogs or horses, and only the Oni Lords have a human (or perhaps super-human) level of intelligence. The question of whether oni are inherently good or evil may therefore only be relevant to Oni Lords.
 
-→ Just as animals come in different types and have enormous variance within a single species, oni too come in many varieties. It's therefore possible that some oni are evil and others are not, or that some types of oni are inherently evil and others vary between individual oni.
+-> Just as animals come in different types and have enormous variance within a single species, oni too come in many varieties. It's therefore possible that some oni are evil and others are not, or that some types of oni are inherently evil and others vary between individual oni.
 
-→ Oni who are summoned into the mortal realm by bloodspeakers and other types of tsukai usually try to devour everything they can, though smarter ones may scheme to more effectively feed as much as they can while in this realm. This is unquestionably bad and wrong, as the essence of Jigoku (the Shadowlands taint) they bring with them corrupts and degrades all it comes into contact with, in contravention of the natural order.
+-> Oni who are summoned into the mortal realm by bloodspeakers and other types of tsukai usually try to devour everything they can, though smarter ones may scheme to more effectively feed as much as they can while in this realm. This is unquestionably bad and wrong, as the essence of Jigoku (the Shadowlands taint) they bring with them corrupts and degrades all it comes into contact with, in contravention of the natural order.
 
 The Vindicator clan, which deals with the occasional oni which makes it way into Moto lands along the western side of the Twilight Mountains, teaches that oni in the mortal realm are not evil, and should instead be regarded like rabid animals which need to be put down. Killing such an oni allows it to "return to where it belongs" and is therefore a merciful act, not only protecting its mortal victims but ultimately doing what is best for the oni itself to where it will thrive where the Tao prospers for it. The Vindicator's hatred for all things Shadowlands is well-known, as they are the southernmost Moto tribe who has to deal with all of the Shadowlands denizens which make their way into Moto lands. Thus, their position is treated with deference even by those who disagree with them and find it foolish.
 
@@ -4839,15 +4839,15 @@ The final God of Death is Wei Tin.
 
 Wei Tin is called "the lord of ghosts" and has dominion over all spirits who have returned to the mortal realm prior to being reincarnated. A few notes/explanations/reminders on ghosts in general:
 
-→ Ghosts can come from either Jigoku or Yomi, though ghosts of both types may be angry and vengeful. For example, ghosts from Yomi may haunt their own descendants if one has somehow disgraced their family, or alternatively may help an honored descendent by haunting one who has unjustly opposed them. Matsu no Moyu Kazushi is an example of someone from the 1st legion who is widely believed to be haunted by the vengeful ancestors of his enemies (though he denies this).
+-> Ghosts can come from either Jigoku or Yomi, though ghosts of both types may be angry and vengeful. For example, ghosts from Yomi may haunt their own descendants if one has somehow disgraced their family, or alternatively may help an honored descendent by haunting one who has unjustly opposed them. Matsu no Moyu Kazushi is an example of someone from the 1st legion who is widely believed to be haunted by the vengeful ancestors of his enemies (though he denies this).
 
-→ Many hauntings are not vengeful, and may be the result of damned souls from Jigoku reaching out for help and counsel. Doji no Tsume Toyohiro is an example of a member of the 1st legion who is haunted by the ghosts of his fallen comrades, with whom he frequently speaks and tries to comfort.
+-> Many hauntings are not vengeful, and may be the result of damned souls from Jigoku reaching out for help and counsel. Doji no Tsume Toyohiro is an example of a member of the 1st legion who is haunted by the ghosts of his fallen comrades, with whom he frequently speaks and tries to comfort.
 
-→ All ghosts are hungry. This is why bowls of food are left out for ghosts with chopsticks pointed in the air, especially during the Bon festival or at other times when ghosts are thought to be present. Whether a ghost is friendly or upset (or both!) feeding it will help prevent the ghost from being distracted by its hunger.
+-> All ghosts are hungry. This is why bowls of food are left out for ghosts with chopsticks pointed in the air, especially during the Bon festival or at other times when ghosts are thought to be present. Whether a ghost is friendly or upset (or both!) feeding it will help prevent the ghost from being distracted by its hunger.
 
-→ Many Jigoku ghosts are able to manifest in this realm because they have lingered after visiting on Obon, while others have been able to temporarily escape hell somehow. Honored ancestors from Yomi are able to visit whenever they wish and need no special dispensation to leave the underworld to visit the moral realm.
+-> Many Jigoku ghosts are able to manifest in this realm because they have lingered after visiting on Obon, while others have been able to temporarily escape hell somehow. Honored ancestors from Yomi are able to visit whenever they wish and need no special dispensation to leave the underworld to visit the moral realm.
 
-→ Wandering ghosts can be sent back to rest through other means as well - the Moto claim to have originated the practice of "death riding", which is a well-known Unicorn practice of sending a rider into the wilderness to drink and feast with the dead. Shinjo Inoru is the death rider for the Unicorn companies of the 1st legion.
+-> Wandering ghosts can be sent back to rest through other means as well - the Moto claim to have originated the practice of "death riding", which is a well-known Unicorn practice of sending a rider into the wilderness to drink and feast with the dead. Shinjo Inoru is the death rider for the Unicorn companies of the 1st legion.
 
 Wei Tin is the lord of all ghosts, whether from Jigoku or Yomi. He is said to be the one who grants damned souls dispensation to leave Jigoku for a time to haunt the mortal realm. Specificlaly he is said to "deal with" these souls, which may "bargain with" Wei Tin in exchange for his help.
 
@@ -4867,23 +4867,23 @@ We've already discussed the 15 ranks that samurai occupy, with the Emperor being
 
 We've also established that anyone above the level of Governor from the ruling House of a Family automatically has 1 higher rank than what's listed above. Anyone from the ruling Family of a Clan automatically has 2 higher rank instead. For example:
 
-→ Ikoma Yuan is the Deputy Minister of War for Ikoma lands, but he is of the 10th rank, since the Ikoma Ministry of War means oversees not only the Ikoma house itself, but all of the domains of the Ikoma vassal families.
+-> Ikoma Yuan is the Deputy Minister of War for Ikoma lands, but he is of the 10th rank, since the Ikoma Ministry of War means oversees not only the Ikoma house itself, but all of the domains of the Ikoma vassal families.
 
-→ Shinjo Tashima, who appointed Kitsuki Tetsu as a Clan magistrate overseeing Moto lands (subordinate to Shinjo Shunichi "the sand pirate"), is the Minister of Justice for the Shinjo house, and is therefore also the Minister of Justice for the entire Unicorn clan, so he is of the 12th rank.
+-> Shinjo Tashima, who appointed Kitsuki Tetsu as a Clan magistrate overseeing Moto lands (subordinate to Shinjo Shunichi "the sand pirate"), is the Minister of Justice for the Shinjo house, and is therefore also the Minister of Justice for the entire Unicorn clan, so he is of the 12th rank.
 
 Moto Gaheris' rank:
 
 Moto Gaheris is the daimyo of the Moto family, so the rank of all of his retainers flows downhill from his own rank. But what rank is he?
 
-→ If he were the daimyo of any other Family in the Empire, he would be automatically considered to be of the 13th rank. Most people seem to assume that is his rank, though this has never been officially determined for any Moto daimyo.
+-> If he were the daimyo of any other Family in the Empire, he would be automatically considered to be of the 13th rank. Most people seem to assume that is his rank, though this has never been officially determined for any Moto daimyo.
 
-→ However, the Moto are the only Family in the Empire who don't have a seat on the Imperial chancellary. (Even vassal houses such as the Ryusei domain have a seat on the Imperial chancellary, though the Ryusei chancellor has fewer rights and privileges than Family and Clan daimyo.) Thus, many would argue that Gaheris should be considered equivalent to a House daimyo, and thus be considered to be of the 12th rank.
+-> However, the Moto are the only Family in the Empire who don't have a seat on the Imperial chancellary. (Even vassal houses such as the Ryusei domain have a seat on the Imperial chancellary, though the Ryusei chancellor has fewer rights and privileges than Family and Clan daimyo.) Thus, many would argue that Gaheris should be considered equivalent to a House daimyo, and thus be considered to be of the 12th rank.
 
-→ Minor clan daimyo are either of the 12th or 13th rank, depending on the specific minor clan. Specifically, the two minor clans whose daimyo are of the 13th rank are the Mantis and the Dragonfly. These are also the only two minor clans who themselves have more than one house, i.e. who have other vassal daimyo subordinate to them.
+-> Minor clan daimyo are either of the 12th or 13th rank, depending on the specific minor clan. Specifically, the two minor clans whose daimyo are of the 13th rank are the Mantis and the Dragonfly. These are also the only two minor clans who themselves have more than one house, i.e. who have other vassal daimyo subordinate to them.
 
-→ The Moto family turns out to be extremely large... sort of. Moto lands contain fewer humans than an average domain - the Ryusei was a slightly-smaller-than-average domain before they conquered several Unicorn provinces, but still had probably twice the total human population of Moto lands. On the other hand, such a high percentage of Moto subjects are samurai warriors that Gaheris was able to field a samurai cavalry force 3-5 times the size of the combined samurai/peasant army of the Ryusei. Some might argue that this raises Gaheris' weight and therefore his position in the 13th rank should therefore not be in question.
+-> The Moto family turns out to be extremely large... sort of. Moto lands contain fewer humans than an average domain - the Ryusei was a slightly-smaller-than-average domain before they conquered several Unicorn provinces, but still had probably twice the total human population of Moto lands. On the other hand, such a high percentage of Moto subjects are samurai warriors that Gaheris was able to field a samurai cavalry force 3-5 times the size of the combined samurai/peasant army of the Ryusei. Some might argue that this raises Gaheris' weight and therefore his position in the 13th rank should therefore not be in question.
 
-→ With that being said, Gaheris' kuraldai is officially regarded as the Moto chancellary, the Moto "clans" are officially considered the various registered Moto lineages, and the khans of those clans are officially considered chancellors. Thus, whatever the size of the Moto, they have been legally classified as a single House, and there is standing precedent that Gaheris has no other daimyo subordinate to him. With that being said, there are a number of Family daimyo who have no vassal houses and yet are still considered to be of the 13th rank. Examples include the Kuni, the Asahina, the Yogo, and even the Kitsuki - Tetsu's family!
+-> With that being said, Gaheris' kuraldai is officially regarded as the Moto chancellary, the Moto "clans" are officially considered the various registered Moto lineages, and the khans of those clans are officially considered chancellors. Thus, whatever the size of the Moto, they have been legally classified as a single House, and there is standing precedent that Gaheris has no other daimyo subordinate to him. With that being said, there are a number of Family daimyo who have no vassal houses and yet are still considered to be of the 13th rank. Examples include the Kuni, the Asahina, the Yogo, and even the Kitsuki - Tetsu's family!
 
 Kitsuki Tetsu will be under enormous pressure not to rule that Gaheris is only of the 12th rank, and no one in the Moto expects him to do so, but it's within his legal power to make that ruling if he so chooses!
 
@@ -4893,19 +4893,19 @@ The question of the rank of Moto Chenghiz came up, and it turns out there's a pr
 
 Here's the least favorable interpretation the rank of Moto Chenghiz:
 
-→ Treat Moto Gaheris as being only of the 12th rank, since someone not recognized by the Imperial chancellary cannot possibly outrank anyone who is so recognized.
+-> Treat Moto Gaheris as being only of the 12th rank, since someone not recognized by the Imperial chancellary cannot possibly outrank anyone who is so recognized.
 
-→ Gaheris has not appointed Ministers to any of the recognized six Ministries. He has official positions for people like Moto Jochi as "Chief Tribute collector", but since this doesn't correspond to any Ministry, these positions cannot be considered any higher than that of a Deputy Minister. He especially cannot be considered anything like a Minister of Revenue, since he is merely inventorying gifts given to Gaheris (rather than taking taxes and then passing the required amount up to Gaheris), making him a glorified clerk. This interpretation places Jochi in the 9th rank.
+-> Gaheris has not appointed Ministers to any of the recognized six Ministries. He has official positions for people like Moto Jochi as "Chief Tribute collector", but since this doesn't correspond to any Ministry, these positions cannot be considered any higher than that of a Deputy Minister. He especially cannot be considered anything like a Minister of Revenue, since he is merely inventorying gifts given to Gaheris (rather than taking taxes and then passing the required amount up to Gaheris), making him a glorified clerk. This interpretation places Jochi in the 9th rank.
 
-→ Chenghiz himself has no official title, meaning that he has no government post beyond assisting his father in the duties of his father's office. That makes him automatically 3 ranks lower than his father, putting in squarely within the 6th rank.
+-> Chenghiz himself has no official title, meaning that he has no government post beyond assisting his father in the duties of his father's office. That makes him automatically 3 ranks lower than his father, putting in squarely within the 6th rank.
 
 Here is the most favorable interpretation of the rank of Moto Chenghiz:
 
-→ Treat Gaheris as being of the 13th rank, because his standing can hardly be in question given his accomplishments and recognized position as daimyo of the Moto family.
+-> Treat Gaheris as being of the 13th rank, because his standing can hardly be in question given his accomplishments and recognized position as daimyo of the Moto family.
 
-→ While Gaheris may not have bothered to officially register Jochi as a Minister, he clearly regards Jochi in that way. Even if the specifics differ from any other domain and the entire structure is completely different, Jochi manages the revenue for Gaheris' government, so he could be ruled to be considered the Moto Minister of Revenue. Alternatively Jochi could be considered the Minister of Tribute - there's no rule saying that someone must be a member of a recognized ministry to be considered a Minister, though most people would probably say that if it's "not good enough for the Emperor to recognize in his government in the capital then it shouldn't be good enough to be recognized here". (Of course, "most people" don't think very highly of the Moto.) Regardless of the legal framework, this would place Jochi within the 11th rank,.
+-> While Gaheris may not have bothered to officially register Jochi as a Minister, he clearly regards Jochi in that way. Even if the specifics differ from any other domain and the entire structure is completely different, Jochi manages the revenue for Gaheris' government, so he could be ruled to be considered the Moto Minister of Revenue. Alternatively Jochi could be considered the Minister of Tribute - there's no rule saying that someone must be a member of a recognized ministry to be considered a Minister, though most people would probably say that if it's "not good enough for the Emperor to recognize in his government in the capital then it shouldn't be good enough to be recognized here". (Of course, "most people" don't think very highly of the Moto.) Regardless of the legal framework, this would place Jochi within the 11th rank,.
 
-→ When Jochi assigned his eldest son Chenghiz to the Western Star legion, he identified Chenghiz as being "the most knowledgeable in the laws of tribute of anyone in Moto lands excepting only myself". His son is also in charge of many other counters/recorders who inventory tribute being taken and make reports. If Jochi was willing to assert officially that his eldest son Chenghiz outranks all other tribute collectors who work under Jochi, then Chenghiz could be considered as high as a Deputy Minister, making him of the 10th rank.
+-> When Jochi assigned his eldest son Chenghiz to the Western Star legion, he identified Chenghiz as being "the most knowledgeable in the laws of tribute of anyone in Moto lands excepting only myself". His son is also in charge of many other counters/recorders who inventory tribute being taken and make reports. If Jochi was willing to assert officially that his eldest son Chenghiz outranks all other tribute collectors who work under Jochi, then Chenghiz could be considered as high as a Deputy Minister, making him of the 10th rank.
 
 So basically, Jochi can be considered anywhere between the 6th and 10th ranks, depending on how you rule on various sub-questions.
 
@@ -5039,13 +5039,13 @@ Relatedly, sometimes a drought occurs shortly after a case comes before the Kura
 
 Miscellaneous specific cases
 
-→ Some members of the Suicide Rider clan entered the territory of the Slashing Goat clan. After getting into an argument and being insulted, they hurled insults in return and rode awau. They were followed by a Slashing Goat rider to watch them. They turned around and captured the rider, tying him to a tree and then riding back into Suicide Rider lands. The man they tied up died of thirst before he was found. The Suicide Riders claimed they had no reason to believe this would happen, since he was still in Slashing Goat territory. The Kuraldai ordered them to be buried up to their necks until they themselves died of thirst.
+-> Some members of the Suicide Rider clan entered the territory of the Slashing Goat clan. After getting into an argument and being insulted, they hurled insults in return and rode awau. They were followed by a Slashing Goat rider to watch them. They turned around and captured the rider, tying him to a tree and then riding back into Suicide Rider lands. The man they tied up died of thirst before he was found. The Suicide Riders claimed they had no reason to believe this would happen, since he was still in Slashing Goat territory. The Kuraldai ordered them to be buried up to their necks until they themselves died of thirst.
 
-→ Three children from the Desert Wind clan dumped horse feces down a well in the territory of the Reddened Cloak clan as a prank. This led to many of the people getting sick and was deemed poisioning, which always results in death. However, because those involved were children, their fathers were put to death instead for failing to adequately instruct their sons.
+-> Three children from the Desert Wind clan dumped horse feces down a well in the territory of the Reddened Cloak clan as a prank. This led to many of the people getting sick and was deemed poisioning, which always results in death. However, because those involved were children, their fathers were put to death instead for failing to adequately instruct their sons.
 
-→ While Moto Gaheris and his armies were engaged in raids in Lion lands during the war, a number of young men from the Moto tribe got into an argument with some members of the Black Horse clan over grazing and took 20 of their sheep. This resulted in an altercation in which a member of the Black Horse clan was killed. The young men were publicly whipped and forced to pay 100 sheep in repayment.
+-> While Moto Gaheris and his armies were engaged in raids in Lion lands during the war, a number of young men from the Moto tribe got into an argument with some members of the Black Horse clan over grazing and took 20 of their sheep. This resulted in an altercation in which a member of the Black Horse clan was killed. The young men were publicly whipped and forced to pay 100 sheep in repayment.
 
-→ Some farmers (which do actually exist in Moto lands, there just aren't nearly as many of them as anywhere else) had been suffering a rash of chicken thefts. Some visiting members from the Moto clan were confronted by some local Vindicator clansmen, who demanded to search them and take an accounting of their wherabouts. An altercation resulted, in which two Vindicator clansmen and one Moto clansmen were killed. The Kuraldai ruled that no further action was needed - the Vindicator were presumably within their rights to request a search, and the Moto were presumably within their rights to refuse, and the fight was therefore mutually agreed upon. Or something. Rulings are not always explained, and it's not clear what the underlying logic was.
+-> Some farmers (which do actually exist in Moto lands, there just aren't nearly as many of them as anywhere else) had been suffering a rash of chicken thefts. Some visiting members from the Moto clan were confronted by some local Vindicator clansmen, who demanded to search them and take an accounting of their wherabouts. An altercation resulted, in which two Vindicator clansmen and one Moto clansmen were killed. The Kuraldai ruled that no further action was needed - the Vindicator were presumably within their rights to request a search, and the Moto were presumably within their rights to refuse, and the fight was therefore mutually agreed upon. Or something. Rulings are not always explained, and it's not clear what the underlying logic was.
 
 Rules of warfare
 
@@ -5055,7 +5055,7 @@ Jochi explained the rules the PCs would be bound to.
 
 Forbidden death and plunder
 
-→ Women and children are not to be harmed.
+-> Women and children are not to be harmed.
 
 Tetsu asked a few questions about how to stay in compliance with this rule, such as what counts as a child and what to do when attacked. Jochi seemed uncomfortable with this questioning - the Yassa is kept secret to avoid people finding an exploiting loopholes, so he kept his answers vague.
 
@@ -5063,19 +5063,19 @@ He did say that "taller than the lynchpin of a wagon" was usually what separated
 
 The "do your best" didn't seem to be an actual legal standard - it's not clear whether the Yassa necessarily takes intent into account per se. Rather, this seems in keeping with their "act righteously and you will have nothing to fear" sensibility.
 
-→ Anything outside the home may be taken, including food, crops, and animals. You may allow your horses to graze and otherwise destroy farmland during wartime. (The implication seems to be that this is not permitted during peacetime.)
+-> Anything outside the home may be taken, including food, crops, and animals. You may allow your horses to graze and otherwise destroy farmland during wartime. (The implication seems to be that this is not permitted during peacetime.)
 
-→ Farmhouses may not be entered. Their doors may be kicked in, and their window shutters bashed open so as to view the interior to search for enemy combatants hiding within.
+-> Farmhouses may not be entered. Their doors may be kicked in, and their window shutters bashed open so as to view the interior to search for enemy combatants hiding within.
 
-→ All other types of dwellings may be pillaged, but not for food or tools. Any food or animals outside the home may be taken, but food, animals, and tools inside any type of home must be left for its inhabitants and their families. All other valuables may be taken.
+-> All other types of dwellings may be pillaged, but not for food or tools. Any food or animals outside the home may be taken, but food, animals, and tools inside any type of home must be left for its inhabitants and their families. All other valuables may be taken.
 
 Natsuki asked around, and it seems that the Moto did not keep to these standards for farmhouses and other dwellings during their pillaging of Lion lands. It's unclear whether this is because the rules of warfare under the Yassa did not apply to the Lion or whether they were simply "honored more in breach than observance". If this did represent a violation of the Yassa, it's unclear whether Gaheris knew and tolerated it or if he was ignorant of the conduct of the other Moto.
 
-→ Horses may never be killed, except in battle. Sheep and cattle may be slaughtered and left behind if they cannot be taken for whatever reason.
+-> Horses may never be killed, except in battle. Sheep and cattle may be slaughtered and left behind if they cannot be taken for whatever reason.
 
-→ Sources of water may not be defiled, and the destruction of wells is forbidden.
+-> Sources of water may not be defiled, and the destruction of wells is forbidden.
 
-→ Any dwelling other than a farmhouse may be destroyed through fire or other means, but a farmhouse may not. Other buildings which may exist on a farm such as a barn or stables may also be destroyed.
+-> Any dwelling other than a farmhouse may be destroyed through fire or other means, but a farmhouse may not. Other buildings which may exist on a farm such as a barn or stables may also be destroyed.
 
 Terms of surrender
 
@@ -5085,11 +5085,11 @@ Gaheris doesn't have many who speak Uru. Moto Munkbat is the head of Gaheris' am
 
 Jochi explains that under the terms of the Yassa:
 
-→ Those who surrender prior to a battle shall be stripped of their weapons, armor, and horses but allowed to live.
+-> Those who surrender prior to a battle shall be stripped of their weapons, armor, and horses but allowed to live.
 
-→ Those who surrender after losing a battle may have their surrender refused and be slaughtered to the last. If their surrender is accepted, then additional tribute may be demanded, and some portion of captured prisoners may be put to death as punishment for fighting. At least some who surrender must be spared - it's not clear if there's a standard for this.
+-> Those who surrender after losing a battle may have their surrender refused and be slaughtered to the last. If their surrender is accepted, then additional tribute may be demanded, and some portion of captured prisoners may be put to death as punishment for fighting. At least some who surrender must be spared - it's not clear if there's a standard for this.
 
-→ Any who have accepted surrender and have not been selected to be put to death shall be required to swear two oaths to Moto Gaheris.
+-> Any who have accepted surrender and have not been selected to be put to death shall be required to swear two oaths to Moto Gaheris.
 
 1) They swear by the 4 Gods of Death to renounce Timur Beg and to recognize Moto Gaheris as the khan of khans.
 
@@ -5105,17 +5105,17 @@ Pillage rights
 
 Jochi is Gaheris' tribute administator, so this is where his knowledge is strongest. Jochi explicitly said he is not among those permitted to read the written Yassa, and therefore his knowledge is only what has been explained to him by people from that group.
 
-→ Pillage rights are assigned equally between the clans; the Western Star included as a clan for the purpose of tribute and pillage.
+-> Pillage rights are assigned equally between the clans; the Western Star included as a clan for the purpose of tribute and pillage.
 
 This was declared by Gaheris rather than being some pre-existing term of the Yassa. The implication seemed to be that this was exceptional due to the PCs' exceptional and production of troops to the effort.
 
-→ All taken items and livestock are to be inventoried and shared, with the khan of khans taking "half a tithe, to support the administration of the war and for gifts to His Imperial Majesty the Emperor" (a tithe is 10%, so half a tithe is 5%).
+-> All taken items and livestock are to be inventoried and shared, with the khan of khans taking "half a tithe, to support the administration of the war and for gifts to His Imperial Majesty the Emperor" (a tithe is 10%, so half a tithe is 5%).
 
 This was said to be "under the new Yassa" and is apparently a change made by Gaheris personally. Gaheris' pre-battle speach spoke of his generosity and having proven himself in the sharing of pillage from the invasion of the Lion. The rank and file Moto seem to end up with more of a share of pillaged wealth under Gaheris than under previous khans.
 
 Further conversations with Moto Chenghiz reveals that prior to Gaheris pillage rights were assigned, e.g. over certain areas, and a group assigned pillage rights to something just kept whatever they happened to find.
 
-→ After being inventoried, pillage is distributed equally between the khans, to distribute to their own people "under the terms of the Yassa".
+-> After being inventoried, pillage is distributed equally between the khans, to distribute to their own people "under the terms of the Yassa".
 
 There seems to be some implied standards requiring khans to reward their men amply, though it's unclear what this is or whether it even applies to the PCs, who have made separate arrangements and are e.g. already paying the Dragon.
 
@@ -5129,9 +5129,9 @@ Gaheris' father was Moto Soro. The khan of the Moto clan is always the daimyo of
 
 Moto Soro seems to have been a peer on the kuraldai rather than its leader, as Gaheris is. Thus, disputes seem to have involved the Moto clan being peers rather than rulers. Interestingly, the Moto and Vindicator clans give conflicting reports of how this has changed:
 
-→ The Moto complain that "in order to maintain harmony between the clans", Gaheris has allowed the kuraldai to impose harsher punishments on members of the Moto clan than what other clans suffer whenever a dispute arises between Moto clan members and other clans.
+-> The Moto complain that "in order to maintain harmony between the clans", Gaheris has allowed the kuraldai to impose harsher punishments on members of the Moto clan than what other clans suffer whenever a dispute arises between Moto clan members and other clans.
 
-→ The Vindicator complain that the Moto are widely known to receive more lenient sentences or even outright allowed to get away with malfeasance now that Gaheris has become the khan of khans.
+-> The Vindicator complain that the Moto are widely known to receive more lenient sentences or even outright allowed to get away with malfeasance now that Gaheris has become the khan of khans.
 
 Everyone knows that Gaheris has brought back the practice of "measuring against the lynchpin" and makes frequent use of this. However, Tetsu's investigation raises the possibility that Gaheris has only done this a single time, and merely threatened it as a possible punishment in other cases. "Everyone knows" that this has been a "frequent" punishment handed down by his kuraldai, but no one knows of any specific cases in which the kuraldai has handed out this punishment.
 
@@ -5139,11 +5139,11 @@ The one time Gaheris is known to have imposed this punishment is against his unc
 
 The specific nature of the dispute is unclear, though Gaheris appears to have canceled a number of projects in Karakoru which his father Soro had begun:
 
-→ Soro renovated the Great Hall which Gaheris currently uses as his seat of government. There were evidently plans to increase the size of the hall to allow feasts with riders from many other clans, but this never went forward.
+-> Soro renovated the Great Hall which Gaheris currently uses as his seat of government. There were evidently plans to increase the size of the hall to allow feasts with riders from many other clans, but this never went forward.
 
-→ Soro planned to construct a palace for himself. He had evidently grown rich from shrewd business dealings (the particulars are unclear), and he planned to use the proceeds to make a great building intended to impress visitors and serve as his legacy. Gaheris canceled all plans for this palace, and is known to have said something like, "I was born in a yurt, and if I do not fall in combat then I shall die in a yurt."
+-> Soro planned to construct a palace for himself. He had evidently grown rich from shrewd business dealings (the particulars are unclear), and he planned to use the proceeds to make a great building intended to impress visitors and serve as his legacy. Gaheris canceled all plans for this palace, and is known to have said something like, "I was born in a yurt, and if I do not fall in combat then I shall die in a yurt."
 
-→ Gaheris continued his father's work renovating the Temple of the 7 Fortunes for a time. However, he apparently scaled back the scope of work or possibly canceled it outright after some amount of work was completed. He has evidently said something like, "I used to consider Moto Darqan a wise and prudent man, but from his speeches and sermons, it has become evident to me that he does not possess complete understanding and that his comprehension is but small." It's unclear what precisely Moto Darqan has said or done to shrink Gaheris' opinion of him.
+-> Gaheris continued his father's work renovating the Temple of the 7 Fortunes for a time. However, he apparently scaled back the scope of work or possibly canceled it outright after some amount of work was completed. He has evidently said something like, "I used to consider Moto Darqan a wise and prudent man, but from his speeches and sermons, it has become evident to me that he does not possess complete understanding and that his comprehension is but small." It's unclear what precisely Moto Darqan has said or done to shrink Gaheris' opinion of him.
 
 Some combination of these things, perhaps along with some unknown family drama, seems to have led to Moto Davaajav to leave and take up residence in Ulan Bator ("Red Hero"). It's unclear what precise insult he offered to Gaheris, though he is known to have publicly criticized his nephew. Gaheris evidently took a small force of his closest friends and retainers to Ulan Bator and killed his uncle. He ordered the inhabitants of the settlement measured against the lynchpin, and then ordered the settlement razed to the ground, such that "a man can ride through the town on horseback at full speed in the darkness of night without stumbling". The survivors were resettled in Karakoru.
 
@@ -5674,13 +5674,13 @@ Spirit encounters are divided into "scenes". Much like scenes from a dream, the 
 
 Every character takes a single action each round. In the first round of a scene, each PC chooses a single physical ring: Water, Fire, Earth, or Air. The round progresses through those rings in that order. Spirit encounters are turbulent, and PCs take ongoing damage as the encounter continues, though this damage depends on which Ring is chosen.
 
-→ Water: these actions always include the "evaluate options" action, which helps the party discern what actions they have available to them. It's advisable for someone in the party to take this action early in an encounter. Other Water actions let the PCs influence the scene directly. A PCs who chooses the Path of Water automatically takes 5 damage per round, in addition to any additional wounds taken by the action they choose.
+-> Water: these actions always include the "evaluate options" action, which helps the party discern what actions they have available to them. It's advisable for someone in the party to take this action early in an encounter. Other Water actions let the PCs influence the scene directly. A PCs who chooses the Path of Water automatically takes 5 damage per round, in addition to any additional wounds taken by the action they choose.
 
-→ Fire: these actions are the most directly effective, but also the most dangerous. They always include things which directly accomplish the goals of the scene, but you take the most damage. People who choose the Path of Fire add an extra die to their pool of rolled dice, and automatically set that die to a 10, which is then rerolled as normal, but also takes 10 damage in addition to any wounds taken from the action they choose.
+-> Fire: these actions are the most directly effective, but also the most dangerous. They always include things which directly accomplish the goals of the scene, but you take the most damage. People who choose the Path of Fire add an extra die to their pool of rolled dice, and automatically set that die to a 10, which is then rerolled as normal, but also takes 10 damage in addition to any wounds taken from the action they choose.
 
-→ Earth: these actions have their rolls divided in half, making them less effective than other rolls, and sometimes may only give bonuses to someone else's action rather than directly accomplishing anything. However, these actions tend to cause less damage to the person who takes them, and people who choose the Path of Earth take no automatic damage.
+-> Earth: these actions have their rolls divided in half, making them less effective than other rolls, and sometimes may only give bonuses to someone else's action rather than directly accomplishing anything. However, these actions tend to cause less damage to the person who takes them, and people who choose the Path of Earth take no automatic damage.
 
-→ Air: these actions usually react to what others are doing, whether that means giving more information about the scene, reducing damage dealt to another PC, or boosting their roll like an Earth action would. Players who choose the Path of Air take 5 damage if they take an action, however since Air is the final element to resolve its actions a player who chooses this path may choose to forgo their action and take no damage.
+-> Air: these actions usually react to what others are doing, whether that means giving more information about the scene, reducing damage dealt to another PC, or boosting their roll like an Earth action would. Players who choose the Path of Air take 5 damage if they take an action, however since Air is the final element to resolve its actions a player who chooses this path may choose to forgo their action and take no damage.
 
 PCs choose their elemental path at the beginning of the round, but they are not required to choose the specific action within that path until their turn. Thus, PCs acting in later paths may use information gained in the earlier paths to inform their decision of which action to take.
 
@@ -6159,11 +6159,11 @@ A former member of Matsu Gohei's command staff, Kazushi voluntarily took a minor
 
 Gohei was branded "the butcher" by his enemies, and decided to take this on as a mark of pride. This was for a number of things, including:
 
-→ Catching scouts and then executing them as peasants even when they claimed to be samurai.
+-> Catching scouts and then executing them as peasants even when they claimed to be samurai.
 
-→ Giving samurai executions (i.e. beheadings) to "samurai caught posing as peasants" who may or may not have just been peasants.
+-> Giving samurai executions (i.e. beheadings) to "samurai caught posing as peasants" who may or may not have just been peasants.
 
-→ Running off priests and monks who descended on battlefields after battles had ended to perform death rites to prevent the recently deceased from haunting the battlefields as unhappy ghosts. Occasionally a priest or monk would refuse to leave and Gohei would execute them as Crane spies.
+-> Running off priests and monks who descended on battlefields after battles had ended to perform death rites to prevent the recently deceased from haunting the battlefields as unhappy ghosts. Occasionally a priest or monk would refuse to leave and Gohei would execute them as Crane spies.
 
 This last example was particularly egregious, but Gohei prides himself on fearing nothing, and especially being unafraid of ghosts, even the vengeful ancestors of his enemies. In particular, he would raid and pillage ancestral shrines in conquored territory, even while others treated them with the same reverence as shrines and temples to the fortunes and kami.
 
@@ -6287,29 +6287,29 @@ Khuyag was already a master farrier when Moto Khunbish came to Moto lands 6 year
 
 Khuyag's masterpiece was a "death detector" which he explained could predict "large-scale violent death" within Moto lands.  Khunbish deemed this acceptable as a masterpiece, though Khuyag points out its many imperfections:
 
-→ Because heaven has gifted humanity with the ability to make choices, the future is not set, and therefore his detector may fail to detect deaths or show false positives. Since it only detects violent death on a large scale, it is significantly more likely to have false positives than false negatives. Both the Tuesday and Thursday groups had Khuyag appear at a time he thought a battle had occurred in their vicinity, when in fact no battle had taken place - in both cases a battle was possible but was prevented through human choice. This is a fundamental limitation on all forms of soothsaying - even the infallibility of the Burning Words allows for human choice to affect the manner in which its prophecies are fulfilled!
+-> Because heaven has gifted humanity with the ability to make choices, the future is not set, and therefore his detector may fail to detect deaths or show false positives. Since it only detects violent death on a large scale, it is significantly more likely to have false positives than false negatives. Both the Tuesday and Thursday groups had Khuyag appear at a time he thought a battle had occurred in their vicinity, when in fact no battle had taken place - in both cases a battle was possible but was prevented through human choice. This is a fundamental limitation on all forms of soothsaying - even the infallibility of the Burning Words allows for human choice to affect the manner in which its prophecies are fulfilled!
 
-→ The detection is tied to a geographic location, in which an accurate map is made and where at various landmarks "the blood of horses is spilled" and "bloodied earth is returned to Shiro Moto". Thus, Khuyag cannot use his detection device in Uru lands where Moto Gaheris was at the time waging war, and Khuyag thus needs to create a separate detector for any other area in which he wishes to detect death.
+-> The detection is tied to a geographic location, in which an accurate map is made and where at various landmarks "the blood of horses is spilled" and "bloodied earth is returned to Shiro Moto". Thus, Khuyag cannot use his detection device in Uru lands where Moto Gaheris was at the time waging war, and Khuyag thus needs to create a separate detector for any other area in which he wishes to detect death.
 
-→ The area of detection must be sparsely populated - Moto lands are notoriously poor in everything but grasslands and horses, and has perhaps only a tithe (10%) the population density of most other places in the Empire. If it were too dense the the "intersections of fates and choices would be too numerous" for Khuyag's death detector to function.
+-> The area of detection must be sparsely populated - Moto lands are notoriously poor in everything but grasslands and horses, and has perhaps only a tithe (10%) the population density of most other places in the Empire. If it were too dense the the "intersections of fates and choices would be too numerous" for Khuyag's death detector to function.
 
-→ Other forms of prophetic instruction and oracular divination may be hidden from this detection. Thus, even a large battle might not show up if e.g. divine intervention provoked a sudden battle.
+-> Other forms of prophetic instruction and oracular divination may be hidden from this detection. Thus, even a large battle might not show up if e.g. divine intervention provoked a sudden battle.
 
-→ All forms of soothsaying are divided into stable and unstable predictions (which is different from the distinction between certain and uncertain predictions). As explained earlier, stable predictions take themselves into account - they predict futures in which the result of the prediction is known and accounted for in the resulting choices made. Unstable predictions only tell you what would have happened if the prediction had never been made.
+-> All forms of soothsaying are divided into stable and unstable predictions (which is different from the distinction between certain and uncertain predictions). As explained earlier, stable predictions take themselves into account - they predict futures in which the result of the prediction is known and accounted for in the resulting choices made. Unstable predictions only tell you what would have happened if the prediction had never been made.
 
-→ Khuyag describes his own death detectors as "in the worse of all situations", which is that it sometimes takes itself into consideration and other times does not. Thus, if mass violent death is predicted at a certain location and you proceed to go to that location, you cannot be sure that the prediction didn't lead to violent deaths which would not have otherwise occurred. Khuyag is uncertain what factors make his detector sometimes give stable predictions and other times not - there are so many variables which could cause this that it may be impossible to ever determine.
+-> Khuyag describes his own death detectors as "in the worse of all situations", which is that it sometimes takes itself into consideration and other times does not. Thus, if mass violent death is predicted at a certain location and you proceed to go to that location, you cannot be sure that the prediction didn't lead to violent deaths which would not have otherwise occurred. Khuyag is uncertain what factors make his detector sometimes give stable predictions and other times not - there are so many variables which could cause this that it may be impossible to ever determine.
 
-→ Khuyag hopes that his next device will be able to solve this. It may not be possible even in theory to build a device which can always take itself into account - the Burning Words are said to do this, but they may be a creation of heaven and not formed by the hands of man. But according to Khuyag, "Master Khunbish says it should be within my capabilities to create a new version which never takes its own predictions into account."
+-> Khuyag hopes that his next device will be able to solve this. It may not be possible even in theory to build a device which can always take itself into account - the Burning Words are said to do this, but they may be a creation of heaven and not formed by the hands of man. But according to Khuyag, "Master Khunbish says it should be within my capabilities to create a new version which never takes its own predictions into account."
 
 This new death detector, configured for Uru lands, would allow Gaheris to do something like the following when he is unsure of where Uru military forces are located:
 
-→ Divide his forces into X different detachments, and order each to travel to a particular place in Uru lands to secure that territory.
+-> Divide his forces into X different detachments, and order each to travel to a particular place in Uru lands to secure that territory.
 
-→ After the order is given, but prior to any detachment leaving, consult with the death detector.
+-> After the order is given, but prior to any detachment leaving, consult with the death detector.
 
-→ If large-scale violent death doesn't occur in any of those locations, Gaheris can consider those territories secured (temporarily), and can then consolidate his forces back into a single force and repeat this process.
+-> If large-scale violent death doesn't occur in any of those locations, Gaheris can consider those territories secured (temporarily), and can then consolidate his forces back into a single force and repeat this process.
 
-→ If large-scale violent death is predicted at one or more of those locations, Gaheris can cancel his orders and instead direct all of his armies to where death will occur, which should all-but guarantee victory. (Akodo Natsuki was quick to point out, and argued quite convincingly to Khuyag, that this only guarantees death and that such "deadly ground" may lead to defeat. Khuyag responds that strategy and tactics are not his areas or expertise, but Gaheris is confident that his armies will prevail in direct confrontation and thus is mainly worried about an enemy which seeks to evade him.)
+-> If large-scale violent death is predicted at one or more of those locations, Gaheris can cancel his orders and instead direct all of his armies to where death will occur, which should all-but guarantee victory. (Akodo Natsuki was quick to point out, and argued quite convincingly to Khuyag, that this only guarantees death and that such "deadly ground" may lead to defeat. Khuyag responds that strategy and tactics are not his areas or expertise, but Gaheris is confident that his armies will prevail in direct confrontation and thus is mainly worried about an enemy which seeks to evade him.)
 
 Despite his self-deprecating manner, Khuyag is apparently the most impressive of Moto Khunbish's apprentices, and in consultation with Master Khunbish has also devised an approach for finding water in the Burning Sands desert.  The desert has some amount of underground water sources, but it is extremely difficult to find a suitable location where a well can be dug.  Khuyag has proposed a solution which involves the ancient practice of "fate tying".  Fate tying has fallen into disfavor, but Khuyag is quick to point out that it has never been declared heretical. The fate of a human who has already been justly sentenced to die is used to make a prediction about an unrelated matter, "tying their fate" to the new matter - in this case finding water in the desert.
 
@@ -6319,27 +6319,27 @@ To predict whether a person will die within a broad period of time, in the gener
 
 This device will allow the Moto to find water in the desert in the following way:
 
-→ Pick a spot and stand prepared to dig for water. Take a prisoner we will execute if we find groundwater in this spot within a day of digging. If the reading indicates that the prisoner would be executed within the day, we dig, find water, and execute the prisoner. If not then we move on to the next spot with a new prisoner.
+-> Pick a spot and stand prepared to dig for water. Take a prisoner we will execute if we find groundwater in this spot within a day of digging. If the reading indicates that the prisoner would be executed within the day, we dig, find water, and execute the prisoner. If not then we move on to the next spot with a new prisoner.
 
-→ We must perform 1 execution per well we dig. This is unavoidable under any fate-tying scheme, but is one reason why the Moto need so many Uru prisoners - the Moto have chosen to "decimate" those who have opposed them, and after an Uru army surrenders they take every tenth man to be executed for having opposed the Moto.
+-> We must perform 1 execution per well we dig. This is unavoidable under any fate-tying scheme, but is one reason why the Moto need so many Uru prisoners - the Moto have chosen to "decimate" those who have opposed them, and after an Uru army surrenders they take every tenth man to be executed for having opposed the Moto.
 
-→ Khuyag points out that this will not work unless the detector he builds is "reliably unstable", i.e. it must NEVER take its own predictions into account. If it sometimes does (as with his death detection map of Moto lands), then someone might be shown as being executed because the prediction causes it to happen!
+-> Khuyag points out that this will not work unless the detector he builds is "reliably unstable", i.e. it must NEVER take its own predictions into account. If it sometimes does (as with his death detection map of Moto lands), then someone might be shown as being executed because the prediction causes it to happen!
 
-→ Note that under this scheme we cannot use the same prisoner on two different spots in the same day. This means that the limit of how many spots can be checked for suitability in the same day is limited to the number of prisoners slated to be executed, and is another reason why the Moto need so many Uru prisoners.
+-> Note that under this scheme we cannot use the same prisoner on two different spots in the same day. This means that the limit of how many spots can be checked for suitability in the same day is limited to the number of prisoners slated to be executed, and is another reason why the Moto need so many Uru prisoners.
 
 Khuyag also mentioned that there is theoretically a way around that last limitation of only being able to use a prisoner to check a single spot per day. "Master Khunbish has said that this should be within my ability, but I sometimes wonder if his regard for my skill is greater than my current capabilities."  Here is how the scheme would function:
 
-→ Khuyag will attempt to build two "death detectors", one with a prediction length of 1 day as described above, and the second with an extremely short duration, such as 1 minute. The only length requirement is that we must have enough time to take 2 readings before the time is up.
+-> Khuyag will attempt to build two "death detectors", one with a prediction length of 1 day as described above, and the second with an extremely short duration, such as 1 minute. The only length requirement is that we must have enough time to take 2 readings before the time is up.
 
-→ As before, the 1-day reader must be calibrated to be "reliably unstable", i.e. never take itself into account and only show whether the person would be dead within a day while not taking things which result from its own prophetic readings into account.
+-> As before, the 1-day reader must be calibrated to be "reliably unstable", i.e. never take itself into account and only show whether the person would be dead within a day while not taking things which result from its own prophetic readings into account.
 
-→ The 1-minute reader must be calibrated to always take the other device into account but never itself. (If a device took itself into account, then it would always indicate execution and always be correct, since the act of predicting the execution would cause the execution.)
+-> The 1-minute reader must be calibrated to always take the other device into account but never itself. (If a device took itself into account, then it would always indicate execution and always be correct, since the act of predicting the execution would cause the execution.)
 
-→ This allows us to pick a spot and stand prepared to dig for water. We have a prisoner we will execute if we find groundwater in this spot within a day of digging. We then prepare to take a reading with the 1-day reader, but while making that preparation we take a reading with the 1-minute reader. We only take the second reading if the first reading indicates the person will die within a minute. If the second reading confirms the first one, which it always should (unless outside forces are at play), then we execute the person and begin digging.
+-> This allows us to pick a spot and stand prepared to dig for water. We have a prisoner we will execute if we find groundwater in this spot within a day of digging. We then prepare to take a reading with the 1-day reader, but while making that preparation we take a reading with the 1-minute reader. We only take the second reading if the first reading indicates the person will die within a minute. If the second reading confirms the first one, which it always should (unless outside forces are at play), then we execute the person and begin digging.
 
-→ If for any reason the second reading fails we abort and stop taking readings for that person for the day, since something else interfered with this process and none of the 1-day readings can be trusted until tomorrow.
+-> If for any reason the second reading fails we abort and stop taking readings for that person for the day, since something else interfered with this process and none of the 1-day readings can be trusted until tomorrow.
 
-→ This allows us to reuse the same prisoner multiple times in the same day - they can be tested again and again by the 1-minute reader until such time as water is found. Only then are they executed and do we need to move onto the next prisoner.
+-> This allows us to reuse the same prisoner multiple times in the same day - they can be tested again and again by the 1-minute reader until such time as water is found. Only then are they executed and do we need to move onto the next prisoner.
 
 Note that this entire scheme is intended (by me as the author) to be horrifying!  Even if the prisoners have been sentenced to be executed for their crimes, this is tantamount to human sacrifice, and modern readers/players are likely to find this entire scheme repulsive.  Indeed, while I intended for this entire scheme to help flesh out the ways in which smiths could create artifacts of power, I also wanted this entire setup to be a giant red flag which caused the PCs to question whether they wanted to continue supporting the NPCs they had allied with (or if they did, then whether they wanted to try to convince them to change their behavior).
 
@@ -6442,9 +6442,9 @@ Squad	Squad Sergeant and Corporal	~4-6
 
 Other notes:
 
-→ A collection of Legions is an Army, commanded by an Army General.
+-> A collection of Legions is an Army, commanded by an Army General.
 
-→ A collection of armies is commanded by someone with the title General of the ____ Armies of the ___,_. For example, Daidoji Uji (daimyo of the Daidoji family) has the title, "General of the Southern Armies of the Crane".
+-> A collection of armies is commanded by someone with the title General of the ____ Armies of the ___,_. For example, Daidoji Uji (daimyo of the Daidoji family) has the title, "General of the Southern Armies of the Crane".
 
 Companies and Houses:
 
@@ -6458,17 +6458,17 @@ Budget
 
 Each company captain in the 1st Imperial Legion has a several thousand koku budget (typically ~1000 koku higher than a company in a different Imperial legion):
 
-→ Because of the increased rank across the legion, the stipends alone are in excess of 1200 koku.
+-> Because of the increased rank across the legion, the stipends alone are in excess of 1200 koku.
 
-→ Several hundred additional koku in feeding the troops and support staff - this reflects an increase in the price of good food this far away from the heart of the Empire.
+-> Several hundred additional koku in feeding the troops and support staff - this reflects an increase in the price of good food this far away from the heart of the Empire.
 
-→ Hundreds of koku to pay for the support staff and their expenses - a company has ~50 samurai and about two dozen peasant workers, including unskill or semiskilled labor such as cooks, custodians, launderers, and burakumin, as as well as skill labor such as smiths to maintain the weapons and armor.
+-> Hundreds of koku to pay for the support staff and their expenses - a company has ~50 samurai and about two dozen peasant workers, including unskill or semiskilled labor such as cooks, custodians, launderers, and burakumin, as as well as skill labor such as smiths to maintain the weapons and armor.
 
-→ Hundreds of koku for equipment. This not only includes the upkeep and replacements of weapons and armor, but also the tents, building materials, ditches and fortifications (these being less common in the 1st legion).
+-> Hundreds of koku for equipment. This not only includes the upkeep and replacements of weapons and armor, but also the tents, building materials, ditches and fortifications (these being less common in the 1st legion).
 
-→ Hundreds of koku for religious and cultural celebrations/festivals and the maintenance of the company shrines. Each company has at least three shrines: one for the House's ancestors and one for each of the clan's patron fortunes. Such shrines are located to the south or southeast of the rest of the company structures, i.e. between the company and the Shadowlands. These religious expenses include not only the sacred items (e.g. special incense/herbs/flowers) but also the alcohol which is consumed at all such celebrations.
+-> Hundreds of koku for religious and cultural celebrations/festivals and the maintenance of the company shrines. Each company has at least three shrines: one for the House's ancestors and one for each of the clan's patron fortunes. Such shrines are located to the south or southeast of the rest of the company structures, i.e. between the company and the Shadowlands. These religious expenses include not only the sacred items (e.g. special incense/herbs/flowers) but also the alcohol which is consumed at all such celebrations.
 
-→ Hundreds of koku for gifts and lobbying of the Prince and other important officials above and beyond the expectations of the major gift-giving holidays.
+-> Hundreds of koku for gifts and lobbying of the Prince and other important officials above and beyond the expectations of the major gift-giving holidays.
 
 Layout
 
@@ -6476,25 +6476,25 @@ The 1st legion is mostly made of of tents rather than wooden barracks, due to th
 
 The standard sleeping tent is ~10×10 feet wide and 6-8 feed high. A typical company has ~8 of these sleeping tents:
 
-→ 4 holding the non-officer legionnaires of the company's 4 platoons (~8 legionnaires in each)
+-> 4 holding the non-officer legionnaires of the company's 4 platoons (~8 legionnaires in each)
 
-→ 1 holding the 8 corporals
+-> 1 holding the 8 corporals
 
-→ 1 holding the 8 squad sergeants
+-> 1 holding the 8 squad sergeants
 
-→ 1 holding the 4 platoon lieutenants
+-> 1 holding the 4 platoon lieutenants
 
-→ 1 holding the company captain
+-> 1 holding the company captain
 
 In addition, there are several other much larger tents:
 
-→ an officer's mess where the corporals, sergeants, lieutenants, and captain dine
+-> an officer's mess where the corporals, sergeants, lieutenants, and captain dine
 
-→ a legionnaire's mess where everyone else dines
+-> a legionnaire's mess where everyone else dines
 
-→ a kitchen tent where the food is prepared
+-> a kitchen tent where the food is prepared
 
-→ a meeting tent large enough to hold the entire company where orders are given
+-> a meeting tent large enough to hold the entire company where orders are given
 
 Servants sleep in separate tents which line the outside of the company's area. These tend to be numerous and smaller since many servants frequently live in the legion long-term with their families.
 
@@ -6502,11 +6502,11 @@ Burakumin and the latrines they dig are located outside of the company encampmen
 
 In addition to tents, a company encampment has several buildings, usually made of stone or clay/mud bricks:
 
-→ A granary/storehouse containing provisions.
+-> A granary/storehouse containing provisions.
 
-→ An armory where weapons and armor are kept.
+-> An armory where weapons and armor are kept.
 
-→ A stables where the horses are kept. Unicorn companies tend to have multiple stables and will sometimes have more horses than legionnaires, whereas most companies will have only enough for a single platoon.
+-> A stables where the horses are kept. Unicorn companies tend to have multiple stables and will sometimes have more horses than legionnaires, whereas most companies will have only enough for a single platoon.
 
 Here's some more general information about the area where the 1st Imperial Legion is located, known as the "Gateway to the Land of the Burning Sands":
 
