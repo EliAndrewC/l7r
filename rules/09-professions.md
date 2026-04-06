@@ -16,7 +16,7 @@ Most non-samurai NPCs don't have a School and instead acquire abilities relating
 * Raise the TN of someone trying to parry one of your attacks by 5.
 * When using a weapon that deals less than 4k2 damage, add an extra rolled damage die to the weapon's base damage, to a maximum of 4k2 base damage.  Also, subtract 2 from your armor damage reduction penalty.
 * Round your damage rolls up to the nearest multiple of 5.  If the roll is already a multiple of 5, then raise it by 3.
-* You may reroll 10s on a single die when crippled.
+* You may reroll 10s on a single die when impaired.
 * Roll one extra unkept die on initiative.
 * Roll two extra unkept dice on wound checks.
 * When someone is keeping at least one extra die of damage from exceeding their attack roll TN, subtract 5 from the damage.
@@ -89,7 +89,7 @@ Priest Rituals
 ** *Time: 5 minutes*
 * When a target makes a roll to perform research, roll 2k1 and add it to their roll.
 ** *Time: 5 minutes*
-* The target ignores all penalties from being sick or crippled in the next conversation or fight.
+* The target ignores all penalties from being sick or impaired in the next conversation or fight.
 ** *Time: 5 minutes*
 * Consecrate an object or structure against a specific supernatural influence for a free raise against that influence until the next sunrise.  (Certain specific combinations of talisman and influence are permanent, most famously jade amulets vs the Shadowlands taint.)
 ** *Time: 20 minutes*

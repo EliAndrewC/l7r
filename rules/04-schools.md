@@ -134,9 +134,9 @@ You get a free raise on all counterattack rolls.
 
 **Third Dan:**
 You may re-roll 2X dice on each counterattack roll or X dice on any
-other attack roll, where X is your attack skill. When crippled,
-the number of extra dice you roll is divided in half (round up), but
-you reroll 10s despite being crippled.
+other attack roll, where X is your attack skill.  When impaired,
+your number of extra dice on these rolls is divided in half (round up),
+but you reroll 10s on these rolls despite being impaired.
 
 **Fourth Dan:**
 Raise your current and maximum Water by 1. Raising your Water now
@@ -150,7 +150,7 @@ When you counterattack successfully, note the quantity X by which
 the counterattack roll exceeded its TN. Add X to your wound check
 on the damage from the attack you counterattacked. You may choose
 to counterattack after seeing an opponent's damage roll, but that
-roll goes through even if your counterattack cripples or kills the
+roll goes through even if your counterattack impairs or kills the
 opponent.
 
 

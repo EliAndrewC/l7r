@@ -11,7 +11,7 @@ Non-Player-Character Schools
 * regret
 
 **Special Ability:**
-You suffer no penalties for being crippled.
+You suffer no penalties for being impaired.
 
 **First Dan:**
 Roll one extra die on three rolls of your choice.
