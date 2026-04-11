@@ -408,9 +408,7 @@ Void
 * iaijutsu
 
 **Special Ability:**
-During character creation, your free Ring boost may be used on 
-Void. Your successful or unsuccessful parries give you one 
-temporary void point.
+Your successful or unsuccessful parries give you a temporary void point.
 
 **First Dan:**
 Roll one extra die on attack, double attack, and parry rolls.
@@ -679,7 +677,8 @@ not spend more than X of these free raises on a single roll.
 **Fourth Dan:**
 Raise your current and maximum Air by 1. Raising your Air now 
 costs 5 fewer XP.
-Once per target per conversation or fight, you get a temporary void point after a successful attack or manipulation roll.
+Once per target per conversation or fight, you get a temporary void point after
+a successful attack or manipulation roll.
 
 **Fifth Dan:**
 Add your Air to all TN and contested rolls. This stacks with your 
@@ -874,7 +873,7 @@ Water
 * worldliness
 
 **Special Ability:**
-You may spend void points after your initial roll.
+You may spend void points after you see the results of your initial roll.
 
 **First Dan:**
 Roll one extra die on interrogation, sincerity, and wound check 
