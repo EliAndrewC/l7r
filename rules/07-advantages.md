@@ -99,6 +99,6 @@ You have cultivated a particular virtue, such as courage or loyalty.  When someo
 Your Rank is considered to be 3.0 higher when calculating your stipend.  This may not be taken with the Poor disadvantage, and it may not be taken in campaigns in which you do not have a stipend.
 
 
-Worldly (4): 
+**Worldly (4):**
 
 You get a free raise on commerce and underworld rolls.

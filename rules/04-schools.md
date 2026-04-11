@@ -411,7 +411,7 @@ Void
 Your successful or unsuccessful parries give you a temporary void point.
 
 **First Dan:**
-Roll one extra die on attack, double attack, and parry rolls.
+Roll one extra die on parry, double attack, and wound check rolls.
 
 **Second Dan:**
 You get a free raise on parry rolls.
