@@ -19,8 +19,8 @@ more than once per day.
 **Ring:** varies
 
 When performing generic athletic tasks, roll extra dice equal to this knack.
-You may also use this knack to attack or parry. If you use it to attack, your 
-TN is equal to 5 plus 10 times the defender's parry skill. If you use it to 
+You may also use this knack to attack or parry.  If you use it to attack, your
+TN is increased by 5 times the defender's parry skill.  If you use it to
 parry, then your TN is raised by 5 times the attack skill of the attacker.
 
 

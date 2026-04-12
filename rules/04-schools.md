@@ -71,7 +71,7 @@ to any future attack this combat.
 
 **Fifth Dan:**
 When you fail a wound check, calculate your serious wounds as if you
-had half your number of light wounds.
+had half your number of light wounds (rounded down).
 
 
 ## Daidoji Yojimbo School
@@ -428,7 +428,7 @@ Raise your current and maximum Void by 1. Raising your Void now
 costs 5 fewer XP.
 Failed parries against your double attacks do not prevent the automatic
 serious wound, and against your regular attacks the number of extra
-rolled damage dice the failed parry reduces is cut in half (rounded down).
+rolled damage dice the failed parry reduced is cut in half (rounded down).
 
 **Fifth Dan:**
 Your void points provide an extra +10 when spent on combat rolls.
