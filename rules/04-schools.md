@@ -109,7 +109,7 @@ character before damage has been rolled.
 After you or a character for whom you've counterattacked makes a
 wound check, lower the TN to hit the attacker the next time they are
 attacked by the amount by which the wound check exceeded the damage
-roll, to a minimum of 0.
+roll.  This can lower a TN to below 0.
 
 
 ## Hida Bushi School
