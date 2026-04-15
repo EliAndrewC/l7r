@@ -1055,7 +1055,8 @@ X of these free raises on a single roll.
 **Fourth Dan:**
 Raise the current and maximum rank of any Ring by 1. Raising that 
 Ring now costs 5 fewer XP.
-You may reroll any contested roll once after seeing the result.
+You may reroll any contested roll once after seeing the result,
+but you must keep the new result even if it's lower than the first.
 
 **Fifth Dan:**
 At any time, you may spend 1 void point to heal 2 serious wounds.
