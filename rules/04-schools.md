@@ -1042,7 +1042,7 @@ actions; if you roll 3 dice, all of your action dice may only be
 spent on athletics actions.
 
 **First Dan:**
-Roll one extra die on attack, parry, and athletics rolls.
+Roll one extra die on athletics, wound check, and initiative rolls.
 
 **Second Dan:**
 You get a free raise on athletics rolls.
