@@ -10,7 +10,8 @@ Most non-samurai NPCs don't have a School and instead acquire abilities relating
 * Each profession ability may be taken twice, except for the Priest profession whose rituals may only be taken once.
 
 
-== Wave Man Abilities
+Wave Man Abilities
+------------------
 
 * When you make an attack roll that would miss, raise it by 5.  Any parry attempt against an attack that receives a free raise in this manner automatically succeeds.
 * Raise the TN of someone trying to parry one of your attacks by 5.
@@ -24,7 +25,8 @@ Most non-samurai NPCs don't have a School and instead acquire abilities relating
 * Raise the TN of someone making a wound check from damage you dealt to them by 5.  If they fail they take serious wounds as if the TN had not been raised.
 
 
-== Worker Abilities
+Worker Abilities
+----------------
 
 Money bonuses may or may not apply depending on the campaign.
 
@@ -50,7 +52,8 @@ Money bonuses may or may not apply depending on the campaign.
 ** *** *Money bonus: none*
 
 
-== Merchant Abilities
+Merchant Abilities
+------------------
 
 * You get 2 free raises to sincerity rolls relating to your business.
 ** *Money bonus: 10%*
@@ -75,11 +78,13 @@ Money bonuses may or may not apply depending on the campaign.
 
 
 Priest Rituals
+--------------
+
 * Regain an extra void point on a night where the target starts with 0 void points.
 ** *Time: 5 minutes*
 * Heal an extra serious wound on an off-night.
 ** *Time: 20 minutes*
-* Once per phase of conbat: at the beginning of the phase, pick one of {attack, parry, damage, wound checks}: you and all allies round up all rolls of that type to the nearest multiple of 5 that phase.
+* Once per phase of combat: at the beginning of the phase, pick one of {attack, parry, damage, wound checks}: you and all allies round up all rolls of that type to the nearest multiple of 5 that phase.
 * Once per conversation, pick a skill.  Everyone on your side rounds up all rolls on that skill to the nearest increment of 5.  You may decide which skill to round up after you have seen the results of your own or an ally's roll.
 * Spend a void point to roll precepts to perform a commune roll which is only able to detect supernatural influences which are currently present or nearby.  You may learn the type of influence (elemental, shadowlands, etc) and its strength and proximity.
 * Give the target human, animal, or 1-family plot of land two free raises to resist disease.
@@ -95,7 +100,8 @@ Priest Rituals
 ** *Time: 20 minutes*
 
 
-== Ninja Abilities
+Ninja Abilities
+---------------
 
 * Raise the TN to hit you by 5; if you are hit, then your attacker rolls an extra die of damage if their attack yields extra damage for exceeding its TN.
 * If your attacker has rolled more than one 10 on their damage roll, they reroll one fewer 10, to a minimum of one 10 being rerolled.
