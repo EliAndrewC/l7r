@@ -979,7 +979,7 @@ Your Rank is considered 5.0 higher for the purpose of calculating
 your stipend.
 
 **Fifth Dan:**
-After making any TN or contested roll, add your lowest three
+After making any non-initiative roll, add your lowest three
 dice to the result.  (Some dice may be counted twice.)
 
 
