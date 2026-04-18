@@ -94,7 +94,7 @@ Priest Rituals
 ** *Time: 5 minutes*
 * When a target makes a roll to perform research, roll 2k1 and add it to their roll.
 ** *Time: 5 minutes*
-* The target ignores all penalties from being sick or impaired in the next conversation or fight.
+* If the target was already suffering penalties from being sick or impaired at the time this ritual was performed, they ignore those penalties in the next conversation or fight.
 ** *Time: 5 minutes*
 * Consecrate an object or structure against a specific supernatural influence for a free raise against that influence until the next sunrise.  (Certain specific combinations of talisman and influence are permanent, most famously jade amulets vs the Shadowlands taint.)
 ** *Time: 20 minutes*
