@@ -359,6 +359,50 @@ the Shadowlands Taint, then you may also use an attack in the
 current phase to add to that damage.
 
 
+## Mantis Wave-Treader School
+
+**School Ring:**
+Any
+
+**School Knacks:**
+* athletics
+* iaijutsu
+* worldliness
+
+**Special Ability:**
+Each phase you select an "offensive" or "defensive" posture.
+While fighting with an offensive posture, you get a free raise to all attack
+and damage rolls, and while fighting in a defensive posture you get a free
+raise to wound checks and your TN to be hit is increased by 5.
+
+**First Dan:**
+Roll one extra die on initiative, athletics, and wound checks.
+
+**Second Dan:**
+You get a free raise on a type of roll of your choice.
+
+**Third Dan:**
+After making an attack roll during a phase in which you have chosen an offensive
+posture, you may spend one action die from any phase to give yourself +X to all
+attack and damage rolls for the rest of the round, where X is your attack skill.
+After seeing the result of an attack roll made against you while fighting with
+a defensive posture, you may spend one action die from any phase to increase
+your wound checks and TN to be hit by X for the remainder of the round, where X
+is your attack skill.
+
+**Fourth Dan:**
+Raise the current and maximum rank of any Ring by 1. Raising that
+Ring now costs 5 fewer XP.
+Begin each combat round with an athletics action die set to 1, which may only
+be spent on movement, athletics actions, or your 3rd Dan technique.
+
+**Fifth Dan:**
+For each phase in which you declare an offensive posture, you gain +1 to all
+attack and damage rolls for the remainder of the round.  For each phase in
+which you choose a defensive posture, you gain +1 to your wound checks and your
+TN to be hit for the remainder of the round.
+
+
 ## Matsu Bushi School
 
 **School Ring:**
