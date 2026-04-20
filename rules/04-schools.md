@@ -52,8 +52,7 @@ When spending void points on all types of attack rolls, add 1k1 to
 the damage rolls of those attacks per void point spent.
 
 **First Dan:**
-Roll one extra die on iaijutsu, double attack, and wound check
-rolls.
+Roll one extra die on iaijutsu, double attack, and wound checks.
 
 **Second Dan:**
 You get a free raise on double attack rolls.
@@ -90,7 +89,7 @@ their wound check if you hit. You may counterattack for other
 characters at no penalty.
 
 **First Dan:**
-Roll one extra die on attack, counterattack, and wound check rolls.
+Roll one extra die on attack, counterattack, and wound checks.
 
 **Second Dan:**
 You get a free raise on all counterattack rolls.
@@ -127,7 +126,7 @@ action die, but if you do so then the attacker gets a free raise on
 their attack roll.
 
 **First Dan:**
-Roll one extra die on attack, counterattack, and wound check rolls.
+Roll one extra die on attack, counterattack, and wound checks.
 
 **Second Dan:**
 You get a free raise on all counterattack rolls.
@@ -168,7 +167,7 @@ The two allies fighting on your left and right have their TN to be
 hit raised by 5.
 
 **First Dan:**
-Roll an extra die on initiative, parry, and wound check rolls.
+Roll an extra die on initiative, parry, and wound checks.
 
 **Second Dan:**
 You get a free raise to all parry rolls.
@@ -203,7 +202,7 @@ Water
 You add your Water instead of Fire to your rolled damage dice.
 
 **First Dan:**
-Roll one extra die on double attack, lunge, and wound check rolls.
+Roll one extra die on double attack, lunge, and wound checks.
 
 **Second Dan:**
 You get a free raise on wound checks.
@@ -287,8 +286,7 @@ You use Water for interrogation rolls, and you add twice your Water
 to all attack rolls.
 
 **First Dan:**
-Roll one extra die on investigation, interrogation, and wound check 
-rolls.
+Roll one extra die on investigation, interrogation, and wound checks.
 
 **Second Dan:**
 You get a free raise on interrogation rolls.
@@ -332,7 +330,7 @@ checks, where X is the Shadowlands Taint of the attacker, rounded
 down to the nearest whole number.
 
 **First Dan:**
-Roll one extra die on damage, interrogation, and wound check rolls.
+Roll one extra die on damage, interrogation, and wound checks.
 
 **Second Dan:**
 You get a free raise a free on interrogation rolls.
@@ -391,7 +389,7 @@ your wound checks and TN to be hit by X for the remainder of the round, where X
 is your attack skill.
 
 **Fourth Dan:**
-Raise the current and maximum rank of any Ring by 1. Raising that
+Raise the current and maximum rank of your School Ring by 1. Raising that
 Ring now costs 5 fewer XP.
 Begin each combat round with an athletics action die set to 1, which may only
 be spent on movement, athletics actions, or your 3rd Dan technique.
@@ -418,8 +416,7 @@ You always roll 10 dice when rolling initiative, keeping the usual
 number as action dice.
 
 **First Dan:**
-Roll one extra die on double attack, iaijutsu, and wound check
-rolls.
+Roll one extra die on double attack, iaijutsu, and wound checks.
 
 **Second Dan:**
 You get a free raise on iaijutsu rolls.
@@ -455,7 +452,7 @@ Void
 Your successful or unsuccessful parries give you a temporary void point.
 
 **First Dan:**
-Roll one extra die on parry, double attack, and wound check rolls.
+Roll one extra die on parry, double attack, and wound checks.
 
 **Second Dan:**
 You get a free raise on parry rolls.
@@ -494,7 +491,7 @@ lunge attack at your attacker as an interrupt action at the cost of
 one action die.
 
 **First Dan:**
-Roll one extra die on iaijutsu, lunge, and wound check rolls.
+Roll one extra die on iaijutsu, lunge, and wound checks.
 
 **Second Dan:**
 You get a free raise on wound checks.
@@ -533,7 +530,7 @@ action die, and you may parry attacks directed at other characters
 with no penalty.
 
 **First Dan:**
-Roll an extra die on double attack, parry, and wound check rolls.
+Roll an extra die on double attack, parry, and wound checks.
 
 **Second Dan:**
 You get a free raise on parry rolls.
@@ -570,7 +567,7 @@ Each action you take in combat has a bonus of 2X, where X is the
 number of phases for which the action die was held.
 
 **First Dan:**
-Roll one extra die on double attack, initiative, and parry rolls.
+Roll one extra die on initiative, parry, and wound checks.
 
 **Second Dan:**
 You get a free raise on parry rolls.
@@ -607,7 +604,7 @@ Earth
 Gain a temporary void point every time you take a serious wound.
 
 **First Dan:**
-Roll one extra die on attack, damage, and wound check rolls.
+Roll one extra die on attack, damage, and wound checks.
 
 **Second Dan:**
 You get a free raise on all wound check rolls.
@@ -655,7 +652,7 @@ Any non-Void
 You roll and keep one extra die for damage rolls from unarmed attacks.
 
 **First Dan:**
-Roll one extra die on attack, damage, and wound check rolls.
+Roll one extra die on attack, damage, and wound checks.
 
 **Second Dan:**
 You get a free raise on all attack rolls.
@@ -708,7 +705,7 @@ Air
 Add your Air to all attack and damage rolls.
 
 **First Dan:**
-Roll one extra die on tact, manipulation, and wound check rolls.
+Roll one extra die on tact, manipulation, and wound checks.
 
 **Second Dan:**
 You get a free raise on manipulation rolls.
@@ -747,8 +744,7 @@ counterattack +1k1. While counterattacking, you receive a bonus
 equal to the attacker's roll divided by 5, rounded down.
 
 **First Dan:**
-Roll one extra die on counterattack, manipulation, and wound check 
-rolls.
+Roll one extra die on counterattack, manipulation, and wound checks.
 
 **Second Dan:**
 You get a free raise on manipulation.
@@ -825,7 +821,7 @@ to attempt to parry your attack. The opponent does not get a free
 raise for pre-declaring the parry.
 
 **First Dan:**
-Roll one extra die on attack, bragging, and wound check rolls.
+Roll one extra die on attack, bragging, and wound checks.
 
 **Second Dan:**
 You get a free raise on attack rolls.
@@ -921,8 +917,7 @@ Water
 You may spend void points after you see the results of your initial roll.
 
 **First Dan:**
-Roll one extra die on interrogation, sincerity, and wound check 
-rolls.
+Roll one extra die on interrogation, sincerity, and wound checks.
 
 **Second Dan:**
 You get a free raise on interrogation rolls.
@@ -1001,11 +996,10 @@ Air
 * pontificate
 
 **Special Ability:**
-Roll extra dice equal to your acting on attack, parry, and wound 
-check rolls.
+Roll extra dice equal to your acting on attack, parry, and wound checks.
 
 **First Dan:**
-Roll one extra die on attack, sincerity, and wound check rolls.
+Roll one extra die on attack, sincerity, and wound checks.
 
 **Second Dan:**
 You get a free raise on sincerity rolls.
@@ -1086,7 +1080,7 @@ actions; if you roll 3 dice, all of your action dice may only be
 spent on athletics actions.
 
 **First Dan:**
-Roll one extra die on athletics, wound check, and initiative rolls.
+Roll one extra die on athletics, initiative, and wound checks.
 
 **Second Dan:**
 You get a free raise on athletics rolls.
