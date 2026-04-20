@@ -607,7 +607,7 @@ Gain a temporary void point every time you take a serious wound.
 Roll one extra die on attack, damage, and wound checks.
 
 **Second Dan:**
-You get a free raise on all wound check rolls.
+You get a free raise on wound checks.
 
 **Third Dan:**
 Whenever you spend a void point, reduce your current light wound 
