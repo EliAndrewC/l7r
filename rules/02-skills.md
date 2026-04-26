@@ -326,22 +326,21 @@ station
 +----+-------------------------------------------------------------------------+
 | TN | Information Gained                                                      |
 +----+-------------------------------------------------------------------------+
-| 15 | domain size, wealth, neighbors                                          |
+| 25 | domain size, wealth, neighbors                                          |
 +----+-------------------------------------------------------------------------+
-| 25 | basic history, political and military alliances                         |
+| 35 | basic history, political and military alliances                         |
 +----+-------------------------------------------------------------------------+
-| 35 | top officials (Ministers, Councilors, Governors), major lineages        |
+| 45 | internal lineage and ministry politics                                  |
 +----+-------------------------------------------------------------------------+
-| 45 | major officials (Provincial Ministers, County Magistrates), lineage     |
-|    | politics                                                                |
+| 55 | individual top officials - chancellors and ministers and their families |
 +----+-------------------------------------------------------------------------+
-| 55 | noteworthy minor officials, sub-branches within lineages, major         |
-|    | merchant houses                                                         |
+| 65 | provinces and governors, lineage sub-branches, major merchant houses    |
 +----+-------------------------------------------------------------------------+
-| 65 | unremarkable minor officials, relationships between specific extended   |
-|    | families                                                                |
+| 75 | provincial politics within the provincial ministries and lineages       |
 +----+-------------------------------------------------------------------------+
-| 75 | inconspicuous samurai not assigned to any post                          |
+| 85 | counties, county politics, county magistrates, and their relationships  |
++----+-------------------------------------------------------------------------+
+| 95 | small local stories and institutions, samurai without noteworthy posts  |
 +----+-------------------------------------------------------------------------+
 ```
 
@@ -360,7 +359,8 @@ argues against you.
 This also aids your basic skills; you receive one free raise on all culture, 
 law, and strategy rolls for every point of history your character has. You also 
 receive these free raises on heraldry rolls, but these free raises on heraldry 
-may not raise your total above 25.
+only apply to your knowledge places and families and institutions rather than
+specific individuals.
 
 
 ## Interrogation
