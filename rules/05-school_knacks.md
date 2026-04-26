@@ -5,6 +5,7 @@ You may purchas non-supernatural school knacks from other schools.  Raising a
 school knack from outside your school from 0 to 1 costs 10 XP, and after that
 costs the normal amount of twice the value you are raising the knack to.
 
+
 ## Absorb Void
 
 **Ring:** N/A
@@ -234,6 +235,7 @@ After you roll, you lose void points equal to its mastery level. For every 5 by
 which you exceed the TN, this cost is lowered by 1, to a minimum of 1. If you 
 end up not having enough void points, then all of your void points are lost and 
 you fail to cast the spell.
+
 
 ## Worldliness
 

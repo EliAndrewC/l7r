@@ -314,6 +314,44 @@ does not work during the iaijutsu phase of a duel, and it does not
 stack with other Kitsuki Magistrates targeting the same character.
 
 
+## Kitsune Warden School
+
+**School Ring:**
+Any non-Void
+
+**School Knacks:**
+* absorb void
+* commune
+* iaijutsu
+
+**Special Ability:**
+Once per target per combat round or conversation, you may roll your highest
+Ring in place of the usual Ring when making a roll involving that target.
+
+**First Dan:**
+Roll one extra die on three rolls of your choice.
+
+**Second Dan:**
+You get a free raise on a type of roll of your choice.
+
+**Third Dan:**
+Each adventure you get 2X free raises, where X is equal to your precepts
+skill, which may be applied to the following rolls: attack, wound checks,
+and three skills of your choice.  You may not spend more than X of these
+free raises on any single roll.
+You may also perform priest rituals at the cost of one free raise per ritual.
+
+**Fourth Dan:**
+Raise your current and maximum School Ring by 1. Raising your School Ring now
+costs 5 fewer XP.
+When you would roll fewer than 10 dice on athletics actions (i.e. when you roll
+(2 * Ring)k(Ring) for physical actions), roll 10 dice instead.
+
+**Fifth Dan:**
+Select a spell from the shugenja spell list from your School Ring's element.
+Gain a modified version of that spell.
+
+
 ## Kuni Witch Hunter School
 
 **School Ring:**
