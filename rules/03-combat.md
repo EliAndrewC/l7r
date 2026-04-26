@@ -25,7 +25,7 @@ When your characters gets hit, the damage is added to your character's **light w
 
 If you fail this roll, your character takes 1 **serious wound** plus 1 serious wound for every 10 by which you failed the wound check, and the light wound total is set back to 0.  If you succeed, you may either keep all light wounds or take 1 serious wound to reduce the light wound total to 0.
 
-When the **serious wound total** meets or exceeds your character's Earth Ring, your character is **impaired**.  While impaired, you no longer reroll 10s for any skill, but you still reroll 10s on non-skill rolls such as wound checks and damage rolls.  You may spend a Void Point after seeing a roll to reroll the 10s while impaired.  When the serious wound total reaches twice your character's Earth Ring, your character is mortally wounded and unable act.
+When the **serious wound total** meets or exceeds your character's Earth Ring, your character is **impaired**.  While impaired, you no longer reroll 10s for any skill, but you still reroll 10s on non-skill rolls such as wound checks and damage rolls.  When the serious wound total reaches twice your character's Earth Ring, your character is mortally wounded and unable act.
 
 Characters heal 1 serious wound every other night, starting the first night after damage is taken.  The GM may decide to speed this up or slow it down depending on the physical exertion your character undergoes while wounded.  Light wounds can be automatically healed after combat with rudimentary first aid.
 
