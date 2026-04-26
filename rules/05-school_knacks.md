@@ -1,6 +1,10 @@
 School Knacks
 -------------
 
+You may purchas non-supernatural school knacks from other schools.  Raising a
+school knack from outside your school from 0 to 1 costs 10 XP, and after that
+costs the normal amount of twice the value you are raising the knack to.
+
 ## Absorb Void
 
 **Ring:** N/A
