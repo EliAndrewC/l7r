@@ -134,7 +134,6 @@ physical objects, except that they deal (2X)k1 damage to any characters you
 choose to be harmed, where X is your rank in this knack.
 
 
-
 ## Feint
 
 **Ring:** Fire

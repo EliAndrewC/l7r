@@ -163,7 +163,7 @@ opponent.
 * iaijutsu
 
 **Special Ability:**
-The two allies fighting on your left and right have their TN to be 
+The two allies fighting on your left and right have their TN to be
 hit raised by 5.
 
 **First Dan:**
@@ -173,18 +173,18 @@ Roll an extra die on initiative, parry, and wound checks.
 You get a free raise to all parry rolls.
 
 **Third Dan:**
-After making a successful or unsuccessful parry, add 2X to your 
-next attack and damage roll against the attacker or someone 
+After making a successful or unsuccessful parry, add 2X to your
+next attack and damage roll against the attacker or someone
 adjacent to them, where X is your attack skill.
 
 **Fourth Dan:**
-Raise your current and maximum Air by 1. Raising your Air now 
+Raise your current and maximum Air by 1. Raising your Air now
 costs 5 fewer XP.
-After rolling initiative, lower all of your action dice by 2, to a 
+After rolling initiative, lower all of your action dice by 2, to a
 minimum of 1.
 
 **Fifth Dan:**
-After making a successful or unsuccessful parry roll, the attacker 
+After making a successful or unsuccessful parry roll, the attacker
 deals 10 fewer light wounds on their next 2 damage rolls.
 
 
@@ -208,21 +208,21 @@ Roll one extra die on double attack, lunge, and wound checks.
 You get a free raise on wound checks.
 
 **Third Dan:**
-After you make any type of attack roll, you may lower your TN to be 
-hit by 5 for the next time that you are attacked this round to get 
-a bonus of 3X on your attack roll, where X is your attack skill. 
-If a successful or unsuccessful parry is made against your attack, 
+After you make any type of attack roll, you may lower your TN to be
+hit by 5 for the next time that you are attacked this round to get
+a bonus of 3X on your attack roll, where X is your attack skill.
+If a successful or unsuccessful parry is made against your attack,
 you do not suffer the TN penalty.
 
 **Fourth Dan:**
-Raise your current and maximum Water by 1. Raising your Water now 
+Raise your current and maximum Water by 1. Raising your Water now
 costs 5 fewer XP.
-Once per round, you may lunge as an interrupt action at the cost of 
+Once per round, you may lunge as an interrupt action at the cost of
 1 action die.
 
 **Fifth Dan:**
-After a successful wound check, you may add X to a future wound 
-check this combat, where X is the amount by which the wound check 
+After a successful wound check, you may add X to a future wound
+check this combat, where X is the amount by which the wound check
 exceeded the light wound total.
 
 
@@ -237,8 +237,8 @@ Fire
 * lunge
 
 **Special Ability:**
-Your 10s on initiative rolls are considered to be in a special 
-Phase 0. You may use interrupt actions to attack using iaijutsu, 
+Your 10s on initiative rolls are considered to be in a special
+Phase 0. You may use interrupt actions to attack using iaijutsu,
 and any Phase 0 attacks use iaijutsu.
 
 **First Dan:**
@@ -248,26 +248,26 @@ Roll one extra die on double attack, iaijutsu, and initiative rolls.
 You get a free raise on all iaijutsu rolls.
 
 **Third Dan:**
-Your attacks get a bonus of X for each phase before the defender's 
-next action they occur, where X is equal to your attack skill. If 
-a defender does not have an action remaining in this round, they 
-are considered to act in phase 11. This applies to all types of 
-attacks, and you know the next action of everyone within striking 
+Your attacks get a bonus of X for each phase before the defender's
+next action they occur, where X is equal to your attack skill. If
+a defender does not have an action remaining in this round, they
+are considered to act in phase 11. This applies to all types of
+attacks, and you know the next action of everyone within striking
 range.
 
 **Fourth Dan:**
-Raise your current and maximum Fire by 1. Raising your Fire now 
+Raise your current and maximum Fire by 1. Raising your Fire now
 costs 5 fewer XP.
-You get a free raise to all damage rolls from attacks using 
+You get a free raise to all damage rolls from attacks using
 iaijutsu.
 
 **Fifth Dan:**
-At the beginning of phase 0 in each combat round, make a contested 
-iaijutsu roll against an opponent. If the opponent doesn't have 
-iaijutsu, they may roll attack instead, and you get an extra free 
-raise. Make a damage roll against this opponent; if you won the 
-contested roll then roll 1 extra damage die for every 5 by which 
-your roll exceeded your opponent's, and if you lost then roll 1 
+At the beginning of phase 0 in each combat round, make a contested
+iaijutsu roll against an opponent. If the opponent doesn't have
+iaijutsu, they may roll attack instead, and you get an extra free
+raise. Make a damage roll against this opponent; if you won the
+contested roll then roll 1 extra damage die for every 5 by which
+your roll exceeded your opponent's, and if you lost then roll 1
 fewer damage die for every 5 by which their roll exceeded yours.
 
 
@@ -282,7 +282,7 @@ Water
 * presence
 
 **Special Ability:**
-You use Water for interrogation rolls, and you add twice your Water 
+You use Water for interrogation rolls, and you add twice your Water
 to all attack rolls.
 
 **First Dan:**
@@ -292,25 +292,24 @@ Roll one extra die on investigation, interrogation, and wound checks.
 You get a free raise on interrogation rolls.
 
 **Third Dan:**
-Each adventure you get 2X free raises, where X is equal to your 
-investigation skill, which may be applied to the following rolls: 
-interrogation, intimidation, law, underworld, attack, and wound 
-checks. You may not spend more than X of these free raises on any 
-single roll.
+Each adventure you get 2X free raises, where X is equal to your
+investigation skill, which may be applied to the following rolls:
+interrogation, intimidation, law, underworld, attack, and wound checks.
+You may not spend more than X of these free raises on a single roll.
 
 **Fourth Dan:**
-Raise your current and maximum Water by 1. Raising your Water now 
+Raise your current and maximum Water by 1. Raising your Water now
 costs 5 fewer XP.
-You automatically know the Void, parry, and phase of the next 
-action of each character during combat, and you know the result of 
+You automatically know the Void, parry, and phase of the next
+action of each character during combat, and you know the result of
 contested rolls made against you out of combat.
 
 **Fifth Dan:**
-Your presence is so overwhelming that the Air, Fire and Water rings 
-of chosen characters are reduced by one. You may do this to any 
-one character, or you may do it to multiple characters so long as 
-the sum of their experience does not exceed your experience. This 
-does not work during the iaijutsu phase of a duel, and it does not 
+Your presence is so overwhelming that the Air, Fire and Water rings
+of chosen characters are reduced by one. You may do this to any
+one character, or you may do it to multiple characters so long as
+the sum of their experience does not exceed your experience. This
+does not work during the iaijutsu phase of a duel, and it does not
 stack with other Kitsuki Magistrates targeting the same character.
 
 
@@ -337,8 +336,8 @@ You get a free raise on a type of roll of your choice.
 **Third Dan:**
 Each adventure you get 2X free raises, where X is equal to your precepts
 skill, which may be applied to the following rolls: attack, wound checks,
-and three skills of your choice.  You may not spend more than X of these
-free raises on any single roll.
+and three skills of your choice.
+You may not spend more than X of these free raises on a single roll.
 You may also perform priest rituals at the cost of one free raise per ritual.
 
 **Fourth Dan:**
@@ -363,8 +362,8 @@ Earth
 * presence
 
 **Special Ability:**
-You may never become Tainted. Roll an extra (X+1)k(X+1) on wound 
-checks, where X is the Shadowlands Taint of the attacker, rounded 
+You may never become Tainted. Roll an extra (X+1)k(X+1) on wound
+checks, where X is the Shadowlands Taint of the attacker, rounded
 down to the nearest whole number.
 
 **First Dan:**
@@ -374,24 +373,24 @@ Roll one extra die on damage, interrogation, and wound checks.
 You get a free raise a free on interrogation rolls.
 
 **Third Dan:**
-Each adventure you get 2X free raises, where X is equal to your 
-investigation skill, which may be applied to the following rolls: 
-interrogation, intimidation, law, underworld, attack, and wound 
-checks. You may also spend these free raises on damage rolls 
-against targets with the Shadowlands Taint. You may not spend more 
-than X of these free raises on a single roll.
+Each adventure you get 2X free raises, where X is equal to your
+investigation skill, which may be applied to the following rolls:
+interrogation, intimidation, law, underworld, attack, and wound
+checks. You may also spend these free raises on damage rolls
+against targets with the Shadowlands Taint.
+You may not spend more than X of these free raises on a single roll.
 
 **Fourth Dan:**
-Raise your current and maximum Earth by 1. Raising your Earth now 
+Raise your current and maximum Earth by 1. Raising your Earth now
 costs 5 fewer XP.
-Roll an an extra action die in combat, which may not be used to 
+Roll an an extra action die in combat, which may not be used to
 attack targets without the Shadowlands Taint.
 
 **Fifth Dan:**
-After you take light wounds and resolve your wound check, you may 
-choose to inflict that number of light wounds on the opponent who 
-dealt them and take half that amount yourself. If the opponent has 
-the Shadowlands Taint, then you may also use an attack in the 
+After you take light wounds and resolve your wound check, you may
+choose to inflict that number of light wounds on the opponent who
+dealt them and take half that amount yourself. If the opponent has
+the Shadowlands Taint, then you may also use an attack in the
 current phase to add to that damage.
 
 
@@ -450,7 +449,7 @@ Fire
 * lunge
 
 **Special Ability:**
-You always roll 10 dice when rolling initiative, keeping the usual 
+You always roll 10 dice when rolling initiative, keeping the usual
 number as action dice.
 
 **First Dan:**
@@ -460,19 +459,19 @@ Roll one extra die on double attack, iaijutsu, and wound checks.
 You get a free raise on iaijutsu rolls.
 
 **Third Dan:**
-When you spend a void point, you may add 3X to any future wound 
-check this combat after seeing the roll, where X is your attack 
+When you spend a void point, you may add 3X to any future wound
+check this combat after seeing the roll, where X is your attack
 skill.
 
 **Fourth Dan:**
-Raise your current and maximum Fire by 1. Raising your Fire now 
+Raise your current and maximum Fire by 1. Raising your Fire now
 costs 5 fewer XP.
-When you miss the TN on a double attack roll by less than 20, you 
+When you miss the TN on a double attack roll by less than 20, you
 are still considered to have hit, but you deal no extra damage.
 
 **Fifth Dan:**
-After you deal light wounds which result in the defender taking one 
-or more serious wounds, their light wound total is reset to 15 
+After you deal light wounds which result in the defender taking one
+or more serious wounds, their light wound total is reset to 15
 instead of 0.
 
 
@@ -496,14 +495,14 @@ Roll one extra die on parry, double attack, and wound checks.
 You get a free raise on parry rolls.
 
 **Third Dan:**
-At the beginning of each round, you get 2X points, where X is equal 
-to your attack skill. Each point may be spent to decrease the 
-phase of one of your actions by 1 in order to parry, or to provide 
-a bonus of +2 on any type of attack or parry after you have seen 
+At the beginning of each round, you get 2X points, where X is equal
+to your attack skill. Each point may be spent to decrease the
+phase of one of your actions by 1 in order to parry, or to provide
+a bonus of +2 on any type of attack or parry after you have seen
 your roll.
 
 **Fourth Dan:**
-Raise your current and maximum Void by 1. Raising your Void now 
+Raise your current and maximum Void by 1. Raising your Void now
 costs 5 fewer XP.
 Failed parries against your double attacks do not prevent the automatic
 serious wound, and against your regular attacks the number of extra
@@ -524,8 +523,8 @@ Fire
 * lunge
 
 **Special Ability:**
-After an attack against you is completely resolved, you may make a 
-lunge attack at your attacker as an interrupt action at the cost of 
+After an attack against you is completely resolved, you may make a
+lunge attack at your attacker as an interrupt action at the cost of
 one action die.
 
 **First Dan:**
@@ -535,20 +534,20 @@ Roll one extra die on iaijutsu, lunge, and wound checks.
 You get a free raise on wound checks.
 
 **Third Dan:**
-After you roll damage against an opponent, increase that 
-character's next X action dice this turn by (6 - that character's 
+After you roll damage against an opponent, increase that
+character's next X action dice this turn by (6 - that character's
 Fire) min 1, where X is your attack skill, to a maximum of phase 10.
 
 **Fourth Dan:**
-Raise your current and maximum Fire by 1. Raising your Fire now 
+Raise your current and maximum Fire by 1. Raising your Fire now
 costs 5 fewer XP.
-When you lunge, you always roll the extra damage die from using 
+When you lunge, you always roll the extra damage die from using
 lunge even if your attack is unsuccessfully parried.
 
 **Fifth Dan:**
-After a successful attack or lunge roll, you may decrease the 
-number of rolled damage dice by 10, to a minimum of 2, to 
-automatically deal 1 serious wound to your opponent. You may only 
+After a successful attack or lunge roll, you may decrease the
+number of rolled damage dice by 10, to a minimum of 2, to
+automatically deal 1 serious wound to your opponent. You may only
 do this once per damage roll.
 
 
@@ -563,8 +562,8 @@ Air
 * iaijutsu
 
 **Special Ability:**
-You may parry as an interrupt action by spending your lowest 1 
-action die, and you may parry attacks directed at other characters 
+You may parry as an interrupt action by spending your lowest 1
+action die, and you may parry attacks directed at other characters
 with no penalty.
 
 **First Dan:**
@@ -574,18 +573,18 @@ Roll an extra die on double attack, parry, and wound checks.
 You get a free raise on parry rolls.
 
 **Third Dan:**
-Your successful or unsuccessful parry rolls deal (2X)k1 damage, 
-where X is equal to your attack skill. You don't roll extra damage 
+Your successful or unsuccessful parry rolls deal (2X)k1 damage,
+where X is equal to your attack skill. You don't roll extra damage
 dice from your Fire or from exceeding the TN.
 
 **Fourth Dan:**
-Raise your current and maximum Air by 1. Raising your Air now 
+Raise your current and maximum Air by 1. Raising your Air now
 costs 5 fewer XP.
 You roll an extra 3k1 on wound checks.
 
 **Fifth Dan:**
-After you successfully parry, the TN to hit the parried opponent on 
-the next attack directed at them this combat is lowered by the 
+After you successfully parry, the TN to hit the parried opponent on
+the next attack directed at them this combat is lowered by the
 amount by which your parry roll exceeded its TN.  This can lower the
 TN to a negative number.
 
@@ -601,7 +600,7 @@ Air
 * lunge
 
 **Special Ability:**
-Each action you take in combat has a bonus of 2X, where X is the 
+Each action you take in combat has a bonus of 2X, where X is the
 number of phases for which the action die was held.
 
 **First Dan:**
@@ -611,20 +610,20 @@ Roll one extra die on initiative, parry, and wound checks.
 You get a free raise on parry rolls.
 
 **Third Dan:**
-After a successful or unsuccessful parry, all your action dice are 
-decreased by X, where X is equal to your attack skill. Action dice 
+After a successful or unsuccessful parry, all your action dice are
+decreased by X, where X is equal to your attack skill. Action dice
 are considered to have been held since their newly lowered value.
 This can lower dice to negative numbers.
 
 **Fourth Dan:**
-Raise your current and maximum Air by 1. Raising your Air now 
+Raise your current and maximum Air by 1. Raising your Air now
 costs 5 fewer XP.
 Your highest action die is set to 1 at the beginning of each combat
 round.
 
 **Fifth Dan:**
-After you successfully parry, you may add X to a future wound check 
-this combat after seeing your roll, where X is the amount by which 
+After you successfully parry, you may add X to a future wound check
+this combat after seeing your roll, where X is the amount by which
 your parry roll exceeded its TN.
 
 
@@ -648,13 +647,13 @@ Roll one extra die on attack, damage, and wound checks.
 You get a free raise on wound checks.
 
 **Third Dan:**
-Whenever you spend a void point, reduce your current light wound 
+Whenever you spend a void point, reduce your current light wound
 total by 2X, where X is your attack skill.
 
 **Fourth Dan:**
-Raise your current and maximum Earth by 1. Raising your Earth now 
+Raise your current and maximum Earth by 1. Raising your Earth now
 costs 5 fewer XP.
-You get an extra free raise for each void point you spend on wound 
+You get an extra free raise for each void point you spend on wound
 check rolls.
 
 **Fifth Dan:**
@@ -674,8 +673,8 @@ such a life, designating them outside the Celestial Order which
 defines society; monks in the Brotherhood are neither people nor
 half-people nor non-people, but are instead a category of their
 own. To this day the braver of them continue to protect the
-peasantry from thieves and bandits, but braver still are those 
-willing to stand up to their samurai rulers and challenge those 
+peasantry from thieves and bandits, but braver still are those
+willing to stand up to their samurai rulers and challenge those
 among them who fail to act righteously.
 	
 **School Ring:**
@@ -696,39 +695,39 @@ Roll one extra die on attack, damage, and wound checks.
 You get a free raise on all attack rolls.
 
 **Third Dan:**
-Each adventure you get 2X free raises, where X is equal to your 
-precepts skill, which may be applied to the following rolls: 
-history, law, precepts, wound checks, and attack. You may not spend more 
-than X of these free raises on a single roll. These free raises 
-may also be applied to action dice at any time, lowering a single 
-die by 5 phases.
+Each adventure you get 2X free raises, where X is equal to your
+precepts skill, which may be applied to the following rolls:
+history, law, precepts, wound checks, and attack.
+You may not spend more than X of these free raises on a single roll.
+These free raises may also be applied to action dice at any time,
+lowering a single die by 5 phases.
 
 **Fourth Dan:**
-Raise your current and maximum rank in a non-Void ring of your 
+Raise your current and maximum rank in a non-Void ring of your
 choice by 1. Raising this Ring now costs 5 fewer XP.
 Failed parry attempts do not lower your rolled damage dice.
 
 **Fifth Dan:**
-Once per round after you have been attacked but before damage is 
-rolled, you may spend an action die from any phase to attack your 
-attacker. If your attack roll is at least as high as your 
-attacker's then the attack against you is canceled; your attack 
+Once per round after you have been attacked but before damage is
+rolled, you may spend an action die from any phase to attack your
+attacker. If your attack roll is at least as high as your
+attacker's then the attack against you is canceled; your attack
 continues and you hit/miss and roll damage as normal.
 
 
 ## Courtier School
 
 Within each Clan are several great Families, each of which is
-divided into noble Houses, each of which contains numerous proud 
+divided into noble Houses, each of which contains numerous proud
 lineages which serve their daimyo by filling hundreds of government
 positions. Personal relationships are the glue that hold this
 system together, which would collapse without constant
-communication and cooperation. Many samurai therefore serve by 
-taking up the pen instead of the katana, whether in a government 
-post or simply in keeping their own lineage informed and 
-well-connected. However, most courtiers still take seriously their 
-duties as samurai (“those who make war”), and train hard to be 
-capable of defending their domain with the wakizashi when the pen 
+communication and cooperation. Many samurai therefore serve by
+taking up the pen instead of the katana, whether in a government
+post or simply in keeping their own lineage informed and
+well-connected. However, most courtiers still take seriously their
+duties as samurai (“those who make war”), and train hard to be
+capable of defending their domain with the wakizashi when the pen
 fails.
 	
 **School Ring:**
@@ -749,19 +748,19 @@ Roll one extra die on tact, manipulation, and wound checks.
 You get a free raise on manipulation rolls.
 
 **Third Dan:**
-Each adventure you get 2X free raises, where X is equal to your 
-tact skill, which may be applied to the following rolls: heraldry, 
-manipulation, sincerity, tact, attack, and wound checks. You may 
+Each adventure you get 2X free raises, where X is equal to your
+tact skill, which may be applied to the following rolls: heraldry,
+manipulation, sincerity, tact, attack, and wound checks. You may
 not spend more than X of these free raises on a single roll.
 
 **Fourth Dan:**
-Raise your current and maximum Air by 1. Raising your Air now 
+Raise your current and maximum Air by 1. Raising your Air now
 costs 5 fewer XP.
 Once per target per conversation or fight, you get a temporary void point after
 a successful attack or manipulation roll.
 
 **Fifth Dan:**
-Add your Air to all TN and contested rolls. This stacks with your 
+Add your Air to all TN and contested rolls. This stacks with your
 Special Ability for attack rolls.
 
 
@@ -776,9 +775,9 @@ Air or Water
 * worldliness
 
 **Special Ability:**
-You may spend a void point to counterattack as an interrupt action 
-at the cost of one actions die; this void point still gives your 
-counterattack +1k1. While counterattacking, you receive a bonus 
+You may spend a void point to counterattack as an interrupt action
+at the cost of one actions die; this void point still gives your
+counterattack +1k1. While counterattacking, you receive a bonus
 equal to the attacker's roll divided by 5, rounded down.
 
 **First Dan:**
@@ -788,22 +787,20 @@ Roll one extra die on counterattack, manipulation, and wound checks.
 You get a free raise on manipulation.
 
 **Third Dan:**
-Each adventure you get 2X free raises, where X is equal to your 
-culture skill, which may be applied to the following rolls: 
-bragging, culture, heraldry, manipulation, counterattack, and wound
-checks. You may not spend more than X of these free raises on a 
-single roll.
+Each adventure you get 2X free raises, where X is equal to your
+culture skill, which may be applied to the following rolls:
+bragging, culture, heraldry, manipulation, counterattack, and wound checks.
+You may not spend more than X of these free raises on a single roll.
 
 **Fourth Dan:**
-Raise your current and maximum Air or Water by 1. Raising that 
+Raise your current and maximum Air or Water by 1. Raising that
 ring now costs 5 fewer XP.
-When attacking a target who has not attacked you this round, you 
+When attacking a target who has not attacked you this round, you
 receive a bonus equal to the current phase.
 
 **Fifth Dan:**
-When making any TN or contested roll, you receive a bonus equal to 
-(X-10) / 5 where X is the TN or result of your opponent's contested
-roll.
+When making any TN or contested roll, you receive a bonus equal to
+(X-10) / 5 where X is the TN or result of your opponent's contested roll.
 
 
 ## Ide Diplomat School
@@ -817,7 +814,7 @@ Any non-Void
 * worldliness
 
 **Special Ability:**
-After a feint which met its TN, lower the TN of the target by 10 
+After a feint which met its TN, lower the TN of the target by 10
 the next time they are attacked, even if the feint was parried.
 
 **First Dan:**
@@ -827,18 +824,18 @@ Roll one extra die on precepts and any two rolls of your choice.
 You get a free raise on any type of roll of your choice.
 
 **Third Dan:**
-After seeing the result of any TN or contested skill roll, you may 
-spend a void point to subtract Xk1 from the roll, where X is equal 
-to your tact skill. You know the result of all TN and contested 
+After seeing the result of any TN or contested skill roll, you may
+spend a void point to subtract Xk1 from the roll, where X is equal
+to your tact skill. You know the result of all TN and contested
 rolls except sincerity and interrogation.
 
 **Fourth Dan:**
-Raise your current and maximum in any non-Void Ring by 1. Raising 
+Raise your current and maximum in any non-Void Ring by 1. Raising
 that Ring now costs 5 fewer XP.
 You regain an extra void point every night.
 
 **Fifth Dan:**
-Gain a temporary void point whenever you spend a void point that 
+Gain a temporary void point whenever you spend a void point that
 was not gained from this technique.
 
 
@@ -853,9 +850,9 @@ Any non-Void
 * oppose social
 
 **Special Ability:**
-Once per round before making an attack roll against an opponent, 
+Once per round before making an attack roll against an opponent,
 you may force the opponent to spend their next available action die
-to attempt to parry your attack. The opponent does not get a free 
+to attempt to parry your attack. The opponent does not get a free
 raise for pre-declaring the parry.
 
 **First Dan:**
@@ -865,23 +862,22 @@ Roll one extra die on attack, bragging, and wound checks.
 You get a free raise on attack rolls.
 
 **Third Dan:**
-Each adventure you get 2X free raises, where X is equal to your 
-bragging skill, which may be applied to the following rolls: 
-bragging, culture, heraldry, intimidation, attack, and wound 
-checks. You may not spend more than X of these free raises on a 
-single roll.
+Each adventure you get 2X free raises, where X is equal to your
+bragging skill, which may be applied to the following rolls:
+bragging, culture, heraldry, intimidation, attack, and wound checks.
+You may not spend more than X of these free raises on a single roll.
 
 **Fourth Dan:**
-Raise your current and maximum in any non-Void Ring by 1. Raising 
+Raise your current and maximum in any non-Void Ring by 1. Raising
 that Ring now costs 5 fewer XP.
 When making a damage roll for an unparried attack for which you are
 not keeping extra damage dice, you always roll 10 dice.
 
 **Fifth Dan:**
-Once per conversation or combat round, you can apply an oppose 
-knack or your Special ability an additional time. You may choose 
-to use your Special Ability after an opponent has made an attack 
-roll against you, in which case their attack is canceled and their 
+Once per conversation or combat round, you can apply an oppose
+knack or your Special ability an additional time. You may choose
+to use your Special Ability after an opponent has made an attack
+roll against you, in which case their attack is canceled and their
 attack roll will be used as their parry roll.
 
 
@@ -896,10 +892,10 @@ Void
 * otherworldliness
 
 **Special Ability:**
-Your maximum number of void points is equal to your highest ring 
-plus your school rank. You regain a number of void points equal to 
-your lowest Ring after a full night's rest, and one void point per 
-2 hours for a partial night. However, you may not spend more void 
+Your maximum number of void points is equal to your highest ring
+plus your school rank. You regain a number of void points equal to
+your lowest Ring after a full night's rest, and one void point per
+2 hours for a partial night. However, you may not spend more void
 points on any one roll than your lowest Ring minus 1.
 
 **First Dan:**
@@ -909,25 +905,25 @@ Roll one extra die on precepts and any two skills of your choice.
 You get a free raise on all rolls for any skill of your choice.
 
 **Third Dan:**
-After another character makes a roll for which void points may be 
-spent, you may spend one void point to roll Xk1 and add the result 
-to their total, where X is your precepts skill. You may only do 
+After another character makes a roll for which void points may be
+spent, you may spend one void point to roll Xk1 and add the result
+to their total, where X is your precepts skill. You may only do
 this once per roll.
 
 **Fourth Dan:**
-Raise your current and maximum Void by 1. Raising your Void now 
+Raise your current and maximum Void by 1. Raising your Void now
 costs 5 fewer XP.
-Characters opposing you in contested rolls may not spend void 
-points. If someone is opposing both you and someone else, they may 
-spend void points, but the bonus will only count against whoever 
+Characters opposing you in contested rolls may not spend void
+points. If someone is opposing both you and someone else, they may
+spend void points, but the bonus will only count against whoever
 else they're opposing.
 
 **Fifth Dan:**
-You may completely negate another character's school or profession 
-for the remainder of one conversation or fight. Against characters 
-with a school, you must spend void points equal to twice their 
-school rank. Against characters with no school, you must spend 
-void points equal to their experience divided by 50, rounded down. 
+You may completely negate another character's school or profession
+for the remainder of one conversation or fight. Against characters
+with a school, you must spend void points equal to twice their
+school rank. Against characters with no school, you must spend
+void points equal to their experience divided by 50, rounded down.
 This is instantaneous and does not require spending an action.
 
 
@@ -961,20 +957,19 @@ Roll one extra die on interrogation, sincerity, and wound checks.
 You get a free raise on interrogation rolls.
 
 **Third Dan:**
-Each adventure you get 2X free raises, where X is equal to your 
-sincerity skill, which may be applied to the following rolls: 
-commerce, heraldry, interrogation, sincerity, attack, and wound 
-checks. You may not spend more than X of these free raises on a 
-single roll.
+Each adventure you get 2X free raises, where X is equal to your
+sincerity skill, which may be applied to the following rolls:
+commerce, heraldry, interrogation, sincerity, attack, and wound checks.
+You may not spend more than X of these free raises on a single roll.
 
 **Fourth Dan:**
-Raise your current and maximum Water by 1. Raising your Water now 
+Raise your current and maximum Water by 1. Raising your Water now
 costs 5 fewer XP.
-Your Rank is considered 5.0 higher for the purpose of calculating 
+Your Rank is considered 5.0 higher for the purpose of calculating
 your stipend.
 
 **Fifth Dan:**
-After making any non-initiative roll, you may reroll some of the 
+After making any non-initiative roll, you may reroll some of the
 dice so long as the dice being rerolled add up to at least
 5\*(X-1) where X is the number of dice being rerolled. You may only
 do this once per roll. As per your Special Ability, you may spend
@@ -995,31 +990,31 @@ Any non-Void
 You have all 10 rituals listed under the Priest profession.
 
 **First Dan:**
-Roll one extra die on precepts, any one skill, and any one type of 
+Roll one extra die on precepts, any one skill, and any one type of
 combat roll.
 
 **Second Dan:**
-You and your allies get a free raise on all rolls for which you 
+You and your allies get a free raise on all rolls for which you
 receive an Honor bonus (bragging, precepts, and open sincerity).
 
 **Third Dan:**
-Roll X dice at the beginning of combat, where X is equal to your 
-precepts skill. You may swap any of these dice for any rolled die 
-on any attack, parry, wound check, or damage roll. You may swap 
-any of these dice for any lower die on any of those types of rolls 
+Roll X dice at the beginning of combat, where X is equal to your
+precepts skill. You may swap any of these dice for any rolled die
+on any attack, parry, wound check, or damage roll. You may swap
+any of these dice for any lower die on any of those types of rolls
 made by any ally.
 
 **Fourth Dan:**
-Raise your current and maximum of your School’s chosen Ring by 1. 
+Raise your current and maximum of your School’s chosen Ring by 1.
 Raising that Ring now costs 5 fewer XP.
-You and your allies get a free raise on all contested rolls for 
+You and your allies get a free raise on all contested rolls for
 which your opponent has an equal or higher skill rank.
 
 **Fifth Dan:**
-You may spend the points from your Conviction knack on your 
-allies’ rolls, and your Conviction points refresh after each 
-conversation and combat round. You may also spend these points to 
-lower action dice in order for you or an ally to counterattack or 
+You may spend the points from your Conviction knack on your
+allies’ rolls, and your Conviction points refresh after each
+conversation and combat round. You may also spend these points to
+lower action dice in order for you or an ally to counterattack or
 parry.
 
 
@@ -1043,15 +1038,15 @@ Roll one extra die on attack, sincerity, and wound checks.
 You get a free raise on sincerity rolls.
 
 **Third Dan:**
-Each adventure you get 2X free raises, where X is equal to your 
-sincerity skill, which may be applied to the following rolls: 
-acting, heraldry, sincerity, sneaking, attack, and wound checks. 
+Each adventure you get 2X free raises, where X is equal to your
+sincerity skill, which may be applied to the following rolls:
+acting, heraldry, sincerity, sneaking, attack, and wound checks.
 You may not spend more than X of these free raises on a single roll.
 
 **Fourth Dan:**
-Raise your current and maximum Air by 1. Raising your Air now 
+Raise your current and maximum Air by 1. Raising your Air now
 costs 5 fewer XP.
-Your Rank is considered 5.0 higher for the purpose of calculating 
+Your Rank is considered 5.0 higher for the purpose of calculating
 your stipend.
 
 **Fifth Dan:**
@@ -1070,35 +1065,71 @@ Any non-Void
 * spellcasting
 
 **Special Ability:**
-Your maximum number of void points is equal to your highest ring 
-plus your school rank. You regain a number of void points equal to 
-your lowest Ring after a full night's rest, and one void point per 
-2 hours for a partial night. However, you may not spend more void 
+Your maximum number of void points is equal to your highest ring
+plus your school rank. You regain a number of void points equal to
+your lowest Ring after a full night's rest, and one void point per
+2 hours for a partial night. However, you may not spend more void
 points on any one roll than your lowest Ring minus 1.
 
 **First Dan:**
-Roll one extra die when rolling precepts or with commune and 
+Roll one extra die when rolling precepts or with commune and
 spellcasting for your chosen element.
 
 **Second Dan:**
-You get a free raise when rolling precepts or with commune and 
+You get a free raise when rolling precepts or with commune and
 spellcasting for your chosen element.
 
 **Third Dan:**
-Each adventure you get 2X free raises, where X is equal to your 
-precepts skill, which may be applied to the following rolls: 
-bragging, intimidation, precepts, tact, wound checks, and 
-spellcasting for your chosen element. You may not spend more than 
-X of these free raises on any single roll.
+Each adventure you get 2X free raises, where X is equal to your
+precepts skill, which may be applied to the following rolls:
+bragging, intimidation, precepts, tact, wound checks, and
+spellcasting for your chosen element.
+You may not spend more than X of these free raises on a single roll.
 
 **Fourth Dan:**
-Raise your current and maximum Ring of your chosen element by 1. 
+Raise your current and maximum Ring of your chosen element by 1.
 Raising that Ring now costs 5 fewer XP.
 You may cast one spell per round as an interrupt action.
 
 **Fifth Dan:**
-Your non-Void rings are all considered 1 higher when rolling 
+Your non-Void rings are all considered 1 higher when rolling
 commune and spellcasting.
+
+
+## Suzume Overseer School
+
+**School Ring**
+Water
+
+**School Knacks:**
+* oppose social
+* pontificate
+* worldliness
+
+**Special Ability:**
+You may spend void points after you see the results of your initial roll.
+
+**First Dan:**
+Roll one extra die on precepts, commerce, and wound checks.
+
+**Second Dan:**
+You get a free raise on a type of roll of your choice.
+
+**Third Dan:**
+Each adventure you get 2X free raises, where X is equal to your
+precepts skill, which may be applied to the following rolls:
+commerce, heraldry, sincerity, tact, attack, and wound checks.
+You may not spend more than X of these free raises on a single roll.
+
+**Fourth Dan:**
+Raise the current and maximum rank of any Ring by 1. Raising that
+Ring now costs 5 fewer XP.
+Your skill is considered 2 higher for the purpose of computing free raises
+for any contested roll you did not initiate.
+
+**Fifth Dan:**
+When making any TN or contested roll, you receive a bonus equal to
+(X-10) / 5 where X is the TN or result of your opponent's contested roll.
 
 
 ## Togashi Ise Zumi School
@@ -1112,9 +1143,9 @@ Void
 * dragon tattoo
 
 **Special Ability:**
-Roll either 1 or 3 extra action dice at the beginning of each 
-combat round. If you roll 1 die, it may only be spent on athletics 
-actions; if you roll 3 dice, all of your action dice may only be 
+Roll either 1 or 3 extra action dice at the beginning of each
+combat round. If you roll 1 die, it may only be spent on athletics
+actions; if you roll 3 dice, all of your action dice may only be
 spent on athletics actions.
 
 **First Dan:**
@@ -1124,12 +1155,12 @@ Roll one extra die on athletics, initiative, and wound checks.
 You get a free raise on athletics rolls.
 
 **Third Dan:**
-Each day you get 4X free raises which may be applied to athletics 
-rolls, where X is your precepts skill. You may not spend more than 
+Each day you get 4X free raises which may be applied to athletics
+rolls, where X is your precepts skill. You may not spend more than
 X of these free raises on a single roll.
 
 **Fourth Dan:**
-Raise the current and maximum rank of any Ring by 1. Raising that 
+Raise the current and maximum rank of any Ring by 1. Raising that
 Ring now costs 5 fewer XP.
 You may reroll any contested roll once after seeing the result,
 but you must keep the new result even if it's lower than the first.
