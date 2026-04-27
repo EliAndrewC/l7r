@@ -72,8 +72,8 @@ Any non-Void
 * iaijutsu
 
 **Special Ability:**
-Once per target per combat round or conversation, you may roll your highest
-Ring in place of the usual Ring when making a roll involving that target.
+Once per target per combat round or conversation, you may substitute your
+School Ring in place of the usual ring when making a roll involving that target.
 
 **First Dan:**
 Roll one extra die on three rolls of your choice.
@@ -143,4 +143,37 @@ which you choose a defensive posture, you gain +1 to your wound checks and your
 TN to be hit for the remainder of the round.
 
 
+## Suzume Overseer School
 
+**School Ring**
+Water
+
+**School Knacks:**
+* oppose social
+* pontificate
+* worldliness
+
+**Special Ability:**
+You may spend void points after you see the results of your initial roll.
+
+**First Dan:**
+Roll one extra die on precepts, commerce, and wound checks.
+
+**Second Dan:**
+You get a free raise on a type of roll of your choice.
+
+**Third Dan:**
+Each adventure you get 2X free raises, where X is equal to your
+precepts skill, which may be applied to the following rolls:
+commerce, heraldry, sincerity, tact, attack, and wound checks.
+You may not spend more than X of these free raises on a single roll.
+
+**Fourth Dan:**
+Raise the current and maximum rank of any Ring by 1. Raising that
+Ring now costs 5 fewer XP.
+Your skill is considered 2 higher for the purpose of computing free raises
+for any contested roll you did not initiate.
+
+**Fifth Dan:**
+When making any TN or contested roll, you receive a bonus equal to
+(X-10) / 5 where X is the TN or result of your opponent's contested roll.
