@@ -817,7 +817,7 @@ your lowest Ring after a full night's rest, and one void point per
 points on any one roll than your lowest Ring minus 1.
 
 **First Dan:**
-Roll one extra die on precepts and any two skills of your choice.
+Roll one extra die on precepts and any two types of rolls of your choice.
 
 **Second Dan:**
 You get a free raise on all rolls for any skill of your choice.

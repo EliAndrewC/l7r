@@ -205,11 +205,12 @@ number of times per adventure equal to twice your rank in this knack.
 
 ## Pontificate
 
-**Ring:** Water
+**Ring:** Water or Air
 
 Once per conversation, you may use your practiced aura of knowledgeable 
 confidence to roll this knack instead of any basic skill when making an 
-uncontested roll.
+uncontested roll.  This knack may be rolled with either Water or Air,
+whichever is higher at the time it is rolled.
 
 
 ## Presence
