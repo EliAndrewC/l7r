@@ -1,5 +1,6 @@
 
-== Air Spells
+Air Spells
+----------
 
 **Stifling Wind**
 
@@ -22,7 +23,8 @@ A number of targets equal to your Air ring roll an extra action die and then dec
 Fly!  You may move as quickly as if you were on foot, and your movement produces the same level of physical exertion as if you were not flying.  This spell lasts as long as your concentration.
 
 
-== Earth Spells
+Earth Spells
+------------
 
 **Jade Strike**
 
@@ -45,7 +47,8 @@ The target negates the next 10 * X light wounds dealt to them, where X is equal 
 This spell makes one wall less than 6 inches thick insubstantial so that anyone can pass through it.  Alternatively, it can make any solid wall (or set of connected walls of one room) impermeable and impossible to penetrate.  This spell lasts for as long as your concentration.
 
 
-== Fire Spells
+Fire Spells
+-----------
 
 **The Fires From Within**
 
@@ -68,7 +71,8 @@ The target receives a number of serious wounds equal to your Fire.  You receive 
 This spell creates a soundless illusion.  The illusion must be one cohesive entity, and can be moved/shifted/altered as you desire.  It lasts as long as your concentration.
 
 
-== Water Spells
+Water Spells
+------------
 
 **Path to Inner Peace**
 
