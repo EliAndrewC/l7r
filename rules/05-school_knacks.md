@@ -10,11 +10,11 @@ costs the normal amount of twice the value you are raising the knack to.
 
 **Ring:** N/A
 
-A number of times per day equal to your rank in this knack, you may draw void 
-from your surroundings and regain a spent void point. If you target a character 
-when doing this, that character loses a void point; if that character has no 
-void points then the next time they would regain one they do not. You may do 
-this either while conversing with that character or when attacking or being 
+A number of times per adventure equal to your rank in this knack, you may draw 
+void from your surroundings and regain a spent void point. If you target a
+character when doing this, that character loses a void point; if that character
+has no void points then the next time they would regain one they do not. You may
+do this either while conversing with that character or when attacking or being 
 attacked by that character in combat, but you may not target the same character 
 more than once per day.
 

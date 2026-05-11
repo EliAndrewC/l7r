@@ -810,11 +810,12 @@ Void
 * otherworldliness
 
 **Special Ability:**
-Your maximum number of void points is equal to your highest ring
-plus your school rank. You regain a number of void points equal to
-your lowest Ring after a full night's rest, and one void point per
-2 hours for a partial night. However, you may not spend more void
-points on any one roll than your lowest Ring minus 1.
+Your maximum number of void points is equal to your highest ring plus your
+school rank.  After a full night's rest, your Absorb Void school knack resets
+to full usage and you regain spent void points equal to your lowest Ring.
+A partial night's rest restores 1 spent void point and 1 use of Absorb Void
+per 90 minutes of sleep.  However, you may not spend more void points on any
+one roll than your lowest Ring minus 1.
 
 **First Dan:**
 Roll one extra die on precepts and any two types of rolls of your choice.
@@ -829,10 +830,10 @@ to their total, where X is your precepts skill. You may only do
 this once per roll.
 
 **Fourth Dan:**
-Raise your current and maximum Void by 1. Raising your Void now
+Raise your current and maximum Void by 1.  Raising your Void now
 costs 5 fewer XP.
 Characters opposing you in contested rolls may not spend void
-points. If someone is opposing both you and someone else, they may
+points.  If someone is opposing both you and someone else, they may
 spend void points, but the bonus will only count against whoever
 else they're opposing.
 
