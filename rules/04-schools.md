@@ -814,8 +814,8 @@ Your maximum number of void points is equal to your highest ring plus your
 school rank.  After a full night's rest, your Absorb Void school knack resets
 to full usage and you regain spent void points equal to your lowest Ring.
 A partial night's rest restores 1 spent void point and 1 use of Absorb Void
-per 90 minutes of sleep.  However, you may not spend more void points on any
-one roll than your lowest Ring minus 1.
+per 90 minutes of sleep, up to the per-night total you can regain.  However, you
+may not spend more void points on any one roll than your lowest Ring minus 1.
 
 **First Dan:**
 Roll one extra die on precepts and any two types of rolls of your choice.
