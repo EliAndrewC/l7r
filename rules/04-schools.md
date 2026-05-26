@@ -117,8 +117,8 @@ roll.  This can lower a TN to below 0.
 
 **School Knacks:**
 * counterattack
+* double attack
 * iaijutsu
-* lunge
 
 **Special Ability:**
 You may counterattack as an interrupt action by spending only 1
