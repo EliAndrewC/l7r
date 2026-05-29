@@ -1,5 +1,17 @@
 # Combat
 
+## Table of Contents
+
+- [Initiative](#initiative)
+- [Attacking and Parrying](#attacking-and-parrying)
+- [Damage](#damage)
+- [Iaijutsu Duels](#iaijutsu-duels)
+- [Movement and Positioning](#movement-and-positioning)
+- [Archery Rules](#archery-rules)
+  - [TN to be hit](#tn-to-be-hit)
+  - [Parrying](#parrying)
+  - [Movement](#movement)
+
 ## Initiative
 
 Combat is divided into **rounds**, each of which has 10 **phases**.  You begin each round by rolling dice equal to your Void Ring plus 1 without spending void points or rerolling 10s, and keeping all but the highest die.  These are called **action dice** because each represents one action, and the number showing on each die is the phase in which that action takes place.
