@@ -115,7 +115,9 @@ When facing the archer and able to see the arrows coming, targets begin at their
 
 Anything above ~400 ft is beyond the range of a standard bow to hit a moving target.  Targets have the option to spend 1 action per round on **evasion**, i.e. bobbing and weaving to increase their TN to be hit by arrows by 5 for the entire round.  This is in addition to being able to spend 1 action to increase their movement for the round, and like spending an action for movement, you may spend an action from any phase regardless of what the current phase is.
 
-Targets unable to see the arrow coming have a base TN of 5 (increased by the above modifiers as applicable), and the usual rules apply: you may not attempt to parry or spend void points or other discretionary bonuses on the wound check.  Taking **cover** can make a character completely impossible to hit, or add an arbitrary amount to the TN, typically between +10 and +30 for partial cover.
+Targets unable to see the arrow coming have a base TN of 5 (increased by the above modifiers as applicable), and the usual rules apply: you may not attempt to parry or spend void points or other discretionary bonuses on the wound check.  Note that this is different from the TN of 0 which a character has when their back is turned during melee combat.
+
+Taking **cover** can make a character completely impossible to hit, or add an arbitrary amount to the TN, typically between +10 and +30 for partial cover.
 
 ### Parrying while under fire
 
