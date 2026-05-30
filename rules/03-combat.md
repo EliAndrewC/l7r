@@ -7,8 +7,8 @@
 - [Movement and Positioning](#movement-and-positioning)
 - [Archery Rules](#archery-rules)
   - [TN to be hit](#tn-to-be-hit)
-  - [Parrying](#parrying)
-  - [Movement](#movement)
+  - [Parrying while under fire](#parrying-while-under-fire)
+  - [Moving while under fire](#moving-while-under-fire)
 
 ## Initiative
 
@@ -68,16 +68,16 @@ Someone who is surrounded might decide to try to move between their attackers to
 
 ## Archery Rules
 
-Here are the high-level things we are trying to accomplish with these rules:
+Here are some high-level expectations that anyone should have when using a bow and arrow, which are reflected in the archery rules:
 
 - You miss more often than with normal attacks.
 - You deal more damage than normal hits when you do hit.
 - There is more variance (e.g. the amount of damage is more randomized).
 - Bushi school knacks can help (specifically double attack, iaijutsu, and counterattack).
-- Hitting close targets is easier than hitting targets far away.
+- Hitting close targets is easier than hitting targets which are far away.
 - Taking cover helps you avoid being hit.
 
-Shooting a bow and arrow works much like any other attack.  You make a normal initiative roll, and each action can be an attack, made with the regular **attack** skill.  However, *all* types of bonuses to attack rolls and damage rolls for *all* types of attacks stack (e.g. a 4th Dan Kakita bushi gets +2k0 + 5 to archery attack rolls because they get to add both the +1k0 iaijutsu and +1k0 double attack to the attack roll from their 1st Dan, +5 to iaijutsu attack rolls from their 2nd Dan, and +5 to damage from their 4th Dan technique which is normally to iaijutsu).
+Shooting a bow and arrow works much like any other attack.  You make a normal initiative roll, and each action die can be spent to make an archery attack, made with the regular **attack** skill.  However, *all* types of bonuses to attack rolls and damage rolls for *all* types of attacks stack (e.g. a 4th Dan Kakita bushi gets +2k0 + 5 to archery attack rolls because they get to add both the +1k0 iaijutsu and +1k0 double attack to the attack roll from their 1st Dan, +5 to iaijutsu attack rolls from their 2nd Dan, and +5 to damage from their 4th Dan technique which is normally to iaijutsu).
 
 When firing an arrow, you receive a bonus to your attack roll equal to the number of phases the action was held.  This number resets to zero after another arrow is fired, e.g. if someone has a phase 1 action and a phase 2 action, and they fire an arrow in phase 5, then they get +4 to their attack roll (because they were holding the action for 4 phases).  If they fire another arrow in the same phase, they receive a +0 bonus since firing the first arrow reset the accumulated bonus to 0.  You may also spend any number of extra actions available in the current phase to get +5 to the attack roll per extra action spent, and any bonuses from holding those actions also apply.  Finally, characters with the iaijutsu skill receive an additional bonus to their attack roll equal to their iaijutsu.
 
@@ -105,22 +105,22 @@ Here's how arrow damage works:
 
 When facing the archer and able to see the arrows coming, targets begin at their normal TN (5 + 5 * parry), modified by this table:
 
-| Distance      | Modifier  |
-| ------------- | --------- |
-| 0 - 49 ft     | +5        |
-| 50 - 99 ft    | +10       |
-| 100 - 199 ft  | +15       |
-| 200 - 399 ft  | +20       |
-| 400+ ft       | n/a       |
+| Distance     | Modifier  |
+| ------------ | --------- |
+| 0 - 49 ft    | +5        |
+| 50 - 99 ft   | +10       |
+| 100 - 199 ft | +15       |
+| 200 - 399 ft | +20       |
+| 400+ ft      | n/a       |
 
 Anything above ~400 ft is beyond the range of a standard bow to hit a moving target.  Targets have the option to spend 1 action per round on **evasion**, i.e. bobbing and weaving to increase their TN to be hit by arrows by 5 for the entire round.  This is in addition to being able to spend 1 action to increase their movement for the round, and like spending an action for movement, you may spend an action from any phase regardless of what the current phase is.
 
 Targets unable to see the arrow coming have a base TN of 5 (increased by the above modifiers as applicable), and the usual rules apply: you may not attempt to parry or spend void points or other discretionary bonuses on the wound check.  Taking **cover** can make a character completely impossible to hit, or add an arbitrary amount to the TN, typically between +10 and +30 for partial cover.
 
-### Parrying
+### Parrying while under fire
 
-Parry rolls are as normal, i.e. the TN of the parry is the result of the attack roll.  A successful parry roll negates the attack entirely, as it does with other attacks.  A failed parry roll negates the automatic serious wound but does not affect the damage in any other way (i.e. it does not negate the extra automatic serious wound from double attack or the probability adjustments from the attacker exceeding the TN to hit).  A parry attempt costs 10 feet of movement per round (see below).
+Parry rolls are as normal, i.e. the TN of the parry is the result of the attack roll.  A successful parry roll negates the attack entirely, as it does with other attacks.  A failed parry roll negates the automatic serious wound but does not affect the damage in any other way (i.e. it does not negate the extra automatic serious wound from double attack or the probability adjustments from the attacker exceeding the TN to hit).  A parry attempt costs some of a character's movement per round, with the amount depending on the circumstance but usually about 10 feet.
 
-### Movement
+### Moving while under fire
 
-As always, characters can move ~50 feet per round without spending any actions, and they can spend 1 action from any phase to move an additional number of feet per round equal to 50 times their Earth Ring.  A character who changes directions or suddenly leaves cover or dodges a different archer's attack may be counterattacked by characters with the **counterattack** knack.
+As always, characters can move ~50 feet per round without spending any actions, and they can spend 1 action from any phase to move an additional number of feet per round equal to 50 times their Earth Ring.  A character who changes directions or suddenly leaves cover or dodges a different archer's attack may be counterattacked by characters with the **counterattack** knack.  A character with a bow and arrow may suffer penalties if they attempt to track a target or fire their bow while they themselves are in motion; depending on the circumstances, these penalties may include a higher TN to hit the target and/or the loss of their accumulated bonuses for holding actions.
