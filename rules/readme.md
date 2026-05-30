@@ -1,5 +1,4 @@
-Introduction
-============
+# Introduction
 
 Legend of the Five Rings is an RPG originally put out by Five Rings Publishing Group, a company spun off from Alderac Entertainment Group and Isomedia partnership that was absorbed by Wizards of the Coast, which also bought TSR (the makers of Dungeons and Dragons), and is itself owned by Hasbro, which sold the rights to L5R back to Alderac, which later sold the rights to Fantasy Flight Games, which had already merged with Asmodee, which transferred the RPG to its Edge Studio subsidiary.
 
