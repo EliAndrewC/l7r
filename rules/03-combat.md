@@ -7,7 +7,7 @@
 - [Movement and Positioning](#movement-and-positioning)
 - [Archery Rules](#archery-rules)
   - [TN to be hit](#tn-to-be-hit)
-  - [Parrying while under fire](#parrying-while-under-fire)
+  - [Parrying arrows](#parrying-arrows)
   - [Moving while under fire](#moving-while-under-fire)
 
 ## Initiative
@@ -119,9 +119,9 @@ Targets unable to see the arrow coming have a base TN of 5 (increased by the abo
 
 Taking **cover** can make a character completely impossible to hit, or add an arbitrary amount to the TN, typically between +10 and +30 for partial cover.
 
-### Parrying while under fire
+### Parrying arrows
 
-Parry rolls are as normal, i.e. the TN of the parry is the result of the attack roll.  A successful parry roll negates the attack entirely, as it does with other attacks.  A failed parry roll negates the automatic serious wound but does not affect the damage in any other way (i.e. it does not negate the extra automatic serious wound from double attack or the probability adjustments from the attacker exceeding the TN to hit).  A parry attempt costs some of a character's movement per round, with the amount depending on the circumstance but usually about 10 feet.
+Parry rolls are as normal, i.e. the TN of the parry is the result of the attack roll.  A parried arrow typically represents a dodge rather than the arrow being blocked or deflected, so a successful parry roll negates the attack entirely, as it does with other attacks.  A failed parry roll negates the automatic serious wound but does not affect the damage in any other way (i.e. it does not negate the extra automatic serious wound from double attack or the probability adjustments from the attacker exceeding the TN to hit).  A parry attempt costs some of a character's movement per round, with the amount depending on the circumstance but usually about 10 feet.
 
 ### Moving while under fire
 

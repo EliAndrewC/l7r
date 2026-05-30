@@ -1,3 +1,9 @@
 .~lock*
 __pycache__
 current/
+previous/
+art/
+boards/
+maps/
+gm-assistant/
+character-sheet/
