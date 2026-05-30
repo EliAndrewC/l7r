@@ -26,7 +26,7 @@ If your character wishes to parry but has no actions in the current phase, you m
 
 ## Damage
 
-Your base damage depends on your weapon and Fire.  This damage starts at 4k2 for katana, 3k2 for spears and wakizashi, 2k2 for knives and other small weapons, and 0k2 for unarmed fighting.  You also add your Fire to the number of rolled dice of your base damage.  You can't spend void points on damage, but you roll an extra die for every 5 by which your attack roll exceeded its TN.  If the defender attempted and failed to parry, you don't roll these extra damage dice.
+Your base damage depends on your weapon and Fire.  This damage starts at 4k2 for katana, 3k2 for spears and wakizashi, 2k2 for knives and other small weapons, and 0k2 for unarmed fighting.  You also add your Fire to the number of rolled dice of your base damage.  You can't spend void points on damage, but you roll an extra die for every 5 by which your attack roll exceeded its TN.  If the defender attempted and failed to parry, the number of these extra damage dice roll is decreased by the defender's parry skill.
 
 When your characters gets hit, the damage is added to your character's **light wound total**.  You then roll (Water+1)k(Water) as a **wound check**.  The TN for this roll is your character's light wound total.
 
