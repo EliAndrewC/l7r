@@ -192,9 +192,13 @@
   - [Sparrow lands](#sparrow-lands)
   - [Sparrow land management](#sparrow-land-management)
 - [The Fox Clan](#the-fox-clan)
+  - [Fox Lineages and Provinces](#fox-lineages-and-provinces)
   - [The Kitsune Forest](#the-kitsune-forest)
+  - [Fox Lands](#fox-lands)
   - [The Fox clan's economy](#the-fox-clans-economy)
+  - [Fox Temples](#fox-temples)
 - [The Three Man Alliance](#the-three-man-alliance)
+  - [Economic Profiles](#economic-profiles)
   - [The Imperial Chancellery](#the-imperial-chancellery)
   - [The Lion/Crane War](#the-lioncrane-war)
 - [The Crane Wives](#the-crane-wives)
@@ -6892,6 +6896,16 @@ Asako, first of her name (daimyo of the Asako family of the new Phoenix clan) of
 
 While the Asako were unwilling to retract their hospitality, they sought out other places where their intransigent guests might be better suited.
 
+### Fox Lineages and Provinces
+
+The Fox clan has five lineages: the ruling Kitsune lineage plus four provincial lineages, each administering one of the four Fox provinces, which are named for the cardinal directions.
+
+- The Toke lineage administers the eastern Higashi province.
+- The Hokke lineage administers the northern Kita province.
+- The Saike lineage administers the western Nishi province.
+- The Nanke lineage administers the southern Minami province.
+- The ruling Kitsune lineage has authority over the forest itself, and always staffs the clan ministries of Rites and Revenue.
+
 ### The Kitsune Forest
 
 The third largest forest in the Empire is the Kitsune Mori ("fox forest").  Bordering the Lion on the north, the Scorpion on the west, the Crane on the east, and the Crab on the south, this vast forest is a source of many natural resources... and just as many supernatural troubles.
@@ -6904,21 +6918,49 @@ Osusuki was the black fox, and grew into a shapechanger who married one of Shinu
 
 Although she did not wield the title at the time, Shinun is now recognized as the first Fox Clan Champion, and the children of Osusuki and Akomachi ushered in a new age of coexistence, and the forest gradually ceased troubling the 4 major clans in its neighboring domains.
 
+### Fox Lands
+
+The Fox have roughly 10–20 miles of land surrounding the Kitsune forest in all directions, which totals a few thousand square miles.  This is significantly less than most domains — a typical domain is around 5,000 square miles, and the non-forested non-mountainous sections of Fox lands add up to well under 2,000 square miles — but it still gives them a meaningful amount of farmland.
+
+Fox crops are fairly typical for the latitude (the same as North Carolina): rice, barley, foxtail millet, and other regional staples.  The foxtail millet is grown not because of the clan's name but because it is a common crop for the region.
+
 ### The Fox clan's economy
 
 Although the Fox have less than half the farmland of an average domain, they are quite wealthy from the bounty of their vast forest.  Their priests meticulously track and measure the holy places within the forest which must remain forever free from logging.  That still leaves enough trees to supply the lumber for the entire region, accounting for easily ten thousand koku of income per year just from what can be transported by cart, with significantly more being shipped downriver.
+
+The forest's bounty makes the Fox a significantly richer clan than they would otherwise be, and that wealth is regulated through the Ministries of Rites and Revenue.  The Ministry of Revenue oversees lumber and ordinary charcoal; the Ministry of Rites oversees incense and "shrine-grade" white charcoal.  Many other forest resources are split between the two ministries along similar lines.  Each is a significant source of income on its own; there is no single dominant source of Fox wealth, but the many smaller sources together add up to a great deal.
 
 Charcoal is even more in demand, and is significantly easier to transport.  Fox clan charcoal burners are more numerous than farmers, easily identified by their soot-stained clothes.  White charcoal made from sacred oak is a specialty, highly sought-after for its odorless and practically smokeless flame.  The specialists who make such "shrine-grade" charcoal can be identified by their reddened "kiln eyes" and white-dusted clothing.
 
 Incense is even more profitable, with less overall demand but significantly easier transport costs.  The oleoresins and pinewood of the forest are perfect for making ""Kitsune-Koh" (fox scent) incense, highly sought after throughout the Empire.
 
+As one example of the many smaller sources of Fox wealth: Inari is the Fortune of rice and of foxes, and Fox rice is widely considered the most spiritually proper grain for offerings at Inari shrines anywhere in Rokugan.  The Kitsune family quietly tends a small "Inari paddy" reserve each year whose harvest is purchased in bulk by Inari shrines from Crab to Phoenix lands, at well above market rate.  The volume is too small to move the needle on Fox finances overall, but it is one among many such small endeavors that together net the clan several thousand extra koku per year.
+
+While the Ministries regulate the use of the forest's resources, the Seven Temples oversee the actual extraction of most of them: incense production, mushroom gathering, lumber milling, medicinal herbs and berries, charcoal burning, and so forth.  Hunting is the one exception — hunting rights and the prosecution of poachers are handled at the provincial level.  The Ministries of Rites and Revenue distribute usufruct rights over sections of the forest to the temples of the Seven Fortunes of Good Luck, which are organized in a nontraditional fashion.  (The Fox would say their temples are organized in a fashion so deeply traditional that the tradition predates the more common temple organization structures.)
+
 Fox lands have a higher population than their farmland could support because of the bounty of the forest.  Wild game, shelf mushrooms, and fruits and nuts support not only those who live on the forest's edge but the many hermits and other forest-dwellers who make their lives there.  That said, such foragers cannot afford to eat the best mushrooms, especially matsutake "pine mushrooms" which grow wild in symbiosis with the roots of pine trees.  Even more common wood-ear and shitake mushrooms are widely understood to have superior spiritual essence and purity when wild-harvested rather than cultivated.
+
+### Fox Temples
+
+There are no Grand Abbots in Fox lands; each temple has a "High Monk" instead, an archaic term that has not been used in over a thousand years in most other parts of the Empire.  Where other temples have Stewards, Fox temples have "Shika" (Knowers of Guests); and where other temples have a Council of Stewards, Fox temples have the "Three Bonds" who actually run the temple and its affairs:
+
+- The **High Monk**, equivalent to a Grand Abbot.
+- The **Temple Master**, the chief administrator of the temple's budget and operations.
+- The **Chief of Discipline**, who manages the monks themselves.
+
+These three are the only monks in a Fox temple required to be celibate.  No other position carries a vow of celibacy, and as a result the temple's revenue sources are effectively family businesses passed down along bloodlines within the temple.  Within Fox lands, the question is therefore not "which merchant families do X" but "which temples do X."  This includes moneylending, which is handled by the temples of Fukurokujin and Ebisu — except for loans specifically to fund weddings and dowries, which the Temple of Benten offers.
 
 ## The Three Man Alliance
 
 As two minor clans which share a border, the [Fox clan](#the-fox-clan) and the [Sparrow clan](#the-sparrow-clan) have been allies for many centuries.  [The Crane wives](#the-crane-wives) set to work after the founding of the Wasp clan to turn this longstanding alliance into a political and military bloc.
 
 These three minor clans of southeast Rokugan came together because none of them alone possessed any more power than a single vassal house... and in many ways each was even more vulnerable, due to lacking the protections of a patron Family of a great clan.  The Three Man Alliance has two main provisions: a military defense pact and a political caucus on the Imperial chancellery.
+
+### Economic Profiles
+
+Samurai are generally paid in a combination of rice and coin.  Rokugan is a food-rich but cash-poor society, so much of a samurai's stipend is paid in food, other goods, or even IOUs.  The Fox and Wasp clans are atypically cash-rich, since much of their income comes from collecting coinage directly — from selling goods, in the case of the Fox, and from collecting bounties, in the case of the Wasp.  As a result, both clans hold a much higher percentage of their wealth in coin than the rest of the Empire does, despite the Wasp being poor and the Fox being rich.
+
+The Sparrow, by contrast, are poor in both food and coin, and their contributions to the Three Man Alliance are rarely if ever financial.
 
 ### The Imperial Chancellery
 
@@ -7019,5 +7061,20 @@ Kyoma's former lineage members were recalcitrant, though fortunately only two of
 ...despite the persistent whispers that the Kyo house maintains animosity toward the Wasp clan, we will continue to quell such scurrilous notions.  Gifts such as the ones delivered with this letter demonstrate the friendship of the Wasp, and the release of Kyo Byakuya shall further prove the emptiness of the troublesome notion that the Kyo opposes His Imperial Majesty's wisdom in chartering a new minor clan...
 
 Byakuya runs Kyoma's household in Sparrow lands, while raising his young daughter Hatsuko.
+
+Tsuruchi Tatsuki:
+
+Tatsuki is deeply superstitious, and has been a generous patron to the PCs during their time in Kitsune lands.
+
+Her first gift was a set of tiny pouches with dog hair sewn inside; the scent is faint to a human nose, but she personally blessed each pouch to ward off mischievous fox influences.
+
+She also cautioned the PCs about Haru Higan, when many samurai households give out food to peasants and visitors to the city.  When accepting rice from a stranger, she warned, wait an hour before eating it, and do not eat it at all if you cannot remember the face of the one who gave it to you; if it was a woman, wait only half that time to see whether the image begins to fade.  Before accepting food in a house you visit by invitation, ensure you can either see the light of the kitchen fire or feel its warmth.
+
+When the PCs spoke of journeying into the Kitsune forest, Tatsuki gave each of them three amulets and the party a single shared fourth:
+
+- **Guest-token (kakuyō-fu)** — a small red silk pouch the size of a thumb, containing a folded paper bearing the seal of the specific Kitsune household sponsoring the journey.  Worn on the cord of the scabbard or tied to a sash.  This is the baseline gift; every visitor whose presence is officially approved by a Kitsune host receives one.  As long as it is carried openly, the wood's fox-spirits recognize the bearer as not-to-be-troubled.  Lose it or hide it deliberately and the protection lapses immediately.
+- **Pilgrim's bell (junrei-suzu)** — a small brass bell, finger-sized, tied to a walking staff or the side of a pack.  Each bell's tone is attuned with the shrines that blessed it; as long as it is ringing on the path, the shrine's awareness extends to the bearer, and most fox-illusions cannot easily replace the way back.  If the bearer sets the staff down and the bell falls silent, the protection lapses until they pick it up again.
+- **Iron pin (kurogane-bari)** — a small black iron pin, worn in the hair or pinned to the inside of clothing where it touches the skin.  Iron is anathema to most spirits, and a single pin worn against the skin is known to disrupt a range of low-grade fox glamours.
+- **Spirit-mirror (kage-tama)** — the shared party item, a small disc of polished obsidian or smoky quartz, the size of a copper zeni, worn on a cord around the neck.  Held up against a confusing path, a hut that wasn't there yesterday, or a person whose face seems off, the surface reveals whether what one sees is real.
 
 Note the order in which I've presented all of this information.  We spent considerable time talking about the realities of Rokugan's geography, culture, caste system, government, and organization before we discussed anything supernatural.  And when we finally did get to the supernatural, much of it is ambiguous and difficult to understand or explain.  This reflects the "low-fantasy" nature of the setting.  The supernatural is very real, and "everyone knows" that "foxes are always kidnapping children and replacing them" and "everyone" knows someone who has seen a ghost, but it's unclear (and deliberately undefined!) how often any of these things are true!
