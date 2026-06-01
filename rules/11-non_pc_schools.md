@@ -52,7 +52,7 @@ Roll one extra die on any three rolls.
 You get a free raise on any type of roll.
 
 **Third Dan:**
-You get X free raises per day, where X is your Rank.  These may be spent on any TN or contested roll after seeing your roll.
+You get X free raises per day, where X is your Rank.  These may be spent after seeing your roll on any TN or contested roll.
 
 **Fourth Dan:**
 Raise your current and maximum School Ring by 1.  Raising your School Ring now costs 5 fewer XP.  You may use your 3rd Dan free raises on rolls made by any Rokugani who can see or hear you, and if you do then they also add their honor to the roll.
@@ -79,7 +79,7 @@ Roll one extra die on any three rolls.
 You get a free raise on any type of roll.
 
 **Third Dan:**
-Each adventure you get 2X free raises, where X is your precepts skill, which may be spent on attack, wound checks, and any three skills after seeing your roll.  You may not spend more than X of these free raises on a single roll.  You may also perform priest rituals at the cost of one free raise per ritual.
+Each adventure you get 2X free raises, where X is your precepts skill, which may be spent after seeing your roll on attack, wound checks, and any three skills.  You may not spend more than X of these free raises on a single roll.  You may also perform priest rituals at the cost of one free raise per ritual.
 
 **Fourth Dan:**
 Raise your current and maximum School Ring by 1.  Raising your School Ring now costs 5 fewer XP.  When you would roll fewer than 10 dice on athletics actions (i.e. when you roll (2 * Ring)k(Ring) for physical actions), roll 10 dice instead.
@@ -133,7 +133,7 @@ Roll one extra die on precepts, commerce, and wound checks.
 You get a free raise on any type of roll.
 
 **Third Dan:**
-Each adventure you get 2X free raises, where X is your precepts skill, which may be spent on commerce, heraldry, sincerity, tact, attack, and wound checks after seeing your roll.  You may not spend more than X of these free raises on a single roll.
+Each adventure you get 2X free raises, where X is your precepts skill, which may be spent after seeing your roll on commerce, heraldry, sincerity, tact, attack, and wound checks.  You may not spend more than X of these free raises on a single roll.
 
 **Fourth Dan:**
 Raise your current and maximum Water by 1.  Raising your School Ring now costs 5 fewer XP.  Your skill is considered 2 higher for the purpose of computing free raises for any contested roll you did not initiate.

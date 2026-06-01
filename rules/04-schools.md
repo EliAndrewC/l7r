@@ -239,7 +239,7 @@ Roll one extra die on investigation, interrogation, and wound checks.
 You get a free raise on interrogation rolls.
 
 **Third Dan:**
-Each adventure you get 2X free raises, where X is your investigation skill, which may be spent on interrogation, intimidation, law, underworld, attack, and wound checks after seeing your roll.  You may not spend more than X of these free raises on a single roll.
+Each adventure you get 2X free raises, where X is your investigation skill, which may be spent after seeing your roll on interrogation, intimidation, law, underworld, attack, and wound checks.  You may not spend more than X of these free raises on a single roll.
 
 **Fourth Dan:**
 Raise your current and maximum Water by 1.  Raising your Water now costs 5 fewer XP.  You automatically know the Void, parry, and phase of the next action of each character during combat, and you know the result of contested rolls made against you out of combat.
@@ -266,7 +266,7 @@ Roll one extra die on damage, interrogation, and wound checks.
 You get a free raise on interrogation rolls.
 
 **Third Dan:**
-Each adventure you get 2X free raises, where X is your investigation skill, which may be spent on interrogation, intimidation, law, underworld, attack, and wound checks after seeing your roll.  You may also spend these free raises on damage rolls against targets with the Shadowlands Taint after seeing your roll.  You may not spend more than X of these free raises on a single roll.
+Each adventure you get 2X free raises, where X is your investigation skill, which may be spent after seeing your roll on interrogation, intimidation, law, underworld, attack, and wound checks.  You may also spend these free raises after seeing your roll on damage rolls against targets with the Shadowlands Taint.  You may not spend more than X of these free raises on a single roll.
 
 **Fourth Dan:**
 Raise your current and maximum Earth by 1.  Raising your Earth now costs 5 fewer XP.  Roll an extra action die in combat, which may not be used to attack targets without the Shadowlands Taint.
@@ -459,7 +459,7 @@ Roll one extra die on attack, damage, and wound checks.
 You get a free raise on attack rolls.
 
 **Third Dan:**
-Each adventure you get 2X free raises, where X is your precepts skill, which may be spent on history, law, precepts, wound checks, and attack after seeing your roll.  You may not spend more than X of these free raises on a single roll.  These free raises may also be spent on action dice at any time, lowering a single die by 5 phases.
+Each adventure you get 2X free raises, where X is your precepts skill, which may be spent after seeing your roll on history, law, precepts, wound checks, and attack.  You may not spend more than X of these free raises on a single roll.  These free raises may also be spent on action dice at any time, lowering a single die by 5 phases.
 
 **Fourth Dan:**
 Raise your current and maximum School Ring by 1.  Raising your School Ring now costs 5 fewer XP.  Failed parry attempts do not lower your rolled damage dice.
@@ -488,7 +488,7 @@ Roll one extra die on tact, manipulation, and wound checks.
 You get a free raise on manipulation rolls.
 
 **Third Dan:**
-Each adventure you get 2X free raises, where X is your tact skill, which may be spent on heraldry, manipulation, sincerity, tact, attack, and wound checks after seeing your roll.  You may not spend more than X of these free raises on a single roll.
+Each adventure you get 2X free raises, where X is your tact skill, which may be spent after seeing your roll on heraldry, manipulation, sincerity, tact, attack, and wound checks.  You may not spend more than X of these free raises on a single roll.
 
 **Fourth Dan:**
 Raise your current and maximum Air by 1.  Raising your Air now costs 5 fewer XP.  Once per target per conversation or fight, you get a temporary void point after a successful attack or manipulation roll.
@@ -515,7 +515,7 @@ Roll one extra die on counterattack, manipulation, and wound checks.
 You get a free raise on manipulation rolls.
 
 **Third Dan:**
-Each adventure you get 2X free raises, where X is your culture skill, which may be spent on bragging, culture, heraldry, manipulation, counterattack, and wound checks after seeing your roll.  You may not spend more than X of these free raises on a single roll.
+Each adventure you get 2X free raises, where X is your culture skill, which may be spent after seeing your roll on bragging, culture, heraldry, manipulation, counterattack, and wound checks.  You may not spend more than X of these free raises on a single roll.
 
 **Fourth Dan:**
 Raise your current and maximum School Ring by 1.  Raising your School Ring now costs 5 fewer XP.  When attacking a target who has not attacked you this round, or counterattacking a target who is attacking you for the first time this round, you receive a bonus equal to the current phase.
@@ -569,13 +569,13 @@ Roll one extra die on attack, bragging, and wound checks.
 You get a free raise on attack rolls.
 
 **Third Dan:**
-Each adventure you get 2X free raises, where X is your bragging skill, which may be spent on bragging, culture, heraldry, intimidation, attack, and wound checks after seeing your roll.  You may not spend more than X of these free raises on a single roll.
+Each adventure you get 2X free raises, where X is your bragging skill, which may be spent after seeing your roll on bragging, culture, heraldry, intimidation, attack, and wound checks.  You may not spend more than X of these free raises on a single roll.
 
 **Fourth Dan:**
 Raise your current and maximum School Ring by 1.  Raising your School Ring now costs 5 fewer XP.  When making a damage roll for an unparried attack for which you are not keeping extra damage dice, you always roll 10 dice.
 
 **Fifth Dan:**
-Once per conversation or combat round, you can apply an oppose knack or your Special ability an additional time.  You may use your Special Ability after seeing the result of any type of attack roll made against you before damage is rolled, which cancels the attack and uses the attack roll as the parry roll for your own attack.
+Once per conversation or combat round, you can apply an oppose knack or your Special ability an additional time.  You may use your Special Ability after seeing the result of any type of attack roll made against you before damage is rolled, which cancels the attack and uses the attack roll as the parry roll used to defend against your attack.
 
 ### Isawa Ishi
 
@@ -625,7 +625,7 @@ Roll one extra die on interrogation, sincerity, and wound checks.
 You get a free raise on interrogation rolls.
 
 **Third Dan:**
-Each adventure you get 2X free raises, where X is your sincerity skill, which may be spent on commerce, heraldry, interrogation, sincerity, attack, and wound checks after seeing your roll.  You may not spend more than X of these free raises on a single roll.
+Each adventure you get 2X free raises, where X is your sincerity skill, which may be spent after seeing your roll on commerce, heraldry, interrogation, sincerity, attack, and wound checks.  You may not spend more than X of these free raises on a single roll.
 
 **Fourth Dan:**
 Raise your current and maximum Water by 1.  Raising your Water now costs 5 fewer XP.  Your Rank is considered 5.0 higher for the purpose of calculating your stipend.
@@ -679,7 +679,7 @@ Roll one extra die on attack, sincerity, and wound checks.
 You get a free raise on acting, sincerity, and sneaking rolls.
 
 **Third Dan:**
-Each adventure you get 2X free raises, where X is your sincerity skill, which may be spent on acting, heraldry, sincerity, sneaking, attack, and wound checks after seeing your roll.  You may not spend more than X of these free raises on a single roll.
+Each adventure you get 2X free raises, where X is your sincerity skill, which may be spent after seeing your roll on acting, heraldry, sincerity, sneaking, attack, and wound checks.  You may not spend more than X of these free raises on a single roll.
 
 **Fourth Dan:**
 Raise your current and maximum Air by 1.  Raising your Air now costs 5 fewer XP.  Your Rank is considered 5.0 higher for the purpose of calculating your stipend.
@@ -706,7 +706,7 @@ Roll one extra die on precepts and when rolling commune or spellcasting with you
 You get a free raise on precepts and when rolling commune or spellcasting with your School Ring.
 
 **Third Dan:**
-Each adventure you get 2X free raises, where X is your precepts skill, which may be spent on bragging, intimidation, precepts, tact, wound checks, and when rolling commune or spellcasting with your School Ring after seeing your roll.  You may not spend more than X of these free raises on a single roll.
+Each adventure you get 2X free raises, where X is your precepts skill, which may be spent after seeing your roll on bragging, intimidation, precepts, tact, wound checks, and when rolling commune or spellcasting with your School Ring.  You may not spend more than X of these free raises on a single roll.
 
 **Fourth Dan:**
 Raise your current and maximum School Ring by 1.  Raising your School Ring now costs 5 fewer XP.  You may cast one spell per round as an interrupt action.
@@ -733,7 +733,7 @@ Roll one extra die on athletics, initiative, and wound checks.
 You get a free raise on athletics rolls.
 
 **Third Dan:**
-Each day you get 4X free raises to spend on athletics after seeing your roll, where X is your precepts skill.  You may not spend more than X of these free raises on a single roll.
+Each day you get 4X free raises to spend after seeing your roll on athletics, where X is your precepts skill.  You may not spend more than X of these free raises on a single roll.
 
 **Fourth Dan:**
 Raise your current and maximum Void by 1.  Raising your School Ring now costs 5 fewer XP.  You may reroll any contested roll once after seeing your roll, but you must keep the new roll even if it's lower than the original roll.
