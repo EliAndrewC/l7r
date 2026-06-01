@@ -194,6 +194,7 @@
 - [The Fox Clan](#the-fox-clan)
   - [Fox Lineages and Provinces](#fox-lineages-and-provinces)
   - [The Kitsune Forest](#the-kitsune-forest)
+  - [The Imperial Road Through Minami](#the-imperial-road-through-minami)
   - [Fox Lands](#fox-lands)
   - [The Fox clan's economy](#the-fox-clans-economy)
   - [Fox Temples](#fox-temples)
@@ -6917,6 +6918,22 @@ The line of the Kitsune daimyo are directly traced to these ancient shamans.  Sh
 Osusuki was the black fox, and grew into a shapechanger who married one of Shinun's daughters and thus became the progenitor of the Kitsune family.  Akomachi was the white fox, who grew into a 10-tailed fox spirit who continues to appear to travelers in the form of a silver-haired woman with hands as flawless as snow, alternately granting wishes or stealing hearts or both.  Akomachi is the ancestor of most of the humans in Kitsune lands, and Akomachi is the ancestor of most of the foxes in the Kitsune forest.
 
 Although she did not wield the title at the time, Shinun is now recognized as the first Fox Clan Champion, and the children of Osusuki and Akomachi ushered in a new age of coexistence, and the forest gradually ceased troubling the 4 major clans in its neighboring domains.
+
+### The Imperial Road Through Minami
+
+An Imperial road runs through Minami, the southernmost Fox province, administered by the Nanke lineage.  Unlike every other stretch of Imperial road in the Empire, this one has no waystations.  In the early centuries of the Empire, when waystations were sparser and the Imperial roads less developed, the waystations along this road were repeatedly abandoned after strange afflictions struck the samurai posted to staff them.  Eventually it became understood that this section of road is perilous to outsiders who linger — though travelers passing through are mostly unbothered, and locals are entirely unaffected.  It is visitors in the countryside, even and especially along the Imperial road, who find themselves targeted if they stay in one place for too long.
+
+The cause is the wood itself.  As with much of the Kitsune Mori, the Fox have channeled rather than tamed the feral power of the forest: the wood watches outside, not inside.  Fox holdings — villages, clan roads — sit where the wood has grown accustomed to them over centuries, and the forest does not police itself.  The Imperial road is different.  It is a corridor cut through the wood, a thing the forest did not grow and does not consider part of itself, but a thing it can watch over, the way one watches a guest's path to the gate.
+
+The historical bargain was struck in what the Fox keep as the Year of the Long Cutting, when the Imperial road through the southern reach of Kitsune Mori was first surveyed.  (The exact date is contested.)  The wood was furious.  Travelers vanished from the unfinished road for three years running, and the Emperor of the day prepared to send Lion legions to burn the offending wood back to a defensible margin.  The Kitsune daimyo of that generation rode alone into the Mori for nine days and returned with a treaty: the wood would not only stop taking the Emperor's travelers, it would guard them — provided the Fox acted as the wood's hand and mouth, set the markers, kept the rituals, and bore the cost.  In return, the Kitsune annually surrender a portion of their hunting and foraging rights inside the wood, and one Kitsune daughter per generation is sent into the forest to be fostered among the fox-spirits for seven years.
+
+The treaty's terms are narrow by design.  The wood's mercy was negotiated for the Emperor's travelers on the Emperor's road; it does not extend to clan roads, which were never the cause of the original quarrel — and the wood is jealous of expanding promises it did not make.
+
+The wardings the Fox maintain along the road are not divine punishment.  They are markers, the means by which the forest learns a name.  Once the forest knows, the curse is simply that the forest hunts you, in its own ways and at its own pace.  Most of these curses are not lethal but erosive: pilfered food, twisted paths, faces forgotten, dreams that smell of fur.  Many bandits have simply given up the trade.  Others have gone mad, or have found themselves deep in the wood, untouched but uncertain how they came to be there.
+
+The wardings themselves are maintained by the County Magistrate of Ochiba county, a Fox priest, who is responsible for three forms of marker.  **Vermillion Threshold Stones** (akami no sakai-ishi) are river-stones the size of two fists, painted with cinnabar fox-tracks and set at intervals along every stretch of Imperial road within or adjoining Fox lands; each has been "fed" a drop of fox blood in a ritual the Kitsune keep secret.  **Knot-Cords** (kami-musubi) are plaited red silk cords, knotted at intervals and tied to roadside posts or low tree-branches; each cord includes a single strand of hair from a Kitsune samurai of the current generation, gathered and rebraided each year at Setsubun, and the number of knots between two posts corresponds to one of the great fox-spirits.  **Buried Pact-Bowls** (chigiri-wan) are small lacquer bowls buried beneath the threshold stone at each County Magistrate's checkpoint that adjoins Fox lands; each contains rice, three copper sen, and a tuft of fox-fur, and is renewed every seventh year in a ceremony attended by the magistrate and a Kitsune emissary.
+
+A Pact-Bowl is a registered offering.  A traveler who passes the threshold has, by Fox reckoning, taken a grain of the rice — accepting the wood's hospitality.  To then waylay another traveler past that point is to have taken without offering in return.  The debt is owed not to the Kitsune but to the wood, and the wood collects in its own currency: time, sleep, memory, luck.  Those who carry a Pact-Bowl debt for a year may find they can no longer remember the names of their own children.
 
 ### Fox Lands
 

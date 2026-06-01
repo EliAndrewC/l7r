@@ -1,33 +1,37 @@
-# Samurai Character Schools
+# Samurai Schools
 
-- [Akodo Bushi](#akodo-bushi)
-- [Bayushi Bushi](#bayushi-bushi)
-- [Daidoji Yojimbo](#daidoji-yojimbo)
-- [Hida Bushi](#hida-bushi)
-- [Hiruma Scout](#hiruma-scout)
-- [Isawa Duelist](#isawa-duelist)
-- [Kakita Duelist](#kakita-duelist)
-- [Kitsuki Magistrate](#kitsuki-magistrate)
-- [Kuni Witch Hunter](#kuni-witch-hunter)
-- [Matsu Bushi](#matsu-bushi)
-- [Mirumoto Bushi](#mirumoto-bushi)
-- [Otaku Bushi](#otaku-bushi)
-- [Shiba Bushi](#shiba-bushi)
-- [Shinjo Bushi](#shinjo-bushi)
-- [Yogo Warden](#yogo-warden)
-- [Brotherhood of Shinsei Monk](#brotherhood-of-shinsei-monk)
-- [Courtier](#courtier)
-- [Doji Artisan](#doji-artisan)
-- [Ide Diplomat](#ide-diplomat)
-- [Ikoma Bard](#ikoma-bard)
-- [Isawa Ishi](#isawa-ishi)
-- [Merchant](#merchant)
-- [Priest](#priest)
-- [Shosuro Actor](#shosuro-actor)
-- [Shugenja](#shugenja)
-- [Togashi Ise Zumi](#togashi-ise-zumi)
+- [Bushi schools](#bushi-schools)
+  - [Akodo Bushi](#akodo-bushi)
+  - [Bayushi Bushi](#bayushi-bushi)
+  - [Daidoji Yojimbo](#daidoji-yojimbo)
+  - [Hida Bushi](#hida-bushi)
+  - [Hiruma Scout](#hiruma-scout)
+  - [Isawa Duelist](#isawa-duelist)
+  - [Kakita Duelist](#kakita-duelist)
+  - [Kitsuki Magistrate](#kitsuki-magistrate)
+  - [Kuni Witch Hunter](#kuni-witch-hunter)
+  - [Matsu Bushi](#matsu-bushi)
+  - [Mirumoto Bushi](#mirumoto-bushi)
+  - [Otaku Bushi](#otaku-bushi)
+  - [Shiba Bushi](#shiba-bushi)
+  - [Shinjo Bushi](#shinjo-bushi)
+  - [Yogo Warden](#yogo-warden)
+- [Non-bushi schools](#non-bushi-schools)
+  - [Brotherhood of Shinsei Monk](#brotherhood-of-shinsei-monk)
+  - [Courtier](#courtier)
+  - [Doji Artisan](#doji-artisan)
+  - [Ide Diplomat](#ide-diplomat)
+  - [Ikoma Bard](#ikoma-bard)
+  - [Isawa Ishi](#isawa-ishi)
+  - [Merchant](#merchant)
+  - [Priest](#priest)
+  - [Shosuro Actor](#shosuro-actor)
+  - [Shugenja](#shugenja)
+  - [Togashi Ise Zumi](#togashi-ise-zumi)
 
-## Akodo Bushi
+## Bushi schools
+
+### Akodo Bushi
 
 **School Ring:** Water
 
@@ -54,7 +58,7 @@ Raise your current and maximum Water by 1.  Raising your Water now costs 5 fewer
 **Fifth Dan:**
 After you take damage, you may spend void points to deal 10 light wounds to the attacker for each void point spent, up to the amount of damage you took.
 
-## Bayushi Bushi
+### Bayushi Bushi
 
 **School Ring:** Fire
 
@@ -81,7 +85,7 @@ Raise your current and maximum Fire by 1.  Raising your Fire now costs 5 fewer X
 **Fifth Dan:**
 When you fail a wound check, calculate your serious wounds as if you had half your number of light wounds (rounded down).
 
-## Daidoji Yojimbo
+### Daidoji Yojimbo
 
 **School Ring:** Water
 
@@ -108,7 +112,7 @@ Raise your current and maximum Water by 1.  Raising your Water now costs 5 fewer
 **Fifth Dan:**
 After you or a character for whom you've counterattacked makes a wound check, lower the TN to hit the attacker the next time they are attacked by the amount by which the wound check exceeded the damage roll.  This can lower the TN to a negative number.
 
-## Hida Bushi
+### Hida Bushi
 
 **School Ring:** Water
 
@@ -135,7 +139,7 @@ Raise your current and maximum Water by 1.  Raising your Water now costs 5 fewer
 **Fifth Dan:**
 When you counterattack successfully, note the quantity X by which the counterattack roll exceeded its TN.  Add X to your wound check on the damage from the attack you counterattacked.  You may choose to counterattack after seeing the attacker's damage roll, but that roll goes through even if your counterattack impairs or kills the attacker.
 
-## Hiruma Scout
+### Hiruma Scout
 
 **School Ring:** Air
 
@@ -162,7 +166,7 @@ Raise your current and maximum Air by 1.  Raising your Air now costs 5 fewer XP.
 **Fifth Dan:**
 After making a successful or unsuccessful parry roll, the attacker deals 10 fewer light wounds on their next 2 damage rolls.
 
-## Isawa Duelist
+### Isawa Duelist
 
 **School Ring:** Water
 
@@ -189,7 +193,7 @@ Raise your current and maximum Water by 1.  Raising your Water now costs 5 fewer
 **Fifth Dan:**
 After a successful wound check, you may add X to a future wound check this combat, where X is the amount by which the wound check exceeded the light wound total.
 
-## Kakita Duelist
+### Kakita Duelist
 
 **School Ring:** Fire
 
@@ -216,7 +220,7 @@ Raise your current and maximum Fire by 1.  Raising your Fire now costs 5 fewer X
 **Fifth Dan:**
 At the beginning of phase 0 in each combat round, make a contested iaijutsu roll against an opponent.  If the opponent doesn't have iaijutsu, they may roll attack instead, and you get an extra free raise.  Make a damage roll against this opponent; if you won the contested roll then roll 1 extra damage die for every 5 by which your roll exceeded your opponent's, and if you lost then roll 1 fewer damage die for every 5 by which their roll exceeded yours.
 
-## Kitsuki Magistrate
+### Kitsuki Magistrate
 
 **School Ring:** Water
 
@@ -243,7 +247,7 @@ Raise your current and maximum Water by 1.  Raising your Water now costs 5 fewer
 **Fifth Dan:**
 Your presence is so overwhelming that the Air, Fire, and Water Rings of chosen characters are reduced by 1.  You may do this to any one character, or you may do it to multiple characters so long as the sum of their experience does not exceed your experience.  This does not work during the iaijutsu phase of a duel, and it does not stack with other Kitsuki Magistrates targeting the same character.
 
-## Kuni Witch Hunter
+### Kuni Witch Hunter
 
 **School Ring:** Earth
 
@@ -270,7 +274,7 @@ Raise your current and maximum Earth by 1.  Raising your Earth now costs 5 fewer
 **Fifth Dan:**
 After you take light wounds and resolve your wound check, you may choose to inflict that number of light wounds on the attacker who dealt them and take half that amount yourself.  If the attacker has the Shadowlands Taint, then you may also use an attack in the current phase to add to that damage.
 
-## Matsu Bushi
+### Matsu Bushi
 
 **School Ring:** Fire
 
@@ -297,7 +301,7 @@ Raise your current and maximum Fire by 1.  Raising your Fire now costs 5 fewer X
 **Fifth Dan:**
 After you deal light wounds which result in the target taking one or more serious wounds, their light wound total is reset to 15 instead of 0.
 
-## Mirumoto Bushi
+### Mirumoto Bushi
 
 **School Ring:** Void
 
@@ -324,7 +328,7 @@ Raise your current and maximum Void by 1.  Raising your Void now costs 5 fewer X
 **Fifth Dan:**
 Your void points provide an extra +10 when spent on combat rolls.
 
-## Otaku Bushi
+### Otaku Bushi
 
 **School Ring:** Fire
 
@@ -351,7 +355,7 @@ Raise your current and maximum Fire by 1.  Raising your Fire now costs 5 fewer X
 **Fifth Dan:**
 After a successful attack or lunge roll, you may decrease the number of rolled damage dice by 10, to a minimum of 2, to automatically deal a serious wound to your target.  You may only do this once per damage roll.
 
-## Shiba Bushi
+### Shiba Bushi
 
 **School Ring:** Air
 
@@ -378,7 +382,7 @@ Raise your current and maximum Air by 1.  Raising your Air now costs 5 fewer XP.
 **Fifth Dan:**
 After you successfully parry, the TN to hit the parried attacker on the next attack directed at them this combat is lowered by the amount by which your parry roll exceeded its TN.  This can lower the TN to a negative number.
 
-## Shinjo Bushi
+### Shinjo Bushi
 
 **School Ring:** Air
 
@@ -405,7 +409,7 @@ Raise your current and maximum Air by 1.  Raising your Air now costs 5 fewer XP.
 **Fifth Dan:**
 After you successfully parry, you may add X to a future wound check this combat after seeing your roll, where X is the amount by which your parry roll exceeded its TN.
 
-## Yogo Warden
+### Yogo Warden
 
 **School Ring:** Earth
 
@@ -432,7 +436,9 @@ Raise your current and maximum Earth by 1.  Raising your Earth now costs 5 fewer
 **Fifth Dan:**
 TBD
 
-## Brotherhood of Shinsei Monk
+## Non-bushi schools
+
+### Brotherhood of Shinsei Monk
 
 Since before the dawn of history, pious men and women have banded together to walk the path of enlightenment.  They live with one foot in the world and the other outside it, learning to act according to the Tao, which is the way of all things.  Long before the Great Ancestors brought civilization to the world, they defended their fellow man from the cruel and brutal warlords of that age.  The Hantei perceived the special place occupied by those who take up such a life, designating them outside the Celestial Order which defines society; monks in the Brotherhood are neither people nor half-people nor non-people, but are instead a category of their own.  To this day the braver of them continue to protect the peasantry from thieves and bandits, but braver still are those willing to stand up to their samurai rulers and challenge those among them who fail to act righteously.
 
@@ -461,7 +467,7 @@ Raise your current and maximum School Ring by 1.  Raising your School Ring now c
 **Fifth Dan:**
 Once per round after you have been attacked but before damage is rolled, you may spend an action die from any phase to attack your attacker.  If your attack roll is at least as high as your attacker's then the attack against you is canceled; your attack continues and you hit/miss and roll damage as normal.
 
-## Courtier
+### Courtier
 
 Within each Clan are several great Families, each of which is divided into noble Houses, each of which contains numerous proud lineages which serve their daimyo by filling hundreds of government positions.  Personal relationships are the glue that hold this system together, which would collapse without constant communication and cooperation.  Many samurai therefore serve by taking up the pen instead of the katana, whether in a government post or simply in keeping their own lineage informed and well-connected.  However, most courtiers still take seriously their duties as samurai ("those who make war"), and train hard to be capable of defending their domain with the wakizashi when the pen fails.
 
@@ -490,7 +496,7 @@ Raise your current and maximum Air by 1.  Raising your Air now costs 5 fewer XP.
 **Fifth Dan:**
 Add your Air to TN and contested rolls.  This stacks with your Special Ability for attack rolls.
 
-## Doji Artisan
+### Doji Artisan
 
 **School Ring:** Air or Water
 
@@ -517,7 +523,7 @@ Raise your current and maximum School Ring by 1.  Raising your School Ring now c
 **Fifth Dan:**
 Add (X-10) / 5 to TN and contested rolls, where X is the TN or your opponent's roll.
 
-## Ide Diplomat
+### Ide Diplomat
 
 **School Ring:** Any non-Void
 
@@ -544,7 +550,7 @@ Raise your current and maximum School Ring by 1.  Raising your School Ring now c
 **Fifth Dan:**
 Gain a temporary void point whenever you spend a void point that was not gained from this technique.
 
-## Ikoma Bard
+### Ikoma Bard
 
 **School Ring:** Any non-Void
 
@@ -571,7 +577,7 @@ Raise your current and maximum School Ring by 1.  Raising your School Ring now c
 **Fifth Dan:**
 Once per conversation or combat round, you can apply an oppose knack or your Special ability an additional time.  You may use your Special Ability after seeing the result of any type of attack roll made against you before damage is rolled, which cancels the attack and uses the attack roll as the parry roll for your own attack.
 
-## Isawa Ishi
+### Isawa Ishi
 
 **School Ring:** Void
 
@@ -598,7 +604,7 @@ Raise your current and maximum Void by 1.  Raising your Void now costs 5 fewer X
 **Fifth Dan:**
 You may completely negate another character's school or profession for the remainder of a conversation or fight.  Against characters with a school, you must spend void points equal to twice their school rank.  Against characters with no school, you must spend void points equal to their experience divided by 50 (rounded down).  This is instantaneous and does not require spending an action.
 
-## Merchant
+### Merchant
 
 Every daimyo needs trustworthy people to collect their taxes, to manage their budgets, to keep their armies equipped and supplied.  And every lineage knows that increased wealth can mean increased influence and power.  Whether serving as government officials or running caravans throughout the Empire or managing their family's investments, samurai merchants usually control how resources are collected and distributed.  They lead more active lives than most bushi, and often face greater danger, whether from bandits or rivals or criminal gangs.
 
@@ -627,7 +633,7 @@ Raise your current and maximum Water by 1.  Raising your Water now costs 5 fewer
 **Fifth Dan:**
 After making any non-initiative roll, you may reroll some of the dice so long as the dice being rerolled add up to at least 5\*(X-1) where X is the number of dice being rerolled.  You may only do this once per roll.  As per your Special Ability, you may spend void points before and/or after this reroll.
 
-## Priest
+### Priest
 
 **School Ring:** Any non-Void
 
@@ -654,7 +660,7 @@ Raise your current and maximum School Ring by 1.  Raising your School Ring now c
 **Fifth Dan:**
 You may spend the points from your conviction knack on your allies' rolls, and your conviction points refresh after each conversation and combat round.
 
-## Shosuro Actor
+### Shosuro Actor
 
 **School Ring:** Air
 
@@ -681,7 +687,7 @@ Raise your current and maximum Air by 1.  Raising your Air now costs 5 fewer XP.
 **Fifth Dan:**
 Add your lowest three dice to non-initiative rolls.  (Some dice may be counted twice.)
 
-## Shugenja
+### Shugenja
 
 **School Ring:** Any non-Void
 
@@ -708,7 +714,7 @@ Raise your current and maximum School Ring by 1.  Raising your School Ring now c
 **Fifth Dan:**
 Your non-Void Rings are considered 1 higher when rolling commune and spellcasting.
 
-## Togashi Ise Zumi
+### Togashi Ise Zumi
 
 **School Ring:** Void
 
