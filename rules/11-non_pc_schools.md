@@ -43,7 +43,7 @@ Double the number of serious wounds it takes to kill you.
 - declaration (combined presence and pontificate - you may use this as one of each per conversation)
 
 **Special Ability:**
-Add your Rank to all open, TN, and contested rolls.
+Add your Rank to open, TN, and contested rolls.
 
 **First Dan:**
 Roll one extra die on any three rolls.
@@ -52,7 +52,7 @@ Roll one extra die on any three rolls.
 You get a free raise on any type of roll.
 
 **Third Dan:**
-You get X free raises per day, where X is your Rank.  These may be spent on any TN or contested roll.
+You get X free raises per day, where X is your Rank.  These may be spent on any TN or contested roll after seeing your roll.
 
 **Fourth Dan:**
 Raise your current and maximum School Ring by 1.  Raising your School Ring now costs 5 fewer XP.  You may use your 3rd Dan free raises on rolls made by any Rokugani who can see or hear you, and if you do then they also add their honor to the roll.
@@ -79,7 +79,7 @@ Roll one extra die on any three rolls.
 You get a free raise on any type of roll.
 
 **Third Dan:**
-Each adventure you get 2X free raises, where X is your precepts skill, which may be applied to the following rolls: attack, wound checks, and any three skills.  You may not spend more than X of these free raises on a single roll.  You may also perform priest rituals at the cost of one free raise per ritual.
+Each adventure you get 2X free raises, where X is your precepts skill, which may be spent on attack, wound checks, and any three skills after seeing your roll.  You may not spend more than X of these free raises on a single roll.  You may also perform priest rituals at the cost of one free raise per ritual.
 
 **Fourth Dan:**
 Raise your current and maximum School Ring by 1.  Raising your School Ring now costs 5 fewer XP.  When you would roll fewer than 10 dice on athletics actions (i.e. when you roll (2 * Ring)k(Ring) for physical actions), roll 10 dice instead.
@@ -106,13 +106,13 @@ Roll one extra die on initiative, athletics, and wound checks.
 You get a free raise on any type of roll.
 
 **Third Dan:**
-After making an attack roll during a phase in which you have chosen an offensive posture, you may spend one action die from any phase to give yourself +X to all attack and damage rolls for the rest of the round, where X is your attack skill.  After seeing the result of an attack roll made against you while fighting with a defensive posture, you may spend one action die from any phase to increase your wound checks and TN to be hit by X for the remainder of the round, where X is your attack skill.
+After making an attack roll during a phase in which you have chosen an offensive posture, you may spend one action die from any phase to give yourself +X to attack and damage rolls for the rest of the round, where X is your attack skill.  After seeing the result of an attack roll made against you while fighting with a defensive posture, you may spend one action die from any phase to increase your wound checks and TN to be hit by X for the remainder of the round, where X is your attack skill.
 
 **Fourth Dan:**
 Raise your current and maximum School Ring by 1.  Raising your School Ring now costs 5 fewer XP.  Begin each combat round with an athletics action die set to 1, which may only be spent on movement, athletics actions, or your 3rd Dan technique.
 
 **Fifth Dan:**
-For each phase in which you declare an offensive posture, you gain +1 to all attack and damage rolls for the remainder of the round.  For each phase in which you choose a defensive posture, you gain +1 to your wound checks and your TN to be hit for the remainder of the round.
+For each phase in which you declare an offensive posture, you gain +1 to attack and damage rolls for the remainder of the round.  For each phase in which you choose a defensive posture, you gain +1 to your wound checks and your TN to be hit for the remainder of the round.
 
 ## Suzume Overseer
 
@@ -133,7 +133,7 @@ Roll one extra die on precepts, commerce, and wound checks.
 You get a free raise on any type of roll.
 
 **Third Dan:**
-Each adventure you get 2X free raises, where X is your precepts skill, which may be applied to the following rolls: commerce, heraldry, sincerity, tact, attack, and wound checks.  You may not spend more than X of these free raises on a single roll.
+Each adventure you get 2X free raises, where X is your precepts skill, which may be spent on commerce, heraldry, sincerity, tact, attack, and wound checks after seeing your roll.  You may not spend more than X of these free raises on a single roll.
 
 **Fourth Dan:**
 Raise your current and maximum Water by 1.  Raising your School Ring now costs 5 fewer XP.  Your skill is considered 2 higher for the purpose of computing free raises for any contested roll you did not initiate.
