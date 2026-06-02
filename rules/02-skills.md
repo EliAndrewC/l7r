@@ -16,7 +16,7 @@
   - [Culture](#culture)
   - [Etiquette](#etiquette)
   - [Heraldry](#heraldry)
-  - [History (Water)](#history-water)
+  - [History](#history)
   - [Interrogation](#interrogation)
   - [Intimidation](#intimidation)
   - [Investigation](#investigation)
@@ -183,29 +183,18 @@ When dealing with any House, it pays to know the local politics, especially alli
 - +/- 5 for each point of Recognition below/above normal for the target's
 station
 
-```
-+----+-------------------------------------------------------------------------+
 | TN | Information Gained                                                      |
-+----+-------------------------------------------------------------------------+
+|----|-------------------------------------------------------------------------|
 | 25 | domain size, wealth, neighbors                                          |
-+----+-------------------------------------------------------------------------+
 | 35 | basic history, political and military alliances                         |
-+----+-------------------------------------------------------------------------+
 | 45 | internal lineage and ministry politics                                  |
-+----+-------------------------------------------------------------------------+
 | 55 | individual top officials - chancellors and ministers and their families |
-+----+-------------------------------------------------------------------------+
 | 65 | provinces and governors, lineage sub-branches, major merchant houses    |
-+----+-------------------------------------------------------------------------+
 | 75 | provincial politics within the provincial ministries and lineages       |
-+----+-------------------------------------------------------------------------+
 | 85 | counties, county politics, county magistrates, and their relationships  |
-+----+-------------------------------------------------------------------------+
 | 95 | small local stories and institutions, samurai without noteworthy posts  |
-+----+-------------------------------------------------------------------------+
-```
 
-### History (Water)
+### History
 
 **Advanced**
 
@@ -253,21 +242,13 @@ Rokugani law gives enormous discretion to magistrates, so what you're forbidden 
 
 Roll this skill contested against another character's tact when you wish to demand an explanation for something that character said.  This can involve twisting their words to seem insulting, or even making it look like they're saying something they didn't intend to.  After declaring exactly what you are responding to and how your character is reacting, roll this contested against the other person's tact.  GMs are encouraged to assign free raises to either side based on the circumstances.  Success varies based on the amount your roll exceeded theirs, according to the following table:
 
-```
-+-------+-------------------------------------------------------------------------+
 | Delta | Effect                                                                  |
-+-------+-------------------------------------------------------------------------+
+|-------|-------------------------------------------------------------------------|
 | 0 - 9 | They are forced to admit you have a point, but may restate their own.   |
-+-------+-------------------------------------------------------------------------+
 | 10-19 | They must alter their original statement to respond to what you said.   |
-+-------+-------------------------------------------------------------------------+
 | 20-29 | They must retract their original argument but may make a different one. |
-+-------+-------------------------------------------------------------------------+
 | 30-39 | They must retract their statement and concede that you're right.        |
-+-------+-------------------------------------------------------------------------+
 | >= 40 | They must apologize to you for what they said.                          |
-+-------+-------------------------------------------------------------------------+
-```
 
 If a character loses a manipulation roll but does not act according to the appropriate entry, they will lose face and look terrible, not only in the moment but when the exchange is recounted after the fact.  The larger the loss, the greater the loss of face.
 
