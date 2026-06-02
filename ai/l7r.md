@@ -1133,13 +1133,18 @@ Here's a breakdown of the 1st month of the Rokugani calendar.  This description 
 
 #### 1st Month: Mutsuki ("affection month")
 
-Month of the Hare 4 February - 5 March Seasonal color: Red blossom plum combination (crimson and purple) Flowers of Spring: tsubaki camelia, aomugi green barley, sumire violets, harunokusa spring grasses and herbs, tanpopo dandelions, seri dropwort, yomogi mugwort, wakame seaweed Flowers of Mutsuki: ume plum, kobai red plum, shitamoe and kusanome sprouting grass and flowers, Norine seaweed
+- **Month of the Hare** — 4 February to 5 March
+- **Seasonal color:** Red blossom plum combination (crimson and purple)
+- **Flowers of Spring:** tsubaki camelia, aomugi green barley, sumire violets, harunokusa spring grasses and herbs, tanpopo dandelions, seri dropwort, yomogi mugwort, wakame seaweed
+- **Flowers of Mutsuki:** ume plum, kobai red plum, shitamoe and kusanome sprouting grass and flowers, Norine seaweed
 
 The first month is called the "month of affection" or "friendly month" because of the tradition of paying respects to one's superiors and gathering with friends and family during the New Year's holidays.  The New Year's festival of Oshogatsu ("first month") fills the first fifteen days of the first month.  It's considered unlucky to cook during Oshogatsu (there is a taboo on the kitchen), so people eat a variety of special foods prepared in the previous month, such as rice cakes, roasted chestnuts, dried fish, and pickles beyond count.
 
 Many of the "firsts" of the year are special - the first visit to a shrine, the first snow, the first flowers, the first martial arts practice, and so on.  Typically, people participate as a group, in varying degrees of formality, to do their "firsts" together.
 
-1st Day (4 Feb): Risshun (first day of spring) In the solar calendar, Risshun marks the first day of spring.
+**1st Day (4 Feb): Risshun (first day of spring)**
+
+In the solar calendar, Risshun marks the first day of spring.
 
 The first day of the year begins with rituals and ends with a festival.  The Emperor and daimyo begin the day with the ceremony of Shihohai (Prayer to the Four Directions), and nobles and vassals participate in Kochohai (Lesser Obeisance), paying respects to their lords and masters.
 
@@ -1149,13 +1154,15 @@ The Emperor and daimyo also partake of the Okusuri and Hagatame (Medicine Offeri
 
 Risshun is also the day when all Rokugani count themselves one year older.  Significant ages such as adulthood (genpaku), 60, and 80 are celebrated on this day.
 
-5th Day: Joui (Bestowal of ranks) On the fifth day, new ranks are bestowed to those who have been promoted.  Nobles gather in the Imperial Court, vassals gather in the castles of their daimyo, and clerks gather in the parlors of merchant families.  After new ranks are bestowed, the gatherings pass a cup of wine to toast their congratulations.
+**5th Day: Joui (Bestowal of ranks)**
+
+On the fifth day, new ranks are bestowed to those who have been promoted.  Nobles gather in the Imperial Court, vassals gather in the castles of their daimyo, and clerks gather in the parlors of merchant families.  After new ranks are bestowed, the gatherings pass a cup of wine to toast their congratulations.
 
 For samurai and nobles, a new rank may mean new living quarters, new clothing, and other coveted benefits.
 
 For farmers, laborers, and burakumin, this is a day to pay one's respects to one's new superiors with effusive congratulations and gifts.
 
-7th Day (10 Feb): Wakana no sekku or Nanakusa no sekku (Festival of Young Herbs)
+**7th Day (10 Feb): Wakana no sekku or Nanakusa no sekku (Festival of Young Herbs)**
 
 Nanakusa no sekku is one of the five Gosechi holidays.
 
@@ -1165,19 +1172,27 @@ In the Imperial Court and the castles of daimyo, this day includes a special exc
 
 The Imperial Court also celebrates the Aouma no Sekki (Ceremony of Blue Horses) on this day, with a parade of auspicious "blue" gray horses from the Imperial stables.  Horses are yang animals, and blue horses are especially yang.  This promotes good health and good fortune for the coming year.  Pine decorations are placed in households.  In some homes, a pine tree is erected in the courtyard or in front of the house.  The pine is auspicious and yang because it is an evergreen.
 
-15th Day: Mochigayu (Full Moon Porridge) The fifteenth day is the first full moon of the New Year, and the last day of Oshogatsu (New Year's).  Rice porridge is prepared and stirred with sticks of peeled elder wood.  Women who hope to conceive a male child this year are struck on the loins with the stick after it is used to stir the gruel.
+**15th Day: Mochigayu (Full Moon Porridge)**
+
+The fifteenth day is the first full moon of the New Year, and the last day of Oshogatsu (New Year's).  Rice porridge is prepared and stirred with sticks of peeled elder wood.  Women who hope to conceive a male child this year are struck on the loins with the stick after it is used to stir the gruel.
 
 After eating the porridge, families burn their New Year's decorations (the pine tree, paper money, paper flowers, paper horses, etc.).  The kami who spent New Year's in the home rise with the smoke to return to the mountains and fields.
 
-16th Day (19 Feb): Usui (rainwater) In the solar calendar, Usui marks the time when the climate is warming, and it is more likely to rain than to snow.
+**16th Day (19 Feb): Usui (rainwater)**
+
+In the solar calendar, Usui marks the time when the climate is warming, and it is more likely to rain than to snow.
 
 The Imperial Court also holds Tooka no Sechie (The Festival of Poetry Dances) on the sixteenth day.  Nobles recite poetry in honor of the spring, perhaps incorporating inside jokes from the events of the recent Oshogatsu.  After the poetry, elaborate court dances are held.
 
 Exceptionally wealthy merchants and particularly decadent daimyo might ape the court celebration of the Poetry Dances, but most ordinary people will mark this day with nothing more than an impromptu poem or song.
 
-18th Day: Noriyumi (Bowman's Wager) On the eighteenth day, the Imperial Palace holds an archery competition between the Inner Palace Guards and the Outer Palace Guards.  The losing side drinks the cup of defeat, and the occasion is topped off with a banquet.  This occasion may be proper or decadent depending on the virtue of the Imperial Court and the discipline of the guards.  The Bowman's Wager competition is also held in other contexts - it was recently used to decide some important matters in the peace treaty negotiations between the Lion and Crane as they negotiated the end of the Lion/Crane war, and local cities often hold Bowman's Wager competitions to test the skill of their own archers.
+**18th Day: Noriyumi (Bowman's Wager)**
 
-30th Day (5 Mar): Keichitsu (insects awaken) In the solar calendar, Keichitsu (insects awaken) marks the time when it is warm enough that hibernating insects have begun to emerge from the earth and trees.
+On the eighteenth day, the Imperial Palace holds an archery competition between the Inner Palace Guards and the Outer Palace Guards.  The losing side drinks the cup of defeat, and the occasion is topped off with a banquet.  This occasion may be proper or decadent depending on the virtue of the Imperial Court and the discipline of the guards.  The Bowman's Wager competition is also held in other contexts - it was recently used to decide some important matters in the peace treaty negotiations between the Lion and Crane as they negotiated the end of the Lion/Crane war, and local cities often hold Bowman's Wager competitions to test the skill of their own archers.
+
+**30th Day (5 Mar): Keichitsu (insects awaken)**
+
+In the solar calendar, Keichitsu (insects awaken) marks the time when it is warm enough that hibernating insects have begun to emerge from the earth and trees.
 
 #### 2nd Month: Kisaragi ("changing")
 
