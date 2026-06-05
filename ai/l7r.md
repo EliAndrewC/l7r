@@ -947,7 +947,7 @@ The Ryusei House Chancellery is comprised of representatives from its six larges
 | --- | --- | --- | --- | --- |
 | Ryusei | Mirumoto no Ryusei Maino | 4 | 11 | 17% |
 | Isa | Mirumoto no Ryusei Saharu | 5 | 12 | 16% |
-| Sasara | Mirumoto no Ryusei Kazuchi | 2 | 12 | 16% |
+| Sasara | Mirumoto no Ryusei Kazuchi | 2 | 13 | 16% |
 | Moe | Mirumoto no Ryusei Yumiyo | 9 | 13 | 15% |
 | Tokino | Mirumoto no Ryusei Biei | 4 | 9 | 14% |
 | Joji | Mirumoto no Ryusei Kyono | 7 | 9 | 11% |
