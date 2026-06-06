@@ -6,7 +6,7 @@ My L5R playgroup created our own house rules to refine the play experience to ou
 
 The original books for these games are well worth reading and have great material which any roleplaying group can use.
 
-In addition to our [house rules](https://github.com/EliAndrewC/l7r/tree/master/rules) we've also developed [extensive worldbuilding and setting notes](https://github.com/EliAndrewC/l7r/blob/master/l7r.md) which use the original books as a starting point and customizes it with historical research and original content.
+In addition to our [house rules](https://github.com/EliAndrewC/l7r/tree/master/rules/) we've also developed [extensive worldbuilding and setting notes](https://github.com/EliAndrewC/l7r/blob/master/setting/l7r.md) which use the original books as a starting point and customizes it with historical research and original content.
 
 ## Copyright and Attribution
 
