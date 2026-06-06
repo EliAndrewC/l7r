@@ -295,14 +295,14 @@ finished goods, so it is without question that the Empire needs them.
 Merchants do not actually produce anything, but only buy and sell what
 others produce. Therefore they are the least valued among the heimin
 class. Below heimin are hinin, or non-people. Hinin include
-entertainers, criminals and eta. Entertainers produce nothing of value
+entertainers, criminals and burakumin. Entertainers produce nothing of value
 and promote low moral standards, so they are considered to be hinin.
 Criminals violate the law of the Emperor thus harming the Empire and
-therefore have no rights inside the Celestial Order. Eta are the
+therefore have no rights inside the Celestial Order. Burakumin are the
 untouchable class, so rendered by the uncleanness of their professions.
-Eta include tanners, butchers, nightsoil carriers, undertakers and
+Burakumin include tanners, butchers, nightsoil carriers, undertakers and
 torturers. Anybody who handles blood, human waste or who kills animals
-for a living is an eta.
+for a living is an burakumin.
 
 Within this Celestial Order all humans have their place in the Empire
 and contribute to the moral and physical welfare of the Empire according

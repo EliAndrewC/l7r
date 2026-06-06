@@ -259,15 +259,17 @@ Annual rice production at 3,000 koku per square mile:
                                      = 60,800,000 koku of rice per year
 ```
 
+Note that the 400 farmers/sq mi density is the upper bound, achievable in the best wet-rice paddies; the per-tier population breakdowns elsewhere in this document imply an effective average closer to 300 farmers/sq mi when rice and non-rice land are combined.  This reflects an important historical truth: in most periods and places, farm output was more limited by the number of farmers than the amount of good farmland, and even the prosperous Rokugan (where farming is a punishingly harsh lifestyle by modern standards while being idyllic compared to most historical periods) has large amounts of fallow land in every domain.
+
 #### Other Per-Domain Derivations
 
 A few smaller calculations that anchor the per-parcel and per-family numbers used elsewhere in this document:
 
-**County and domain family counts**: a county has `144 families (town) + 6 * 63 families per village + 36 * 13.5 families per hamlet = 1,008 farming families`.  A domain has `36 * 1,008 = 36,288` farming families.
+**County and domain family counts**: a county has `156 families (town) + 6 * 70 families per village + 36 * 15 families per hamlet = 1,116 farming families`.  A domain has `36 * 1,116 = 40,176` farming families.
 
-**Average koku per family**: a domain has ~250,000 population, and assuming ~2 koku worth of food per person, that's `500,000 koku per year / 36,288 families ~= 13.78 koku per family`.  This rounds up to ~15 koku per family on average, reflecting a typical surplus.
+**Average koku per family**: a domain has ~250,000 population, and assuming ~2 koku worth of food per person, that's `500,000 koku per year / 40,176 families ~= 12.45 koku per family`.  This rounds up to ~15 koku per family on average, reflecting a typical surplus.
 
-**Merchant land allocation**: if each "merchant, other" family owned a single parcel, that would total `(16.8 * 36) + (90 * 6) + 360 = 1,505 parcels = 4.27% of the domain`.  The total number of "merchant, rich" families per domain is `(36 * 2.4) + (6 * 18) + 72 = 266`, and "merchant, very rich" is `(6 * 12) + 48 = 120`.  Assuming roughly 5,000 parcels are owned by samurai, that leaves `36,288 - 1,505 - 5,000 = 29,783 parcels` for distribution among the merchant families.
+**Merchant land allocation**: if each "merchant, other" family owned a single parcel, that would total `(12 * 36) + (90 * 6) + 360 = 1,332 parcels = 3.32% of the domain`.  The total number of "merchant, rich" families per domain is `(36 * 2.4) + (6 * 18) + 72 = 266`, and "merchant, very rich" is `(6 * 12) + 48 = 120`.  Assuming roughly 5,000 parcels are owned by samurai, that leaves `40,176 - 1,332 - 5,000 = 33,844 parcels` for distribution among the merchant families.
 
 **Government-officials count**: across a domain's 7 cities (one capital plus six provincial cities), each of the 6 Ministries has a Minister and a Deputy Minister, so `2 * 6 * 7 = 84 ministers and deputy ministers`.  Adding the 6 chancellors on the House council brings the domain's senior officialdom to roughly 90 samurai.  If each comes from a different immediate family, that represents about 9% of the domain's samurai families.
 
@@ -280,7 +282,7 @@ Although there are a few exceptions, place names in Rokugan typically follow the
 - a village and its district
 
 This is not usually the case with real human societies, e.g. the capital of the United States of America is not "America City" and the capital of Virginia is not "Virginia City".  However, having to remember lots of extra names is impractical, so in Rokugan these names are kept the same, e.g.
-- the capital of the Damasu domain is Kyuden Damasu (even though it is also often known by its nickname of "Toshi Ranbo")
+- the capital of the Damasu domain is Kyuden Damasu (though it is also known by the nickname "Toshi Ranbo")
 - the provincial city of Owari is in the Owari province
 - the town of Hikobayashi is where the county magistrate oversees Hikobayashi county
 
@@ -383,11 +385,11 @@ In addition to their main businesses, most successful merchants (and all large m
 
 A domain has approximately (based on the numbers established above):
 
-    (63 * 6 ** 3 + 13.5 * 6 ** 4 + 144 * 6 ** 2) => 36,288 families of farmers
+    (70 * 6 ** 3 + 15 * 6 ** 4 + 156 * 6 ** 2) => 40,176 families of farmers
 
 Farm taxes are capped at 1/3 of the estimated productivity of the land, and rent is capped at 1/6 the productive capacity of the land, and a farming family plot typically has an estimated output of ~15 koku per year.
 
-Thus, on average a plot generates 5 koku of tax revenue per family and 2.5 koku of rent to the landowners (only ~10% of farmers are freeholders), so there's roughly 81,648 koku of rent going to the landowners.
+Thus, on average a plot generates 5 koku of tax revenue per family and 2.5 koku of rent to the landowners (only ~10% of farmers are freeholders), so there's roughly 90,400 koku of rent going to the landowners.
 
 About 6% of samurai are at least of the 5th Rank (samurai ranks will be explained later), which is about 300 total samurai, many of whom are from the same immediate family (and clustered into various lineages, which will also be explained later).
 
@@ -561,8 +563,7 @@ The median hamlet:
 
 | % | Category |
 | --- | --- |
-| ~10% | burakumin, poor |
-| ~70% | farmer, rural tenant farmer |
+| ~80% | farmer, rural tenant farmer |
 | ~5% | farmer, poor freeholder |
 | ~10% | farmer, freeholder |
 | ~5% | farmer, wealthy landowner |
@@ -571,13 +572,12 @@ The median village (remember "village district" refers to a village and its surr
 
 | % | Category |
 | --- | --- |
-| ~1% | burakumin, well-off |
-| ~7% | burakumin, poor |
-| ~2% | burakumin, very poor |
-| ~70% | farmer, rural tenant farmer |
+| ~80% | farmer, rural tenant farmer |
 | ~5% | farmer, poor freeholder |
 | ~10% | farmer, freeholder |
 | ~5% | farmer, wealthy landowner |
+
+Villages and hamlets contain no burakumin in the median case: the rural population is essentially pure farmers.  Burakumin are concentrated in towns and cities, which is where their specialty trades (tanning, butchery, mortuary work, night-soil collection for the upper classes) have customers.
 
 The median town (remember that a "county" is the town and its surrounding village districts, so this is only the town itself):
 
@@ -594,10 +594,10 @@ The median town (remember that a "county" is the town and its surrounding villag
 | ~1% | merchants, rich |
 | ~3% | merchants, poor |
 | ~5% | merchants, other |
-| ~1% | burakumin, well-off |
-| ~6% | burakumin, poor |
-| ~3% | burakumin, very poor |
-| ~50% | farmer, rural tenant farmer |
+| ~0.5% | burakumin, well-off |
+| ~3% | burakumin, poor |
+| ~1.5% | burakumin, very poor |
+| ~55% | farmer, rural tenant farmer |
 | ~2.5% | farmer, poor freeholder |
 | ~5% | farmer, freeholder |
 | ~2.5% | farmer, wealthy landowner |
@@ -616,14 +616,14 @@ The median provincial city (i.e. the city central to a province, surrounded by c
 | ~2% | servants, miscellaneous |
 | ~5% | laborers, master (rich) |
 | ~5% | laborers, poor |
-| ~25% | laborers, other |
+| ~30% | laborers, other |
 | ~2% | merchants, very rich |
 | ~3% | merchants, rich |
 | ~5% | merchants, poor |
 | ~15% | merchants, other |
-| ~1% | burakumin, well-off |
-| ~6% | burakumin, poor |
-| ~3% | burakumin, very poor |
+| ~0.5% | burakumin, well-off |
+| ~3% | burakumin, poor |
+| ~1.5% | burakumin, very poor |
 | ~1% | samurai, merchants |
 | ~1% | samurai, courtiers |
 | ~8% | samurai, bushi |
@@ -641,14 +641,14 @@ The median domain capital city:
 | ~2% | servants, miscellaneous |
 | ~5% | laborers, master (rich) |
 | ~5% | laborers, poor |
-| ~25% | laborers, other |
+| ~30% | laborers, other |
 | ~2% | merchants, very rich |
 | ~3% | merchants, rich |
 | ~5% | merchants, poor |
 | ~15% | merchants, other |
-| ~1% | burakumin, well-off |
-| ~6% | burakumin, poor |
-| ~3% | burakumin, very poor |
+| ~0.5% | burakumin, well-off |
+| ~3% | burakumin, poor |
+| ~1.5% | burakumin, very poor |
 | ~1% | samurai, merchants |
 | ~1% | samurai, courtiers |
 | ~8% | samurai, bushi |
@@ -6835,7 +6835,8 @@ To this day, Lady Doji's guidance continues to dictate all aspects of life, rang
 - the provisions of hospitality, e.g. under what circumstances a host should merely provide room and board for a guest, as opposed to being expected to give up their own quarters to an honored guest
 
 Money (and the monetary value of certain gifts) is also one of the Accordances of Rank:
-- The stipend a samurai receives from their daimyo should be the square of their formal Rank, i.e. people of the seventh rank should have a stipend of 49 koku per year.  (This is the same for people of both the upper and lower seventh rank, i.e. people whose characters sheets say Rank 7.0 and Rank 7.5.)
+- The stipend a samurai receives from their daimyo should be the square of their formal Rank, e.g. people of the seventh rank should have a stipend of 49 koku per year.  (This is the same for people of both the upper and lower seventh rank, i.e. people whose characters sheets say Rank 7.0 and Rank 7.5.)
+    - Note that for samurai with important government posts, their stipend will be a small fraction of their overall wealth, which will be generated by their position's budget and/or its tax collection authority.
 - When a gift is given, the value of the gift is always based on the rank of the highest-ranking person involved, regardless of whether that person is on the giving or receiving side.
 - A **courtesy gift** is given when visiting the home or office of someone with whom you have an established personal or professional relationship.  A courtesy gift has no expectation of value, regardless of the relative ranks of those involved.  ("I happened to pass by a fruit vendor on the way over here and thought you might enjoy a fresh persimmon"  would be equally appropriate for a clerk of the second rank or a member of the Imperial Chancellery, provided you are already friends or colleagues.)
 - A **token gift** should be given by anyone visiting the home or office of someone with whom they do not have a close personal or professional relationship.  The value of that gift should be zeni equal to the highest rank of anyone involved.
