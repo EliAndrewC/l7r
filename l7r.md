@@ -46,11 +46,14 @@
     - [11th Month: Shimotsuki ("frost")](#11th-month-shimotsuki-frost)
     - [12th Month: Shiwasu ("priests running")](#12th-month-shiwasu-priests-running)
 - [The Karmic Inquisitors Campaign](#the-karmic-inquisitors-campaign)
-  - [Campaign Description](#campaign-description)
   - ["the Order"](#the-order)
   - [Temple Organization](#temple-organization)
   - [Orders and Temples](#orders-and-temples)
+    - [Temple of Bishamon Finances and History](#temple-of-bishamon-finances-and-history)
+    - [Temple Daily Life](#temple-daily-life)
+  - [Karmic Inquisitors Timeline](#karmic-inquisitors-timeline)
   - [Lord Moon's Heavenly Court](#lord-moons-heavenly-court)
+    - [A Saibankan Ruling](#a-saibankan-ruling)
     - [No Answer to Believe](#no-answer-to-believe)
     - [Shattered Names and Stubborn Pride](#shattered-names-and-stubborn-pride)
     - [Balance Exploited, Balanced Defended](#balance-exploited-balanced-defended)
@@ -66,31 +69,65 @@
 - [The First Toshi Ranbo Campaign](#the-first-toshi-ranbo-campaign)
 - [The Peasant Campaign](#the-peasant-campaign)
 - [Oaths and Vows](#oaths-and-vows)
+  - [On Vows to the Fortunes](#on-vows-to-the-fortunes)
+  - [Benten's Blessing](#bentens-blessing)
+  - [Vengeance and Justice](#vengeance-and-justice)
+  - [Soshi Saibankan](#soshi-saibankan)
 - [Maho and Bloodspeakers](#maho-and-bloodspeakers)
+  - [Iuchiban and His Lieutenants](#iuchiban-and-his-lieutenants)
+    - [Jama no Iuchiban Suru](#jama-no-iuchiban-suru)
+    - [Jama Musume](#jama-musume)
+    - [Asahina Yajinden](#asahina-yajinden)
+    - [Jama no Iuchiban Kyoso](#jama-no-iuchiban-kyoso)
+    - [Jama no Iuchiban Kohaku](#jama-no-iuchiban-kohaku)
+  - [Iuchiban's Coup History](#iuchibans-coup-history)
+    - [Iuchiban's Coup](#iuchibans-coup)
+    - [The Gozoku](#the-gozoku)
+    - [Hantei the 16th](#hantei-the-16th)
+    - [Iuchiban's Resurrection](#iuchibans-resurrection)
 - [Shugenja](#shugenja)
 - [Gaijin](#gaijin)
+  - [Unicorn History](#unicorn-history)
+  - [Bashi's Letter on the Moto](#bashis-letter-on-the-moto)
+  - [Medin al Salaat](#medin-al-salaat)
 - [The Moto](#the-moto)
+  - [Moto Etiquette](#moto-etiquette)
+  - [Moto Tribal Structure](#moto-tribal-structure)
+  - [The Moto Daimyo](#the-moto-daimyo)
+  - [Moto Law](#moto-law)
+  - [Moto Language](#moto-language)
+  - [Approaching a Moto Tribe](#approaching-a-moto-tribe)
+  - [Moto Lands](#moto-lands)
+  - [The Vindicator Moto](#the-vindicator-moto)
+  - [The Gods of Death](#the-gods-of-death)
+  - [Moto Rank](#moto-rank)
+  - [Stable Horse Culture](#stable-horse-culture)
+  - [Wild Horse Culture](#wild-horse-culture)
+  - [Hay](#hay)
+  - [Food Purity](#food-purity)
   - [Moto Laws (the Yassa)](#moto-laws-the-yassa)
     - [The written Yassa](#the-written-yassa)
 - [The Burning Sands Desert](#the-burning-sands-desert)
+  - [Gaijin Fables](#gaijin-fables)
+  - [Blessings and Curses](#blessings-and-curses)
+  - [Lady Sun's Apology](#lady-suns-apology)
 - [The Fortunes](#the-fortunes)
+  - [Act 2, Scene 2](#act-2-scene-2)
 - [Between Places](#between-places)
-  - [The Staff of Bishamon](#the-staff-of-bishamon)
-  - [The Pillar of Ten Thousand Names](#the-pillar-of-ten-thousand-names)
-  - [Prayer Beads of the Guardian Spirits](#prayer-beads-of-the-guardian-spirits)
-  - [The Sword of the First Vow](#the-sword-of-the-first-vow)
-  - [The Helm of Discerning Valor](#the-helm-of-discerning-valor)
-  - [The Eternal Wisdom Tree](#the-eternal-wisdom-tree)
-  - [The Chamber of Celestial Echoes](#the-chamber-of-celestial-echoes)
-  - [Stolen Relics](#stolen-relics)
-    - [The Tooth of the Shinsei](#the-tooth-of-the-shinsei)
-    - [The Jade Shinsei](#the-jade-shinsei)
-    - [The Chime of Harmony](#the-chime-of-harmony)
+  - [Touched by the Supernatural](#touched-by-the-supernatural)
+- [Temple Relics](#temple-relics)
+  - [Yasunobu's Vision](#yasunobus-vision)
+  - [3rd Imperial Legion Backstories](#3rd-imperial-legion-backstories)
+  - [1st Imperial Legion Backstories](#1st-imperial-legion-backstories)
+  - [The Burning Words](#the-burning-words)
+  - [Moto Khuyag's Death Detectors](#moto-khuyags-death-detectors)
   - [The 11 Imperial Gardens of Chai Sedo](#the-11-imperial-gardens-of-chai-sedo)
+  - [The 1st Imperial Legion](#the-1st-imperial-legion)
   - [Ranks in the Imperial legion](#ranks-in-the-imperial-legion)
   - [Companies and Houses](#companies-and-houses)
   - [Budget](#budget)
   - [Layout](#layout)
+  - [The Gateway and Outsider Keep](#the-gateway-and-outsider-keep)
   - [Bayushi Tangen](#bayushi-tangen)
   - [The Dark Moto](#the-dark-moto)
   - [The Secret Histories of the Moto](#the-secret-histories-of-the-moto)
@@ -108,6 +145,8 @@
   - [Questionable bounty collection](#questionable-bounty-collection)
   - [Example bounties](#example-bounties)
 - [The Sparrow Clan](#the-sparrow-clan)
+  - [Sparrow lands](#sparrow-lands)
+  - [Sparrow land management](#sparrow-land-management)
 - [The Fox Clan](#the-fox-clan)
   - [Fox Lineages and Provinces](#fox-lineages-and-provinces)
   - [The Kitsune Forest](#the-kitsune-forest)
@@ -122,6 +161,9 @@
 - [The Crane Wives](#the-crane-wives)
   - [The wives](#the-wives)
   - [The fable](#the-fable)
+  - [Tsuruchi Naomi](#tsuruchi-naomi)
+  - [Tsuruchi Ami](#tsuruchi-ami)
+  - [Tsuruchi Hitomi](#tsuruchi-hitomi)
 - [Wasp Clan NPCs](#wasp-clan-npcs)
 
 ## The Setting
@@ -130,7 +172,7 @@ The "L7R" setting is a version of Rokugan based on how the setting is portrayed 
 
 L7R Rokugan is a "low fantasy" setting whose core conceit is **the kind of world that real historical people believed themselves to be living in**.  Magic and gods and other supernatural things exist, but encountering them is rare.  However, because they exist, people are justifiably superstitious, since it's difficult to tell which of your prayers and practices are helpful and which produce no effect.  Thus, rather than focus on the supernatural, this document begins by discussing the physical, material reality of Rokugan and how it's organized.
 
-Rokugan is basically "Japanese samurai culture with Chinese geography".  Of course, "samurai culture" is reductive because e.g. Heian-period Japan was significantly different than Edo-period Japan.  Similarly, saying "Chinese geography" isn't quite right, since Rokugan's geography doesn't look very much like China, but the phrase does convey that Rokugan is not an island surrounded on all sides by water and that is instead a continental land mass with an eastern ocean and a population comparable to Imperial China.
+Rokugan is basically "Japanese samurai culture with Chinese geography".  Of course, "samurai culture" is reductive because e.g. Heian-period Japan was significantly different than Edo-period Japan.  Similarly, saying "Chinese geography" isn't quite right, since Rokugan's geography doesn't look very much like China, but the phrase does convey that Rokugan is not an island surrounded on all sides by water and that it is instead a continental land mass with an eastern ocean and a population comparable to Imperial China.
 
 Rokugan is about 1500 miles top-to-bottom and about 1000 miles across, which totals about 1,500,000 square miles.  It has a total population of about 100,000,000 humans divided into approximately 350 domains.  Samurai are about 2% of the total population, which is about 2 million people.
 
@@ -148,17 +190,17 @@ Each province is divided into counties, administered by a County Magistrate, who
 
 Each county is divided into Village Districts, overseen by a peasant Village Headsman who lives in the main village.
 
-Each village district usually has a number of small outlying farming communities known as hamlets.  (Hamlet here just refers to a small farming community.  The word in Europe originally referred to a farming community organized around orchards rather than farms, but we don't use it that way, and here it simply refers to a small cluster of farms which belongs to a village district and is overseen by a village headsman who lives in the main village and not in the hamlet.)
+Each village district usually has a number of small outlying farming communities known as hamlets.  (Hamlet here just refers to a small farming community.  The word in Europe originally referred to a farming community organized around orchards rather than farms, but in Rokugan it simply refers to a small cluster of farms which belongs to a village district and is overseen by a village headsman who lives in the main village and not in the hamlet.)
 
 ### The Median Domain
 
 The median domain is around 3,750 square miles of land, which would be a little over 70 miles across if the domain were circular - no domain is actually shaped this way, but "70 miles across" is a good first approximation of the size of the median domain.
 
-Note that we describe the "median" domain rather than the "average" (mean) domain, since a small percentage of domains are extremely large - this is the reason why Rokugan has approximately 350 domains rather than 400, which is the number you would get if you divided the total population by the population of the median domain.  Most of the time, the larger domains tend to be the ruling domains of a great Family and/or Clan, e.g. the Mirumoto domain is the largest in Dragon lands and is several times the size of the median domain, much larger than the domains of other Mirumoto vassal houses.
+Note that this describes the "median" domain rather than the "average" (mean) domain, since a small percentage of domains are extremely large - this is the reason why Rokugan has approximately 350 domains rather than 400, which is the number you would get if you divided the total population by the population of the median domain.  Most of the time, the larger domains tend to be the ruling domains of a great Family and/or Clan, e.g. the Mirumoto domain is the largest in Dragon lands and is several times the size of the median domain, much larger than the domains of other Mirumoto vassal houses.
 
 The median domain has around 250,000 total human population, with approximately 5,000 samurai (given that samurai are approximately 2% of the population).
 
-The capital of the domain is usually close to the center of the domain, with roads connecting to each of its provincial cities.  Each level within the domain usually has around half a dozen units, e.g. approximately 6 provinces per domain, approximately 6 counties per province, etc.
+The capital of the domain is usually close to the center of the domain, with roads connecting to each of its provincial cities.  Each level within the domain usually has around half a dozen units, e.g. approximately six provinces per domain, approximately six counties per province, etc.
 
 Here is how the population of the domain is divided between these various levels:
 
@@ -172,7 +214,7 @@ Here is how the population of the domain is divided between these various levels
 
 The above numbers cover the total human population, but let's discuss the samurai population specifically.  The median domain has around 5,000 samurai.  A child legally becomes an adult during their gempukku at the age of 14, and is considered a "useful" adult until they retire.  The default age at which one is eligible for retirement is 40, at 50 it is encouraged, and at 60 it is mandatory without special dispensation from your daimyo.
 
-Rokugan samurai culture is more egalitarian with respect to gender than historical samurai culture, mainly because we want the game to be welcoming to female players, and roleplaying constant intense sexism isn't fun for most male players.  Thus, we consider the population of "useful" adults as being equal for both sexes.
+Rokugan samurai culture is more egalitarian with respect to gender than historical samurai culture, a deliberate choice to keep the game welcoming to female players - roleplaying constant intense sexism isn't fun for most male players either.  The population of "useful" adults is therefore considered equal for both sexes.
 
 Of the 5,000 samurai in the domain, approximately 3,000 (~60%) are past their gempukku (and thus legally adults) and have not yet retired.  Of these ~3,000 "useful" samurai:
 - ~1000 samurai live in the capital
@@ -185,20 +227,20 @@ Samurai are typically ~80% bushi (warriors), ~10% courtiers, and ~10% merchants,
 
 ### Place Names
 
-Although there are a few exceptions, we generally use the same names for:
-- a domain and its capital city
+Although there are a few exceptions, place names in Rokugan typically follow the same pattern across levels:
+- a domain shares the name of its capital city
 - a province and its provincial city
 - a county and its town
 - a village and its district
 
-This is not usually the case with real human societies, e.g. the capital of the United States of America is not "America City" and the capital of Virginia is not "Virginia City".  However, having to remember lots of extra names is bad, so in Rokugan we keep these things the same, e.g.
+This is not usually the case with real human societies, e.g. the capital of the United States of America is not "America City" and the capital of Virginia is not "Virginia City".  However, having to remember lots of extra names is impractical, so in Rokugan these names are kept the same, e.g.
 - the capital of the Damasu domain is Kyuden Damasu (even though it is also often known by its nickname of "Toshi Ranbo")
 - the provincial city of Owari is in the Owari province
 - the town of Hikobayashi is where the county magistrate oversees Hikobayashi county
 
 ### Castes
 
-Rokugan has a strict caste system, which is part of the Celestial Order.  The Hantei Emperor is the Son of Heaven, descended from the Sun and Moon, and owns all of the land everywhere in the world, though gaijin barbarians fail to recognize his authority, so taxes are collected within the Emerald Empire.  The samurai (known as "those who make war" or "those who serve") make up the ruling class, and are the only caste with full personhood - samurai are "people", and this is why we often refer to "inhabitants" or "humans" when talking about populations.
+Rokugan has a strict caste system, which is part of the Celestial Order.  The Hantei Emperor is the Son of Heaven, descended from the Sun and Moon, and owns all of the land everywhere in the world, though gaijin barbarians fail to recognize his authority, so taxes are collected within the Emerald Empire.  The samurai (known as "those who make war" or "those who serve") make up the ruling class, and are the only caste with full personhood - samurai are "people", and this is why "inhabitants" or "humans" is the preferred term when discussing populations.
 
 Heimen are "half-people" and include farmers and merchants.
 
@@ -285,15 +327,15 @@ Rokugan's unit of currency is the koku, which is a gold coin.  1 koku also refer
 
 Although there are many samurai merchants, those with this sort of logistical training generally hold government posts and do not have time to run their own independent businesses.  Much of the commerce in the Empire is therefore performed by heimen peasant merchant families.
 
-Merchants exist in towns and cities.  We generally divide merchants into four categories: very rich, rich, poor, and other.
+Merchants exist in towns and cities.  Merchants are generally divided into four categories: very rich, rich, poor, and other.
 - There are about 200 immediate families made up of very rich merchants, which generally make up 4-10 major Merchant families.
 - There are about 250 immediate families made up of "rich" merchants, these are the owners of successful businesses whose extended families have great wealth but are not quite on the same level as a "real" merchant family.  These 250 families generally run about 25 - 50 different businesses.
 
-Because these are peasant merchant families, they are not permitted to maintain a family name without special dispensation and recognition from a daimyo.  Thus, if we refer to e.g. "the Masahito merchant family" we are talking about the merchant family of which Masahito is the current patriarch.  When Masahito dies or retires and his son Daiki inherits control of the family, it will become known as "the Daiki merchant family".
+Because these are peasant merchant families, they are not permitted to maintain a family name without special dispensation and recognition from a daimyo.  Thus, "the Masahito merchant family" refers to the merchant family of which Masahito is the current patriarch.  When Masahito dies or retires and his son Daiki inherits control of the family, it will become known as "the Daiki merchant family".
 
 In addition to their main businesses, most successful merchants (and all large merchant families) make substantial revenue from owning land.  Most farmers are tenant farmers, and most landlords are merchant landlords, so merchants end up making a sizeable percentage of their revenue through farm rent.
 
-A domain has approximately (based on the numbers we've already established):
+A domain has approximately (based on the numbers established above):
 
     (63 * 6 ** 3 + 13.5 * 6 ** 4 + 144 * 6 ** 2) => 36,288 families of farmers
 
@@ -315,9 +357,9 @@ Putting this together, a farming family might work a plot of land estimated at 1
 
 One male from every family of farmers with at least two males in the countryside receives martial training at least once per month.
 
-This is about 10% of farmers, which means about 8% of the countryside have martial training.  The ashigaru deemed good enough (at least 200 XP, which is roughly 20% of the population) are allowed to carry peasant weapons.  So about 2% of farmers are armed and capable of helping deal with criminals and respond to violence with the legal use of weapons.
+This is about 10% of farmers, which means about 8% of the countryside has martial training.  The ashigaru deemed good enough (at least 200 XP, which is roughly 20% of the population) are allowed to carry peasant weapons.  So about 2% of farmers are armed and capable of helping deal with criminals and respond to violence with the legal use of weapons.
 
-In a village with its surrounding hamlets (where there are no samurai), there are about 80 ashigaru, of which about 15-20 are good enough to be armed.  We refer to these as "licensed" ashigaru, and those who have not demonstrated enough proficiency to be permitted to carry weapons unsupervised are known as "unlicensed ashigaru".
+In a village with its surrounding hamlets (where there are no samurai), there are about 80 ashigaru, of which about 15-20 are good enough to be armed.  These are known as "licensed" ashigaru, while those who have not demonstrated enough proficiency to be permitted to carry weapons unsupervised are known as "unlicensed ashigaru".
 
 ### Monks
 
@@ -388,11 +430,11 @@ However, about 1% of ogres are man-eaters; these ogres typically seek out strong
 
 ### Imperials
 
-Each domain has an appointed Imperial samurai (and spouse/children if applicable) acting as an Emerald Magistrate.  They have a staff of around ten yoriki (samurai assistants) with them, who are typically from other clans, with perhaps 1-2 being from one of the Imperial families.  The magistrate and yoriki live in the domain's capital but might visit the domain's other cities on the extremely rare occasion when it is necessary to "travel into the provinces".
+Each domain has an appointed Imperial samurai (and spouse/children if applicable) acting as an Emerald Magistrate.  They have a staff of around 10 yoriki (samurai assistants) with them, who are typically from other clans, with perhaps 1-2 being from one of the Imperial families.  The magistrate and yoriki live in the domain's capital but might visit the domain's other cities on the extremely rare occasion when it is necessary to "travel into the provinces".
 
 When fighting breaks out between neighboring daimyo, the yoriki from nearby domains may be assembled to assist one side or the other.  Having one or two hundred extra troops can change the outcome of a battle, and high-ranking Emerald magistrates are not shy about throwing their weight around.
 
-There are also numerous Imperial legions stationed throughout Rokugan.  We have not yet established specific numbers and locations for all of them, but the ones which we've established to exist are:
+There are also numerous Imperial legions stationed throughout Rokugan.  Specific numbers and locations have not yet been established for all of them, but the ones established to exist are:
 - the 1st Imperial Legion guards the Gateway to the Land of the Burning Sands
 - the 2nd Imperial Legion guards Beiden Pass at the Spine of the World Mountains
 - the 3rd Imperial Legion guards the Kaiu Wall
@@ -453,7 +495,7 @@ A person at their gempukku has on average about 150 XP.  Here's a chart showing 
 | ~0.001% | 450 XP or greater |
 | ~0.0001% | 500 XP or greater |
 
-When we combine those numbers with the population numbers above, this suggests some things about the setting:
+Combining those numbers with the population numbers above suggests some things about the setting:
 
 - In a median domain, there are roughly 300 "useful" samurai with at least 250 XP, roughly 30 "useful" samurai with at least 300 XP, and only around 3 samurai with at least 350 XP.
 
@@ -461,59 +503,59 @@ When we combine those numbers with the population numbers above, this suggests s
 
 - Certain types of non-samurai individuals such as monks and entertainers will likely be higher on the XP distribution.  For example, although a county might only have 5-10 entertainers, most of those entertainers will likely be high up on the XP distribution for the county of ~6,000 humans due to the nature of their professions.
 
-- With that being said, we generally do separate the samurai and non-samurai populations and say that they each follow this distribution separately.
+- With that being said, the samurai and non-samurai populations are typically treated as separate, each following this distribution independently.
 
-It might be tempting for people to think "oh, peasants lead humdrum lives and can't possibly follow the same XP distribution", but this is not the case, and samurai are largely unaware of the dynamic and interesting lives of peasants.  Although we often call this "a samurai game", we also try to include all parts of society, not out of fairness (since this is all fiction) but because the lives of people with different roles and professions is genuinely fascinating!
+It might be tempting for people to think "oh, peasants lead humdrum lives and can't possibly follow the same XP distribution", but this is not the case, and samurai are largely unaware of the dynamic and interesting lives of peasants.  Although this is often called "a samurai game", the setting aims to include all parts of society - not out of fairness (since this is all fiction) but because the lives of people with different roles and professions are genuinely fascinating!
 
 ### Demographics
 
-With the above in mind, let's look at the populations of different castes and categories in the different places within a domain.  We'll continue talking about "the median domain", to establish a baseline level of expectations.  We'll start with the smallest places and go up from there.  In each case we'll consider the median version of something, e.g. "the median hamlet" or "the median provincial city":
+With the above in mind, here are the populations of different castes and categories in the different places within a domain.  "The median domain" remains the baseline; the smallest places come first, working up from there, with each example considering the median version of something, e.g. "the median hamlet" or "the median provincial city":
 
 The median hamlet:
 
 | % | Category |
 | --- | --- |
-| 10% | burakumin, poor |
-| 70% | farmer, rural tenant farmer |
-| 5% | farmer, poor freeholder |
-| 10% | farmer, freeholder |
-| 5% | farmer, wealthy landowner |
+| ~10% | burakumin, poor |
+| ~70% | farmer, rural tenant farmer |
+| ~5% | farmer, poor freeholder |
+| ~10% | farmer, freeholder |
+| ~5% | farmer, wealthy landowner |
 
 The median village (remember "village district" refers to a village and its surrounding hamlets, so this section refers only to the village itself):
 
 | % | Category |
 | --- | --- |
-| 1% | burakumin, well-off |
-| 7% | burakumin, poor |
-| 2% | burakumin, very poor |
-| 70% | farmer, rural tenant farmer |
-| 5% | farmer, poor freeholder |
-| 10% | farmer, freeholder |
-| 5% | farmer, wealthy landowner |
+| ~1% | burakumin, well-off |
+| ~7% | burakumin, poor |
+| ~2% | burakumin, very poor |
+| ~70% | farmer, rural tenant farmer |
+| ~5% | farmer, poor freeholder |
+| ~10% | farmer, freeholder |
+| ~5% | farmer, wealthy landowner |
 
 The median town (remember that a "county" is the town and its surrounding village districts, so this is only the town itself):
 
 | % | Category |
 | --- | --- |
-| 1% | servants, working for wealthy samurai families |
-| 1% | servants, working for wealthy merchant families |
-| 1.5% | Indentured servants, working for non-wealthy merchant families |
-| 2% | servants, miscellaneous |
-| 1% | laborers, master (rich) |
-| 1% | laborers, poor |
-| 10% | laborers, other |
-| 1% | merchants, very rich |
-| 1% | merchants, rich |
-| 3% | merchants, poor |
-| 5% | merchants, other |
-| 1% | burakumin, well-off |
-| 6% | burakumin, poor |
-| 3% | burakumin, very poor |
-| 50% | farmer, rural tenant farmer |
-| 2.5% | farmer, poor freeholder |
-| 5% | farmer, freeholder |
-| 2.5% | farmer, wealthy landowner |
-| 2.5% | samurai |
+| ~1% | servants, working for wealthy samurai families |
+| ~1% | servants, working for wealthy merchant families |
+| ~1.5% | Indentured servants, working for non-wealthy merchant families |
+| ~2% | servants, miscellaneous |
+| ~1% | laborers, master (rich) |
+| ~1% | laborers, poor |
+| ~10% | laborers, other |
+| ~1% | merchants, very rich |
+| ~1% | merchants, rich |
+| ~3% | merchants, poor |
+| ~5% | merchants, other |
+| ~1% | burakumin, well-off |
+| ~6% | burakumin, poor |
+| ~3% | burakumin, very poor |
+| ~50% | farmer, rural tenant farmer |
+| ~2.5% | farmer, poor freeholder |
+| ~5% | farmer, freeholder |
+| ~2.5% | farmer, wealthy landowner |
+| ~2.5% | samurai |
 
 Remember that the county town is the "lowest" level of organized society that still has samurai - villages and hamlets are peasant-only!  Also note that it's the lowest level to have merchants - this is why farmers come into town for market day approximately once per week.
 
@@ -521,49 +563,49 @@ The median provincial city (i.e. the city central to a province, surrounded by c
 
 | % | Category |
 | --- | --- |
-| 2% | servants, working for wealthy samurai families |
-| 6% | servants, working for wealthy merchant families |
-| 6% | Indentured servants, working for non-wealthy samurai families |
-| 4% | Indentured servants, working for non-wealthy merchant families |
-| 2% | servants, miscellaneous |
-| 5% | laborers, master (rich) |
-| 5% | laborers, poor |
-| 25% | laborers, other |
-| 2% | merchants, very rich |
-| 3% | merchants, rich |
-| 5% | merchants, poor |
-| 15% | merchants, other |
-| 1% | burakumin, well-off |
-| 6% | burakumin, poor |
-| 3% | burakumin, very poor |
-| 1% | samurai, merchants |
-| 1% | samurai, courtiers |
-| 8% | samurai, bushi |
+| ~2% | servants, working for wealthy samurai families |
+| ~6% | servants, working for wealthy merchant families |
+| ~6% | Indentured servants, working for non-wealthy samurai families |
+| ~4% | Indentured servants, working for non-wealthy merchant families |
+| ~2% | servants, miscellaneous |
+| ~5% | laborers, master (rich) |
+| ~5% | laborers, poor |
+| ~25% | laborers, other |
+| ~2% | merchants, very rich |
+| ~3% | merchants, rich |
+| ~5% | merchants, poor |
+| ~15% | merchants, other |
+| ~1% | burakumin, well-off |
+| ~6% | burakumin, poor |
+| ~3% | burakumin, very poor |
+| ~1% | samurai, merchants |
+| ~1% | samurai, courtiers |
+| ~8% | samurai, bushi |
 
-Note that there are no farmers in the median provincial city.  This is largely an artifact of what we count as being "part of the city", i.e. while there are generally no farms within the city's walls, provincial cities are frequently located in areas with rich farmland.  However, these farms are counted by the government as being part of the surrounding county lands, rather than being part of the city itself.
+Note that there are no farmers in the median provincial city.  This is largely an artifact of what counts as being "part of the city", i.e. while there are generally no farms within the city's walls, provincial cities are frequently located in areas with rich farmland.  However, these farms are counted by the government as being part of the surrounding county lands, rather than being part of the city itself.
 
 The median domain capital city:
 
 | % | Category |
 | --- | --- |
-| 2% | servants, wealthy samurai families |
-| 6% | servants, wealthy merchant families |
-| 6% | servants, non-wealthy samurai families |
-| 4% | servants, non-wealthy merchant families |
-| 2% | servants, miscellaneous |
-| 5% | laborers, master (rich) |
-| 5% | laborers, poor |
-| 25% | laborers, other |
-| 2% | merchants, very rich |
-| 3% | merchants, rich |
-| 5% | merchants, poor |
-| 15% | merchants, other |
-| 1% | burakumin, well-off |
-| 6% | burakumin, poor |
-| 3% | burakumin, very poor |
-| 1% | samurai, merchants |
-| 1% | samurai, courtiers |
-| 8% | samurai, bushi |
+| ~2% | servants, wealthy samurai families |
+| ~6% | servants, wealthy merchant families |
+| ~6% | servants, non-wealthy samurai families |
+| ~4% | servants, non-wealthy merchant families |
+| ~2% | servants, miscellaneous |
+| ~5% | laborers, master (rich) |
+| ~5% | laborers, poor |
+| ~25% | laborers, other |
+| ~2% | merchants, very rich |
+| ~3% | merchants, rich |
+| ~5% | merchants, poor |
+| ~15% | merchants, other |
+| ~1% | burakumin, well-off |
+| ~6% | burakumin, poor |
+| ~3% | burakumin, very poor |
+| ~1% | samurai, merchants |
+| ~1% | samurai, courtiers |
+| ~8% | samurai, bushi |
 
 Note that this is just the same numbers as for a provincial city - it is generally true that in "the median domain" a capital city is simply just a larger version of the domain's provincial cities.
 
@@ -571,7 +613,7 @@ However, in larger domains this is extremely untrue.  See below for an explanati
 
 ### Large Cities
 
-"Zipf's law" is a real-world rule of thumb which indicates that the Nth-largest city is roughly 1/Nth the size of the largest city.  We tend to follow that for our demographic depiction of Rokugan.
+"Zipf's law" is a real-world rule of thumb which indicates that the Nth-largest city is roughly 1/Nth the size of the largest city.  Rokugan's demographic depiction roughly follows it.
 
 Otosan Uchi is the capital of the Empire and is also its largest city, with a total population of approximately 1 million humans.
 
@@ -606,13 +648,13 @@ Here's a chart of the largest cities in Rokugan and who controls them (note that
 
 Note that the designation of "Kyuden" means that the city has been found suitable for the Emperor to hold Imperial Winter Court there, while a "Shiro" lacks that designation.  "Shinden" means "temple", and some Family capitals have that designation when they are known primarily as temples - this is common for "shugenja families", i.e. families where shugenja are more common.
 
-The reasons why particular cities are larger/smaller often has a lot to do with various factors such as how close they are to an even larger city which ends up "pulling" away population which otherwise would go to the smaller city, access to waterways, fertility of the land, the overall size of the Clan/Family capital and therefore the size of the administration which is needed, etc.
+The reasons why particular cities are larger/smaller often have a lot to do with various factors such as how close they are to an even larger city which ends up "pulling" away population which otherwise would go to the smaller city, access to waterways, fertility of the land, the overall size of the Clan/Family capital and therefore the size of the administration which is needed, etc.
 
-We've spent a lot of time talking about "the median domain", but the above cities are examples of huge deviations from the median due to these kinds of factors.  Another example of such deviation which drives these city sizes are crop yields, e.g.
+The discussion so far has focused on "the median domain", but the above cities are examples of huge deviations from that median due to these kinds of factors.  Another example of such deviation which drives these city sizes are crop yields, e.g.
 
 - Crane lands have a geography similar to real-world Vietnam, being long and thin in a north/south direction along the coast.  Although Crane samurai make up less than 15% of the samurai in Rokugan, Crane lands yield over 30% of Rokugan's rice output, with about 20% in the northern corridor around Kyuden Kakita, Kyuden Doji, and Kyuden Tsume and other vassal domains, and about 10% in the south around Kyuden Daidoji and its vassal domains.
 
-- Around 1/3 of the wheat in Rokugan is grown in the Firely River Valley in Unicorn lands, close to Kyuden Otaku and Kyuden Shinjo.
+- Around 1/3 of the wheat in Rokugan is grown in the Firefly River Valley in Unicorn lands, close to Kyuden Otaku and Kyuden Shinjo.
 
 - The Yasuki Estates are at the edge of Earthquake Bay, and are therefore the main harbor city for southern Rokugan.  The Yasuki left the Crane clan to join the Crab many centuries ago, and the Crane courtiers who practically run the Imperial Chancellery have, in retribution, refused to ever allow the Yasuki Estates to be designated as a Kyuden despite being far larger than a dozen other cities which have been granted that status.
 
@@ -620,17 +662,17 @@ We've spent a lot of time talking about "the median domain", but the above citie
 
 ### Village Headsmen
 
-Since we're discussing populations and occupations and numbers, I've been working on the demographics of Rokugan farming communities and wrote a document called "What exactly is a village headsman", the contents of which are below:
+On the topic of populations, occupations, and numbers: an attached document on the demographics of Rokugan farming communities, "What exactly is a village headsman", is reproduced below:
 
 #### Overview
 
-Occasionally PCs visit a peasant farming village and need to talk to someone in charge.  We've always said that this is the "village headsman".  However, as much time as we've spent fleshing out details about the government of Rokugan, we've spent very little time detailing who this is, how they are selected, their responsibilities, what power they have within the village, how they are compensated for their duties, etc.
+Occasionally PCs visit a peasant farming village and need to talk to someone in charge.  This person has always been the "village headsman".  However, as much time as has been spent fleshing out details about the government of Rokugan, very little has been spent detailing who this is, how they are selected, their responsibilities, what power they have within the village, how they are compensated for their duties, etc.
 
-This document summarizes some things we've already established about peasant village life, describes how farm plots are actually divided up, and explains some details about the responsibilities of a village headsman.
+This document summarizes some things already established about peasant village life, describes how farm plots are actually divided up, and explains some details about the responsibilities of a village headsman.
 
 #### Random things a village headsman does
 
-We have occasionally mentioned things which the government needs to do, and said that the village headsman is probably the one who does these things.  This includes:
+Some things which the government needs to do have been informally assigned to the village headsman.  This includes:
 
 - Relaying government messages and proclamations.
 
@@ -638,11 +680,11 @@ We have occasionally mentioned things which the government needs to do, and said
 
 - Mediating disputes too trivial to bring before the county magistrate.
 
-One thing to note is that birth records, death records, marriage records, and travel records are all the responsibility of the "country monk" for a village district.  Additionally, the military training of ashigaru is handled by the county magistrate.  Finally, we've portrayed the overseeing of tenant land owned by large merchant families as being handled by clerks from that merchant family.
+One thing to note is that birth records, death records, marriage records, and travel records are all the responsibility of the "country monk" for a village district.  Additionally, the military training of ashigaru is handled by the county magistrate.  Finally, overseeing tenant land owned by large merchant families is handled by clerks from that merchant family.
 
 "What is a village, and who lives there?"
 
-We wrote an overview of the demographics of Rokugan years ago and have mostly kept to those numbers over time.  As a high-level overview:
+An overview of the demographics of Rokugan was written years ago, and those numbers have mostly held over time.  As a high-level overview:
 
 - The median domain has around half a dozen provinces.
 
@@ -650,9 +692,9 @@ We wrote an overview of the demographics of Rokugan years ago and have mostly ke
 
 - The median county has around half a dozen village districts.
 
-- The median village district consists of a central village with around half a dozen smaller hamlets.  (The word "hamlet" in Europe originally referred to a small community organized around orchards rather than farms, but we use it with the colloquial meaning of "a small village" and most "hamlets" in Rokugan are small farming communities.)
+- The median village district consists of a central village with around half a dozen smaller hamlets.  (The word "hamlet" in Europe originally referred to a small community organized around orchards rather than farms, but here it carries the colloquial meaning of "a small village" - most "hamlets" in Rokugan are small farming communities.)
 
-We generally assume a median household size of 5, split over 2-3 generations.  Using that as a baseline and combining it with the numbers we have for hamlets, villages, and counties:
+The median household size is generally assumed to be 5, split over 2-3 generations.  Using that as a baseline and combining it with the numbers for hamlets, villages, and counties:
 
 - Most hamlets have a population of 50-100 (i.e. 10-20 households)
 
@@ -660,15 +702,15 @@ We generally assume a median household size of 5, split over 2-3 generations.  U
 
 - The median village district as a whole typically has a population of around 800 (or around 160 households)
 
-- These populations are almost always 100% peasants, as most of the samurai live in the town at the center of the county, where the county magistrate lives.  However, we've put almost no thought into what percentage of village districts are anything other than heimin farmers.
+- These populations are almost always 100% peasants, as most of the samurai live in the town at the center of the county, where the county magistrate lives.  However, the percentage of village districts that are anything other than heimin farmers remains underexplored.
 
-- Monks are probably a negligible percentage - we've said that each village district has a single "country monk" on a plot of tax-free land.  The monk may have a few acolytes to help farm the land, which they may do on a part-time basis on loan from larger families in the village.
+- Monks are probably a negligible percentage - each village district is established to have a single "country monk" on a plot of tax-free land.  The monk may have a few acolytes to help farm the land, which they may do on a part-time basis on loan from larger families in the village.
 
 - I don't know enough about the "untouchables" in Japan on which L5R burakumin are based to be able to make good predictions about them.  This doesn't matter for most adventures, but it would be good to figure out at some point since this seems like a good source of opportunities for strife and plot hooks.
 
 #### Rent and taxes
 
-The above numbers all talk about households who work plots of land.  We occasionally have reason to dive into the numbers, and when we do then here are the general monetary baselines:
+The above numbers all talk about households who work plots of land.  When the numbers come up, here are the general monetary baselines:
 
 - The median family plot of land produces around 15 koku/year worth of crops
 
@@ -678,7 +720,7 @@ The above numbers all talk about households who work plots of land.  We occasion
 
 - Crucially, taxes are paid by the landowner regardless of what they have been able to collect from the tenant farmers.  If the year is so bad that little could be collected, the full tax amount is still owed.
 
-Remember that 1 koku is "the amount of rice needed to feed someone for a year" (about 40 gallons).  This doesn't make up all of a human's nutritional needs, or account for costs of living other than food, so we generally assume that someone "needs" about 2 koku/year to meet the bare minimum needs.  The above numbers mean that an "average" family of 5 only has 7.5 koku/year, which means that they must provide for themselves in non-farming ways as well, e.g. making their own clothes, spinning their own rope, etc.
+Remember that 1 koku is "the amount of rice needed to feed someone for a year" (about 40 gallons).  This doesn't make up all of a human's nutritional needs, or account for costs of living other than food, so someone is generally assumed to "need" about 2 koku/year to meet the bare minimum.  The above numbers mean that an "average" family of 5 only has 7.5 koku/year, which means that they must provide for themselves in non-farming ways as well, e.g. making their own clothes, spinning their own rope, etc.
 
 #### Dynamic family sizes and farm plots
 
@@ -686,7 +728,7 @@ Everything in the previous section is more-or-less centered on relatively small 
 
 One issue with this is that family sizes change frequently, not just with births and deaths and marriages (all of which are happening relatively often) but with households merging together, households splitting apart, and family members leaving to go work in the towns and cities.  When a family grows, does the merchant family who owns the farmland assign them a larger plot?  How does that work?  How does the family petition for this?  How does the merchant family assign plots based on family size?  Do they even know the family size?
 
-I've been thinking a lot about these questions after reading this book review of Seeing Like a State, which led me to buy the actual book, which I have also been reading.  Here's an excerpt from the book about a specific European farming village:
+These questions are explored in a book review of *Seeing Like a State*, and in the book itself.  Here's an excerpt from the book about a specific European farming village:
 
 > Novoselok village had a varied economy of cultivation, grazing, and forestry...the complex welter of strips was designed to ensure that each village household received a strip of land in every ecological zone.  An individual household might have as many as ten to fifteen different plots constituting something of a representative sample of the village's ecological zones and microclimates.  The distribution spread a family's risks prudently, and from time to time the land was reshuffled as families grew or shrunk...The strips of land were generally straight and parallel so that a readjustment could be made by moving small stakes along just one side of a field, without having to think of areal dimensions.  Where the other side of the field was not parallel, the stakes could be shifted to compensate for the fact that the strip lay toward the narrower or wider end of the field.  Irregular fields were divided, not according to area, but according to yield.
 
@@ -694,13 +736,13 @@ The book itself has these crazy pictures of the way that land was partitioned.  
 
 #### This is a big part of what a village headsman actually does
 
-If we take the above as being representative of a Rokugani farming village, then someone is responsible for assigning different plots to different farmers.  This was often done by village elders, and in Rokugan is overseen by a village headsman.
+Taking the above as representative of a Rokugani farming village, someone is responsible for assigning different plots to different farmers.  This was often done by village elders, and in Rokugan is overseen by a village headsman.
 
 #### What does this imply about rent and taxes?
 
-In some previous adventures, we've talked about the value of a single farm.  We generally portray this as having a market value of about 50 koku, with enormous variation depending on how cash-rich or food-poor the domain is at any given time.  There is certainly some sense in which this must be true.  Sometimes freeholding farmers would buy or otherwise come to own their own bit of farmland outside of the main village fields and work them without needing to share or coordinate with the other villagers.  However, we've always portrayed this as the exception, and said that around 90% of farmers in Rokugan are tenant farmers whose landlords collect rent, pay taxes out of that rent, and keep what's left over.
+Previous adventures have placed the value of a single farm at about 50 koku, with enormous variation depending on how cash-rich or food-poor the domain is at any given time.  There is certainly some sense in which this must be true.  Sometimes freeholding farmers would buy or otherwise come to own their own bit of farmland outside of the main village fields and work them without needing to share or coordinate with the other villagers.  However, this is always portrayed as the exception: around 90% of farmers in Rokugan are tenant farmers whose landlords collect rent, pay taxes out of that rent, and keep what's left over.
 
-We sometimes talk about "tenant farms" as being individually owned by different entities, because many different merchants and samurai might own different farms as a source of revenue.  However, when large central fields are subdivided and worked by different families in different years, then it's not possible for a merchant house to own a single farm in the middle of the village.  Instead, they own large fields, and if that field is worked by a combination of 10 different households, then that merchant family is said to own that field and have "authority over 10 households".
+"Tenant farms" are sometimes described as being individually owned by different entities, because many different merchants and samurai might own different farms as a source of revenue.  However, when large central fields are subdivided and worked by different families in different years, then it's not possible for a merchant house to own a single farm in the middle of the village.  Instead, they own large fields, and if that field is worked by a combination of 10 different households, then that merchant family is said to own that field and have "authority over 10 households".
 
 In this scenario, it's harder to track how rent is collected.  If individual farmers aren't assigned specific farms, then how much do they owe?  The existing system is fine for computing the overall value, rent, and taxes associated with the village fields, but how is a merchant family supposed to figure out who specifically owes what amount of rent?
 
@@ -718,7 +760,7 @@ This is typically rare, and usually only happens if the previous headsman dies o
 
 **Is this a hereditary position?**
 
-Generally yes.  We've portrayed Rokugan as a place where many positions are de facto hereditary even if in theory anyone could be appointed.  This seems like one of those cases.  Family and the continuation of traditional roles is highly valued.  With that being said, "It's time for someone new" could easily happen if a new magistrate took issue with any previous problems in a village and blamed the headsman.
+Generally yes.  Rokugan has been portrayed as a place where many positions are de facto hereditary even if in theory anyone could be appointed.  This seems like one of those cases.  Family and the continuation of traditional roles is highly valued.  With that being said, "It's time for someone new" could easily happen if a new magistrate took issue with any previous problems in a village and blamed the headsman.
 
 **Is the village headsman necessarily a man?**
 
@@ -726,15 +768,15 @@ Generally yes.  If the village headsman must necessarily receive ashigaru traini
 
 **Do hamlets have their own village headsman?**
 
-No, but with a caveat: a village district is, on average, probably about 15 square miles.  The village itself is a small fraction of this, probably only a few square miles, with the outlying hamlets each being miles away.  Overseeing all of this sounds time consuming enough that we wouldn't expect someone to be able to do it "in their free time" while also personally working in their own fields.  However, when the headsman's stipend (see the next point) and merchant gifts are enough to allow him (and perhaps his wife) to not need to personally spend all day farming, then a single headsman can manage the whole village district.  Such a village headsman typically has a larger family which works land along with the rest of the village - we have previously portrayed the village headsman as still being themselves a farmer rather than some kind of educated clerk who spends all day doing paperwork.
+No, but with a caveat: a village district is, on average, probably about 15 square miles.  The village itself is a small fraction of this, probably only a few square miles, with the outlying hamlets each being miles away.  Overseeing all of this sounds time consuming enough that no one could realistically do it "in their free time" while also personally working in their own fields.  However, when the headsman's stipend (see the next point) and merchant gifts are enough to allow him (and perhaps his wife) to not need to personally spend all day farming, then a single headsman can manage the whole village district.  Such a village headsman typically has a larger family which works land along with the rest of the village - the village headsman has been previously portrayed as still being themselves a farmer rather than some kind of educated clerk who spends all day doing paperwork.
 
 **How is the village headsman compensated?**
 
-Unlicensed ashigaru receive a stipend, and licensed ashigaru receive a much larger stipend.  In most localities, the village headsman receives a government stipend as well.  Merchant houses who own land in the village also give "generous" gifts to the village headsman, without whom they might have a difficult time collecting rent.  The size of this stipend can be extremely important.  Wen it's a huge amount, other people in the village covet this position and have real reason to try to make the magistrate dissatisfied with the existing headsman.  When it's only 1-2 koku per year, then the position has more prestige than wealth.  This also affects how much money is a meaningful amount to the headsman, which is closely related to the classic question "how much does someone typically pay to bribe this person?"
+Unlicensed ashigaru receive a stipend, and licensed ashigaru receive a much larger stipend.  In most localities, the village headsman receives a government stipend as well.  Merchant houses who own land in the village also give "generous" gifts to the village headsman, without whom they might have a difficult time collecting rent.  The size of this stipend can be extremely important.  When it's a huge amount, other people in the village covet this position and have real reason to try to make the magistrate dissatisfied with the existing headsman.  When it's only 1-2 koku per year, then the position has more prestige than wealth.  This also affects how much money is a meaningful amount to the headsman, which is closely related to the classic question "how much does someone typically pay to bribe this person?"
 
 **What happens when two neighbors get into a dispute?**
 
-We've portrayed the village headsman as probably handling small disputes, and that peasants only bring cases before the county magistrate in extreme situations.  This is especially true within the headsman responsibilities (e.g. managing usufruct rights to the land) - if two farmers get into an argument over a fallen tree or something, then the headsman usually resolves it without needing to involve the county magistrate.  On the other hand, if fields belonging to two different merchant families are involved, the headsman might be more likely to escalate to the county magistrate (or rule in favor of whichever clerk gave him a larger gift).
+The village headsman has been portrayed as probably handling small disputes, with peasants only bringing cases before the county magistrate in extreme situations.  This is especially true within the headsman responsibilities (e.g. managing usufruct rights to the land) - if two farmers get into an argument over a fallen tree or something, then the headsman usually resolves it without needing to involve the county magistrate.  On the other hand, if fields belonging to two different merchant families are involved, the headsman might be more likely to escalate to the county magistrate (or rule in favor of whichever clerk gave him a larger gift).
 
 **Who is the village headsman actually loyal to?**
 
@@ -746,19 +788,19 @@ On the other hand, paying someone a lot of money doesn't necessarily make them l
 
 ## The Structure of Rokugani Government
 
-Now it might be worth talking a bit about the structure of Rokugan's civil and religious institutions.  One of the things I try to emphasize in my worldbuilding is the way in which Rokugan's religious doctrines, beliefs, and institutions still have to deal with the reality of politics and temporal power.
+It's worth discussing the structure of Rokugan's civil and religious institutions.  A recurring emphasis in this worldbuilding is the way in which Rokugan's religious doctrines, beliefs, and institutions still have to deal with the reality of politics and temporal power.
 
 For example, a running theme is that in theory the Emperor's authority is supreme and that none would question or oppose the Emperor's wishes, but that in practice people have their own loyalties and incentives and which might sometimes run up against this.  And while it's extremely rare for someone to declare open rebellion against the Emperor's authority, people still find ways to work for their Clan or Family or House or Lineage interests even if the Emperor would want them to do otherwise.  Similarly, even if the Emperor would rather the Lion/Crane war not happen, it's rare that he would try to simply order an entire clan to cease military operations, lest he accidentally convince an entire clan that he is against them and sides with their enemies.
 
-The original L5R sourcebooks make a few references to the Imperial government and the Imperial courts and such, but the details are mostly left vague.  This is usually fine, since most tabletop RPG adventures don't require either the players or GM to delve into the details of such things.  However, as I've been running L5R campaigns over time, I've found it useful to flesh out a lot of the details, since sometimes we do run adventures where the structure of Rokugani government is relevant, and where knowing who reports to whom or which ministers have what authority affects the choices and decisions which PCs and NPCs would make.
+The original L5R sourcebooks make a few references to the Imperial government and the Imperial courts and such, but the details are mostly left vague.  This is usually fine, since most tabletop RPG adventures don't require either the players or GM to delve into the details of such things.  However, running L5R campaigns over time has made it useful to flesh out a lot of the details, since some adventures touch on the structure of Rokugani government, and knowing who reports to whom or which ministers have what authority affects the choices and decisions PCs and NPCs would make.
 
-As I said, my own version of Rokugan does follow the basic structure from the original L5R source books, though we have made a few slight modifications and also greatly expanded the specificity of what ministries exist, how different people are appointed, etc.  In particular, since Rokugan at a high level is a fantasy setting whose culture is inspired by Imperial Japan and whose geography is inspired by Imperial China, we drew some inspiration from the Ming Chinese system of the Six Ministries for fleshing out the specifics of Rokugan's government.
+As mentioned, this version of Rokugan does follow the basic structure from the original L5R source books, with a few slight modifications and greatly expanded specificity about what ministries exist, how different people are appointed, etc.  In particular, since Rokugan at a high level is a fantasy setting whose culture is inspired by Imperial Japan and whose geography is inspired by Imperial China, the Ming Chinese system of the Six Ministries provided some of the inspiration for fleshing out the specifics of Rokugan's government.
 
 As explained above, Rokugan has 7 Great Clans, each of which has 3-5 Great Families.  Most of those Families have a ruling house and a number of vassal houses.
 
-For example, one of my campaigns takes place in Damasu lands.  The Damasu are a vassal family to the Akodo family.  Thus, all Damasu samurai have the Akodo name, e.g. their previous daimyo was Akodo no Damasu Kojima.  Note that Akodo is the family name, "no Damasu" indicates that he is "of the Damasu" vassal house, and Kojima is his personal name.
+For example, one campaign takes place in Damasu lands.  The Damasu are a vassal family to the Akodo family.  Thus, all Damasu samurai have the Akodo name, e.g. their previous daimyo was Akodo no Damasu Kojima.  Note that Akodo is the family name, "no Damasu" indicates that he is "of the Damasu" vassal house, and Kojima is his personal name.
 
-There are 15 ranks of the samurai caste in my version of Rokugan.  (This is more than in the published books, but we found that we needed more than the original 10 ranks to encompass all of the layers of government.)  The Emperor, of course, is of the Fifteenth Rank, which we would refer to in conversation as "rank 15".  A lowly samurai who has just passed their gempukku and not yet been assigned to a significant government post would be "of the First Rank" (which we in conversation would refer to as "a rank 1 samurai").
+There are 15 ranks of the samurai caste in this version of Rokugan.  (This is more than in the published books, but the original 10 ranks proved insufficient to encompass all of the layers of government.)  The Emperor, of course, is of the Fifteenth Rank, referred to in conversation as "rank 15".  A lowly samurai who has just passed their gempukku and not yet been assigned to a significant government post would be "of the First Rank" (referred to in conversation as "a rank 1 samurai").
 
 Here's a rough list of the ranks of extremely high-ranking people:
 
@@ -783,13 +825,13 @@ Within a single House such as the Damasu (most domains are vassal domains, so th
 | 6 | Deputy Provincial Minister |
 | 5 | County Magistrate |
 
-I realize that this doesn't exactly follow the original published L5R books, but we tried to build on a combination of different historical settings and combined that with what was already established for Rokugan.
+This isn't drawn from the original L5R books, and is instead built on a combination of different historical settings and combined with what was already established for Rokugan.
 
 The Six Ministries exist at the Imperial level, the Clan level, the Family level, the House level, and at the provincial level (each House is divided in provinces, and the provincial government is divided into the Six Ministries as well).
 
 In general, the Chancellery sets policy, and the Six Ministries implements policies.  At the Imperial level, the Imperial chancellery is composed of a chancellor from each House in the Empire.  However, not all chancellors are equal.  There are some matters where only the 7 Clan chancellors get a vote.  In other cases, all of the 29 Family chancellors from the 7 Clans get to vote, as well as the 4 Imperial Family chancellors from the Imperial families of the Hantei, Seppun, Otomo, and the Miya.  However, for most matters every chancellor from every House in the Empire gets to vote, which means that around 350 chancellors weigh in, which includes all of the vassal houses and minor clans.
 
-Note that I am talking about "voting" as if this was a legislative body, though in theory the role of the Chancellery is supposedly to advise the Emperor, who makes all decisions.  However, there are two reasons why this is not true in practice.  First, with around 100 million human beings living in the Empire, the Emperor does not have time to weigh in on all decisions which come before the Chancellery.  Second, the Emperor's power is not as absolute in practice as their religious tradition claims it is, and therefore if the Chancellery overwhelmingly recommends a course of action to the Emperor, he is likely to approve it rather than impose his will upon his subjects on an unpopular manner that might offend his most powerful nobles.
+Note that "voting" is used here as if the Chancellery were a legislative body, though in theory its role is supposedly to advise the Emperor, who makes all decisions.  However, there are two reasons why this is not true in practice.  First, with around 100 million human beings living in the Empire, the Emperor does not have time to weigh in on all decisions which come before the Chancellery.  Second, the Emperor's power is not as absolute in practice as their religious tradition claims it is, and therefore if the Chancellery overwhelmingly recommends a course of action to the Emperor, he is likely to approve it rather than impose his will upon his subjects on an unpopular manner that might offend his most powerful nobles.
 
 With that being said, the Emperor still does wield considerable authority, and in any particular case he would almost certainly succeed if he defied the will of any particular clan or faction.  The Hantei dynasty does not make a habit of doing this, because it is preferable to cultivate the loyalty of all of his subjects over the centuries, so as to maintain the stability of their rulership, but occasionally it might be called for to take some drastic or unpopular action.
 
@@ -797,7 +839,7 @@ Thus, in practice the Imperial Ministers are tasked with implementing policies r
 
 The Six Ministries are (in no particular order): the Ministry of Rites, the Ministry of Revenue, the Ministry of Retainers, the Ministry of War, the Ministry of Works, and the Ministry of Justice.
 
-For each ministry, I will describe how it functions at the domain level, e.g. for a vassal family such as the Damasu, and then give some notes on the Imperial Ministry.
+Each ministry below is described at the domain level, e.g. for a vassal family such as the Damasu, with notes on the Imperial Ministry.
 
 ### The Ministry of Rites
 
@@ -809,7 +851,7 @@ The Imperial Ministry of Rites is responsible for deciding which doctrines are a
 
 ### The Ministry of Revenue
 
-The Ministry of Revenue oversees the collection of land taxes, business license fees, import tariffs, etc.  A minister of revenue has a certain tax obligation based on the holdings they oversee, and is required to supply that amount to their daimyo (or governor at the provincial level) every year.  If they collect more than this amount, they may keep whatever is left over.  In hard times when the daimyo's subjects are unable to pay their taxes in full, the minister must make up the difference out of their own pocket, to ensure a reliable stream of revenue for their daimyo.  If the individual does not have enough to make of this difference, their lineage is expected to provide it, and if they cannot then this person is likely to lose their position to be replaced with someone with the foresight to save up for lean years.
+The Ministry of Revenue oversees the collection of land taxes, business license fees, import tariffs, etc.  A minister of revenue has a certain tax obligation based on the holdings they oversee, and is required to supply that amount to their daimyo (or governor at the provincial level) every year.  If they collect more than this amount, they may keep whatever is left over.  In hard times when the daimyo's subjects are unable to pay their taxes in full, the minister must make up the difference out of their own pocket, to ensure a reliable stream of revenue for their daimyo.  If the individual does not have enough to make up this difference, their lineage is expected to provide it, and if they cannot then this person is likely to lose their position to be replaced with someone with the foresight to save up for lean years.
 
 This is also how things work for Governors and County Magistrates, and generally any kind of tax collection position or office which generates revenue.  Officials are expected to meet their obligations to the government, and when they do well they keep what is left over, and when they do poorly they must draw from their personal or family fortunes in order to ensure that the financial obligation is met.
 
@@ -818,15 +860,15 @@ At the Imperial level, the Ministry of Revenue oversees Imperial tax collection.
 - 3% to the daimyo of the Lion clan, Akodo Toturi
 - 5% to the Emperor
 
-The Ikoma Family Ministry of Revenue, the Lion Clan Ministry of Revenue, and the Imperial Ministry of Revenue all have representatives in the Wakashi domain to oversee this collection.  Although these numbers make up a relatively low percentage, they add up to quite a lot of wealth, and of course a domain such as the Wakashi have other obligations as well, such as fighting for their clan in times of war, and contributing legionnaires to the Imperial legions, etc.
+The Ikoma Family Ministry of Revenue, the Lion Clan Ministry of Revenue, and the Imperial Ministry of Revenue all have representatives in the Wakashi domain to oversee this collection.  Although these numbers make up a relatively low percentage, they add up to quite a lot of wealth, and of course a domain such as the Wakashi has other obligations as well, such as fighting for their clan in times of war, and contributing legionnaires to the Imperial legions, etc.
 
 ### The Ministry of Retainers
 
 The Ministry of Retainers handles stipends and tracks the rank of all the daimyo's samurai retainers.  Administers civil service exams, and assesses candidates for promotions.  For high-ranking positions (usually Governor or above and often County Magistrates due to the revenue associated with that position), the Ministry of Retainers will administer exams to eligible candidates, and then the Chancellery will select from a small pool of those who scored the highest.
 
-Note that at the level of a domain, the House Chancellery is composed of representatives from the major lineages of a domain, generally 5-10.  I think I've explained the concept of a "lineage" before, but to review, samurai associate themselves with a notable ancestor who founded a lineage.  In some cases these lineages date back to the original warriors who swore fealty to the Great Ancestors and their retainers.  For example, after Daidoji swore fealty to Lady Doji at the dawn of the Empire, he helped conquer territory in her name.  A local warlord named Aki saw the wisdom in accepting the gifts of civilization offered by the Empire, so he swore fealty to Lord Daidoji.  To this day, the Aki lineage is a powerful faction of the ruling house of the Daidoji, and the Aki chancellor represents their interests on the Daidoji chancellery.
+Note that at the level of a domain, the House Chancellery is composed of representatives from the major lineages of a domain, generally 5-10.  The concept of a "lineage" has been introduced above, but to review: samurai associate themselves with a notable ancestor who founded a lineage.  In some cases these lineages date back to the original warriors who swore fealty to the Great Ancestors and their retainers.  For example, after Daidoji swore fealty to Lady Doji at the dawn of the Empire, he helped conquer territory in her name.  A local warlord named Aki saw the wisdom in accepting the gifts of civilization offered by the Empire, so he swore fealty to Lord Daidoji.  To this day, the Aki lineage is a powerful faction of the ruling house of the Daidoji, and the Aki chancellor represents their interests on the Daidoji chancellery.
 
-The Ministry of Retainers thus plays a key role in lineage politics and promotions.  When fleshing out the setting, I decided that I wanted civil service exams to be part of the structure of government (this is of course based on Imperial China rather than Imperial Japan), but we blended this with the samurai culture of Rokugan by making it common for the Ministry of Retainers to submit the top applicants for a government post, at which point the House chancellery can vote.  In some cases positions will be awarded purely on merit, and in other cases there will be a lot of political deals and "horse-trading" and such.
+The Ministry of Retainers thus plays a key role in lineage politics and promotions.  Civil service exams are part of the structure of government (drawing on Imperial China rather than Imperial Japan), but blended with the samurai culture of Rokugan: it's common for the Ministry of Retainers to submit the top applicants for a government post, at which point the House chancellery can vote.  In some cases positions will be awarded purely on merit, and in other cases there will be a lot of political deals and "horse-trading" and such.
 
 At the Imperial level, the Imperial Ministry of Retainers performs this role for Imperial posts, and it also awards accolades, commendations, and other forms of Imperial recognition for those who need to be rewarded with various honors and titles outside of being granted government posts.  For example, Kitsuki Fu was recently awarded the Order of the Precious Crown for her service to the Emperor in the Forgotten Tomb, which is the highest commendation that can be awarded to anyone below the rank of daimyo.
 
@@ -893,7 +935,7 @@ The Ryusei House Chancellery is comprised of representatives from its six larges
 
 There are three smaller lineages which make up most of the rest of the remaining samurai in the domain: the Shun, the Meguri, and the Noa.
 
-Of the lineages mentioned, three are significant for not having originally been part of the Ryusei House: the Isa, the Joji, and the Meguri.  They were originally made up Mirumoto samurai displaced by the return of the Unicorn.
+Of the lineages mentioned, three are significant for not having originally been part of the Ryusei House: the Isa, the Joji, and the Meguri.  They were originally made up of Mirumoto samurai displaced by the return of the Unicorn.
 
 Here's a breakdown of how many ministers and deputy ministers at the domain and provincial level each Ryusei lineage has in each ministry:
 
@@ -912,7 +954,7 @@ Note that these numbers reflect the nature and character of the lineages, as is 
 
 - The Sasara lineage is the most pious, and is so religiously observant that they focus on obtaining positions in the Ministry of Rites.  However, they have recently lost many county magistrate positions and currently have no governors, because their religious zeal caused them to align with a new religious movement (the Baitenist movement) to a degree that many officials were stripped of their positions after allowing tenant farmers to leave their lands in mass numbers.
 
-- The Isa lineage is the most warlike, to a degree which is expected for members of their bloodline but unusual for Dragon clan samurai from Mirumoto houses such as the Ryusei.  We can see their "bloodthirsty" nature reflected in their pursuit of positions within the Ministry of War.
+- The Isa lineage is the most warlike, to a degree which is expected for members of their bloodline but unusual for Dragon clan samurai from Mirumoto houses such as the Ryusei.  Their "bloodthirsty" nature is reflected in their pursuit of positions within the Ministry of War.
 
 Provinces:
 
@@ -950,15 +992,15 @@ The Fuseo are the Mirumoto domain in the other Dragon clan lands bordering the R
 
 #### Takeaways
 
-I've listed Ryusei domain information here because it is an example of a specific domain which is reasonably close to "the median domain", but with actual numbers and officials attached.
+Ryusei domain information is listed here because it is an example of a specific domain which is reasonably close to "the median domain", but with actual numbers and officials attached.
 
 ## Rokugan's Calendar
 
-First of all, because Rokugan is not a real place on earth and has a different cosmology, we have given it a 360 day solar year.  This avoids us needing to worry about months of different lengths or leap years or interregnum days or anything complicated like that.
+First of all, because Rokugan is not a real place on earth and has a different cosmology, it has a 360 day solar year.  This avoids the need to worry about months of different lengths or leap years or interregnum days or anything complicated like that.
 
 Second, each month is a 30 day lunar month, and the lunar cycle is exactly 30 days, with the full moon falling in the middle of each month and the new moon happening at the beginning/end of each month.  This makes the lunar cycle easy to keep track of alongside the calendar.  It also reinforces the centrality of the sun and moon in the Rokugani cosmology.
 
-The months of the Rokugani calendar do not exactly line up with our own.  The 1st day of the Rokugani year is the 1st day of spring, which puts it at what we would think of as the end of February.
+The months of the Rokugani calendar do not exactly line up with the Gregorian one.  The 1st day of the Rokugani year is the 1st day of spring, which falls at roughly the end of February.
 
 ### The Twelve Months
 
@@ -1062,22 +1104,22 @@ Cold and dry regions in the north cannot reliably grow rice or autumn soybeans b
 
 ### The Festival Calendar
 
-As I explained before, the Rokugani solar year is 360 days, with 30-day lunar cycles.  We have set the calendar in this way to allow for consistent, predictable lunar months, without the hassle of intercalation.  This also means that the zodiacal cycle of 12 days is predictable, with the first day of the year falling on a Day of the Rat, the last day of the year falling on a Day of the Boar, and every other day similarly fixed the same each year.
+As noted above, the Rokugani solar year is 360 days, with 30-day lunar cycles.  The calendar is set this way to allow for consistent, predictable lunar months, without the hassle of intercalation.  This also means that the zodiacal cycle of 12 days is predictable, with the first day of the year falling on a Day of the Rat, the last day of the year falling on a Day of the Boar, and every other day similarly fixed the same each year.
 
 The Rokugani calendar is divided into twelve lunar months of 30 days each.  The month begins with the new moon, and the full moon occurs on the 15th day of each month.  Each month has a seasonal or agricultural connotation fixed to the climate and ritual holidays of that month.  In addition, each month is also aligned to a zodiacal sign.  The Rokugani year begins in the spring.  In Rokugan, the seasons are centered on the equinoxes and solstices, rather than beginning and ending on the equinoxes and solstices - for example, the Vernal Equinox occurs in the middle of the second month of spring, instead of at the beginning of spring.  This means that the Rokugani spring begins in a cold and potentially snowy time of year.
 
 The most important festival days tend to occur on the 15th days of months and on "double odd" days, such as the first day of the first month, the third day of the third month, and so on.  Each month also brings its seasonal flowers and colors.  This manifests itself in many ways, especially in poetry, clothing, and decorations.
 
-Here's a breakdown of the 1st month of the Rokugani calendar.  This description lists the real-world calendar days which are roughly equivalent to the days on the Rokugani calendar, to help the reader account for the fact that the 1st day of the Rokugani year is the first day of spring, which represents a considerable offset from our own calendar.
+Here's a breakdown of the 1st month of the Rokugani calendar.  This description lists the real-world calendar days which are roughly equivalent to the days on the Rokugani calendar, to help the reader account for the fact that the 1st day of the Rokugani year is the first day of spring, which represents a considerable offset from the Gregorian calendar.
 
 #### 1st Month: Mutsuki ("affection month")
 
-- **Month of the Hare** — 4 February to 5 March
+- **Month of the Hare** - 4 February to 5 March
 - **Seasonal color:** Red blossom plum combination (crimson and purple)
 - **Flowers of Spring:** tsubaki camelia, aomugi green barley, sumire violets, harunokusa spring grasses and herbs, tanpopo dandelions, seri dropwort, yomogi mugwort, wakame seaweed
 - **Flowers of Mutsuki:** ume plum, kobai red plum, shitamoe and kusanome sprouting grass and flowers, norine seaweed
 
-The first month is called the "month of affection" or "friendly month" because of the tradition of paying respects to one's superiors and gathering with friends and family during the New Year's holidays.  The New Year's festival of Oshogatsu ("first month") fills the first fifteen days of the first month.  It's considered unlucky to cook during Oshogatsu (there is a taboo on the kitchen), so people eat a variety of special foods prepared in the previous month, such as rice cakes, roasted chestnuts, dried fish, and pickles beyond count.
+The first month is called the "month of affection" or "friendly month" because of the tradition of paying respects to one's superiors and gathering with friends and family during the New Year's holidays.  The New Year's festival of Oshogatsu ("first month") fills the first 15 days of the first month.  It's considered unlucky to cook during Oshogatsu (there is a taboo on the kitchen), so people eat a variety of special foods prepared in the previous month, such as rice cakes, roasted chestnuts, dried fish, and pickles beyond count.
 
 Many of the "firsts" of the year are special - the first visit to a shrine, the first snow, the first flowers, the first martial arts practice, and so on.  Typically, people participate as a group, in varying degrees of formality, to do their "firsts" together.
 
@@ -1113,7 +1155,7 @@ The Imperial Court also celebrates the Aouma no Sekki (Ceremony of Blue Horses) 
 
 **15th Day: Mochigayu (Full Moon Porridge)**
 
-The fifteenth day is the first full moon of the New Year, and the last day of Oshogatsu (New Year's).  Rice porridge is prepared and stirred with sticks of peeled elder wood.  Women who hope to conceive a male child this year are struck on the loins with the stick after it is used to stir the gruel.
+The 15th day is the first full moon of the New Year, and the last day of Oshogatsu (New Year's).  Rice porridge is prepared and stirred with sticks of peeled elder wood.  Women who hope to conceive a male child this year are struck on the loins with the stick after it is used to stir the gruel.
 
 After eating the porridge, families burn their New Year's decorations (the pine tree, paper money, paper flowers, paper horses, etc.).  The kami who spent New Year's in the home rise with the smoke to return to the mountains and fields.
 
@@ -1121,13 +1163,13 @@ After eating the porridge, families burn their New Year's decorations (the pine 
 
 In the solar calendar, Usui marks the time when the climate is warming, and it is more likely to rain than to snow.
 
-The Imperial Court also holds Tooka no Sechie (The Festival of Poetry Dances) on the sixteenth day.  Nobles recite poetry in honor of the spring, perhaps incorporating inside jokes from the events of the recent Oshogatsu.  After the poetry, elaborate court dances are held.
+The Imperial Court also holds Tooka no Sechie (The Festival of Poetry Dances) on the 16th day.  Nobles recite poetry in honor of the spring, perhaps incorporating inside jokes from the events of the recent Oshogatsu.  After the poetry, elaborate court dances are held.
 
 Exceptionally wealthy merchants and particularly decadent daimyo might ape the court celebration of the Poetry Dances, but most ordinary people will mark this day with nothing more than an impromptu poem or song.
 
 **18th Day: Noriyumi (Bowman's Wager)**
 
-On the eighteenth day, the Imperial Palace holds an archery competition between the Inner Palace Guards and the Outer Palace Guards.  The losing side drinks the cup of defeat, and the occasion is topped off with a banquet.  This occasion may be proper or decadent depending on the virtue of the Imperial Court and the discipline of the guards.  The Bowman's Wager competition is also held in other contexts - it was recently used to decide some important matters in the peace treaty negotiations between the Lion and Crane as they negotiated the end of the Lion/Crane war, and local cities often hold Bowman's Wager competitions to test the skill of their own archers.
+On the 18th day, the Imperial Palace holds an archery competition between the Inner Palace Guards and the Outer Palace Guards.  The losing side drinks the cup of defeat, and the occasion is topped off with a banquet.  This occasion may be proper or decadent depending on the virtue of the Imperial Court and the discipline of the guards.  The Bowman's Wager competition is also held in other contexts - it was recently used to decide some important matters in the peace treaty negotiations between the Lion and Crane as they negotiated the end of the Lion/Crane war, and local cities often hold Bowman's Wager competitions to test the skill of their own archers.
 
 **30th Day (5 Mar): Keichitsu (insects awaken)**
 
@@ -1135,7 +1177,7 @@ In the solar calendar, Keichitsu (insects awaken) marks the time when it is warm
 
 #### 2nd Month: Kisaragi ("changing")
 
-- **Month of the Dragon** — 6 March to 4 April
+- **Month of the Dragon** - 6 March to 4 April
 - **Seasonal color:** Peach combination (peach and khaki)
 - **Flowers of Spring:** tsubaki camelia, aomugi green barley, sumire violets, harunokusa spring grasses and herbs, tanpopo dandelions, seri dropwort, yomogi mugwort, wakame seaweed
 - **Flowers of Kisaragi:** sakura early cherry blossoms, konome tree buds, ryuujo willow fluff, tsukushi horsetail, warabi fiddlehead fern, shunran spring orchid, tsubana reed ears, mukusa waterweeds, ashinotsuno reed sprouts
@@ -1156,15 +1198,15 @@ The twelfth day of the second month marks the beginning of the Haru Higan festiv
 
 **15th Day (20 Mar): Shunbun (Vernal Equinox)**
 
-The fifteenth day of the second month is Shunbun, the Vernal Equinox, the halfway point of Spring.
+The 15th day of the second month is Shunbun, the Vernal Equinox, the halfway point of Spring.
 
 **18th Day: End of Haru Higan**
 
-The eighteenth day of the second month is the last day of the Haru Higan spring festival.  Even if daily temple services are inconvenient, almost everybody attends a temple service on this final day of the festival.
+The 18th day of the second month is the last day of the Haru Higan spring festival.  Even if daily temple services are inconvenient, almost everybody attends a temple service on this final day of the festival.
 
 #### 3rd Month: Yayoi ("new life")
 
-- **Month of the Serpent** — 5 April to 5 May
+- **Month of the Serpent** - 5 April to 5 May
 - **Seasonal color:** Cherry combination (white and burgundy)
 - **Flowers of Spring:** tsubaki camelia, aomugi green barley, sumire violets, harunokusa spring grasses and herbs, tanpopo dandelions, seri dropwort, yomogi mugwort, wakame seaweed
 - **Flowers of Yayoi:** sakura cherry, tsutsuji azalea, fuji wisteria, yamabuki mountain rose, momo peach, wakamidori young green plants, kuwa mulberry, yanagi willow, takenoaki "bamboo autumn," nanohana rape flowers, daikon radish, mame beans, genge vetch, sakurasoo primrose, shibazakura phlox
@@ -1181,7 +1223,7 @@ Momo no sekku, or Hinamatsuri, is one of the five Gosechi holidays.  It is calle
 
 **13th Day (17 Apr): Haru no douyou (preparing the ground for spring)**
 
-The thirteenth day of the third month is haru no douyou, marking the time when farmers must begin to plant rice.
+The 13th day of the third month is haru no douyou, marking the time when farmers must begin to plant rice.
 
 **16th Day (20 Apr): Kokuu (grain rain)**
 
@@ -1193,7 +1235,7 @@ Hachijuuhachiya marks the time when new planted rice is safe from even the most 
 
 #### 4th Month: Uzuki ("unohana" or "deutzia")
 
-- **Month of the Horse** — 6 May to 5 June
+- **Month of the Horse** - 6 May to 5 June
 - **Seasonal color:** Orange flower combination (deadleaf yellow and purple)
 - **Flowers of Summer:** aogiri phoenix tree, natsukusa summer grasses and herbs, aoashi green reeds, mugura burweed, makomo water oats, ukikusa duckweed
 - **Flowers of Uzuki:** botan peony, wakakaede young maple leaves, tokiwagi ochiba fallen evergreen leaves, unohana deutzia flower, ibara multiflora rose, kiri pawlonia, takeochiba fallen bamboo leaves, yuri lily, takenoko bamboo shoots, fuki buterburr, mugi barley
@@ -1214,7 +1256,7 @@ In the solar calendar, shouman marks a time when barleycorns should be full and 
 
 #### 5th Month: Satsuki ("sprout")
 
-- **Month of the Goat** — 6 June to 6 July
+- **Month of the Goat** - 6 June to 6 July
 - **Seasonal color:** Artemisia combination (sprout green and yellow)
 - **Flowers of Summer:** aogiri phoenix tree, natsukusa summer grasses and herbs, aoashi green reeds, mugura burweed, makomo water oats, ukikusa duckweed
 - **Flowers of Satsuki:** tachibana mandarin orange, aoume green plum fruits, kakitsubata blue flag iris, ayame wild iris, shaobu Japanese iris, sanae young rice plants
@@ -1235,19 +1277,19 @@ The sixth day of the fifth month traditionally begins the rainy season.  Most pe
 
 **10th Day: Shinkou (Imperial Alms)**
 
-From the tenth to the thirtieth day of the fifth month, the Emperor and daimyo distribute alms of rice and salt throughout the land.  This practice is restrained in years of plenty, and more liberal in years of famine or other trouble.
+From the 10th to the 30th day of the fifth month, the Emperor and daimyo distribute alms of rice and salt throughout the land.  This practice is restrained in years of plenty, and more liberal in years of famine or other trouble.
 
 **16th Day (21 Jun): Geshi (Summer Solstice)**
 
-In the solar calendar, the fifteenth day of the fifth month is the Summer Solstice, the longest day of the year.
+In the solar calendar, the 15th day of the fifth month is the Summer Solstice, the longest day of the year.
 
 **26th Day (2 Jul): Hangesho (5-day break from farming)**
 
-On the twenty-sixth day of the fifth month, farmers in many regions observe Hangesho, a five-day break from the backbreaking work of farming.
+On the 26th day of the fifth month, farmers in many regions observe Hangesho, a five-day break from the backbreaking work of farming.
 
 #### 6th Month: Minazuki ("dry")
 
-- **Month of the Monkey** — 7 July to 7 August
+- **Month of the Monkey** - 7 July to 7 August
 - **Seasonal color:** Lily combination (red and deadleaf yellow)
 - **Flowers of Summer:** aogiri phoenix tree, natsukusa summer grasses and herbs, aoashi green reeds, mugura burweed, makomo water oats, ukikusa duckweed
 - **Flowers of Minazuki:** himawari sunflower, nadeshiko pinks, yuugao moonflowers, uri melon, nasu eggplant, hasu lotus, kusaikire rank-smelling weeds
@@ -1260,7 +1302,7 @@ In the solar calendar, Shousho is the beginning of summer heat.
 
 **14th Day (20 Jul): Natsu no douyou (preparing the ground for summer)**
 
-On the fourteenth day of the sixth month, it is traditional to eat eel.
+On the 14th day of the sixth month, it is traditional to eat eel.
 
 **17th Day (23 Jul): Taisho (greater heat)**
 
@@ -1268,11 +1310,11 @@ In the solar calendar, Taisho is the time of the hottest days of summer.
 
 **30th Day: Setsubun and Oharae (great purification)**
 
-The thirtieth day of the sixth month is Setsubun, the eve before the beginning of Autumn.  The Autumn Setsubun is not as festive as the Spring Setsubun at year's end.  However, it is still considered a significant turning point for the year, used as a day of reckoning when debts are settled and obligations are discharged.  In some domains, stipends are paid on Setsubun, and many contracts stipulate payment by Setsubun.  This day of reckoning is also a day of atonement, when the Emperor performs the sacred and ancient ceremony of Oharae, the Great Purification.  The Oharae rituals echo the Heavenly Grotto myth, in which Amaterasu secluded herself in a grotto and emerged after being coaxed and worshipped by the heavenly hosts.  The rituals include use of sacred regalia bestowed by the kami (mirrors, swords, jewels, and silk scarves), and powerful magic such as spirit-calling (shoukon) and spirit-shaking (tamafuri).  The Oharae cleanses major sins committed in the past year, such as taboo defilements of sacred spaces, croplands, and relationships.  In ancient times, the Oharae may have included human sacrifices.  Some tsukai and Bloodspeakers perform human sacrifices and rites of defilement on this day, such as flaying piebald horses in the reverse direction, to weaken kami and call oni.
+The 30th day of the sixth month is Setsubun, the eve before the beginning of Autumn.  The Autumn Setsubun is not as festive as the Spring Setsubun at year's end.  However, it is still considered a significant turning point for the year, used as a day of reckoning when debts are settled and obligations are discharged.  In some domains, stipends are paid on Setsubun, and many contracts stipulate payment by Setsubun.  This day of reckoning is also a day of atonement, when the Emperor performs the sacred and ancient ceremony of Oharae, the Great Purification.  The Oharae rituals echo the Heavenly Grotto myth, in which Amaterasu secluded herself in a grotto and emerged after being coaxed and worshipped by the heavenly hosts.  The rituals include use of sacred regalia bestowed by the kami (mirrors, swords, jewels, and silk scarves), and powerful magic such as spirit-calling (shoukon) and spirit-shaking (tamafuri).  The Oharae cleanses major sins committed in the past year, such as taboo defilements of sacred spaces, croplands, and relationships.  In ancient times, the Oharae may have included human sacrifices.  Some tsukai and Bloodspeakers perform human sacrifices and rites of defilement on this day, such as flaying piebald horses in the reverse direction, to weaken kami and call oni.
 
 #### 7th Month: Fumizuki ("poetry")
 
-- **Month of the Rooster** — 8 August to 7 September
+- **Month of the Rooster** - 8 August to 7 September
 - **Seasonal color:** Cicada wing combination (cedar bark and sky blue)
 - **Flowers of Autumn:** nashi pear, konomi nuts and seeds, tsuta ivy, bashoo inedible banana, keitoo cockscomb, kiku chrysanthemums, imo yam, ine mature rice plants, kusanohana flowering grasses, susuki pampas grass
 - **Flowers of Fumizuki:** mukuge rose of sharon, momo peach fruit, kiri hitoha falling pawlonia leaves, asagao morning glories, hagi bush clover, kuzu kudzu, kikyoo bellflower, ominaeshi yellow valerian, akanomanma knotgrass, fujibakama "purple trousers" boneset
@@ -1289,7 +1331,7 @@ Tanabata is one of the five Gosechi holidays.  The seventh day of the seventh mo
 
 **15th Day: Obon (Bon Festival)**
 
-The fifteenth day of the seventh month is the Obon Festival, when families invite back the spirits of their ancestors to return to them for one day and one night.  This is a time of reunification for ancestors whose souls were in Yomi or Tokoyo; for souls damned in hell, it is a brief reprieve.  The gates of the underworld are opened by the power of monks, who chant the sutras of the Shinseist canon for the entire week leading up to Obon.  Offerings of round food (rice balls, oranges, etc.) are placed in homes and temples for the dead.  Hempen stems and candles are burned next to mortuary tablets to guide the spirits home.  On the night of Obon, the people gather outside wearing white masks and dance under paper lanterns and fireworks.
+The 15th day of the seventh month is the Obon Festival, when families invite back the spirits of their ancestors to return to them for one day and one night.  This is a time of reunification for ancestors whose souls were in Yomi or Tokoyo; for souls damned in hell, it is a brief reprieve.  The gates of the underworld are opened by the power of monks, who chant the sutras of the Shinseist canon for the entire week leading up to Obon.  Offerings of round food (rice balls, oranges, etc.) are placed in homes and temples for the dead.  Hempen stems and candles are burned next to mortuary tablets to guide the spirits home.  On the night of Obon, the people gather outside wearing white masks and dance under paper lanterns and fireworks.
 
 **16th Day (23 Aug): Shosho (end of heat)**
 
@@ -1297,15 +1339,15 @@ In the solar calendar, Shosho is the end of the heat of summer.
 
 **25th Day (1 Sep): Nihyakujunichi (210 days since Spring)**
 
-The twenty-fifth day of the seventh month is the 210th day since Spring.  Around this time of the year, rice plants are flowering, a delicate and important stage of their growth.  They are highly prone to wind damage.  Unfortunately, this is also typhoon season in some regions.  Music, dances, and prayers are held to forestall typhoons and protect the rice.
+The 25th day of the seventh month is the 210th day since Spring.  Around this time of the year, rice plants are flowering, a delicate and important stage of their growth.  They are highly prone to wind damage.  Unfortunately, this is also typhoon season in some regions.  Music, dances, and prayers are held to forestall typhoons and protect the rice.
 
 **30th Day: Sumo Wrestling**
 
-On the thirtieth day of the seventh month, sumo wrestling matches are held to protect the rice harvest and honor the rice god.
+On the 30th day of the seventh month, sumo wrestling matches are held to protect the rice harvest and honor the rice god.
 
 #### 8th Month: Hazuki ("leaf")
 
-- **Month of the Dog** — 8 September to 7 October
+- **Month of the Dog** - 8 September to 7 October
 - **Seasonal color:** Aster combination (lavender and burgundy)
 - **Flowers of Autumn:** nashi pear, konomi nuts and seeds, tsuta ivy, bashoo inedible banana, keitoo cockscomb, kiku chrysanthemums, imo yam, ine mature rice plants, kusanohana flowering grasses, susuki pampas grass
 - **Flowers of Hazuki:** yanagi chiru falling willow leaves, ran orchid, wase early rice
@@ -1326,11 +1368,11 @@ On the twelfth day of the eighth month, Aki Higan, a seven-day Shinseist autumn 
 
 **15th Day (23 Sep): Shuubun (Autumnal Equinox), Hojoe (The Great Liberation), and Kangetsu (Moon Viewing)**
 
-In the solar calendar, Shuubun is the Autumnal Equinox.  On the fifteenth day of the eighth month, the Hojoe, or Great Liberation, is held at shrines throughout the land.  Birds, fish, turtles, and other animals are released into appropriate places in the wild.  This is done to respect the Shinseist injunction against captivity or killing of sentient beings.  The fifteenth day of the eighth month is also famous for moon viewing, since the autumn moon is considered to be the most beautiful, and since the autumn nights are likely to have clear weather.  It is almost universal for people to go out at night with friends to gaze at the moon, compose poems, and enjoy food and wine.  It is traditional to offer dumplings and roasted yams to the moon on this night.
+In the solar calendar, Shuubun is the Autumnal Equinox.  On the 15th day of the eighth month, the Hojoe, or Great Liberation, is held at shrines throughout the land.  Birds, fish, turtles, and other animals are released into appropriate places in the wild.  This is done to respect the Shinseist injunction against captivity or killing of sentient beings.  The 15th day of the eighth month is also famous for moon viewing, since the autumn moon is considered to be the most beautiful, and since the autumn nights are likely to have clear weather.  It is almost universal for people to go out at night with friends to gaze at the moon, compose poems, and enjoy food and wine.  It is traditional to offer dumplings and roasted yams to the moon on this night.
 
 #### 9th Month: Nagatsuki ("long")
 
-- **Month of the Boar** — 8 October to 6 November
+- **Month of the Boar** - 8 October to 6 November
 - **Seasonal color:** Bush clover combination (rose and slate blue)
 - **Flowers of Autumn:** nashi pear, konomi nuts and seeds, tsuta ivy, bashoo inedible banana, keitoo cockscomb, kiku chrysanthemums, imo yam, ine mature rice plants, kusanohana flowering grasses, susuki pampas grass
 - **Flowers of Nagatsuki:** kaki persimmon, ringo apple, kuri chestnuts, yuzu citron, momoji red momiji maple leaves, kaede red maple leaves, kinoko mushrooms
@@ -1339,7 +1381,7 @@ Nagatsuki, the "long month," is named because the rice has grown long.  This is 
 
 **1st Day (8 Oct): Kanro (cold dew)**
 
-In the solar calendar, Kanro marks the last section of the year before farmers can expect frost.  Farmers must harvest their crops in the next fourteen days, or risk losing them to frost.
+In the solar calendar, Kanro marks the last section of the year before farmers can expect frost.  Farmers must harvest their crops in the next 14 days, or risk losing them to frost.
 
 **7th Day: Fukandenden no Sou (Presentation of the Report on Unfit Lands)**
 
@@ -1357,7 +1399,7 @@ In the solar calendar, Soukou marks the time of the year when night temperatures
 
 #### 10th Month: Kaminazuki ("no gods")
 
-- **Month of the Rat** — 7 November to 6 December
+- **Month of the Rat** - 7 November to 6 December
 - **Seasonal color:** Maple combination (vermillion and gray-green)
 - **Flowers of Winter:** senryoo hermit smartweed berries, manryoo spearflower berries, nanten nandin berries, ochiba fallen leaves, kangiku cold mums, karehasu withered lotus, fuyuna winter greens, daikon radish, negi onion, kabu turnip, fuyukusa winter grasses, yabukooji spearflower berries
 - **Flowers of Kaminazuki:** sazanka sasanqua, chanohana tea flowers
@@ -1378,7 +1420,7 @@ In the solar calendar, Shousetsu marks the time when at least light snow is expe
 
 #### 11th Month: Shimotsuki ("frost")
 
-- **Month of the Ox** — 7 December to 4 January
+- **Month of the Ox** - 7 December to 4 January
 - **Seasonal color:** Chrysanthemum combination (lavender and deep blue)
 - **Flowers of Winter:** senryoo hermit smartweed berries, manryoo spearflower berries, nanten nandin berries, ochiba fallen leaves, kangiku cold mums, karehasu withered lotus, fuyuna winter greens, daikon radish, negi onion, kabu turnip, fuyukusa winter grasses, yabukooji spearflower berries
 - **Flowers of Shimotsuki:** None
@@ -1403,7 +1445,7 @@ In the solar calendar, Touji is the Winter Solstice.  The solar year begins and 
 
 #### 12th Month: Shiwasu ("priests running")
 
-- **Month of the Tiger** — 5 January to 3 February
+- **Month of the Tiger** - 5 January to 3 February
 - **Seasonal color:** Pine combination (sprout green and deep purple)
 - **Flowers of Winter:** senryoo hermit smartweed berries, manryoo spearflower berries, nanten nandin berries, ochiba fallen leaves, kangiku cold mums, karehasu withered lotus, fuyuna winter greens, daikon radish, negi onion, kabu turnip, fuyukusa winter grasses, yabukooji spearflower berries
 - **Flowers of Shiwasu:** soobai early plum blossoms, kantsubaki winter camelia, suisen narcissus
@@ -1420,7 +1462,7 @@ The twelfth month, Shiwasu ("priests running"), is named for the flurry of activ
 
 ## The Karmic Inquisitors Campaign
 
-Now let's talk about the "Karmic Inquisitors" campaign, which is an older campaign I ran which takes place in Damasu lands, i.e. the domain whose capital is Toshi Ranbo, the third-largest city in the Empire.
+The "Karmic Inquisitors" campaign is an older campaign set in Damasu lands, the domain whose capital is Toshi Ranbo, the third-largest city in the Empire.
 
 ### Campaign Description
 
@@ -1458,7 +1500,7 @@ The previous Master of the Lunar Way was Kaito, who served in the Temple of Bish
 
 Also caught and executed was Ishikawa, the Champion of the Sparring Circle for the Temple of Bishamon, who served the Teacher of the Astral Ways for the Order.
 
-Reiji was first drawn to the Temple of Bishamon when he saw a Golden Koi swimming upstream through the village creek.  He abandoned his work in the fields to give chase, but it stayed just ahead of him as he followed it through the network of irrigated streams and waterways of his village.  By the time he caught up with it, night was beginning to fall, and as the fish turned around to face him, it turned from gold to silver.  He stepped backwards in surprised and fell on his back, and in that moment as the stars came out, he witnessed the brief shape of a celestial temple in the twilight sky, the outline of which was traced by the first few hundred stars to appear as the sun set below the horizon.
+Reiji was first drawn to the Temple of Bishamon when he saw a Golden Koi swimming upstream through the village creek.  He abandoned his work in the fields to give chase, but it stayed just ahead of him as he followed it through the network of irrigated streams and waterways of his village.  By the time he caught up with it, night was beginning to fall, and as the fish turned around to face him, it turned from gold to silver.  He stepped backwards in surprise and fell on his back, and in that moment as the stars came out, he witnessed the brief shape of a celestial temple in the twilight sky, the outline of which was traced by the first few hundred stars to appear as the sun set below the horizon.
 
 This set Reiji on his path to becoming a monk, and as he later learned, a golden koi swimming upstream is a well-known sign which embodies the strength and perseverance of Bishamon, though it was many years later that he realized that the koi turning from gold to silver represented his path through the Order of Bishamon to the secret Order of Lord Moon.
 
@@ -1560,7 +1602,7 @@ As the Lion now believed Haru to be an expert in Phoenix prayers and rituals, he
 
 Lord Moon, who consumed his own in primal times, I seek your understanding as I am pushed to echo your actions.  Let this act of necessity honor your celestial cycle, as death gives way to life.  Guide us from this forest and into your shimmering light, as we traverse these uncharted depths.
 
-Haru thought that he was unseen and unheard, but Akodo Ippei had remained behind, tending to his wounds and praying to his own ancestors.  He said nothing directly to Haru, but after Ippei was buried, one of the scouts returned, having miraculously found a westward path.
+Haru thought that he was unseen and unheard, but Akodo Ippei had remained behind, tending to his wounds and praying to his own ancestors.  He said nothing directly to Haru, but after Genjo was buried, one of the scouts returned, having miraculously found a westward path.
 
 The party reconvened, marked Genjo's grave, and set out on the westward path.  As night began to fall, the path emerged out of the forest, and the survivors were able to nourish themselves once again.
 
@@ -1570,7 +1612,7 @@ Regardless, Ippei spoke with compassion, explaining that he had no intention of 
 
 (end of backstory)
 
-Since the Karmic Inquisitors campaign deals with monks, let's talk about how temples are structured as institutions, and then from there talk about Damasu lands more generally.
+Since the Karmic Inquisitors campaign deals with monks, the discussion turns to how temples are structured as institutions, and from there to Damasu lands more generally.
 
 ### Temple Organization
 
@@ -1630,7 +1672,7 @@ With that being said, religious orders must necessarily have a hierarchy in orde
 
 ### Orders and Temples
 
-First, some terminology about what we mean by an Order vs a Temple.
+First, some terminology distinguishing an Order from a Temple.
 
 The Order of Bishamon refers to the network of temples, monasteries, and shrines devoted to Bishamon throughout Damasu lands.  Each domain in Lion lands has its own Order of Bishamon with its own Grand Abbot.
 
@@ -1640,7 +1682,7 @@ Although the Order of Bishamon in Damasu lands will sometimes send gifts and off
 
 The Temple of Bishamon in Toshi Ranbo is also formally referred to as the sovereign temple, while the smaller provincial temples in each of the provincial cities of the Damasu provinces are also formally referred to as subordinate temples.
 
-To summarize, anytime this explanation refers to the Order of Bishamon, we're talking about the broader network of all Bishamon temples/monasteries/shrines in Damasu lands, and when this page refers to the Temple of Bishamon, we're talking about the sovereign temple in the Damasu capital of Toshi Ranbo.
+To summarize, the Order of Bishamon refers to the broader network of all Bishamon temples/monasteries/shrines in Damasu lands, while the Temple of Bishamon refers to the sovereign temple in the Damasu capital of Toshi Ranbo.
 
 The Temple of Bishamon in Toshi Ranbo is one of the largest in the Empire, with over 200 monks living in the temple complex.  Because this is unusually large, it's not necessarily representative of most major temples in most major cities, but here are the rough numbers for the monks in each category in the temple:
 
@@ -1658,7 +1700,9 @@ Most of the monks in all of the above categories live in the Temple of Bishamon 
 
 Here's a rough outline of the Order of Bishamon's standing over the past decade and a half:
 
-Under the old Damasu regime, the Temple of Bishamon was the biggest, richest, most influential temple in Damasu lands, due to the centrality of the fortune Bishamon in Lion life.  A majority of the governments temple funding went to the Order of Bishamon, which made up roughly 50% of the Temple's funding.
+#### Temple of Bishamon Finances and History
+
+Under the old Damasu regime, the Temple of Bishamon was the biggest, richest, most influential temple in Damasu lands, due to the centrality of the fortune Bishamon in Lion life.  A majority of the government's temple funding went to the Order of Bishamon, which made up roughly 50% of the Temple's funding.
 
 12 years ago (in the year 1117), the Tsume house invaded Toshi Ranbo and conquered the city from the Damasu house.  Although during this time they would not have dared defile the temple (due to not wanting to offend Bishamon), they did raid the temple treasury, and their subsequent donations made back to the temple came nowhere close to recouping those losses.
 
@@ -1704,6 +1748,8 @@ For example, there is no line item for clothing on this budget breakdown.  Parti
 
 When the Lion took over the city, few new robes were purchased by the temple for several years, and the poor state of the temple's finances was apparent from the increasingly worn robes which were being constantly patched and mended rather than replaced.
 
+#### Temple Daily Life
+
 The above sections detail the temple's hierarchy and budget, but this doesn't quite describe what most of the monks are doing day-to-day.  This is only somewhat reflected in how the temple receives and spends its money, since some things are mostly free and others cost enormous amounts of money.
 
 Because monks tend to perform many roles, there's not a simple or clear breakdown of who is doing what.  For example, consider the role of education in the temple.  While it's true that some Adept monks might spend most of their time educating initiates, teaching and learning does not stop at any rank.  Some senior monks will be active in continuing instruction of the junior monks under their authority, while others will be mainly concerned with temple operations.  Some scribes and librarians will be fully occupied with copying and cataloging, while others will use their expertise to guide the education of the temple's most senior members.
@@ -1720,13 +1766,13 @@ Because of these shared roles and responsibilities, any breakdown of temple work
 | ~10% | Administrators | Responsible for managing the temple's finances, resources, and personnel, the stewards and senior monks in these positions also liaise with the city government (particularly the Damasu Ministry of Rites), handle correspondence with other temples, and manage temple visitors and pilgrims. |
 | ~10% | Philanthropy | Those who oversee and distribute the temple's charitable donations, which include not only direct donations to the poor but also things like soup kitchens and the like. |
 | ~10% | Security | Responsible for maintaining safety and order within the temple grounds and protecting the temple's valuable religious artifacts and sacred spaces. Counterintuitively, the Temple of Bishamon actually has fewer monks in this role than other temples, because martial training is so much more common as part of the Order of Bishamon's religious education. Thus, while some other temples require a larger staff specifically devoted to security, the Temple of Bishamon has a smaller percentage of its members specifically designated in this role. |
-| ~10% | Pilgrims | This includes not only the holy journeys we think of when talking about pilgrimages, but also coordinating with the subordinate temples in the provinces and managing the offerings and donations which flow in both directions. |
+| ~10% | Pilgrims | This includes not only the holy journeys typically thought of when talking about pilgrimages, but also coordinating with the subordinate temples in the provinces and managing the offerings and donations which flow in both directions. |
 
 There are other miscellaneous specialized roles within the temple not listed here, but the above should give a decent idea of the overall categories.  Remember that the above percentages add up to much more than 100% due to the fact that many monks perform multiple roles at different times.
 
 Another way to think about temple life is to think about what a typical day looks like for monks in the Temple of Bishamon.
 
-Considering the various roles and jobs which exist in the temple, this varies considerably from monk to monk, but I'll list a few examples to give a general sense of the rhythm and flow of temple life.
+Considering the various roles and jobs which exist in the temple, this varies considerably from monk to monk, but a few examples give a general sense of the rhythm and flow of temple life.
 
 First let's consider the daily routine of Kenta, who reports to the Custodian of the Temple Grounds.
 
@@ -1763,7 +1809,9 @@ Hopefully the similarities and differences between Kenta and Mizuki can help giv
 
 For married monks (remember that only Adept monks and below can marry, while Senior monks and above must swear a vow of celibacy), the personal time is usually spent with their families, who usually live in or next to the temple complex in temple housing.
 
-Now let's talk about the timeline of events related to the Karmic Inquisitors campaign:
+### Karmic Inquisitors Timeline
+
+The timeline below covers events related to the Karmic Inquisitors campaign:
 
 | Year | Events |
 | --- | --- |
@@ -1813,7 +1861,7 @@ The Tsume mainly left alone the monks and priests who maintain the favor of the 
 
 One of Baiten's followers was a man named Hideo who started a group devoted to educating peasants in religious songs and chants.  After much discontent over the harsh treatment of the city's populace, Hideo eventually made a public speech in which he possibly said and/or implied (reports vary about precisely what was said) that Prince Fukuhachi would be like the next Iuchiban, dividing the Empire and aiding the forces of darkness through immoral and unjust actions.
 
-Hideo's followers denounced the speech and claimed to have had no idea he would give it.  Prince Fukuhachi still had every member of the group executed, which was followed by significant additional unrest.  After this incident, Prince Fukuhachi appointed a Board of Justice composed of 5 Imperial Magistrates drawn from other clans to oversee Toshi Ranbo's 5 districts.  These magistrates were sent for at the end of the year and arrived the following spring.
+Hideo's followers denounced the speech and claimed to have had no idea he would give it.  Prince Fukuhachi still had every member of the group executed, which was followed by significant additional unrest.  After this incident, Prince Fukuhachi appointed a Board of Justice composed of five Imperial Magistrates drawn from other clans to oversee Toshi Ranbo's five districts.  These magistrates were sent for at the end of the year and arrived the following spring.
 
 Towards the end of the year, Tsume Retsu, the man who had conquered Toshi Ranbo, was murdered under mysterious circumstances.  His killer has never been found.
 
@@ -1895,7 +1943,7 @@ In the aftermath of multiple "moon cultists" having been found in the Order of B
 
 Master Reiji chose to seek promotion and became the Warden of the Five Gates of the Temple of Bishamon.  The PCs may or may not have achieved promotion during this time - this will be determined at character creation.
 
-Apart from this entire affair, a dueling tournament was held at the end of the year according to the terms of the peace treaty between the Lion and Crane, which determined the final ownership of several disputed provinces.  The Lion did well for themselves overall, though 1 province in particular was lost in a surprise upset due to Doji Masayo, who appeared at the tournament with the cursed sword Shitsuten.
+Apart from this entire affair, a dueling tournament was held at the end of the year according to the terms of the peace treaty between the Lion and Crane, which determined the final ownership of several disputed provinces.  The Lion did well for themselves overall, though one province in particular was lost in a surprise upset due to Doji Masayo, who appeared at the tournament with the cursed sword Shitsuten.
 
 1129 The fungal blight kumosaya struck the domain.  Initially it did not appear that it would have great effect, but ultimately it destroyed half of the rice and soybean crops, devastating the domain and causing much hardship, especially among the peasantry, many of whom fell deeply into debt due to being unable to pay their debts.
 
@@ -1903,7 +1951,7 @@ The Order of Bishamon has been asked by the Damasu chancellery to look into why 
 
 ### Lord Moon's Heavenly Court
 
-Since the Karmic Inquisitors are PCs who are members of The Order of Lord Moon, let's go over some details about the members of Lord Moon's heavenly court which are worshipped by The Order.
+Since the Karmic Inquisitors are PCs who are members of The Order of Lord Moon, some details about the members of Lord Moon's heavenly court worshipped by The Order follow.
 
 Members of The Order become disciples of one or more servants of Lord Moon - members of his heavenly court.  At present, there are three different levels of abilities, referred to as the Crescent Moon Phase of abilities, the Half Moon Phase of abilities, and the Gibbous Moon phase of abilities.
 
@@ -1951,6 +1999,8 @@ Thus it came to pass that even after the source of Suro's power later became kno
 
 Disciples of Suro learn to call upon the power of the Shadow of Nothing by beseeching Suro to share this power with those who serve him.  In the days before the Empire, this was done openly by those to the south of the Spine of the World mountains who later swore fealty to Bayushi, founder of the Scorpion clan.  The Order of Lord Moon knows that the high priestess who was chosen by the Shinsei as the Scorpion clan Thunder chose her name in honor of Suro, which is why she was known as Shosuro.  Indeed, after the defeat of Fu Leng, it was Shosuro alone who returned with the Black Scrolls, and though she died of her wounds shortly after, it was surely the power of the Shadow whose power allowed her to be the last surviving Thunder.
 
+#### A Saibankan Ruling
+
 Here is a story of Lord Moon (and Lady Sun), told by Soshi Saibankan during his time as an Imperial Magistrate.  The story is part of a transcript of a famous Saibankan ruling, to give an idea of how he talked.  Many magistrates to this day model their own rulings after Saibankan's way of speaking.
 
 Here are the facts of this case:
@@ -1965,7 +2015,7 @@ Here are the facts of this case:
 
 - Masao proceeded to brag to the entire bar that Asahi was lucky that this was merely a brawl and not a real duel, declared himself the superior fighter, proclaiming that in any real duel he would have surely killed Asahi.
 
-- Asahi challenged him to a duel to the death the next day, in repayment for the insult.  Masao apologized profusely, publicly said he knew Asahi was the superior opponent, and begged Masao to pretend that he had never said those things.  Asahi petitioned the Office of the Emerald Champion to have a magistrate rule that Masao must accept his challenge.
+- Asahi challenged him to a duel to the death the next day, in repayment for the insult.  Masao apologized profusely, publicly said he knew Asahi was the superior opponent, and begged Asahi to pretend that he had never said those things.  Asahi petitioned the Office of the Emerald Champion to have a magistrate rule that Masao must accept his challenge.
 
 - Masao argued that they were both drunk, that he had apologized and publicly set the record straight, and that even if a duel was warranted, it should be to submission rather than to the death.  Masao declared that he was happy to submit to a superior opponent, possibly after simply seeing his opponent show his stance, if indeed Asahi turned out to be as skilled as his reputation suggested.
 
@@ -2061,7 +2111,7 @@ But even more dangerous than the Namebroken were those who struck their names so
 
 One day, the Reikodokiri stumbled upon the Kakurekame - the hidden turtle - as it swam through the river of heaven.  Being ravenous from the ages spent in hiding, the Reikodokiri devoured the Kakurekame, and found to its surprise that it could now form itself into a Kakureidokame, swimming unseen through the river of heaven, cleverly hiding itself in its cold currents.  And when Goju finally discerned the creature's new form and carefully strung the celestial cords of his Star-Knotted Net to ensnare the beast, it shed the Kakurekame name and slipped through as a Reikiri - a being as insubstantial as cold mist.
 
-Having now realized the power it could gain by consuming the names of its victims, the Reikodokiri became a terror of the realm of night, embodying the essences of its prey, changing into many forms and shedding them at will to evade its pursuers.  In response to fearful petition from his subjects, Lord Moon asked Goju what he would require to capture this latest terror of the night, and promised that the resources of the court were Goju's to use as he saw necessary.
+Having now realized the power it could gain by consuming the names of its victims, the Reikodokiri became a terror of the realm of night, embodying the essences of its prey, changing into many forms and shedding them at will to evade its pursuers.  In response to fearful petitions from his subjects, Lord Moon asked Goju what he would require to capture this latest terror of the night, and promised that the resources of the court were Goju's to use as he saw necessary.
 
 Lord Moon would have mustered all the forces of the realm and placed them under Goju's direction, but Goju requested only a single warrior - Keninchujin - whose strong loyal blade had stubbornly refused to ever accept defeat at the hands of any foe, and the Sutra of the Black Origin, which had tethered many unwary spirits through the eons.
 
@@ -2123,7 +2173,7 @@ Ryoshun's gaze met his, calm and certain.  "Perhaps eventually, Suro - but I'd w
 
 ### The Damasu Domain
 
-The Karmic Inquisitors campaign took place in Damasu lands, which we've mentioned a few times before.  Here's some setting information about Damasu lands.
+The Karmic Inquisitors campaign took place in Damasu lands, mentioned previously.  Setting information about Damasu lands follows.
 
 #### Damasu Lineages
 
@@ -2247,15 +2297,15 @@ There are a small handful of other Nire serving in government posts around the D
 
 #### Damasu Provinces
 
-Now that we've talked about the people, let's talk about the provinces of the Damasu.
+With the people covered, here are the provinces of the Damasu.
 
-Prior to the Lion/Crane war, the Damasu domain consisted of 6 provinces.  After Toshi Ranbo fell, they lost all but 2 of those provinces to the Tsume, but by the end of the war the Lion clan managed to reclaim all that they had lost and take 4 additional provinces from the Tsume domain.
+Prior to the Lion/Crane war, the Damasu domain consisted of six provinces.  After Toshi Ranbo fell, they lost all but two of those provinces to the Tsume, but by the end of the war the Lion clan managed to reclaim all that they had lost and take four additional provinces from the Tsume domain.
 
-The peace treaty which the Emperor helped negotiate stipulated a dueling tournament which determined the disposition of the 4 provinces which originally belonged to the Tsume. 20 duelists drawn from the Crane and Phoenix clans dueled 20 Lion duelists, and Lion victories resulted in the Lion retaining those provinces, while Lion defeats allowed the Crane to pay an enormous sum of money in exchange for retaining control of the province.
+The peace treaty which the Emperor helped negotiate stipulated a dueling tournament which determined the disposition of the four provinces which originally belonged to the Tsume. 20 duelists drawn from the Crane and Phoenix clans dueled 20 Lion duelists, and Lion victories resulted in the Lion retaining those provinces, while Lion defeats allowed the Crane to pay an enormous sum of money in exchange for retaining control of the province.
 
 The Lion did well in this tournament, but the Damasu lost the Tango province in an upset duel in which Doji Masayo killed the expected-to-win Akodo no Damasu Tsuo after showing up with the cursed sword Shitsuten.
 
-The current Damasu domain therefore consists of their 6 original provinces plus 3 new Tsume provinces.  The three new provinces have each been assigned to a lineage from a different Akodo family who helped retake the domain.
+The current Damasu domain therefore consists of their six original provinces plus three new Tsume provinces.  The three new provinces have each been assigned to a lineage from a different Akodo family who helped retake the domain.
 
 ##### Owari
 
@@ -2283,7 +2333,7 @@ Higo means "fat later" or "abundant harvest," due to its fertile lands along the
 
 Izumo means "cloud-exiting," and the soothsayers of Izumo have long studied the movements of the clouds, noting the ways in which the summer winds blow from southeast to northwest, while the winds of winter blow from the northwest to the southeast.  "Pillars of cloud" seen in this province have always heralded either great fortune or coming disaster according to the seasons in which they appear - until this past year in which they failed to give any indication of the coming fungal blight.
 
-Izumo was one of the 2 provinces never taken by the Tsume, and like Higo it was absorbed by the neighboring Chura domain before being returned to the Damasu when the Lion retook Toshi Ranbo.
+Izumo was one of the two provinces never taken by the Tsume, and like Higo it was absorbed by the neighboring Chura domain before being returned to the Damasu when the Lion retook Toshi Ranbo.
 
 Izumo has historically been a "dynasty province" held by the Taizo lineage, but after their recent failure to predict the fungal blight their standing has once again been called into question and it is unclear which of the Damasu lineages will get the next provincial governor of Izumo.
 
@@ -2301,7 +2351,7 @@ The name means "lower field" or "lower plain," was the southernmost province in 
 
 #### Damasu Temples
 
-Since the PCs are members of the Brotherhood of Shinsei, let's talk about the significant temples in Damasu lands.
+Since the PCs are members of the Brotherhood of Shinsei, the significant temples in Damasu lands deserve some attention.
 
 When the Shinsei was advising the Hantei on the new Empire being created, part of his guidance was the identification of the 7 Major Fortunes whose favor would bring good luck and prosperity to humanity:
 
@@ -2339,7 +2389,7 @@ Under the Tsume administration the Order of Bishamon's influence was minimal, bu
 
 ##### The Temple of Daikoku
 
-Grand Abbot Okawa was the head of the Order of Bishamon in Scorpion lands.  Although Daikoku is not one of the Fortune patrons to the Scorpion clan, the city of Ryoko Owari boasts the largest Temple of Daikoku in the Empire, and under Okawa's decades-long leadership the temple began to spread its influence throughout Scorpion lands.  Okawa himself was blessed with the gift of prophecy, and all who heard his sermons were changed by them.
+Grand Abbot Okawa was the head of the Order of Bishamon in Scorpion lands.  Although Daikoku is not one of the patron Fortunes of the Scorpion clan, the city of Ryoko Owari boasts the largest Temple of Daikoku in the Empire, and under Okawa's decades-long leadership the temple began to spread its influence throughout Scorpion lands.  Okawa himself was blessed with the gift of prophecy, and all who heard his sermons were changed by them.
 
 Okawa was revealed on the Day of Thunder to be the descendant of Shinsei, and it was he who gathered together the Seven Thunders to defeat Shinjo Jotsu, Lord Moon's Champion.  This has spurred the Temple of Daikoku to even greater heights, and after the previous Grand Abbot of Daikoku for Damasu lands died, one of Okawa's disciples was appointed.
 
@@ -2361,9 +2411,9 @@ The Damasu administration have mainly left this temple alone, as they do not wis
 
 ## Soothsaying
 
-As mentioned above, various omens and portents in the Karmic Inquisitors campaign should have foretold of the kumosaya fungal blight.  Let's talk about omens and portents in Rokugan, and how they are understood as tools of soothsaying.
+As mentioned above, various omens and portents in the Karmic Inquisitors campaign should have foretold the kumosaya fungal blight.  Here is how omens and portents work in Rokugan, and how they are understood as tools of soothsaying.
 
-Although "soothsaying" literally means "truth-speaking", the word colloquially refers to predicting the future.  Soothsaying has 2 categories, which split into 4 disciplines, which divide into 8 forms, which are composed of innumerable different practices.  Here's the opening that people read when opening the book "On Soothsaying":
+Although "soothsaying" literally means "truth-speaking", the word colloquially refers to predicting the future.  Soothsaying has two categories, which split into four disciplines, which divide into eight forms, which are composed of innumerable different practices.  Here's the opening that people read when opening the book "On Soothsaying":
 
 "This book was originally published by Isawa Akuma, who was later discovered to have stolen it from the Great Library.  Its true authorship is unknown.  Anyone who discovers a copy of this book without this disclaimer is ordered to report it to the office of the Jade Champion."
 
@@ -2373,7 +2423,7 @@ Akuma published a number of works of scholarships written by people who were nev
 
 "On Soothsaying" is still considered the foundational work of scholarship on the subject of augury and prophecy, despite its origins, which speaks to its quality.
 
-Here's a high-level description of the breakdown of soothsaying's 2 categories, 4 disciplines, and 8 forms:
+Here's a high-level description of the breakdown of soothsaying's two categories, four disciplines, and eight forms:
 
 - Soothsaying: the general term for all the different ways of predicting the future
   - Augury: the general category of soothsaying, identifying and interpreting universal omens and portents
@@ -2391,7 +2441,7 @@ Here's a high-level description of the breakdown of soothsaying's 2 categories, 
       - Sentinel Prophecy: the god commits to providing warning signs in advance of some specific threat, e.g. Osano Wo warns of possible fires in the city of Komori (on the Island of Spice in the Mantis Isles) by causing a red sky over the eastern ocean at dawn
       - Stratagem Prophecy: a god has shared a plan with a human prophet, so that they may help ensure this plan comes to pass, e.g. the prophecy that the 3rd Imperial Legion should send The Dreamer, The Gambler, The Historian, and the Painter as a company to journey into the Shadowlands to reach the Forgotten Tomb on the day of the Chrysanthemum Festival, and that by doing so these warriors can gain power over the Shadowlands and win a great victory over the Dark Moto
 
-Now here's what I have as the original introduction to the book "On Soothsaying":
+The original introduction to the book "On Soothsaying" follows:
 
 Everyone sees into the future.  Even simpletons understand that a rock thrown into the air is likely to fall back down.  We make such predictions every minute of our lives.
 
@@ -2526,9 +2576,9 @@ Note that while this list should be definitive for everyone from last year and t
 
 Thus, many visitors to Toshi Ranbo spend months visiting the Temple, making donations, and visiting relics before they even decide to take the next step and put themselves in line for e.g. handling the Prayer Beads of the Guardian Spirits, or being able make a secret vow on the Sword of the Vanquished Warlord.  This list would be easily twice as long if it included everyone from just this year who is known to be interested in such things but has not made any overt attempts to gain access to the more restricted relics.
 
-Similarly, this list would probably double in size again (i.e. 4 times its current size) if it were to include locals who eventually decided to become relic-seeking pilgrims.  This list includes e.g. Damasu samurai who came to Toshi Ranbo from elsewhere in the domain, but it excludes people who are known to have been living in the city for many years who only recently began to make a serious attempt to get personalized audiences with each temple relic.
+Similarly, this list would probably double in size again (i.e. four times its current size) if it were to include locals who eventually decided to become relic-seeking pilgrims.  This list includes e.g. Damasu samurai who came to Toshi Ranbo from elsewhere in the domain, but it excludes people who are known to have been living in the city for many years who only recently began to make a serious attempt to get personalized audiences with each temple relic.
 
-Below is the alphabetical list which has so far been prepared - note that due to "Akodo" being early in the alphabet, the first collection of names on this list are the children of local Damasu samurai - typically through not always second children - who have recently passed their gempukku and thus are now eligible to come to the temple as relic seekers.
+Below is the alphabetical list which has so far been prepared - note that due to "Akodo" being early in the alphabet, the first collection of names on this list are the children of local Damasu samurai - typically though not always second children - who have recently passed their gempukku and thus are now eligible to come to the temple as relic seekers.
 
 In the coming weeks, the monks tasked by the PCs to look into these people will follow up on each of them individually, investigating their living situations, whether they are still indeed in the city, speaking to their neighbors, and generally assessing whether there is anything suspicious or unusual about them, e.g. a samurai renting a cheap house in a laborer neighborhood would be a stunning and embarrassing fact which they surely would never have revealed to the Temple voluntarily.
 
@@ -2578,13 +2628,13 @@ Takeshi has expressed an ease of being away from home for so long, given that he
 
 The eldest daughter of Akodo no Damasu Shiho, the county magistrate of Hoshizora, the county where the PCs reclaimed the stolen teaset from Village Headsman Tomonori:
 
-The Nire lineage has only 2 county magistrates and no position on the chancellery.  The magistrate positions they hold are not hereditary to their lineage, which means that Yumiko must struggle to become worthy - so accomplished that the chancellery **must** choose her to replace her mother when the time comes, despite members of every other lineage putting forth their own candidates.  It is for this purpose that Yumiko, as the eldest child of the second-highest-ranking member of her lineage, arrived in the summer of this year, seeking the strength for the path ahead of her.
+The Nire lineage has only two county magistrates and no position on the chancellery.  The magistrate positions they hold are not hereditary to their lineage, which means that Yumiko must struggle to become worthy - so accomplished that the chancellery **must** choose her to replace her mother when the time comes, despite members of every other lineage putting forth their own candidates.  It is for this purpose that Yumiko, as the eldest child of the second-highest-ranking member of her lineage, arrived in the summer of this year, seeking the strength for the path ahead of her.
 
 Despite being the child of a county magistrate, Yumiko wears simple pilgrim's robes, reflecting the relative poverty of her lineage and the difficult times the domain is suffering.
 
 ### Asahina Kenta
 
-Kenta was a shrine guard in Shinden Asahina, when an Daidoji priest named Kouji entered the shrine.  Though not armed, Kouji and his companions pushed their way towards the shrine, and Kouji began making a speech about having been told in a dream by a divine figure that the time had come for the cursed sword Shitsuten (Lost Heaven) to be wielded once again.  (See the Famous swords section for an explanation of Shitsuten.)
+Kenta was a shrine guard in Shinden Asahina, when a Daidoji priest named Kouji entered the shrine.  Though not armed, Kouji and his companions pushed their way towards the shrine, and Kouji began making a speech about having been told in a dream by a divine figure that the time had come for the cursed sword Shitsuten (Lost Heaven) to be wielded once again.  (See the Famous swords section for an explanation of Shitsuten.)
 
 Kenta tried to stop the priest, who had clearly fallen under the sword's influence, but he and his fellow guards were not strong enough, and Kenta almost died from being pummeled to the ground by the fists of the Daidoji.  The raid was later ruled as being legitimate by Doji Wayu, the karo to the Crane Clan magistrate for Shinden Asahina, Doji Masayo, who later appeared with the sword at the Sunset Blade Trials and killed Damasu Tsuo in her duel.
 
@@ -2594,7 +2644,7 @@ Out of the ashes of his shameful defeat, Kenta has made a warrior's pilgrimage t
 
 Sachi is a renown ichthyologist, with a specialty in tropical fish, and she has reliably received invitations to every Imperial Winter Court, where she advises courtiers from each of the 7 Great Clans, as well as the Imperial Families and minor clans.  Being from Asako lands, which was always close to Damasu lands - and now borders the Damasu directly - she has visited Toshi Ranbo many times over the years, but the year before last she bought a house in the city and has spent most of her time here, especially in the Temple District.
 
-Steward Iori regards her with some amount of disfavor for 2 main reasons.  First, she left the city to attend Imperial Winter Court in Kyuden Shinjo the time before last, which forfeited her place in line (even as others such as Setsuko the beggar-nun - see below - were given priority).  Second, Iori considers it unseemly that she is so interested in all of the city's relics - she has spent just as much time in the Temple of Daikoku and their relics, handling the Wealth Bringer Rice Husk, the Key to Treasure Mountain, the Endless Warren, the Statue of Abundance, and others.  While many pilgrims seek the wisdom of all of the fortunes, Iori regards Sachi as a dilettante, hoping to gain wisdom and influence through proximity to the divine, rather than through discipline and study.
+Steward Iori regards her with some amount of disfavor for two main reasons.  First, she left the city to attend Imperial Winter Court in Kyuden Shinjo the time before last, which forfeited her place in line (even as others such as Setsuko the beggar-nun - see below - were given priority).  Second, Iori considers it unseemly that she is so interested in all of the city's relics - she has spent just as much time in the Temple of Daikoku and their relics, handling the Wealth Bringer Rice Husk, the Key to Treasure Mountain, the Endless Warren, the Statue of Abundance, and others.  While many pilgrims seek the wisdom of all of the fortunes, Iori regards Sachi as a dilettante, hoping to gain wisdom and influence through proximity to the divine, rather than through discipline and study.
 
 Admittedly, Sachi is not only interested in relics, as she spends perhaps more time with the Order of Sadahako than with all other temples combined, and they are so new that they have no significant relics to speak of.  However, she seems especially interested in those who personally knew the prophet Baiten, which Iori takes to only confirm his theory that she is seeking closeness to greatness rather than earnestly trying to put in the hard work to make herself great.
 
@@ -2660,7 +2710,7 @@ Haruto arrived in the spring of this year, but unfortunately it turns out he wou
 
 Sasha is the now-retired chancellor of the Reiko lineage of the Wakashi House, the domain which borders the Natsune domain (across the Drowned Merchant River) of the Shinjo domain of the Unicorn clan.  Sasha declares himself to be "the man who started the Lion / Unicorn war", and this is no mere brag - he led the envoy in which Ikoma Yuan (see Ikoma Haruto above) slew the Atsue chancellor as part of his blood feud, an action which heightened tensions between the Lion and Unicorn clans, which ultimately culminated in war.
 
-The war went well at the beginning, with the Lion winning several early victories and laying siege to Kyuden Shinjo.  It was only when the Moto appeared, with greater strength than anyone imagined they possessed, that their victory turned to ashes, and they lost over 8 thousand bushi in a single day.
+The war went well at the beginning, with the Lion winning several early victories and laying siege to Kyuden Shinjo.  It was only when the Moto appeared, with greater strength than anyone imagined they possessed, that their victory turned to ashes, and they lost over eight thousand bushi in a single day.
 
 As "the man who started the war", Sasha feels conflicted about his actions - while there was nothing but honor shown at the Battle of Dark Edge Village, and every Lion bushi, living and dead, has been glorified through their struggle and sacrifice, Sasha never expected his clan to be materially worse off for his actions.  Of course, he is not blamed for any of this, and the Lion continue to speak of the war as a great opportunity to refresh and renew the courage of their clan through blood and death, as bushi of each new generation must often do.
 
@@ -2676,7 +2726,7 @@ When the war ended, Kazuki was forced to admit that he had been wrong, his Clan 
 
 ### Kakita Kenji
 
-Kenji arrived a few months ago, just before the Harvest Moon of the Autumnal Equinox.  He is one of the few Crane pilgrims to have made such a pilgrimage, given the current hostility to the Crane.  In particular, Kenji waited 3 seasons after winning his duel in the Sunset Blade Trials.
+Kenji arrived a few months ago, just before the Harvest Moon of the Autumnal Equinox.  He is one of the few Crane pilgrims to have made such a pilgrimage, given the current hostility to the Crane.  In particular, Kenji waited three seasons after winning his duel in the Sunset Blade Trials.
 
 Kenji has more recently returned after being sent by the PCs to find Doji Masatoshi, the man who stole the Orb of Hallowed Visions:
 
@@ -2798,7 +2848,7 @@ Kiyoshi and Hina have continued to donate to the Temple of Bishamon, and pray th
 
 ### Initial Findings
 
-The PCs' staff was initially unable to locate 8 people on that list.  Relic seekers are instructed not to leave the city without informing the temple, and this will be a ding on their records and affect their places in line as relic seekers, lengthening the amount of time it will take them to gain access to all of the temple relics.
+The PCs' staff was initially unable to locate eight people on that list.  Relic seekers are instructed not to leave the city without informing the temple, and this will be a ding on their records and affect their places in line as relic seekers, lengthening the amount of time it will take them to gain access to all of the temple relics.
 
 Here's the list, in alphabetical order:
 - **Akodo no Damasu Jinsei** was staying with cousins from the Chura lineage, but left the city recently, and his aunts claim to not know where he has gone.
@@ -2813,8 +2863,8 @@ There weren't any shocking living situations, though there were a few minor surp
 
 - **Asako Sachi** has a small city home which she evidently has barely used since buying it.  She has been so popular with the city's courtiers, and with the daimyo Damasu Chiho in particular, that she has been granted semi-permanent quarters in the castle keep.  Strangely, she seemed to have some other third residence, since she spends at least a few days each week elsewhere in the city, and not at her rented home.  Your staff initially assumed she was pursuing romantic entanglements, but it turned out to be the opposite - she frequently spends the night praying at the Temple of Sadahako, alternating between the smaller one in the Temple District, and the larger temple a mile outside the city.
 - **Hida no Noriko Takeo** is renting a house in the merchant neighborhood to the northeast of Merchant's Cross Lake, specifically the one which used to be a samurai neighborhood.  When asked, his wife explained that she hadn't realized the neighborhood status had changed when she rented it.  This would be in keeping with a separate real estate blunder she also made, in which she bought several warehouses from the Akio merchant family, apparently not realizing that they were in northeast Owari too far from the city, canals, and Imperial roads to be useful.  Your staff described Takeo as smiling fondly as his wife described the home rental snafu, reporting that he seems charmed rather than annoyed by his wife's poor household management skills.  (Presumably, if this was something he valued highly enough, he would have married a Yasuki instead of a fellow Hida.)
-- **Kuni Isamu** told the temple that they could find him through the local Witch Hunters (plural!  Toshi Ranbo is one of only 4 cities in the Empire to have more than 1 Witch Hunter, along with Otosan Uchi, Ryoko Owari, and the Yasuki Estates).  However, he turned out to be living with his friend and fellow recipient of the Order of the Precious Crown, Shiba Asayo.  Both of them appear to be training dogs for sport, to compete in some kind of local dogfighting circuit.  Evidently they are engaged in a project to prove that dogs initially trained for hunting and then turned into fighters will be superior to classically trained fighting dogs in certain respects, and they perform this project in their spare time on the grounds of Asayo's rented country home in Hikobayashi, just outside the city.
-- **Ikoma Haruto** has a small rented home in the city, along with other visiting members of the Ikoma family.  It's surprising that he does not stay with Ikoma Aimi, the Ikoma Emmisary to the Damasu, especially since his father is the Ikoma Family Deputy Minister of War, and is from the same ruling Ikoma lineage as Aimi.  More surprising is that when your staff visited Aimi's estate, they were followed out by a Phoenix merchant named Shiba no Kenshin Basho, who inquired about their business and position.  Upon learning that the visiting monks report to the karmic inquisitors, Basho immediately made a 4 bu, 1 zenni donation (no one would ever give a gift of exactly 4 bu, due to the number's association with death), and asked to be informed when you returned to the city, so he could speak to you about his business as a horse trader.
+- **Kuni Isamu** told the temple that they could find him through the local Witch Hunters (plural!  Toshi Ranbo is one of only four cities in the Empire to have more than one Witch Hunter, along with Otosan Uchi, Ryoko Owari, and the Yasuki Estates).  However, he turned out to be living with his friend and fellow recipient of the Order of the Precious Crown, Shiba Asayo.  Both of them appear to be training dogs for sport, to compete in some kind of local dogfighting circuit.  Evidently they are engaged in a project to prove that dogs initially trained for hunting and then turned into fighters will be superior to classically trained fighting dogs in certain respects, and they perform this project in their spare time on the grounds of Asayo's rented country home in Hikobayashi, just outside the city.
+- **Ikoma Haruto** has a small rented home in the city, along with other visiting members of the Ikoma family.  It's surprising that he does not stay with Ikoma Aimi, the Ikoma Emissary to the Damasu, especially since his father is the Ikoma Family Deputy Minister of War, and is from the same ruling Ikoma lineage as Aimi.  More surprising is that when your staff visited Aimi's estate, they were followed out by a Phoenix merchant named Shiba no Kenshin Basho, who inquired about their business and position.  Upon learning that the visiting monks report to the karmic inquisitors, Basho immediately made a 4 bu, 1 zeni donation (no one would ever give a gift of exactly 4 bu, due to the number's association with death), and asked to be informed when you returned to the city, so he could speak to you about his business as a horse trader.
 
 ### Initial follow-up to the initial findings
 
@@ -2847,7 +2897,7 @@ The PCs requested their staff try to track down those who were out of the city, 
 
 The PCs in the Karmic Inquisitors campaign asked for a list of famous swords in and around the domain, with particular attention to swords in Damasu lands or in Crane possession nearby.  They suspected that a powerful sword might be responsible for the affliction of the domain.
 
-Here's a list of the 10 most famous swords which the PCs was able to learn about.  This involved some consultation with local samurai, who have better records about particular swords and who among the local peerage currently possesses them.
+Here's a list of the 10 most famous swords which the PCs were able to learn about.  This involved some consultation with local samurai, who have better records about particular swords and who among the local peerage currently possesses them.
 
 ### **Amatsukami no Ken** (Heavenly Sovereign's Sword)
 
@@ -2865,7 +2915,7 @@ When Kakita Kenji forced the governor to step down by winning a duel against his
 
 This is the most famous sword possessed by the Riori lineage, and is the familial sword of the governor of Owari, who has always been a Riori ever since Akodo Riori swore fealty to Lord Akodo and was assigned as a retainer to Akodo Damasu at the dawn of the Empire.  The rhyme of the names is intentional - Ohari means "big needle" and Owari is the "end" of the domain, acting as a bulwark against foreign invaders, with the Riori lineage forever an important line of defense.
 
-The sword gained its reputation during the Gozoku.  The Tsume house and their allies pushed south - prior to the Gozoku there were 2 Crane clan domains to the north of Imperial lands, with the rest of the Crane being to the south, and the Crane sought to conquer a strip of Lion lands to join the north and south together, along with forcing the Seppun to forfeit some of their own holdings through political machinations in the Imperial Court.
+The sword gained its reputation during the Gozoku.  The Tsume house and their allies pushed south - prior to the Gozoku there were two Crane clan domains to the north of Imperial lands, with the rest of the Crane being to the south, and the Crane sought to conquer a strip of Lion lands to join the north and south together, along with forcing the Seppun to forfeit some of their own holdings through political machinations in the Imperial Court.
 
 Tsume Nobura was made the daimyo of the new Nobura domain, and while acting as general of his new retainers, he tried to expand his holdings by pushing into Hiyu lands.  The Damasu contributed troops to the support of their southern neighbors, and General Fumikazu personally struck down General Nobura, piercing his armor with his family sword Ohari, which stabbed (rather than slashed) through the heavy armor like a needle passing through cloth, scattering his troops and winning the battle in that moment.
 
@@ -2905,7 +2955,7 @@ This sword is not only impressive on its own, but also has a fantastic sheath - 
 
 Had the cowardly Tsume actually been willing to fight Yokijiro and somehow slain him, he would have inherited Akuzuki, which must always be willed to whoever kills its wielder in a duel.  This can be difficult to avoid, since whoever holds this sword must accept any challenge to a duel to the death.  (Duels to submission do not trigger a change of ownership.)
 
-Akuzuki has been in Yokijiro's family for 3 generations, which is only 1 fewer generation than the previous record, during which time it was in the possession of a family line of Shosuro duelists.  Yokijiro is proud of this accomplishment, and has won many duels with this sword, but he wonders whether the 4th generation is cursed - the number 4 is associated with death, so if he leaves this sword to his own grandson, this may doom his grandson to die in a duel.
+Akuzuki has been in Yokijiro's family for three generations, which is only one fewer generation than the previous record, during which time it was in the possession of a family line of Shosuro duelists.  Yokijiro is proud of this accomplishment, and has won many duels with this sword, but he wonders whether the 4th generation is cursed - the number 4 is associated with death, so if he leaves this sword to his own grandson, this may doom his grandson to die in a duel.
 
 Of course, this is not necessarily a bad thing, and although Yokijiro has sought the counsel of members of the Order of Bishamon about this, his current intention is indeed to pass this sword along to his grandson (who is currently only a baby) upon his retirement.  After all, even if the curse is real, his grandson may win many righteous duels along the way to his death, and to pass the sword along to someone else when he retires would be a failure to teach courage to his descendants.
 
@@ -2941,9 +2991,9 @@ Aina's daughter donated the sword to Shinden Asahina, which promised to keep the
 
 After the legendary swordsmith Hyobu went into retirement, he decided to climb Togashi Mountain from the east, along its confusing and otherworldly network of mountain paths and caves.  This is the most auspicious set of paths for those who climb the mountain seeking enlightenment, but there are many dangers, and few reach the mountaintop by those routes.  The mountain does not permit the unworthy to ascend from this direction, and thus many travelers either perish before they reach the top, or take up a new life there, living as hermits or in small communities of goatherds as they prepare themselves to continue their ascent.
 
-Hyobu was one such man, who spent years climbing the mountain from the east, sometimes spending months on his journeys, sometimes giving up and returning to the base of the mountain for supplies or respite.  Eventually he befriended a Silver Dragon which he met on his final climb, which gifted him a large scale after he managed to solve its 7 holy riddles over the course of 7 days and nights.
+Hyobu was one such man, who spent years climbing the mountain from the east, sometimes spending months on his journeys, sometimes giving up and returning to the base of the mountain for supplies or respite.  Eventually he befriended a Silver Dragon which he met on his final climb, which gifted him a large scale after he managed to solve its seven holy riddles over the course of seven days and nights.
 
-Hyobu never made it to Kyuden Togashi - instead he descended a final time, coming out to retirement and using the Silver Dragon's scale to form an alloy of silver and steel, which he used to forge a final set of 7 swords, the greatest of all of his works.  Each sword was associated with a different riddle asked by the Silver Dragon, whose answers each corresponded to the 7 tenants of bushido.
+Hyobu never made it to Kyuden Togashi - instead he descended a final time, coming out to retirement and using the Silver Dragon's scale to form an alloy of silver and steel, which he used to forge a final set of seven swords, the greatest of all of his works.  Each sword was associated with a different riddle asked by the Silver Dragon, whose answers each corresponded to the 7 tenets of bushido.
 
 Seiginryu (Silver Dragon's Justice) is the sword associated with the Virtue of Justice, and it is often wielded by Kitsuki Magistrates and duelists of the Dragon Clan who work to bring criminals to justice.  When wielded against the unrighteous, the light which catches the sword forms a glint which appears as a blinding flash to a wicked opponent.  Past duelists have sometimes won duels against superior opponents who were blinded by the sword's reflected light as the sword was drawn in an iaijutsu strike.
 
@@ -2953,7 +3003,7 @@ Mirumoto Kiyoshi currently wields this sword, and she has spent the past decade 
 
 This is the 5th most famous sword in the Scorpion Clan.  The Ancestral Swords of the Bayushi Family, Shosuro Family, and Michio House are all more famous, as is Bayushi Tangen's **Kurainigo** (the Dark Sword of Bitter Lies), but aside from these there are no other Scorpion swords which anyone could seriously argue are more famous than Tamashikari.
 
-The Scorpion Clan consider loyalty to be the most important tenant of bushido, for as Bayushi Ujiro is recorded as having said in the famous storyteller Kakita Ryoku's novel "Winter", "without loyalty, every other virtue possessed by your retainer serves only your enemy".  Traitors, therefore, are deserving of the highest punishment, and Soshi shugenja have created a holy and terrible place known as Traitor's Grove, where traitors to the Scorpion Clan are executed.  The executed traitor's soul is bound to a tree, and so long as that tree lives, their soul is denied access to the cycle of death and rebirth.
+The Scorpion Clan consider loyalty to be the most important tenet of bushido, for as Bayushi Ujiro is recorded as having said in the famous storyteller Kakita Ryoku's novel "Winter", "without loyalty, every other virtue possessed by your retainer serves only your enemy".  Traitors, therefore, are deserving of the highest punishment, and Soshi shugenja have created a holy and terrible place known as Traitor's Grove, where traitors to the Scorpion Clan are executed.  The executed traitor's soul is bound to a tree, and so long as that tree lives, their soul is denied access to the cycle of death and rebirth.
 
 While being a tree is not inherently bad, and the souls of trees may exist contentedly for many centuries, a human intellect bound to a tree will be inevitably driven to madness.  It is said that for every year spent as a tree, it will take an entire future lifetime to recover from the depths of madness to which the souls in Traitor's Grove are driven.  The Masters of Purity of that dark garden know how to keep trees alive for hundreds of years, ensuring that even after its victims re-enter the cycle of death and rebirth it will take hundreds of generations to regain a semblance of their sanity.
 
@@ -2971,7 +3021,7 @@ With this work complete, Maiko came to Toshi Ranbo last winter on a warrior's pi
 
 During the Toshi Ranbo campaign, one of the PCs asked Akodo no Damasu Sei whether any of the servants in Hantei Daigotsu's estate were local, or if all of them had been brought with the prince.  It turns out that all of the servants normally rented with the estate were dismissed, except for Hatsue the senior pondwarden, who tended to the tropical fish kept within the estate.
 
-Hatsue overheard Matsu Gohei addressing the gathered scions of the Damasu (Beni, Genya, Hoshiko, Jinsei, Maya, Takeshi, and also Ryuji who is not going on the secret mission but who was present at this time).  Because she was coincidentally tending to the pond outside the window, she happened to overhear Gohei's address to the young samurai who are to be sent on this mission (and also Ryuji).
+Hatsue overheard Matsu Gohei addressing the gathered scions of the Damasu (Beni, Genya, Hoshiko, Jinsei, Maya, Takeshi, and also Ryuji who is not going on the secret mission but who was present at this time).  Because she was coincidentally tending to the pond outside the window, she happened to overhear Gohei's address to the young samurai who were to be sent on this mission (and also Ryuji).
 
 Gohei's address was more or less as follows:
 
@@ -3021,7 +3071,7 @@ Hayato was able to get only snippets of this conversation, but this included:
 
 ## The First Toshi Ranbo Campaign
 
-The "Karmic Inquisitors" campaign was actually the second time that I've set a campaign in the Damasu domain.  An earlier campaign was set in Toshi Ranbo, and here was my campaign overview at that time:
+The "Karmic Inquisitors" campaign was actually the second campaign set in the Damasu domain.  An earlier campaign was set in Toshi Ranbo, with this campaign overview at that time:
 
 For a thousand years the city of Toshi Ranbo was the capital of the Damasu, one of the largest houses of the Akodo family.  Three years ago the domain was conquered by the Tsume, one of the largest houses of the Doji family.  Due to a severe flooding after a torrential rainstorm, the city was cut off from reinforcements, so the Tsume attacked with a huge army and took the city before reinforcements could arrive.
 
@@ -3043,7 +3093,7 @@ Each PC has appellate jurisdiction over one of the districts.  Thus, instead of 
 
 This campaign was largely focused around conflicts which can occur within this kind of setting - an occupied city, clashes of cultures within Rokugan, the 3rd largest city in the Empire, the tension between clan interests and Imperial personalities, new religious movements, etc.
 
-As an example, here's what I wrote about the Prophet Baiten, who ended up being a significant figure in this campaign:
+As an example, here is the writeup of the Prophet Baiten, who ended up being a significant figure in this campaign:
 
 A radical monk named Baiten has been growing in popularity in the Toshi Ranbo province.  Baiten attracts fanatical followers who themselves become monks and go out and start their own ministries.  He's from southern Phoenix lands where he has spent a few years building up a ministry.  He has visited Dragonfly and Dragon lands and now has moved farther south towards Toshi Ranbo.
 
@@ -3075,13 +3125,13 @@ In fact, Doji Hirota and several dozen of the sergeants, corporals, and enlisted
 
 1. When the city was first taken, much private property was seized and sold, either to incoming samurai and merchants or even sometimes back to its original owners.  Hirota and his men took advantage of this in several ways:
 
-  - Many of the residency records were lost or destroyed when the city was taken by the Tsume.  As these records for this district were being assembled by the Tsume, Hirota stole many of them and claimed that they were never found.
+   - Many of the residency records were lost or destroyed when the city was taken by the Tsume.  As these records for this district were being assembled by the Tsume, Hirota stole many of them and claimed that they were never found.
 
-  - Because local monks are responsible for tracking citizens in their area of influence, Hirota had the abbot for the largest neighborhood in the district framed and exiled from the city for sheltering peasants from conscription.  He then moves the abbot of the second largest neighborhood in to replace that abbot, and has the second abbot replaced by someone from still another neighborhood.  Thus, none of the abbots have longstanding ties to their communities, nor do they know the history and properties in their new areas.
+   - Because local monks are responsible for tracking citizens in their area of influence, Hirota had the abbot for the largest neighborhood in the district framed and exiled from the city for sheltering peasants from conscription.  He then moves the abbot of the second largest neighborhood in to replace that abbot, and has the second abbot replaced by someone from still another neighborhood.  Thus, none of the abbots have longstanding ties to their communities, nor do they know the history and properties in their new areas.
 
-  - Hirota forced out many peasants who were NOT slated to have their property seized, and distributed their properties amongst his men.  He also told many other peasants whose homes were not slated to be seized that they needed to pay a fee or they'd have their property taken; Hirota then kept and distributed this money amongst his men.
+   - Hirota forced out many peasants who were NOT slated to have their property seized, and distributed their properties amongst his men.  He also told many other peasants whose homes were not slated to be seized that they needed to pay a fee or they'd have their property taken; Hirota then kept and distributed this money amongst his men.
 
-  - Hirota's own home was not actually bought legitimately; a large ex-Damasu merchant family bought the home with money they raised from their out-of-town relatives.  Hirota then had this family killed and took the home for himself, claiming that he was the one who bought it; because Hirota comes from a wealthy lineage, no one questioned that he would have purchased such an opulent manor.
+   - Hirota's own home was not actually bought legitimately; a large ex-Damasu merchant family bought the home with money they raised from their out-of-town relatives.  Hirota then had this family killed and took the home for himself, claiming that he was the one who bought it; because Hirota comes from a wealthy lineage, no one questioned that he would have purchased such an opulent manor.
 
 2. The corrupt magistrates take kickbacks from the local criminals in exchange for looking the other way on illegal activities like smuggling, opium trafficking, and prostitution.
 
@@ -3089,7 +3139,9 @@ In fact, Doji Hirota and several dozen of the sergeants, corporals, and enlisted
 
 Although there are many ways that the PCs could uncover Hirota's crimes, probably leading to an unexpected combat and subsequent arrests, they will have to really push to do so.  Kanroku has no idea about the conspiracy, but he trusts Hirota completely, and he'll be extremely offended at any perceived disrespect from the PCs.  This includes accusations against Hirota without overwhelming proof, as well as pushing to direct investigations and thus imply that Kanroku's men are incompetent.  So while there is plenty of evidence against Hirota and many who can testify against him, uncovering them will require either great forcefulness or great subterfuge.
 
-We also wanted to "explore" life in the countryside surrounding the city, and most of the time this was set in the southeastern county of Hikobayashi.  In this part of the Empire, the capital is to the southeast, and therefore southeast is "the direction of the Emperor" and is therefore most prestigious, and the wealthiest samurai always place their country estates to the southeast for this reason.  Here's what I wrote about this county:
+Life in the countryside surrounding the city also got attention, mostly set in the southeastern county of Hikobayashi.  In this part of the Empire, the capital is to the southeast, and therefore southeast is "the direction of the Emperor" and is most prestigious; the wealthiest samurai always place their country estates to the southeast for this reason.  The county writeup follows:
+
+### Hikobayashi County
 
 The largest of the counties surrounding Toshi Ranbo is the county of Hikobayashi.  Whenever something happens in the countryside, the GM should place the events in Hikobayashi unless there's a good reason not to.
 
@@ -3137,7 +3189,7 @@ Once again, the PCs will have to decide how to rule.  Depending on their relatio
 
 ### Nightingale Bushi
 
-After the invasion, a number of peasants took weapons from the bodies of fallen Lion soldiers and left the domain, trying to pass as ex-Damasu bushi ronin.  Most of them ended up in the Nightingale Clan, a newly formed minor clan who have been accepting ronin and even elevating wave men to the samurai caste.  Niban saw through their story, but accepted them anyway, coaching them on how to pass as samurai, helping them memorize a long lineage to recite on command, as any true Lion bushi would, and educating them to improve their reading and understanding of the tenants of bushido.
+After the invasion, a number of peasants took weapons from the bodies of fallen Lion soldiers and left the domain, trying to pass as ex-Damasu bushi ronin.  Most of them ended up in the Nightingale Clan, a newly formed minor clan who have been accepting ronin and even elevating wave men to the samurai caste.  Niban saw through their story, but accepted them anyway, coaching them on how to pass as samurai, helping them memorize a long lineage to recite on command, as any true Lion bushi would, and educating them to improve their reading and understanding of the tenets of bushido.
 
 Most of these bushi still send money back to their families, although they cannot bring them to Nightingale lands, as that would invalidate their stories of being ex-Damasu samurai.  However, they do visit their families on occasion, especially to fulfill their filial duties.  One such occasion is the Bon Festival, which is the Festival of the Dead.  The Nightingale return home to pay respects to their ancestors and visit their families; they bring their daisho but hide them in the homes of their families, since they obviously cannot carry them openly in Tsume lands.
 
@@ -3149,7 +3201,9 @@ Since the Nightingale were out honoring their ancestors at the festival while th
 
 They will ask that the peasants be released and that their weapons be returned.  If pressed, they actually seem more concerned about the peasants than about their weapons, although they will explain their concern as a matter of hospitality.  If the PCs cannot be convinced, the Nightingale will attack them and attempt to take them hostage, although the PCs will have weapons and the Nightingale will only have improvised clubs and such.  Their fighting style will certainly reveal that they are not truly bushi, which would go poorly for them regardless of whether they win.
 
-Because Toshi Ranbo is a place with people from every clan, we wanted to have non-Crane, non-Imperial characters.  We came up with a trio of Dragon magistrates, who we jokingly referred to as "the Dragon PCs" even though they were NPCs - we call them this because they acted the way that PCs usually act!  Here's the writeup for those characters.
+### The Dragon Magistrates
+
+Because Toshi Ranbo is a place with people from every clan, the campaign needed non-Crane, non-Imperial characters.  A trio of Dragon magistrates filled that role - nicknamed "the Dragon PCs" even though they were NPCs, because they acted the way that PCs usually act!  Here's the writeup for those characters.
 
 A trio of Dragon magistrates has recently arrived and joined the staff of Mirumoto Yagura, the Dragon clan ambassador to the city of Toshi Ranbo.
 
@@ -3183,7 +3237,9 @@ Osamu truly believes that he was correct and that the peasants he killed were pi
 
 The PCs must decide whether to charge Osamu, and if they do then whether to rule with the assumption that his victims were bandits.
 
-Another non-Crane NPC is a Lion character named Matsu Yokijiro.  It's awkward, but not illegal, for a Lion clan samurai to be in Toshi Ranbo, since the Crane recently conquered the city from the Lion clan.  Here's the writeup of this NPC and some associated plot hooks:
+### Matsu Yokijiro
+
+Another non-Crane NPC is a Lion character named Matsu Yokijiro.  It's awkward, but not illegal, for a Lion clan samurai to be in Toshi Ranbo, since the Crane recently conquered the city from the Lion clan.  The writeup of this NPC and some associated plot hooks follows:
 
 Matsu Yokijiro started off as a county magistrate, and he highly impressed his superiors through his devotion to his duty.  He trained far more peasants in martial combat than is typical, and spent time giving personal instruction to all of them.  He evaluated their abilities and gave higher stipends to the ones who worked the hardest and became the most proficient.  In addition to fighting techniques, he also took great care and time to personally instruct and test these men on the teachings of Lord Akodo and Lady Doji and the Shinsei, working with the monks in his county to educate the peasantry about their moral and civic obligations.
 
@@ -3191,7 +3247,7 @@ He ended up challenging and killing the governor's Minister of Public Works in a
 
 He ended up being promoted to the daimyo's Ministry of Justice in the capital, both because he was seen as being tough on malfeasance and because his governor's administration largely wanted him gone.  Yokijiro took on the job of reviewing complaints about the conduct of bushi, and was incredibly harsh, both on officers who stepped even a little out of line and on peasants whom he felt were bringing meritless complaints.
 
-In the process, Yokijiro made many enemies, and the Chancellery felt they had to reign him in on several occasions.  He balked at being restrained, and eventually he was promoted once again to the position of Family Magistrate in a faraway Matsu domain.  While there he was involved in several altercations with the locals, but the House of Matsu was happy to back him up in keeping this other House in line.  Eventually he got into an argument with the Clan Magistrate, an Akodo bushi whom he felt was showing undue favor to a clansman and making a blatantly wrong ruling.  The resulting duel in which Yokijiro killed the other magistrate was eventually ruled valid by Akodo Toturi, but the incident still strained relations between the Matsu and Akodo families.
+In the process, Yokijiro made many enemies, and the Chancellery felt they had to rein him in on several occasions.  He balked at being restrained, and eventually he was promoted once again to the position of Family Magistrate in a faraway Matsu domain.  While there he was involved in several altercations with the locals, but the House of Matsu was happy to back him up in keeping this other House in line.  Eventually he got into an argument with the Clan Magistrate, an Akodo bushi whom he felt was showing undue favor to a clansman and making a blatantly wrong ruling.  The resulting duel in which Yokijiro killed the other magistrate was eventually ruled valid by Akodo Toturi, but the incident still strained relations between the Matsu and Akodo families.
 
 Yokijiro was offered yet another promotion, this time to become a commander in the Imperial Legions.  However, he declined this promotion because he believed it would offer him few opportunities to fight injustice.  He judged that the Empire was currently too peaceful and orderly to offer many chances for him to use his abilities in battle.
 
@@ -3239,7 +3295,9 @@ In fact, these parents are being coerced by one of the lieutenants in this distr
 
 Of course, the PCs are under no obligation to listen to Yokijiro's complaint, and he will not push the matter with them if they decline to investigate, or if they do and don't find anything.
 
-Another NPC from a different clan is Shinjo no Dorai Rakuo.  Here was the writeup for that character with an associated plot hook:
+### Shinjo no Dorai Rakuo
+
+Another NPC from a different clan is Shinjo no Dorai Rakuo.  The writeup for that character, with an associated plot hook, follows:
 
 Although the provinces surrounding Toshi Ranbo have fertile land, they're mostly suited to producing grain.  As a result, the city imports a significant amount of rice.  Before the invasion, the Dorai House of the Shinjo family had a longstanding trade agreement with the Damasu to supply the city with rice, which they shipped yearly down the Drowned Merchant River.
 
@@ -3279,6 +3337,8 @@ They explain that they are flushing out the ogres by making noise, which scares 
 
 Speaking of peasants, here's some more campaign information which closely relates to peasants and some related plot hooks:
 
+### The Lion's Inside Plan
+
 After losing Toshi Ranbo to the Tsume and then failing to take it back, the Lion don't want to fail again.  To ensure victory, they are doing two things different from last time.
 
 First, they're taking their time to gather their forces, making arrangements with daimyo throughout the eastern Lion clan to work out exactly how many troops will be sent, who will be in charge of each group, etc.  These arrangements will include detailed plans for their supply lines to avoid their previous issues with troops being recalled when the invasion took longer than anticipated.
@@ -3303,7 +3363,7 @@ The PCs will have no difficulty persuading the lieutenant to rule however they w
 
 ### Take the Money and Run
 
-One morning, an angry mob shows up at the homes/offices of every major merchant in the city who holds and lends money for peasants, which is about 2 per district.  Evidently there have been rumors that these merchants are planning on skipping town with all the money they have, which would be good for the peasants who owe them money, but bad for all the peasants for whom they are holding money.
+One morning, an angry mob shows up at the homes/offices of every major merchant in the city who holds and lends money for peasants, which is about two per district.  Evidently there have been rumors that these merchants are planning on skipping town with all the money they have, which would be good for the peasants who owe them money, but bad for all the peasants for whom they are holding money.
 
 things turn violent at most of these "bank runs", riots break out, the merchants' homes are broken into and their money and valuables looted, and the magistrates have to show up in force to restore order.  All in all, over 80 peasants are killed, along with about a handful of bushi.  The city ends up getting mostly shut down for a day as everyone is ordered to return to their homes.
 
@@ -3343,9 +3403,11 @@ Depending on how things develop, the Prince may ask the PCs to help him carry ou
 
 Therefore, the Prince plans to go to the governor with the PCs for a meeting, and then proceed to summarily execute the governor on the spot, before sufficient reinforcements can arrive.  Afterward, the Prince will order the other bushi to stand down so that this matter can be further resolved through some combination of dueling and Imperial decree.  This is the really dangerous part, but the Prince feels that it's worth the risk and needs the PCs to help in order to pull it off; the Prince would not be able to take a comparably large number of bushi to see the governor without arousing suspicion.
 
-This is one possibly climax for the campaign; although none of this ended up happening while Patrick and I were running things.  Our PCs replaced the existing governor by someone more reasonable, and the PCs didn't press Yokijiro even after he gave some evasive and dodgy answers about Lion plots.  However, I figured I'd still write this basic summary since it's an interesting scenario.
+This is one possible climax for the campaign; although none of this ended up happening at the table.  The PCs replaced the existing governor with someone more reasonable, and didn't press Yokijiro even after he gave some evasive and dodgy answers about Lion plots.  The basic summary is preserved here since it's an interesting scenario.
 
-As we've discussed, a standard type of plot hook is a court case.  Periodically the PCs would be presented with various court cases, and the Board of Justice would convene to hear whichever cases were accepted on appeal by the PC serving as the Imperial Magistrate for the relevant district.
+### Court Cases
+
+As discussed above, a standard type of plot hook is a court case.  Periodically the PCs would be presented with various court cases, and the Board of Justice would convene to hear whichever cases were accepted on appeal by the PC serving as the Imperial Magistrate for the relevant district.
 
 One of the first things that the PCs have to decide is how strongly to respect decisions which have already been handed down by a lower magistrate such as a district captain.  Most of the time, it's considered proper to let a lower ruling stand unless it's egregiously incorrect.  Rulings which are merely questionable are rarely overturned, unless the higher magistrate feels rather strongly or has some existing relationship with one of the parties involved in the case.  However, the PCs have expanded jurisdiction and may choose to interpret themselves as having a mandate to more heavily scrutinize the Tsume.  The Board of Justice will have to collectively decide their attitude on this question over the first few rounds of cases.
 
@@ -3427,7 +3489,7 @@ He was subsequently arrested and beaten by the other bushi present, his property
 
 For these cases, it's important to understand the different ways which assaults and murders are handled in Rokugan.  Many magistrates consider personal disputes to be outside their duties, so if one peasant murders another because of a dispute between two families, the magistrate will usually decline to intervene so long as there is indeed a legitimate insult involved.  Other magistrates consider the motives behind a beating or murder to be irrelevant, and will arrest anyone who steps outside the bounds of the law.  The former attitude is extremely prevalent in Lion lands and is how the Lion magistrates in Toshi Ranbo used to rule, whereas the latter attitude is typical of Crane magistrates and is usually how the Crane magistrates rule now.  However, the population is used to the old ways and most do not even realize that the standards have changed.  Since the PCs have appellate authority, they have the power to decide which standard will ultimately be enforced for these and similar cases:
 
-1. A day laborer who works at the city docks and has a drinking problem was stumbling home drunk one night when he knocked over a lamp, setting fire to his apartment complex.  Several residents died and the entire building burned down as well as parts of the adjacent buildings.  He was beaten and fined and assigned to two years of forced labor, but his life was spared because he had a wife and children, and because the local abbot intervened in his behalf.  He completely swore off drinking as part of his penance for this tragedy.
+1. A day laborer who works at the city docks and has a drinking problem was stumbling home drunk one night when he knocked over a lamp, setting fire to his apartment complex.  Several residents died and the entire building burned down as well as parts of the adjacent buildings.  He was beaten and fined and assigned to two years of forced labor, but his life was spared because he had a wife and children, and because the local abbot intervened on his behalf.  He completely swore off drinking as part of his penance for this tragedy.
 
 However, not long after he was released from his sentence of forced labor, he was seen stumbling home drunk again late one night.  He was confronted by a crowd, which proceeded to beat him to death in anger.  They were not punished or forced to pay any restitution for this, so his widow and children are appealing to the PCs for compensation, since the man of the family is now no longer around to support them.
 
@@ -3449,7 +3511,9 @@ When the magistrates arrived shortly thereafter, Kyoude explained what had happe
 
 Kyoude and his cousins were eventually sentenced to death by the district captain, and the matter has been appealed to the PCs, who must decide whether to let them die, commute them down to a lesser sentence, or simply let them go with a pat on the back.
 
-Another set of cases which can come up revolve around a new monk character who might come to the city partway through the campaign.  Here's the writeup I wrote about Grand Abbot Benshi and associated cases:
+### Grand Abbot Benshi
+
+Another set of cases which can come up revolves around a new monk character who might come to the city partway through the campaign.  The writeup for Grand Abbot Benshi and associated cases follows:
 
 Baiten the monk will be banished from Toshi Ranbo unless the PCs expend a significant amount of effort and political capital to keep him around.  However, when he leaves, he will proclaim to his followers in the province that the Tao no longer prevails in the city of Toshi Ranbo.  Most of the monks in the city leave, along with hundreds of peasants and even a few dozen samurai.
 
@@ -3485,7 +3549,7 @@ Conversely, the PCs may feel threatened by Benshi's attempts to insert himself i
 
 ### Takeaways
 
-When presenting things like court cases, I try to make things interesting in a variety of ways:
+Court cases are built to be interesting in a variety of ways:
 
 - NPCs will be involved with whom the PCs will have long-term relationships, and therefore their rulings will have social consequences.
 
@@ -3495,7 +3559,7 @@ When presenting things like court cases, I try to make things interesting in a v
 
 ## The Peasant Campaign
 
-Another campaign I ran was the "Peasant campaign".  We've spent so long talking about samurai culture, but samurai are only 2% of the human population in Rokugan!  There's so much of society that is basically invisible to samurai, but is worth exploring, for narrative and worldbuilding reasons.  Here was my writeup of the peasant campaign:
+Samurai culture has gotten extensive attention in Rokugan's worldbuilding, but samurai are only 2% of the human population in Rokugan, and much of the rest of society is basically invisible to them - worth exploring for narrative and worldbuilding reasons.  The writeup of the peasant campaign follows:
 
 Each of you will play a young member of a different family from a farming village on the far edge of the county.  You've each recently been licensed to carry weapons as ashigaru, which has several benefits.  You get a small stipend from the county magistrate for going on regular bandit hunting patrols.  You also get money from the merchant families who own most of the land in the county for doing extra patrols and odd jobs for them.  Other peasants will even sometimes come to you for help sorting out feuds and domestic disputes.
 
@@ -3505,11 +3569,11 @@ A big theme in the campaign is making decisions about how you want to advance.  
 
 - Monks are the real moral leaders of their communities, however much the local authorities or rich businessmen may disagree.  Devout peasants (and often samurai) will often do whatever an abbot tells them, and so being in the good graces of the local temple means you'll always have friends in the community when you need them.
 
-- Merchants can provide financial security like nothing else; many an up-and-coming peasant has grown rich simply by forging a relationship with a large merchant family.  Whether you're an honest worker whose integrity is highly valued, or a shady criminal with extremely useful skills, there are merchants who will pay you a lot of money for your services and stand behind you when trouble comes.
+- Merchants can provide financial security like nothing else; many up-and-coming peasants have grown rich by forging a relationship with a large merchant family.  Whether you're an honest worker whose integrity is highly valued, or a shady criminal with extremely useful skills, there are merchants who will pay you a lot of money for your services and stand behind you when trouble comes.
 
 - Magistrates are the most capricious and arbitrary of these groups.  Many peasants fear to approach magistrates even when they haven't done anything wrong, because many samurai may be just as likely to punish those who report wrongdoings as those who commit them.  However, anyone who has the friendship of a magistrate can dodge all kinds of problems, whether it's other samurai who are abusing their authority, or even getting out of trouble for your own misdeeds.
 
-Another thing you'll have to decide is whether and when you want to break the law.  For example:
+Another decision: whether and when to break the law.
 
 - You can try to stay on the right side of the law.  This might mean passing up a lot of lucrative jobs, but it also probably means keeping out of a lot of trouble.
 
@@ -3517,7 +3581,7 @@ Another thing you'll have to decide is whether and when you want to break the la
 
 - There are plenty of opportunities for illegal activities that don't actually revolve around crime-for-profit.  For example, acting as a collections agent for a moneylender, assaulting criminals who try to shake down merchants, or conducting vigilante justice to defend the honor of family and friends.
 
-Perhaps even more fundamental is the decision of what profession to take.  As peasants, you won't get a school, but will instead use the Profession rules, which you can find at http://courtwright.org/svn/l7r/rules/ along with all the other rules.  Every time you take a profession ability, you can take it from any profession (except Ninja).
+Even more fundamental is the decision of what profession to take.  As peasants, you won't get a school, but will instead use the Profession rules, which you can find at https://github.com/EliAndrewC/l7r/blob/master/rules/09-professions.md along with all the other rules.  Every time you take a profession ability, you can take it from any profession (except Ninja).
 
 - Wave man abilities help in combat and are extremely useful in advancing a career as a mercenary.  Since you're likely to get into at least a few combats in the campaign, I strongly advise taking at least a couple of these (in particular the one that gives you a bonus if you miss).
 
@@ -3525,9 +3589,7 @@ Perhaps even more fundamental is the decision of what profession to take.  As pe
 
 - Taking a mix of these abilities may offer a good balance between being able to stand up for yourself in a fight and still having a bit of financial stability.  On the other hand, this approach won't turn you into Mighty Kyoude.
 
-Other than what I've already listed, this campaign will be atypical in several ways:
-
-- You'll gain experience very rapidly.  The campaign will take place over a period of years; we may jump forward months at a time, with a few brief descriptions and choices involving your activities over that time.  This chronicles your rise to riches and prominence and power within your communities, and this will be accompanied by corresponding increases in experience.  Over the course of this one campaign, you should expect to go from ~50XP to somewhere in the 300 - 400 XP range, which means that you'll probably advance by 30 - 50 XP per adventure (though it's assumed that you're busy gaining XP between the adventures we actually play out).
+Other than what's already listed, this campaign will be atypical in several ways:
 
 - Because you're a peasant with limited education, many skills which are basic skill for samurai will be advanced skills for you.  Specifically, the etiquette, culture, history, law, precepts are considered advanced for your characters.  Heraldry is still a basic skill, but for you it will more give info on folks within your province, the local farmer and merchant and samurai families and the relationships they have with one another.
 
@@ -3535,7 +3597,7 @@ Other than what I've already listed, this campaign will be atypical in several w
 
 - I'll be experimenting with a different style of adventure.  Instead of a long chain of events and encounters kicked off by some kind of adventure hook, there will be lots of encounters that start with the GM saying, "So while you're out on a caravan guard assignment and are resting in a provincial city..."  We may have lots of sessions where the entire time is taken up by lots of small adventure fragments rather than full adventures.  Similarly, a large part of the adventure we do have will be driven by random chance, like if you take a shady job then there will be a roll to see whether the magistrates find out, etc.
 
-Most of my campaign notes describe the plot hooks which occur as the PCs go through the following "rise" through society:
+Most of these campaign notes describe the plot hooks which occur as the PCs go through the following "rise" through society:
 
 - starting in the countryside in their farming community
 
@@ -3545,7 +3607,7 @@ Most of my campaign notes describe the plot hooks which occur as the PCs go thro
 
 - taking jobs working caravans and dealing with the trials of traveling through the Empire
 
-Below is my writeup of the plot hooks prepared for these various situations.
+The plot hooks prepared for these various situations follow.
 
 ### Countryside Hooks
 
@@ -3579,7 +3641,7 @@ During one of the adventures, the PCs will meet a pair of traveling merchants na
 
 First, they explain that they are running a gambling game in an alleyway on market day, and want the PCs to help them attract players.  Since folks are more likely to want to play in a game where others are already playing, the PCs will be given some money to gamble with, and then they'll return whatever they have at the end of the evening.  The PCs will win a lot and the other players less so (the dice being used by the PCs are weighted to help them win, while the dice used by the other players are unweighted, though the odds on the game are very biased towards the house).
 
-The next endeavor is to attempt to sell a teacup using the classic "violin" grift.  Instead of describing the grift myself, I'll just link to the TVTropes page: tvtropes.org/pmwiki/pmwiki.php/Main/ViolinScam
+The next endeavor is to attempt to sell a teacup using the classic "violin" grift.  Rather than describing the grift in full, here's the TVTropes page: tvtropes.org/pmwiki/pmwiki.php/Main/ViolinScam
 
 The third time they have a more involved plan.  They are acting as guards for a merchant traveling all the way to Kyuden Bayushi, but this merchant is paying them only a pittance, though he has agreed to give them hazard pay if they run into trouble on the road.  Thus, the PCs are asked to cause some trouble on the road in order to force this merchant to give out this hazard pay.  Specifically, the PCs will cut down a tree just before the merchant arrives at a certain point on the road, then refuse to move aside or hurry things up to clear the tree from the road.  The PCs will be belligerent and insulting towards the merchant and block any attempt to carry his cart over the tree.  The idea is for the merchant to ask Shinjiro and Tsubasa to chase the PCs away, agreeing that this is hazardous enough to warrant giving them the hazard pay.  (If the PCs are inclined to try their hand at banditry, they could use the information about where the merchant will be to launch an attack and steal his goods and money.)
 
@@ -3624,19 +3686,19 @@ Using the aforementioned travel papers, the PCs are instructed to visit some loc
 
 ### Takeaways
 
-I mentioned before that peasants lead interesting lives, and the main point of this campaign was the drive that home!  We had just as much fun playing as farmers as when we were playing as samurai, and I think that reflects not only the worldbuilding of Rokugan but also an important point about how the narrative isn't only interesting when it's about the wealthy and powerful.
+As mentioned earlier, peasants lead interesting lives, and the main point of this campaign was to drive that home!  The table had just as much fun playing as farmers as when they were playing as samurai, which reflects not only the worldbuilding of Rokugan but also an important point about how the narrative isn't only interesting when it's about the wealthy and powerful.
 
 ## Oaths and Vows
 
-Now that we've talked about a few specific campaign settings, let's talk about some of the religious underpinnings of Rokugan and its cosmology.
+With a few specific campaign settings covered, here are some of the religious underpinnings of Rokugan and its cosmology.
 
-I've heavily incorporated oaths and vows into my game.  The main difference here between the two is that an oath is sworn by a god, while a vow is sworn to a god or some other type of divine being.  This has several implications, chiefly that an oath is something that the person you swore it to can release you from, but since a vow is sworn to a god, only the god can release you.  This means that oaths can be temporary even if they were originally intended to be permanent, whereas you cannot be freed from a vow.
+Oaths and vows are heavily incorporated into this setting.  The main difference between the two is that an oath is sworn by a god, while a vow is sworn to a god or some other type of divine being.  This has several implications, chiefly that an oath is something that the person you swore it to can release you from, but since a vow is sworn to a god, only the god can release you.  This means that oaths can be temporary even if they were originally intended to be permanent, whereas you cannot be freed from a vow.
 
-In my setting, I impose a certain format for oaths and vows, which is admittedly based more on the Roman world than Japan.
+This setting imposes a certain format for oaths and vows, admittedly based more on the Roman world than Japan.
 
 Oaths and vows should begin by whoever is swearing it naming themself unambiguously, in order for the fortune to not accidentally confuse the wrong person - in some cases this will involve someone naming their parents or saying where they come from.  Then they declare the god they are swearing by (for an oath) or swearing to (for a vow).  Finally they declare what they are swearing.
 
-Here's an example of how this applies to the Legionnaire's Oath, an oath of office sworn by those who join the Imperial legions.  Most Imperial legionnaires swear the standard Imperial Legionnaire's Oath, which has 3 parts:
+Here's an example of how this applies to the Legionnaire's Oath, an oath of office sworn by those who join the Imperial legions.  Most Imperial legionnaires swear the standard Imperial Legionnaire's Oath, which has three parts:
 
 1. The legionnaire states their name, family, and position.  For some clans, the listing of position is as simple of naming their previous post or formal rank, while other clans take this opportunity to state their personal deeds - the amount of time allotted for this would depend on the rank of the legionnaire involved.  The amount of ancestry stated varies by clan and family as well; some Lion families state their entire lineage back to the Great Ancestors and their vassals, while others actually swear by each ancestor individually in the second part of the oath.
 
@@ -3710,7 +3772,9 @@ I will act as an exemplar for all samurai under my authority, leading with wisdo
 
 I swear this oath freely, with sincerity and a pure heart, in the name of Hachiman, Shinsei, and our radiant Lady Sun."
 
-I can provide additional examples of oaths, but next I'd like to talk about vows.  Like the original L5R books, I've "sourced" a lot of the information to in-universe books, such that information is provided through "primary source documents" (or descriptions of the contents of those primary source documents).
+Additional examples of oaths could be given, but the discussion turns now to vows.  Like the original L5R books, much of the information is "sourced" to in-universe books, presented through "primary source documents" (or descriptions of the contents of those primary source documents).
+
+### On Vows to the Fortunes
 
 "On Vows to the Fortunes" is one of the fictional books from Rokugan which I use to educate players on vows and how they work.  Here's some information about that:
 
@@ -3718,7 +3782,7 @@ I can provide additional examples of oaths, but next I'd like to talk about vows
 
 The above disclaimer is at the front of several books published by Isawa Akuma many centuries ago, including this one.  Akuma was a powerful shugenja who was also the greatest scholar of his generation, which is unusual since it's practically unheard of for masters of magic to also be masters of scholarship.  However, it later turned out that Isawa Akuma had used his great name to summon an oni lord (Oni no Akuma), who took the form of a Great Library hidden deep in the Isawa Woodlands.  This library is said to contain "all of the things which have ever been written, and many of the things which never were written, and more than a few things which will come to be written".  It cannot be found the same way twice, and therefore is very difficult to reach.
 
-Akuma published a number of works of scholarships written by people who were never born, or possibly which would have otherwise not come to be written for centuries, attributing these works to himself, which fueled his name even further.  Notably, Akuma is only one of two shugenja in history capable of practicing maho and thus taking on the Shadowlands taint without losing their shugenja abilities - the taint is hateful to the elemental kami and all other shugenja who have practiced maho have lost their powers as a result.  Akuma is one of only three shugenja who has achieved immortality, though presumably he did this through dark rituals rather than gaining the favor of the kami.  (I have more information on Isawa Akuma which I will provide later, which does not directly relate to vows.)
+Akuma published a number of works of scholarships written by people who were never born, or possibly which would have otherwise not come to be written for centuries, attributing these works to himself, which fueled his name even further.  Notably, Akuma is only one of two shugenja in history capable of practicing maho and thus taking on the Shadowlands taint without losing their shugenja abilities - the taint is hateful to the elemental kami and all other shugenja who have practiced maho have lost their powers as a result.  Akuma is one of only three shugenja who has achieved immortality, though presumably he did this through dark rituals rather than gaining the favor of the kami.  (Additional information on Isawa Akuma, not directly related to vows, appears later.)
 
 On Vows to the Fortunes is still considered the foundational work of scholarship on the subject of vows, despite its origins, which speaks to its quality.  Here is some of the most salient information it contains.
 
@@ -3740,6 +3804,8 @@ On Vows to the Fortunes is still considered the foundational work of scholarship
 
 - Because of this dynamic, a standard piece of advice is to practice operating under the burden of an especially difficult vow before you actually swear it, in order to ensure that you will be able to keep it.  Religious institutions should prevent new members from swearing vows until they have been tested, to ensure that newcomers do not bring ruin to themselves and to their entire orders by swearing and then breaking vows.
 
+### Benten's Blessing
+
 Another in-universe work of literature which teaches people in Rokugan about vows is the book "Benten's Blessing" by Doji Shizue.
 
 Doji Shizue was a storyteller who lived three centuries ago.  Swept up in political machinations in Otosan Uchi (the capital of the Empire), Shizue was falsely accused by her family's enemies of plots contrary to the interest of the Emperor.  Being innocent, there was no evidence or direct testimony to support these allegations, but Shizue was banished from the capital and from her homelands.  A series of misfortunes befell those who had conspired against her, while she herself went on a pilgrimage to learn the ways of the fortunes and come closer to enlightenment.
@@ -3754,6 +3820,8 @@ Benten's curse is therefore earned, not by any particular choice of romantic par
 
 Shizue gives several example vows, including the vows she herself swore to Benten on her pilgrimage which later brought about her redemption and vindication for herself and her family.
 
+### Vengeance and Justice
+
 Another in-universe work of literature which explains oaths to samurai is "Vengeance and Justice" by Matsu Hitomi.
 
 Shortly before her gempukku, Matsu Hitomi watched her brother die in a duel against Matsu Akimori, a member of a rival lineage.  On the day of her gempukku she challenged Akimori to a duel.  He initially refused, saying she was not yet a worthy opponent.  In anger, Hitomi attacked him, and he easily defeated her, sparing her life with while urging her to return to face him once she was skilled enough to possibly be an even match.
@@ -3766,11 +3834,11 @@ Hitomi left on a warrior's pilgrimage to train and swore vows to the two fortune
 
 Hitomi went on a warrior's pilgrimage, training for years in self-imposed exile until she considered herself worthy to return home and face Akimori.  She did so, and although Akimori had risen to such a high position that she had no standing to challenge him, he saw her and judged that she had become a worthy opponent and accepted her new challenge.  Hitomi prevailed in her duel, though she almost died of her wounds afterwards.  As he lay dying, Akimori thanked her for the greatest warrior's challenge of his life, saying he was glad to have spared her all those years ago, and was happy to see she had finally become a worthy opponent.
 
-Many books and plays have been written about Hitomi, and it is a common name chosen at gempukku by women who already have some specific reason to seek revenge, especially against those who have wronged a brother.  Notably, the current daimyo of the Mirumoto family, Mirumoto Hitomi, chose that name for herself as part of a declaration of vengeance against Hida Yakamo, who killed her brother in a duel.  Hitomi later cut off Yakamo's hand before returning home to assume the role of daimyo for herself, which had been held her position as daimyo in regency by her uncle Sukune.
+Many books and plays have been written about Hitomi, and it is a common name chosen at gempukku by women who already have some specific reason to seek revenge, especially against those who have wronged a brother.  Notably, the current daimyo of the Mirumoto family, Mirumoto Hitomi, chose that name for herself as part of a declaration of vengeance against Hida Yakamo, who killed her brother in a duel.  Hitomi later cut off Yakamo's hand before returning home to assume the role of daimyo for herself, a position which had been held in regency by her uncle Sukune.
 
 Matsu Hitomi's book is considered the foundational work for anyone contemplating a warrior's pilgrimage.  This book lists a number of vows which can be sworn by someone contemplating this kind of journey.
 
-The above books contain a number of vows whose efficaciousness have been proven if they are followed.  There are also guidance for creating your own vow, though this is generally considered something for experts to do, since you'll end up doing more harm than good if you fail to understand what a fortune actually wants.  (Consider the example above of a person who wins Benten's favor by choosing heartbreak - if a devotee of Benten didn't understand this and swore a vow to see all soulmates joined together in marriage, then they'd probably do more harm than good.)  I will now describe some example vows, just to explain the concepts.
+The above books contain a number of vows whose efficaciousness have been proven if they are followed.  There are also guidance for creating your own vow, though this is generally considered something for experts to do, since you'll end up doing more harm than good if you fail to understand what a fortune actually wants.  (Consider the example above of a person who wins Benten's favor by choosing heartbreak - if a devotee of Benten didn't understand this and swore a vow to see all soulmates joined together in marriage, then they'd probably do more harm than good.)  Some example vows follow, to illustrate the concepts.
 
 A "vow of devotion" is one of the most common vows, this can be sworn to any fortune, though the wording often differs based on the fortune involved.  Because this vow requires you to orient your life and priorities around this fortune until death, it's most commonly sworn by monks and priests who lead monastic lives.
 
@@ -3838,7 +3906,7 @@ Here are some other example vows with a bit less detail, since you can probably 
 
 Note that the specifics of each vow are tied to the fortune being honored, the individual's situation or role, and the type of commitment they're willing to make, be it limited or permanent.  This provides a depth of customization and personal commitment that makes each vow unique and meaningful.
 
-Here are some miscellaneous vows for which I have not written extensive explanations:
+Some miscellaneous vows, without extensive explanations:
 
 - The vow of obedience sworn by acolytes of a religious order.
 
@@ -3852,7 +3920,7 @@ Here are some miscellaneous vows for which I have not written extensive explanat
 
 - The vow of charity was recently popularized by the prophet Grand Abbot Okawa which sometimes supplements and other times replaces a vow of poverty, usually depending on whether it's being sworn by a monk or samurai.
 
-I know that some of what I've described is based on historical example, and some of it is invented for the fictional setting of Rokugan and does not match the historical concepts of vows.  I generally want vows to combine things which I have described here while still drawing on historical Japanese vows, such as those sworn in a Shinto or Buddhist religious order.
+Some of what's described above is based on historical example, and some is invented for the fictional setting of Rokugan and does not match the historical concepts of vows.  The intent is for vows to combine the conventions described here while still drawing on historical Japanese vows, such as those sworn in a Shinto or Buddhist religious order.
 
 Here is the vow of obedience sworn by all members of the Order of Bishamon swear in Lion lands (different clans often have different versions of these vows):
 
@@ -3908,7 +3976,7 @@ The rewards expected from such a vow to Bishamon would be those associated with 
 
 Swearing a vow of poverty to Daikoku, on the other hand, would have a different focus.  Daikoku governs over wealth and prosperity, so renouncing wealth in his name could potentially lead to a deeper understanding of the true nature of wealth, its impermanence, and the liberation that comes from letting it go.  The rewards from such a vow might be more tied to the cultivation of generosity, gratitude, and contentment.
 
-One thing worth highlighting here are the risks of monks swearing vows which they have not sufficiently prepared for, which is a theme I mentioned earlier.
+One thing worth highlighting here are the risks of monks swearing vows which they have not sufficiently prepared for - a recurring theme.
 
 As an example, consider the "vow of discovery" above.  Someone might reasonably ask a monk tasked with the role of karmic inquisitor, "Why have you not sworn a vow of discovery?  You seek to uncover the source of the kumosaya, so why have you not sworn such vows to seek Bishamon's aid?"
 
@@ -3918,7 +3986,7 @@ This is an important running theme about oaths and vows in the world of Rokugan.
 
 For additional vow examples, there was a Kitsuki magistrate named Tetsu from the Dragon clan who wanted to help the Moto conquer the city of Medin al Salaat.  To this end, he swore several vows to various fortunes.  His vow of devotion was to Saibankan, the fortune of magistrates and judges.  He also swore vows to Kamoku, the fortune of the west wind, i.e. the wind that comes from the west and blows towards the east, and Jikoju, the fortune of the east wind.
 
-I'll start by giving information about Saibankan.
+Saibankan comes first.
 
 Yozo is the younger fortune of vengeance and is described specifically as the fortune of legal retribution, the kind that would be imposed by a judge or magistrate.  Yet there is also Saibankan, who is separately the fortune who guides judges and magistrates towards imposing that legal retribution.  Some might ask about the difference, and in particular, what distinguishes a vow of devotion to one from the other.
 
@@ -3946,7 +4014,7 @@ May my every decision, whether in official capacity or private conduct, reflect 
 
 So swear I, Kitsuki Tetsu."
 
-Let's move on to Tetsu's other 2 vows.
+Tetsu's other 2 vows follow.
 
 The Empire was formed in what is now Otosan Uchi, along the eastern ocean shore.  This is significant in the context of the winds, because civilization was spread from east to west.
 
@@ -4042,9 +4110,11 @@ Let my silence be a conduit of Bishamon's strength, a testament to my devotion a
 
 May Bishamon guide my path and give me the strength to uphold this vow.  This I swear."
 
-In some cases I'd like for vows to tie strongly into the personal history of the human who "became" a fortune.  (In Rokugan, a fortune would have existed before the life of that human, but the human merged with the fortune or joined it or became part of it.)
+In some cases vows tie strongly into the personal history of the human who "became" a fortune.  (In Rokugan, a fortune would have existed before the life of that human, but the human merged with the fortune or joined it or became part of it.)
 
 For example, here's some information about Soshi Saibankan.
+
+### Soshi Saibankan
 
 Saibankan is the fortune of magistrates and judges.  It's unclear in the historical record whether he naturally ascended into becoming one with the existing fortune of magistrates and judges upon his death or if the Emperor elevated him into becoming a fortune upon his death.  Either way, he was recognized throughout the Empire as a wise and judicious magistrate, and the system of Imperial magistrates which persists to this day is sometimes called "Saibankan's net".
 
@@ -4062,7 +4132,7 @@ Although his colleagues advised Saibankan to throw the case out as ridiculous, h
 
 Saibankan declared that he was ruling in favor of the innkeeper, and in so doing set some important precedents about land use and alley rights which persist to this day.  He then proceeded to ask the student whether he had any money in his purse.  When the student answered yes, he instructed the student to shake the purse in order to jingle the coins within.  He then declared that the sound of the student's money was appropriate payment for the smell of the innkeeper's food.
 
-Note how "the case of the stolen smell" is lifted from a story about the real person of Ooka Tadasuke in Edo-period Japan.  Although Rokugan is not Japan, it's useful to be able to incorporate real Japanese stories (both historical and mythical) into the setting, both for vows and for the explanations that people give about why those vows exist and are structured the way they are.
+Note that "the case of the stolen smell" is lifted from a story about the real person of Ooka Tadasuke in Edo-period Japan.  Although Rokugan is not Japan, incorporating real Japanese stories (both historical and mythical) into the setting is useful, both for vows and for the in-universe explanations of why those vows exist and are structured the way they are.
 
 Note that the current Minister of Justice for the Damasu domain has sworn this vow to Saibankan above and beyond the usual oath of office:
 
@@ -4108,7 +4178,7 @@ My name, once a symbol of disgrace, shall echo in the halls of our ancestors as 
 
 From this day forth, I am a Deathseeker.  Until the day that I fall in battle, every breath I take shall be in service to my daimyo, my clan, and my honor.  This is my vow, this is my path."
 
-In my next campaign, the PCs are not only members of the Order of Bishamon, but also members of a secret society, the Order of Lord Moon.
+In the next campaign, the PCs are not only members of the Order of Bishamon, but also members of a secret society, the Order of Lord Moon.
 
 Lord Moon is not evil per se, but is a terrifying figure because of his emphasis on individuals pursuing their own goals and ambitions regardless of cost or effect on others.  Lady Sun emphasizes harmony, while Lord Moon delights in conflict.  While the Empire contains both things, the fact that the world is more full of conflict than the Emperor might prefer means that those who pray frequently to Lord Moon tend to be looked upon with suspicion and distrust.
 
@@ -4116,7 +4186,7 @@ Here is the vow which members of The Order of Lord Moon swear upon their initiat
 
 "I, (NAME), swear to Lord Moon that I shall be a faithful member of his Order, and show loyalty to the brothers and sisters who share in its teachings and ways.  I swear to always act in the best interests of our order and its members.  I swear to keep secret the identities of my fellow members, and to protect their lives and wellbeing as if they were my own.  I will use the knowledge and power gained from my membership in The Order of Lord Moon to pursue my personal goals and ambitions, but will never allow my actions to bring harm to our order or its members.  I will devote myself fully to the service of Lord Moon and to the advancement of our order, and will remain steadfast in my loyalty to The Order of Lord Moon until the end of my days.  So swear I, (NAME)."
 
-This vow is shorter than most of the other vows we have covered, in part because it is an older vow which has been passed down for many centuries, and thus predates some of the common forms and conventions used in vows.
+This vow is shorter than most of the other vows above, in part because it is an older vow which has been passed down for many centuries, and thus predates some of the common forms and conventions used in vows.
 
 One of the responsibilities of the Damasu Ministry of Rites is cataloging the various signs which might portend disaster.  There are known signs which foretell of floods, fires, plagues, and all manner of catastrophes which can be mitigated if the government is not caught unprepared.
 
@@ -4180,7 +4250,7 @@ In this act, I shall remember the people, the land, and the divine strength that
 
 ## Maho and Bloodspeakers
 
-Now that we've talked about vows and proper doctrine, I'd like to cover heresies and enemies of the Celestial Order.
+With vows and proper doctrine covered, the discussion turns to heresies and enemies of the Celestial Order.
 
 Maho, a.k.a "blood magic", is any form of magic outlawed by the Emperor.  The practice of maho is punishable by death.
 
@@ -4206,7 +4276,7 @@ There are many different types of maho, because maho is not really a single prac
 
   Tsukai gain power based on the strength of their own name, and based on the strength of names they take.  Many spells and rituals involve sacrificing a name.
 
-  Tsukai are interested in taking the names of others - they must merely ask you to give them your name and have you answer by stating your name.  When this has been repeated 3 times in succession the tsukai owns your name.
+  Tsukai are interested in taking the names of others - they must merely ask you to give them your name and have you answer by stating your name.  When this has been repeated three times in succession the tsukai owns your name.
 
   Name magic was not originally considered a maho discipline until Hantei Iuchiban became the first bloodspeaker and used name magic to corrupt the officer corps of the 1st Imperial Legion.
 
@@ -4232,7 +4302,7 @@ There are many different types of maho, because maho is not really a single prac
 
   One of the least common areas of maho, this is most famously used by the Kadi sorcerers of Medin al Salaat, who give themselves inhuman features and abilities by changing their own bodies.  This is significantly less common in Rokugan, since that's kind of a giveaway which would prevent them from remaining hidden among the peasant population, though particularly malicious tsukai may inflict horrific disfigurement on victims they capture.
 
-While many maho practices involve only 1 of the maho disciplines, the most powerful tsukai perform rituals which combine several disciplines and usually require several practitioners.  For example, consider summoning an oni:
+While many maho practices involve only one of the maho disciplines, the most powerful tsukai perform rituals which combine several disciplines and usually require several practitioners.  For example, consider summoning an oni:
 
 - It requires so much blood to be shed that an entire coven is usually required, since a single tsukai would be killed by the wounds.
 
@@ -4266,7 +4336,7 @@ Isawa himself, who founded the Isawa family, is known to have practiced maho.  H
 
 There is one extremely notable exception to the Phoenix clan's renunciation of the practice of maho.  Isawa Akuma was a shugenja in the Phoenix clan who lived in the 3rd century who was fascinated by maho.  He studied everything he could find on the subject and is said to have sought out tsukai, and rather than arresting them he offered to exchange his wisdom for theirs, learning from them and teaching them many of the hidden secrets of the Phoenix.
 
-Akuma was the most cunning and intelligent members of the Phoenix clan, and eventually he was able to somehow discover how to wield maho without losing his spellcasting ability!  It is unknown how this is even possible - the elemental kami hate the Shadowlands taint above all else, and the abilities of a shugenja rely on the favor of the elemental kami.  A shugenja is not simply directing power themselves, but rather channeling their own chi in order to call upon the kami to answer their prayers.  And the kami would never respond to a man so deeply tainted as would be required for the practice of powerful maho.
+Akuma was one of the most cunning and intelligent members of the Phoenix clan, and eventually he was able to somehow discover how to wield maho without losing his spellcasting ability!  It is unknown how this is even possible - the elemental kami hate the Shadowlands taint above all else, and the abilities of a shugenja rely on the favor of the elemental kami.  A shugenja is not simply directing power themselves, but rather channeling their own chi in order to call upon the kami to answer their prayers.  And the kami would never respond to a man so deeply tainted as would be required for the practice of powerful maho.
 
 Some have theorized that Akuma is so skilled that he has not defied this limitation, but rather has become so skilled at the practices of maho and spellcasting that he has managed to avoid taking so much Shadowlands taint as to become permanently tainted.  This would be a staggering accomplishment, as some of his feats of maho are so impressive that even the most famous tsukai would be nearly killed by the amount of taint involved, and because of this there are many who reject this theory.
 
@@ -4284,7 +4354,7 @@ Over the next few years, Akuma began to publish some of the greatest foundationa
 
 Eventually the source of his knowledge was discovered, and his death warrant was signed, effectively exiling him.  This seemed to matter little to Akuma, who was happy to take refuge in his library.  The oni which protects the library and which is the library will not permit any who travel there to attack other visitors, and it would take an army to defeat it.  Unfortunately, that is challenging, because the library can never be found the same way twice.  All of the normal paths through the Isawa Woodlands which might lead one to the library have already been taken, and therefore travelers who seek it out must journey through more unusual routes, taking them in and out of the mortal realm in order to find their way there.
 
-The Empire hoped that Akuma's oni would eventually pull itself into Jigoku after his death, but he surprised and defied the wishes of the Empire by attaining immortality.  He is one of only 3 shugenja confirmed to have ever accomplished this feat, the 2nd shugenja in the Empire's history to have done so (the 1st was Isawa no Naka Kuro, the Grand Master of the Elements, who dwells at the Temple of the Four Elements in the Spine of the World Mountains.
+The Empire hoped that Akuma's oni would eventually pull itself into Jigoku after his death, but he surprised and defied the wishes of the Empire by attaining immortality.  He is one of only three shugenja confirmed to have ever accomplished this feat, the second shugenja in the Empire's history to have done so (the first was Isawa no Naka Kuro, the Grand Master of the Elements, who dwells at the Temple of the Four Elements in the Spine of the World Mountains).
 
 It is unknown whether Akuma's apparent immortality is the result of absolute mastery over the elements, or because of his dark practices of maho.  Tsukai have been known to attain immortality and thus escape the cycle of death and rebirth through the absolute mastery of their fears, desires, and regrets.  Monks have been known to do so through reaching enlightenment.  Even mundane artisans have been said to have achieved immortality through complete devotion to their mundane crafts - the founder of the Kakita Academy was a poet who is said to still wander the Empire to this day, composing sublimely beautiful works of poetry about the wonders of the natural world around him.
 
@@ -4294,31 +4364,37 @@ It is for this reason that copies of books which he published always open with s
 
 "This book was originally published by Isawa Akuma, who was later discovered to have stolen it from the Great Library.  Its true authorship is unknown.  Anyone who discovers a copy of this book without this disclaimer is ordered to report it to the office of the Jade Champion."
 
-The thinking is that books he published such as "On Vows to the Fortunes" or "On Soothsaying" were written by someone who was never born, or possibly the books would have otherwise not come to be written for centuries, and Akuma found these text and published them, attributing them to himself, which fueled his name even further.  Some point out in private that this cannot be proven and he may have indeed written some or all of the works attributed to him, but few would dare to publicly contradict the Office of the Jade Champion.
+The thinking is that books he published such as "On Vows to the Fortunes" or "On Soothsaying" were written by someone who was never born, or possibly the books would have otherwise not come to be written for centuries, and Akuma found these texts and published them, attributing them to himself, which fueled his name even further.  Some point out in private that this cannot be proven and he may have indeed written some or all of the works attributed to him, but few would dare to publicly contradict the Office of the Jade Champion.
 
-What I just described is somewhat different than the character of Isawa Akuma as described in the original L5R published books, but I wanted to make the character explore the boundaries between the different magic systems which exist in Rokugan.  It's a case where I've established a principle and then introduced a seeming contradiction into a coherent world and system.
+The above differs somewhat from the Isawa Akuma of the original L5R published books.  The intent is to use the character to explore the boundaries between the different magic systems which exist in Rokugan - a case of establishing a principle and then introducing a seeming contradiction into a coherent world and system.
 
-Now let's talk about Iuchiban (the first and most famous bloodspeaker) and his lieutenants.
+### Iuchiban and His Lieutenants
+
+The discussion now turns to Iuchiban (the first and most famous bloodspeaker) and his lieutenants.
 
 The Emperor's second son at the end of the 5th century (~600 years ago) was Hantei Iuchiban.  Like most second sons of the Emperor, Iuchiban commanded the 1st Imperial Legion to guard the Gateway to the Land of the Burning Sands at Chai Sedo.  As usual, this was for the purpose of "keeping him away from the temptation of entangling alliances with those who might seek to subvert authority of the crown prince".  However, Prince Iuchiban "craved the power that the Fortunes had fated his elder brother should have, and sought to gain it by maho" (citation Asahina Toshiro in "Trying Times").  To this end, he used his authority to acquire tomes about the functioning of maho, intending to learn its ways and wield it as an unexpected weapon in an eventual coup.  This was also before trade with gaijin lands was banned after the Battle of White Stag, which happened 300 years later (which is ~300 years ago, as my current campaign takes place in the year 1129 of the Rokugani calendar), which made it much easier for Prince Iuchiban to send emissaries to Medin al Salaat across the desert, seeking out the khadi of that city.
 
 From his seat of authority at Chai Sedo, Iuchiban began gathering disciples to him.  While most of his followers were killed when he launched his coup against his brother, the most powerful survived due to being able to return after the destruction of their bodies, and many remain at large in the Empire today.  Most have taken the "Jama" name, which Iuchiban invented as a way to identify those in his service in a twisted perversion of a noble samurai name.
 
-For reference, in my version of Rokugan, the format of a normal samurai name is "<family> no <house> <personal>".  For example, one of my player's characters is "Akodo no Sugiwara Natsuki", marking him as being from the Sugiwara house of the Akodo family.  The word "no" means "of", and this part is generally omitted for people from the ruling house of a family.  For example, we would usually just say "Kitsuki Tetsu" and only in extremely formal circumstances refer to "Kitsuki no Kitsuki Tetsu".  In less formal contexts, the Family name is often dropped - for example, we usually refer to "Shosuro no Seri Go" simply as "Seri Go".
+For reference, in this version of Rokugan, the format of a normal samurai name is "<family> no <house> <personal>".  For example, the PC "Akodo no Sugiwara Natsuki" is from the Sugiwara house of the Akodo family.  The word "no" means "of", and this part is generally omitted for people from the ruling house of a family.  For example, "Kitsuki Tetsu" is the usual form, with the longer "Kitsuki no Kitsuki Tetsu" reserved for extremely formal circumstances.  In less formal contexts, the Family name is often dropped - for example, "Shosuro no Seri Go" is usually referred to simply as "Seri Go".
 
 Jama names substitute the tsukai master who inducted the apprentice.  Iuchiban's followers have names like "Jama no Iuchiban Kohaku", and his disciples have names like "Jama no Kohaku Jin", etc.
 
 Iuchiban surpassed all who brought maho knowledge to him, and many of his servants were directly responsible for learning and disseminating some specific maho practice.
 
-This account differs somewhat from the original description of Iuchiban in the original L5R books, though I don't think I've actually changed all that much - mainly I've clarified and expanded upon details which were already present.
+This account differs somewhat from the original description of Iuchiban in the L5R books, though not drastically - mainly it clarifies and expands details which were already present.
 
-By way of background, I'll list some of his most famous disciples, specifically the ones which are still alive and at large after all these centuries.  I'll start with Jama no Iuchiban Suru.
+By way of background, some of his most famous disciples follow, specifically the ones which are still alive and at large after all these centuries, starting with Jama no Iuchiban Suru.
+
+#### Jama no Iuchiban Suru
 
 Before adopting the Jama name, Shiba no Iga Suru was the one who first brought maho texts to Iuchiban, particularly the writings of a mad Kuni shugenja who was driven to insanity from too much exposure to the taint while fighting the forces of the Shadowlands.  It was these writings which began Iuchiban's journey into the practice of maho.  Together, the two of them conducted what prayers and rituals they could manage from reading these texts alone, but it soon became clear they needed more expertise.
 
 Suru is notable for being one of the only remaining disciples of Iuchiban from the samurai caste, and to this day he is said to travel in noble circles, kidnapping and impersonating traveling samurai.  He then uses this position to learn the fears, desires, and regrets of those in power, seeking out those who might be willing to give him their names in exchange for his aid in achieving their political ambitions. with the promise to never reveal his role in assisting them.  Because of this secrecy, it's unknown just how many of the political happenings of the Empire have involved Suru's influence.
 
 Suru ultimately uses the names of famous nobles to fuel powerful rituals.  Suru was directly responsible for resurrecting Iuchiban, and the Great Famine of the 7th century is thought to be Suru's doing.  He has been killed many times but always resurrected by his allies and disciples.
+
+#### Jama Musume
 
 Another terrifying disciple of Iuchiban is Jama Musume.  Unlike the others who have taken the Jama name, she does not add the "no Iuchiban" qualifier, on the basis that she herself originally instructed Iuchiban herself.
 
@@ -4328,15 +4404,19 @@ Musume assisted Iuchiban in his coup attempt, but was not killed, and was the on
 
 Musume is never present when these armies appear to kill Oni no Musume, since she has no need to be there in order for her purpose to be achieved.  Instead, she can remain safely elsewhere, not putting herself at risk of the inconvenience of being slain, and indeed it is unclear whether she has ever been killed.
 
+#### Asahina Yajinden
+
 Another of Iuchiban's disciples is Asahina Yajinden.
 
 Iuchiban's plans could never have succeeded so long as the Shadowlands taint was so easily detected by shugenja.  Convinced that there must exist some method by which the taint could be hidden, Iuchiban reached out to a smith of great renown, hoping that Yajinden could construct amulets capable of concealing the Shadowlands taint in its wearers.  Although Yajinden failed in this effort, his research and collaboration with Iuchiban resulted in Iuchiban himself inventing the maho practice of concealing the Shadowlands taint from the divinations of shugenja.
 
-Yajinden perfected the maho practice of crafting, and taught Iuchiban's disciples how to use the names of objects as an alternative to the names of people - in particular he invented the method of sacrificing the name of a famous sword in order to create a cursed obsidian sword.  Yajinden himself proceeded to create what have been described as the 4 most powerful obsidian blades ever smithed, known as the 4 "Bloodswords" (Ambition, Revenge, Judgement, and Passion) and was said to have been working on a 5th bloodsword (Treachery) when Iuchiban was defeated.
+Yajinden perfected the maho practice of crafting, and taught Iuchiban's disciples how to use the names of objects as an alternative to the names of people - in particular he invented the method of sacrificing the name of a famous sword in order to create a cursed obsidian sword.  Yajinden himself proceeded to create what have been described as the four most powerful obsidian blades ever smithed, known as the 4 "Bloodswords" (Ambition, Revenge, Judgement, and Passion) and was said to have been working on a 5th bloodsword (Treachery) when Iuchiban was defeated.
 
 Yajinden was captured by the Emerald Champion after Iuchiban's coup attempt.  It's unknown how he managed to escape, since his maho practices revolved almost entirely around crafting.  Interestingly, his escape was reported to have occurred many years later, implying that he was not immediately put to death, and Yajinden is said to have assisted the Emperor's advisors in containing the spirit of Iuchiban to prevent him from being resurrected.  However, after managing to escape, Yajinden is said to manufacture obsidian swords and other maho artifacts for bloodspeakers, and train their brightest maho-smith apprentices on how to do the same.
 
-I have much more written about Yajinden, but one thing to note for future reference is that often when telling these kinds of histories, the information is supposed to be somewhat unreliable.  This is what people believe to be true, and most of it is true, but there may be individual parts of the story which is later revealed to be falsehoods spread for some political or religious purpose.  My intention is to have Rokugan be a place whose history books are not entirely reliable, just as modern historians regard many ancient sources as having their own biases and inaccuracies.
+Much more has been written about Yajinden, but one thing to note for future reference is that often when telling these kinds of histories, the information is supposed to be somewhat unreliable.  This is what people believe to be true, and most of it is true, but there may be individual parts of the story which are later revealed to be falsehoods spread for some political or religious purpose.  The intent is for Rokugan to be a place whose history books are not entirely reliable, just as modern historians regard many ancient sources as having their own biases and inaccuracies.
+
+#### Jama no Iuchiban Kyoso
 
 One of the most famous disciples of Iuchiban is Jama no Iuchiban Kyoso.
 
@@ -4346,11 +4426,13 @@ Kyoso made further discoveries in the practice of oni summoning.  Prior to her, 
 
 Kyoso's other discovery was even more significant, which is that of "dismissing" and "recalling" oni.  Prior to her, a tsukai who summoned an oni would have to find somewhere to keep it.  Even out in the countryside, this could spread its taint to the countryside enough to be noticed.  Even worse, a traveling tsukai who kept their oni close enough to come to their defense would almost certainly be seen.  Kyoso discovered that it was possible to send a summoned oni back into Jigoku, and then recall it at a moment's notice.  This process of recall needs far less preparation and ritual than the initial summoning, though it still requires a great expenditure of resources - typically a name almost as large as the one used to summon the oni, or many lesser names, or some combination of names, Shadowlands taint, and wounds.  Even worse, Kyoso is said to have further refined this process to allow the oni itself to return when certain conditions are met, such as the death of the bloodspeaker who summoned it - this means that even when a powerful bloodspeaker is taken by surprise and beheaded instantly, their attackers may still have to fight their oni afterwards.
 
-The final bloodspeaker I've written extensive backstory for in the "rogues' gallery" of Iuchiban lieutenants is an entirely original creation - all of the others are mostly or loosely based on characters from original L5R.  I have extensive notes about him because he has actually appeared as a character in some of my past L5R adventures while I've been a GM, Jama no Iuchiban Kohaku:
+#### Jama no Iuchiban Kohaku
+
+The final bloodspeaker in this "rogues' gallery" of Iuchiban lieutenants - Jama no Iuchiban Kohaku - is an entirely original creation; all of the others are mostly or loosely based on characters from original L5R.  Kohaku has actually appeared as a character in past L5R adventures at the table, which is why the notes here are extensive:
 
 Kohaku was a traveling monk whose pilgrimage brought him to Chai Sedo (the temple at the Gateway to the Land of the Burning Sands, which is itself a narrow valley in the Twilight Mountains on the western side of the Empire) while Iuchiban was stationed there as the general of the 1st Imperial Legion.  With Iuchiban's influence, Kohaku was made the abbot of Chai Sedo, based on his scholarly acumen and understanding of the Tao.  It was Kohaku who Iuchiban dispatched as an emissary to Medin al Salaat to seek out the underground khadi who were still forced by the Ki Rin to stay hidden and make deals from the shadows.  Kohaku succeeded in mastering their ways, even learning the khadi secret of removing one's heart, which he returned to teach to Iuchiban and his fellow disciples.
 
-Interestingly, Jama no Kohaku Jin told the PCs during my previous campaign that removing one's heart does not grant immortality, and that instead it is the mastery of one's fears, desires, and regrets which does that.  He indicated that the removal of the heart helps you attain this mastery, but that most who perform the ritual are still mortal and their removed heart will stop beating when their body dies.  Jin claimed that there is some amount of life extension and resistance to wounds and age and sickness which is granted by the ritual, but that the common beliefs about heart-removal are mistaken.  This is something I've already alluded to - the common belief is that bloodspeakers attain immortality by removing their hearts and keeping them somewhere safe, but in actuality it is about mastering their fears, desires, and regrets.
+Interestingly, Jama no Kohaku Jin told the PCs during a previous campaign that removing one's heart does not grant immortality, and that instead it is the mastery of one's fears, desires, and regrets which does that.  He indicated that the removal of the heart helps you attain this mastery, but that most who perform the ritual are still mortal and their removed heart will stop beating when their body dies.  Jin claimed that there is some amount of life extension and resistance to wounds and age and sickness which is granted by the ritual, but that the common beliefs about heart-removal are mistaken.  This was already alluded to above - the common belief is that bloodspeakers attain immortality by removing their hearts and keeping them somewhere safe, but in actuality it is about mastering their fears, desires, and regrets.
 
 After Iuchiban's defeat, while Jama Suru proceeded to recruit and gain power from noble samurai, Jama Kohaku recruited peasants.  He is known to have personally sought out countryside tsukai and from all over the Empire and taught them how to conceal the Shadowlands taint, allowing them to expand their covens and migrate from the countryside into larger cities without being found.  Because of his focus on evangelism to the peasantry, more bloodspeaker covens broken up by Witch Hunters have been linked to Kohaku than any other bloodspeaker.
 
@@ -4366,9 +4448,11 @@ An even more recent event indirectly linked to Kohaku was the exploits of one of
 
 When a small army showed up on the date in question, Oni no Hoshiko was indeed slain, but evidently Hoshiko had also studied the techniques of Jama Kyoso and managed to summon/form a rust oni which was specifically able to ruin swords.  While many were wounded, not one samurai died in the fight against the oni, yet every sword carried by all members of the attacking army were ruined beyond repair.  This gives each member of the army a right of vengeance against Jama no Kohaku Hoshiko, which permits them to spread her name when done so in the furtherance of their search for her, which is how many well-informed people would know her name, especially those who keep abreast of such matters.  Hoshiko is an excellent example of how modern bloodspeakers often combine the teachings of many of Iuchiban's disciples - in her case Kohaku, Musume, and Kyoso - in order to wield their power more effectively.
 
-Here's what I've written up about the history of Iuchiban's coup attempts and the fallout they generated:
+### Iuchiban's Coup History
 
-Iuchiban's coup:
+What follows is a writeup of Iuchiban's coup attempts and the fallout they generated:
+
+#### Iuchiban's Coup
 
 Armed with the ability to infiltrate the capital without their maho being detected, Iuchiban and his disciples journeyed to Otosan Uchi.  They slowly began to raise the bodies of the honored dead in the Imperial crypt underneath Otosan Uchi, with the intention to mount a surprise attack on the Imperial court.  At the same time, they began quietly abducting members of the Imperial Chancellery whose names they used to power their spells and rituals.
 
@@ -4380,7 +4464,7 @@ Because Iuchiban could not be permanently killed, the Emperor's advisors managed
 
 Bloodspeakers and Witch Hunters:
 
-As a reminder, "tsukai" is the general term for a practitioner of maho.  However, once Iuchiban developed the technique of concealing the Shadowlands taint, those tsukai who are able to conceal the taint became known as "bloodspeakers".  As we've previously discussed, all bloodspeakers are tsukai, but not all tsukai are bloodspeakers.
+As a reminder, "tsukai" is the general term for a practitioner of maho.  However, once Iuchiban developed the technique of concealing the Shadowlands taint, those tsukai who are able to conceal the taint became known as "bloodspeakers".  As established earlier, all bloodspeakers are tsukai, but not all tsukai are bloodspeakers.
 
 This distinction led to a new urban phenomenon of bloodspeakers in cities, who were able to take advantage of dense populations to acquire more power and commit bolder acts against samurai than they could perform in the countryside.  Kidnappings, murders, and larger rituals (especially on certain busy festival days) are all common.  Whereas tsukai in the days before Iuchiban were a rural phenomenon, since they could not operate in large population centers without being found by shugenja.
 
@@ -4388,7 +4472,7 @@ To combat this new bloodspeaker threat, a new Office of the Jade Champion was fo
 
 Witch Hunters quickly grew in number and importance in order to fight against the rapid spread of bloodspeaker covens.  At one point, the Hantei Emperor ordered a Witch Hunter placed in every domain capital in the Empire, with these magistrates of the Jade Champion being given jurisdiction to investigate any reports of tsukai activity anywhere.  Some of these orders were later rescinded for reasons described below, and the power and influence of Witch Hunters has waxed and waned over the centuries according to the needs of the Empire.
 
-The Gozoku:
+#### The Gozoku
 
 Some Hantei Emperors need to take strong action and be closely involved in political matters throughout the Empire.  Other Emperors preside over periods of prosperity which require little of their attention.  During one such period, five families of the Empire collaborated to effectively seize control of the Imperial Chancellery, ensuring that their cabal were the true decisionmakers in most matters decided in the Imperial capital.  Some players may have noticed that a few of the Companies in the 1st Imperial Legion are not from the ruling houses of their respective families.  Those families were members of the Gozoku, and were so powerful that they obtained more wealth and influence than even the houses which ostensibly ruled them.
 
@@ -4404,17 +4488,17 @@ In case it matters for future reference, the five families of the Gozoku are:
 
 5. The Michio house of the Shosuro family of the Scorpion clan.  While the largest city in the Empire is its capital of Otosan Uchi, the second largest city of Ryoko Owari lies next to Beiden Pass where the 2nd Imperial Legion is stationed, separating Lion and Scorpion lands.  This is the hub of all trade in the central Empire, and lies just north of the best lands for silk cultivation.
 
-Hantei the 16th:
+#### Hantei the 16th
 
 Eventually the time came for the Hantei Emperor to resume direct control of many of the Empire's affairs which had come to be managed by the Gozoku.  Unfortunately, while no one would have dared disobey the Emperor, the structures of government continued to operate as they were rather than immediately shifting according to the Emperor's will.  Whether because of intentional undermining of the Emperor's authority, or simple neglect and carelessness, Hantei the 16th found his orders not being obeyed even as every one of his subjects professed their loyalty to him.
 
-Hantei the 16th proceeded to take a series of actions to break up the alliance of the Gozoku which led to him earning the nickname "the Steel Chrysanthemum".  For example, after Daidoji Tojo became the senior member of the Daidoji Trading Council, he staged a power-play within Crane lands to attack and discredit a childhood rival, which derailed plans the Emperor had been orchestrating for years.  In retaliation, the Steel Chrysanthemum elevated him to the Fortune of Dung.  (Remember that we have previously discussed the power that Emperors claim have to elevate people to become fortunes.)
+Hantei the 16th proceeded to take a series of actions to break up the alliance of the Gozoku which led to him earning the nickname "the Steel Chrysanthemum".  For example, after Daidoji Tojo became the senior member of the Daidoji Trading Council, he staged a power-play within Crane lands to attack and discredit a childhood rival, which derailed plans the Emperor had been orchestrating for years.  In retaliation, the Steel Chrysanthemum elevated him to the Fortune of Dung.  (Remember the power that Emperors claim to elevate people to become fortunes, discussed previously.)
 
 Hantei the 16th also used the Witch Hunters to investigate those who he suspected of conspiring against his interests.  This led many overzealous Witch Hunters to go beyond what the Steel Chrysanthemum had ordered of them, with some going so far as to lie about the results of their tests, and condemn some suspects as tsukai who had never practiced maho.  After the reign of Hantei the 16th ended, his successor rolled back the power of Witch Hunters as a direct response to the excesses they perpetrated while trying to best serve his father.
 
 For example, Witch Hunters cannot directly accept expensive gifts.  Having sworn a vow of poverty, they instead accept the gifts "on behalf of my office", with the understanding that if/when they are ever reassigned, the gifts would stay with the office rather than departing with the person.  This vow became a requirement of all Witch Hunters everywhere as part of the reforms which occurred after the reign of Hantei the 16th.
 
-Iuchiban's Resurrection:
+#### Iuchiban's Resurrection
 
 It's unclear exactly how Iuchiban's soul was freed from the Forgotten Tomb, but Jama Suru is believed to have used the samurai names he acquired over 2 centuries to perform rituals to break the soul free, and Jama Kohaku constructed a new body for Iuchiban.  Together, they gathered most (though not all) of his other surviving disciples and attempted to take the Empire by force.  They began by raising an army of zombies and moved across the countryside.  Any losses they sustained were quickly replenished with the bodies of fallen samurai.  Recognizing the plight they faced, enemy daimyo quickly put aside their differences to stamp out this force before it could grow too large to stop.  Iuchiban had counted on the Empire remaining too divided to oppose him, but he was once again defeated and slain.
 
@@ -4422,23 +4506,23 @@ Because the Forgotten Tomb could no longer be relied upon to contain Iuchiban's 
 
 After the return of Iuchiban, some of the institutional powers stripped from Witch Hunters after the reign of the Steel Chrysanthemum were restored, though still nowhere near the point they were at their peak.  There are currently only about 200 Witch Hunters stationed throughout the Empire, which has around 350 domains.  Even a post as prestigious as the 1st Imperial Legion wouldn't have an assigned Witch Hunter if not for the historical reasons for the Empire to be concerned about possible khadi influence on Chai Sedo.
 
-One thing to note about what I've tried to do in my description of these events is to use the kinds of words and phrasings that people within the society would use.  For example, look at how I described Hantei the 16th.  Consider the sentence:
+One intent in the above is to use the kinds of words and phrasings that people within the society would use.  For example, look at how Hantei the 16th is described.  Consider the sentence:
 
 "This led many overzealous Witch Hunters to go beyond what the Steel Chrysanthemum had ordered of them, with some going so far as to lie about the results of their tests, and condemn some suspects as tsukai who had never practiced maho."
 
-If we read that kind of thing in a history book about a real-life premodern society, we would probably conclude that the Emperor really did order the Witch Hunters to lie and falsely condemn his political opponents as tsukai so that they could be executed, which would help re-establish the Emperor's authority and strength.  And indeed, that kind of thing is my intended interpretation - anyone who reads that is supposed to think that Hantei the 16th was a complicated figure who brutally opposed his enemies, and even if they think his goals and results were mostly just or well-intentioned, they probably wouldn't want a modern Emperor to behave as he did.
+Read in a history book about a real-life premodern society, that kind of passage would probably suggest that the Emperor really did order the Witch Hunters to lie and falsely condemn his political opponents as tsukai so that they could be executed, which would help re-establish the Emperor's authority and strength.  And indeed, that is the intended interpretation - readers should think that Hantei the 16th was a complicated figure who brutally opposed his enemies, and even if they think his goals and results were mostly just or well-intentioned, they probably wouldn't want a modern Emperor to behave as he did.
 
 However, no one in polite society would ever say that!  Instead, they would say things like, "The Emperor always does what is appropriate for his time and place.  In the past, Emperors such as the Steel Chrysanthemum behaved in ways which were appropriate to the challenges of their era, and the Hantei dynasty of today is wise enough to understand that the current era no longer demands such actions."
 
 ## Shugenja
 
-Now that we've talked about "dark" practitioners of "dark" magic, let's talk about shugenja, the spellcaster priests of the Celestial Order who are members of the samurai caste.
+With the "dark" practitioners of "dark" magic covered, the discussion turns to shugenja, the spellcaster priests of the Celestial Order who are members of the samurai caste.
 
 One interesting thing to explore is the difference between the fortunes and the elemental kami.  The latter are the elemental spirits of air, earth, fire, and water which inhabit all physical things.
 
 Shugenja can communicate with the elemental kami much more directly than anyone can communicate with the fortunes, as the elemental kami are generally smaller.  The Elemental Dragons which are the manifestation of the elements are closer to the fortunes in this regard, and are much more difficult to communicate with, even in situations where they physically manifest.
 
-This came up in my previous campaign because a shugenja used their powers to interfere in a duel.  Here is something I wrote about this to explain shugenja and their wisdom and magics and how they interact with Rokugan's legal system:
+This came up in a previous campaign when a shugenja used their powers to interfere in a duel.  The writeup explaining shugenja and their wisdom and magics and how they interact with Rokugan's legal system follows:
 
 Shugenja are extremely rare.  In most clans, about 1 out of every 10,000 samurai is a shugenja.  Since most domains have about half that number of samurai, about half of the domains in the Empire don't have even a single shugenja.
 
@@ -4468,15 +4552,15 @@ This shows the ways in which the elemental kami are held in high regard, and yet
 
 ## Gaijin
 
-Now that we've talked about Rokugan, let's talk about gaijin cultures.
+With Rokugan covered, the discussion turns to gaijin cultures.
 
-One of my previous campaigns dealt with gaijin a lot, and one challenge that I faced is that Rokugan has a well-defined cosmology, which is partially based on some Chinese and Japanese religions, but if I want to incorporate other mythologies, then they are extremely likely to conflict with our existing established principles.  And not just in some of the ways we've discussed, where a single point of difference can form an interesting mystery, but in terms of totally contradicting the entire worldview.
+A previous campaign dealt heavily with gaijin, which surfaced a recurring challenge: Rokugan has a well-defined cosmology, partially based on some Chinese and Japanese religions, and other mythologies are extremely likely to conflict with the existing established principles.  And not just in some of the ways already discussed, where a single point of difference can form an interesting mystery, but in terms of totally contradicting the entire worldview.
 
-For example, I would never introduce a gaijin nation which practiced some fantasy version of Christianity into my setting, because the cosmology of Christianity is fundamentally incompatible with what we've established for Rokugan.
+For example, no gaijin nation in this setting would ever practice a fantasy version of Christianity, because the cosmology of Christianity is fundamentally incompatible with what has been established for Rokugan.
 
-Some other polytheistic practices could be adapted to work for this setting.  For example, the religion of the Roman Empire wouldn't totally fit with what we've established, but it could be adapted and changed into a fantasy version without fundamentally throwing the whole thing out.  For example, some of their gods could be their names for the Fortunes, and individual pieces of their mythology which directly contradict established doctrine could simply be dismissed as the foolish ignorance of uneducated gaijin.  And there are interesting ideas to be had - the Legionnaire's Oath we discussed earlier is inspired by the Roman legionnaire's oath from actual historical records.
+Some other polytheistic practices could be adapted to work for this setting.  For example, the religion of the Roman Empire wouldn't totally fit with what's been established here, but it could be adapted and changed into a fantasy version without fundamentally throwing the whole thing out.  For example, some of their gods could be their names for the Fortunes, and individual pieces of their mythology which directly contradict established doctrine could simply be dismissed as the foolish ignorance of uneducated gaijin.  And there are interesting ideas to be had - the Legionnaire's Oath discussed earlier is inspired by the Roman legionnaire's oath from actual historical records.
 
-In my previous campaign I tried to take on this challenge.  The Moto were trying to rally "the northern tribes" under their banner.  While some claimed that this constituted a gaijin army, others pointed out that if properly done these northerners would stop being gaijin after they swore fealty to the Moto and began paying Imperial taxes.  The northern tribe called the "Uru" rebelled against the Moto, which led to Gaheris conducting an extensive military campaign against them.
+A previous campaign took on this challenge.  The Moto were trying to rally "the northern tribes" under their banner.  While some claimed that this constituted a gaijin army, others pointed out that if properly done these northerners would stop being gaijin after they swore fealty to the Moto and began paying Imperial taxes.  The northern tribe called the "Uru" rebelled against the Moto, which led to Gaheris conducting an extensive military campaign against them.
 
 Ide diplomats had previously spread some proper religious doctrine to the Uru, such that the Uru already recognized the divinity of the Hantei.  However, the particulars seem to have gotten somewhat lost in translation.  Here are some things which the PCs in the previous campaign learned about the Uru religion:
 
@@ -4492,9 +4576,11 @@ Ide diplomats had previously spread some proper religious doctrine to the Uru, s
 
 - The gen (elemental kami) gave birth to horses long after the human race.  The first horses were seen as ugly demons, but a human named Uru was unafraid of them and recognized them as beautiful angels.  He befriended the first horses and learned to ride them, which is why the Uru are the first and greatest riders of horses among all the peoples of the world.  The word "Uru" literally means "horse rider".
 
-It's challenging to adapt different religious traditions into the same setting, but I tried to do some combination of embracing a certain level of ambiguity, while also offering a framework by which these conflicting religious traditions can be understood.  Obviously their account of how different parts of the world was created is different from what we have established in Rokugan's history of the world, but there shouldn't be any irreconcilable differences in the cosmology of the Uru people as compared to the cosmology of Rokugan.
+Adapting different religious traditions into the same setting is challenging; the approach here combines embracing a certain level of ambiguity with offering a framework by which these conflicting religious traditions can be understood.  Obviously their account of how different parts of the world were created differs from what's established in Rokugan's history of the world, but there shouldn't be any irreconcilable differences in the cosmology of the Uru people as compared to the cosmology of Rokugan.
 
 One of the PCs in that campaign asked the Uru what they know of the Moto.  Here's a bit of background about the Moto and the Unicorn clan which is relevant to this question.
+
+### Unicorn History
 
 Many sloppy histories record the Unicorn clan as "leaving" Rokugan ~100 years after the Empire was founded, and "returning" about 200 years ago, thus being "gone" for about 800 years.
 
@@ -4530,6 +4616,8 @@ As the Moto began to enjoy military success against the Uru, Tetsu began to recr
 
 Here is what Bashi wrote to Tetsu when asked to compose a report on the Moto:
 
+### Bashi's Letter on the Moto
+
 To His Excellency Kitsuki Tetsu,
 
 You have asked about the Moto, but there are two Moto peoples on the two sides of the western desert.  Each of them claim to live in their ancestral homeland, but it is the Moto who ride under the banner of Moto Gaheris who are correct, and those who live to the southwest of Medinat al Salaam have been deceived by false histories and doctrines.
@@ -4562,9 +4650,11 @@ Daotai Kirghiz Bashi Magistrate under Kitsuki Tetsu, the Minister of Justice of 
 
 Note that Bashi incorrectly refers to the Moto as a "clan" rather than a family of the Unicorn clan.  Apparently the northern tribes consider the Moto to be allies of the Unicorn rather than vassals of them.  Considering how fiercely independent the Moto are and how much they hew to their own ways, this isn't an entirely unreasonable assessment!
 
-Regardless, readers should note the similarities this account has with Rokugani religion and also the differences.  In particular, "Tenri" is not a figure which we had previously established in Rokugani religion, though it's certainly possible that such a figure could exist.  Some of the characters are recognizable and could be mapped onto Rokugani deities, and other events don't match anything in Rokugan's history, but since many of these events take place before the dawn of the Empire, it's entirely possible that Rokugan's history is incomplete and the Uru history is correct.  Or perhaps their story is simply wrong, and is an invention of their storytellers, or perhaps some of it is wrong and other bits are accurate.
+Regardless, readers should note the similarities this account has with Rokugani religion and also the differences.  In particular, "Tenri" is not a figure previously established in Rokugani religion, though it's certainly possible that such a figure could exist.  Some of the characters are recognizable and could be mapped onto Rokugani deities, and other events don't match anything in Rokugan's history, but since many of these events take place before the dawn of the Empire, it's entirely possible that Rokugan's history is incomplete and the Uru history is correct.  Or perhaps their story is simply wrong, and is an invention of their storytellers, or perhaps some of it is wrong and other bits are accurate.
 
-In the interest of discussing different gaijin religions, here are some notes I wrote about the city, culture, and religion of Medin al Salaat.  Note that I say some things about the fictional language of Salaam in my notes, which is loosely inspired by a combination of historical things and real language facts as well as just stuff I made up because it seemed interesting.  I also drew heavily on the Legend of the Burning Sands material when creating writeups of the city and its factions.
+### Medin al Salaat
+
+In the interest of discussing different gaijin religions, the notes below cover the city, culture, and religion of Medin al Salaat.  The fictional language of Salaam appears here too, loosely inspired by a combination of historical things, real language facts, and invented detail.  The writeups of the city and its factions also drew heavily on the Legend of the Burning Sands material.
 
 Medin al Salaat is the closest gaijin city to the empire of Rokugan.  It is the center of a city-state, which the gaijin refer to as a "caliphate".
 
@@ -4594,9 +4684,9 @@ However, the city originally had a different name, Medinat al Salaam.  Putting t
 
 Records from the early days of the Empire are poor, and Hantei Kajimitsu's "History of Early Rokugan" speaks little of gaijin lands.  He does refer to "the city of Medin al Salaat", which is the earliest reference to the city.  However, historians have found copies of documents whose originals are said to be even older, which indicate that prior to Shinjo's children conquering the city it was known as "Medinat al Salaam", and it was changed to "Medin al Salaat" by the early Unicorn clan.
 
-I realize that much of what I've written above doesn't actually fit with real-life languages, even though it draws a little from it.  "Salaam" is a real word, but my various meanings and implications and conjugations are mostly invented for this fictional setting.  I hope this was nevertheless clear and made sense in and of itself when disregarding real, historical languages.
+Much of the above doesn't actually fit with real-life languages, even though it draws a little from them.  "Salaam" is a real word, but the various meanings, implications, and conjugations here are mostly invented for this fictional setting.  The hope is that it nevertheless reads clearly on its own terms, setting aside real, historical languages.
 
-Salaam is the language spoken by the Almekhem, who are the current dominant nobility of the city.  I'll start explaining details about the city's different ethnic groups, and I'll start with the Almekhem:
+Salaam is the language spoken by the Almekhem, who are the current dominant nobility of the city.  The city's ethnic groups follow, starting with the Almekhem:
 
 The "prophet" Mekhem founded the city in pre-history, during the times of the warlords prior to the dawn of the Empire.  This group are known as the "of Mekhem" in Salaam - they are the original speakers of Salaam.  The Almekhem were still the largest ethnic group in the city when the Unicorn left, though it's unclear whether this is still the case today.  However, Salaam continues to be the most commonly spoken language in the city, based on what the Hidden Way is told by incoming silver caravans, so presumably they are still a large force.  They are mainly known today for being merchants.
 
@@ -4614,7 +4704,7 @@ They are said to control a special type of elemental kami known as djinn, though
 
 The Caliph is "The Final Arbiter of all Disputes", though in practice most factions resolve their internal disputes without involving the caliphate, so like an Imperial magistrate who only adjudicates issues between members of different clans, the Caliphate is said to mainly handle inter-factional disputes.  However, like most of the information that Rokugan has about the city, this is centuries old, so it's unknown whether this is still the case.
 
-Note that djinn were something that I found challenging, since they are hugely important to this gaijin setting, but are difficult to reconcile with Rokugan's cosmology, so I tried to emphasize the ambiguity.
+Note that djinn were a particular challenge: they are hugely important to this gaijin setting but difficult to reconcile with Rokugan's cosmology, so the writeup emphasizes the ambiguity.
 
 The Qabal of the Sahir:
 
@@ -4622,7 +4712,7 @@ The Qabal of the Sahir:
 
 It's unclear whether the Sahir are their own faction.  The Qabal of the Sahir is like a "low-rent version" of the Council of Elemental Masters, as well as the name of their arcane school where all sahir train.  It has a significant fortressed section of the city all to itself, and they manage their own affairs, though it's not obvious whether "they" are an ethnicity unto themselves or if like the shigenja families of Rokugan the Qabal is mainly where the magic-wielders from all over have congregated.  There is definitely a "Sahiri" language, though most or all Sahir are said to speak Salaam as well.
 
-Note that here I have tried to keep things consistent, while still allowing for more exotic things like flying carpets.  Rokugan already has "nemuranai", so describing a flying carpet in this way seems to be a good way to reconcile these conflicting systems.
+The writeup aims to keep things consistent while still allowing for more exotic things like flying carpets.  Rokugan already has "nemuranai", so describing a flying carpet in those terms is a clean way to reconcile these conflicting systems.
 
 The Ashalan:
 
@@ -4658,11 +4748,13 @@ Known to the "real" Moto as "those who remained", there are indeed nomadic, past
 
 It's unclear to historians whether current Moto lands are the original ancestral lands of the Moto, or if they're originally from the plains on the other side of the Burning Sands desert where this group of "Moto" live.  Regardless, these people live the Moto lifestyle within riding distance (i.e. within a few hundred miles) of Medin al Salaat, and they come to the city to trade, though they are said to use "Argoki" (a rudimentary sign language used for trading) more commonly than they speak Salaam.
 
-Note that one theme in these writeups is that I tried to take existing historical myths and stories whose underpinnings might not be directly applicable to Rokugan, such as the Assassin's habit of taking people to Paradise, and adapt those stories to fit within Rokugan's cosmology.
+One theme in these writeups is taking existing historical myths and stories whose underpinnings might not be directly applicable to Rokugan, such as the Assassin's habit of taking people to Paradise, and adapting them to fit within Rokugan's cosmology.
 
-The PCs never actually visited the city in person during this past campaign, but they did end up there as part of a "dream quest".  I sometimes like to have adventures take place in the Realm of Dreams, in which the PCs enter a shared dream where they must overcome obstacles to gain some information or achieve some other goal.
+### The Medin al Salaat Dream Quest
 
-Here was the description I wrote for this particular dream quest:
+The PCs never actually visited the city in person during this past campaign, but they did end up there as part of a "dream quest".  Adventures in this setting sometimes take place in the Realm of Dreams, in which the PCs enter a shared dream where they must overcome obstacles to gain some information or achieve some other goal.
+
+The description for this particular dream quest follows:
 
 The PCs find themselves standing on the Moto steppes, between the Twilight mountains and the Burning Sands Desert.  They can see both of these things as clearly as if they were next to them but can also see the distances between them.  The rock seat at Chai Sedo is said to be a scale on the Earth Dragon's head, but you can see clearly now that the north and south sides of the Gateway to the Land of the Burning Sands appear as arms, and as the sky above presses down, and the weight of the air threatens to crush the world beneath it, the arms of the Earth Dragon hold up the sky.  You also see the Burning Sands desert, not as a stretch of land, but as a barrier, not between places but between worlds, a shimmering veil separating one world from another.
 
@@ -4672,9 +4764,9 @@ You then feel the world move around you.  Or perhaps you are moving.  It's impos
 
 You find yourself outside the legendary walls of Medin al Salaat.  The walls were built to protect from Moto raids, and they seem to tower up to the heavens.  The truth you seek is inside the city, but you will need to make your way inside.  Fortunately, you'll have help!  There are Moto here.  Not the Moto who ride with Gaheris, but the "Moto who remained", the Moto who live to the southeast of Medin al Salaat.
 
-That was the description I wrote to introduce the PCs to the shared dream they found themselves in.  While outside the city, they were able to interact with the various factions, learning secrets which would be difficult to discover in the waking world, and coming to better understand these factions.  This understanding and these secrets are not the primary purpose of the dream quest, but rather are a sort of "side mission", where if the PCs want to brave the dangers of lingering too long in this dream, they can gain additional rewards in the form of knowledge and wisdom.
+That description introduced the PCs to the shared dream they found themselves in.  While outside the city, they were able to interact with the various factions, learning secrets which would be difficult to discover in the waking world, and coming to better understand these factions.  This understanding and these secrets are not the primary purpose of the dream quest, but rather are a sort of "side mission", where if the PCs want to brave the dangers of lingering too long in this dream, they can gain additional rewards in the form of knowledge and wisdom.
 
-The major challenge of that initial scene was to manage to breach the walls of the city to win their way inside.  Once they did, they found themselves in the Court of the Caliph, witnessing a past event from 1 year earlier, which helps them to learn about how these events of the past led to their current circumstances.  Here was the introduction I wrote to that second scene, which I am including here for future context, in case we later end up discussing how real-life things can appear in dreams.
+The major challenge of that initial scene was to manage to breach the walls of the city to win their way inside.  Once they did, they found themselves in the Court of the Caliph, witnessing a past event from 1 year earlier, which helps them to learn about how these events of the past led to their current circumstances.  The introduction to that second scene follows, included here for future context in case real-life things appearing in dreams comes up again later.
 
 The Uru have arrived in Medin al Salaat, to meet with Caliph Hanan Talibah in the Uru month known as "the reaping", and the Uru have come to the city state to seek counsel and support against the Moto.  Timur Beg, the leader of the Uru, has arrived with "onder" (khan) Eguden Yeke and onder Perhat Bugra.  Beg introduces himself to the Caliph's court by his many titles, as the "Uru onder" (khan of the Uru), as the "Onder ilg Onder" (khan of khans), as the "Genel Ordular ilg Uru Kabeel" (general of the armies of the Uru clan), and most importantly by the title granted to his grandfather by the Caliph's grandmother, the "Alhukm Alniha ilg Almunazaat" (unlike the other titles, this one is in Salaam rather than Uru and means "the final arbiter of all disputes").
 
@@ -4694,11 +4786,11 @@ That was the second scene of the dream quest.  Here there were deeper secrets to
 
 ## The Moto
 
-Now that we've discussed gaijin, let's discuss the Moto.
+With gaijin covered, the discussion turns to the Moto.
 
 One of my past campaigns (the "Hidden Way" campaign) involved the Moto family of the Unicorn clan, which are loosely based on the peoples of Mongolia (in the same way that Rokugan is based on samurai Japan with a bit of Imperial China thrown in).
 
-Moto etiquette:
+### Moto Etiquette
 
 Moto culture is much less cultured and reserved than Rokugan.  In the civilized world, people would be shocked and appalled at an exchange like this:
 
@@ -4718,7 +4810,7 @@ This can create awkward situations for people, especially those with Short or Lo
 
 However, the rule of thumb is that so long as you're willing to sit down and eat and drink with them afterwards, brawling with someone who has insulted you doesn't ruin your reputation/standing/relationship with them.  It may even improve it!
 
-Moto tribal structure:
+### Moto Tribal Structure
 
 The Moto mainly live in nomadic extended-family groups.  An individual group ranges from several dozen to a several hundred.  Individual families within the group have their own brands, which they use to mark their horses and cattle.  (Sheep are often marked with ink on their wool.)
 
@@ -4726,7 +4818,7 @@ A "clan" consists of a collection of these extended family groups, "led" by a kh
 
 Because the word "clan" already has a defined meaning in the Empire, the civilized world refers to the Moto clans as "tribes", whereas they refer to themselves as "clans".  The PCs are savvy enough to be assumed to be using the correct terms in the correct company, and the GM will specifically explain if there's ever a situation where there's not a single expected usage, letting the PCs decide which people to upset if necessary.
 
-The Moto daimyo:
+### The Moto Daimyo
 
 The "Moto clan" (or "Moto tribe") is the "ruling" tribe of the Moto.  The word "Moto" literally means "human", so they are the "Human clan" in their language.  The khan of the Moto tribe is always officially the daimyo of the Moto family according to both the Imperial and Unicorn clan governments.
 
@@ -4738,19 +4830,19 @@ Even when there is no "khan of khans", groups of khans will sometimes come toget
 
 Imperial official documents refer to "khuraldai" as the Moto word for "chancellery", which is not entirely wrong, since that's probably the closest analog for the concept.  However, because Moto society is so differently structured, an uninformed person who hears "Moto chancellery" would get entirely the wrong idea.
 
-Moto law:
+### Moto Law
 
 The Moto word for "law" is Yassa, which actually means "secret writings".  This is because their legal code is deliberately secret.  Only a khan and his designated advisors are permitted to read the legal code, to prevent the letter of the law from being used to abuse the spirit of the law.
 
 Legal decisions handed down by a khan will sometimes have their rationale broadly explained to promote public virtue, but rulings do not create legal precedent and there is no common law system.  That idea has been rejected for the same reason the laws are kept secret - otherwise the educated could abuse the system.
 
-Language:
+### Moto Language
 
 Our maps separate Moto lands into "eastern" and "western" halves, which basically means "do the local tribes speak Rokugani or do they only speak Moto?"
 
 Eastern Moto are mostly bilingual because Rokugani has been the official language in the Empire for so long and the most successful Moto have needed to be able to communicate with the Unicorn clan (and sometimes Imperials) for centuries.  It's unclear whether most eastern Moto are bilingual or if it's just the wealthier and more successful ones.
 
-Approaching a Moto tribe:
+### Approaching a Moto Tribe
 
 The PCs may occasionally want to approach a Moto tribe to speak with their leader.  Here's what that usually looks like.
 
@@ -4766,7 +4858,7 @@ The PCs may occasionally want to approach a Moto tribe to speak with their leade
 
 - Depending on how well things go, the PCs will either be taken to the khan, or they will need to prove themselves in some way.  Because of the aggressive and insulting style of Moto communication it would not be uncommon to need to engage in some form of physical competition prior to being taken to the khan, either brawling with them or engaging in a wrestling match or a feat of horsemanship or an archery contest, etc.
 
-Moto Lands:
+### Moto Lands
 
 On paper the Moto are only 1 giant domain approximately 400 miles wide and 250 miles deep.
 
@@ -4786,7 +4878,7 @@ The Burning Sands desert marks the western and southern borders of Moto lands, w
 
 Interestingly, there are suddenly a lot more wealthy Moto than ever before, both because of their recent raids on Lion lands and because of the Emperor's material support of Moto Gaheris.
 
-The Vindicator Moto:
+### The Vindicator Moto
 
 The Burning Sands desert surrounds Moto lands on its western and southern borders.  The Shadowlands Taint is transmitted through water, and the Burning Sands desert therefore forms a barrier against the Shadowlands.
 
@@ -4796,7 +4888,7 @@ They are mainly a normal nomadic tribe (like most Moto), but their holy place is
 
 (It has since been explained to the PCs in the Hidden Way that Bodi Kaikhan is in fact a shrine to the 4 Gods of Death rather than to Emma-O specifically.)
 
-The Gods of Death:
+### The Gods of Death
 
 Moto religious practices are often different from those of the rest of Rokugan, and one thing that the PCs encountered was that the modern Moto are in the process of bringing back "the old ways", which involves worship of the Gods of Death.  Here is some information about this.
 
@@ -4808,9 +4900,9 @@ The number 4 is unlucky because it sounds like the word "death".  Rokugani often
 
 - Gifts which would normally be 4 zeni/bu/koku will be supplemented with lower denomination (e.g. 4 koku and 1 bu so the gift is 5 coins) in order to avoid the unlucky number.  The exception is a threat - a gift of 4 of something is considered a threat in Rokugani culture just as a gift of a weapon in considered a threat in Moto culture.
 
-It is therefore fitting that there are 4 Gods of Death - given the significance of the number, how could there be any other number?  However, of the 4 Gods of Death, only 2 are recognized in the rest of Rokugan, and the others appear unique to Moto teachings.
+It is therefore fitting that there are 4 Gods of Death - given the significance of the number, how could there be any other number?  However, of the 4 Gods of Death, only two are recognized in the rest of Rokugan, and the others appear unique to Moto teachings.
 
-Moto Gaheris, the daimyo of the Moto family, who is referred to by the Moto as "the khan of khans", carries 4 swords, each dedicated to a different god of death:
+Moto Gaheris, the daimyo of the Moto family, who is referred to by the Moto as "the khan of khans", carries four swords, each dedicated to a different god of death:
 - Bloodstorm, which Gaheris carries into battle, is dedicated to Emma-O
 - Lamentation, used for defense when attacked/ambushed by another, is dedicated to Enma
 - Lightning, used in single combat, is dedicated to King Yan
@@ -4826,17 +4918,15 @@ A few well-established truths which are important to remember about the fortunes
 
 - Emma-O therefore doesn't rejoice in any specific death more than any other.  An uneducated peasant might wrongly guess that Emma-O would delight in someone who dies young and prefer that people lead short lives to long lives.  This is clearly not the case - if it was then there could be no fortune of longevity!  (An interesting corollary is that Jurojin, the fortune of longevity, does not always prefer long lives to short ones - this is counterintuitive but still a well-established truth.)
 
-- Emma-O is the only one of the Gods of Death who is a fortune, and fortunes are part of the fabric of reality.  Emma-O is not merely a god who happens to favor the concept of death, she literally is death.  (To be more precise, she exists as the cycles and connection created by death which further shape and create death in turn.) It's unclear whether this makes her the greatest of the Gods of Death - the Moto don't seem to have seriously considered this question.
+- Emma-O is the only one of the Gods of Death who is a fortune, and fortunes are part of the fabric of reality.  Emma-O is not merely a god who happens to favor the concept of death, she literally is death.  (To be more precise, she exists as the cycles and connections created by death which further shape and create death in turn.) It's unclear whether this makes her the greatest of the Gods of Death - the Moto don't seem to have seriously considered this question.
 
-Interestingly, Emma-O is the only one of the Gods of Death who is a fortune, and fortunes are part of the fabric of reality.  Emma-O is not merely a god who happens to favor the concept of death, she literally is death.  (To be more precise, she exists as the cycles and connection created by death which further shape and create death in turn.) It's unclear whether this makes her the greatest of the Gods of Death - the Moto don't seem to have seriously considered this question.
-
-One thing I have tried to emphasize about these Moto religious practices is that they will probably seem frightening to outsiders, and cause many to wonder whether the Moto are behaving in a heretical manner outside the bounds of what is considered appropriate religions practice as determined by the Imperial Ministry of Rites.
+One thing worth emphasizing about these Moto religious practices is that they will probably seem frightening to outsiders, and cause many to wonder whether the Moto are behaving in a heretical manner outside the bounds of what is considered appropriate religious practice as determined by the Imperial Ministry of Rites.
 
 For example, let's talk about King Yan, who the Moto also worship as one of the Gods of Death.
 
 King Yan, also known as the King of Hell, is the one who judges the souls of the dead, determining where they will spend their time in the underworld until they are reborn.  There are 8 greater hells and 16 lesser hells, and a King Yan sentences souls to spend time in one of these, or several in succession.  This is said to be a necessary part of the process by which souls are purified and stripped of their connections to their previous life.  Thus, while souls are indeed punished in the 24 hells of Jigoku, the process of a soul having its connections eaten by oni is not inherently a punishment, as it is what allows rebirth.
 
-King Yan will send some souls who are worthy (especially those already close to enlightenment) directly into Yomi, the realm of the honored dead.  It's unclear whether Yomi is part of Jigoku or if it is a separate realm entirely - this is much debated by scholars.  King Yan doesn't appear to have dominion over Yomi, which has no oni need for any ruler.  Yomi is where honored ancestors dwell, and damned souls which have completed their time in the hells of Jigoku commune with their own ancestors in Yomi before being reincarnated.
+King Yan will send some souls who are worthy (especially those already close to enlightenment) directly into Yomi, the realm of the honored dead.  It's unclear whether Yomi is part of Jigoku or if it is a separate realm entirely - this is much debated by scholars.  King Yan doesn't appear to have dominion over Yomi, which has no need for any ruler.  Yomi is where honored ancestors dwell, and damned souls which have completed their time in the hells of Jigoku commune with their own ancestors in Yomi before being reincarnated.
 
 King Yan rules over all oni, and tsukai (witches) often pray to him.  There is some debate among scholars over whether or not oni are themselves inherently evil, though it is heretical to say that oni are "not malicious".  This debate has relevance when considering the worship of King Yan:
 
@@ -4852,9 +4942,9 @@ King Yan rules over all oni, and tsukai (witches) often pray to him.  There is s
 
 The Vindicator clan, which deals with the occasional oni which makes it way into Moto lands along the western side of the Twilight Mountains, teaches that oni in the mortal realm are not evil, and should instead be regarded like rabid animals which need to be put down.  Killing such an oni allows it to "return to where it belongs" and is therefore a merciful act, not only protecting its mortal victims but ultimately doing what is best for the oni itself to where it will thrive where the Tao prospers for it.  The Vindicator's hatred for all things Shadowlands is well-known, as they are the southernmost Moto tribe who has to deal with all of the Shadowlands denizens which make their way into Moto lands.  Thus, their position is treated with deference even by those who disagree with them and find it foolish.
 
-One thing that I've tried to emphasize, in this section and in other writings, is how even within the world of Rokugan with its many established doctrines, there is active debate about these matters.  Even with something as seemingly black-and-white, good-and-evil as oni (demons) from hell (Jigoku), there is much room for theological disagreement between different characters in the setting.
+One thing this section and others try to emphasize is how, even within the world of Rokugan with its many established doctrines, there is active debate about these matters.  Even with something as seemingly black-and-white, good-and-evil as oni (demons) from hell (Jigoku), there is much room for theological disagreement between different characters in the setting.
 
-The next God of Death in my notes is Enma:
+The next God of Death is Enma:
 
 Enma was thought to be the Moto word for Emma-O, i.e. until the start of the campaign the PCs thought that they referred to the same being.  The Moto describe Enma as "the guardian of the gates of Jigoku".
 
@@ -4892,13 +4982,13 @@ It's unclear what exactly the souls of the dead have to offer Wei Tin in cases w
 
 Pilgrims to Bodi Kaikhan wishing to commune with the spirits of their honored ancestors pray to Wei Tin to assist them, and this is surely what Moto Gaheris must have done before swearing his vows and forging his covenant to the Gods of Death.
 
-Moto rank:
+### Moto Rank
 
 The Moto do not award rank in the same way as the rest of the Empire.  This came up briefly in a recent session, though the matter did not have to be officially adjudicated at that time.
 
-We've already discussed the 15 ranks that samurai occupy, with the Emperor being the only person of the 15th rank, and a county magistrate being of the 5th rank, etc.
+The 15 ranks that samurai occupy were already discussed, with the Emperor being the only person of the 15th rank, and a county magistrate being of the 5th rank, etc.
 
-We've also established that anyone above the level of Governor from the ruling House of a Family automatically has 1 higher rank than what's listed above.  Anyone from the ruling Family of a Clan automatically has 2 higher rank instead.  For example:
+It was also established that anyone above the level of Governor from the ruling House of a Family automatically has 1 higher rank than what's listed above.  Anyone from the ruling Family of a Clan automatically has 2 higher rank instead.  For example:
 
 - Ikoma Yuan is the Deputy Minister of War for Ikoma lands, but he is of the 10th rank, since the Ikoma Ministry of War means oversees not only the Ikoma house itself, but all of the domains of the Ikoma vassal families.
 
@@ -4914,7 +5004,7 @@ Moto Gaheris is the daimyo of the Moto family, so the rank of all of his retaine
 
 - Minor clan daimyo are either of the 12th or 13th rank, depending on the specific minor clan.  Specifically, the two minor clans whose daimyo are of the 13th rank are the Mantis and the Dragonfly.  These are also the only two minor clans who themselves have more than one house, i.e. who have other vassal daimyo subordinate to them.
 
-- The Moto family turns out to be extremely large... sort of.  Moto lands contain fewer humans than an average domain - the Ryusei was a slightly-smaller-than-average domain before they conquered several Unicorn provinces, but still had probably twice the total human population of Moto lands.  On the other hand, such a high percentage of Moto subjects are samurai warriors that Gaheris was able to field a samurai cavalry force 3-5 times the size of the combined samurai/peasant army of the Ryusei.  Some might argue that this raises Gaheris' weight and therefore his position in the 13th rank should therefore not be in question.
+- The Moto family turns out to be extremely large... sort of.  Moto lands contain fewer humans than an average domain - the Ryusei was a slightly-smaller-than-average domain before they conquered several Unicorn provinces, but still had probably twice the total human population of Moto lands.  On the other hand, such a high percentage of Moto subjects are samurai warriors that Gaheris was able to field a samurai cavalry force 3-5 times the size of the combined samurai/peasant army of the Ryusei.  Some might argue that this raises Gaheris' weight and therefore his position at the 13th rank should not be in question.
 
 - With that being said, Gaheris' kuraldai is officially regarded as the Moto chancellery, the Moto "clans" are officially considered the various registered Moto lineages, and the khans of those clans are officially considered chancellors.  Thus, whatever the size of the Moto, they have been legally classified as a single House, and there is standing precedent that Gaheris has no other daimyo subordinate to him.  With that being said, there are a number of Family daimyo who have no vassal houses and yet are still considered to be of the 13th rank.  Examples include the Kuni, the Asahina, the Yogo, and even the Kitsuki - Tetsu's family!
 
@@ -4940,13 +5030,13 @@ Here is the most favorable interpretation of the rank of Moto Chenghiz:
 
 - When Jochi assigned his eldest son Chenghiz to the Western Star legion, he identified Chenghiz as being "the most knowledgeable in the laws of tribute of anyone in Moto lands excepting only myself".  His son is also in charge of many other counters/recorders who inventory tribute being taken and make reports.  If Jochi was willing to assert officially that his eldest son Chenghiz outranks all other tribute collectors who work under Jochi, then Chenghiz could be considered as high as a Deputy Minister, making him of the 10th rank.
 
-So basically, Jochi can be considered anywhere between the 6th and 10th ranks, depending on how you rule on various sub-questions.
+So basically, Chenghiz can be considered anywhere between the 6th and 10th ranks, depending on how you rule on various sub-questions.
 
 These sections emphasize the difficulties in integrating the Moto with the rest of Rokugan, both religiously and politically, due to the differences in their culture and practices.
 
 The Moto also practice a fundamentally different kind of horse culture than the rest of Rokugan, so this section outlines first how normal ("Stable") horse culture works and then discussed how the Moto vary from the norm.
 
-Stable horse culture:
+### Stable Horse Culture
 
 Horses are expensive.
 
@@ -4970,7 +5060,7 @@ The best horses come from Unicorn lands, who have spent a thousand years breedin
 
 - The Moto have the best (and most numerous) pack horses, which are especially suited to cold climates.  See below for an explanation of the Moto approach and how it differs from everything above.
 
-Wild horse culture:
+### Wild Horse Culture
 
 Horses grow like weeds in the Moto steppes.  There's plenty of grazing land, but not enough to keep the horses all in one place.  The Moto therefore build pens and let the horses (as well as their sheep) out to graze during the day, counting on most of them to return at night.  After a while, the animals will have grazed enough that they will be herded to a new area, where a different pen will be used.
 
@@ -4982,7 +5072,7 @@ There are plenty of traders who buy horses cheaply in Moto lands for only a few 
 
 Outsider Keep uses both cultures of horse keeping - they have a pen and herdsmen who keep a herd of Moto horses outside the keep, as well as a stables inside the keep where they keep their prize Shinjo riding horses.
 
-Hay:
+### Hay
 
 Both the Moto and the rest of the Empire use a lot of hay.  While the Moto primarily graze, their horses may struggle to all do enough rooting in the snow in the winter months to feed their massive herds, especially since moving from place to place is more difficult in the winter.  And in the rest of the Empire, horses without grazing land rely on food such as hay to maintain their diet.
 
@@ -4990,13 +5080,13 @@ An active horse typically eats about 20 pounds of hay per day.  Hay is usually s
 
 1% of farmland in any Unicorn domain is required by law to be set aside specifically for hay production, and in practice the amount of hay land is somewhat higher.  Otaku lands additionally have high legal requirements on how much hay is required to be stockpiled, which usually amounts to more than their entire required annual yield.  Thankfully, hay keeps almost indefinitely in non-humid climates and conditions.
 
-Otaku Mirai says that Otaku lands produces around 15,000 tons of hay per year from its legally set-aside-for-hay farmland, and at least a few thousand more tons from non-mandated hayfarms.  Mirai isn't sure of the current amount of stockpiled hay in the Otaku domain, since the numbers change during wartime and in anticipation of military requirements and he has been at Chai Sedo for the past 16 months, but he estimates at least 20,000 tons of hay in Otaku haybarns.
+Otaku Mirai says that Otaku lands produce around 15,000 tons of hay per year from its legally set-aside-for-hay farmland, and at least a few thousand more tons from non-mandated hayfarms.  Mirai isn't sure of the current amount of stockpiled hay in the Otaku domain, since the numbers change during wartime and in anticipation of military requirements and he has been at Chai Sedo for the past 16 months, but he estimates at least 20,000 tons of hay in Otaku haybarns.
 
 The Moto army invading Uru lands appears to have in excess of 50,000 horses, as well as many thousands of sheep and cows (though that number is quickly diminishing as the Moto slaughter their flocks and herds).  If they were to subsist entirely on hay, bought at market price, this would cost them at least 500 koku per day.  What this hay would be worth if delivered safely to Umut is perhaps as much a philosophical question as a logistical one.
 
 Transporting hay can be a hassle because of its weight and awkward density.  Hay weighs about 10 pounds per square foot.  This makes it heavy enough to require teams of oxen to pull haywagons, while still making volume the limiting factor rather than weight.  A standard wagon can only hold about a ton of hay.  A standard haycart can hold multiple tons.  Large haycarts can hold up to around 5 tons.  This means that in addition to other requirements, if the Moto wished to feed their army's horses using only hay, they would need about 100 large haycarts arriving every day.  This would be a gargantuan effort, though still plausibly within the capabilities of the Otaku.
 
-Food purity:
+### Food Purity
 
 The Moto also have completely different expectations around what foods are acceptable to eat.  There aren't many places in the area where being ritually unclean will be an issue, though the shrine at Chai Sedo is definitely one of them.
 
@@ -5004,7 +5094,7 @@ There are many things which can make a person ritually unclean.  Being "unclean"
 
 The Moto don't maintain cleanliness rules, though they evidently have enough comparable concepts that they are usually good about checking before entering a non-Moto shrine or temple - after all, no Moto would want to incur the wrath of a divine being for failing to show it respect or violating one of its taboos.
 
-This section focuses on how long it takes for someone to be capable of fully cleansing themselves after having eaten different thing.
+This section focuses on how long it takes for someone to be capable of fully cleansing themselves after having eaten different things.
 
 Eating fish is not unclean and requires no cleansing whatsoever.
 
@@ -5032,7 +5122,7 @@ Most cases you're told about fall into one of several broad categories.
 
 When individuals or groups get into arguments and decide to resolve them through some sort of martial contest, the winner often takes tribute, as is their right.  However, those who take too much are sometimes accused of exceeding the bounds of tribute and crossing over into taking plunder.
 
-The distinction between "tribute" and "plunder" is an important one in Moto law, though it's not clear what standard are applied to distinguish them or whether those standards are actually part of the official written Yassa.
+The distinction between "tribute" and "plunder" is an important one in Moto law, though it's not clear what standards are applied to distinguish them or whether those standards are actually part of the official written Yassa.
 
 These kinds of cases are usually taken to the khans of the two tribes involved first.  Tribute cases are different from other cases in that typically the khans themselves represent their tribes even if they were not directly involved in the original dispute which led to the tribute being taken.
 
@@ -5048,11 +5138,11 @@ What constitutes a "raid" is also not clear.  For instance, sometimes when trave
 
 Cattle and horses are branded, and sheep are painted/inked, with all marks indicating their owners.  However, because animals are self-transporting then they sometimes end up in the wrong place.
 
-It's unclear exactly what standard causes the Kuraldai to declare that something constitutes theft.  A single animal seems always be presumed to be an accident, absent extenuating circumstances, such as when the favorite horse of the khan of the Vindicator clan was stolen by some visiting Tornado clansmen.
+It's unclear exactly what standard causes the Kuraldai to declare that something constitutes theft.  A single animal is always presumed to be an accident, absent extenuating circumstances, such as when the favorite horse of the khan of the Vindicator clan was stolen by some visiting Tornado clansmen.
 
 Animals are also sometimes killed on raids rather than taken.  It seems to be the case that even a single horse being killed is dealt with severely, while a sheep or cow being killed is treated as an unserious matter.
 
-In general, someone is expected to be allowed to inspect their neighbor's herds for animals who wandered off.  There several cases where someone refused to allow this, and the ruling was over whether that refusal was justified.  Sometimes it is and sometimes it isn't - the attempted justification is usually some variant of "you insulted me so I told you to get lost and send someone more respectful".  However, it's not clear exactly what standard is being applied to distinguish between when this is and isn't allowed.
+In general, someone is expected to be allowed to inspect their neighbor's herds for animals who wandered off.  There are several cases where someone refused to allow this, and the ruling was over whether that refusal was justified.  Sometimes it is and sometimes it isn't - the attempted justification is usually some variant of "you insulted me so I told you to get lost and send someone more respectful".  However, it's not clear exactly what standard is being applied to distinguish between when this is and isn't allowed.
 
 ##### Love and marriage
 
@@ -5064,7 +5154,7 @@ There are very few Kuraldai cases involving non-consensual encounters, probably 
 
 ##### Perjury
 
-Anyone giving testimony in a case swears an oath to the Kuraldai.  The oath is sworn by Hiderigami, the fortune of drought, while pouring a heavy bowl of water upon the dusty earth as the oath is spoken as an offing to Hiderigami.  This ensures that perjury will result in drought afflicting the family of anyone who forswears themself.  In addition, anyone caught telling a lie during their testimony is put to death - given the need for truth to be spoken and the consequences of lying, this seems to be the only known punishment for perjury.
+Anyone giving testimony in a case swears an oath to the Kuraldai.  The oath is sworn by Hiderigami, the fortune of drought, while pouring a heavy bowl of water upon the dusty earth as the oath is spoken as an offering to Hiderigami.  This ensures that perjury will result in drought afflicting the family of anyone who forswears themself.  In addition, anyone caught telling a lie during their testimony is put to death - given the need for truth to be spoken and the consequences of lying, this seems to be the only known punishment for perjury.
 
 However, in most cases where a ruling would imply perjury, the sentence of perjury doesn't apply.  In particular, if someone testifies to their own innocence and then are found guilty, they are not usually sentenced to death or otherwise found to have perjured themselves.  Still, such a sentence is known to sometimes be applied, and it's not clear what determines when this is considered appropriate.
 
@@ -5192,7 +5282,7 @@ Gaheris has apparently performed a single execution since arriving in Uru lands.
 
 In recognition for his achievements, Kitsuki Tetsu has been given access to the Yassa.  Although the "full written Yassa" is back in Karakoru and includes things like a listing of all titles of nobility and government positions, the actual legal regulations of the written Yassa seems quite thin.  The Moto do not use the common law system employed by the rest of Rokugan, and there doesn't appear to be any supplemental written commentary or explanations of why the laws exist as they do.  Contrast this with the sermon-like parables and explanations given by Soshi Saibankan in his rulings, which served as a model for how most Rokugani magistrates conduct themselves.
 
-What follows is intended to be a near-complete copy of the "partial" Yassa which Tetsu was given access to.  I've included some out-of-character notes in parenthesis - the literal text of the Yassa is prefixed by > characters indicating that it's quoting the actual text.
+What follows is intended to be a near-complete copy of the "partial" Yassa which Tetsu was given access to.  Out-of-character notes appear in parentheses; the literal text of the Yassa is prefixed by > characters indicating that it's quoting the actual text.
 
 > It is ordered to believe that man stands above hell under the rule of heaven, and that the celestial order alone is responsible for his life and death, riches and poverty.
 
@@ -5348,9 +5438,9 @@ Note that all of the above continues the running theme of the fortunes as cycle/
 
 This makes the concept of swearing a vow to a fortune all the more significant, as it's not just a promise to an individual deity, but a commitment to engage with a fundamental aspect of reality and existence.  This commitment is not just about following a set of rules or achieving specific outcomes, but also about embracing the challenge, uncertainty, and transformation inherent in the process.
 
-Here's some extra information about the names of fortunes in my setting, in case it matters.
+Some extra information about the names of fortunes in this setting follows, in case it matters.
 
-Many stories about fortunes involve a human becoming a fortune after their death.  This can be confusing because the aspect the fortunes represent always predate the death of that human.  So when we talk about a human becoming a fortune, this generally means one of two things.
+Many stories about fortunes involve a human becoming a fortune after their death.  This can be confusing because the aspect the fortunes represent always predates the death of that human.  When a human becomes a fortune, this generally means one of two things.
 
 In most cases of a human becoming a fortune, the person was so in tune with a particular fortune that upon their death their soul does not descend into Jigoku (the underworld) but instead becomes one with the fortune.  The Emperor will then officially recognize this, and thereafter anyone referring to that fortune will have a name that can be used to identify and connect to that fortune in their religious practices.
 
@@ -5358,7 +5448,7 @@ In other cases, the Emperor may use his divine power to elevate a person's soul,
 
 In both situations, the fortune existed prior to the death of the human and being given a human name.  Many fortunes went by multiple other names in the days before the Great Ancestors brought civilization to humanity.  Although it is not heretical to refer to fortunes by other names, it's considered uncultured and demonstrates ignorance of proper doctrine.
 
-This is my way as the GM of resolving all of the stories of people "becoming" a fortune upon their death.  when a human "becomes" a fortune, it's more about the human's soul merging with, or becoming aligned with, a pre-existing facet of reality represented by the fortune.  The individual doesn't create a new fortune, but rather becomes part of an existing one, which reflects their deep connection with the principle or aspect of life that the fortune embodies.  The naming of fortunes, whether through recognition by the Emperor or association with a particular human, is a way for people to more easily understand, relate to, and connect with these complex and profound forces.
+This is my way as the GM of resolving all of the stories of people "becoming" a fortune upon their death.  When a human "becomes" a fortune, it's more about the human's soul merging with, or becoming aligned with, a pre-existing facet of reality represented by the fortune.  The individual doesn't create a new fortune, but rather becomes part of an existing one, which reflects their deep connection with the principle or aspect of life that the fortune embodies.  The naming of fortunes, whether through recognition by the Emperor or association with a particular human, is a way for people to more easily understand, relate to, and connect with these complex and profound forces.
 
 In other cases a fortune has been identified by name without using a name which once belonged to a human.  For example, Bishamon, the Fortune of Strength, has always been known as Bishamon, rather than being named for any specific, identifiable human with that name.
 
@@ -5366,79 +5456,79 @@ I mentioned "Doji Shizue and the Secrets of Calligraphy" before, and in Rokugan 
 
 Here is the scene, which I wrote as an in-universe example of how some people talk about the fortunes:
 
-Act 2, Scene 2
+### Act 2, Scene 2
 
-Okura:  Suppose that you were touched by the Fortune of obedience, whom I shall not name here.  Consider for a moment what would follow.
+**Okura:**  Suppose that you were touched by the Fortune of obedience, whom I shall not name here.  Consider for a moment what would follow.
 
-Shizue (frowning):  Is there such a Fortune?  I have not encountered such in my studies, not in any library in the Empire.
+**Shizue** *(frowning):*  Is there such a Fortune?  I have not encountered such in my studies, not in any library in the Empire.
 
-Okura:  Pfaw!  I spoke the word 'obedience' and you felt my meaning.  Are you foolish enough to doubt the existence of its Fortune simply because lesser scholars have failed to learn his name?
+**Okura:**  Pfaw!  I spoke the word 'obedience' and you felt my meaning.  Are you foolish enough to doubt the existence of its Fortune simply because lesser scholars have failed to learn his name?
 
-Shizue:  Apologies.  What effect would result from being touched by the great Fortune of obedience?
+**Shizue:**  Apologies.  What effect would result from being touched by the great Fortune of obedience?
 
-Okura (sharply):  Did you not tell me you'd studied such things?
+**Okura** *(sharply):*  Did you not tell me you'd studied such things?
 
-Shizue:  Yes of course.  I imagine... my loyalty to my lord would increase, while my subordinates' loyalty to me would likewise increase.
+**Shizue:**  Yes of course.  I imagine... my loyalty to my lord would increase, while my subordinates' loyalty to me would likewise increase.
 
-Okura:  Ha!  You assume a human sensibility from a divine being.  Obedience is not loyalty, and it is loyalty rather than obedience which Akodo identifies as a virtue of bushido.  And your Fortune would care nothing for any virtue, only that you obey your orders without thought, question, or hesitation.
+**Okura:**  Ha!  You assume a human sensibility from a divine being.  Obedience is not loyalty, and it is loyalty rather than obedience which Akodo identifies as a virtue of bushido.  And your Fortune would care nothing for any virtue, only that you obey your orders without thought, question, or hesitation.
 
-Shizue:  I see.  I would need to cleave my own judgement apart from my loyalty, leaving merely dumb obedience.  Only then would my service to the fortune be rewarded.
+**Shizue:**  I see.  I would need to cleave my own judgement apart from my loyalty, leaving merely dumb obedience.  Only then would my service to the fortune be rewarded.
 
-Okura:  And what do you imagine your reward would be?
+**Okura:**  And what do you imagine your reward would be?
 
-Shizue:  Good luck and prosperity, especially in the sphere of the fortune's influence.  My lord would know I would never betray him - could never betray him - and would grant me authority over many households.  Those under me would find themselves possessed of a share of the same obedience I cultivate in myself.
+**Shizue:**  Good luck and prosperity, especially in the sphere of the fortune's influence.  My lord would know I would never betray him - could never betray him - and would grant me authority over many households.  Those under me would find themselves possessed of a share of the same obedience I cultivate in myself.
 
-Okura (amused):  You are not... entirely wrong.  Yet you underestimate the cost of your service, as well as its rewards.  Tell me, if your obedience increased beyond normal human capacity, what pieces of yourself do you imagine would likewise decrease?
+**Okura** *(amused):*  You are not... entirely wrong.  Yet you underestimate the cost of your service, as well as its rewards.  Tell me, if your obedience increased beyond normal human capacity, what pieces of yourself do you imagine would likewise decrease?
 
-Shizue:  Certainly all forms of treachery... but that would not be enough.  By choosing dumb obedience, I would sacrifice away my capacity to pass judgement and decide right from wrong.  Taken far enough, I may lose even the ability to comprehend what outcomes my actions may have, since all that would matter to me is that I obey my lord.
+**Shizue:**  Certainly all forms of treachery... but that would not be enough.  By choosing dumb obedience, I would sacrifice away my capacity to pass judgement and decide right from wrong.  Taken far enough, I may lose even the ability to comprehend what outcomes my actions may have, since all that would matter to me is that I obey my lord.
 
-Okura:  Indeed.  You would find yourself with the contentment of the Enlightened, blissfully instrumenting your daimyo's will.  Yet you might also struggle to remember, as you looked at the faces of your children, what it means when they smile or frown.
+**Okura:**  Indeed.  You would find yourself with the contentment of the Enlightened, blissfully instrumenting your daimyo's will.  Yet you might also struggle to remember, as you looked at the faces of your children, what it means when they smile or frown.
 
-Shizue:  Oh my.  Can any balance be struck?
+**Shizue:**  Oh my.  Can any balance be struck?
 
-Okura (derisively):  With the Fortune of obedience?
+**Okura** *(derisively):*  With the Fortune of obedience?
 
-Shizue:  Oh.  I suppose not.  If my daimyo wished otherwise, I might be unable to choose balance over extremity.  Given time, I might be unable to even comprehend the concept.  But surely this is not the case with every Fortune!
+**Shizue:**  Oh.  I suppose not.  If my daimyo wished otherwise, I might be unable to choose balance over extremity.  Given time, I might be unable to even comprehend the concept.  But surely this is not the case with every Fortune!
 
-Okura:  Are you a gambler?  If you find such consequences unacceptable, would you still choose this path on the wager that you escape them?
+**Okura:**  Are you a gambler?  If you find such consequences unacceptable, would you still choose this path on the wager that you escape them?
 
-Shizue:  ... for the sake of my family I would sacrifice anything.  Even my humanity, though I pray this shall not be required of me.
+**Shizue:**  ... for the sake of my family I would sacrifice anything.  Even my humanity, though I pray this shall not be required of me.
 
-Okura:  Then answer me this: what separates the Seven Fortunes of Good Luck from the remainder of the Thousand Fortunes?
+**Okura:**  Then answer me this: what separates the Seven Fortunes of Good Luck from the remainder of the Thousand Fortunes?
 
-Shizue (confused):  They are the Great Fortunes, and the remainder are the Lesser Fortunes.
+**Shizue** *(confused):*  They are the Great Fortunes, and the remainder are the Lesser Fortunes.
 
-Okura (forcefully):  Wrong!  There is no Greater or Lesser, any more than a chain has a greater or lesser link.
+**Okura** *(forcefully):*  Wrong!  There is no Greater or Lesser, any more than a chain has a greater or lesser link.
 
-Shizue:  Why then are the Seven elevated above the rest?
+**Shizue:**  Why then are the Seven elevated above the rest?
 
-Okura:  An intelligent question!  Hard enough to comprehend why it should be asked, and harder still to answer.  Name the aspects of the Seven Fortunes.
+**Okura:**  An intelligent question!  Hard enough to comprehend why it should be asked, and harder still to answer.  Name the aspects of the Seven Fortunes.
 
-Shizue:  Romantic Love.  Strength.  Contentment.  Wealth.  Longevity.  Honest Work.  Mercy.
+**Shizue:**  Romantic Love.  Strength.  Contentment.  Wealth.  Longevity.  Honest Work.  Mercy.
 
-Okura:  A strange assortment of things.
+**Okura:**  A strange assortment of things.
 
-Shizue:  I'd never considered... how were these Seven selected?
+**Shizue:**  I'd never considered... how were these Seven selected?
 
-Okura:  As you know, by the Hantei in consultation with the Shinsei through wisdom far beyond either of us.  But you ask the wrong question.
+**Okura:**  As you know, by the Hantei in consultation with the Shinsei through wisdom far beyond either of us.  But you ask the wrong question.
 
-Shizue:  Ah.  To what goals did the Teacher and the Son of Heaven aspire in their selection?
+**Shizue:**  Ah.  To what goals did the Teacher and the Son of Heaven aspire in their selection?
 
-Okura:  You shall not believe me.
+**Okura:**  You shall not believe me.
 
-Shizue:  I shall!
+**Shizue:**  I shall!
 
-Okura:  All extremes lead to disaster.  The Fortunes are extremity itself.  Yet it is by their favor that humanity has won its way into the Age of Man, so we must court disaster through worship of those extremes.  The Seven Fortunes are the least disastrous combination of extremities.
+**Okura:**  All extremes lead to disaster.  The Fortunes are extremity itself.  Yet it is by their favor that humanity has won its way into the Age of Man, so we must court disaster through worship of those extremes.  The Seven Fortunes are the least disastrous combination of extremities.
 
-Shizue:  I... can see the disaster in tragic love, the immoral acquisition of wealth, the brutality of war... but certainly there is greatness as well as disaster.
+**Shizue:**  I... can see the disaster in tragic love, the immoral acquisition of wealth, the brutality of war... but certainly there is greatness as well as disaster.
 
-Okura:  Indeed.  And that is the balance you seek.  Not between the Fortune's values and your own, but between greatness and disaster.  And not the middle ground between them, but the future which encompasses both in equal measure.  Is that what you seek?
+**Okura:**  Indeed.  And that is the balance you seek.  Not between the Fortune's values and your own, but between greatness and disaster.  And not the middle ground between them, but the future which encompasses both in equal measure.  Is that what you seek?
 
-Shizue:  I... don't know.
+**Shizue:**  I... don't know.
 
-Okura:  Had you given any other answer, I would have sent you away.  But I think I can see the shape of your future.  I shall describe your destiny to you, and then you may decide whether to walk away.
+**Okura:**  Had you given any other answer, I would have sent you away.  But I think I can see the shape of your future.  I shall describe your destiny to you, and then you may decide whether to walk away.
 
-End Scene
+*End Scene*
 
 The description which Kitsu Okura gives in this fictional account of a real encounter is not strictly heretical, though it differs from how the 7 Major Fortunes of Good Luck are generally described.
 
@@ -5446,9 +5536,9 @@ With that being said, one concept which the wise do understand in Rokugan is the
 
 ## Between Places
 
-Now let's refocus on Rokugan itself, specifically talking about some miscellaneous setting details which I find interesting and which reflect my vision for the setting.
+The focus now returns to Rokugan itself, specifically some miscellaneous setting details worth highlighting.
 
-I've repeatedly made reference to the Forgotten Tomb, which is something I come back to periodically.  This is a general category of place which I refer to as one of the "between places", i.e. places which are coexistent between two different realms.
+The Forgotten Tomb has been referenced repeatedly above, as a recurring example of a general category of place known as one of the "between places" - places which are coexistent between two different realms.
 
 Here's another introduction that I wrote for a different adventure, in which the PCs journeyed deep into a cave to meet with a gaijin shaman-woman who they believed had wisdom to share with them:
 
@@ -5462,9 +5552,13 @@ You are entering one of the "between places".  People have sometimes gotten lost
 
 (end of introduction)
 
-A recurring concept in my setting is that people who encounter supernatural entities are "touched" by the experience, in ways which can be seen as both a blessing and a curse.
+### Touched by the Supernatural
 
-For example, I was looking at some of my notes for a past campaign, in which Kuni Isamu was a Witch Hunter who visited the Forgotten Tomb, a "between place" which exists simultaneously in the mortal realm and in Yomi, the realm of the honored dead.  While he was there, he visited the Classrooms of the Great Masters to seek guidance and instruction on how to be a better Witch Hunter and how to seek out bloodspeakers.  He was granted new insights and abilities but as also changed in ways which impaired his perception and ability to communicate.
+A recurring concept in this setting is that people who encounter supernatural entities are "touched" by the experience, in ways which can be seen as both a blessing and a curse.
+
+#### Kuni Isamu at the Forgotten Tomb
+
+For example, I was looking at some of my notes for a past campaign, in which Kuni Isamu was a Witch Hunter who visited the Forgotten Tomb, a "between place" which exists simultaneously in the mortal realm and in Yomi, the realm of the honored dead.  While he was there, he visited the Classrooms of the Great Masters to seek guidance and instruction on how to be a better Witch Hunter and how to seek out bloodspeakers.  He was granted new insights and abilities but was also changed in ways which impaired his perception and ability to communicate.
 
 Here's what I wrote about how this worked after it happened:
 
@@ -5474,7 +5568,7 @@ Some of this is vague and Isamu will need to discover over time the exact mechan
 
 I put "supernatural" in quotes because the great scholars would say that the difference between a "natural" and a "supernatural" ability is a false distinction which demonstrates several fundamental misunderstandings about the nature of reality.  On the other hand, the Shinsei once said, "All explanations are false, but some explanations are useful."
 
-2. Bloodspeaker covens are often connected by members who move back and forth between covens in different cities.  Tracking these movements is tremendously difficult and Witch Hunters are rarely able to follow these chains and take down multiple linked covens in succession.  Isamu has gained a "supernatural" ability to see the patterns in a single coven such that with successful investigation rolls he can discern the next city in the chain.  He won't know where in the city to look, but when combined with his first ability, it should be significantly easier to find the "needle in the haystack" and the continue the process.
+2. Bloodspeaker covens are often connected by members who move back and forth between covens in different cities.  Tracking these movements is tremendously difficult and Witch Hunters are rarely able to follow these chains and take down multiple linked covens in succession.  Isamu has gained a "supernatural" ability to see the patterns in a single coven such that with successful investigation rolls he can discern the next city in the chain.  He won't know where in the city to look, but when combined with his first ability, it should be significantly easier to find the "needle in the haystack" and continue the process.
 
 3. Witch Hunters already know the following things about Bloodspeaker covens:
 
@@ -5494,7 +5588,7 @@ Interestingly, Isamu had no idea that any of this was true, but in the Classroom
 
 Isamu has gained the "supernatural" ability to understand the different bloodspeaker ideologies, which will allow him to create "family trees" of covens over time.  Not only that, it would allow Isamu to understand the differences of opinion that exist between the different groups of bloodspeakers, and how closely the different groups work together.  Isamu can see a few ways in which this could lead to being able to hunt bloodspeakers more effectively, and the Great Teacher who gave this lecture promised that this was somehow the key to truly understanding bloodspeakers (though this claim seems hard to believe).
 
-However, as we've discussed, there are advantages as well as drawbacks to seeing the world more clearly.  Isamu lost "three aspects" of the underworld skill, though each aspect of perception he lost is cross-cutting and relates to other skills as well.  It will take him quite a lot of time to figure all of this out, but here's what he'll come to understand about what he lost within the next few years:
+However, as established earlier, there are advantages as well as drawbacks to seeing the world more clearly.  Isamu lost "three aspects" of the underworld skill, though each aspect of perception he lost is cross-cutting and relates to other skills as well.  It will take him quite a lot of time to figure all of this out, but here's what he'll come to understand about what he lost within the next few years:
 
 **1) Knowledge**
 
@@ -5514,7 +5608,7 @@ Isamu can no longer perceive physical contraband.  In other words, if a physical
 
 This is probably the best evidence *against* the argument that Isamu is now simply operating on a higher level than everyone else.  It's hard to see this as anything other than a handicap.  However, perhaps more study would reveal some deeper truth about this "disability" which would show it to not be that simple.  Like I said, the above explanations are simply what Isamu will come to understand within the first few years of living with these newfound perks and quirks.
 
-Now let's synthesize some concepts we've discussed with some more examples I find interesting.  One thing I strive for in my worldbuilding is consistency.  I'd like to be able to introduce new concepts without contradicting existing principles.  Or alternatively, if something is introduced which appears to be a contradiction, then I want that to appear to be a big deal, since a new thing of that nature should cause characters to be shocked and unsure what to believe or think.  I sometimes discard ideas which don't seem to be consistent with the setting.
+The following synthesizes some of the concepts discussed above with some more examples.  One thing this worldbuilding strives for is consistency: new concepts shouldn't contradict existing principles.  Or alternatively, if something is introduced which appears to be a contradiction, that contradiction should feel like a big deal - a new thing of that nature should cause characters to be shocked and unsure what to believe or think.  Ideas which don't seem to be consistent with the setting are sometimes discarded.
 
 On the other hand, cool and "wild" ideas can still work if they are integrated well into the underlying concepts.  Here's another plot hook that I use in a past campaign which I was happy with, so hopefully you can help me evaluate whether it fits well into the setting.  This was the follow up to the backstory of Kitsuki Fu, an NPC in a previous campaign:
 
@@ -5560,7 +5654,7 @@ Several years ago, Moto Tsume led an attack on the Forgotten Tomb, attempting to
 
 She first ate a legionnaire at Beiden Pass, who was tracked by Kitsuki Fu.  She ate a few others as she regained her strength, eventually making her way home to the Takaba falconry preserve, where she ate the County Magistrate of Kanto in the province of Akishi.  Daidoji Maku subsequently replaced him, with no one having any memory of his predecessor.
 
-As a servant of Yozo, the fortune of legal justice, Masayoshi has tracked her this far, learning much of the story of how she came to exist from her descendants among the foxes and bloodspeakers of the Daidoji domain.  He has struck a bargain with them to work together for the common purpose of finally putting their ancestor to rest.  The bloodspeakers provided a powerful artifact of great name to act as bait, while the foxes set to work searching for the telltale signs of a life had fallen out of the world to locate someone those close to someone she had replaced.
+As a servant of Yozo, the fortune of legal justice, Masayoshi has tracked her this far, learning much of the story of how she came to exist from her descendants among the foxes and bloodspeakers of the Daidoji domain.  He has struck a bargain with them to work together for the common purpose of finally putting their ancestor to rest.  The bloodspeakers provided a powerful artifact of great name to act as bait, while the foxes set to work searching for the telltale signs of a life that had fallen out of the world, to locate someone close to someone she had replaced.
 
 The PCs were the only people found who perfectly fit the criteria of people most suitable for battling the Nameless One.  They were lightly connected to the previous county magistrate of Kanto, having served him for only a few months before he was eaten.  They later became close friends with Maku.  That combination of being connected with weak-but-still-present ties to someone eaten and strong ties to someone who "replaced" that person was ideal for warding them against being eaten themselves, though the danger would still be great.
 
@@ -5592,7 +5686,7 @@ The idea above is to incorporate the various underlying concepts behind the 5 ri
 
 There's an additional type of damage which can be taken in Spirit Encounters, which is that of "connection damage".  For example, in one dream quest from a past campaign, the PCs found themselves in the Court of the Caliph of Medin al Salaat.  After gaining information in previous scenes, they had the option to exit the dream safely, or proceed to the third and final scene, in which the Caliph and her factions were eating dinner.  Here was a description I wrote of that scene:
 
-It is said in Medin al Salaat that it takes 4 people to prepare a salad.  A generous person to add the oil, a stingy person to add the vinegar, a wise person to add the salt, and a fool to mix them all together.
+It is said in Medin al Salaat that it takes four people to prepare a salad.  A generous person to add the oil, a stingy person to add the vinegar, a wise person to add the salt, and a fool to mix them all together.
 
 Here you can see that the Caliph is the generous person, offering not only her hospitality but immense material support to the Uru in their conflict with the Moto.  The Dahab are stingy, in the way that merchants often are - while they are the main source of the money which is funding the Uru, they wish to know the use to which the Uru will put it.  The Old Man of the Mountain is the wise man here, advising the Uru and Caliph alike, and ensuring that the Houses of Dahab get the answers that will keep their coffers open.  And as for the Uru... considering how they have found themselves thrust into a losing war which seems to benefit everyone except themselves, it would be difficult to ascribe to them any role but that of the fool.
 
@@ -5628,9 +5722,11 @@ However, because of the connection damage he suffered in his dream quest in the 
 
 With all of that being said, note how subtle this effect is.  While the connection damage really did have a significant effect, if Saburo tried to convince someone that he was only being targeted because of the connection damage he suffered in his dream quest, this would be nearly impossible to prove.  He really did "abandon" a comrade to die in battle, and it's quite understandable that Yuzo's family might seek revenge for this, so nothing that happened as a result appears supernatural - it would all seem to an outside observer like the normal consequences of regular life in the 1st Imperial Legion.
 
-This theme is something I've tried to create throughout my worldbuilding, where supernatural things are very real, but their effect is subtle, and often it can be difficult or impossible to tell someone's superstitions from a real event or effect.
+This theme runs throughout the worldbuilding: supernatural things are very real, but their effect is subtle, and often it can be difficult or impossible to tell someone's superstitions from a real event or effect.
 
 I try to draw a lot of inspiration from these kinds of real-world stories, where claims of the supernatural may have gone unquestioned in the culture where they were made, but where skeptical historians might look back and conclude that nothing supernatural had happened.  This is often true even for historians who themselves believe or are open to the possibility of the supernatural.  Just because such things might exist doesn't mean that real-life scholars do (or should) take claims made in primary source historical documents at face value.
+
+#### Doji no Tsume Toyohiro
 
 Consider the case of Doji no Tsume Toyohiro, a legionnaire in the 1st Imperial legion:
 
@@ -5638,7 +5734,7 @@ Toyohiro distinguished himself in military service during the Lion/Crane war in 
 
 Lately he's taken to following where they lead, listening to what they have to say, and speaking with them.  This has frequently taken him into the 6th Battalion, but the Lion have ultimately decided that he is the only Crane allowed to wander freely through their territory, because anyone who struck him down or even interfered with his journey might find themselves haunted by the same ghosts which pull him along.  Matsu no Moyu Kazushi visited each Lion company to counsel this policy of non-interference, though he has suffered some mockery from non-Lion companies as a result.
 
-Note how Toyohiro is seeing ghosts which other people do not see.  This plays upon themes I emphasize regarding ambiguity of the supernatural.  Tsume Toyohiro seeing ghosts which no one else sees could be interpreted as someone who isn't even haunted, but who has hallucinations due to what a modern person might diagnose as PTSD.  I've read that Roman legionnaires were sometimes described as being haunted by the ghosts of their former comrades - this doesn't fit the definition of modern PTSD as described in the DSM, but it does sound very much like a trauma response.
+Note how Toyohiro is seeing ghosts which other people do not see.  This plays upon recurring themes of the ambiguity of the supernatural.  Tsume Toyohiro seeing ghosts which no one else sees could be interpreted as someone who isn't even haunted, but who has hallucinations due to what a modern person might diagnose as PTSD.  Roman legionnaires were sometimes described as being haunted by the ghosts of their former comrades - this doesn't fit the definition of modern PTSD as described in the DSM, but it does sound very much like a trauma response.
 
 If a modern reader read a historical account of a real person with a story like Toyohiro's, then even if that modern person believed that ghosts exist, they might have cause to doubt that this historical figure was really haunted.  Nevertheless, while some people in the setting might wonder about whether every single ounce of Toyohiro's experiences is legitimate, few in Rokugan would dare to dismiss his wanderings, and it would be reasonable for other legionnaires to fear the prospect of becoming haunted if they interfered with his work.
 
@@ -5651,6 +5747,8 @@ Thus, I swear to serve as their voice, their advocate, and their guide.  I vow t
 May Emma-O lend me the wisdom and the strength to honor this vow, and may he show mercy and provide guidance to the souls who have been lost in the tumult of war.  For as long as I draw breath, I will not falter in this sacred duty.  This I swear."
 
 Even people who do not fear ghosts might worry about the prospect of interfering with his work after he swore that vow, because to do so might antagonize Emma-O or King Yan.  The particular effects of doing this might not be immediately apparent, but could anyone ever really be sure that this wouldn't bring future disaster?  This is an important type of ambiguity - most people would agree that interfering with such vows could bring misfortune, but it would be difficult for anyone to make specific predictions about what form this misfortune might take.
+
+#### Otaku Mirai
 
 Or we could go back to the story of Otaku Mirai, another officer in the 1st Imperial legion:
 
@@ -5668,17 +5766,21 @@ This is based on a real historical anecdote, but modern readers might not read t
 
 Even someone in Rokugan, who certainly believes that supernatural things exist, might doubt the accuracy of Mirai's story.
 
+#### Kakita Korihime
+
 Or consider the story of Kakita Korihime:
 
-Korihime is the daughter of Kakita Yariga, who was the executioner to Kakita Toshimo.  She took up her father's role as executioner, but found herself unusually susceptible to hauntings.  After performing only a handful of executions, she took a demotion in order to serve as a platoon lieutenant in the 1st Imperial legion.
+Korihime is the daughter of Kakita Yariga, who was the executioner to Kakita Toshimoko.  She took up her father's role as executioner, but found herself unusually susceptible to hauntings.  After performing only a handful of executions, she took a demotion in order to serve as a platoon lieutenant in the 1st Imperial legion.
 
 As far as she knows, all of the vengeful ghosts who previously haunted her eventually made their way into Jigoku, and she reports no sightings after arriving at Chai Sedo, though she spends a considerable amount of the week of the Bon Festival in the temple.
 
 Note that in this account, it's also unclear whether anyone else has seen the ghosts that haunted Korihime.  Indeed, a plausible explanation is that she spent some time as the executioner for the Kakita daimyo and found it so traumatic that she suffered psychological issues as a result, which manifested as her believing herself to be haunted.  Then when she moved to the other side of the Empire to take a new post where she was no longer forced to perform executions, her issues subsided and she was no longer "haunted".
 
-I'm not saying that these mundane explanations are what is "really" happening in Rokugan.  Ghosts definitely do exist in Rokugan.  However, a theme that I have tried to cultivate when it comes to the supernatural is that some apparently supernatural things are real, some are just people being superstitious, and it's incredibly difficult to tell which is which.
+None of this is meant to suggest that these mundane explanations are what is "really" happening in Rokugan.  Ghosts definitely do exist in Rokugan.  However, a recurring theme cultivated for the supernatural here is that some apparently supernatural things are real, some are just people being superstitious, and it's incredibly difficult to tell which is which.
 
-One of the things I would like you to help with in my worldbuilding, in addition to generating vows, is generating supposedly "magic" items or helping craft supposedly supernatural backstories for NPCs.  And one of the most important qualities in that writing is ambiguity.
+One of the things this worldbuilding wants help with, in addition to generating vows, is generating supposedly "magic" items or crafting supposedly supernatural backstories for NPCs.  And one of the most important qualities in that writing is ambiguity.
+
+#### Yamaoroshi
 
 Here's the backstory for the famous sword Yamaoroshi:
 
@@ -5693,6 +5795,8 @@ Note that this is sword is steeped in history and is many centuries old, and it 
 On the other hand... there aren't really any testable claims being made about the sword, exactly.  Even the explanation that the sword has a will to be striking "downhill" would be difficult to measure or prove.  Someone performing katas with the sword might say something like, "oh yes, I can certainly feel the sword's will and the way in which swinging it towards a lower elevation grants me additional strength, as it adds the weight of its desire to my strikes".  But that could easily just be the power of suggestion!
 
 Again, my point here is not to suggest that the claims about the sword are wrong.  Perhaps they are correct!  But the crucial thing is that the claims are ambiguous enough that it's difficult to be sure.
+
+#### The Armor of Fool's Regret
 
 As another example, consider a supposedly cursed item: the Armor of Fool's Regret, which is in the possession of Ikoma Akaho, a platoon lieutenant in the 6th battalion of the 1st Imperial legion.
 
@@ -5710,11 +5814,13 @@ As for the kansen, even if a shugenja were to commune with the armor and determi
 
 In general, I think that what I'm describing is a version of Rokugan which is a "low fantasy" setting.  Magic and spirits and gods and the supernatural do exist in this world, but people's superstitions may often be far more common than the actual supernatural things which make those superstitions plausible.
 
-Here are a few more supposedly magic items or cursed items which I've come up with, which I think may help provide additional examples of what I'm going for.
+A few more supposedly magic items or cursed items follow, providing additional examples of what this approach is going for.
+
+#### The Candle of Tears
 
 "The Candle of Tears": This technically refers to the candle-holder rather than candle itself.  Any candle placed in this candle-holder will find its wax dribbling down in two distinct trails, reminiscent of tear-marks on a crying face.  A grief-stricken ghost haunts this candle-holder, and as long as a candle is kept burning at all times, she will be kept satisfied.  The flame of the candle waves wildly when in the presence of a child who is in danger of dying from sickness, and The Candle of Tears is used by doctors to triage cases, but if the flame ever goes out before the candle has burned all the way through its wick, the ghost will become even more distraught and lash out at those around it.
 
-This item is a good example of several different themes which we've discussed, which I will reiterate here:
+This item is a good example of several different themes already discussed, reiterated here:
 
 - Ambiguity.  The fact that the candle's wax will tend to dribble down in two distinct trails is fairly thin "proof".  Additionally, even a small breeze or change in air currents can cause any candle to have its flame "wave wildly" for a brief time, so it would be difficult to tell the difference between normal flickering and some sort of supernatural omen.
 However, because Rokugan is a society in which people tend to accept supernatural explanations for everyday occurrences, it would be rare for someone to demand proof that the candle is really even haunted.
@@ -5725,7 +5831,9 @@ However, because Rokugan is a society in which people tend to accept supernatura
 
 Not every cursed item or supernatural thing will have all of these qualities, but this is the kind of thing I tend to shoot for.
 
-We can build on this notion of ambiguity by reviewing temple relics for the Temple of Bishamon in the city of Toshi Ranbo.  One thing to note is how each relic is incredibly impressive and is known to have many supernatural qualities, but also that there are more mundane explanations (often just "power of suggestion") for each of them!
+## Temple Relics
+
+This notion of ambiguity can be extended by reviewing temple relics for the Temple of Bishamon in the city of Toshi Ranbo.  One thing to note is how each relic is incredibly impressive and is known to have many supernatural qualities, but also that there are more mundane explanations (often just "power of suggestion") for each of them!
 
 The Order of Bishamon in Toshi Ranbo has one of the largest temples to Bishamon in the Empire.  Having been established a thousand years ago, it has acquired many relics, which pilgrims travel all over the Empire to behold and pray before.  Steward Iori oversees this set of temple responsibilities, which makes him one of the most revered members of the temple, in some ways more so than even Grand Abbot Goemon.
 
@@ -5745,7 +5853,7 @@ This is not used only by the Grand Abbot for large undertakings, but also by ind
 
 Rising majestically within the expansive central courtyard of the Temple of Bishamon, this monumental stone pillar is the first thing seen by visitors to the temple complex after they pass through the two statues of Bishamon which guard the temple gates.
 
-The Pillar of Ten Thousand Names is an impressive, smooth monolith, standing at twelve feet in height.  Carved meticulously onto its surface are the countless names of bushi who have valiantly fallen in battle.  The most recent additions are closer to the base, while the oldest, worn down by time and elements, adorn the top.  Surrounding the pillar's foot are a series of simple stone altars where incense perpetually burns, releasing a fragrant aroma that fills the courtyard, accompanied by the gentle hum of prayers from monks and samurai in reverence.
+The Pillar of Ten Thousand Names is an impressive, smooth monolith, standing at 12 feet in height.  Carved meticulously onto its surface are the countless names of bushi who have valiantly fallen in battle.  The most recent additions are closer to the base, while the oldest, worn down by time and elements, adorn the top.  Surrounding the pillar's foot are a series of simple stone altars where incense perpetually burns, releasing a fragrant aroma that fills the courtyard, accompanied by the gentle hum of prayers from monks and samurai in reverence.
 
 Samurai pilgrims come to the Pillar of Ten Thousand Names before heading into battle.  They kneel at its base, offering incense, while reciting prayers and mantras to Bishamon and the spirits of the departed.  As they gaze up the pillar, it's customary to touch a name and meditate upon it, seeking inspiration and guidance from that fallen warrior's spirit.  By connecting with the memories and legacies inscribed on the stone, samurai hope to call upon the valor and fortitude of those who have gone before them.  Many bushi who have prayed at the pillar report the presence of ancient samurai guiding them in combat.
 
@@ -5765,7 +5873,7 @@ Pilgrims who are granted the privilege of praying with these prayer beads are te
 
 ### The Sword of the First Vow
 
-Also know as the Sword of the Vanquished Warlord, this sword rests prominently on a stone pedestal within a chamber adorned with hanging silk tapestries depicting the heroic feats of the original Akodo Damasu.
+Also known as the Sword of the Vanquished Warlord, this sword rests prominently on a stone pedestal within a chamber adorned with hanging silk tapestries depicting the heroic feats of the original Akodo Damasu.
 
 The blade reflects an ancient design and is made from beaten rather than folded steel.  A serene blue tassel is affixed to the pommel, intricately woven from the hair of the warlord's betrothed, who tragically passed before their union could be sealed.  A bronze guard, etched with the dynamic dance of two koi fish, completes the sword.
 
@@ -5837,7 +5945,7 @@ After the initial attempt by the Akodo to retake the city failed, the Tsume went
 
 The Damasu hoped that all stolen relics and artwork would be returned as part of the peace treaty negotiated at the end of the Lion/Crane war, but in his wisdom, Akodo Toturi decided to prioritize other terms and concessions from the Crane.
 
-Below is the list of 3 relics which were taken.
+Below is the list of three relics which were taken.
 
 #### The Tooth of the Shinsei
 
@@ -5849,7 +5957,7 @@ Pilgrims and samurai would seek guidance, wisdom, and blessings in the Shrine of
 
 Residing within the Shrine of Harmonious Spirit is a venerated statue crafted from a single, flawless piece of jade, depicting Shinsei in a serene, meditative pose.  The statue is adorned with intricately crafted garments, which are changed three times per year in a solemn and intricate ceremony performed by "the daimyo" (previously the daimyo who ruled over Toshi Ranbo) or a designated representative.
 
-Each garment represents a different aspect and season of life (though notable the 3 seasons do not correspond to the 4 yearly seasons): renewal and growth, abundance and prosperity, and withdrawal and introspection.
+Each garment represents a different aspect and season of life (though notable the three seasons do not correspond to the four yearly seasons): renewal and growth, abundance and prosperity, and withdrawal and introspection.
 
 The Tsume put considerable effort into moving this statue, which is almost 9 feet tall and over 4 tons in weight.  It is now located in Kyuden Tsume, and because the Jade Shinsei was considered a protector of the city and a symbol of the seasons of life, teaching acceptance and adaptation to change, the Tsume believe that its presence in the city is an important reason why Kyuden Tsume never fell to protracted Lion siege.
 
@@ -5867,9 +5975,11 @@ On tranquil nights, the Chime occasionally sounded of its own accord - a spontan
 
 The pilfering of such a sacred artifact of Bishamon was thus even more egregious than moving the Tooth of the Shinsei and the Jade Shinsei, which at least are not actual artifacts of Bishamon specifically.
 
-Now that we've discussed items and relics of great power, as well as ghost stories, let's continue the theme of ambiguity by talking about various supernatural NPC backstories.
+With items and relics of great power covered, along with ghost stories, the theme of ambiguity continues with various supernatural NPC backstories.
 
 Here's an in-universe story, which is an except from the unpublished autobiography of Mirumoto no Ryusei Yasunobu:
+
+### Yasunobu's Vision
 
 **He will offer no answers, only questions.  Hesitate before answering, and ask no questions yourself.  Pay heed to the danger in any question whose answer seems obvious.**
 
@@ -5919,7 +6029,11 @@ For the first time, Hoshi smiled.
 
 [Note from Yuki: because of the pages missing from sensei's autobiography, I'm not sure if there's more to this chapter.  I'll investigate further before this is published.]
 
+### 3rd Imperial Legion Backstories
+
 With that autobiographical entry complete, here are some backstories of NPCs who are legionnaires in the 3rd Imperial Legion, which is stationed on the Kaiu Wall which protects the Empire from the Shadowlands, where my "Kaiu Wall" campaign took place.  Some of these backstories rely on the understanding that the human body can expel and heal itself from small amounts of Shadowlands taint, but that with enough of it the taint settles into your body permanently, making you forever tainted.  Also note that all of these 3rd Imperial Legion backstories are being told by an unreliable narrator, an unnamed courtier who is relaying these stories to an unknown third party (these letters were found in the office of Kuni Yori following his execution, though they were clearly not addressed to him as they refer to him in the third person):
+
+#### Matsu Tsutomu
 
 The legion's general is Matsu Tsutomu.  When assigned to the Wall during his first tour in the Imperial Legions, Tsutomu was almost killed while on a raiding party.  He and his comrades had been assigned to clear out a horde of goblins about 80 miles from the Wall.  What the Hiruma scouts had failed to realize was that a family of ogres had taken control of the horde and merged it with other nearby hordes.  The battle was intense, with heavy losses on both sides, and most of the raiding party was killed.
 
@@ -5943,7 +6057,11 @@ It has now been almost two decades since his last great battle.  Now that he is 
 
 Here's a much shorter example:
 
+#### Mirumoto Uta
+
 Mirumoto Uta is a samurai merchant who works as a supply sergeant for her battalion in the 3rd Imperial legion.  She is acquiring a reputation as a degenerate gambler, and many believe that if she were not wealthy enough to sustain the frequent losses that all gamblers face, it would put her position and career in jeopardy.  She has explained that she doesn't gamble for the money or the thrill, but as a form of fortune telling.  It is well known that luck ebbs and flows like the tide, with peaks and troughs like waves on the beach.  By gambling regularly to measure whether her good fortune is waxing or waning, she can choose opportune times to volunteer for missions in the Shadowlands.  Uta attributes her success in goblin battles to this practice.
+
+#### Matsu Kiyora
 
 Of course, many in the legion prefer more traditional prayers and offerings.  Consider the case of Matsu Kiyora:
 
@@ -5957,7 +6075,9 @@ Kiyora awoke some time later, alone and confused.  She remained weak, but felt s
 
 Though some have wondered whether Kiyora's tale is merely the fever dream of a hysterical rookie, many soldiers have joined Kiyora in leaving gifts and offerings in the forest and praying to the wolf spirit, asking for the same aid if ever they too should fall to the taint of the Shadowlands.
 
-Here's another legionnaire from the 3rd Imperial legion, Isawa Koichi.  As a bit of background, in my campaigns, the Day of Thunder was different from the canonical L5R storyline, and it involved a cult of Lord Moon trying to stage a coup and take over several of the great clans in order to destroy the authority of the Emperor (who is more aligned with Lady Sun).  Prior to this time, the worship of Lord Moon was much more tolerated, and even afterwards it has not been declared heretical, since the Empire does not wish to declare itself in opposition to the Lord of the Night Sky, lest it suffer the consequences of his displeasure.  However, there are many more restrictions placed on moon worship than there were before (Lord Moon is not a fortune, but rather a celestial entity, if that matters).  With that in mind, here is Koichi's story:
+#### Isawa Koichi
+
+Another legionnaire from the 3rd Imperial legion is Isawa Koichi.  As background: in this setting, the Day of Thunder was different from the canonical L5R storyline, and it involved a cult of Lord Moon trying to stage a coup and take over several of the great clans in order to destroy the authority of the Emperor (who is more aligned with Lady Sun).  Prior to this time, the worship of Lord Moon was much more tolerated, and even afterwards it has not been declared heretical, since the Empire does not wish to declare itself in opposition to the Lord of the Night Sky, lest it suffer the consequences of his displeasure.  However, there are many more restrictions placed on moon worship than there were before (Lord Moon is not a fortune, but rather a celestial entity, if that matters).  With that in mind, here is Koichi's story:
 
 Koichi is a tracker who hunted bandits in the Isawa woodlands before being assigned to the Imperial Legions.  She once tracked a group of bandits into the woods after following the tracks they left from robbing a caravan, but she soon lost their trail.  Reasoning that few bandits actually live in the woods, she took a chance on them returning to their peasant homes that evening.  After darkness fell, she was vindicated as she saw lantern light in the distance through the trees.  Following behind, she tried to draw close enough to avoid losing track of them, but she ended up stumbling upon one of the bandits who had not bothered to light a lantern.
 
@@ -5969,7 +6089,7 @@ The next morning Koichi returned home safely, and was eventually able to uncover
 
 After the Day of Thunder, Koichi found herself looked upon with suspicion.  Lord Moon's favor had become a mark of ignominy, but she was unwilling to forswear her benefactor.  She declared her undying loyalty to the Empire and swore she would never turn against Lady Sun or support any cult of Lord Moon, but neither could she show herself ungrateful.  After all, while the Emperor had recently declared it heretical to pray to Lord Moon from within any temple consecrated to Lady Sun, he had not forbidden his subjects from praying to Lord Moon in general, lest the Empire suffer the consequences of his displeasure.
 
-Still, Koichi found herself marginalized, and eventually volunteered for the Imperial Legions, as that was the only promotion she found herself able to get.  Unfortunately, her reputation has followed her to the Kaiu Wall, where she has encountered similar hostility and suspicion.  Kuni Yori recently visited to interrogate her, and afterwards assured everyone that her loyalty was not in doubt, though he did say what tests he performed.  Koichi has been ordered to not share any details of their meeting, and she seems haunted by the experience.
+Still, Koichi found herself marginalized, and eventually volunteered for the Imperial Legions, as that was the only promotion she found herself able to get.  Unfortunately, her reputation has followed her to the Kaiu Wall, where she has encountered similar hostility and suspicion.  Kuni Yori recently visited to interrogate her, and afterwards assured everyone that her loyalty was not in doubt, though he did not say what tests he performed.  Koichi has been ordered to not share any details of their meeting, and she seems haunted by the experience.
 
 Koichi later befriended a well-educated monk named Kouji who was too young to have deep wisdom but who had also struggled against the supernatural and been touched by it.  Though neither was able to answer the most important questions that the other faced, their friendly and collaboration ended up helping both of them navigate both the spiritual challenges and political adversities they each faced.  Kouji helped her to craft a vow to Lord Moon, which she had previously been nervous about swearing, because of the dangers of people thinking it implied disloyalty to the Empire.
 
@@ -5993,6 +6113,8 @@ But let it be known, my devotion to Lord Moon is woven within the fabric of my u
 
 Lord Moon, hear my vow, a testament to our bond and a reflection of my gratitude.  May your light guide me in upholding my word, as I navigate the path of honor, service, and loyalty.  This I vow, under your watchful eye, and in the service of our glorious Empire."
 
+#### Matsu Tonami
+
 Here's another story, this one also semi-tragic, about another member of the 3rd legion named Matsu Tonami:
 
 Ever since the first time Tonami saw combat in the Shadowlands, she has been plagued with nightmares about being attacked by Shadowlands creatures.  In her dreams she sees her comrades die around her and feels herself being killed and devoured by monsters until she wakes up shaking or screaming.  She believes she was marked by an oni while in the Shadowlands, which attacks her in the dream realm while she sleeps.  Such things have been known to happen, but it's extremely rare and such dreams usually stem from a lack of courage.  Many soldiers are granted transfers away from the Wall if they cannot handle the stress and danger.
@@ -6005,6 +6127,8 @@ Tonami recently solicited aid from the shugenja Kuni Yori, but he refused, sayin
 
 (Consider how this story is also ambiguous - a modern reader would be likely to interpret Tonami's affliction as psychological in nature rather than supernatural.  However, in addition to the themes of ambiguity, Tonami's circumstances continue to drive her behavior now.)
 
+#### Shiba Asayo (3rd Legion)
+
 A much less sad and unpleasant story is the leadership of lieutenant Shiba Asayo:
 
 Asayo is a courtier who met the customary skepticism that most bushi feel for any courtier assigned to the Wall.  Many feel nervous about going into battle alongside a man who isn't a warrior, far preferring bushi comrades who are maximally trained in combat.  They were further suspicious of his seemingly foppish nature, as his main interests are playwriting and painting.  However, he has proven himself in battle and in the dojo enough times that no one who has fought against or alongside him has any concern about his worthiness.
@@ -6016,6 +6140,8 @@ As he progresses in mastery of his art, Asayo increasingly finds himself in a su
 About a year ago, when returning to finish a painting after a mission, he started noticing details which reminded him of places or objects he encountered while in the Shadowlands.  It's always subtle, such as an oddly shaped branch or the curve of a rocky stream, but it has now happened enough times that he has begun sharing his unfinished works.  Reactions are mixed, but many have recognized details in his unfinished paintings later appearing in the Shadowlands.  Some of Asayo's comrades have taken to scrutinizing his half-finished works before they embark on a mission with him, looking for signs and omens.
 
 Here's one more story about a legionnaire from the 3rd Imperial legion:
+
+#### Kitsuki Fu
 
 After being assigned to the Imperial Legions, Kitsuki Fu was first stationed with the 2nd Imperial legion at Beiden Pass.  The legion there is expected to maintain a sizable force in the mountain pass itself, but the soldiers far prefer to spend their time in the nearby city of Ryoko Owari.  People often make arrangements to cover for one another so they can spend extra time in the city, but sometimes due to poor planning or plain irresponsibility people simply fail to report for duty.  Fu was assigned to a squad tasked with recording these absences, tracking down wayward soldiers, and returning them to Beiden Pass for discipline.
 
@@ -6037,11 +6163,15 @@ In the meantime, Fu keeps a meticulous journal and has developed an obsessive sy
 
 Note that Fu's backstory was explained by the story of the Nameless One, though Fu did not have this explanation at the time of the 3rd Imperial Legion campaign.
 
+### 1st Imperial Legion Backstories
+
 Here are some more backstories, this time from the "Hidden Way" campaign, which took place next to the 1st Imperial Legion encampment.
 
 The 1st Imperial Legion is tasked with guarding the Gateway to the Land of the Burning Sands.  The Emperor's second son traditionally commands this legion starting at his gempukku, giving him valuable leadership experience while keeping him away from the temptation of entangling alliances with those who might seek to subvert authority of the crown prince.  Located on the western frontier of the Empire, this post ends up being mostly ceremonial since it has been centuries since the last gaijin invasion.
 
-One thing I liked to do in this campaign was come up with a lot of stories about people being haunted by ghosts.  We've already discussed this, but here are more examples:
+A recurring element in this campaign was stories about people being haunted by ghosts.  The pattern has come up before; more examples follow:
+
+#### Matsu no Moyu Kazushi
 
 Here's more information about Matsu no Moyu Kazushi's own experiences with ghosts and hauntings, which he denies strenuously:
 
@@ -6063,11 +6193,15 @@ It's unclear how Bayushi Iru discovered all of this, since the Lion tend to clos
 
 Here's another member of the 1st legion with an interesting vow-related experience:
 
+#### Yasuki Kiyomi
+
 Yasuki Kiyomi's mother is the Yasuki Deputy Minister of Works.  Kiyomi should have followed in his parents' footsteps, but shortly before his gempukku his mother had a dream in which a divine being told her that her son should become an Imperial legionnaire and take a vow of poverty.  The exact divine being is unclear: there were several details in the dream which suggested either Bishamon (the fortune of Strength), Hachiman (the fortune of Battle), or Chagatai (the fortune of courage).
 
 Kiyomi was therefore assigned to the 1st Imperial legion and was made a platoon lieutenant at 14 (because of his mother's rank).  He hoped that his first tour would be sufficient, but his astrology reading leading up to the end of his tour indicated that he should continue current endeavors and avoid new undertakings or journeys.  He is therefore in his 2nd tour and hoping to be able to return home - it's certainly possible that becoming a legionnaire was intended to be a single step on the journey towards his destiny.  Or perhaps he will end up needing to remain a legionnaire for his whole life... or at least until his destiny has been clearly fulfilled.
 
 The reason for the vow of poverty is unclear, and Kiyomi has publicly wondered about whether the vow is legitimate, since it was sworn "to the divine being who appeared to my mother in her dream" rather than naming a fortune or kami by name.
+
+#### Agasha Tamori on Kitsu Okura
 
 Another type of ambiguity which exists in this setting is that even when something is plainly supernatural, people will debate it's origin and significance.  For example, here's an open letter written by the head of the Agasha shugenja academy, Agasha Tamori, about why he is banning Kitsu Okura's book "On the relationship between Man and the Fortunes" from all Agasha libraries and recommending that it be banned from other Dragon libraries as well:
 
@@ -6125,7 +6259,9 @@ As Tsuke dismisses him, Tamori merely nods, a determined glint in his eyes.
 
 Note that from a narrative perspective, Agasha Tamori's theory is really cool and interesting, and as a writer/gamemaster it's tempting to say that cool theories are always correct.  But I think it's more rewarding to maintain a lot of the mystery and ambiguity, and in order to do that, it means that a large percentage of cool theories like this need to be true and another large percentage need to be false.  One of the best ways to do that is for the ambiguity to exist in-universe so that characters themselves will have well-founded arguments about them.
 
-Now let's turn back to our earlier discussion of soothsaying.  We've discussed a lot of different types of soothsaying, and mostly we've focused on different types of augurs and prophets.  However, another means of soothsaying is to create an artifact of great power, which is attuned to some aspect of reality such that it can behave in ways which predict the future.
+Returning to the earlier discussion of soothsaying: many different types of soothsaying have been covered, mostly focused on different types of augurs and prophets.  However, another means of soothsaying is to create an artifact of great power, attuned to some aspect of reality such that it can behave in ways which predict the future.
+
+### The Burning Words
 
 The most dramatic example of this is the Burning Words, which was supposedly locked up in the early days of the Empire.  The Burning Words are supposedly a physical manifestation in the mortal realm of the marriage contract between Lord Moon and Lady Sun, containing Lady Sun's warmth and wisdom as well as Lord Moon's coldness and cunning.  One who looks upon the Burning Words will have a great truth revealed to them - often but not always a prediction about the future, though sometimes a revelation about the past which completely changes the viewer's conception of their own life and place in the world.
 
@@ -6159,7 +6295,9 @@ Note that the Burning Words are unlike almost any other artifact or holy relic i
 
 This will also be true for some items which PCs encounter - occasionally they will find a magic item whose powers are unmistakable, though even in these cases there will tend to be some amount of ambiguity about what is implied by the ways that its powers manifest.
 
-With all of this in mind, I'd like to talk about a less dramatic but still reproduceable artifact created by a smith.  The PCs in the "Hidden Way" campaign were riding back and making camp after an encounter with some caravan raiders on the Moto steppes, and they were approached by a farrier named Moto Khuyag, who offered to reshoe their horses for free.  He explained that Moto tribes had been having issues with ghosts appearing on the horizon, and their wise men had determined that an excellent way to combat that was to reshoe any horse whose rider had recently died OR taken a life.  This helped to disrupt the connections between warriors and the spirits of their slain enemies, which was better all around.  Khuyag later appeared under similar circumstances shortly after the PCs fought a battle against some rebellious Moto who had defied their khan's authority.
+### Moto Khuyag's Death Detectors
+
+With all of this in mind, a less dramatic but still reproduceable artifact created by a smith is worth describing.  The PCs in the "Hidden Way" campaign were riding back and making camp after an encounter with some caravan raiders on the Moto steppes, and they were approached by a farrier named Moto Khuyag, who offered to reshoe their horses for free.  He explained that Moto tribes had been having issues with ghosts appearing on the horizon, and their wise men had determined that an excellent way to combat that was to reshoe any horse whose rider had recently died OR taken a life.  This helped to disrupt the connections between warriors and the spirits of their slain enemies, which was better all around.  Khuyag later appeared under similar circumstances shortly after the PCs fought a battle against some rebellious Moto who had defied their khan's authority.
 
 The PCs eventually visited Shiro Moto (which the Moto call Karakoru), and sought out Moto Khuyag, partially out of suspicion about how he seemed to repeatedly turn up after battles.  The PCs found that Khuyag's master, Moto Khunbish, was the spiritual advisor to Moto Gaheris, the Moto daimyo.  Khuyag was actually a Rokugani by birth and said that he had been born to the southeast of Kyuden Otaku, before moving there, and then later moving on to Kyuden Shinjo, the capital of Unicorn lands.  He met Gaheris there years earlier while Gaheris was visiting, and was assigned as the farrier to the Moto guests, during which time he impressed Gaheris greatly with his wisdom and philosophical observations as a smith (Khunbish explained he had previously made knives before becoming a farrier, and that the Rokugani name he had chosen for himself prior to becoming Moto Khunbish was Seito).
 
@@ -6305,6 +6443,8 @@ A tea garden with one a gate leading up to the pagoda where tea ceremonies are h
 
 A study garden dotted with tents and covered gazebos and a small library.  The books available are mainly a combination of widely-reproduced classics and cheap pillow books, though the prince's manor contains a more impressive personal library.
 
+### The 1st Imperial Legion
+
 Now let's talk about the 1st Imperial Legion itself.  Here are some random notes about the structure and layout of companies.
 
 ### Ranks in the Imperial legion
@@ -6323,7 +6463,7 @@ Other notes:
 
 - A collection of Legions is an Army, commanded by an Army General.
 
-- A collection of armies is commanded by someone with the title General of the ____ Armies of the ___,_.  For example, Daidoji Uji (daimyo of the Daidoji family) has the title, "General of the Southern Armies of the Crane".
+- A collection of armies is commanded by someone with the title General of the ____ Armies of the ____.  For example, Daidoji Uji (daimyo of the Daidoji family) has the title, "General of the Southern Armies of the Crane".
 
 ### Companies and Houses
 
@@ -6386,6 +6526,8 @@ In addition to tents, a company encampment has several buildings, usually made o
 - An armory where weapons and armor are kept.
 
 - A stables where the horses are kept.  Unicorn companies tend to have multiple stables and will sometimes have more horses than legionnaires, whereas most companies will have only enough for a single platoon.
+
+### The Gateway and Outsider Keep
 
 Here's some more general information about the area where the 1st Imperial Legion is located, known as the "Gateway to the Land of the Burning Sands":
 
@@ -6505,7 +6647,7 @@ However, while Natsu's filial piety stopped her from marrying Chitose, she never
 
 The cadet line of the Shin lineage had mixed reactions to their governor's romantic choices.  While most of the lineage displayed understanding tolerance, some were privately furious at what they saw as the disgraceful conduct of their leader.  Some are known to have lobbied their daimyo in private to replace Chitose with one of the Shin cousins who would carry the authority of the Kyo house with more dignity.
 
-Daimyo Haruka refused to entertain such ideas, which she felt would bring instability to the do, though the Rui lineage supported these efforts, presumably in revenge for Governor Chitose's broken betrothal to their lineage member Ryoko (who is now married to the Deputy Minister of Retainers).  However, the Rui lineage continued to scheme against Chitose's parents at every turn, often with the support of disgruntled members of the Shin cadet line.
+Daimyo Haruka refused to entertain such ideas, which she felt would bring instability to the domain, though the Rui lineage supported these efforts, presumably in revenge for Governor Chitose's broken betrothal to their lineage member Ryoko (who is now married to the Deputy Minister of Retainers).  However, the Rui lineage continued to scheme against Chitose's parents at every turn, often with the support of disgruntled members of the Shin cadet line.
 
 In the winter of 1110 (which is 20 years before the start of this campaign), Governor Chitose hosted a banquet, to which many of his consort Natsu's Lion family were invited.  Natsu's mother had passed, but her brother Matsu no Zenji Ginjiro and his children and many of her other cousins were present.
 
@@ -6622,7 +6764,7 @@ All samurai have a rank, and there are 15 ranks.  This is an in-universe system 
 
 ### Baseline ranks
 
-This is the current standard baseline of what types of people inhabit the various ranks (this has changed somewhat from the early days of the Empire, at which time there were only ten ranks):
+This is the current standard baseline of what types of people inhabit the various ranks (this has changed somewhat from the early days of the Empire, at which time there were only 10 ranks):
 - Rank 15: the Emperor (and no one else)
 - Rank 14: Clan Daimyo
 - Rank 13: Family Daimyo
@@ -6769,7 +6911,7 @@ Torikago explains that the Kakita Ministry of Justice is deeply troubled by this
 
 Because of the awkwardness involved in forcing the hand of the younger brother of the Akito house's Minister of Revenue, Torikago offers a **compensatory gift** (given that Shogo is of the twelfth rank, this is a gift of 12 koku).
 
-After several more months, Hida Zenshiro has not yet appeared nor offered a reply.  The local Imperial magistrate for Shiro Akito, Seppun Miharu, has passed along the summons to Zenshiro's brother, the Akito Minister of Revenue, and Miharu's yoriki have repeatedly called upon the family estate, but each time been told that Torikago is away and that the date of his return is unknown.
+After several more months, Hida Zenshiro has not yet appeared nor offered a reply.  The local Imperial magistrate for Shiro Akito, Seppun Miharu, has passed along the summons to Zenshiro's brother, the Akito Minister of Revenue, and Miharu's yoriki have repeatedly called upon the family estate, but each time been told that Zenshiro is away and that the date of his return is unknown.
 
 Once again, Kakita Torikago calls upon his dear friend Seppun Shogo about this matter.  He expresses once again the conviction with which the Kakita Ministry of Justice takes its responsibilities, and reluctantly requests that Shogo place a bounty on whoever delivers Hida Zenshiro to Kyuden Kakita to finally settle this matter.  Given the seriousness of the matter, Torikago suggests that a 50 koku bounty would be appropriate.
 
@@ -6793,7 +6935,7 @@ While every case is unique, there are categories of bounties which represent the
 
 - **A disgraced and cowardly samurai abandons their family to flee justice.**  Samurai commit crimes as well, and sometimes the shame of facing public judgment is too much to bear.  Sometimes they become ronin and live in exile.  Other times they assume a false identity, either one invented from whole cloth or stolen from a family member who has already passed (and who therefore is likely to have letters of introduction and perhaps even travel papers in their name).  Even if the fugitive's family would prefer to let their dishonorable scion be forgotten (and may literally strike them from the family records), their enemies might pay to register a sizeable bounty in such cases (usually 10 koku per rank of the fugitive, e.g. 30 koku for a samurai of the third rank).
 
-- **A samurai avoiding a legal inquiry out of shame.**  The cases of Shinjo Yoshi and Hida no Akito Zenshiro are both examples of this.  Sometimes a samurai is hiding amongst their family because they are guilty of a crime.  Other times they have witnessed something which they would rather not be involved in and have declined to answer a legal summons to testify (whether to avoid embarrassment or protect a friend or simply avoid a troublesome joiurney).  In some cases they may be targeted for harassment by their political enemies; the Crane clan have shown increasing willingness to use their great wealth in this way.  The amounts of these bounties based on the seriousness of the matter rather than the ranks of those involved (except insofar as higher-ranking people are likely to command larger bounties).
+- **A samurai avoiding a legal inquiry out of shame.**  The cases of Shinjo Yoshi and Hida no Akito Zenshiro are both examples of this.  Sometimes a samurai is hiding amongst their family because they are guilty of a crime.  Other times they have witnessed something which they would rather not be involved in and have declined to answer a legal summons to testify (whether to avoid embarrassment or protect a friend or simply avoid a troublesome journey).  In some cases they may be targeted for harassment by their political enemies; the Crane clan have shown increasing willingness to use their great wealth in this way.  The amounts of these bounties are based on the seriousness of the matter rather than the ranks of those involved (except insofar as higher-ranking people are likely to command larger bounties).
 
 ### Questionable bounty collection
 
@@ -6806,7 +6948,7 @@ This is far from the most questionable type of bounty collection which might tem
 - At any given time, there are dozens or hundreds of outstanding bounties for bandit fugitives.  This means that when encountering ANY small group of traveling peasants, at least 1 of them is likely to match the physical description of one or more fugitives on the current bulletin of uncollected bounties.  A bounty hunter willing to profane the Emperor's justice might attack the group, place the head of the closest match in a bag filled with salt (to preserve it), and deliver it in fulfillment of the bounty, collecting the reward for having captured a wanted bandit, who "confessed to their crimes as he lay dying".
   - Depending on the circumstances, an unscrupulous local magistrate might be happy to pay this bounty without caring whether the true criminal was slain.  After all, the magistrate can now brag that no one escapes their wrath after committing a crime in their jurisdiction, even after fleeing to distant lands.  While no samurai of honor would ever stoop to such duplicity, even an honest magistrate might not think to interrogate such a matter too closely, or question the authenticity of an already-difficult-to-identify severed head preserved in salt.
 
-- One reason to obtain Imperial travel papers (or letters of introduction from prestigious officials) is to unambiguously identify yourself while far from home.  It used to be distressingly common for unscrupulous local officials to shake down travelers who lacked such identification.  Now that Wasp bounty hunters are increasingly checking for criminals along the Empire's roads and waystations, they will certainly face the same temptations to accept a gifts of consideration in lieu of formal identification from "suspicious" travelers.
+- One reason to obtain Imperial travel papers (or letters of introduction from prestigious officials) is to unambiguously identify yourself while far from home.  It used to be distressingly common for unscrupulous local officials to shake down travelers who lacked such identification.  Now that Wasp bounty hunters are increasingly checking for criminals along the Empire's roads and waystations, they will certainly face the same temptations to accept gifts of consideration in lieu of formal identification from "suspicious" travelers.
 
 ### Example bounties
 
@@ -6930,11 +7072,11 @@ In earlier centuries, most farmers had worked their own land, but it is the natu
 
 During a handful of lean years late in the reign of Hantei the Tenth, domains throughout the Empire had to decide what to do with landlords unable to meet their tax obligations.  A common approach had always been to confiscate some portion of their holdings as payment, and the new Ministry of Revenue had now standardized the assessed value of such land, making it more straightforward (and therefore more common) to determine exactly how much farmland would pay exactly what amount of debt.  But what specifically should be done with such land?
 
-While local daimyo could decide to continue auctioning off this siezed property, or granting it as rewards to their loyal vassals, a new idea was beginning to grow in popularly among the new Imperial chancellery.  "Perhaps we should give the land back to the peasants," argued Doji Suzume, the second son of the Crane Clan Champion.  Suzume advocated for a virtuous cycle - landlords would provide stability as long as they are able, and then during times of great need it would be returned to the peasants.
+While local daimyo could decide to continue auctioning off this seized property, or granting it as rewards to their loyal vassals, a new idea was beginning to grow in popularity among the new Imperial chancellery.  "Perhaps we should give the land back to the peasants," argued Doji Suzume, the second son of the Crane Clan Champion.  Suzume advocated for a virtuous cycle - landlords would provide stability as long as they are able, and then during times of great need it would be returned to the peasants.
 
 Some went even further; Suzume's aunt (his mother's older sister) Doji Masako argued that the so-called "stability" provided by merchant landlords would be more than offset if the peasantry was not deprived of the yearly rent money and thus had the general prosperity to better weather the lean times.  Although never officially backing this position, Suzume's uncle (his father's younger brother) Doji Onegano, the chancellor who represented the Doji Family and thus the entire Crane clan on the Imperial chancellery, publicly stated that the wealth of the Crane was certainly sufficient to trade away some of their income for a more just balance within the Celestial Order.  As this thinking began to gain a small measure of support (especially among the Dragon and Phoenix clans) Onegano went even further, stating that the teachings of the Shinsei demanded such actions, and that this sort of renunciation of wealth was in fact required in order to live in accordance with the Tao.
 
-While this thinking appealed to some, most rejected this thinking, and Onegano's rivals immediately began conspiring about how to defeat both his faction and the dangerous ideology which drove it.  Rather than censure him or provide him with opportunities to righteously martyr himself, his brother Doji Ginrei (the Crane Clan Champion) petitioned the Emperor to create a new minor clan, where these principles could be tested.  He generously offered up hundreds of square miles of Crane territory - the Iron Foothills between Kakita and Daidoji lands, so that all the Empire could see whether these teachings would truly yield the prosperity.  And because Ginrei's second son Suzume had been among this movement's most famous advocates, Ginrei further offered up Suzume as the clan's founder, to be aided by Ginrei's brother Onegano and his sister-in-law Masako.
+While this thinking appealed to some, most rejected this thinking, and Onegano's rivals immediately began conspiring about how to defeat both his faction and the dangerous ideology which drove it.  Rather than censure him or provide him with opportunities to righteously martyr himself, his brother Doji Ginrei (the Crane Clan Champion) petitioned the Emperor to create a new minor clan, where these principles could be tested.  He generously offered up hundreds of square miles of Crane territory - the Iron Foothills between Kakita and Daidoji lands, so that all the Empire could see whether these teachings would truly yield prosperity.  And because Ginrei's second son Suzume had been among this movement's most famous advocates, Ginrei further offered up Suzume as the clan's founder, to be aided by Ginrei's brother Onegano and his sister-in-law Masako.
 
 Signing the charter of the new Sparrow Clan was among the final acts taken by the aging Hantei the Tenth.  Suzume, first of his name, was quickly shuffled down to the now-renamed Sparrow Hills, along with many other members of this new faction, who were all but exiled from the capital.  They were joined by not only their political supporters (some who came in earnest, and others who were similarly forced into it as a form of exile) but by a surge of peasants excited by the prospect of being given land which would be forever theirs, paying always their taxes and never any rent.
 
@@ -6942,9 +7084,9 @@ Suzume's older brother, Doji Tadaka, went on to become the Doji daimyo (and thus
 
 ### Sparrow lands
 
-Suzume and his followers quickly discovered the poor quality of the lands he had been granted.  The hilly terrain was unsuitable for rice farming, as the sloping hills made it impossible to maintain flooded rice patties.  The crop yield of the "upland rice" that could be grown on the hillsides was barely half of what could be grown in the surrounding territories, and even the marshy valleys between the hills were barely suitable for taro, rather than more productive crops.  What's more, their rivals in the Imperial chancellery (supported by the greedy first Imperial treasurer, Yasuki Taka) instituted unfavorable land yield assessment standards on these less common crops which more than wiped out any gains the Sparrow clan could hope to realize from eliminating so-called "inefficient middlemen" landlords.
+Suzume and his followers quickly discovered the poor quality of the lands he had been granted.  The hilly terrain was unsuitable for rice farming, as the sloping hills made it impossible to maintain flooded rice paddies.  The crop yield of the "upland rice" that could be grown on the hillsides was barely half of what could be grown in the surrounding territories, and even the marshy valleys between the hills were barely suitable for taro, rather than more productive crops.  What's more, their rivals in the Imperial chancellery (supported by the greedy first Imperial treasurer, Yasuki Taka) instituted unfavorable land yield assessment standards on these less common crops which more than wiped out any gains the Sparrow clan could hope to realize from eliminating so-called "inefficient middlemen" landlords.
 
-The most punishing regulation was assessing "upland rice" fields as if they could produce a crop every year.  While "wet rice" grown in flooded rice paddies do not require a crop rotation cycle and the same fields can be used continuously for centuries without depleting the soil, upland rice often needs 2 years of other nutrient-replenishing crops before it can be grown again.  However, the standards published by the new Ministry of Revenue assess the yield of ALL riceland as if rice is grown each year, inflicting punishingly high taxes on the beleaguered Sparrow.
+The most punishing regulation was assessing "upland rice" fields as if they could produce a crop every year.  While "wet rice" grown in flooded rice paddies does not require a crop rotation cycle and the same fields can be used continuously for centuries without depleting the soil, upland rice often needs 2 years of other nutrient-replenishing crops before it can be grown again.  However, the standards published by the new Ministry of Revenue assess the yield of ALL riceland as if rice is grown each year, inflicting punishingly high taxes on the beleaguered Sparrow.
 
 Still, the humid southern environment was well-suited for growing:
 - tea, which can always be sold to raise moneys needed to buy the food which the Sparrow cannot grow themselves
@@ -6996,29 +7138,29 @@ With the Empire lacking the number of priests and shugenja needed to manage the 
 
 The line of the Kitsune daimyo are directly traced to these ancient shamans.  Shinun who was a member of one of the primitive tribes relocated to the region, who one day found a dead fox and her two still-living kits snared in a hunter's trap.  One was a black fox, the other a white fox, both auspicious omens.  Shinun freed the kits and released them into the forest.
 
-Osusuki was the black fox, and grew into a shapechanger who married one of Shinun's daughters and thus became the progenitor of the Kitsune family.  Akomachi was the white fox, who grew into a 10-tailed fox spirit who continues to appear to travelers in the form of a silver-haired woman with hands as flawless as snow, alternately granting wishes or stealing hearts or both.  Akomachi is the ancestor of most of the humans in Kitsune lands, and Akomachi is the ancestor of most of the foxes in the Kitsune forest.
+Osusuki was the black fox, and grew into a shapechanger who married one of Shinun's daughters and thus became the progenitor of the Kitsune family.  Akomachi was the white fox, who grew into a 10-tailed fox spirit who continues to appear to travelers in the form of a silver-haired woman with hands as flawless as snow, alternately granting wishes or stealing hearts or both.  Osusuki is the ancestor of most of the humans in Kitsune lands, and Akomachi is the ancestor of most of the foxes in the Kitsune forest.
 
-Although she did not wield the title at the time, Shinun is now recognized as the first Fox Clan Champion, and the children of Osusuki and Akomachi ushered in a new age of coexistence, and the forest gradually ceased troubling the 4 major clans in its neighboring domains.
+Although she did not wield the title at the time, Shinun is now recognized as the first Fox Clan Champion, and the children of Osusuki and Akomachi ushered in a new age of coexistence, and the forest gradually ceased troubling the four major clans in its neighboring domains.
 
 ### The Imperial Road Through Minami
 
-An Imperial road runs through Minami, the southernmost Fox province, administered by the Nanke lineage.  Unlike every other stretch of Imperial road in the Empire, this one has no waystations.  In the early centuries of the Empire, when waystations were sparser and the Imperial roads less developed, the waystations along this road were repeatedly abandoned after strange afflictions struck the samurai posted to staff them.  Eventually it became understood that this section of road is perilous to outsiders who linger — though travelers passing through are mostly unbothered, and locals are entirely unaffected.  It is visitors in the countryside, even and especially along the Imperial road, who find themselves targeted if they stay in one place for too long.
+An Imperial road runs through Minami, the southernmost Fox province, administered by the Nanke lineage.  Unlike every other stretch of Imperial road in the Empire, this one has no waystations.  In the early centuries of the Empire, when waystations were sparser and the Imperial roads less developed, the waystations along this road were repeatedly abandoned after strange afflictions struck the samurai posted to staff them.  Eventually it became understood that this section of road is perilous to outsiders who linger - though travelers passing through are mostly unbothered, and locals are entirely unaffected.  It is visitors in the countryside, even and especially along the Imperial road, who find themselves targeted if they stay in one place for too long.
 
-The cause is the wood itself.  As with much of the Kitsune Mori, the Fox have channeled rather than tamed the feral power of the forest: the wood watches outside, not inside.  Fox holdings — villages, clan roads — sit where the wood has grown accustomed to them over centuries, and the forest does not police itself.  The Imperial road is different.  It is a corridor cut through the wood, a thing the forest did not grow and does not consider part of itself, but a thing it can watch over, the way one watches a guest's path to the gate.
+The cause is the wood itself.  As with much of the Kitsune Mori, the Fox have channeled rather than tamed the feral power of the forest: the wood watches outside, not inside.  Fox holdings - villages, clan roads - sit where the wood has grown accustomed to them over centuries, and the forest does not police itself.  The Imperial road is different.  It is a corridor cut through the wood, a thing the forest did not grow and does not consider part of itself, but a thing it can watch over, the way one watches a guest's path to the gate.
 
-The historical bargain was struck in what the Fox keep as the Year of the Long Cutting, when the Imperial road through the southern reach of Kitsune Mori was first surveyed.  (The exact date is contested.)  The wood was furious.  Travelers vanished from the unfinished road for three years running, and the Emperor of the day prepared to send Lion legions to burn the offending wood back to a defensible margin.  The Kitsune daimyo of that generation rode alone into the Mori for nine days and returned with a treaty: the wood would not only stop taking the Emperor's travelers, it would guard them — provided the Fox acted as the wood's hand and mouth, set the markers, kept the rituals, and bore the cost.  In return, the Kitsune annually surrender a portion of their hunting and foraging rights inside the wood, and one Kitsune daughter per generation is sent into the forest to be fostered among the fox-spirits for seven years.
+The historical bargain was struck in what the Fox keep as the Year of the Long Cutting, when the Imperial road through the southern reach of Kitsune Mori was first surveyed.  (The exact date is contested.)  The wood was furious.  Travelers vanished from the unfinished road for three years running, and the Emperor of the day prepared to send Lion legions to burn the offending wood back to a defensible margin.  The Kitsune daimyo of that generation rode alone into the Mori for nine days and returned with a treaty: the wood would not only stop taking the Emperor's travelers, it would guard them - provided the Fox acted as the wood's hand and mouth, set the markers, kept the rituals, and bore the cost.  In return, the Kitsune annually surrender a portion of their hunting and foraging rights inside the wood, and one Kitsune daughter per generation is sent into the forest to be fostered among the fox-spirits for seven years.
 
-The treaty's terms are narrow by design.  The wood's mercy was negotiated for the Emperor's travelers on the Emperor's road; it does not extend to clan roads, which were never the cause of the original quarrel — and the wood is jealous of expanding promises it did not make.
+The treaty's terms are narrow by design.  The wood's mercy was negotiated for the Emperor's travelers on the Emperor's road; it does not extend to clan roads, which were never the cause of the original quarrel - and the wood is jealous of expanding promises it did not make.
 
 The wardings the Fox maintain along the road are not divine punishment.  They are markers, the means by which the forest learns a name.  Once the forest knows, the curse is simply that the forest hunts you, in its own ways and at its own pace.  Most of these curses are not lethal but erosive: pilfered food, twisted paths, faces forgotten, dreams that smell of fur.  Many bandits have simply given up the trade.  Others have gone mad, or have found themselves deep in the wood, untouched but uncertain how they came to be there.
 
 The wardings themselves are maintained by the County Magistrate of Ochiba county, a Fox priest, who is responsible for three forms of marker.  **Vermillion Threshold Stones** (akami no sakai-ishi) are river-stones the size of two fists, painted with cinnabar fox-tracks and set at intervals along every stretch of Imperial road within or adjoining Fox lands; each has been "fed" a drop of fox blood in a ritual the Kitsune keep secret.  **Knot-Cords** (kami-musubi) are plaited red silk cords, knotted at intervals and tied to roadside posts or low tree-branches; each cord includes a single strand of hair from a Kitsune samurai of the current generation, gathered and rebraided each year at Setsubun, and the number of knots between two posts corresponds to one of the great fox-spirits.  **Buried Pact-Bowls** (chigiri-wan) are small lacquer bowls buried beneath the threshold stone at each County Magistrate's checkpoint that adjoins Fox lands; each contains rice, three copper sen, and a tuft of fox-fur, and is renewed every seventh year in a ceremony attended by the magistrate and a Kitsune emissary.
 
-A Pact-Bowl is a registered offering.  A traveler who passes the threshold has, by Fox reckoning, taken a grain of the rice — accepting the wood's hospitality.  To then waylay another traveler past that point is to have taken without offering in return.  The debt is owed not to the Kitsune but to the wood, and the wood collects in its own currency: time, sleep, memory, luck.  Those who carry a Pact-Bowl debt for a year may find they can no longer remember the names of their own children.
+A Pact-Bowl is a registered offering.  A traveler who passes the threshold has, by Fox reckoning, taken a grain of the rice - accepting the wood's hospitality.  To then waylay another traveler past that point is to have taken without offering in return.  The debt is owed not to the Kitsune but to the wood, and the wood collects in its own currency: time, sleep, memory, luck.  Those who carry a Pact-Bowl debt for a year may find they can no longer remember the names of their own children.
 
 ### Fox Lands
 
-The Fox have roughly 10–20 miles of land surrounding the Kitsune forest in all directions, which totals a few thousand square miles.  This is significantly less than most domains — a typical domain is around 5,000 square miles, and the non-forested non-mountainous sections of Fox lands add up to well under 2,000 square miles — but it still gives them a meaningful amount of farmland.
+The Fox have roughly 10-20 miles of land surrounding the Kitsune forest in all directions, which totals a few thousand square miles.  This is significantly less than most domains - a typical domain is around 5,000 square miles, and the non-forested non-mountainous sections of Fox lands add up to well under 2,000 square miles - but it still gives them a meaningful amount of farmland.
 
 Fox crops are fairly typical for the latitude (the same as North Carolina): rice, barley, foxtail millet, and other regional staples.  The foxtail millet is grown not because of the clan's name but because it is a common crop for the region.
 
@@ -7034,7 +7176,7 @@ Incense is even more profitable, with less overall demand but significantly easi
 
 As one example of the many smaller sources of Fox wealth: Inari is the Fortune of rice and of foxes, and Fox rice is widely considered the most spiritually proper grain for offerings at Inari shrines anywhere in Rokugan.  The Kitsune family quietly tends a small "Inari paddy" reserve each year whose harvest is purchased in bulk by Inari shrines from Crab to Phoenix lands, at well above market rate.  The volume is too small to move the needle on Fox finances overall, but it is one among many such small endeavors that together net the clan several thousand extra koku per year.
 
-While the Ministries regulate the use of the forest's resources, the Seven Temples oversee the actual extraction of most of them: incense production, mushroom gathering, lumber milling, medicinal herbs and berries, charcoal burning, and so forth.  Hunting is the one exception — hunting rights and the prosecution of poachers are handled at the provincial level.  The Ministries of Rites and Revenue distribute usufruct rights over sections of the forest to the temples of the Seven Fortunes of Good Luck, which are organized in a nontraditional fashion.  (The Fox would say their temples are organized in a fashion so deeply traditional that the tradition predates the more common temple organization structures.)
+While the Ministries regulate the use of the forest's resources, the Seven Temples oversee the actual extraction of most of them: incense production, mushroom gathering, lumber milling, medicinal herbs and berries, charcoal burning, and so forth.  Hunting is the one exception - hunting rights and the prosecution of poachers are handled at the provincial level.  The Ministries of Rites and Revenue distribute usufruct rights over sections of the forest to the temples of the Seven Fortunes of Good Luck, which are organized in a nontraditional fashion.  (The Fox would say their temples are organized in a fashion so deeply traditional that the tradition predates the more common temple organization structures.)
 
 Fox lands have a higher population than their farmland could support because of the bounty of the forest.  Wild game, shelf mushrooms, and fruits and nuts support not only those who live on the forest's edge but the many hermits and other forest-dwellers who make their lives there.  That said, such foragers cannot afford to eat the best mushrooms, especially matsutake "pine mushrooms" which grow wild in symbiosis with the roots of pine trees.  Even more common wood-ear and shitake mushrooms are widely understood to have superior spiritual essence and purity when wild-harvested rather than cultivated.
 
@@ -7046,7 +7188,7 @@ There are no Grand Abbots in Fox lands; each temple has a "High Monk" instead, a
 - The **Temple Master**, the chief administrator of the temple's budget and operations.
 - The **Chief of Discipline**, who manages the monks themselves.
 
-These three are the only monks in a Fox temple required to be celibate.  No other position carries a vow of celibacy, and as a result the temple's revenue sources are effectively family businesses passed down along bloodlines within the temple.  Within Fox lands, the question is therefore not "which merchant families do X" but "which temples do X."  This includes moneylending, which is handled by the temples of Fukurokujin and Ebisu — except for loans specifically to fund weddings and dowries, which the Temple of Benten offers.
+These three are the only monks in a Fox temple required to be celibate.  No other position carries a vow of celibacy, and as a result the temple's revenue sources are effectively family businesses passed down along bloodlines within the temple.  Within Fox lands, the question is therefore not "which merchant families do X" but "which temples do X."  This includes moneylending, which is handled by the temples of Fukurokujin and Ebisu - except for loans specifically to fund weddings and dowries, which the Temple of Benten offers.
 
 ## The Three Man Alliance
 
@@ -7056,7 +7198,7 @@ These three minor clans of southeast Rokugan came together because none of them 
 
 ### Economic Profiles
 
-Samurai are generally paid in a combination of rice and coin.  Rokugan is a food-rich but cash-poor society, so much of a samurai's stipend is paid in food, other goods, or even IOUs.  The Fox and Wasp clans are atypically cash-rich, since much of their income comes from collecting coinage directly — from selling goods, in the case of the Fox, and from collecting bounties, in the case of the Wasp.  As a result, both clans hold a much higher percentage of their wealth in coin than the rest of the Empire does, despite the Wasp being poor and the Fox being rich.
+Samurai are generally paid in a combination of rice and coin.  Rokugan is a food-rich but cash-poor society, so much of a samurai's stipend is paid in food, other goods, or even IOUs.  The Fox and Wasp clans are atypically cash-rich, since much of their income comes from collecting coinage directly - from selling goods, in the case of the Fox, and from collecting bounties, in the case of the Wasp.  As a result, both clans hold a much higher percentage of their wealth in coin than the rest of the Empire does, despite the Wasp being poor and the Fox being rich.
 
 The Sparrow, by contrast, are poor in both food and coin, and their contributions to the Three Man Alliance are rarely if ever financial.
 
@@ -7138,13 +7280,13 @@ Agetoki wagered the Owari province of the Masao domain (once he succeeded his fa
 
 Daini's arrow struck true, to Agetoki's chest... at which point Agetoki was revealed to have slipped a metal sheet underneath his clothing.  Agetoki took aim on his turn, offering Daini a chance to forfeit.  Daini refused, accusing Agetoki of both shameful deceit and (worse!) showing bad manners to his Crane hosts if he refused to cancel the wager.  Agetoki fired, his arrow striking true, and Daini fell to the ground.
 
-Agetoki's father seemed perhaps even more furious than the Kakita, and he took his leave, declaring that he and his son would leave without the Akechi Scrolls.  However, as they departed Kyuden Kakita, a messenger from Kakita Toshimo (at that time the daimyo of the Kakita family) brought to them the Akechi Scrolls, along with a message that the terms of the wager had been met, and the honor of the Crane clan would not permit them to keep possession of this great heirloom after staking a wager in good faith.
+Agetoki's father seemed perhaps even more furious than the Kakita, and he took his leave, declaring that he and his son would leave without the Akechi Scrolls.  However, as they departed Kyuden Kakita, a messenger from Kakita Toshimoko (at that time the daimyo of the Kakita family) brought to them the Akechi Scrolls, along with a message that the terms of the wager had been met, and the honor of the Crane clan would not permit them to keep possession of this great heirloom after staking a wager in good faith.
 
 Daini died the following morning from his wounds.  His sister chose the name Hitomi for herself a few years later at her gempukku, pledging to reclaim the lost family heirlooms.  Unfortunately, the Lion/Crane war deterred those plans, and at this point the goal seems further away than ever.
 
 ## Wasp Clan NPCs
 
-This section is where I've saved miscellaneous NPC backstory writeups.
+This section collects miscellaneous NPC backstory writeups.
 
 Tsuruchi Byakuya:
 
@@ -7170,9 +7312,9 @@ She also cautioned the PCs about Haru Higan, when many samurai households give o
 
 When the PCs spoke of journeying into the Kitsune forest, Tatsuki gave each of them three amulets and the party a single shared fourth:
 
-- **Guest-token (kakuyō-fu)** — a small red silk pouch the size of a thumb, containing a folded paper bearing the seal of the specific Kitsune household sponsoring the journey.  Worn on the cord of the scabbard or tied to a sash.  This is the baseline gift; every visitor whose presence is officially approved by a Kitsune host receives one.  As long as it is carried openly, the wood's fox-spirits recognize the bearer as not-to-be-troubled.  Lose it or hide it deliberately and the protection lapses immediately.
-- **Pilgrim's bell (junrei-suzu)** — a small brass bell, finger-sized, tied to a walking staff or the side of a pack.  Each bell's tone is attuned with the shrines that blessed it; as long as it is ringing on the path, the shrine's awareness extends to the bearer, and most fox-illusions cannot easily replace the way back.  If the bearer sets the staff down and the bell falls silent, the protection lapses until they pick it up again.
-- **Iron pin (kurogane-bari)** — a small black iron pin, worn in the hair or pinned to the inside of clothing where it touches the skin.  Iron is anathema to most spirits, and a single pin worn against the skin is known to disrupt a range of low-grade fox glamours.
-- **Spirit-mirror (kage-tama)** — the shared party item, a small disc of polished obsidian or smoky quartz, the size of a copper zeni, worn on a cord around the neck.  Held up against a confusing path, a hut that wasn't there yesterday, or a person whose face seems off, the surface reveals whether what one sees is real.
+- **Guest-token (kakuyō-fu)** - a small red silk pouch the size of a thumb, containing a folded paper bearing the seal of the specific Kitsune household sponsoring the journey.  Worn on the cord of the scabbard or tied to a sash.  This is the baseline gift; every visitor whose presence is officially approved by a Kitsune host receives one.  As long as it is carried openly, the wood's fox-spirits recognize the bearer as not-to-be-troubled.  Lose it or hide it deliberately and the protection lapses immediately.
+- **Pilgrim's bell (junrei-suzu)** - a small brass bell, finger-sized, tied to a walking staff or the side of a pack.  Each bell's tone is attuned with the shrines that blessed it; as long as it is ringing on the path, the shrine's awareness extends to the bearer, and most fox-illusions cannot easily replace the way back.  If the bearer sets the staff down and the bell falls silent, the protection lapses until they pick it up again.
+- **Iron pin (kurogane-bari)** - a small black iron pin, worn in the hair or pinned to the inside of clothing where it touches the skin.  Iron is anathema to most spirits, and a single pin worn against the skin is known to disrupt a range of low-grade fox glamours.
+- **Spirit-mirror (kage-tama)** - the shared party item, a small disc of polished obsidian or smoky quartz, the size of a copper zeni, worn on a cord around the neck.  Held up against a confusing path, a hut that wasn't there yesterday, or a person whose face seems off, the surface reveals whether what one sees is real.
 
-Note the order in which I've presented all of this information.  We spent considerable time talking about the realities of Rokugan's geography, culture, caste system, government, and organization before we discussed anything supernatural.  And when we finally did get to the supernatural, much of it is ambiguous and difficult to understand or explain.  This reflects the "low-fantasy" nature of the setting.  The supernatural is very real, and "everyone knows" that "foxes are always kidnapping children and replacing them" and "everyone" knows someone who has seen a ghost, but it's unclear (and deliberately undefined!) how often any of these things are true!
+Note the order in which this information has been presented.  Considerable time was spent on the realities of Rokugan's geography, culture, caste system, government, and organization before any of the supernatural was discussed.  And when the supernatural finally did come up, much of it is ambiguous and difficult to understand or explain.  This reflects the "low-fantasy" nature of the setting.  The supernatural is very real, and "everyone knows" that "foxes are always kidnapping children and replacing them" and "everyone" knows someone who has seen a ghost, but it's unclear (and deliberately undefined!) how often any of these things are true!
