@@ -144,9 +144,9 @@ When you counterattack successfully, note the quantity X by which the counteratt
 **School Ring:** Air
 
 **School Knacks:**
-- counterattack
 - double attack
 - iaijutsu
+- lunge
 
 **Special Ability:**
 The two allies fighting on your left and right have their TN to be hit raised by 5.
@@ -158,7 +158,7 @@ Roll one extra die on initiative, parry, and wound checks.
 You get a free raise on parry rolls.
 
 **Third Dan:**
-After making a successful or unsuccessful parry, add 2X to your next attack roll for any type of attack and to the damage roll for that attack if it hits, where X is your attack skill.  After your successful or unsuccessful parry resolves, you may immediately counterattack as an interrupt action at the cost of one action die, and this counterattack may be directed at anyone you can hit rather than being limited to the attacker whose strike you parried.
+After making a successful or unsuccessful parry, add 2X to your next attack roll for any type of attack and to the damage roll for that attack if it hits, where X is your attack skill.  After your successful or unsuccessful parry resolves, you may immediately lunge as an interrupt action at the cost of one action die without suffering the normal lunge penalty.
 
 **Fourth Dan:**
 Raise your current and maximum Air by 1.  Raising your Air now costs 5 fewer XP.  After rolling initiative, lower your action dice by 2, to a minimum of 1.
