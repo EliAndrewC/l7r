@@ -31,7 +31,6 @@
   - [The Twelve Months](#the-twelve-months)
   - [The Sexagenary Cycle](#the-sexagenary-cycle)
   - [The Twelve Hours of the Day](#the-twelve-hours-of-the-day)
-  - [Crops and Farming Seasons](#crops-and-farming-seasons)
   - [The Festival Calendar](#the-festival-calendar)
     - [1st Month: Mutsuki ("affection month")](#1st-month-mutsuki-affection-month)
     - [2nd Month: Kisaragi ("changing")](#2nd-month-kisaragi-changing)
@@ -49,14 +48,9 @@
   - ["the Order"](#the-order)
   - [Temple Organization](#temple-organization)
   - [Orders and Temples](#orders-and-temples)
-    - [Temple of Bishamon Finances and History](#temple-of-bishamon-finances-and-history)
     - [Temple Daily Life](#temple-daily-life)
   - [Karmic Inquisitors Timeline](#karmic-inquisitors-timeline)
   - [Lord Moon's Heavenly Court](#lord-moons-heavenly-court)
-    - [A Saibankan Ruling](#a-saibankan-ruling)
-    - [No Answer to Believe](#no-answer-to-believe)
-    - [Shattered Names and Stubborn Pride](#shattered-names-and-stubborn-pride)
-    - [Balance Exploited, Balanced Defended](#balance-exploited-balanced-defended)
   - [The Damasu Domain](#the-damasu-domain)
     - [Damasu Lineages](#damasu-lineages)
       - [Provincial and cosmopolitan lineages](#provincial-and-cosmopolitan-lineages)
@@ -69,10 +63,6 @@
 - [The First Toshi Ranbo Campaign](#the-first-toshi-ranbo-campaign)
 - [The Peasant Campaign](#the-peasant-campaign)
 - [Oaths and Vows](#oaths-and-vows)
-  - [On Vows to the Fortunes](#on-vows-to-the-fortunes)
-  - [Benten's Blessing](#bentens-blessing)
-  - [Vengeance and Justice](#vengeance-and-justice)
-  - [Soshi Saibankan](#soshi-saibankan)
 - [Maho and Bloodspeakers](#maho-and-bloodspeakers)
   - [Iuchiban and His Lieutenants](#iuchiban-and-his-lieutenants)
     - [Jama no Iuchiban Suru](#jama-no-iuchiban-suru)
@@ -91,19 +81,8 @@
   - [Bashi's Letter on the Moto](#bashis-letter-on-the-moto)
   - [Medin al Salaat](#medin-al-salaat)
 - [The Moto](#the-moto)
-  - [Moto Etiquette](#moto-etiquette)
-  - [Moto Tribal Structure](#moto-tribal-structure)
-  - [The Moto Daimyo](#the-moto-daimyo)
-  - [Moto Law](#moto-law)
-  - [Moto Language](#moto-language)
-  - [Approaching a Moto Tribe](#approaching-a-moto-tribe)
   - [Moto Lands](#moto-lands)
-  - [The Vindicator Moto](#the-vindicator-moto)
   - [The Gods of Death](#the-gods-of-death)
-  - [Moto Rank](#moto-rank)
-  - [Stable Horse Culture](#stable-horse-culture)
-  - [Wild Horse Culture](#wild-horse-culture)
-  - [Hay](#hay)
   - [Food Purity](#food-purity)
   - [Moto Laws (the Yassa)](#moto-laws-the-yassa)
     - [The written Yassa](#the-written-yassa)
@@ -123,11 +102,6 @@
   - [Moto Khuyag's Death Detectors](#moto-khuyags-death-detectors)
   - [The 11 Imperial Gardens of Chai Sedo](#the-11-imperial-gardens-of-chai-sedo)
   - [The 1st Imperial Legion](#the-1st-imperial-legion)
-  - [Ranks in the Imperial legion](#ranks-in-the-imperial-legion)
-  - [Companies and Houses](#companies-and-houses)
-  - [Budget](#budget)
-  - [Layout](#layout)
-  - [The Gateway and Outsider Keep](#the-gateway-and-outsider-keep)
   - [Bayushi Tangen](#bayushi-tangen)
   - [The Dark Moto](#the-dark-moto)
   - [The Secret Histories of the Moto](#the-secret-histories-of-the-moto)
@@ -138,32 +112,10 @@
   - [The Doctrine of Three Steps](#the-doctrine-of-three-steps)
   - [Investigations and bounties](#investigations-and-bounties)
 - [Bounties](#bounties)
-  - [Registering a bounty](#registering-a-bounty)
-  - [An example bounty](#an-example-bounty)
-  - [Non-criminal bounties targeting political adversaries](#non-criminal-bounties-targeting-political-adversaries)
-  - [Most common bounties](#most-common-bounties)
-  - [Questionable bounty collection](#questionable-bounty-collection)
-  - [Example bounties](#example-bounties)
 - [The Sparrow Clan](#the-sparrow-clan)
-  - [Sparrow lands](#sparrow-lands)
-  - [Sparrow land management](#sparrow-land-management)
 - [The Fox Clan](#the-fox-clan)
-  - [Fox Lineages and Provinces](#fox-lineages-and-provinces)
-  - [The Kitsune Forest](#the-kitsune-forest)
-  - [The Imperial Road Through Minami](#the-imperial-road-through-minami)
-  - [Fox Lands](#fox-lands)
-  - [The Fox clan's economy](#the-fox-clans-economy)
-  - [Fox Temples](#fox-temples)
 - [The Three Man Alliance](#the-three-man-alliance)
-  - [Economic Profiles](#economic-profiles)
-  - [The Imperial Chancellery](#the-imperial-chancellery)
-  - [The Lion/Crane War](#the-lioncrane-war)
 - [The Crane Wives](#the-crane-wives)
-  - [The wives](#the-wives)
-  - [The fable](#the-fable)
-  - [Tsuruchi Naomi](#tsuruchi-naomi)
-  - [Tsuruchi Ami](#tsuruchi-ami)
-  - [Tsuruchi Hitomi](#tsuruchi-hitomi)
 - [Wasp Clan NPCs](#wasp-clan-npcs)
 
 ## The Setting
@@ -2189,9 +2141,9 @@ Such changes most often happen during turbulent times, and the recent war and ch
 
 ##### Provincial and cosmopolitan lineages
 
-Some lineages are tied to the specific land and holdings they administer on behalf of their daimyo.  For example, players who played in the Daidoji Raiders campaign may remember the Aki lineage.
+Some lineages are tied to the specific land and holdings they administer on behalf of their daimyo.  Consider the Aki lineage of the Daidoji house.
 
-After Daidoji swore fealty to Lady Doji at the dawn of the Empire, he helped conquer territory in her name.  A local warlord named Aki saw the wisdom in accepting the gifts of civilization offered by the Empire, so he swore fealty to Lord Daidoji.  To this day, the Aki lineage is a powerful faction of the ruling house of the Daidoji, and the Aki chancellor represents their interests on the Daidoji chancellery.
+After the warlord Hayaku swore fealty to Lady Doji at the dawn of the Empire, he changed his name to Daidoji (literally: protector-of-Doji) and helped conquer territory in her name.  A local warlord named Aki saw the wisdom in accepting the gifts of civilization offered by the Empire, so he swore fealty to Lord Daidoji.  To this day, the Aki lineage is a powerful faction of the ruling house of the Daidoji, and the Aki chancellor represents their interests on the Daidoji chancellery.
 
 Most samurai from the Aki lineage live in the province of Akishi, and the provincial city of Akishi was the original seat of power of the warlord Aki even before he swore fealty to Lord Daidoji.  The Aki lineage has administered the province of Akishi for over a thousand years, and in recognition of this loyalty, no Daidoji daimyo would dream of appointing a provincial governor of Akishi from any other lineage.  This type of lineage is often referred to as a provincial lineage, in recognition of the lineage's ties to a single province.
 
@@ -4830,12 +4782,6 @@ Even when there is no "khan of khans", groups of khans will sometimes come toget
 
 Imperial official documents refer to "khuraldai" as the Moto word for "chancellery", which is not entirely wrong, since that's probably the closest analog for the concept.  However, because Moto society is so differently structured, an uninformed person who hears "Moto chancellery" would get entirely the wrong idea.
 
-### Moto Law
-
-The Moto word for "law" is Yassa, which actually means "secret writings".  This is because their legal code is deliberately secret.  Only a khan and his designated advisors are permitted to read the legal code, to prevent the letter of the law from being used to abuse the spirit of the law.
-
-Legal decisions handed down by a khan will sometimes have their rationale broadly explained to promote public virtue, but rulings do not create legal precedent and there is no common law system.  That idea has been rejected for the same reason the laws are kept secret - otherwise the educated could abuse the system.
-
 ### Moto Language
 
 Our maps separate Moto lands into "eastern" and "western" halves, which basically means "do the local tribes speak Rokugani or do they only speak Moto?"
@@ -5106,9 +5052,11 @@ Eating goat falls into the same category as rabbit/venison/sheep UNLESS the goat
 
 Eating horse or cattle makes you unclean until more than a full month has passed - after that you can cleanse yourself after the beginning of the following new moon.
 
-### Moto Laws (the Yassa)
+### Moto Laws (the yassa)
 
-"Yassa" is the Moto word for "law", though the literal meaning of the word is "secret writings".  Only khans and their specially designated advisors are allowed to read the law, in order to keep people from abusing it.
+The Moto word for "law" is Yassa, which actually means "secret writings".  This is because their legal code is deliberately secret.  Only a khan and his designated advisors are permitted to read the legal code, to prevent the letter of the law from being used to abuse the spirit of the law.
+
+Legal decisions handed down by a khan will sometimes have their rationale broadly explained to promote public virtue, but rulings do not create legal precedent and there is no common law system.  That idea has been rejected for the same reason the laws are kept secret - otherwise the educated could abuse the system.
 
 The Kuraldai mainly handles cases between members of different Moto tribes, though in some cases a khan will have the Kuraldai handle a case involving a close family member.  This is extremely rare - most khans handle these matters themselves, but sometimes special circumstances call for special consideration.
 
