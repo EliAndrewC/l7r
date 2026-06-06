@@ -559,47 +559,47 @@ The median hamlet:
 
 | % | Category |
 | --- | --- |
-| 10 | burakumin, poor |
-| 70 | farmer, rural tenant farmer |
-| 5 | farmer, poor freeholder |
-| 10 | farmer, freeholder |
-| 5 | farmer, wealthy landowner |
+| 10% | burakumin, poor |
+| 70% | farmer, rural tenant farmer |
+| 5% | farmer, poor freeholder |
+| 10% | farmer, freeholder |
+| 5% | farmer, wealthy landowner |
 
 The median village (remember "village district" refers to a village and its surrounding hamlets, so this section refers only to the village itself):
 
 | % | Category |
 | --- | --- |
-| 1 | burakumin, well-off |
-| 7 | burakumin, poor |
-| 2 | burakumin, very poor |
-| 70 | farmer, rural tenant farmer |
-| 5 | farmer, poor freeholder |
-| 10 | farmer, freeholder |
-| 5 | farmer, wealthy landowner |
+| 1% | burakumin, well-off |
+| 7% | burakumin, poor |
+| 2% | burakumin, very poor |
+| 70% | farmer, rural tenant farmer |
+| 5% | farmer, poor freeholder |
+| 10% | farmer, freeholder |
+| 5% | farmer, wealthy landowner |
 
 The median town (remember that a "county" is the town and its surrounding village districts, so this is only the town itself):
 
 | % | Category |
 | --- | --- |
-| 1 | servants, working for wealthy samurai families |
-| 1 | servants, working for wealthy merchant families |
-| 1.5 Indentured servants, working for non-wealthy merchant families |  |
-| 2 | servants, miscellaneous |
-| 1 | laborers, master (rich) |
-| 1 | laborers, poor |
-| 10 | laborers, other |
-| 1 | merchants, very rich |
-| 1 | merchants, rich |
-| 3 | merchants, poor |
-| 5 | merchants, other |
-| 1 | burakumin, well-off |
-| 6 | burakumin, poor |
-| 3 | burakumin, very poor |
-| 50 | farmer, rural tenant farmer |
-| 2.5 farmer, poor freeholder |  |
-| 5 | farmer, freeholder |
-| 2.5 farmer, wealthy landowner |  |
-| 2.5 samurai |  |
+| 1% | servants, working for wealthy samurai families |
+| 1% | servants, working for wealthy merchant families |
+| 1.5% | Indentured servants, working for non-wealthy merchant families |
+| 2% | servants, miscellaneous |
+| 1% | laborers, master (rich) |
+| 1% | laborers, poor |
+| 10% | laborers, other |
+| 1% | merchants, very rich |
+| 1% | merchants, rich |
+| 3% | merchants, poor |
+| 5% | merchants, other |
+| 1% | burakumin, well-off |
+| 6% | burakumin, poor |
+| 3% | burakumin, very poor |
+| 50% | farmer, rural tenant farmer |
+| 2.5% | farmer, poor freeholder |
+| 5% | farmer, freeholder |
+| 2.5% | farmer, wealthy landowner |
+| 2.5% | samurai |
 
 Remember that the county town is the "lowest" level of organized society that still has samurai - villages and hamlets are peasant-only!  Also note that it's the lowest level to have merchants - this is why farmers come into town for market day approximately once per week.
 
@@ -607,24 +607,24 @@ The media provincial city (i.e. the city central to a province, surrounded by co
 
 | % | Category |
 | --- | --- |
-| 2 | servants, working for wealthy samurai families |
-| 6 | servants, working for wealthy merchant families |
-| 6 | Indentured servants, working for non-wealthy samurai families |
-| 4 | Indentured servants, working for non-wealthy merchant families |
-| 2 | servants, miscellaneous |
-| 5 | laborers, master (rich) |
-| 5 | laborers, poor |
-| 25 | laborers, other |
-| 2 | merchants, very rich |
-| 3 | merchants, rich |
-| 5 | merchants, poor |
-| 15 | merchants, other |
-| 1 | burakumin, well-off |
-| 6 | burakumin, poor |
-| 3 | burakumin, very poor |
-| 1 | samurai, merchants |
-| 1 | samurai, courtiers |
-| 8 | samurai, bushi |
+| 2% | servants, working for wealthy samurai families |
+| 6% | servants, working for wealthy merchant families |
+| 6% | Indentured servants, working for non-wealthy samurai families |
+| 4% | Indentured servants, working for non-wealthy merchant families |
+| 2% | servants, miscellaneous |
+| 5% | laborers, master (rich) |
+| 5% | laborers, poor |
+| 25% | laborers, other |
+| 2% | merchants, very rich |
+| 3% | merchants, rich |
+| 5% | merchants, poor |
+| 15% | merchants, other |
+| 1% | burakumin, well-off |
+| 6% | burakumin, poor |
+| 3% | burakumin, very poor |
+| 1% | samurai, merchants |
+| 1% | samurai, courtiers |
+| 8% | samurai, bushi |
 
 Note that there are no farmers in the median provincial city.  This is largely an artifact of what we count as being "part of the city", i.e. while there are generally no farms within the city's walls, provincial cities are frequently located in areas with rich farmland.  However, these farms are counted by the government as being part of the surrounding county lands, rather than being part of the city itself.
 
@@ -632,24 +632,24 @@ The median domain capital city:
 
 | % | Category |
 | --- | --- |
-| 2 | servants, wealthy samurai families |
-| 6 | servants, wealthy merchant families |
-| 6 | servants, non-wealthy samurai families |
-| 4 | servants, non-wealthy merchant families |
-| 2 | servants, miscellaneous |
-| 5 | laborers, master (rich) |
-| 5 | laborers, poor |
-| 25 | laborers, other |
-| 2 | merchants, very rich |
-| 3 | merchants, rich |
-| 5 | merchants, poor |
-| 15 | merchants, other |
-| 1 | burakumin, well-off |
-| 6 | burakumin, poor |
-| 3 | burakumin, very poor |
-| 1 | samurai, merchants |
-| 1 | samurai, courtiers |
-| 8 | samurai, bushi |
+| 2% | servants, wealthy samurai families |
+| 6% | servants, wealthy merchant families |
+| 6% | servants, non-wealthy samurai families |
+| 4% | servants, non-wealthy merchant families |
+| 2% | servants, miscellaneous |
+| 5% | laborers, master (rich) |
+| 5% | laborers, poor |
+| 25% | laborers, other |
+| 2% | merchants, very rich |
+| 3% | merchants, rich |
+| 5% | merchants, poor |
+| 15% | merchants, other |
+| 1% | burakumin, well-off |
+| 6% | burakumin, poor |
+| 3% | burakumin, very poor |
+| 1% | samurai, merchants |
+| 1% | samurai, courtiers |
+| 8% | samurai, bushi |
 
 Note that this is just the same numbers as for a provincial city - it is generally true that in "the median domain" a capital city is simply just a larger version of the domain's provincial cities.
 
@@ -667,7 +667,7 @@ Toshi Ranbo (aka Kyuden Damasu) is the third-largest city in the Empire, with a 
 
 Here's a chart of the largest cities in Rokugan and who controls them (note that the numbers more or less follow Zipf's law, though not exactly):
 
-| City | Approximate Population | Owned by |
+| City | Approx. Pop | Owned by |
 | --- | --- | --- |
 | Otosan Uchi | 1,000,000 | Imperial (Hantei) |
 | Ryoko Owari | 500,000 | Scorpion (Shosuro Family, Michio house) |
@@ -708,13 +708,13 @@ We've spent a lot of time talking about "the median domain", but the above citie
 
 Since we're discussing populations and occupations and numbers, I've been working on the demographics of Rokugan farming communities and wrote a document called "What exactly is a village headsman", the contents of which are below:
 
-Overview:
+#### Overview:
 
 Occasionally PCs visit a peasant farming village and need to talk to someone in charge.  We've always said that this is the "village headsman".  However, as much time as we've spent fleshing out details about the government of Rokugan, we've spent very little time detailing who this is, how they are selected, their responsibilities, what power they have within the village, how they are compensated for their duties, etc.
 
 This document summarizes some things we've already established about peasant village life, describes how farm plots are actually divided up, and explains some details about the responsibilities of a village headsman.
 
-Random things a village headsman does:
+#### Random things a village headsman does:
 
 We have occasionally mentioned things which the government needs to do, and said that the village headsman is probably the one who does these things.  This includes:
 
@@ -752,7 +752,7 @@ We generally assume a median household size of 5, split over 2-3 generations.  U
 
 - I don't know enough about the "untouchables" in Japan on which L5R burakumin are based to be able to make good predictions about them.  This doesn't matter for most adventures, but it would be good to figure out at some point since this seems like a good source of opportunities for strife and plot hooks.
 
-Rent and taxes:
+#### Rent and taxes:
 
 The above numbers all talk about households who work plots of land.  We occasionally have reason to dive into the numbers, and when we do then here are the general monetary baselines:
 
@@ -766,7 +766,7 @@ The above numbers all talk about households who work plots of land.  We occasion
 
 Remember that 1 koku is "the amount of rice needed to feed someone for a year" (about 40 gallons).  This doesn't make up all of a human's nutritional needs, or account for costs of living other than food, so we generally assume that someone "needs" about 2 koku/year to meet the bare minimum needs.  The above numbers mean that an "average" family of 5 only has 7.5 koku/year, which means that they must provide for themselves in non-farming ways as well, e.g. making their own clothes, spinning their own rope, etc.
 
-Dynamic family sizes and farm plots:
+#### Dynamic family sizes and farm plots:
 
 Everything in the previous section is more-or-less centered on relatively small nuclear families living in small-ish households working on relatively small plots of land.  This is an accurate portrayal of many modern farms, including my own grandfather's farm and Julie's grandfather's farm.
 
@@ -778,11 +778,11 @@ I've been thinking a lot about these questions after reading this book review of
 
 The book itself has these crazy pictures of the way that land was partitioned.  Though the words "plots of land" do factor in, it seems like actually fields were subdivided such that different families work different parts of the same fields.  A single family didn't work a single contiguous "plot", but rather many different plots which were themselves pieces of many different fields.
 
-This is a big part of what a village headsman actually does:
+#### This is a big part of what a village headsman actually does:
 
 If we take the above as being representative of a Rokugani farming village, then someone is responsible for assigning different plots to different farmers.  This was often done by village elders, and in Rokugan is overseen by a village headsman.
 
-What does this imply about rent and taxes?
+#### What does this imply about rent and taxes?
 
 In some previous adventures, we've talked about the value of a single farm.  We generally portray this as having a market value of about 50 koku, with enormous variation depending on how cash-rich or food-poor the domain is at any given time.  There is certainly some sense in which this must be true.  Sometimes freeholding farmers would buy or otherwise come to own their own bit of farmland outside of the main village fields and work them without needing to share or coordinate with the other villagers.  However, we've always portrayed this as the exception, and said that around 90% of farmers in Rokugan are tenant farmers whose landlords collect rent, pay taxes out of that rent, and keep what's left over.
 
@@ -792,31 +792,39 @@ In this scenario, it's harder to track how rent is collected.  If individual far
 
 Generally, the village headsman tracks this as well.  He doles out different parts of the fields, and he has enough information to either compute the associated rent, or pass along enough information to the merchant clerk for them to compute it.
 
-Things which vary from place to place:
+#### Things which vary from place to place:
 
-How is the village headsman chosen?
-- Usually appointed by the county magistrate, with the understanding that the position is often hereditary (see below).
+**How is the village headsman chosen?**
 
-How often is a new village headsman appointed?
-- This is typically rare, and usually only happens if the previous headsman dies or becomes otherwise ineligible.  Unless the county magistrate becomes dissatisfied for some reason, this is expected to be a lifetime appointment.
+Usually appointed by the county magistrate, with the understanding that the position is often hereditary (see below).
 
-Is this a hereditary position?
-- Generally yes.  We've portrayed Rokugan as a place where many positions are de facto hereditary even if in theory anyone could be appointed.  This seems like one of those cases.  Family and the continuation of traditional roles is highly valued.  With that being said, "It's time for someone new" could easily happen if a new magistrate took issue with any previous problems in a village and blamed the headsman.
+**How often is a new village headsman appointed?**
 
-Is the village headsman necessarily a man?
-- Generally yes.  If the village headsman must necessarily receive ashigaru training, lead bandit hunting units of other ashigaru when bandits are reported, and possibly assume some kind of command posture over other ashigaru during wartime, then that implies the village headsman would almost always be a man.  However, a husband and wife often share the headsman responsibilities, with the husband taking care of the martial duties, and the wife managing the bookkeeping.  Original L5R sometimes portrayed women as being more savvy about money and often managing household finances, so this would be in line with that.
+This is typically rare, and usually only happens if the previous headsman dies or becomes otherwise ineligible.  Unless the county magistrate becomes dissatisfied for some reason, this is expected to be a lifetime appointment.
 
-Do hamlets have their own village headsman?
-- No, but with a caveat: a village district is, on average, probably about 15 square miles.  The village itself is a small fraction of this, probably only a few square miles, with the outlying hamlets each being miles away.  Overseeing all of this sounds time consuming enough that we wouldn't expect someone to be able to do it "in their free time" while also personally working in their own fields.  However, when the headsman's stipend (see the next point) and merchant gifts are enough to allow him (and perhaps his wife) to not need to personally spend all day farming, then a single headsman can manage the whole village district.  Such a village headsman typically has a larger family which works land along with the rest of the village - we have previously portrayed the village headsman as still being themselves a farmer rather than some kind of educated clerk who spends all day doing paperwork.
+**Is this a hereditary position?**
 
-How is the village headsman compensated?
-- Unlicensed ashigaru receive a stipend, and licensed ashigaru receive a much larger stipend.  In most localities, the village headsman receives a government stipend as well.  Merchant houses who own land in the village also give "generous" gifts to the village headsman, without whom they might have a difficult time collecting rent.  The size of this stipend can be extremely important.  Wen it's a huge amount, other people in the village covet this position and have real reason to try to make the magistrate dissatisfied with the existing headsman.  When it's only 1-2 koku per year, then the position has more prestige than wealth.  This also affects how much money is a meaningful amount to the headsman, which is closely related to the classic question "how much does someone typically pay to bribe this person?"
+Generally yes.  We've portrayed Rokugan as a place where many positions are de facto hereditary even if in theory anyone could be appointed.  This seems like one of those cases.  Family and the continuation of traditional roles is highly valued.  With that being said, "It's time for someone new" could easily happen if a new magistrate took issue with any previous problems in a village and blamed the headsman.
 
-What happens when two neighbors get into a dispute?
-- We've portrayed the village headsman as probably handling small disputes, and that peasants only bring cases before the county magistrate in extreme situations.  This is especially true within the headsman responsibilities (e.g. managing usufruct rights to the land) - if two farmers get into an argument over a fallen tree or something, then the headsman usually resolves it without needing to involve the county magistrate.  On the other hand, if fields belonging to two different merchant families are involved, the headsman might be more likely to escalate to the county magistrate (or rule in favor of whichever clerk gave him a larger gift).
+**Is the village headsman necessarily a man?**
 
-Who is the village headsman actually loyal to?
-- The samurai presumably like to think that the headsman represents their interests.  The merchants presumably like to think their gifts are meaningful enough to keep him loyal to them.  The headman's farming community neighbors presumably like to think that he's one of them and does right by them.
+Generally yes.  If the village headsman must necessarily receive ashigaru training, lead bandit hunting units of other ashigaru when bandits are reported, and possibly assume some kind of command posture over other ashigaru during wartime, then that implies the village headsman would almost always be a man.  However, a husband and wife often share the headsman responsibilities, with the husband taking care of the martial duties, and the wife managing the bookkeeping.  Original L5R sometimes portrayed women as being more savvy about money and often managing household finances, so this would be in line with that.
+
+**Do hamlets have their own village headsman?**
+
+No, but with a caveat: a village district is, on average, probably about 15 square miles.  The village itself is a small fraction of this, probably only a few square miles, with the outlying hamlets each being miles away.  Overseeing all of this sounds time consuming enough that we wouldn't expect someone to be able to do it "in their free time" while also personally working in their own fields.  However, when the headsman's stipend (see the next point) and merchant gifts are enough to allow him (and perhaps his wife) to not need to personally spend all day farming, then a single headsman can manage the whole village district.  Such a village headsman typically has a larger family which works land along with the rest of the village - we have previously portrayed the village headsman as still being themselves a farmer rather than some kind of educated clerk who spends all day doing paperwork.
+
+**How is the village headsman compensated?**
+
+Unlicensed ashigaru receive a stipend, and licensed ashigaru receive a much larger stipend.  In most localities, the village headsman receives a government stipend as well.  Merchant houses who own land in the village also give "generous" gifts to the village headsman, without whom they might have a difficult time collecting rent.  The size of this stipend can be extremely important.  Wen it's a huge amount, other people in the village covet this position and have real reason to try to make the magistrate dissatisfied with the existing headsman.  When it's only 1-2 koku per year, then the position has more prestige than wealth.  This also affects how much money is a meaningful amount to the headsman, which is closely related to the classic question "how much does someone typically pay to bribe this person?"
+
+**What happens when two neighbors get into a dispute?**
+
+We've portrayed the village headsman as probably handling small disputes, and that peasants only bring cases before the county magistrate in extreme situations.  This is especially true within the headsman responsibilities (e.g. managing usufruct rights to the land) - if two farmers get into an argument over a fallen tree or something, then the headsman usually resolves it without needing to involve the county magistrate.  On the other hand, if fields belonging to two different merchant families are involved, the headsman might be more likely to escalate to the county magistrate (or rule in favor of whichever clerk gave him a larger gift).
+
+**Who is the village headsman actually loyal to?**
+
+The samurai presumably like to think that the headsman represents their interests.  The merchants presumably like to think their gifts are meaningful enough to keep him loyal to them.  The headman's farming community neighbors presumably like to think that he's one of them and does right by them.
 
 One thing which gives the headsman's stipend so many downstream consequences is that, based on the numbers above, the village produces ~400 koku worth of rent and ~800 koku worth of taxes every year.  With those kind of numbers, ensuring the village headsman gets a 10 koku/year stipend isn't crazy (and localities where this doesn't happen often end up with different outcomes).  Although shortsightedness sometimes keeps this from being true, samurai and merchants SHOULD be highly invested in making sure that this guy is paid well enough to care about staying in their good graces, have time to actually do the job well without worrying about his own farm, actually fill out paperwork, etc.
 
@@ -840,17 +848,26 @@ There are 15 ranks of the samurai caste in my version of Rokugan.  (This is more
 
 Here's a rough list of the ranks of extremely high-ranking people:
 
-Rank 15: the Emperor (and no one else)
+**Rank 15**: the Emperor (and no one else)
 
-Rank 14: the Imperial Chancellor (usually from an Imperial family but currently Kakita Yoshi), and all 7 of the Clan daimyo (sometimes called the Clan Champions)
+**Rank 14**: the Imperial Chancellor (usually from an Imperial family but currently Kakita Yoshi), and all 7 of the Clan daimyo (sometimes called the Clan Champions)
 
-Rank 13: The ruling daimyo of the great Families, e.g. while Akodo Toturi is of the Fourteenth Rank due to being the daimyo of the whole Lion clan, Ikoma Tsanuri is of the Thirteenth Rank, as she is the daimyo over the entire Ikoma family but is subordinate to Akodo Toturi.  Imperial Ministers are also Rank 13.
+**Rank 13**: The ruling daimyo of the great Families, e.g. while Akodo Toturi is of the Fourteenth Rank due to being the daimyo of the whole Lion clan, Ikoma Tsanuri is of the Thirteenth Rank, as she is the daimyo over the entire Ikoma family but is subordinate to Akodo Toturi.  Imperial Ministers are also Rank 13.
 
-Rank 12: a House daimyo, i.e. the daimyo of a vassal family of one of the Great Families, e.g. before his death Akodo no Damasu Kojima was of the Twelfth Rank.
+**Rank 12**: a House daimyo, i.e. the daimyo of a vassal family of one of the Great Families, e.g. before his death Akodo no Damasu Kojima was of the Twelfth Rank.
 
 Within a single House such as the Damasu (most domains are vassal domains, so this is a "typical" house), here is the typical rank structure:
 
-Rank - Position ------------------ 12 - Daimyo 11 - Chancellor 10 - Minister 9 - Deputy Minister 8 - Governor 7 - Provincial Minister 6 - Deputy Provincial Minister 5 - County Magistrate
+| Rank | Position |
+| --- | --- |
+| 12 | Daimyo |
+| 11 | Chancellor |
+| 10 | Minister |
+| 9 | Deputy Minister |
+| 8 | Governor |
+| 7 | Provincial Minister |
+| 6 | Deputy Provincial Minister |
+| 5 | County Magistrate |
 
 I realize that this doesn't exactly follow the original published L5R books, but we tried to build on a combination of different historical settings and combined that with what was already established for Rokugan.
 
@@ -3222,11 +3239,11 @@ Because Toshi Ranbo is a place with people from every clan, we wanted to have no
 
 A trio of Dragon magistrates has recently arrived and joined the staff of Mirumoto Yagura, the Dragon clan ambassador to the city of Toshi Ranbo.
 
-Mirumoto Kiyoshi is a blunt-spoken bushi who doesn't bother to dress up his words in diplomatic language.  He doesn't go out of his way to offend, but when discussing people he freely offers his opinion, whether good or bad.  His observations are usually cynical, especially regarding the goals of the city government.  If given the opportunity, he will brag about his dueling skills, and he will be quick to take offense if provoked.
+Mirumoto Kiyoshi is a blunt-spoken bushi who doesn't bother to dress up her words in diplomatic language.  She doesn't go out of her way to offend, but when discussing people she freely offers her opinion, whether good or bad.  Her observations are usually cynical, especially regarding the goals of the city government.  If given the opportunity, she will brag about her dueling skills, and she will be quick to take offense if provoked.
 
 Togashi Ichiharu is an enigmatic tattooed monk who tends to turn everything into a question.  He tends to ask high-level questions rather than specific ones; rather than asking what the PCs think of a particular NPC, he would tend to ask instead what criteria they would use to judge that person.  He often deflects questions in this manner, though he'll usually end up speaking his mind when prompted, even if only indirectly.
 
-Kitsuki Hina is the highest ranking member of the group, but sits and walks behind her companions despite her higher station.  She rarely speaks, but when she does her companions will immediately become silent and let her take over the conversation, at which point she will usually do all of the remaining talking, even answering questions addressed to her companions.  Hina is actually a far superior duelist to Kiyoshi, and she will end up being the one to answer any challenges directed at the group.
+Kitsuki Hina is the highest ranking member of the group, but sits and walks behind her companions despite her higher station.  She rarely speaks, but when she does her companions will immediately become silent and let her take over the conversation, at which point she will usually do all of the remaining talking, even answering questions addressed to her companions.  Hina is actually a duelist of comparable skill to Kiyoshi, and she will sometimes attempt to provoke suspects into challenging her by leading them to think they have spotted an opening to confront a significantly weaker duelist, thus ending up being the one to answer any challenges directed at the group.
 
 ### Pirates on the Drowned Merchant River
 
