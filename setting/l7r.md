@@ -3,6 +3,7 @@
 - [The Setting](#the-setting)
   - [Hierarchies](#hierarchies)
   - [The Median Domain](#the-median-domain)
+  - [Rice and Arable-Land Math](#rice-and-arable-land-math)
   - [Place Names](#place-names)
   - [Castes](#castes)
   - [Money](#money)
@@ -176,6 +177,99 @@ Of the 5,000 samurai in the domain, approximately 3,000 (~60%) are past their ge
 Note that county towns are the lowest level at which samurai live.  Village districts are farming communities populated by peasant farmers with no samurai living there.  At most a samurai family might maintain a country estate close to some farmland, but the estate would never be considered to be part of the village/hamlet and most certainly would not be under the authority of any peasant village headsman.
 
 Samurai are typically ~80% bushi (warriors), ~10% courtiers, and ~10% merchants, though this varies by Clan and Family.
+
+### Rice and Arable-Land Math
+
+The demographic figures above (population counts, koku-per-parcel output, rice-production totals) are anchored in real-world historical agricultural data, converted from Chinese units into Rokugan's koku-on-the-rice-standard.
+
+#### Historical Units
+
+A few units used in the conversion math:
+
+- **mu**: a unit of area equal to 1/15 hectare
+- **shi**: a unit of volume equal to about a bushel, or 155.168 jin of rice
+- **jin**: a unit of weight equal to 1.33 lbs
+- A traditional reference figure: 3.33 shi of rice is enough to feed a person for a year
+- **1 koku = 200 pounds**, which combined with the gallon-based definition of a koku produces the cross-conversion paths below
+
+#### Yield Reference
+
+Real-world rice yields in twentieth-century Hunan China were 284.40 jin/mu and 4.00 shi/mu.  Two independent unit-conversion paths produce a koku-per-square-mile figure consistent with that yield.
+
+Path A (jin-based):
+
+```
+284.4 jin/mu * 15 mu/hectare
+             * 258.998811 hectares/square_mile
+             * 1.33 pounds/jin
+             * 2.5 cups/pound
+             * 0.0625 gallons/cup
+             * 0.025 koku/gallon
+             = 3,616 koku per square mile
+```
+
+Path B (ton-based):
+
+```
+4 tons/hectare * 2204.62262 pounds/ton
+               * 0.003314280067510029 koku/pound
+               * 258.998811 hectares/square_mile
+               = 3,000 koku per square mile
+```
+
+The two methods give roughly the same answer (~3,000 to 3,600 koku per square mile), and downstream calculations use the round-number version of 3,000.
+
+#### Historical Household-Size Guidelines
+
+The same ancient Chinese sources provide some calibration on how much land a single household could work:
+
+- 10 mu was about the maximum a single landowner could manage on his own; more than that required tenant farmers.
+- 100 mu was the ideal land size for a household of five.
+- 20-30 mu was more typical for such a household in crowded metro areas.
+- Small household (1-3 people): could work 0.1-5.0 mu
+- Medium household (4-5 people): could work 5.1-19.5 mu
+- Large household (8-9 people): could work 20.0-38.5 mu
+
+For comparative scale: early Ming China had approximately 40 million hectares of land under cultivation supporting a population of 65 million people.
+
+#### Rokugan Arable-Land Extrapolation
+
+Applying these yields to Rokugan's 1.5 million square miles:
+
+- **15% of Rokugan is arable**: approximately 560 square miles per domain, or 225,000 square miles total.
+- **4% is suitable for rice farming**: approximately 152 square miles per domain, or 60,000 square miles total.
+
+#### Total Rice Production
+
+At an assumed density of 400 farmers per square mile:
+
+```
+400 farmers/sq mi * ~152 sq mi/domain = ~60,800 rice farmers per domain
+                                      * 400 domains
+                                      = 24,320,000 rice farmers in Rokugan
+```
+
+Annual rice production at 3,000 koku per square mile:
+
+```
+3,000 koku/sq mi * ~152 sq mi/domain = ~456,000 koku of rice per year per domain
+                                     * 400 domains
+                                     = 182,400,000 koku of rice
+                                     * 1/3 (rice harvest years, cycled with soybeans and millet/barley)
+                                     = 60,800,000 koku of rice per year
+```
+
+#### Other Per-Domain Derivations
+
+A few smaller calculations that anchor the per-parcel and per-family numbers used elsewhere in this document:
+
+**County and domain family counts**: a county has `144 families (town) + 6 * 63 families per village + 36 * 13.5 families per hamlet = 1,008 farming families`.  A domain has `36 * 1,008 = 36,288` farming families.
+
+**Average koku per family**: a domain has ~250,000 population, and assuming ~2 koku worth of food per person, that's `500,000 koku per year / 36,288 families ~= 13.78 koku per family`.  This rounds up to ~15 koku per family on average, reflecting a typical surplus.
+
+**Merchant land allocation**: if each "merchant, other" family owned a single parcel, that would total `(16.8 * 36) + (90 * 6) + 360 = 1,505 parcels = 4.27% of the domain`.  The total number of "merchant, rich" families per domain is `(36 * 2.4) + (6 * 18) + 72 = 266`, and "merchant, very rich" is `(6 * 12) + 48 = 120`.  Assuming roughly 5,000 parcels are owned by samurai, that leaves `36,288 - 1,505 - 5,000 = 29,783 parcels` for distribution among the merchant families.
+
+**Government-officials count**: across a domain's 7 cities (one capital plus six provincial cities), each of the 6 Ministries has a Minister and a Deputy Minister, so `2 * 6 * 7 = 84 ministers and deputy ministers`.  Adding the 6 chancellors on the House council brings the domain's senior officialdom to roughly 90 samurai.  If each comes from a different immediate family, that represents about 9% of the domain's samurai families.
 
 ### Place Names
 
