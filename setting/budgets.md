@@ -1,24 +1,24 @@
 # Domain Budgets
 
-Per-tier budget breakdowns for the median domain hierarchy, plus supporting tables.  Generated from `budgets.ods` - formulas are not preserved, only computed values.
+Per-tier budget breakdowns for the median domain hierarchy, plus supporting tables.
 
 ## What These Populations Count
 
-The "population" figures in this document mean different things at different tiers, and the differences matter for the math downstream:
+The "population" figures in this document mean different things at different tiers, and the differences matter for the math downstream (see [`l7r.md` - The Median Domain](l7r.md#the-median-domain) for the canonical per-tier population ranges):
 
-- **Hamlet (75) and Village (350)**: counts every person living in that settlement.  These are essentially pure farming communities - a hamlet is just a cluster of farmhouses; a village adds a small number of burakumin (~10%) for ritually-unclean labor.
-- **Town (1,200)**: counts the in-and-around population.  Most townies are farmers (~60%) because the working farmland immediately surrounding a county town is included in the town's population.  A "county" is the town plus its surrounding village districts.
-- **Provincial city (3,000) and Capital city (12,000)**: counts ONLY the population living within the city walls / on the city's footprint proper.  Cities are nearly always built on top of (or beside) very fertile land, and that land is farmed - but the farmers who work it live in villages and hamlets in the *surrounding county*, not in the city itself.  That is why both city tiers show zero farmers in their caste tables.
+- **Hamlet (~50-100, average ~75) and Village (~200-500, average ~350)**: counts every person living in that settlement.  These are pure farming communities - a hamlet is just a cluster of farmhouses; a village is several clusters around multiple large fields plus a slightly larger headman's household.  No burakumin in most rural settlements, as burakumin live in towns and cities where their specialty trades have customers.
+- **Town (~900-1,500, average ~1,200)**: counts the in-and-around population.  Most town residents are farmers (~65%) because the working farmland immediately surrounding a county town is included in the town's population.  Border towns tend to be walled, whereas towns which do not need to maintain this level of military preparedness have a much more porous boundary and lack a clear inside-vs-outside boundary.  A "county" is the town plus its surrounding village districts.
+- **Provincial city (~2,000-4,000, average ~3,000) and Capital city (~12,000)**: counts ONLY the population living within the city walls / on the city's footprint proper.  Cities are nearly always built on top of (or beside) very fertile land, and that land is farmed - but the farmers who work it live in villages and hamlets in the *surrounding county*, not in the city itself, which will almost always be walled and thus have rigorous demarcation between their urban interior and agricultural exterior.  That is why both city tiers show zero farmers in their caste tables.
 
-The practical upshot: a "capital city" of 12,000 is a city of 12,000 administrators / artisans / soldiers / merchants / servants, ringed by farming villages whose people are counted under the surrounding rural settlement totals.  Likewise the 6 provincial cities of a domain - each ~3,000 inside the walls, surrounded by farming villages counted elsewhere.
+The practical result: a capital city of ~12,000 is a city of ~12,000 administrators / artisans / soldiers / merchants / servants, ringed by farming villages whose people are counted under the surrounding rural settlement totals.  Likewise the 6 provincial cities of a domain - each ~2,000-4,000 inside the walls, surrounded by farming villages counted in other population totals.
 
 ## What the Samurai Counts Mean
 
-The samurai populations in the per-tier sub-tables (~1,000 in the capital, ~250 per provincial city, ~15 per county town, for a per-domain total of ~3,000) refer specifically to the **useful working cohort**: samurai past their gempukku and not yet retired.  The total samurai population per domain, including children and retirees living in their family households, is approximately **5,000** (per `l7r.md`).  The 60% useful figure replaces an older 80% estimate; earlier versions of these tables showed ~4,000 working samurai under that older rule.  Children and retirees consume from their family's resources rather than from a separate government allocation, so they do not appear as line items in these budgets.
+The samurai populations in the per-tier sub-tables (~1,000 in the capital, ~250 per provincial city, ~15 per county town, for a per-domain total of ~3,000) refer specifically to the **useful working cohort**: samurai past their gempukku and not yet retired.  The total samurai population per domain, including children and retirees living in their family households, is approximately **5,000** (per [`l7r.md` - The Median Domain](l7r.md#the-median-domain)).  The 60% useful figure replaces an older 80% estimate; earlier versions of these tables showed ~4,000 working samurai under that older rule.  Children and retirees consume from their family's resources rather than from a separate government allocation, so they do not appear as line items in these budgets.
 
 ## Samurai Stipend Convention
 
-The Stipend column in the per-tier Samurai sub-tables shows the **average** annual stipend per working samurai, currently set at **6 koku/year**.  Individual stipends follow the rank-squared rule (`stipend = rank^2`, per `l7r.md`): a Rank 1 bushi receives 1 koku, a Rank 5 county magistrate receives 25 koku, a Rank 7 governor receives 49 koku, a Rank 12 daimyo would nominally receive 144 koku.  The 6-koku average reflects a population dominated by low-rank bushi (most useful samurai are Rank 1-2 serving in military or court positions) with a tail of senior officials in the formal civil service driving the average up.  Earlier versions of these tables used 2.5 koku/year, which reflected the older linear-rank rule (stipend equals rank, not rank-squared).
+The Stipend column in the per-tier Samurai sub-tables shows the **average** annual stipend per working samurai, currently set at **~10 koku/year**.  Individual stipends follow the rank-squared rule (`stipend = rank^2`, per [`l7r.md` - Accordances of Rank](l7r.md#accordances-of-rank)): a Rank 1 bushi receives 1 koku, a Rank 5 county magistrate receives 25 koku, a Rank 8 clerk receives 64 koku, a Rank 10 minister would nominally receive 100 koku.  The ~10-koku average reflects a population whose median is approximately Rank 3.  In a county town's 15 useful samurai, for example, you typically find: 1 county magistrate (Rank 5, 25 koku), the magistrate's karo and ~3 squad sergeants (Rank 4, 16 koku each), ~3 squad corporals (Rank 3, 9 koku each), and the remainder mostly Rank 2-3 bushi.  Cities follow a similar mid-rank pattern with a long high-rank tail (governors, ministers, the daimyo at Rank 12 / 144 koku) balanced against larger low-rank bushi populations staffing palace guards and household retinues.  Earlier versions of these tables used 2.5 koku/year (under the older linear-rank rule, where stipend equals rank), then 6 koku/year (an initial conservative estimate of the rank-squared average); the current 10-koku figure reflects a more careful walk through the per-tier rank composition.
 
 ## Domain
 
@@ -33,34 +33,34 @@ The Stipend column in the per-tier Samurai sub-tables shows the **average** annu
 
 ### Samurai
 
-| Place | N | P | Stipend | Food | Housing | Equipment | Other | Population | Payroll | Food (2) | Housing (2) | Equipment (2) | Total Cost |
+| Place | N | P | Stipend | Food | Housing | Equipment | Other | Population | Payroll | Total Food | Total Housing | Total Equipment | Total Cost |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Capital city | 1 | 1000 | 6 | 3 | 0 | 2 | 0 | 1000 | 6000 | 3000 | 0 | 2000 | 11000 |
-| Provincial city | 0 | 250 | 6 | 3 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Town | 0 | 0 | 6 | 3 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Village | 0 | 0 | 6 | 3 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Hamlet | 0 | 0 | 6 | 3 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| **Total** |  |  |  |  |  |  |  | 1000 | 6000 | 3000 | 0 | 2000 | 11000 |
+| Capital city | 1 | 1000 | 10 | 3 | 0 | 2 | 0 | 1000 | 10000 | 3000 | 0 | 2000 | 15000 |
+| Provincial city | 0 | 250 | 10 | 3 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Town | 0 | 0 | 10 | 3 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Village | 0 | 0 | 10 | 3 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Hamlet | 0 | 0 | 10 | 3 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| **Total** |  |  |  |  |  |  |  | 1000 | 10000 | 3000 | 0 | 2000 | 15000 |
 
 ### Budget
 
 | Category | Expense |
 | --- | --- |
 | Staff | 1000 |
-| Samurai | 11000 |
+| Samurai | 15000 |
 | Ashigaru | 0 |
 | Servants | 240 |
 | Supplies | 120 |
-| **Total** | 12360 |
+| **Total** | 16360 |
 
 ### Combined Budgets
 
 | Place | N | Cost | Tax Farming | Total Cost |
 | --- | --- | --- | --- | --- |
-| Domain | 1 | 12360 | 100000 | 112360 |
-| Province | 6 | 2780 | 10000 | 76680 |
-| County | 36 | 385 | 1000 | 49860 |
-| **Total** |  |  |  | 238900 |
+| Domain | 1 | 16360 | 100000 | 116360 |
+| Province | 6 | 3780 | 10000 | 82680 |
+| County | 36 | 445 | 1000 | 52020 |
+| **Total** |  |  |  | 251060 |
 
 ## Province
 
@@ -75,27 +75,27 @@ The Stipend column in the per-tier Samurai sub-tables shows the **average** annu
 
 ### Samurai
 
-| Place | N | P | Stipend | Food | Housing | Equipment | Other | Population | Payroll | Food (2) | Housing (2) | Equipment (2) | Total Cost |
+| Place | N | P | Stipend | Food | Housing | Equipment | Other | Population | Payroll | Total Food | Total Housing | Total Equipment | Total Cost |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Capital city | 0 | 1000 | 6 | 3 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Provincial city | 1 | 250 | 6 | 3 | 0 | 2 | 0 | 250 | 1500 | 750 | 0 | 500 | 2750 |
-| Town | 0 | 15 | 6 | 3 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Village | 0 | 0 | 6 | 3 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Hamlet | 0 | 0 | 6 | 3 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| **Total** |  |  |  |  |  |  |  | 250 | 1500 | 750 | 0 | 500 | 2750 |
+| Capital city | 0 | 1000 | 10 | 3 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Provincial city | 1 | 250 | 10 | 3 | 0 | 2 | 0 | 250 | 2500 | 750 | 0 | 500 | 3750 |
+| Town | 0 | 15 | 10 | 3 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Village | 0 | 0 | 10 | 3 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Hamlet | 0 | 0 | 10 | 3 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| **Total** |  |  |  |  |  |  |  | 250 | 2500 | 750 | 0 | 500 | 3750 |
 
 ### Budget
 
 | Category | Expense |
 | --- | --- |
 | Staff | 0 |
-| Samurai | 2750 |
+| Samurai | 3750 |
 | Ashigaru | 0 |
 | Servants | 20 |
 | Supplies | 10 |
 | Tax Farming | 10000 |
-| Total | 12780 |
-| Remainder | 31861 |
+| Total | 13780 |
+| Remainder | 30861 |
 
 ### Tax Farming Cost by Tier
 
@@ -118,14 +118,14 @@ The Stipend column in the per-tier Samurai sub-tables shows the **average** annu
 
 ### Samurai
 
-| Place | N | P | Stipend | Food | Housing | Equipment | Other | Population | Payroll | Food (2) | Housing (2) | Equipment (2) | Total Cost |
+| Place | N | P | Stipend | Food | Housing | Equipment | Other | Population | Payroll | Total Food | Total Housing | Total Equipment | Total Cost |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Capital city | 0 | 1000 | 6 | 3 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Provincial city | 0 | 250 | 6 | 3 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Town | 1 | 15 | 6 | 3 | 0 | 2 | 0 | 15 | 90 | 45 | 0 | 30 | 165 |
-| Village | 6 | 0 | 6 | 3 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Hamlet | 36 | 0 | 6 | 3 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| **Total** |  |  |  |  |  |  |  | 15 | 90 | 45 | 0 | 30 | 165 |
+| Capital city | 0 | 1000 | 10 | 3 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Provincial city | 0 | 250 | 10 | 3 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Town | 1 | 15 | 10 | 3 | 0 | 2 | 0 | 15 | 150 | 45 | 0 | 30 | 225 |
+| Village | 6 | 0 | 10 | 3 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Hamlet | 36 | 0 | 10 | 3 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| **Total** |  |  |  |  |  |  |  | 15 | 150 | 45 | 0 | 30 | 225 |
 
 ### Skilled Ashigaru
 
@@ -154,27 +154,27 @@ The Stipend column in the per-tier Samurai sub-tables shows the **average** annu
 | Category | Expense |
 | --- | --- |
 | Staff | 0 |
-| Samurai | 165 |
+| Samurai | 225 |
 | Ashigaru | 190 |
 | Servants | 20 |
 | Supplies | 10 |
 | Tax Farming | 1000 |
-| Total | 1385 |
-| Remainder | 5018 |
+| Total | 1445 |
+| Remainder | 4958 |
 
 ## Capital City
 
-Total population: **12,000**.
+Total population: **~12,000**.
 
 | P | Caste | Population | Families | Property | Business | Land | Total Tax |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 20 | Servants | 2400 | 480 |  |  |  | 672 |
 | 0 | servants, tutors | 0 | 0 | 0 | 0 | 0 | 0 |
 | 0 | servants, temple | 0 | 0 | 0 | 0 | 0 | 0 |
-| 2 | servants, wealthy samurai families | 240 | 48 | 2 | 0 | 0 | 96 |
-| 6 | servants, wealthy merchant families | 720 | 144 | 2 | 0 | 0 | 288 |
-| 6 | servants, non-wealthy samurai families | 720 | 144 | 1 | 0 | 0 | 144 |
-| 4 | servants, non-wealthy merchant families | 480 | 96 | 1 | 0 | 0 | 96 |
+| 5 | servants, wealthy samurai families | 600 | 120 | 2 | 0 | 0 | 240 |
+| 3 | servants, wealthy merchant families | 360 | 72 | 2 | 0 | 0 | 144 |
+| 7 | servants, non-wealthy samurai families | 840 | 168 | 1 | 0 | 0 | 168 |
+| 3 | servants, non-wealthy merchant families | 360 | 72 | 1 | 0 | 0 | 72 |
 | 2 | servants, miscellaneous | 240 | 48 | 1 | 0 | 0 | 48 |
 | 40 | Laborers | 4800 | 960 |  |  |  | 5760 |
 | 5 | laborers, master (rich) | 600 | 120 | 10 | 25 | 0 | 4200 |
@@ -205,17 +205,17 @@ Total population: **12,000**.
 
 ## Provincial City
 
-Total population: **3,000**.
+Total population: **~2,000-4,000, average ~3,000**.
 
 | P | Caste | Population | Families | Property | Business | Land | Total Tax |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 20 | Servants | 600 | 120 |  |  |  | 168 |
 | 0 | servants, tutors | 0 | 0 | 0 | 0 | 0 | 0 |
 | 0 | servants, temple | 0 | 0 | 0 | 0 | 0 | 0 |
-| 2 | servants, wealthy samurai families | 60 | 12 | 2 | 0 | 0 | 24 |
-| 6 | servants, wealthy merchant families | 180 | 36 | 2 | 0 | 0 | 72 |
-| 6 | Indentured servants, non-wealthy samurai families | 180 | 36 | 1 | 0 | 0 | 36 |
-| 4 | Indentured servants, non-wealthy merchant families | 120 | 24 | 1 | 0 | 0 | 24 |
+| 5 | servants, wealthy samurai families | 150 | 30 | 2 | 0 | 0 | 60 |
+| 3 | servants, wealthy merchant families | 90 | 18 | 2 | 0 | 0 | 36 |
+| 7 | Indentured servants, non-wealthy samurai families | 210 | 42 | 1 | 0 | 0 | 42 |
+| 3 | Indentured servants, non-wealthy merchant families | 90 | 18 | 1 | 0 | 0 | 18 |
 | 2 | servants, miscellaneous | 60 | 12 | 1 | 0 | 0 | 12 |
 | 40 | Laborers | 1200 | 240 |  |  |  | 1440 |
 | 5 | laborers, master (rich) | 150 | 30 | 10 | 25 | 0 | 1050 |
@@ -246,17 +246,17 @@ Total population: **3,000**.
 
 ## Town
 
-Total population: **1,200**.
+Total population: **~900-1,500, average ~1,200**.
 
 | P | Caste | Population | Families | Property | Business | Land | Total Tax |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 5.5 | Servants | 66 | 13.2 |  |  |  | 18 |
 | 0 | servants, tutors | 0 | 0 | 0 | 0 | 0 | 0 |
 | 0 | servants, temple | 0 | 0 | 0 | 0 | 0 | 0 |
-| 1 | servants, wealthy samurai families | 12 | 2.4 | 2 | 0 | 0 | 4.8 |
-| 1 | servants, wealthy merchant families | 12 | 2.4 | 2 | 0 | 0 | 4.8 |
-| 0 | Indentured servants, non-wealthy samurai families | 0 | 0 | 1 | 0 | 0 | 0 |
-| 1.5 | Indentured servants, non-wealthy merchant families | 18 | 3.6 | 1 | 0 | 0 | 3.6 |
+| 1.5 | servants, wealthy samurai families | 18 | 3.6 | 2 | 0 | 0 | 7.2 |
+| 0.5 | servants, wealthy merchant families | 6 | 1.2 | 2 | 0 | 0 | 2.4 |
+| 0.5 | Indentured servants, non-wealthy samurai families | 6 | 1.2 | 1 | 0 | 0 | 1.2 |
+| 1 | Indentured servants, non-wealthy merchant families | 12 | 2.4 | 1 | 0 | 0 | 2.4 |
 | 2 | servants, miscellaneous | 24 | 4.8 | 1 | 0 | 0 | 4.8 |
 | 12 | Laborers | 144 | 28.8 |  |  |  | 86.4 |
 | 1 | laborers, master (rich) | 12 | 2.4 | 5 | 20 | 0 | 60 |
@@ -288,7 +288,7 @@ Total population: **1,200**.
 
 ## Village
 
-Total in-village population: **350**.
+Total in-village population: **~200-500, average ~350**.
 
 | P | Caste | Population | Families | Property | Business | Land | Total Tax |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -329,7 +329,7 @@ Total in-village population: **350**.
 
 ## Hamlet
 
-Total population: **75**.
+Total population: **~50-100, average ~75**.
 
 | P | Caste | Population | Families | Property | Business | Land | Total Tax |
 | --- | --- | --- | --- | --- | --- | --- | --- |

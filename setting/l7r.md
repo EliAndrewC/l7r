@@ -583,9 +583,10 @@ The median town (remember that a "county" is the town and its surrounding villag
 
 | % | Category |
 | --- | --- |
-| ~1% | servants, working for wealthy samurai families |
-| ~1% | servants, working for wealthy merchant families |
-| ~1.5% | Indentured servants, working for non-wealthy merchant families |
+| ~1.5% | servants, working for wealthy samurai families |
+| ~0.5% | servants, working for wealthy merchant families |
+| ~0.5% | Indentured servants, working for non-wealthy samurai families |
+| ~1% | Indentured servants, working for non-wealthy merchant families |
 | ~2% | servants, miscellaneous |
 | ~1% | laborers, master (rich) |
 | ~1% | laborers, poor |
@@ -609,10 +610,10 @@ The median provincial city (i.e. the city central to a province, surrounded by c
 
 | % | Category |
 | --- | --- |
-| ~2% | servants, working for wealthy samurai families |
-| ~6% | servants, working for wealthy merchant families |
-| ~6% | Indentured servants, working for non-wealthy samurai families |
-| ~4% | Indentured servants, working for non-wealthy merchant families |
+| ~5% | servants, working for wealthy samurai families |
+| ~3% | servants, working for wealthy merchant families |
+| ~7% | Indentured servants, working for non-wealthy samurai families |
+| ~3% | Indentured servants, working for non-wealthy merchant families |
 | ~2% | servants, miscellaneous |
 | ~5% | laborers, master (rich) |
 | ~5% | laborers, poor |
@@ -634,10 +635,10 @@ The median domain capital city:
 
 | % | Category |
 | --- | --- |
-| ~2% | servants, wealthy samurai families |
-| ~6% | servants, wealthy merchant families |
-| ~6% | servants, non-wealthy samurai families |
-| ~4% | servants, non-wealthy merchant families |
+| ~5% | servants, wealthy samurai families |
+| ~3% | servants, wealthy merchant families |
+| ~7% | servants, non-wealthy samurai families |
+| ~3% | servants, non-wealthy merchant families |
 | ~2% | servants, miscellaneous |
 | ~5% | laborers, master (rich) |
 | ~5% | laborers, poor |
