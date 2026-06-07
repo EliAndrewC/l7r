@@ -18,7 +18,15 @@ The samurai populations in the per-tier sub-tables (~1,000 in the capital, ~250 
 
 ## Samurai Stipend Convention
 
-The Stipend column in the per-tier Samurai sub-tables shows the **average** annual stipend per working samurai, currently set at **~10 koku/year**.  Individual stipends follow the rank-squared rule (`stipend = rank^2`, per [`l7r.md` - Accordances of Rank](l7r.md#accordances-of-rank)): a Rank 1 bushi receives 1 koku, a Rank 5 county magistrate receives 25 koku, a Rank 8 clerk receives 64 koku, a Rank 10 minister would nominally receive 100 koku.  The ~10-koku average reflects a population whose median is approximately Rank 3.  In a county town's 15 useful samurai, for example, you typically find: 1 county magistrate (Rank 5, 25 koku), the magistrate's karo and ~3 squad sergeants (Rank 4, 16 koku each), ~3 squad corporals (Rank 3, 9 koku each), and the remainder mostly Rank 2-3 bushi.  Cities follow a similar mid-rank pattern with a long high-rank tail (governors, ministers, the daimyo at Rank 12 / 144 koku) balanced against larger low-rank bushi populations staffing palace guards and household retinues.  Earlier versions of these tables used 2.5 koku/year (under the older linear-rank rule, where stipend equals rank), then 6 koku/year (an initial conservative estimate of the rank-squared average); the current 10-koku figure reflects a more careful walk through the per-tier rank composition.
+The Stipend column in the per-tier Samurai sub-tables shows the mean **average** annual stipend per working samurai at each tier.  Individual stipends follow the rank-squared rule (`stipend = rank^2`, per [`l7r.md` - Accordances of Rank](l7r.md#accordances-of-rank)): a Rank 1 bushi receives 1 koku, a Rank 5 county magistrate receives 25 koku, a Rank 10 minister 100 koku, a Rank 12 daimyo 144 koku.
+
+The average varies by tier because the rank distribution does:
+
+- **County town samurai**: ~10 koku average (avg rank ~3).  A typical county town's 15 samurai include 1 magistrate (Rank 5, 25 koku), the magistrate's karo and ~3 squad sergeants (Rank 4, 16 koku each), ~3 squad corporals (Rank 3, 9 koku each), and the remainder mostly Rank 2-3 bushi.
+- **Provincial city samurai**: ~15 koku average (avg rank ~3-4).  Provincial cities house the provincial governor (Rank 8), six provincial ministers (Rank 7) and their deputies (Rank 6), mid-rank clerks (Rank 3-5), and rank-and-file bushi assigned to provincial administrative and military duties.
+- **Capital city samurai**: ~35 koku average (avg rank ~5-6).  The capital is staffed with the senior cohort - the daimyo (Rank 12), councilors (Rank 11), domain ministers (Rank 10) and their deputies (Rank 9), high-rank clerks (Rank 7-8), castle guards and household retainers from the daimyo's elite retinue, and junior officials in training for higher posts.  Low-rank samurai compose a lower proportion of retainers in the capital than in the provinces.
+
+**Stipends are paid by whoever holds the relevant tax-farming cut at the tier where the samurai serves**: the median daimyo's ~100,000-koku cut covers capital stipends; each provincial governor's (on average) ~10,000-koku cut covers his province; each county magistrate's (on average) ~1,000-koku cut covers his county.  Cross-tier flow does not happen for stipends as it does for gifts and lineage finances - a provincial samurai is paid by his governor regardless of which lineage the samurai or governor belongs to (see [`l7r.md` - Samurai Lineages](l7r.md#samurai-lineages) for the discussion of how lineage politics and fiscal flow interact).
 
 ## Domain
 
@@ -35,32 +43,32 @@ The Stipend column in the per-tier Samurai sub-tables shows the **average** annu
 
 | Place | N | P | Stipend | Food | Housing | Equipment | Other | Population | Payroll | Total Food | Total Housing | Total Equipment | Total Cost |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Capital city | 1 | 1000 | 10 | 3 | 0 | 2 | 0 | 1000 | 10000 | 3000 | 0 | 2000 | 15000 |
-| Provincial city | 0 | 250 | 10 | 3 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Capital city | 1 | 1000 | 35 | 3 | 0 | 2 | 0 | 1000 | 35000 | 3000 | 0 | 2000 | 40000 |
+| Provincial city | 0 | 250 | 15 | 3 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | Town | 0 | 0 | 10 | 3 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | Village | 0 | 0 | 10 | 3 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | Hamlet | 0 | 0 | 10 | 3 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| **Total** |  |  |  |  |  |  |  | 1000 | 10000 | 3000 | 0 | 2000 | 15000 |
+| **Total** |  |  |  |  |  |  |  | 1000 | 35000 | 3000 | 0 | 2000 | 40000 |
 
 ### Budget
 
 | Category | Expense |
 | --- | --- |
 | Staff | 1000 |
-| Samurai | 15000 |
+| Samurai | 40000 |
 | Ashigaru | 0 |
 | Servants | 240 |
 | Supplies | 120 |
-| **Total** | 16360 |
+| **Total** | 41360 |
 
 ### Combined Budgets
 
 | Place | N | Cost | Tax Farming | Total Cost |
 | --- | --- | --- | --- | --- |
-| Domain | 1 | 16360 | 100000 | 116360 |
-| Province | 6 | 3780 | 10000 | 82680 |
+| Domain | 1 | 41360 | 100000 | 141360 |
+| Province | 6 | 5030 | 10000 | 90180 |
 | County | 36 | 445 | 1000 | 52020 |
-| **Total** |  |  |  | 251060 |
+| **Total** |  |  |  | 283560 |
 
 ## Province
 
@@ -77,25 +85,25 @@ The Stipend column in the per-tier Samurai sub-tables shows the **average** annu
 
 | Place | N | P | Stipend | Food | Housing | Equipment | Other | Population | Payroll | Total Food | Total Housing | Total Equipment | Total Cost |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Capital city | 0 | 1000 | 10 | 3 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Provincial city | 1 | 250 | 10 | 3 | 0 | 2 | 0 | 250 | 2500 | 750 | 0 | 500 | 3750 |
+| Capital city | 0 | 1000 | 35 | 3 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Provincial city | 1 | 250 | 15 | 3 | 0 | 2 | 0 | 250 | 3750 | 750 | 0 | 500 | 5000 |
 | Town | 0 | 15 | 10 | 3 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | Village | 0 | 0 | 10 | 3 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | Hamlet | 0 | 0 | 10 | 3 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| **Total** |  |  |  |  |  |  |  | 250 | 2500 | 750 | 0 | 500 | 3750 |
+| **Total** |  |  |  |  |  |  |  | 250 | 3750 | 750 | 0 | 500 | 5000 |
 
 ### Budget
 
 | Category | Expense |
 | --- | --- |
 | Staff | 0 |
-| Samurai | 3750 |
+| Samurai | 5000 |
 | Ashigaru | 0 |
 | Servants | 20 |
 | Supplies | 10 |
 | Tax Farming | 10000 |
-| Total | 13780 |
-| Remainder | 30861 |
+| Total | 15030 |
+| Remainder | 29611 |
 
 ### Tax Farming Cost by Tier
 
@@ -120,8 +128,8 @@ The Stipend column in the per-tier Samurai sub-tables shows the **average** annu
 
 | Place | N | P | Stipend | Food | Housing | Equipment | Other | Population | Payroll | Total Food | Total Housing | Total Equipment | Total Cost |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Capital city | 0 | 1000 | 10 | 3 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Provincial city | 0 | 250 | 10 | 3 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Capital city | 0 | 1000 | 35 | 3 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Provincial city | 0 | 250 | 15 | 3 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | Town | 1 | 15 | 10 | 3 | 0 | 2 | 0 | 15 | 150 | 45 | 0 | 30 | 225 |
 | Village | 6 | 0 | 10 | 3 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | Hamlet | 36 | 0 | 10 | 3 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
