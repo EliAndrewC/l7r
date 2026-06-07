@@ -125,9 +125,11 @@ The "L7R" setting is a version of Rokugan based on how the setting is portrayed 
 
 L7R Rokugan is a "low fantasy" setting whose core conceit is **the kind of world that real historical people believed themselves to be living in**.  Magic and gods and other supernatural things exist, but encountering them is rare.  However, because they exist, people are justifiably superstitious, since it's difficult to tell which of your prayers and practices are helpful and which produce no effect.  Thus, rather than focus on the supernatural, this document begins by discussing the physical, material reality of Rokugan and how it's organized.
 
-Rokugan is basically "Japanese samurai culture with Chinese geography".  Of course, "samurai culture" is reductive because e.g. Heian-period Japan was significantly different than Edo-period Japan.  Similarly, saying "Chinese geography" isn't quite right, since Rokugan's geography doesn't look very much like China, but the phrase does convey that Rokugan is not an island surrounded on all sides by water and that it is instead a continental land mass with an eastern ocean and a population comparable to Imperial China.
+Rokugan is basically "Japanese samurai culture with Chinese geography".  Of course, "samurai culture" is reductive because it spans a thousand years and many forms of government.  Similarly, saying "Chinese geography" isn't quite right, since Rokugan's geography doesn't look very much like China, but the phrase does convey that Rokugan is not an island surrounded on all sides by water and that it is instead a continental land mass with an eastern ocean and a population comparable to Imperial China.
 
-Rokugan is about 1500 miles top-to-bottom and about 1000 miles across, which totals about 1,500,000 square miles.  It has a total population of about 100,000,000 humans divided into approximately 350 domains.  Samurai are about 2% of the total population, which is about 2 million people.
+Thus, "samurai culture on a Chinese scale" accurately summarizes Rokugan as a fantasy mix of different influences.  The samurai influences include (both in this document and 1st edition canon L5R) Heian-period courts, Sengoku-period samurai/peasant demographics, and Tokugawa-period feudalism.  The geography is canonically China-sized, so this document adds a Han-dynasty provincial administration, Sui-dynasty government ministries, and Tang-dynasty uniformity of local government size and structure with Song-dynasty market towns.  This maintains the L5R source material's depiction of the relative size and power of the setting's samurai clans and families.
+
+Specifically: Rokugan is about 1500 miles top-to-bottom and about 1000 miles across, which totals about 1,500,000 square miles.  It has a total population of about 100,000,000 humans divided into currently 284 domains.  Samurai are about 2% of the total population, which is about 2 million people.
 
 ### Hierarchies
 
@@ -149,7 +151,7 @@ Each village district usually has a number of small outlying farming communities
 
 The median domain is around 3,750 square miles of land, which would be a little over 70 miles across if the domain were circular - no domain is actually shaped this way, but "70 miles across" is a good first approximation of the size of the median domain.
 
-Note that this describes the "median" domain rather than the "average" (mean) domain, since a small percentage of domains are extremely large - this is the reason why Rokugan has approximately 350 domains rather than 400, which is the number you would get if you divided the total population by the population of the median domain.  Most of the time, the larger domains tend to be the ruling domains of a great Family and/or Clan, e.g. the Mirumoto domain is the largest in Dragon lands and is several times the size of the median domain, much larger than the domains of other Mirumoto vassal houses.
+Note that this describes the "median" domain rather than the "average" (mean) domain, since a small percentage of domains are extremely large - this is the reason why Rokugan has (currently) 284 domains rather than 400, which would be result of dividing the total population by the population of the median domain.  Most of the time, the larger domains tend to be the ruling domains of a great Family and/or Clan, e.g. the Mirumoto domain is the largest in Dragon lands and is several times the size of the median domain, much larger than the domains of other Mirumoto vassal houses.  Larger families also have Karo Domains which are similarly sized which are similar to the ruling domain in size, but most other domains are relatively close to the median (which is strongly encouraged by the Emperor to maintain the balance of power).
 
 The median domain has around 250,000 total human population, with approximately 5,000 samurai (given that samurai are approximately 2% of the population).
 
@@ -236,27 +238,23 @@ For comparative scale: early Ming China had approximately 40 million hectares of
 
 Applying these yields to Rokugan's 1.5 million square miles:
 
-- **15% of Rokugan is arable**: approximately 560 square miles per domain, or 225,000 square miles total.
-- **4% is suitable for rice farming**: approximately 152 square miles per domain, or 60,000 square miles total.
+- **15% of Rokugan is arable**: approximately 225,000 square miles total, or ~560 square miles per median-sized domain.
+- **4% is suitable for rice farming**: approximately 60,000 square miles total, or ~152 square miles per median-sized domain.
 
 #### Total Rice Production
 
-At an assumed density of 400 farmers per square mile:
+At an assumed density of 400 farmers per square mile across Rokugan's ~60,000 sq mi of rice land:
 
 ```
-400 farmers/sq mi * ~152 sq mi/domain = ~60,800 rice farmers per domain
-                                      * 400 domains
-                                      = 24,320,000 rice farmers in Rokugan
+400 farmers/sq mi * 60,000 sq mi = ~24,000,000 rice farmers in Rokugan
 ```
 
 Annual rice production at 3,000 koku per square mile:
 
 ```
-3,000 koku/sq mi * ~152 sq mi/domain = ~456,000 koku of rice per year per domain
-                                     * 400 domains
-                                     = 182,400,000 koku of rice
-                                     * 1/3 (rice harvest years, cycled with soybeans and millet/barley)
-                                     = 60,800,000 koku of rice per year
+3,000 koku/sq mi * 60,000 sq mi = 180,000,000 koku of rice (gross harvest)
+                                * 1/3 (rice harvest years, cycled with soybeans and millet/barley)
+                                = 60,000,000 koku of rice per year
 ```
 
 Note that the 400 farmers/sq mi density is the upper bound, achievable in the best wet-rice paddies; the per-tier population breakdowns elsewhere in this document imply an effective average closer to 300 farmers/sq mi when rice and non-rice land are combined.  This reflects an important historical truth: in most periods and places, farm output was more limited by the number of farmers than the amount of good farmland, and even the prosperous Rokugan (where farming is a punishingly harsh lifestyle by modern standards while being idyllic compared to most historical periods) has large amounts of fallow land in every domain.
@@ -509,13 +507,78 @@ In addition to the above numbers, here are the numbers for Imperials and also th
 | Category | Total Population | Family Populations |
 | --- | --- | --- |
 | Imperial | 75 | 45 Seppun, 15 Hantei, 10 Otomo, 5 Miya |
-| Minor Clans | 30 | 30 Mantis, 15 Dragonfly, 5 Fox/Wasp/Sparrow (the "Three-Man Alliance") |
+| Minor Clans | 50 | 30 Mantis, 10 Dragonfly, 3 Fox, 2 Sparrow, 2 Wasp, 2 Tortoise, 1 Hare |
 
 Some things to note about these numbers:
 - the Hantei family is relatively small despite containing the Emperor himself, and members of the Hantei family usually marry into other families.
 - there are a number of minor clans not listed because they are so small, e.g. the Hare clan has fewer than a thousand samurai
 
-Remember that most families are further divided into Houses, each ruled by a local daimyo.  Some smaller families (such as the Yogo) do not have any vassal houses, whereas larger families (such as the Matsu) have dozens of vassal houses.
+The larger Families are further divided into Houses, each ruled by a local daimyo.  The number of distinct domains (i.e. daimyo-headed holdings, corresponding roughly to Houses) per Family follows from a simple rule:
+
+- **Smaller Families** are administered as a single undivided domain headed directly by the Family's daimyo.  These are too small to threaten the larger powers, so the Imperial standardization principle (originally Tang Chinese, requiring administrative units small enough that no locality could rival the throne) does not compel further subdivision.  Within their domain they still use the standard province/county grid; one daimyo simply administers their holdings through that grid.
+- **Larger Families** have a ruling daimyo's personal domain roughly 3-5 times the size of the median 250,000-population domain, from which they rule over their vassal domains.
+- **The largest Families** (basically the ones with at least 100,000 samurai) additionally have one or more "Karo Houses" among their vassal domains comparable in size to the ruling daimyo's, headed by senior vassal daimyo with specialized military or administrative duties.  Examples: the Akito of the Hida (General of the Northern Armies of the Crab), the Tsume of the Doji, the Damasu of the Akodo.  The Matsu, being roughly twice the size of the next-largest Family, have several such Karo Houses among their vassal domains.
+
+| Clan | Family | Samurai (thousands) | Population (millions) | Domains |
+| --- | --- | --- | --- | --- |
+| Lion | Matsu | 275 | 13.75 | 43 |
+| Lion | Akodo | 150 | 7.5 | 24 |
+| Lion | Ikoma | 50 | 2.5 | 7 |
+| Lion | Kitsu | 25 | 1.25 | 1 |
+| **Lion subtotal** |  | **500** | **25** | **75** |
+| Crab | Hida | 175 | 8.75 | 29 |
+| Crab | Yasuki | 75 | 3.75 | 12 |
+| Crab | Kaiu | 25 | 1.25 | 1 |
+| Crab | Kuni | 15 | 0.75 | 1 |
+| Crab | Hiruma | 10 | 0.5 | 1 |
+| **Crab subtotal** |  | **300** | **15** | **44** |
+| Crane | Doji | 100 | 5 | 14 |
+| Crane | Daidoji | 90 | 4.5 | 15 |
+| Crane | Kakita | 75 | 3.75 | 12 |
+| Crane | Asahina | 10 | 0.5 | 1 |
+| **Crane subtotal** |  | **275** | **13.75** | **42** |
+| Scorpion | Bayushi | 125 | 6.25 | 19 |
+| Scorpion | Shosuro | 80 | 4 | 13 |
+| Scorpion | Soshi | 15 | 0.75 | 1 |
+| Scorpion | Yogo | 5 | 0.25 | 1 |
+| **Scorpion subtotal** |  | **225** | **11.25** | **34** |
+| Unicorn | Shinjo | 75 | 3.75 | 12 |
+| Unicorn | Otaku | 75 | 3.75 | 12 |
+| Unicorn | Moto | 40 | 2 | 1 |
+| Unicorn | Ide | 20 | 1 | 1 |
+| Unicorn | Iuchi | 15 | 0.75 | 1 |
+| **Unicorn subtotal** |  | **225** | **11.25** | **27** |
+| Dragon | Mirumoto | 125 | 6.25 | 19 |
+| Dragon | Togashi | 20 | 1 | 1 |
+| Dragon | Agasha | 15 | 0.75 | 1 |
+| Dragon | Kitsuki | 15 | 0.75 | 1 |
+| **Dragon subtotal** |  | **175** | **8.75** | **22** |
+| Phoenix | Shiba | 100 | 5 | 14 |
+| Phoenix | Isawa | 60 | 3 | 9 |
+| Phoenix | Asako | 15 | 0.75 | 1 |
+| **Phoenix subtotal** |  | **175** | **8.75** | **24** |
+| Imperial | Seppun | 45 | 2.25 | 6 |
+| Imperial | Hantei | 15 | 0.75 | 1 |
+| Imperial | Otomo | 10 | 0.5 | 1 |
+| Imperial | Miya | 5 | 0.25 | 1 |
+| **Imperial subtotal** |  | **75** | **3.75** | **9** |
+| Mantis | Mantis | 30 | 1.5 | 1 |
+| Dragonfly | Dragonfly | 10 | 0.5 | 1 |
+| Fox | Fox | 3 | 0.15 | 1 |
+| Sparrow | Sparrow | 2 | 0.1 | 1 |
+| Wasp | Wasp | 2 | 0.1 | 1 |
+| Tortoise | Tortoise | 2 | 0.1 | 1 |
+| Hare | Hare | 1 | 0.05 | 1 |
+| **Minor Clans subtotal** |  | **50** | **2.5** | **7** |
+| **Empire total** |  | **~2,000** | **~100** | **~284** |
+
+Empire-wide, this distribution implies approximately:
+
+- ~284 daimyo (one per domain)
+- ~2,500 provincial governors (one per province)
+- ~15,000 county magistrates (one per county)
+
+The provincial-governor and county-magistrate totals are determined by per-capita administrative density (~1 county per 6,800 people, ~1 province per 41,000 people) rather than by the domain count itself.  Larger domains have proportionally more provinces and counties, so the empire-wide totals at those tiers are essentially constant regardless of how the domain count is tuned.
 
 ### Experience Levels
 
@@ -3008,7 +3071,7 @@ Of course, this is not necessarily a bad thing, and although Yokijiro has sought
 
 ### **Kasai Tsume** (Fire Claw)
 
-This is the ancestral sword of the Tsume.  While every daimyo in the Empire has an ancestral sword of their house, there are around 350 domains, and not all of them have an impressive enough sword for anyone outside of their domain to have any regard for it, making most ancestral swords "locally famous" rather than actually famous.
+This is the ancestral sword of the Tsume.  While every daimyo in the Empire has an ancestral sword of their house, there are currently 284 domains, and not all of them have an impressive enough sword for anyone outside of their domain to have any regard for it, making most ancestral swords "locally famous" rather than actually famous.
 
 Kasai Tsume is **actually** famous, with a well-earned reputation.  It was used by Doji Tsume to conquer the castle that eventually grew into Kyuden Tsume.  Doji Tsume later made a pilgrimage to Morning Glory Castle, where the visiting Master of Fire advised him to climb to the peak of Asako Mountain and pray for heaven's strength.
 
@@ -4311,7 +4374,7 @@ Notably, a bloodspeaker can no longer conceal the taint in their body after they
 
 Remember: all bloodspeakers are tsukai, but not all tsukai are bloodspeakers.  (In other words, there are some tsukai out in the countryside who cannot conceal their taint, and if they ever draw attention to themselves they will be easily found out.)
 
-The Office of the Jade Champion is in charge of the Kuni Witch Hunters, who are responsible for hunting tsukai.  There are about 200 Witch Hunters in the Empire, so while smaller domains don't have a Witch Hunter, most domains do.  (There are around 350 domains total.)
+The Office of the Jade Champion is in charge of the Kuni Witch Hunters, who are responsible for hunting tsukai.  There are about 200 Witch Hunters in the Empire, so while smaller domains don't have a Witch Hunter, most domains do.  (There are currently 284 domains total.)
 
 There are many different types of maho, because maho is not really a single practice - the textbook list of the 7 maho disciplines for Witch hunters and other authorities to watch out for are:
 
@@ -4551,7 +4614,7 @@ It's unclear exactly how Iuchiban's soul was freed from the Forgotten Tomb, but 
 
 Because the Forgotten Tomb could no longer be relied upon to contain Iuchiban's soul, the Kaiu family constructed a new Tomb of Iuchiban.  Its exact location is unknown, and it may be at the south end of the Twilight Mountains, or hidden somewhere in the Kuni Wastelands, or deep in the Shinomen Forest.  Kaiu Gineza was the chief architect of this new tomb, and upon its completion he sealed himself inside, both to complete its unbreakable wardings and to prevent any possibility that his knowledge of its defenses could ever be used to break Iuchiban free.  To this day Iuchiban has not escaped again, nor is any bloodspeaker currently alive believed capable of accomplishing such a feat.
 
-After the return of Iuchiban, some of the institutional powers stripped from Witch Hunters after the reign of the Steel Chrysanthemum were restored, though still nowhere near the point they were at their peak.  There are currently only about 200 Witch Hunters stationed throughout the Empire, which has around 350 domains.  Even a post as prestigious as the 1st Imperial Legion wouldn't have an assigned Witch Hunter if not for the historical reasons for the Empire to be concerned about possible khadi influence on Chai Sedo.
+After the return of Iuchiban, some of the institutional powers stripped from Witch Hunters after the reign of the Steel Chrysanthemum were restored, though still nowhere near the point they were at their peak.  There are currently only about 200 Witch Hunters stationed throughout the Empire, which currently has 284 domains.  Even a post as prestigious as the 1st Imperial Legion wouldn't have an assigned Witch Hunter if not for the historical reasons for the Empire to be concerned about possible khadi influence on Chai Sedo.
 
 One intent in the above is to use the kinds of words and phrasings that people within the society would use.  For example, look at how Hantei the 16th is described.  Consider the sentence:
 
