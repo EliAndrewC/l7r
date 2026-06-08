@@ -611,6 +611,8 @@ These are the farming households living inside each settlement type (per the cas
 
 Divided evenly: rice ~3.02 acres/family, non-rice ~6.04 acres/family. Yield: rice 15.02 koku/family at a rate of 4.97 koku/acre; non-rice 18.12 koku/family at 3.00 koku/acre.
 
+**Note on labor utilization vs. land utilization**: The 95% use rate above describes short-cycle fallow within actively-cropped land - the rice and non-rice arable shown is in normal year-round productive use.  The empire-wide framing in [l7r.md - Total Rice Production](l7r.md#total-rice-production) treats Rokugan as currently labor-limited: only about 1/3 of total rice-suitable terrain is in active wet-paddy production in any given year, with the remainder split between hillside soybean and azuki fields supporting the paddies, upland rice in multi-year rotation, dryland aftercrops, and labor-fallow land waiting for population to catch up.  The per-domain figures here can be read as describing the actively-worked portion of a domain's rice arable; the latent rice-suitable land that would come under the plow if labor caught up is roughly 2-3x larger.  This is consistent with the canonical empire-wide figure of ~60M koku of rice per year (versus a theoretical maximum closer to 160-180M).
+
 ### Rice Productivity by Land Quality
 
 | Land | k/ha | k/mi² | P (share) | Proportional production | k/acre |

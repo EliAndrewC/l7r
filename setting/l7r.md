@@ -240,7 +240,7 @@ For comparative scale: early Ming China had approximately 40 million hectares of
 Applying these yields to Rokugan's 1.5 million square miles:
 
 - **15% of Rokugan is arable**: approximately 225,000 square miles total, or ~560 square miles per median-sized domain.
-- **4% is suitable for rice farming**: approximately 60,000 square miles total, or ~152 square miles per median-sized domain.
+- **4% is suitable for rice farming**: approximately 60,000 square miles total, or ~152 square miles per median-sized domain.  This 4% figure follows imperial Chinese norms (historically ~3-5% of total area, depending on period); Tokugawa Japan's higher ~6% paddy share is not the right anchor for Rokugan, whose continental geography includes mountain ranges, arid borderlands, and frontier regions without close Japanese analogues.
 
 #### Total Rice Production
 
@@ -253,12 +253,14 @@ At an assumed density of 400 farmers per square mile across Rokugan's ~60,000 sq
 Annual rice production at 3,000 koku per square mile:
 
 ```
-3,000 koku/sq mi * 60,000 sq mi = 180,000,000 koku of rice (gross harvest)
-                                * 1/3 (rice harvest years, cycled with soybeans and millet/barley)
+3,000 koku/sq mi * 60,000 sq mi = 180,000,000 koku of rice (theoretical maximum at full utilization)
+                                * 1/3 (paddy utilization factor, see below)
                                 = 60,000,000 koku of rice per year
 ```
 
-Note that the 400 farmers/sq mi density is the upper bound, achievable in the best wet-rice paddies; the per-tier population breakdowns elsewhere in this document imply an effective average closer to 300 farmers/sq mi when rice and non-rice land are combined.  This reflects an important historical truth: in most periods and places, farm output was more limited by the number of farmers than the amount of good farmland, and even the prosperous Rokugan (where farming is a punishingly harsh lifestyle by modern standards while being idyllic compared to most historical periods) has large amounts of fallow land in every domain.
+The 1/3 paddy utilization factor reflects the historical reality that wet-rice paddies, once established, can be cropped continuously for centuries without depleting the soil - the flooded paddy fixes atmospheric nitrogen via cyanobacteria, and silt from irrigation water carries in additional nutrients.  The constraint is therefore not soil exhaustion but labor.  Of Rokugan's ~60,000 sq mi of rice-suitable terrain (~152 sq mi per median-sized domain), only about 1/3 (~20,000 sq mi empire-wide, ~50 sq mi per median-sized domain) is actively flooded wet paddy in any given year.  The rest splits roughly into hillside fields growing the soybeans and azuki beans whose runoff and household fertilizer cycling renew the paddies; dryland fields for aftercrops and other Five Grains; a small share given over to upland rice (which does require a multi-year rotation cycle, as the Sparrow Clan's well-documented misfortune demonstrates); and a substantial portion left genuinely fallow because there are not enough farmers to work it.
+
+Note that the 400 farmers/sq mi density is the upper bound, achievable in the best wet-rice paddies; the per-tier population breakdowns elsewhere in this document imply an effective average closer to 300 farmers/sq mi when rice and non-rice land are combined.  This reflects an important historical truth: in most periods and places, farm output was more limited by the number of farmers than the amount of good farmland, and even the prosperous Rokugan (where farming is a punishingly harsh lifestyle by modern standards while being idyllic compared to most historical periods) has large amounts of fallow land in every domain.  In comparative terms, Rokugan's rice-land-per-capita (~600 sq mi per million inhabitants) puts it in roughly the same range as Song and Ming China during their more prosperous and comfortable periods, well below the demographic squeeze of Tokugawa Japan (~310 sq mi per million) or late Qing China (~290-350 sq mi per million).  The Empire has substantial room for population growth into its existing arable base, and the long-run trajectory has been steady expansion: Rokugan a thousand years ago supported only a fraction of its current population, and even allowing for periodic famines and Shadowlands wars, the population continues to grow toward a carrying capacity it is still well short of.
 
 #### Other Per-Domain Derivations
 
