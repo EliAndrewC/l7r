@@ -197,30 +197,38 @@ A few units used in the conversion math:
 
 #### Yield Reference
 
-Real-world rice yields in twentieth-century Hunan China were 284.40 jin/mu and 4.00 shi/mu.  Two independent unit-conversion paths produce a koku-per-square-mile figure consistent with that yield.
+Real-world rice yields in twentieth-century Hunan China were 284.40 jin/mu and 4.00 shi/mu.  Two independent unit-conversion paths produce a koku-per-square-mile figure consistent with that yield, after applying the deflation factors appropriate to each path's starting figure.
 
-Path A (jin-based):
+Path A (jin-based, deflated for milling loss):
 
 ```
-284.4 jin/mu * 15 mu/hectare
+284.4 jin/mu (early-20th-century Hunan, ~2.1 tons/hectare)
+             * 15 mu/hectare
              * 258.998811 hectares/square_mile
              * 1.33 pounds/jin
              * 2.5 cups/pound
              * 0.0625 gallons/cup
              * 0.025 koku/gallon
-             = 3,616 koku per square mile
+             = ~5,740 koku per square mile (raw harvested rice)
+             * ~0.63 milling factor (rough harvested rice to consumable polished rice, ~37% mass loss)
+             = ~3,616 koku per square mile of consumable rice
 ```
 
-Path B (ton-based):
+Path B (ton-based, deflated for premodern productivity):
 
 ```
-4 tons/hectare * 2204.62262 pounds/ton
-               * 0.003314280067510029 koku/pound
-               * 258.998811 hectares/square_mile
-               = 3,000 koku per square mile
+4 tons/hectare (modern post-Green-Revolution Hunan yield)
+              * 2204.62262 pounds/ton
+              * 0.003314280067510029 koku/pound
+              * 258.998811 hectares/square_mile
+              = ~7,569 koku per square mile (modern productivity)
+              * ~0.40 premodern productivity deflator (4 t/ha modern -> ~1.6 t/ha empire-wide premodern average)
+              = ~3,000 koku per square mile under premodern conditions
 ```
 
-The two methods give roughly the same answer (~3,000 to 3,600 koku per square mile), and downstream calculations use the round-number version of 3,000.
+The two paths apply different implicit deflators because their starting points are different.  Path A's 284.4 jin/mu is an early-20th-century figure already close to premodern productivity (the Green Revolution had not yet transformed Chinese yields when this measurement was made), so only milling loss needs to be applied to convert harvested rough rice into consumable polished rice.  Path B's 4 tons/hectare is a modern post-Green-Revolution figure, so it requires a much larger deflation to bring it back to historically realistic premodern yields, but no separate milling adjustment - the resulting figure is already in unmilled-koku terms, matching the *kokudaka* convention used throughout these notes.
+
+The two paths converge on ~3,000 to 3,600 koku per square mile, and downstream calculations use the round-number version of 3,000.  This is on the LOW side of premodern East Asian rice productivity (Tokugawa Japanese paddies averaged ~4,500-5,500 koku/sq mi, southern Chinese Yangtze-delta paddies could exceed 5,500 koku/sq mi at the Song-Ming peak), which is appropriate for an empire-wide average that includes Rokugan's many marginal-quality paddies in northern, mountain, and frontier regions alongside its prime southern rice country.
 
 #### Historical Household-Size Guidelines
 
@@ -244,11 +252,13 @@ Applying these yields to Rokugan's 1.5 million square miles:
 
 #### Total Rice Production
 
-At an assumed density of 400 farmers per square mile across Rokugan's ~60,000 sq mi of rice land:
+At an assumed density of 400 farmers per square mile across Rokugan's ~60,000 sq mi of rice-suitable land:
 
 ```
-400 farmers/sq mi * 60,000 sq mi = ~24,000,000 rice farmers in Rokugan
+400 farmers/sq mi * 60,000 sq mi = ~24,000,000 farmers on rice-suitable terrain
 ```
+
+This 24 million is the total farming population living on rice-suitable land.  Of these, roughly 8 million directly work the active wet paddies (the ~1/3 of rice-suitable area under active wet-paddy cultivation in any given year, per the labor-limited utilization frame discussed below); the remaining ~16 million work the supporting hillside soybean and azuki fields whose runoff fertilizes the paddies, the dryland fields for aftercrops and other Five Grains, the small share of upland-rice rotation, and the labor-fallow margins.  Together they constitute the human-economic system of the 60,000 sq mi rice-suitable region.
 
 Annual rice production at 3,000 koku per square mile:
 
@@ -1006,6 +1016,8 @@ Money never changes hands with anyone who has authority over assessment.  Any mo
 
 This Yasuki innovation was first deployed at the harbor of Friendly Traveler Village (then a major Yasuki trade hub) and proved sufficiently effective that Hantei the Tenth made it the empire-wide standard within a few years of its introduction.  The system does not extend to counties: most county towns are not walled, and even those that are (typically along contested borders) generally do not see enough caravan traffic to justify the institutional overhead.  All collection of import tariffs occurs at the provincial city or capital city tier.
 
+Beyond land tax and city-gate import tariffs, the Ministry of Revenue's third significant revenue stream is **business license fees**.  The most important single category is **sake brewing**: every brewery operating above the household level must hold an annual license, with rates tiered by production volume.  In a prosperous brewing town the sake licenses alone can exceed all other business-license revenue combined, and in counties whose economies are built around large-scale sake export (the Crane and Phoenix have several such counties) the sake license revenue can rival the land tax in scale.  Other commonly-licensed trades include dye houses (which use regulated quantities of certain minerals and plant extracts), weapon and armor smithies (whose work is restricted by caste rules enforced through the license), pawnbrokers (who require a license to operate as collateral lenders), salt-boilers and small salt-pan operators outside the regions covered by the Imperial salt monopoly, and the larger merchant houses in any given town.  Small artisans and casual traders are generally not licensed, both because the assessment overhead would exceed the revenue and because allowing informal cottage industry to operate untaxed is part of how Rokugani society absorbs minor economic shocks - a peasant family that begins weaving baskets or pickling vegetables for sale during a hard winter is welcomed rather than fined.
+
 ### The Ministry of Retainers
 
 The Ministry of Retainers handles stipends and tracks the rank of all the daimyo's samurai retainers.  Administers civil service exams, and assesses candidates for promotions.  For high-ranking positions (usually Governor or above and often County Magistrates due to the revenue associated with that position), the Ministry of Retainers will administer exams to eligible candidates, and then the Chancellery will select from a small pool of those who scored the highest.
@@ -1037,6 +1049,8 @@ Ministries of works are given a budget and then expected to meet their construct
 This system means that a lot of behaviors which in a modern society would describe as "embezzlement" (or theft or other forms of misappropriation) are actually just Rokugan working as expected.  If a government official manages to negotiate a good deal on some raw materials, they pocket the extra money and everyone knows that's how things work.  This is not just true for those in charge at the top, but also for people in charge of smaller departments within the Ministry.  For example, someone in the Ministry of Works for Damasu lands is tasked with specifically purchasing and transporting stone from Asako quarries to the city of Toshi Ranbo to improve its fortifications.  That person has been allocated a budget based on estimates of how much such things have cost in the past and are likely to cost, and if he can manage to negotiate for less or find a way to transport the stone more cheaply, then he could make himself quite rich as a result.
 
 This kind of thing is especially true in the Ministry of Works, but it also applies to other Ministries as well, when officials are given a budget.  For example, consider how many things need to be purchased by Ministry of War to maintain its military readiness: food, animal feed, horses, weapons, armor, etc.  This system of budgeting applies almost everywhere and to almost all government posts in Rokugan at every level.
+
+The Ministry of Works also has access to one major non-monetary resource that other ministries lack: **corvée labor**.  Every peasant household in Rokugan owes a certain number of days of labor service per year - typically 10 to 20 days in normal times, more during major construction or emergencies - to be performed at the call of the local government on roads, walls, granaries, dykes, and other public works.  In practice, corvée is most often called for road repair after the spring thaws and autumn storms, for emergency dyke and dam work during flood years, and for fortification work in border regions during periods of military tension.  Corvée obligations are normally local (peasants serve in or near their home county) and are typically called for shorter periods than the legal maximum to avoid disrupting the agricultural calendar.  Particularly important Imperial projects (the most heavily-trafficked stretches of Imperial roads, the Kaiu Wall, major Otosan Uchi works) can call up corvée from a wider geographic radius, but this is exceptional and politically costly to the official who orders it.  A Ministry of Works coin budget therefore represents only the portion of a project that cannot be accomplished through labor alone - materials, specialized craftsmanship, supervision, transport of heavy goods over distance - while the bulk of the actual work-hours on most public projects come from the corvée pool.
 
 At the Imperial level, in addition to performing these kinds of usual duties for the capital city of Otosan Uchi the Ministry of Works contributes significantly to the upkeep of the Kaiu Wall protecting the Empire from the Shadowlands, and also the construction, maintenance, and staffing of waystations on the Imperial roads.  There are over 50,000 miles of Imperial roads in the Empire, and many of them have a waystation staffed at every mile to protect against bandits and maintain law and order for travelers.
 
@@ -1170,11 +1184,14 @@ The per-domain budget breakdowns documented in [`budgets.md`](budgets.md) descri
 | --- | --- |
 | Land-output kick-ups (5% of land output from all ~284 domains) | ~11 million |
 | Imperial domain direct taxes (Hantei lands, Otomo, Seppun, and Miya lands, plus the territory containing Otosan Uchi) | ~5-6 million |
-| Otosan Uchi import tariffs (per the Yasuki Taka inspector/licensor system) | ~2-4 million |
-| Minor Imperial revenue (specific mining royalties, salt monopoly cuts in certain regions, miscellaneous) | ~1-2 million |
-| **Total** | **~20 million** |
+| Otosan Uchi import tariffs (per the Yasuki Taka inspector/licensor system) | ~2-3 million |
+| Imperial salt monopoly cuts | ~2-3 million |
+| Minor Imperial revenue (specific mining royalties, miscellaneous) | ~0.5-1 million |
+| **Total** | **~20-23 million** |
 
 Note that the 5% from each domain is calculated against the domain's total land output (the gross agricultural production from its farms), not against the much smaller figure of taxes actually collected.  Since the daimyo collects 1/3 of land output as land tax, the 5% Imperial cut works out to ~15% of the daimyo's gross land-tax revenue.  This is documented per the Wakashi example in the Ministry of Revenue section above.
+
+The Imperial **salt monopoly** is regional rather than universal: the Crown takes a direct cut from salt production in coastal salt-pan regions (most prominently along Earthquake Bay in Crab lands, the Daikoku Strait, and the Phoenix coast) and from inland brine-well operations in certain Lion and Dragon provinces.  Other salt production - household salt-boiling for local use, small-scale rock-salt mining in mountain regions, the smaller coastal salt operations - is taxed at the domain level through the normal business license system rather than reserved to the Crown.  At the Tang and Song peak, an imperial Chinese salt monopoly could account for 30-50% of central revenue; Rokugan's lighter-touch implementation at roughly 10-15% of Imperial revenue reflects both the Empire's general preference for distributed rather than centralized monopolies (consistent with the tax-farming pattern documented throughout these notes) and the practical difficulty of suppressing illicit production in such a large and varied geography.  The Imperial Treasurer's office maintains a standing investigative unit dedicated to salt-smuggling cases, which has historically been one of the more dramatic-but-modest profit centers within the broader Imperial Ministry of Revenue operation.
 
 The Emperor does NOT collect road tolls anywhere in the Empire.  All tolls on the Imperial road network were outlawed by Hantei the Tenth, with consequences explained below.
 
@@ -1192,11 +1209,13 @@ The Emperor does NOT collect road tolls anywhere in the Empire.  All tolls on th
 
 #### Imperial Roads: a Special Case
 
-The Empire's 50,000-mile Imperial road network is an extraordinary investment for a premodern state.  Heavy maintenance, waystations staffed roughly every mile, no tolls collected anywhere along the system - by historical standards this is dramatic over-investment, and most premodern empires either failed to maintain such networks at all (Imperial Rome's roads decayed within a generation after the Western Empire's collapse) or recouped their costs through tolls (Tokugawa Japan's sekisho on the gokaidō, Imperial China's various transit tax stations).
+The Empire's 50,000-mile Imperial road network is an extraordinary investment for a premodern state.  Heavy maintenance, waystations staffed roughly every mile, no tolls collected anywhere along the system - by historical standards this is dramatic over-investment, and most premodern road networks of comparable ambition either decayed for lack of maintenance funding (Imperial Rome's roads were essentially gone within a generation of the Western collapse) or fragmented into a patchwork of local tolls extracted by individual lords, towns, and barrier stations (medieval European roads, Sengoku Japanese sekisho, the various transit-tax stations of the late dynasties of imperial China).
 
-Rokugan chose differently for two reasons.
+The no-tolls policy itself is actually well-grounded in imperial Chinese fiscal best practice: Tang and Song administrators understood and explicitly argued the deadweight-loss principle, that tolls on a unified empire's main road network suppressed trade more than they generated revenue, and that any state with the central fiscal capacity to fund roads through general taxation should do so.  What is unusual about Rokugan is not the no-tolls choice itself - which any Tang or Song scholar-official would have endorsed - but the consistent multi-century maintenance of the underlying road investment that makes the no-tolls policy economically viable.  Most empires that initially banned tolls eventually drifted back toward toll systems when central fiscal capacity weakened (this was the trajectory of late Yuan and late Ming, and of the late Qing under the *likin* internal-customs system).  Rokugan's distinction is that the Imperial road investment has been sustained, not that the Imperial road tolls have been absent.
 
-First, the Empire has been blessed in certain reigns with Emperors who counted prophets of Daikoku, the Fortune of Wealth, among their close advisors.  Such prophets do not understand modern economic principles or supply-and-demand curves, but their attunement to Daikoku grants them direct insight into the consequences of fiscal decisions across spans of time no ordinary planner could reason about.  Hantei the Tenth, in particular, was advised by such a prophet when he made the foundational decisions: heavy and ongoing road investment funded from the Imperial treasury, and the elimination of all tolls anywhere on the Imperial road network.  Both decisions were structurally counter-cyclical and would have been impossible to justify with the analytical tools available to the Imperial bureaucracy; the prophet's vision was that these investments would pay for themselves many times over in the centuries that followed, through commerce that would not otherwise have been possible, regional integration that would prevent or end wars, and stability that would let the Empire prosper in ways otherwise unreachable.
+That sustained investment is what calls for explanation, and there are two of them.
+
+First, the Empire has been blessed in certain reigns with Emperors who counted prophets of Daikoku, the Fortune of Wealth, among their close advisors.  Such prophets do not understand modern economic principles or supply-and-demand curves, but their attunement to Daikoku grants them direct insight into the consequences of fiscal decisions across spans of time no ordinary planner could reason about.  Hantei the Tenth, in particular, was advised by such a prophet when he made the foundational decisions: the elimination of all tolls anywhere on the Imperial road network, and (more critically) the establishment of a permanent Imperial commitment to ongoing road maintenance funded from the central treasury.  The no-tolls choice was within the realm of normal Imperial bureaucratic reasoning - several previous Emperors had reduced toll systems, citing the same trade-suppression arguments familiar from Tang and Song administrative practice - but the commitment to *permanent and substantial* central funding for maintenance was the harder choice, and the one ordinary planners would have been reluctant to make in any given fiscal year.  The prophet's vision was that this investment would pay for itself many times over in the centuries that followed, through commerce that would not otherwise have been possible, regional integration that would prevent or end wars, and stability that would let the Empire prosper in ways otherwise unreachable.
 
 Second, and as a Doyalist matter that the in-fiction characters do not articulate but the worldbuilding consciously enacts: this is the kind of world that real historical premodern populations *believed* themselves to be living in, even when their actual governments fell short.  Rokugan is portrayed as enacting the historical ideals of rule of law and the justice of heaven to a degree that real-world historical equivalents rarely achieved.  When PCs pass by a farming village, they are not participating in a system that is literally starving those inhabitants - they are taking part in a society that, by premodern standards, governs unusually well.  The well-maintained road network is an example of this working in practice.
 
@@ -1204,13 +1223,15 @@ The Yasuki Taka import tariff system (see Ministry of Revenue above) provides th
 
 #### Imperial Savings: the "Wealth in Favors Owed" Model
 
-The Emperor typically maintains "savings" equivalent to roughly 10 million koku - one year's revenue in reserve.  However, the great majority of this is not held as coin or rice in vaults.  Imperial savings consist principally of **obligations owed** by those throughout the Empire who have received Imperial generosity at one time or another.
+The Emperor typically maintains "savings" equivalent to roughly 40-60 million koku - two to three years of Imperial revenue in reserve.  This is in line with well-run premodern East Asian Imperial norms: Tang China at its fiscal peak held similar 2-3 year reserves; Song China sometimes accumulated 30+ years of central revenue in its Wealth Treasuries during particularly prosperous reigns; Qing China under the Yongzheng and Qianlong emperors held silver reserves equivalent to roughly two years of central revenue.  Maintaining substantial reserves was the historical default for any well-administered premodern empire, because commodity-money economies could not easily borrow at scale and faced periodic massive obligations (military campaigns, river-control works, famine relief) that ordinary annual revenue could not cover.
+
+However, the great majority of these Imperial savings is not held as coin or rice in vaults.  Imperial savings consist principally of **obligations owed** by those throughout the Empire who have received Imperial generosity at one time or another.
 
 A gift of 10,000 koku from the Emperor to a noteworthy retainer (a wedding gift, a battlefield reward, a contribution to a new construction, a donation to a temple) creates an implicit obligation that the Emperor may later call upon.  When the Emperor later asks that retainer to undertake something costly on the Empire's behalf - to host a foreign embassy, to outfit a campaign, to contribute to a relief effort during a famine - the prior gift is the credit being drawn down.  The retainer does not refuse, because to refuse would be to acknowledge that the prior gift had been unearned.
 
-This treatment of Imperial wealth is structurally important.  Premodern states never achieved the liquid-treasury model that would later characterize early-modern fiscal-military states; their actual operational wealth was always partly in obligation networks.  Rokugan's Emperor has access to a far greater pool of practical resources than the ~10 million koku of nominal savings would suggest, because so many of those resources are pre-committed in the form of favors that can be called.
+This treatment of Imperial wealth is structurally important.  Premodern states never achieved the liquid-treasury model that would later characterize early-modern fiscal-military states; their actual operational wealth was always partly in obligation networks.  Rokugan's Emperor has access to a far greater pool of practical resources than the nominal vault-savings figure would suggest, because so many of those resources are pre-committed in the form of favors that can be called.
 
-The Empire's current state (per the campaign-current understanding) is that recent years have been hard on Imperial finances, and the practical pool of callable obligations is down to roughly 5 million koku - half what is typical.  This number can shift with the campaign's events.
+The Empire's current state (per the campaign-current understanding) is that recent years have been very hard on Imperial finances, and the practical pool of total Imperial reserves (vault savings and callable obligations combined) is down to roughly 5 million koku - about a quarter of one year's revenue, and roughly an order of magnitude below the well-run-empire norm of 2-3 years.  By the standards of any well-administered premodern empire this is a genuine fiscal crisis, and the Imperial Treasurer is under considerable pressure to rebuild reserves.  This number can shift with the campaign's events.
 
 The principle is canonically illustrated in the following story of Hantei the Tenth, told and retold for centuries in Rokugan as a teaching about the nature of Imperial wealth:
 
