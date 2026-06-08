@@ -1215,13 +1215,13 @@ The Empire's current state (per the campaign-current understanding) is that rece
 The principle is canonically illustrated in the following story of Hantei the Tenth, told and retold for centuries in Rokugan as a teaching about the nature of Imperial wealth:
 
 > After being named the first Imperial Treasurer, during a morning meeting with His Imperial Majesty, Yasuki Taka suggested that the Hantei Emperor was being too generous in the gifts and budgets allocated to his retainers.  Members of every clan were being given lavish budgets far above what they needed to fulfil their duties, well beyond the expected extra which would be needed to secure their gratitude and loyalty.  Taka proposed a "modest" reduction to shore up the Imperial treasury, indicating that he himself would propose an even more severe reduction but had deferred to the Hantei's legendary generosity in his more modest proposal.
-> 
+>
 > Hantei the X considered this, and then named a reduction in budgets more significant than what Taka had proposed, asking what the size of his treasury would be had he established this reduction at the beginning of his reign.
-> 
+>
 > To the amazement of all present, Taka's fingers flew over his abacus, and with only the briefest consultation of his notes and budgets was able to answer the Hantei's question within minutes, summed across all Six Ministries, down to the koku.  Even the Emperor could not conceal his surprised regard for his treasurer's skill.
-> 
+>
 > Hantei the X then smiled and turned to his Miya heralds.  "Go out to the Imperial court and tell all present that Hantei the Tenth requires funds.  Ask what each present can pledge to be delivered to the Imperial palace today.  Not in time, not what funds they can raise with effort, but what they can deliver as a gift by nightfall this very day.  Do not instruct them to make this delivery, merely ask what can be supplied and report back with the totals."
-> 
+>
 > A few more minutes passed, and the Miya heralds returned.  A quick calculation showed that the amount of money pledged was far higher than the increase in the Imperial treasury which Taka's proposal had purported to be worth.  Thus, the greatest money manager in the history of the Empire was humbled by the Hantei's wisdom.
 
 ## Rokugan's Calendar
