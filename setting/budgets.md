@@ -23,7 +23,6 @@ Per-tier budget breakdowns for the median domain hierarchy, plus supporting tabl
 - [Ministry Budgets](#ministry-budgets)
   - [Domain Ministry Budgets](#domain-ministry-budgets)
   - [Provincial Ministry Budgets](#provincial-ministry-budgets)
-  - [County Magistrate Allocation](#county-magistrate-allocation)
   - [Cross-cutting project negotiation](#cross-cutting-project-negotiation)
 - [Example Office-Holder Budgets](#example-office-holder-budgets)
   - [Magistrate Kakita Hikai of Seitoyama County](#magistrate-kakita-hikai-of-seitoyama-county)
@@ -55,7 +54,7 @@ The "population" figures in this document mean different things at different tie
 - **Town (~900-1,500, average ~1,200)**: counts the in-and-around population.  Most town residents are farmers (~65%) because the working farmland immediately surrounding a county town is included in the town's population.  Border towns tend to be walled, whereas towns which do not need to maintain this level of military preparedness have a much more porous boundary and lack a clear inside-vs-outside boundary.  A "county" is the town plus its surrounding village districts.
 - **Provincial city (~2,000-4,000, average ~3,000) and Capital city (~12,000)**: counts ONLY the population living within the city walls / on the city's footprint proper.  Cities are nearly always built on top of (or beside) very fertile land, and that land is farmed - but the farmers who work it live in villages and hamlets in the *surrounding county*, not in the city itself, which will almost always be walled and thus have rigorous demarcation between their urban interior and agricultural exterior.  That is why both city tiers show zero farmers in their caste tables.
 
-The practical result: a capital city of ~12,000 is a city of ~12,000 administrators / artisans / soldiers / merchants / servants, ringed by farming villages whose people are counted under the surrounding rural settlement totals.  Likewise the ~6 provincial cities of a domain - each ~2,000-4,000 inside the walls, surrounded by farming villages counted in other population totals.
+The practical result: a capital city of ~12,000 is a city of ~12,000 administrators / artisans / soldiers / merchants / servants, ringed by farming villages whose inhabitants are counted under the surrounding rural settlement totals.  Likewise the ~6 provincial cities of a domain - each ~2,000-4,000 inside the walls, surrounded by farming villages counted in other population totals.
 
 ## What the Samurai Counts Mean
 
@@ -278,18 +277,6 @@ A few things to notice:
 - The **county magistrate** at ~800-900 koku effective (their ~1,000 tax-farming cut minus ~100-200 for county operations) is actually wealthier than every provincial minister except Revenue, despite holding a lower rank (Rank 5 vs Rank 7).  This is well-known in Rokugan and explains why ambitious junior samurai often prefer a county magistrate appointment to a provincial ministry appointment.
 - The **provincial Minister of Justice** at the virtuous floor (~80 koku) is genuinely poor for a Rank 7 official, comparable to a Tokugawa-era ordinary hizamurai.  The ceiling for a corrupt one in a wealthy province can exceed the Minister of Works.
 
-### County Magistrate Allocation
-
-The county magistrate has 1,000 koku.  They handle all six ministry functions personally (with the help of their ~15 useful samurai - the karo, the squad sergeants, the corporals, and the basic bushi):
-
-| Allocation | Annual koku per magistrate |
-| --- | --- |
-| **Magistrate's personal/household** | ~700-800 |
-| **County operations** (court, jail, modest seasonal festivals, minor road repairs) | ~200-300 |
-| **Total** | ~1,000 |
-
-There is no "Ministry of X" at the county level; the magistrate IS the apparatus for all six functions in their county.  This is one reason county magistrate is such a prestigious post: it concentrates ALL the local fiscal, judicial, ceremonial, and administrative authority in one person.
-
 ### Cross-cutting project negotiation
 
 For projects that span multiple tiers (a new canal across the domain, maintenance of a road that crosses several provinces, mobilization for clan warfare), the question of who pays which share is a major source of domain politics.  The general pattern:
@@ -354,21 +341,22 @@ This is specifically how Magistrate Hikai chooses to allocate their ~1,105-koku 
 
 | Category | Annual koku | Type | Notes |
 | --- | --- | --- | --- |
-| Festival hosting and almsgiving (combined) | ~250 | Expected | Majority of this budget goes to almsgiving on festival days; the actual festival hosting costs are smaller than the alms distributed during them |
+| Festival hosting and almsgiving (combined) | ~230 | Expected | Majority of this budget goes to almsgiving on festival days; the actual festival hosting costs are smaller than the alms distributed during them |
+| County operations (prisoner food, jail upkeep, court materials, minor road and bridge repairs within the county) | ~100 | Expected | The samurai and ashigaru stipends in the mandatory section cover the *labor* of running the court and jail and patrolling the county roads; this line covers the *materials* and the minor infrastructure work that doesn't rise to provincial Works' attention |
 | Retainer hospitality (food, sake, occasional lodging supplements for the ~15 samurai) | ~150 | Expected | Notionally retainers' stipends cover this, but in practice failure to provide leads to resentment and weak loyalty |
 | Visitor hospitality (lineage chancellor visits, imperial inspectors, neighboring magistrates) | ~50 | Expected |  |
 | Religious patronage (donations to county-town temple and small village shrines beyond the formal Rites budget) | ~50 | Expected |  |
 | Lineage patronage donation to the Kakita chancellor | ~110 | Expected (~10%) | "Voluntary" but socially-pressured; the customary tithe on total discretionary income |
-| **Subtotal: expected donations** | **~610** |  | ~55% of the allocation, consumed by never-required-but-always-expected obligations |
-| Lean-year savings (forward-thinking reserve) | ~275 | Personal | ~25% put away against bad harvests; well above the irresponsible ~5-10% range that many magistrates of lesser foresight accept |
-| Personal household and lifestyle (clothing, sword maintenance, family expenses) | ~140 | Personal | Gift income particularly helps here; many of the gifts received (silk, sake, fine goods) are themselves household-quality items that reduce out-of-pocket personal spending |
-| Truly free (small luxuries, gifts to others, personal indulgences) | ~80 | Personal | About 1-2 koku per week of unconstrained spending |
-| **Subtotal: personal/discretionary** | **~495** |  | ~45% of allocation, of which ~80 koku is truly unconstrained |
+| **Subtotal: expected donations** | **~690** |  | ~62% of the allocation, consumed by never-required-but-always-expected obligations |
+| Lean-year savings (forward-thinking reserve) | ~250 | Personal | ~23% put away against bad harvests; well above the irresponsible ~5-10% range that many magistrates of lesser foresight accept |
+| Personal household and lifestyle (clothing, sword maintenance, family expenses) | ~105 | Personal | Gift income particularly helps here; many of the gifts received (silk, sake, fine goods) are themselves household-quality items that reduce out-of-pocket personal spending |
+| Truly free (small luxuries, gifts to others, personal indulgences) | ~60 | Personal | About 1 koku per week of unconstrained spending |
+| **Subtotal: personal/discretionary** | **~415** |  | ~38% of allocation, of which ~60 koku is truly unconstrained |
 | **Total** | **~1,105** |  |  |
 
 #### Summary
 
-Magistrate Kakita Hikai is responsible for collecting ~6,400 koku in taxes annually from Seitoyama county, of which ~5,000 goes up to Governor Kakita Asuka and ~445 covers stipends and office expenses.  The remaining ~955 koku is Hikai's tax-derived discretionary income, supplemented by ~150 koku in seasonal gifts from local notables, for a total of ~1,105 koku per year.  After festivals, almsgiving, retainer hospitality, and the customary lineage tithe, ~495 koku is truly personal - of which Hikai is forward-thinking enough to save ~275 against future lean years.  Hikai's truly-unconstrained spending is around ~80 koku per year, comfortable but not lavish.
+Magistrate Kakita Hikai is responsible for collecting ~6,400 koku in taxes annually from Seitoyama county, of which ~5,000 goes up to Governor Kakita Asuka and ~445 covers stipends and office expenses.  The remaining ~955 koku is Hikai's tax-derived discretionary income, supplemented by ~150 koku in seasonal gifts from local notables, for a total of ~1,105 koku per year.  After festivals, almsgiving, county operations, retainer hospitality, and the customary lineage tithe, ~415 koku is truly personal - of which Hikai is forward-thinking enough to save ~250 against future lean years.  Hikai's truly-unconstrained spending is around ~60 koku per year, comfortable but not lavish.
 
 By all accounts Hikai is a virtuous magistrate.  One in their position who skimped on festivals or pocketed the lineage donation might keep two to three times that amount for themselves, at the cost of their standing in the lineage and the community.
 

@@ -28,6 +28,7 @@
   - [The Ministry of Works](#the-ministry-of-works)
   - [The Ministry of Justice](#the-ministry-of-justice)
   - [Samurai Lineages](#samurai-lineages)
+  - [The Imperial Budget](#the-imperial-budget)
 - [Rokugan's Calendar](#rokugans-calendar)
   - [The Twelve Months](#the-twelve-months)
   - [The Sexagenary Cycle](#the-sexagenary-cycle)
@@ -228,9 +229,9 @@ The same ancient Chinese sources provide some calibration on how much land a sin
 - 10 mu was about the maximum a single landowner could manage on his own; more than that required tenant farmers.
 - 100 mu was the ideal land size for a household of five.
 - 20-30 mu was more typical for such a household in crowded metro areas.
-- Small household (1-3 people): could work 0.1-5.0 mu
-- Medium household (4-5 people): could work 5.1-19.5 mu
-- Large household (8-9 people): could work 20.0-38.5 mu
+- Small household (1-3 members): could work 0.1-5.0 mu
+- Medium household (4-5 members): could work 5.1-19.5 mu
+- Large household (8-9 members): could work 20.0-38.5 mu
 
 For comparative scale: early Ming China had approximately 40 million hectares of land under cultivation supporting a population of 65 million people.
 
@@ -578,7 +579,7 @@ Empire-wide, this distribution implies approximately:
 - ~2,500 provincial governors (one per province)
 - ~15,000 county magistrates (one per county)
 
-The provincial-governor and county-magistrate totals are determined by per-capita administrative density (~1 county per 6,800 people, ~1 province per 41,000 people) rather than by the domain count itself.  Larger domains have proportionally more provinces and counties, so the empire-wide totals at those tiers are essentially constant regardless of how the domain count is tuned.
+The provincial-governor and county-magistrate totals are determined by per-capita administrative density (~1 county per 6,800 inhabitants, ~1 province per 41,000 inhabitants) rather than by the domain count itself.  Larger domains have proportionally more provinces and counties, so the empire-wide totals at those tiers are essentially constant regardless of how the domain count is tuned.
 
 ### Experience Levels
 
@@ -620,7 +621,26 @@ It might be tempting for people to think "oh, peasants lead humdrum lives and ca
 
 ### Demographics
 
-With the above in mind, here are the populations of different castes and categories in the different places within a domain.  "The median domain" remains the baseline; the smallest places come first, working up from there, with each example considering the median version of something, e.g. "the median hamlet" or "the median provincial city":
+With the above in mind, here are the populations of different castes and categories in the different places within a domain.  "The median domain" remains the baseline throughout.
+
+The aggregate empire-wide breakdown by caste, derived from the per-tier composition detailed below, is approximately:
+
+| Caste | % of population | People per median domain |
+| --- | --- | --- |
+| Samurai | ~2% | ~5,000 |
+| Farmers | ~82% | ~200,000 |
+| Merchants | ~5% | ~12,000 |
+| Laborers | ~7% | ~17,000 |
+| Servants | ~3% | ~8,000 |
+| Burakumin | ~1.5% | ~3,500 |
+
+A few observations about these numbers:
+
+- The Empire is overwhelmingly farming-dependent: about 4 out of every 5 humans work the land.  Even the median town is ~65% farmers, since town population is counted as the in-and-around population including peasants on the immediately-surrounding fields.
+- Samurai are a small ruling elite (~2%); their formal political authority makes their influence far greater than their numbers.  The canonical ~5,000 samurai per median domain (per [The Median Domain](#the-median-domain) above) includes those living on country estates or otherwise outside the named-settlement caste breakdowns; the per-tier caste tables below account for ~4,080 of the ~5,000.
+- Burakumin are concentrated in towns and cities (~5% of urban population) and entirely absent from the median village or hamlet, which is why their empire-wide share (~1.5%) is far smaller than their per-city presence would suggest.
+
+The per-tier composition that produces these aggregate figures is detailed below, starting with the smallest settlement (the median hamlet) and working up to the largest (the median capital city):
 
 The median hamlet:
 
@@ -966,11 +986,13 @@ The Ministry of Revenue oversees the collection of land taxes, business license 
 This is also how things work for Governors and County Magistrates, and generally any kind of tax collection position or office which generates revenue.  Officials are expected to meet their obligations to the government, and when they do well they keep what is left over, and when they do poorly they must draw from their personal or family fortunes in order to ensure that the financial obligation is met.
 
 At the Imperial level, the Ministry of Revenue oversees Imperial tax collection.  Consider a vassal domain such as the Wakashi house of the Ikoma family.  The Wakashi owe taxes to those above them, which come to:
-- 2% of their land tax revenue to the Ikoma family daimyo, Ikoma Tsanuri
+- 2% of their land output to the Ikoma family daimyo, Ikoma Tsanuri
 - 3% to the daimyo of the Lion clan, Akodo Toturi
 - 5% to the Emperor
 
-The Ikoma Family Ministry of Revenue, the Lion Clan Ministry of Revenue, and the Imperial Ministry of Revenue all have representatives in the Wakashi domain to oversee this collection.  Although these numbers make up a relatively low percentage, they add up to quite a lot of wealth, and of course a domain such as the Wakashi has other obligations as well, such as fighting for their clan in times of war, and contributing legionnaires to the Imperial legions, etc.
+These percentages are of total land output (i.e. the gross agricultural production from the domain's farms), not of the land tax actually collected.  Since the daimyo collects 1/3 of land output as land tax (per the rent-and-tax discussion further down), the 10% kicked up to the Wakashi's superiors is roughly 30% of the Wakashi's gross land-tax revenue.
+
+The Ikoma Family Ministry of Revenue, the Lion Clan Ministry of Revenue, and the Imperial Ministry of Revenue all have representatives in the Wakashi domain to oversee this collection.  Although these numbers make up a relatively low percentage of land output, they add up to quite a lot of wealth, and of course a domain such as the Wakashi has other obligations as well, such as fighting for their clan in times of war, and contributing legionnaires to the Imperial legions, etc.
 
 Beyond collecting land taxes and business license fees, the Ministry of Revenue at the provincial and domain level also collects **import tariffs** at the gates of walled cities.  Caravans entering a walled provincial city or capital city must submit their cargo to inspection and pay a fee based on the goods carried and the merchant's family of origin (favorable rates having been negotiated as standing trade arrangements between clans and families).
 
@@ -1135,6 +1157,70 @@ The chancellor's role is not just to collect and disburse but to **make the patr
 This explicit attribution serves two purposes.  First, it confers status on the patron, making their generosity socially legible as a marker of their position within the lineage.  Second, it creates obligation: the recipient knows whose largesse made their advancement possible, and is expected to remember that when they themselves become wealthy.  The cycle is recursive - today's recipient is tomorrow's patron - and lineage cohesion is reinforced across generations.
 
 Many ambitious samurai are drawn to high-paying posts (county magistrate, Minister of Works) not purely for personal enrichment but for the prestige of eventually becoming the lineage's named patron of the next generation.  Many county magistrates describe their motivation in those terms: not "I want to be rich" but "I want to be the uncle whose name my nephews are taught to revere when they receive their first commissions."  The patronage system thus acts as a moderate counterweight to pure self-enrichment by senior officials, channeling some of the wealth that would otherwise be hoarded back into supporting the lineage.
+
+### The Imperial Budget
+
+The per-domain budget breakdowns documented in [`budgets.md`](budgets.md) describe the financial operation of a single domain.  Above and parallel to those is the Imperial budget, by which the Emperor funds the structures and services that bind the Empire together as a whole.
+
+#### Imperial Revenue (~20 million koku per year)
+
+| Source | Annual koku |
+| --- | --- |
+| Land-output kick-ups (5% of land output from all ~284 domains) | ~11 million |
+| Imperial domain direct taxes (Hantei lands, Otomo, Seppun, and Miya lands, plus the territory containing Otosan Uchi) | ~5-6 million |
+| Otosan Uchi import tariffs (per the Yasuki Taka inspector/licensor system) | ~2-4 million |
+| Minor Imperial revenue (specific mining royalties, salt monopoly cuts in certain regions, miscellaneous) | ~1-2 million |
+| **Total** | **~20 million** |
+
+Note that the 5% from each domain is calculated against the domain's total land output (the gross agricultural production from its farms), not against the much smaller figure of taxes actually collected.  Since the daimyo collects 1/3 of land output as land tax, the 5% Imperial cut works out to ~15% of the daimyo's gross land-tax revenue.  This is documented per the Wakashi example in the Ministry of Revenue section above.
+
+The Emperor does NOT collect road tolls anywhere in the Empire.  All tolls on the Imperial road network were outlawed by Hantei the Tenth, with consequences explained below.
+
+#### Imperial Spending (~17-22 million koku per year)
+
+| Category | Annual koku | Notes |
+| --- | --- | --- |
+| Imperial government, Otosan Uchi operations, Imperial palaces, Imperial Ministry budgets, stipends for samurai serving in Imperial posts | ~7-9 million | The largest line item, reflecting the scale of Otosan Uchi (1 million inhabitants) and the parallel Imperial-level Six Ministries that mirror the domain-level ministries documented above |
+| Imperial roads and waystations | ~3-4 million | Maintenance of the 50,000-mile Imperial road network and the waystations stationed roughly every mile; further detail below |
+| Imperial legions | ~2-3 million | 25-40 legions at any given time, the majority stationed on the Kaiu Wall assisting the Crab clan; leadership typically drawn from the Imperial families, especially Seppun |
+| Kaiu Wall direct contributions | ~1-2 million | Separate from the legions stationed there; covers Imperial-funded wall maintenance, supply caravans, and material aid to the Crab clan above and beyond what the legions provide directly |
+| Imperial Magistrates and their staff | ~1.5-2 million | One Imperial Magistrate stationed in every domain (per the Emerald Charter discussed in the Ministry of Justice section), plus traveling Imperial Magistrates and the staff of the Imperial Ministry of Justice |
+| Discretionary / contribution to Imperial savings | ~2-3 million | In years when revenue exceeds operating commitments; in lean years this line shrinks or reverses (the Emperor draws from savings to make up the shortfall) |
+| **Total** | **~17-22 million** | Matches revenue within rounding |
+
+#### Imperial Roads: a Special Case
+
+The Empire's 50,000-mile Imperial road network is an extraordinary investment for a premodern state.  Heavy maintenance, waystations staffed roughly every mile, no tolls collected anywhere along the system - by historical standards this is dramatic over-investment, and most premodern empires either failed to maintain such networks at all (Imperial Rome's roads decayed within a generation after the Western Empire's collapse) or recouped their costs through tolls (Tokugawa Japan's sekisho on the gokaidō, Imperial China's various transit tax stations).
+
+Rokugan chose differently for two reasons.
+
+First, the Empire has been blessed in certain reigns with Emperors who counted prophets of Daikoku, the Fortune of Wealth, among their close advisors.  Such prophets do not understand modern economic principles or supply-and-demand curves, but their attunement to Daikoku grants them direct insight into the consequences of fiscal decisions across spans of time no ordinary planner could reason about.  Hantei the Tenth, in particular, was advised by such a prophet when he made the foundational decisions: heavy and ongoing road investment funded from the Imperial treasury, and the elimination of all tolls anywhere on the Imperial road network.  Both decisions were structurally counter-cyclical and would have been impossible to justify with the analytical tools available to the Imperial bureaucracy; the prophet's vision was that these investments would pay for themselves many times over in the centuries that followed, through commerce that would not otherwise have been possible, regional integration that would prevent or end wars, and stability that would let the Empire prosper in ways otherwise unreachable.
+
+Second, and as a Doyalist matter that the in-fiction characters do not articulate but the worldbuilding consciously enacts: this is the kind of world that real historical premodern populations *believed* themselves to be living in, even when their actual governments fell short.  Rokugan is portrayed as enacting the historical ideals of rule of law and the justice of heaven to a degree that real-world historical equivalents rarely achieved.  When PCs pass by a farming village, they are not participating in a system that is literally starving those inhabitants - they are taking part in a society that, by premodern standards, governs unusually well.  The well-maintained road network is an example of this working in practice.
+
+The Yasuki Taka import tariff system (see Ministry of Revenue above) provides the necessary fiscal counterbalance: city gates collect tariffs that generate substantial revenue from commerce, while roads themselves remain free for any traveler, preserving the conditions for the commerce to occur in the first place.
+
+#### Imperial Savings: the "Wealth in Favors Owed" Model
+
+The Emperor typically maintains "savings" equivalent to roughly 10 million koku - one year's revenue in reserve.  However, the great majority of this is not held as coin or rice in vaults.  Imperial savings consist principally of **obligations owed** by those throughout the Empire who have received Imperial generosity at one time or another.
+
+A gift of 10,000 koku from the Emperor to a noteworthy retainer (a wedding gift, a battlefield reward, a contribution to a new construction, a donation to a temple) creates an implicit obligation that the Emperor may later call upon.  When the Emperor later asks that retainer to undertake something costly on the Empire's behalf - to host a foreign embassy, to outfit a campaign, to contribute to a relief effort during a famine - the prior gift is the credit being drawn down.  The retainer does not refuse, because to refuse would be to acknowledge that the prior gift had been unearned.
+
+This treatment of Imperial wealth is structurally important.  Premodern states never achieved the liquid-treasury model that would later characterize early-modern fiscal-military states; their actual operational wealth was always partly in obligation networks.  Rokugan's Emperor has access to a far greater pool of practical resources than the ~10 million koku of nominal savings would suggest, because so many of those resources are pre-committed in the form of favors that can be called.
+
+The Empire's current state (per the campaign-current understanding) is that recent years have been hard on Imperial finances, and the practical pool of callable obligations is down to roughly 5 million koku - half what is typical.  This number can shift with the campaign's events.
+
+The principle is canonically illustrated in the following story of Hantei the Tenth, told and retold for centuries in Rokugan as a teaching about the nature of Imperial wealth:
+
+> After being named the first Imperial Treasurer, during a morning meeting with His Imperial Majesty, Yasuki Taka suggested that the Hantei Emperor was being too generous in the gifts and budgets allocated to his retainers.  Members of every clan were being given lavish budgets far above what they needed to fulfil their duties, well beyond the expected extra which would be needed to secure their gratitude and loyalty.  Taka proposed a "modest" reduction to shore up the Imperial treasury, indicating that he himself would propose an even more severe reduction but had deferred to the Hantei's legendary generosity in his more modest proposal.
+
+> Hantei the X considered this, and then named a reduction in budgets more significant than what Taka had proposed, asking what the size of his treasury would be had he established this reduction at the beginning of his reign.
+
+> To the amazement of all present, Taka's fingers flew over his abacus, and with only the briefest consultation of his notes and budgets was able to answer the Hantei's question within minutes, summed across all Six Ministries, down to the koku.  Even the Emperor could not conceal his surprised regard for his treasurer's skill.
+
+> Hantei the X then smiled and turned to his Miya heralds.  "Go out to the Imperial court and tell all present that Hantei the Tenth requires funds.  Ask what each present can pledge to be delivered to the Imperial palace today.  Not in time, not what funds they can raise with effort, but what they can deliver as a gift by nightfall this very day.  Do not instruct them to make this delivery, merely ask what can be supplied and report back with the totals."
+
+> A few more minutes passed, and the Miya heralds returned.  A quick calculation showed that the amount of money pledged was far higher than the increase in the Imperial treasury which Taka's proposal had purported to be worth.  Thus, the greatest money manager in the history of the Empire was humbled by the Hantei's wisdom.
 
 ## Rokugan's Calendar
 
