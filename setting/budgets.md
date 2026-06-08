@@ -26,7 +26,7 @@ The average varies by tier because the rank distribution does:
 - **Provincial city samurai**: ~15 koku average (avg rank ~3-4).  Provincial cities house the provincial governor (Rank 8), six provincial ministers (Rank 7) and their deputies (Rank 6), mid-rank clerks (Rank 3-5), and rank-and-file bushi assigned to provincial administrative and military duties.
 - **Capital city samurai**: ~35 koku average (avg rank ~5-6).  The capital is staffed with the senior cohort - the daimyo (Rank 12), councilors (Rank 11), domain ministers (Rank 10) and their deputies (Rank 9), high-rank clerks (Rank 7-8), castle guards and household retainers from the daimyo's elite retinue, and junior officials in training for higher posts.  Low-rank samurai compose a lower proportion of retainers in the capital than in the provinces.
 
-**Stipends are paid by whoever holds the relevant tax-farming cut at the tier where the samurai serves**: the median daimyo's ~100,000-koku cut covers capital stipends; each provincial governor's (on average) ~10,000-koku cut covers his province; each county magistrate's (on average) ~1,000-koku cut covers his county.  Cross-tier flow does not happen for stipends as it does for gifts and lineage finances - a provincial samurai is paid by his governor regardless of which lineage the samurai or governor belongs to (see [`l7r.md` - Samurai Lineages](l7r.md#samurai-lineages) for the discussion of how lineage politics and fiscal flow interact).
+**Stipends are paid by whoever holds the relevant tax-farming cut at the tier where the samurai serves**: the median daimyo's ~100,000-koku cut covers capital stipends; each provincial governor's (on average) ~10,000-koku cut covers their province; each county magistrate's (on average) ~1,000-koku cut covers their county.  Cross-tier flow does not happen for stipends as it does for gifts and lineage finances - a provincial samurai is paid by their governor regardless of which lineage the samurai or governor belongs to (see [`l7r.md` - Samurai Lineages](l7r.md#samurai-lineages) for the discussion of how lineage politics and fiscal flow interact).
 
 ## Domain
 
@@ -169,6 +169,160 @@ The average varies by tier because the rank distribution does:
 | Tax Farming | 1000 |
 | Total | 1445 |
 | Remainder | 4958 |
+
+## Ministry Budgets
+
+**Note on the term "tax farming"**: This document uses "tax farming" in its loose modern English sense - the structural pattern of officials keeping a share of taxes they collect as their compensation.  Strictly, tax farming refers to the Roman *publicani* model where collection rights were auctioned to private contractors who paid the state a fixed sum upfront and pocketed whatever they could extract above it.  The Rokugan system isn't that: Rokugani officials are appointed through the civil-service examination and chancellery selection process, not auctioned, and the size of each office's cut is fixed by tradition rather than competitive bidding.  Structurally, the Rokugan arrangement is closer to the Tokugawa *chigyō* (fief grant) or the medieval European prebend (office-attached income), where the official is a state official whose compensation is an attached tax allocation.  "Tax farming" is used here because it conveys the right intuition (the office-holder profits from extraction efficiency) and is the established casual English usage for this broader pattern, including in modern descriptions of the Mughal *jagir* and Ottoman *timar* systems which were similarly appointment-based rather than auctioned.
+
+The Tax Farming line items in the Budget tables (~100,000 for the daimyo, ~10,000 per provincial governor, ~1,000 per county magistrate) are **total allocations** that cover both the office-holder's personal household income AND the ministry/operational obligations of their office.  An office-holder is expected to fund the activities of their tier's ministries out of their tax-farming cut.  How much they allocate to which ministry is partially fixed by tradition and necessity, partially negotiable.
+
+The breakdowns below show the typical allocation at each tier.  Numbers are approximate and vary by domain, province, and the personalities and politics of the office-holders.  The **informal income** column shows the office-holder's effective personal take above their formal stipend, calculated as a ~10% skim on the ministry budget they administer ("a tithe", a customary rate built into many Rokugani fiscal formalities, e.g. the 10-koku Imperial registration fee on a 100-koku bounty).  Strictly speaking, this is not built into the budget, and in fact office holders are expected to pay all expenses related to their duties even if those expenses exceed their income.  As with tax farming, the presumption is that forward-thinking appointees will save their money in years of plenty so that they can spend their savings and/or make use of lineage reserves as needed in lean years as needed.  The 10% figure is thus only a loose average, and corrupt officials may extract more, while scruplulous samurai might consistently draw on family connections to make up chronic shortfalls without ever personally enriching themselves.
+
+### Domain Ministry Budgets
+
+The daimyo has approximately 109,000 koku/year available (their ~100,000 tax-farming cut plus the ~9,000-koku domain surplus residual).  Of this, roughly half funds domain ministry budgets:
+
+| Allocation | Annual koku |
+| --- | --- |
+| **Daimyo's personal/household** | ~50,000 |
+| **Domain ministry budgets** (sum) | ~50,000 |
+| **Reserves / contingency** | ~9,000 |
+| **Total** | ~109,000 |
+
+The 50,000-koku ministry breakdown, with the resulting effective income for each Rank 10 minister:
+
+| Ministry | Budget | Minister's stipend | Informal income (10% skim + throughput where applicable) | Minister's effective income |
+| --- | --- | --- | --- | --- |
+| Works | 30,000 | 100 | ~3,000 | **~3,100** |
+| War | 7,000 | 100 | ~700 | **~800** |
+| Rites | 6,000 | 100 | ~600 | **~700** |
+| Justice | 3,000 | 100 | ~300 (formal) + variable from gifts and fines | **~400 (virtuous) to ~3,000+ (corrupt in a wealthy domain)** |
+| Retainers | 3,000 | 100 | ~300 (formal) + ~2,000 (rice/coin arbitrage on capital stipend throughput of ~35,000) | **~2,400** |
+| Revenue | 1,000 | 100 | ~100 (formal) + ~2,000 (tax-collection fees on throughput) | **~2,200** |
+| **Total** | **50,000** |  |  |  |
+
+Notice the **structural floor for the Minister of Justice is the lowest** of the six (~400 koku effective income at the modest end), but the **ceiling is uncapped**.  Ministers of Justice in wealthy domains can accept significant "gifts" from those under their judicial authority and assess fines whose amounts they set within wide precedential limits.  A virtuous Minister of Justice lives modestly on the formal ~400; a corrupt one in a wealthy domain can exceed even the Minister of Works; both extremes are well-attested in Rokugan.
+
+The other ministries cluster more tightly around their budget-determined income.
+
+### Provincial Ministry Budgets
+
+Each provincial governor has 10,000 koku to work with (their entire tax-farming cut).  This splits roughly:
+
+| Allocation | Annual koku per governor |
+| --- | --- |
+| **Governor's personal/household** | ~5,000 |
+| **Provincial ministry budgets** (sum) | ~5,000 |
+| **Total** | ~10,000 |
+
+The 5,000-koku provincial ministry breakdown, with effective income for each Rank 7 provincial minister:
+
+| Ministry | Budget per province | Minister's stipend | Informal income | Minister's effective income |
+| --- | --- | --- | --- | --- |
+| Works | 3,000 | 49 | ~300 | **~350** |
+| War | 700 | 49 | ~70 | **~120** |
+| Rites | 600 | 49 | ~60 | **~110** |
+| Justice | 300 | 49 | ~30 (formal) + variable from gifts and fines | **~80 (virtuous) to ~500+ (corrupt in a wealthy province)** |
+| Retainers | 250 | 49 | ~25 (formal) + ~200 (rice/coin arbitrage on ~3,750-koku provincial stipend throughput) | **~275** |
+| Revenue | 150 | 49 | ~15 (formal) + ~450 (collection fees on ~44,000-koku province revenue throughput, ~1%) | **~510** |
+| **Total** | **5,000** |  |  |  |
+
+A few things to notice:
+
+- The **provincial governor** at ~5,000 koku is the wealthiest provincial-tier official by a substantial margin - almost 10x the next-highest provincial minister (Revenue).
+- The **county magistrate** at ~800-900 koku effective (their ~1,000 tax-farming cut minus ~100-200 for county operations) is actually wealthier than every provincial minister except Revenue, despite holding a lower rank (Rank 5 vs Rank 7).  This is well-known in Rokugan and explains why ambitious junior samurai often prefer a county magistrate appointment to a provincial ministry appointment.
+- The **provincial Minister of Justice** at the virtuous floor (~80 koku) is genuinely poor for a Rank 7 official, comparable to a Tokugawa-era ordinary hizamurai.  The ceiling for a corrupt one in a wealthy province can exceed the Minister of Works.
+
+### County Magistrate Allocation
+
+The county magistrate has 1,000 koku.  They handle all six ministry functions personally (with the help of their ~15 useful samurai - the karo, the squad sergeants, the corporals, and the basic bushi):
+
+| Allocation | Annual koku per magistrate |
+| --- | --- |
+| **Magistrate's personal/household** | ~700-800 |
+| **County operations** (court, jail, modest seasonal festivals, minor road repairs) | ~200-300 |
+| **Total** | ~1,000 |
+
+There is no "Ministry of X" at the county level; the magistrate IS the apparatus for all six functions in their county.  This is one reason county magistrate is such a prestigious post: it concentrates ALL the local fiscal, judicial, ceremonial, and administrative authority in one person.
+
+### Cross-cutting project negotiation
+
+For projects that span multiple tiers (a new canal across the domain, maintenance of a road that crosses several provinces, mobilization for clan warfare), the question of who pays which share is a major source of domain politics.  The general pattern:
+
+- **Routine maintenance** stays at the tier responsible for that scope (county roads = magistrate; provincial roads = governor; capital infrastructure = daimyo)
+- **Capital projects** are negotiated, often with the daimyo expecting affected governors to contribute from their provincial Works budgets, and governors arguing that domain-spanning projects should come from the domain Works budget alone
+- **Emergencies** (war, famine relief) involve the daimyo drawing from their contingency reserves and demanding "emergency contributions" from governors above their normal budgets
+
+A 10,000-koku canal project, for example, might be funded purely from domain Works (using 33% of that year's domain Works budget), or split as 6,000 from domain Works + 600-700 from each of 6 affected provinces' Works budgets.  Which solution prevails depends on the daimyo's bargaining position, the governors' political weight, and the lineage chancellors' opinions in the chancellery.
+
+## Example Office-Holder Budgets
+
+### Magistrate Kakita Hikai of Seitoyama County
+
+Seitoyama is a county in Tsurugamine province of the Kakita domain (Crane clan).  Kakita Hikai is its current magistrate, a moderately conscientious official well-regarded by peasants and respected by their retainers.  The breakdowns below show Hikai's specific allocation choices; other magistrates with the same canonical 1,000-koku discretionary allocation but different personalities, lineage politics, or local circumstances allocate very differently.
+
+#### Income
+
+| Source | Households | Koku per household | Total |
+| --- | --- | --- | --- |
+| Town farmers (1 town × ~156 households) | ~156 | ~5 | ~780 |
+| Village farmers (6 villages × ~70 households each) | ~420 | ~5 | ~2,100 |
+| Hamlet farmers (36 hamlets × ~15 households each) | ~540 | ~5 | ~2,700 |
+| Town non-farm (merchants, laborers, servants, burakumin) | — | — | ~820 |
+| **Total county tax revenue** |  |  | **~6,400** |
+
+Math note: each farming household has ~5 members and pays ~5 koku per year in land tax (following the Rice and Arable-Land Math in [`l7r.md`](l7r.md#rice-and-arable-land-math)).  The ~1,116 farm families in the county contribute ~5,580 koku in farm taxes; the remainder is non-farm tax (predominantly from town merchants).
+
+Seitoyama is a heavily agrarian county, so Magistrate Hikai's tax revenue comes almost entirely from land tax and ordinary town property/business taxes.  Some specialized industries do exist - notably a local sake brewer - but their licenses are captured in the business tax column above and do not constitute a separate revenue stream.  Counties with major specialized industries (coastal counties with substantial fishing or salt-making operations, mountain counties with mining, river-junction counties with major brewing or paper-making) collect additional "small assessments" (in the Tokugawa *komononari* sense) beyond what is shown here, sometimes amounting to several hundred koku per year, occasionally more for an exceptional county.
+
+#### Mandatory expenses
+
+| Category | Annual koku | Notes |
+| --- | --- | --- |
+| Tax obligation to Governor Kakita Asuka | ~5,000 | The county's share of provincial revenue, passed up the chain |
+| Samurai stipends (~15 useful samurai × ~10 koku avg) | ~150 | Rank-squared rule, avg rank ~3 |
+| Samurai food allowance (~15 × ~3 koku) | ~45 |  |
+| Samurai equipment allowance (~15 × ~2 koku) | ~30 |  |
+| Ashigaru stipends | ~190 |  |
+| Office servants | ~20 |  |
+| Office supplies | ~10 |  |
+| **Total mandatory** |  | **~5,445** |
+
+#### Gift income (in addition to tax revenue)
+
+Beyond tax revenue, Magistrate Hikai receives approximately **~150 koku per year in seasonal gifts** from local notables - primarily merchant landlords (the largest single category, since they hold most rural rentable land in the county), wealthy artisans and tradesmen (the sake brewer, the master smith, the dye-house owner), and ceremonial visitors from the magistrate's own lineage.
+
+Unlike gifts to a Minister of Justice (which can shade into transactional bribery, since a Minister of Justice can directly grant rulings whose value far exceeds the gift), gifts to a county magistrate are predominantly **relational rather than transactional**.  The structural reason is that the magistrate's discretionary income depends on meeting their tax obligation to the governor: forgiving 1,000 koku of land tax owed by a merchant landlord in exchange for a 100-koku gift would simultaneously be forgiving the magistrate's own income, since the magistrate (not the governor) must make up any shortfall in the tax obligation.  The most effective way for a landlord to keep a magistrate happy is therefore not large gifts but rather **efficient rent collection and avoidance of tenant disputes** that would otherwise require the magistrate's costly intervention.
+
+Magistrate-level gifts thus tend to be modest in size and timed to ceremonial occasions (New Year, the major festivals, the magistrate's birthday).  A typical gift is a fine bolt of silk, a small barrel of premium sake, a piece of calligraphy by a renowned artist, or a brace of seasonal fish from a fortunate angler.  They communicate respect and maintain good relations rather than purchasing specific rulings.  A magistrate who receives unusually large gifts, or gifts at unusual times, has reason to wonder what specific favor the giver is preparing to request.
+
+#### Discretionary residual
+
+Of the ~6,400-koku tax income, ~5,445 goes to mandatory expenses (~5,000 tax obligation to Governor Asuka + ~445 in stipends and office operations), leaving Magistrate Hikai with a **~955-koku tax-derived discretionary allocation**.  Combined with the ~150-koku gift income above, Hikai's effective total discretionary income is **~1,105 koku per year**.
+
+#### Hikai's discretionary breakdown
+
+This is specifically how Magistrate Hikai chooses to allocate their ~1,105-koku total discretionary income (~955 from tax surplus + ~150 from gifts).  Other magistrates with the same allocation distribute very differently (see below).
+
+| Category | Annual koku | Type | Notes |
+| --- | --- | --- | --- |
+| Festival hosting and almsgiving (combined) | ~250 | Expected | Majority of this budget goes to almsgiving on festival days; the actual festival hosting costs are smaller than the alms distributed during them |
+| Retainer hospitality (food, sake, occasional lodging supplements for the ~15 samurai) | ~150 | Expected | Notionally retainers' stipends cover this, but in practice failure to provide leads to resentment and weak loyalty |
+| Visitor hospitality (lineage chancellor visits, imperial inspectors, neighboring magistrates) | ~50 | Expected |  |
+| Religious patronage (donations to county-town temple and small village shrines beyond the formal Rites budget) | ~50 | Expected |  |
+| Lineage patronage donation to the Kakita chancellor | ~110 | Expected (~10%) | "Voluntary" but socially-pressured; the customary tithe on total discretionary income |
+| **Subtotal: expected donations** | **~610** |  | ~55% of the allocation, consumed by never-required-but-always-expected obligations |
+| Lean-year savings (forward-thinking reserve) | ~275 | Personal | ~25% put away against bad harvests; well above the irresponsible ~5-10% range that many magistrates of lesser foresight accept |
+| Personal household and lifestyle (clothing, sword maintenance, family expenses) | ~140 | Personal | Gift income particularly helps here; many of the gifts received (silk, sake, fine goods) are themselves household-quality items that reduce out-of-pocket personal spending |
+| Truly free (small luxuries, gifts to others, personal indulgences) | ~80 | Personal | About 1-2 koku per week of unconstrained spending |
+| **Subtotal: personal/discretionary** | **~495** |  | ~45% of allocation, of which ~80 koku is truly unconstrained |
+| **Total** | **~1,105** |  |  |
+
+#### Summary
+
+Magistrate Kakita Hikai is responsible for collecting ~6,400 koku in taxes annually from Seitoyama county, of which ~5,000 goes up to Governor Kakita Asuka and ~445 covers stipends and office expenses.  The remaining ~955 koku is Hikai's tax-derived discretionary income, supplemented by ~150 koku in seasonal gifts from local notables, for a total of ~1,105 koku per year.  After festivals, almsgiving, retainer hospitality, and the customary lineage tithe, ~495 koku is truly personal - of which Hikai is forward-thinking enough to save ~275 against future lean years.  Hikai's truly-unconstrained spending is around ~80 koku per year, comfortable but not lavish.
+
+By all accounts Hikai is a virtuous magistrate.  One in their position who skimped on festivals or pocketed the lineage donation might keep two to three times that amount for themselves, at the cost of their standing in the lineage and the community.
 
 ## Capital City
 
