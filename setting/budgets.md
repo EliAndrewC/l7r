@@ -2,6 +2,51 @@
 
 Per-tier budget breakdowns for the median domain hierarchy, plus supporting tables.
 
+## Contents
+
+- [What These Populations Count](#what-these-populations-count)
+- [What the Samurai Counts Mean](#what-the-samurai-counts-mean)
+- [Samurai Stipend Convention](#samurai-stipend-convention)
+- [Domain](#domain)
+  - [Samurai](#samurai)
+  - [Budget](#budget)
+  - [Combined Budgets](#combined-budgets)
+- [Province](#province)
+  - [Samurai](#samurai-1)
+  - [Budget](#budget-1)
+  - [Tax Farming Cost by Tier](#tax-farming-cost-by-tier)
+- [County](#county)
+  - [Samurai](#samurai-2)
+  - [Skilled Ashigaru](#skilled-ashigaru)
+  - [Ashigaru](#ashigaru)
+  - [Budget](#budget-2)
+- [Ministry Budgets](#ministry-budgets)
+  - [Domain Ministry Budgets](#domain-ministry-budgets)
+  - [Provincial Ministry Budgets](#provincial-ministry-budgets)
+  - [County Magistrate Allocation](#county-magistrate-allocation)
+  - [Cross-cutting project negotiation](#cross-cutting-project-negotiation)
+- [Example Office-Holder Budgets](#example-office-holder-budgets)
+  - [Magistrate Kakita Hikai of Seitoyama County](#magistrate-kakita-hikai-of-seitoyama-county)
+    - [Income](#income)
+    - [Mandatory expenses](#mandatory-expenses)
+    - [Gift income (in addition to tax revenue)](#gift-income-in-addition-to-tax-revenue)
+    - [Discretionary residual](#discretionary-residual)
+    - [Hikai's discretionary breakdown](#hikais-discretionary-breakdown)
+    - [Summary](#summary)
+- [Capital City](#capital-city)
+- [Provincial City](#provincial-city)
+- [Town](#town)
+- [Village](#village)
+- [Hamlet](#hamlet)
+- [Tax Pie](#tax-pie)
+- [Land Productivity](#land-productivity)
+  - [Unit Conversions: land area to rice koku](#unit-conversions-land-area-to-rice-koku)
+  - [Per-Family Reference](#per-family-reference)
+  - [Farm Families by Tier (per Domain)](#farm-families-by-tier-per-domain)
+  - [Arable Land Allocation (per Domain)](#arable-land-allocation-per-domain)
+  - [Rice Productivity by Land Quality](#rice-productivity-by-land-quality)
+  - [Wheat Productivity by Land Quality](#wheat-productivity-by-land-quality)
+
 ## What These Populations Count
 
 The "population" figures in this document mean different things at different tiers, and the differences matter for the math downstream (see [`l7r.md` - The Median Domain](l7r.md#the-median-domain) for the canonical per-tier population ranges):
