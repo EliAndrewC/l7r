@@ -360,6 +360,76 @@ Magistrate Kakita Hikai is responsible for collecting ~6,400 koku in taxes annua
 
 By all accounts Hikai is a virtuous magistrate.  One in their position who skimped on festivals or pocketed the lineage donation might keep two to three times that amount for themselves, at the cost of their standing in the lineage and the community.
 
+### Governor Kakita Asuka of Tsurugamine Province
+
+Tsurugamine is a province in the Kakita domain (Crane clan), containing Seitoyama county (administered by Magistrate Hikai, above) among its six counties.  Kakita Asuka is its current governor, a moderately accomplished official well-regarded within the Kakita Chancellery though not particularly distinguished in the broader Crane political landscape.  The breakdowns below show Asuka's specific allocation choices; other governors with the same canonical 10,000-koku tax-farming cut allocate very differently depending on the wealth of their province and their personal temperament.
+
+#### Income
+
+| Source | Annual koku | Notes |
+| --- | --- | --- |
+| Tribute from 6 county magistrates (~5,000 each) | ~30,000 | Standard provincial-tier share of county tax revenue; Hikai's ~5,000 obligation is one of these six |
+| Provincial city direct tax base (property + business; dominated by very-rich and rich merchant households) | ~6,200 | Per the Provincial City caste table below |
+| Provincial city import tariffs (Yasuki Taka system at the city gates) | ~7,800 | Varies by trade volume; Tsurugamine is a moderately trafficked province on the Kakita-Daidoji border |
+| **Total provincial throughput** |  | **~44,000** |
+
+#### Mandatory expenses
+
+| Category | Annual koku | Notes |
+| --- | --- | --- |
+| Tax obligation to the Kakita family daimyo | ~34,000 | The province's share of domain revenue, passed up the chain |
+| Provincial ministry budgets (sum across the six ministries) | ~5,000 | Per the [Provincial Ministry Budgets](#provincial-ministry-budgets) table above; covers samurai stipends across all six provincial ministries plus ministry operations |
+| Asuka's personal samurai retinue (~10 samurai serving the governor directly, outside ministry assignments) | ~150 | Captain of the guard, household secretaries, personal yoriki; ~15 koku average for provincial-tier samurai |
+| Governor's manor operations (servants, food, security, maintenance, stables) | ~1,000 |  |
+| Governor's office operations (clerks, scribes, runners, supplies, courier service) | ~250 |  |
+| **Total mandatory** |  | **~40,400** |
+
+Math note: the 6 county magistrates pass up ~30,000 koku, the provincial city's own tax base contributes ~6,200, and the Yasuki Taka tariff system at the provincial city gates contributes the remaining ~7,800 - bringing total throughput to ~44,000.  Of this, ~34,000 goes up to the Kakita daimyo, leaving Asuka with her canonical 10,000-koku tax-farming cut.  Within that 10,000, the six provincial ministry budgets consume ~5,000 (covering all ministry samurai stipends and operations per the breakdown above); Asuka's personal retinue, manor, and office operations consume another ~1,400; the remaining ~3,600 is her tax-derived discretionary allocation.
+
+#### Gift income
+
+Beyond tax revenue, Governor Asuka receives approximately **~1,000 koku per year in seasonal gifts** from notables across Tsurugamine.  The major categories:
+
+- **The 6 county magistrates under her authority** each give ceremonial gifts on New Year and the major festivals (~8 koku per occasion per magistrate, following the rank-scaled gift convention for the Rank 8 provincial governor; ~200 koku/year total)
+- **Very-rich and rich merchant families in the provincial city** (~30 households between them; gifts scale by household wealth, totaling ~400 koku/year)
+- **Wealthy merchant landlords from outlying counties** whose holdings span multiple counties and who therefore have province-wide rather than purely county-level concerns (~6 counties × 2-3 such families × ~5 koku/year ≈ ~80 koku)
+- **Major sake brewers** in the province (a handful of large operations whose annual licenses approach 100 koku; gifts of ~15-20 koku/year each, totaling ~75 koku)
+- **The six provincial ministers serving under Asuka** (~30 koku/year each; partially reciprocated since Asuka also gifts subordinates downward, so the net inflow is closer to ~100 koku)
+- **Lineage chancellor and senior lineage members** (~75-100 koku, exchanged in both directions with substantial net symmetry)
+- **Peer governors and visiting daimyo representatives** (variable, ~50 koku net inflow in a typical year)
+
+This totals roughly 6-7x Magistrate Hikai's ~150-koku gift income.  The increase reflects the broader jurisdiction and richer pool of potential gifters - and the larger denominational increments scaled to the governor's higher rank - but NOT a qualitatively different scale that would mark transactional bribery.  A governor reporting 10x or more in gift income relative to a county magistrate is generally operating somewhere on the corrupt end of the spectrum.
+
+Like gifts to a county magistrate, gifts to a provincial governor are predominantly **relational rather than transactional** for the same fiscal reasons: forgiving merchant tax obligations in exchange for gifts would forgive Asuka's own income, since she must meet her ~34,000-koku tribute obligation to the Kakita daimyo regardless.  The governor's structural temptation toward transactional gifts comes not from tax forgiveness but from **policy discretion** - provincial-level decisions about tariff rates on specific goods, road maintenance priorities between counties, market regulations at the provincial city, and recommendations to the daimyo about appointments can favor or harm specific merchant houses by amounts far exceeding any individual gift.  A virtuous governor declines gifts that arrive too close to such decisions; a corrupt governor in a wealthy province can extract substantially more than the ~1,000-koku baseline, with the ceiling set by the same factors that limit the Minister of Justice (visibility within the lineage, the daimyo's attention, the Imperial magistrate stationed in the domain capital).
+
+#### Discretionary residual
+
+Of the ~44,000-koku provincial throughput, ~40,400 goes to mandatory expenses, leaving Asuka with **~3,600-koku tax-derived discretionary allocation**.  Combined with the ~1,000-koku gift income, Asuka's effective total discretionary income is **~4,600 koku per year**.
+
+#### Asuka's discretionary breakdown
+
+This is specifically how Governor Asuka chooses to allocate her ~4,600-koku total discretionary income (~3,600 from tax surplus + ~1,000 from gifts).  Other governors with the same canonical allocation distribute very differently.
+
+| Category | Annual koku | Type | Notes |
+| --- | --- | --- | --- |
+| Provincial festival hosting and almsgiving (combined) | ~800 | Expected | Provincial festivals are more elaborate than county festivals; almsgiving at provincial scale is more visible and politically important |
+| Retainer hospitality (food, sake, occasional lodging for the ~10 personal retainers and the ~6 visiting county magistrates and ~6 provincial ministers Asuka entertains regularly) | ~600 | Expected | Notionally retainers' stipends cover their day-to-day; in practice failure to host generously erodes loyalty across the entire provincial command |
+| Visitor hospitality (lineage chancellor visits, the Kakita daimyo's representatives, the Imperial magistrate, peer governors, Doji clan officials) | ~300 | Expected |  |
+| Religious patronage (donations to the provincial abbot's temples and minor village shrines beyond the formal Rites budget) | ~200 | Expected |  |
+| Lineage patronage donation to the Kakita chancellor | ~460 | Expected (~10%) | Customary tithe on total discretionary income; somewhat higher in absolute terms than Hikai's because Asuka's discretionary base is larger |
+| **Subtotal: expected donations** | **~2,360** |  | ~51% of allocation, consumed by the same never-required-but-always-expected obligations that consume the majority of a county magistrate's discretionary income |
+| Lean-year savings (forward-thinking reserve) | ~1,200 | Personal | ~26% put away against bad harvests, blight years, military levies, or unexpected provincial obligations |
+| Personal household and lifestyle (clothing, sword maintenance, family expenses, political wardrobe for chancellery appearances) | ~700 | Personal | Higher than Hikai's because the governor's household includes a wider family circle plus visible political wardrobe expectations at the chancellery |
+| Truly free (small luxuries, gifts to subordinates above the customary, personal indulgences) | ~340 | Personal | Around ~28 koku per month of unconstrained spending |
+| **Subtotal: personal/discretionary** | **~2,240** |  | ~49% of allocation, of which ~340 koku is truly unconstrained |
+| **Total** | **~4,600** |  |  |
+
+#### Summary
+
+Governor Kakita Asuka is responsible for collecting ~44,000 koku in tax revenue annually from Tsurugamine province, of which ~34,000 goes up to the Kakita family daimyo and ~5,000 funds the six provincial ministry budgets.  Another ~1,400 covers her personal samurai retinue and manor/office operations, leaving Asuka with a ~3,600-koku tax-derived discretionary allocation, supplemented by ~1,000 koku in seasonal gifts from the province's notables, for a total of ~4,600 koku per year.  After festivals, almsgiving, retainer and visitor hospitality, religious patronage, and the customary lineage tithe, ~2,240 koku is truly personal - of which Asuka is forward-thinking enough to save ~1,200 against future lean years.  Her truly-unconstrained spending is around ~340 koku per year, roughly 5-6x Magistrate Hikai's discretionary scale.
+
+This reflects Asuka's higher tier and broader responsibilities, but it is NOT a fundamentally different lifestyle - the governor of a typical province lives perhaps as a wealthier-than-average mounted samurai might, not as a minor daimyo.  By all accounts Asuka is a virtuous-but-not-exceptional governor: she meets her obligations to the daimyo on time, refuses transactional gifts on contested policy decisions, hosts the expected festivals, and is well-regarded if not actively beloved within her lineage.  A more politically ambitious governor would cultivate the chancellery more aggressively (and pay for the cultivation out of personal savings); a less scrupulous one in the same role could extract two to three times Asuka's discretionary income through transactional policy gifts, at the cost of standing within the Kakita Chancellery and the Crane clan more broadly.
+
 ## Capital City
 
 Total population: **~12,000**.
