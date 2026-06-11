@@ -375,7 +375,7 @@ Tsurugamine is a province in the Kakita domain (Crane clan), containing Seitoyam
 
 | Source | Annual koku | Notes |
 | --- | --- | --- |
-| Tribute from 6 county magistrates (~5,000 each) | ~30,000 | Standard provincial-tier share of county tax revenue; Hikai's ~5,000 obligation is one of these six |
+| Tax obligation from 6 county magistrates (~5,000 each) | ~30,000 | Standard provincial-tier share of county tax revenue; Hikai's ~5,000 obligation is one of these six |
 | Provincial city direct tax base (property + business; dominated by very-rich and rich merchant households) | ~6,200 | Per the Provincial City caste table below |
 | Provincial city import tariffs (Yasuki Taka system at the city gates) | ~7,800 | Varies by trade volume; Tsurugamine is a moderately trafficked province on the Kakita-Daidoji border |
 | **Total provincial throughput** |  | **~44,000** |
