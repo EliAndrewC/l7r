@@ -25,20 +25,27 @@ Per-tier budget breakdowns for the median domain hierarchy, plus supporting tabl
   - [Provincial Ministry Budgets](#provincial-ministry-budgets)
   - [Cross-cutting project negotiation](#cross-cutting-project-negotiation)
 - [Example Office-Holder Budgets](#example-office-holder-budgets)
-  - [Magistrate Kakita Hikai of Seitoyama County](#magistrate-kakita-hikai-of-seitoyama-county)
+  - [Magistrate Hida no Reiji Hikai of Seitoyama County](#magistrate-hida-no-reiji-hikai-of-seitoyama-county)
     - [Income](#income)
     - [Mandatory expenses](#mandatory-expenses)
     - [Gift income (in addition to tax revenue)](#gift-income-in-addition-to-tax-revenue)
     - [Discretionary residual](#discretionary-residual)
     - [Hikai's discretionary breakdown](#hikais-discretionary-breakdown)
     - [Summary](#summary)
-  - [Governor Kakita Asuka of Tsurugamine Province](#governor-kakita-asuka-of-tsurugamine-province)
+  - [Governor Hida no Reiji Asuka of Nagahara Province](#governor-hida-no-reiji-asuka-of-nagahara-province)
     - [Income](#income-1)
     - [Mandatory expenses](#mandatory-expenses-1)
     - [Gift income](#gift-income)
     - [Discretionary residual](#discretionary-residual-1)
     - [Asuka's discretionary breakdown](#asukas-discretionary-breakdown)
     - [Summary](#summary-1)
+  - [Daimyo Hida no Reiji Isao of the Reiji Domain](#daimyo-hida-no-reiji-isao-of-the-reiji-domain)
+    - [Income](#income-2)
+    - [Mandatory expenses](#mandatory-expenses-2)
+    - [Gift income](#gift-income-1)
+    - [Discretionary residual](#discretionary-residual-2)
+    - [Isao's discretionary breakdown](#isaos-discretionary-breakdown)
+    - [Summary](#summary-2)
 - [Capital City](#capital-city)
 - [Provincial City](#provincial-city)
 - [Town](#town)
@@ -231,26 +238,21 @@ The breakdowns below show the typical allocation at each tier.  Numbers are appr
 
 ### Domain Ministry Budgets
 
-The daimyo has approximately 109,000 koku/year available (their ~100,000 tax-farming cut plus the ~9,000-koku domain surplus residual).  Of this, roughly half funds domain ministry budgets:
+A typical domain generates ~230,000 koku/year in tax throughput at the daimyo's tier (the six provincial governors' tax obligations passed up, plus the capital city's own direct tax base and import tariffs).  Of this, ~77,500 koku flows up to the clan daimyo, family daimyo, and Imperial superiors as the 10% land-output kick-ups (see [l7r.md - The Imperial Budget](l7r.md#the-imperial-budget)), ~50,000 funds the domain's six ministries (covering capital samurai stipends and ministry operations), and ~1,400 covers minor domain servants, supplies, and the daimyo's direct personal staff.  The remaining ~100,000 koku is the **daimyo's discretionary cut** - the canonical "tax-farming cut" that defines the post's value, parallel to a provincial governor's ~10,000 and a county magistrate's ~1,000.
 
-| Allocation | Annual koku |
-| --- | --- |
-| **Daimyo's personal/household** | ~50,000 |
-| **Domain ministry budgets** (sum) | ~50,000 |
-| **Reserves / contingency** | ~9,000 |
-| **Total** | ~109,000 |
+Unlike the magistrate's and governor's figures (which are well-established and tightly load-bearing across the campaign), the daimyo's discretionary cut varies more widely with domain wealth.  Wealthy maritime trade domains or large clan-capital domains can run substantially higher; poor frontier or war-recovering domains may run well below ~100,000.  The ~100,000 figure represents the median rather than a fixed expectation.
 
-The 50,000-koku ministry breakdown, with the resulting effective income for each Rank 10 minister:
+The ~50,000-koku ministry allocation breaks down across the six ministries (each administers some portion of the 1,000 capital samurai per their budget share, plus their non-stipend operating expenses), with effective income for each Rank 10 minister:
 
-| Ministry | Budget | Minister's stipend | Informal income (10% skim + throughput where applicable) | Minister's effective income |
+| Ministry | Budget | Minister's stipend | Informal income (~10% skim + throughput where applicable) | Minister's effective income |
 | --- | --- | --- | --- | --- |
-| Works | 30,000 | 100 | ~3,000 | **~3,100** |
-| War | 7,000 | 100 | ~700 | **~800** |
-| Rites | 6,000 | 100 | ~600 | **~700** |
-| Justice | 3,000 | 100 | ~300 (formal) + variable from gifts and fines | **~400 (virtuous) to ~3,000+ (corrupt in a wealthy domain)** |
-| Retainers | 3,000 | 100 | ~300 (formal) + ~2,000 (rice/coin arbitrage on capital stipend throughput of ~35,000) | **~2,400** |
-| Revenue | 1,000 | 100 | ~100 (formal) + ~2,000 (tax-collection fees on throughput) | **~2,200** |
-| **Total** | **50,000** |  |  |  |
+| Works | ~30,000 | 100 | ~3,000 | **~3,100** |
+| War | ~7,000 | 100 | ~700 | **~800** |
+| Rites | ~6,000 | 100 | ~600 | **~700** |
+| Justice | ~3,000 | 100 | ~300 (formal) + variable from gifts and fines | **~400 (virtuous) to ~3,000+ (corrupt in a wealthy domain)** |
+| Retainers | ~3,000 | 100 | ~300 (formal) + ~2,000 (rice/coin arbitrage on capital stipend throughput of ~35,000) | **~2,400** |
+| Revenue | ~1,000 | 100 | ~100 (formal) + ~2,000 (tax-collection fees on throughput) | **~2,200** |
+| **Total** | **~50,000** |  |  |  |
 
 Notice the **structural floor for the Minister of Justice is the lowest** of the six (~400 koku effective income at the modest end), but the **ceiling is uncapped**.  Ministers of Justice in wealthy domains can accept significant "gifts" from those under their judicial authority and assess fines whose amounts they set within wide precedential limits.  A virtuous Minister of Justice lives modestly on the formal ~400; a corrupt one in a wealthy domain can exceed even the Minister of Works; both extremes are well-attested in Rokugan.
 
@@ -258,30 +260,24 @@ The other ministries cluster more tightly around their budget-determined income.
 
 ### Provincial Ministry Budgets
 
-Each provincial governor has 10,000 koku to work with (their entire tax-farming cut).  This splits roughly:
+Each province generates ~44,000 koku/year in tax throughput (county tributes + the provincial city's direct tax base + city-gate tariffs).  Of this, ~29,500 koku flows up to the daimyo as the province's tax obligation, ~5,000 covers all provincial samurai stipends (across the six ministries and including those samurai who serve in the governor's personal household roles, ~250 working samurai × ~20 koku average compensation), and ~30 covers minor provincial servants and supplies.  The remaining ~10,000 koku is the **governor's discretionary cut** - the canonical "tax-farming cut" that defines the post's value, parallel to a county magistrate's ~1,000-koku cut.
 
-| Allocation | Annual koku per governor |
-| --- | --- |
-| **Governor's personal/household** | ~5,000 |
-| **Provincial ministry budgets** (sum) | ~5,000 |
-| **Total** | ~10,000 |
-
-The 5,000-koku provincial ministry breakdown, with effective income for each Rank 7 provincial minister:
+The 5,000-koku provincial ministry allocation breaks down across the six ministries (each of which administers some portion of the 250 provincial samurai per their budget share, plus their non-stipend operating expenses), with effective income for each Rank 7 provincial minister:
 
 | Ministry | Budget per province | Minister's stipend | Informal income | Minister's effective income |
 | --- | --- | --- | --- | --- |
-| Works | 3,000 | 49 | ~300 | **~350** |
-| War | 700 | 49 | ~70 | **~120** |
-| Rites | 600 | 49 | ~60 | **~110** |
-| Justice | 300 | 49 | ~30 (formal) + variable from gifts and fines | **~80 (virtuous) to ~500+ (corrupt in a wealthy province)** |
-| Retainers | 250 | 49 | ~25 (formal) + ~200 (rice/coin arbitrage on ~3,750-koku provincial stipend throughput) | **~275** |
-| Revenue | 150 | 49 | ~15 (formal) + ~450 (collection fees on ~44,000-koku province revenue throughput, ~1%) | **~510** |
-| **Total** | **5,000** |  |  |  |
+| Works | ~3,000 | 49 | ~300 | **~350** |
+| War | ~700 | 49 | ~70 | **~120** |
+| Rites | ~600 | 49 | ~60 | **~110** |
+| Justice | ~300 | 49 | ~30 (formal) + variable from gifts and fines | **~80 (virtuous) to ~500+ (corrupt in a wealthy province)** |
+| Retainers | ~250 | 49 | ~25 (formal) + ~200 (rice/coin arbitrage on ~3,750-koku provincial stipend throughput) | **~275** |
+| Revenue | ~150 | 49 | ~15 (formal) + ~450 (collection fees on ~44,000-koku province revenue throughput, ~1%) | **~510** |
+| **Total** | **~5,000** |  |  |  |
 
 A few things to notice:
 
-- The **provincial governor** at ~5,000 koku is the wealthiest provincial-tier official by a substantial margin - almost 10x the next-highest provincial minister (Revenue).
-- The **county magistrate** at ~800-900 koku effective (their ~1,000 tax-farming cut minus ~100-200 for county operations) is actually wealthier than every provincial minister except Revenue, despite holding a lower rank (Rank 5 vs Rank 7).  This is well-known in Rokugan and explains why ambitious junior samurai often prefer a county magistrate appointment to a provincial ministry appointment.
+- The **provincial governor** at ~10,000 koku discretionary income is the wealthiest provincial-tier official by an enormous margin - almost 20x the next-highest provincial minister (Revenue).
+- The **county magistrate** at ~1,000 koku discretionary (~955 from tax surplus + ~150 from gifts in Hikai's case, ~1,105 total) is actually wealthier than every provincial minister except Revenue, despite holding a lower rank (Rank 5 vs Rank 7).  This is well-known in Rokugan and explains why ambitious junior samurai often prefer a county magistrate appointment to a provincial ministry appointment.
 - The **provincial Minister of Justice** at the virtuous floor (~80 koku) is genuinely poor for a Rank 7 official, comparable to a Tokugawa-era ordinary hizamurai.  The ceiling for a corrupt one in a wealthy province can exceed the Minister of Works.
 
 ### Cross-cutting project negotiation
@@ -292,13 +288,13 @@ For projects that span multiple tiers (a new canal across the domain, maintenanc
 - **Capital projects** are negotiated, often with the daimyo expecting affected governors to contribute from their provincial Works budgets, and governors arguing that domain-spanning projects should come from the domain Works budget alone
 - **Emergencies** (war, famine relief) involve the daimyo drawing from their contingency reserves and demanding "emergency contributions" from governors above their normal budgets
 
-A 10,000-koku canal project, for example, might be funded purely from domain Works (using 33% of that year's domain Works budget), or split as 6,000 from domain Works + 600-700 from each of 6 affected provinces' Works budgets.  Which solution prevails depends on the daimyo's bargaining position, the governors' political weight, and the lineage chancellors' opinions in the chancellery.
+A ~10,000-koku canal project, for example, might be funded purely from domain Works (using ~33% of that year's domain Works budget), or split as ~6,000 from domain Works + ~600-700 from each of 6 affected provinces' Works budgets.  Which solution prevails depends on the daimyo's bargaining position, the governors' political weight, and the lineage chancellors' opinions in the chancellery.
 
 ## Example Office-Holder Budgets
 
-### Magistrate Kakita Hikai of Seitoyama County
+### Magistrate Hida no Reiji Hikai of Seitoyama County
 
-Seitoyama is a county in Tsurugamine province of the Kakita domain (Crane clan).  Kakita Hikai is its current magistrate, a moderately conscientious official well-regarded by peasants and respected by their retainers.  The breakdowns below show Hikai's specific allocation choices; other magistrates with the same canonical 1,000-koku discretionary allocation but different personalities, lineage politics, or local circumstances allocate very differently.
+Seitoyama is a county in Nagahara province of the Reiji domain (Crab clan).  Hida no Reiji Hikai is its current magistrate, a moderately conscientious official well-regarded by peasants and respected by their retainers.  The breakdowns below show Hikai's specific allocation choices; other magistrates with the same canonical 1,000-koku discretionary allocation but different personalities, lineage politics, or local circumstances allocate very differently.
 
 #### Income
 
@@ -319,7 +315,7 @@ Seitoyama is a heavily agrarian county, so Magistrate Hikai's tax revenue comes 
 
 | Category | Annual koku | Notes |
 | --- | --- | --- |
-| Tax obligation to Governor Kakita Asuka | ~5,000 | The county's share of provincial revenue, passed up the chain |
+| Tax obligation to Governor Hida no Reiji Asuka | ~5,000 | The county's share of provincial revenue, passed up the chain |
 | Samurai stipends (~15 useful samurai × ~10 koku avg) | ~150 | Rank-squared rule, avg rank ~3 |
 | Samurai food allowance (~15 × ~3 koku) | ~45 |  |
 | Samurai equipment allowance (~15 × ~2 koku) | ~30 |  |
@@ -332,7 +328,7 @@ Seitoyama is a heavily agrarian county, so Magistrate Hikai's tax revenue comes 
 
 Beyond tax revenue, Magistrate Hikai receives approximately **~150 koku per year in seasonal gifts** from local notables - primarily merchant landlords (the largest single category, since they hold most rural rentable land in the county), wealthy artisans and tradesmen (the sake brewer, the master smith, the dye-house owner), and ceremonial visitors from the magistrate's own lineage.
 
-Unlike gifts to a Minister of Justice (which can shade into transactional bribery, since a Minister of Justice can directly grant rulings whose value far exceeds the gift), gifts to a county magistrate are predominantly **relational rather than transactional**.  The structural reason is that the magistrate's discretionary income depends on meeting their tax obligation to the governor: forgiving 1,000 koku of land tax owed by a merchant landlord in exchange for a 100-koku gift would be forgiving the county magistrate's own income, since the magistrate must make up any shortfall in their tax obligation to the provincial governor.  The most effective way for a landlord to keep a magistrate happy is therefore not large gifts but rather **efficient rent collection and avoidance of tenant disputes** that would otherwise require the magistrate's costly intervention.
+Unlike gifts to a Minister of Justice (which can shade into transactional bribery, since a Minister of Justice can directly grant rulings whose value far exceeds the gift), gifts to a county magistrate are predominantly **relational rather than transactional**.  The structural reason is that the magistrate's discretionary income depends on meeting their tax obligation to the governor: forgiving ~1,000 koku of land tax owed by a merchant landlord in exchange for a ~100-koku gift would be forgiving the county magistrate's own income, since the magistrate must make up any shortfall in their tax obligation to the provincial governor.  The most effective way for a landlord to keep a magistrate happy is therefore not large gifts but rather **efficient rent collection and avoidance of tenant disputes** that would otherwise require the magistrate's costly intervention.
 
 Gifts to county magistrates therefore tend to be modest in size and timed to ceremonial occasions (New Year, the major festivals, the magistrate's birthday, etc).  A typical gift is a fine bolt of silk, a small barrel of premium sake, a piece of calligraphy by a renowned artist, or a brace of seasonal fish from a fortunate angler.  They communicate respect and maintain good relations rather than purchasing specific rulings.  A magistrate who receives unusually large gifts, or gifts at unusual times, has reason to wonder what specific favor the giver is preparing to request.
 
@@ -353,7 +349,7 @@ This is specifically how Magistrate Hikai chooses to allocate their ~1,105-koku 
 | Retainer hospitality (food, sake, occasional lodging supplements for the ~15 samurai) | ~150 | Expected | Notionally retainers' stipends cover this, but in practice failure to provide leads to resentment and weak loyalty |
 | Visitor hospitality (lineage chancellor visits, imperial inspectors, neighboring magistrates) | ~50 | Expected |  |
 | Religious patronage (donations to county-town temple and small village shrines beyond the formal Rites budget) | ~50 | Expected |  |
-| Lineage patronage donation to the Kakita chancellor | ~110 | Expected (~10%) | "Voluntary" but socially-pressured; the customary tithe on total discretionary income |
+| Lineage patronage donation to the Reiji chancellor | ~110 | Expected (~10%) | "Voluntary" but socially-pressured; the customary tithe on total discretionary income |
 | **Subtotal: expected donations** | **~690** |  | ~62% of the allocation, consumed by never-required-but-always-expected obligations |
 | Lean-year savings (forward-thinking reserve) | ~250 | Personal | ~23% put away against bad harvests; well above the irresponsible ~5-10% range that many magistrates of lesser foresight accept |
 | Personal household and lifestyle (clothing, sword maintenance, family expenses) | ~105 | Personal | Gift income particularly helps here; many of the gifts received (silk, sake, fine goods) are themselves household-quality items that reduce out-of-pocket personal spending |
@@ -363,13 +359,13 @@ This is specifically how Magistrate Hikai chooses to allocate their ~1,105-koku 
 
 #### Summary
 
-Magistrate Kakita Hikai is responsible for collecting ~6,400 koku in taxes annually from Seitoyama county, of which ~5,000 goes up to Governor Kakita Asuka and ~445 covers stipends and office expenses.  The remaining ~955 koku is Hikai's tax-derived discretionary income, supplemented by ~150 koku in seasonal gifts from local notables, for a total of ~1,105 koku per year.  After festivals, almsgiving, county operations, retainer hospitality, and the customary lineage tithe, ~415 koku is truly personal - of which Hikai is forward-thinking enough to save ~250 against future lean years.  Hikai's truly-unconstrained spending is around ~60 koku per year, comfortable but not lavish.
+Magistrate Hida no Reiji Hikai is responsible for collecting ~6,400 koku in taxes annually from Seitoyama county, of which ~5,000 goes up to Governor Hida no Reiji Asuka and ~445 covers stipends and office expenses.  The remaining ~955 koku is Hikai's tax-derived discretionary income, supplemented by ~150 koku in seasonal gifts from local notables, for a total of ~1,105 koku per year.  After festivals, almsgiving, county operations, retainer hospitality, and the customary lineage tithe, ~415 koku is truly personal - of which Hikai is forward-thinking enough to save ~250 against future lean years.  Hikai's truly-unconstrained spending is around ~60 koku per year, comfortable but not lavish.
 
 By all accounts Hikai is a virtuous magistrate.  One in their position who skimped on festivals or pocketed the lineage donation might keep two to three times that amount for themselves, at the cost of their standing in the lineage and the community.
 
-### Governor Kakita Asuka of Tsurugamine Province
+### Governor Hida no Reiji Asuka of Nagahara Province
 
-Tsurugamine is a province in the Kakita domain (Crane clan), containing Seitoyama county (administered by Magistrate Hikai, above) among its six counties.  Kakita Asuka is its current governor, a moderately accomplished official well-regarded within the Kakita Chancellery though not particularly distinguished in the broader Crane political landscape.  The breakdowns below show Asuka's specific allocation choices; other governors with the same canonical 10,000-koku tax-farming cut allocate very differently depending on the wealth of their province and their personal temperament.
+Nagahara is a province in the Reiji domain (Crab clan), containing Seitoyama county (administered by Magistrate Hikai, above) among its six counties.  Hida no Reiji Asuka is its current governor, a moderately accomplished official well-regarded within the Reiji Chancellery though not particularly distinguished in the broader Crab political landscape.  The breakdowns below show Asuka's specific allocation choices; other governors with the same canonical ~10,000-koku discretionary allocation distribute very differently depending on the wealth of their province and their personal temperament.
 
 #### Income
 
@@ -377,25 +373,25 @@ Tsurugamine is a province in the Kakita domain (Crane clan), containing Seitoyam
 | --- | --- | --- |
 | Tax obligation from 6 county magistrates (~5,000 each) | ~30,000 | Standard provincial-tier share of county tax revenue; Hikai's ~5,000 obligation is one of these six |
 | Provincial city direct tax base (property + business; dominated by very-rich and rich merchant households) | ~6,200 | Per the Provincial City caste table below |
-| Provincial city import tariffs (Yasuki Taka system at the city gates) | ~7,800 | Varies by trade volume; Tsurugamine is a moderately trafficked province on the Kakita-Daidoji border |
+| Provincial city import tariffs (Yasuki Taka system at the city gates) | ~7,800 | Varies by trade volume; Nagahara is a typical inland Crab province with steady but moderate caravan traffic through its provincial city, primarily from neighboring Scorpion lands |
 | **Total provincial throughput** |  | **~44,000** |
 
 #### Mandatory expenses
 
 | Category | Annual koku | Notes |
 | --- | --- | --- |
-| Tax obligation to the Kakita family daimyo | ~34,000 | The province's share of domain revenue, passed up the chain |
-| Provincial ministry budgets (sum across the six ministries) | ~5,000 | Per the [Provincial Ministry Budgets](#provincial-ministry-budgets) table above; covers samurai stipends across all six provincial ministries plus ministry operations |
-| Asuka's personal samurai retinue (~10 samurai serving the governor directly, outside ministry assignments) | ~150 | Captain of the guard, household secretaries, personal yoriki; ~15 koku average for provincial-tier samurai |
-| Governor's manor operations (servants, food, security, maintenance, stables) | ~1,000 |  |
-| Governor's office operations (clerks, scribes, runners, supplies, courier service) | ~250 |  |
-| **Total mandatory** |  | **~40,400** |
+| Tax obligation to Daimyo Hida no Reiji Isao | ~29,500 | The province's share of domain revenue, passed up the chain |
+| Provincial samurai stipends + food + equipment (~250 working samurai × ~20 koku average compensation, distributed across the six ministries and the governor's personal household roles) | ~5,000 | Per the [Provincial Ministry Budgets](#provincial-ministry-budgets) table above |
+| Provincial servants and supplies | ~30 |  |
+| **Total mandatory** |  | **~34,500** |
 
-Math note: the 6 county magistrates pass up ~30,000 koku, the provincial city's own tax base contributes ~6,200, and the Yasuki Taka tariff system at the provincial city gates contributes the remaining ~7,800 - bringing total throughput to ~44,000.  Of this, ~34,000 goes up to the Kakita daimyo, leaving Asuka with her canonical 10,000-koku tax-farming cut.  Within that 10,000, the six provincial ministry budgets consume ~5,000 (covering all ministry samurai stipends and operations per the breakdown above); Asuka's personal retinue, manor, and office operations consume another ~1,400; the remaining ~3,600 is her tax-derived discretionary allocation.
+Math note: the 6 county magistrates pass up ~30,000 koku, the provincial city's own tax base contributes ~6,200, and the Yasuki Taka tariff system at the provincial city gates contributes the remaining ~7,800 - bringing total throughput to ~44,000.  After ~29,500 goes up to Daimyo Isao (the province's share of domain revenue) and ~5,000 covers provincial samurai stipends across the six ministries plus the small provincial servants/supplies line, Asuka is left with **~10,000 koku of discretionary income**.  This is the canonical "tax-farming cut" that defines the post's value, parallel to a county magistrate's ~1,000-koku cut.  All of Asuka's personal household operations, manor, retinue hospitality, festival and almsgiving obligations, lineage tithe, savings, and truly-personal spending come out of this ~10,000 plus her gift income, broken down further below.
+
+A structural note: the ~29,500 tax obligation is close to but not exactly equal to the sum of the 6 county magistrates' ~5,000 tributes (which sum to ~30,000).  This is not because the governor merely passes county money up to the daimyo unchanged - the governor receives ALL provincial revenue (county tribute, the provincial city's direct tax base, and the city-gate tariffs) and decides what funds provincial operations, what they keep, and what flows up.  The ~29,500 figure is the residual after provincial operations and the governor's cut are funded; it happens to be close to the county tribute total because of how the median domain's per-tier ratios fall out, not because of a structural "counties pay daimyo directly" rule.
 
 #### Gift income
 
-Beyond tax revenue, Governor Asuka receives approximately **~1,000 koku per year in seasonal gifts** from notables across Tsurugamine.  The major categories:
+Beyond tax revenue, Governor Asuka receives approximately **~1,000 koku per year in seasonal gifts** from notables across Nagahara.  The major categories:
 
 - **The 6 county magistrates under her authority** each give ceremonial gifts on New Year and the major festivals (~8 koku per occasion per magistrate, following the rank-scaled gift convention for the Rank 8 provincial governor; ~200 koku/year total)
 - **Very-rich and rich merchant families in the provincial city** (~30 households between them; gifts scale by household wealth, totaling ~400 koku/year)
@@ -407,35 +403,106 @@ Beyond tax revenue, Governor Asuka receives approximately **~1,000 koku per year
 
 This totals roughly 6-7x Magistrate Hikai's ~150-koku gift income.  The increase reflects the broader jurisdiction and richer pool of potential gifters - and the larger denominational increments scaled to the governor's higher rank - but NOT a qualitatively different scale that would mark transactional bribery.  A governor reporting 10x or more in gift income relative to a county magistrate is generally operating somewhere on the corrupt end of the spectrum.
 
-Like gifts to a county magistrate, gifts to a provincial governor are predominantly **relational rather than transactional** for the same fiscal reasons: forgiving merchant tax obligations in exchange for gifts would forgive Asuka's own income, since she must meet her ~34,000-koku tribute obligation to the Kakita daimyo regardless.  The governor's structural temptation toward transactional gifts comes not from tax forgiveness but from **policy discretion** - provincial-level decisions about tariff rates on specific goods, road maintenance priorities between counties, market regulations at the provincial city, and recommendations to the daimyo about appointments can favor or harm specific merchant houses by amounts far exceeding any individual gift.  A virtuous governor declines gifts that arrive too close to such decisions; a corrupt governor in a wealthy province can extract substantially more than the ~1,000-koku baseline, with the ceiling set by the same factors that limit the Minister of Justice (visibility within the lineage, the daimyo's attention, the Imperial magistrate stationed in the domain capital).
+Like gifts to a county magistrate, gifts to a provincial governor are predominantly **relational rather than transactional** for the same fiscal reasons: forgiving merchant tax obligations in exchange for gifts would forgive Asuka's own income, since she must meet her ~29,500-koku tax obligation to Daimyo Isao regardless.  The governor's structural temptation toward transactional gifts comes not from tax forgiveness but from **policy discretion** - provincial-level decisions about tariff rates on specific goods, road maintenance priorities between counties, market regulations at the provincial city, and recommendations to the daimyo about appointments can favor or harm specific merchant houses by amounts far exceeding any individual gift.  A virtuous governor declines gifts that arrive too close to such decisions; a corrupt governor in a wealthy province can extract substantially more than the ~1,000-koku baseline, with the ceiling set by the same factors that limit the Minister of Justice (visibility within the lineage, the daimyo's attention, the Imperial magistrate stationed in the domain capital).
 
 #### Discretionary residual
 
-Of the ~44,000-koku provincial throughput, ~40,400 goes to mandatory expenses, leaving Asuka with **~3,600-koku tax-derived discretionary allocation**.  Combined with the ~1,000-koku gift income, Asuka's effective total discretionary income is **~4,600 koku per year**.
+Of the ~44,000-koku provincial throughput, ~34,500 goes to mandatory expenses, leaving Asuka with **~10,000-koku tax-derived discretionary allocation** (her canonical "tax-farming cut").  Combined with the ~1,000-koku gift income, Asuka's effective total discretionary income is **~11,000 koku per year**.
 
 #### Asuka's discretionary breakdown
 
-This is specifically how Governor Asuka chooses to allocate her ~4,600-koku total discretionary income (~3,600 from tax surplus + ~1,000 from gifts).  Other governors with the same canonical allocation distribute very differently.
+This is specifically how Governor Asuka chooses to allocate her ~11,000-koku total discretionary income (~10,000 from tax surplus + ~1,000 from gifts), separated between expected obligations and personal/discretionary spending.  Other governors with the same canonical allocation distribute very differently.
 
 | Category | Annual koku | Type | Notes |
 | --- | --- | --- | --- |
-| Provincial festival hosting and almsgiving (combined) | ~800 | Expected | Provincial festivals are more elaborate than county festivals; almsgiving at provincial scale is more visible and politically important |
-| Retainer hospitality (food, sake, occasional lodging for the ~10 personal retainers and the ~6 visiting county magistrates and ~6 provincial ministers Asuka entertains regularly) | ~600 | Expected | Notionally retainers' stipends cover their day-to-day; in practice failure to host generously erodes loyalty across the entire provincial command |
-| Visitor hospitality (lineage chancellor visits, the Kakita daimyo's representatives, the Imperial magistrate, peer governors, Doji clan officials) | ~300 | Expected |  |
-| Religious patronage (donations to the provincial abbot's temples and minor village shrines beyond the formal Rites budget) | ~200 | Expected |  |
-| Lineage patronage donation to the Kakita chancellor | ~460 | Expected (~10%) | Customary tithe on total discretionary income; somewhat higher in absolute terms than Hikai's because Asuka's discretionary base is larger |
-| **Subtotal: expected donations** | **~2,360** |  | ~51% of allocation, consumed by the same never-required-but-always-expected obligations that consume the majority of a county magistrate's discretionary income |
-| Lean-year savings (forward-thinking reserve) | ~1,200 | Personal | ~26% put away against bad harvests, blight years, military levies, or unexpected provincial obligations |
-| Personal household and lifestyle (clothing, sword maintenance, family expenses, political wardrobe for chancellery appearances) | ~700 | Personal | Higher than Hikai's because the governor's household includes a wider family circle plus visible political wardrobe expectations at the chancellery |
-| Truly free (small luxuries, gifts to subordinates above the customary, personal indulgences) | ~340 | Personal | Around ~28 koku per month of unconstrained spending |
-| **Subtotal: personal/discretionary** | **~2,240** |  | ~49% of allocation, of which ~340 koku is truly unconstrained |
-| **Total** | **~4,600** |  |  |
+| Provincial festival hosting and almsgiving (combined) | ~2,300 | Expected | Provincial festivals are more elaborate than county festivals; almsgiving at provincial scale is more visible and politically important |
+| Retainer hospitality (food, sake, occasional lodging for the personal household samurai and the ~6 visiting county magistrates and ~6 provincial ministers Asuka entertains regularly) | ~1,500 | Expected | Notionally retainers' stipends cover their day-to-day; in practice failure to host generously erodes loyalty across the entire provincial command |
+| Visitor hospitality (lineage chancellor visits, Daimyo Isao's representatives, the Imperial magistrate, peer governors, Crab clan officials) | ~700 | Expected |  |
+| Religious patronage (donations to the provincial abbot's temples and minor village shrines beyond the formal Rites budget) | ~500 | Expected |  |
+| Lineage patronage donation to the Reiji chancellor | ~1,100 | Expected (~10%) | Customary tithe on total discretionary income |
+| **Subtotal: expected donations** | **~6,100** |  | ~55% of allocation, consumed by the same never-required-but-always-expected obligations that consume the majority of a county magistrate's discretionary income |
+| Governor's manor and household operations (servants, food, fuel, maintenance, stable, security supplies, garden and grounds upkeep, office supplies, courier service) | ~1,500 | Personal | The governor's personal household infrastructure; analogous to Hikai's "personal household and lifestyle" line but larger because of the scale of a governor's residence |
+| Lean-year savings (forward-thinking reserve) | ~2,000 | Personal | ~18% put away against bad harvests, blight years, military levies, or unexpected provincial obligations |
+| Personal household and lifestyle (clothing, sword maintenance, family expenses, political wardrobe for chancellery appearances) | ~900 | Personal | Higher than Hikai's because the governor's household includes a wider family circle plus visible political wardrobe expectations at the chancellery |
+| Truly free (small luxuries, gifts to subordinates above the customary, personal indulgences) | ~500 | Personal | Around ~40 koku per month of unconstrained spending |
+| **Subtotal: personal/discretionary** | **~4,900** |  | ~45% of allocation, of which ~500 koku is truly unconstrained |
+| **Total** | **~11,000** |  |  |
 
 #### Summary
 
-Governor Kakita Asuka is responsible for collecting ~44,000 koku in tax revenue annually from Tsurugamine province, of which ~34,000 goes up to the Kakita family daimyo and ~5,000 funds the six provincial ministry budgets.  Another ~1,400 covers her personal samurai retinue and manor/office operations, leaving Asuka with a ~3,600-koku tax-derived discretionary allocation, supplemented by ~1,000 koku in seasonal gifts from the province's notables, for a total of ~4,600 koku per year.  After festivals, almsgiving, retainer and visitor hospitality, religious patronage, and the customary lineage tithe, ~2,240 koku is truly personal - of which Asuka is forward-thinking enough to save ~1,200 against future lean years.  Her truly-unconstrained spending is around ~340 koku per year, roughly 5-6x Magistrate Hikai's discretionary scale.
+Governor Hida no Reiji Asuka is responsible for collecting ~44,000 koku in tax revenue annually from Nagahara province, of which ~29,500 goes up to Daimyo Hida no Reiji Isao and ~5,000 funds the six provincial ministries' samurai stipends and operations.  This leaves Asuka with a ~10,000-koku tax-derived discretionary allocation (the canonical governor's "tax-farming cut"), supplemented by ~1,000 koku in seasonal gifts from the province's notables, for a total of ~11,000 koku per year.  After festivals, almsgiving, retainer and visitor hospitality, religious patronage, and the customary lineage tithe (~6,100 in expected obligations), and after manor operations and personal household expenses (~2,400), ~2,500 koku remains for savings and truly-unconstrained spending - of which Asuka is forward-thinking enough to save ~2,000 against future lean years.  Her truly-unconstrained spending is around ~500 koku per year, roughly 8x Magistrate Hikai's truly-unconstrained ~60 koku.
 
-This reflects Asuka's higher tier and broader responsibilities, but it is NOT a fundamentally different lifestyle - the governor of a typical province lives perhaps as a wealthier-than-average mounted samurai might, not as a minor daimyo.  By all accounts Asuka is a virtuous-but-not-exceptional governor: she meets her obligations to the daimyo on time, refuses transactional gifts on contested policy decisions, hosts the expected festivals, and is well-regarded if not actively beloved within her lineage.  A more politically ambitious governor would cultivate the chancellery more aggressively (and pay for the cultivation out of personal savings); a less scrupulous one in the same role could extract two to three times Asuka's discretionary income through transactional policy gifts, at the cost of standing within the Kakita Chancellery and the Crane clan more broadly.
+This reflects Asuka's higher tier and broader responsibilities, but it is NOT a fundamentally different lifestyle - the governor of a typical province lives perhaps as a wealthier-than-average mounted samurai might, not as a minor daimyo.  By all accounts Asuka is a virtuous-but-not-exceptional governor: she meets her obligations to the daimyo on time, refuses transactional gifts on contested policy decisions, hosts the expected festivals, and is well-regarded if not actively beloved within her lineage.  A more politically ambitious governor would cultivate the chancellery more aggressively (and pay for the cultivation out of personal savings); a less scrupulous one in the same role could extract two to three times Asuka's discretionary income through transactional policy gifts, at the cost of standing within the Reiji Chancellery and the Crab clan more broadly.
+
+### Daimyo Hida no Reiji Isao of the Reiji Domain
+
+The Reiji are a fairly typical inland Crab domain: agricultural-base economy, modest mining operations in the hill country, steady caravan trade through the domain capital from neighboring Scorpion lands, and the standard Crab obligation to contribute manpower and material to the Kaiu Wall through the clan-level allocation rather than direct frontier defense.  Hida no Reiji Isao is the current Reiji house daimyo, an experienced administrator who succeeded his father about a decade ago, well-regarded within the Hida family but not particularly distinguished in broader Crab clan politics.  The breakdowns below show Isao's specific allocation choices; other daimyo with similar inland domains allocate very differently depending on the local economy, military pressures, and the daimyo's temperament.
+
+#### Income
+
+| Source | Annual koku | Notes |
+| --- | --- | --- |
+| Tax obligation from 6 provincial governors (~29,500 each) | ~177,000 | Standard domain-tier share of provincial revenue; Asuka's ~29,500 obligation is one of these six |
+| Capital city direct tax base (property + business; dominated by the capital's larger and wealthier merchant population than provincial cities) | ~25,000 | Per the Capital City caste table below |
+| Capital city import tariffs (Yasuki Taka system at the capital city gates) | ~28,000 | Substantial because the capital is the largest urban center in the domain; somewhat below what a coastal-trade or border-trade capital would collect, but the inland Reiji domain still has steady caravan traffic through its capital |
+| **Total domain throughput** |  | **~230,000** |
+
+#### Mandatory expenses
+
+| Category | Annual koku | Notes |
+| --- | --- | --- |
+| Kick-ups to the Hida family daimyo, Crab clan daimyo, and Imperial superiors (10% of land output) | ~77,500 | Calculated against the domain's gross land output (~775,000 koku), not against tax revenue; per the canonical 2% family + 3% clan + 5% Imperial split documented in [l7r.md - The Ministry of Revenue](l7r.md#the-ministry-of-revenue) |
+| Domain ministry budgets (sum across the six ministries; covers all ~1,000 capital samurai stipends plus ministry materials and operations) | ~50,000 | Per the [Domain Ministry Budgets](#domain-ministry-budgets) table above |
+| Domain servants, supplies, and the daimyo's direct administrative staff (outside the ministry budgets) | ~1,400 |  |
+| **Total mandatory** |  | **~128,900** |
+
+Math note: the 6 provincial governors pass up ~177,000 koku, the capital city's own tax base contributes ~25,000, and the Yasuki Taka tariff system at the capital city gates contributes ~28,000 - bringing total throughput to ~230,000.  After ~77,500 in kick-ups, ~50,000 to fund the six domain ministries, and ~1,400 in minor domain ops, Daimyo Isao is left with **~100,000 koku of discretionary income**.  This is the canonical daimyo's "tax-farming cut," parallel to a provincial governor's ~10,000 and a county magistrate's ~1,000.  Unlike those provincial and county figures, the ~100,000 represents the median for an inland domain rather than a tightly-fixed canonical expectation: wealthy maritime trade or large clan-capital domains run substantially higher, while frontier or war-recovering domains run substantially lower.
+
+#### Gift income
+
+Beyond tax revenue, Daimyo Isao receives approximately **~6,000 koku per year in seasonal gifts** from notables throughout the Reiji domain and the broader Crab clan.  The major categories:
+
+- **The 6 provincial governors under his authority** each give ceremonial gifts on New Year and the major festivals (~12 koku per occasion per governor, following the rank-scaled gift convention for the Rank 12 daimyo; ~288 koku/year total)
+- **The 6 domain ministers serving under Isao** (~12 koku/occasion each × 4 occasions; partially reciprocated since Isao gifts downward too, so the net inflow is closer to ~150 koku)
+- **Wealthy merchant families in the capital city** (~48 very-rich and rich merchant households between them; gifts scale by household wealth, totaling ~2,000 koku/year)
+- **Major sake brewers, mining concerns, and large industrial operators across the domain** (~800-1,200 koku/year combined)
+- **Wealthy lineage notables and vassal-lineage leaders within the Reiji domain** (~800-1,200 koku/year, with substantial reciprocal flow as Isao gifts down to maintain political relationships)
+- **County magistrates throughout the domain (~36 of them) and minor officials at various tiers** (~36 × small ceremonial gifts ≈ ~400 koku/year aggregate)
+- **Visiting peers and dignitaries** (other clan daimyo, Imperial Court representatives, foreign envoys; ~variable, mostly reciprocated, ~200 koku net inflow in a typical year)
+
+This totals roughly 6x Governor Asuka's ~1,000-koku gift income, consistent with the per-tier scaling between magistrate (~150), governor (~1,000), and daimyo (~6,000).  The daimyo's gift income would scale higher in a wealthier maritime or capital-clan domain, where the merchant gift pool is much larger and the political weight of the daimyo's decisions draws bigger transactional pressure.
+
+As at the lower tiers, gifts to a daimyo are predominantly **relational rather than transactional** - Isao must meet his ~77,500-koku kick-up obligations regardless of any gift income, and the bulk of his political authority comes from honoring the well-understood structural obligations of his position.  The structural temptation toward transactional gifts at the daimyo tier comes from **domain-shaping decisions**: appointment of governors and ministers, allocation of provincial Works budgets, recognition or denial of vassal-lineage land claims, tariff rate adjustments that favor specific merchant houses, and the daimyo's voice within the Crab clan chancellery on matters that affect lineages beyond their own domain.  A virtuous daimyo declines gifts that arrive too close to such decisions; a corrupt one in a wealthy domain can extract substantially more than the ~6,000-koku baseline, with the ceiling set by the visibility of the daimyo's actions to the clan daimyo (Hida Kisada) and the Imperial Court.
+
+#### Discretionary residual
+
+Of the ~230,000-koku domain throughput, ~128,900 goes to mandatory expenses, leaving Daimyo Isao with **~100,000-koku tax-derived discretionary allocation** (his canonical "tax-farming cut").  Combined with the ~6,000-koku gift income, Isao's effective total discretionary income is **~106,000 koku per year**.
+
+#### Isao's discretionary breakdown
+
+This is specifically how Daimyo Isao chooses to allocate his ~106,000-koku total discretionary income (~100,000 from tax surplus + ~6,000 from gifts), separated between expected obligations and personal/discretionary spending.  Other daimyo with the same canonical allocation distribute very differently.
+
+| Category | Annual koku | Type | Notes |
+| --- | --- | --- | --- |
+| Domain festival hosting and almsgiving (combined; includes capital-scale ceremonies attended by Imperial representatives in major years, almsgiving distributions across the domain during festivals and famine relief) | ~20,000 | Expected | Capital festivals are several orders of magnitude larger and more elaborate than provincial festivals; almsgiving at domain scale is a major political-religious obligation |
+| Retainer hospitality (food, sake, lodging for the daimyo's extended household + the ~6 provincial governors entertained quarterly + the ~6 domain ministers + senior visiting yoriki and family members) | ~10,000 | Expected |  |
+| Visitor hospitality (Crab clan daimyo's representatives, Imperial Court emissaries, peer daimyo, foreign envoys, lineage chancellor visits, occasional sankin-kotai-style attendance costs) | ~6,000 | Expected |  |
+| Religious patronage (donations to capital temples, Crab clan obligation toward Kaiu Wall temple support, major shrine patronage, contributions to Fortunist orders that operate within the domain) | ~5,000 | Expected | Substantially higher than provincial-level because of the Kaiu Wall obligation that all Crab domains share regardless of direct frontier exposure |
+| Inter-domain political maintenance (gifts to other clan daimyo for alliance maintenance, sponsorships of Crab clan tournaments and ceremonies, political donations to clan chancellery initiatives) | ~6,000 | Expected | A category that does not meaningfully exist at lower tiers; the daimyo operates at a political scale where ongoing inter-domain relationships require costly cultivation |
+| Lineage patronage donation to the Reiji chancellor | ~10,600 | Expected (~10%) | Customary tithe on total discretionary income; the Reiji chancellor administers the lineage's voluntary contributions fund per the standard pattern |
+| **Subtotal: expected donations** | **~57,600** |  | ~54% of allocation, consumed by the never-required-but-always-expected obligations of the daimyo's office |
+| Daimyo's manor and household operations (the capital castle, servants for the daimyo's extended family, food and fuel and maintenance for a structure that may house hundreds of household personnel, stable for a large warhorse contingent, security supplies, garden and grounds upkeep, courier service across the domain) | ~12,000 | Personal | The daimyo's castle is the political and administrative center of the domain; its operations dwarf any provincial governor's manor |
+| Lean-year savings (forward-thinking reserve, supplemented by the kind of long-horizon planning expected of a daimyo) | ~22,000 | Personal | ~21% put away against bad harvests, military emergencies, succession disputes, or unexpected Imperial obligations; the daimyo is expected to maintain reserves several times what a virtuous governor would |
+| Personal household and lifestyle (extensive seasonal wardrobe for political appearances, daimyo-tier sword maintenance, expenses of an extended noble family including children's tutors and gempukku ceremonies, jewelry and other status goods) | ~10,000 | Personal |  |
+| Truly free (small luxuries, personal indulgences, gifts to subordinates above the customary, patronage of artists and poets, occasional impulsive purchases) | ~4,400 | Personal | Around ~370 koku per month of unconstrained spending |
+| **Subtotal: personal/discretionary** | **~48,400** |  | ~46% of allocation, of which ~4,400 koku is truly unconstrained |
+| **Total** | **~106,000** |  |  |
+
+#### Summary
+
+Daimyo Hida no Reiji Isao is responsible for the financial operation of the Reiji domain, which generates ~230,000 koku in annual tax revenue at the daimyo's tier.  Of this, ~77,500 flows up to the Hida family, the Crab clan, and the Imperial center as the canonical 10% land-output kick-ups; ~50,000 funds the six domain ministries' samurai stipends and operations; ~1,400 covers minor domain administrative overhead.  This leaves Isao with a ~100,000-koku tax-derived discretionary allocation (the canonical daimyo's "tax-farming cut"), supplemented by ~6,000 koku in seasonal gifts from across the domain and clan, for a total of ~106,000 koku per year.  After festivals, almsgiving, retainer and visitor hospitality, religious patronage (including the Kaiu Wall contribution), inter-domain political maintenance, and the customary lineage tithe (~57,600 in expected obligations), and after manor operations and personal household expenses (~22,000), ~26,400 koku remains for savings and truly-unconstrained spending - of which Isao saves ~22,000 against future obligations.  His truly-unconstrained spending is around ~4,400 koku per year, roughly 9x Governor Asuka's ~500 and ~70x Magistrate Hikai's ~60.
+
+This is a substantial lifestyle by any standard, but it is the lifestyle of a serious working official, not a leisure-class noble.  The daimyo's discretionary income is dominated by obligations of the office rather than freely-spent wealth.  Even the ~4,400 koku of truly-free spending represents only ~4% of total discretionary income - the same proportion as Asuka's ~4-5% and Hikai's ~5%, scaled by tier.  By all accounts Isao is a steady, virtuous-but-not-exceptional daimyo: he meets his clan and Imperial obligations on time, manages the Reiji ministries competently, contributes the expected manpower and material to the Wall, and has cultivated his lineage chancellor and his fellow Crab daimyo well enough to maintain political stability for his household.  A more politically ambitious daimyo would invest more heavily in clan-level relationships and Imperial Court visibility (paid from personal savings, often dramatically reducing the lean-year reserve); a less scrupulous one could divert substantially more to personal use through reduced almsgiving, reduced Kaiu Wall contributions, or transactional appointments - any of which would quickly invite scrutiny from Hida Kisada or the Imperial magistrate stationed in the Reiji capital.
 
 ## Capital City
 
@@ -645,9 +712,9 @@ Total population: **~50-100, average ~75**.
 
 ## Tax Pie
 
-![Annual tax revenue by settlement tier (typical domain, 292,735 koku/year)](tax_pie.svg)
+![Annual tax revenue by settlement tier (typical domain, ~292,735 koku/year)](tax_pie.svg)
 
-A typical domain's 292,735 koku/year tax base, broken down by where it comes from. The single capital city contributes less than a third of what the 1,296 hamlets contribute in aggregate, despite each hamlet paying only ~75 koku/year - the long tail of small settlements outweighs the head.
+A typical domain's ~292,735 koku/year tax base, broken down by where it comes from. The single capital city contributes less than a third of what the 1,296 hamlets contribute in aggregate, despite each hamlet paying only ~75 koku/year - the long tail of small settlements outweighs the head.
 
 ## Land Productivity
 
@@ -686,7 +753,7 @@ These are the farming households living inside each settlement type (per the cas
 | Rice | 3750 | 187.5 | 0.05 | 178.13 | 0.95 | 114000 | 37752 |
 | Non-rice | 3750 | 375 | 0.10 | 356.25 | 0.95 | 228000 | 37752 |
 
-Divided evenly: rice ~3.02 acres/family, non-rice ~6.04 acres/family. Yield: rice 15.02 koku/family at a rate of 4.97 koku/acre; non-rice 18.12 koku/family at 3.00 koku/acre.
+Divided evenly: rice ~3.02 acres/family, non-rice ~6.04 acres/family. Yield: rice ~15.02 koku/family at a rate of ~4.97 koku/acre; non-rice ~18.12 koku/family at ~3.00 koku/acre.
 
 **Note on labor utilization vs. land utilization**: The 95% use rate above describes short-cycle fallow within actively-cropped land - the rice and non-rice arable shown is in normal year-round productive use.  The empire-wide framing in [l7r.md - Total Rice Production](l7r.md#total-rice-production) treats Rokugan as currently labor-limited: only about 1/3 of total rice-suitable terrain is in active wet-paddy production in any given year, with the remainder split between hillside soybean and azuki fields supporting the paddies, upland rice in multi-year rotation, dryland aftercrops, and labor-fallow land waiting for population to catch up.  The per-domain figures here can be read as describing the actively-worked portion of a domain's rice arable; the latent rice-suitable land that would come under the plow if labor caught up is roughly 2-3x larger.  This is consistent with the canonical empire-wide figure of ~60M koku of rice per year (versus a theoretical maximum closer to 160-180M).
 
