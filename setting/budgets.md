@@ -7,6 +7,7 @@ Per-tier budget breakdowns for the median domain hierarchy, plus supporting tabl
 - [What These Populations Count](#what-these-populations-count)
 - [What the Samurai Counts Mean](#what-the-samurai-counts-mean)
 - [Samurai Stipend Convention](#samurai-stipend-convention)
+- [The Two Empire-Wide Multipliers](#the-two-empire-wide-multipliers)
 - [Domain](#domain)
   - [Samurai](#samurai)
   - [Budget](#budget)
@@ -95,6 +96,34 @@ The average varies by tier because the rank distribution does:
 - **Capital city samurai**: ~35 koku average (avg rank ~5-6).  The capital is staffed with the senior cohort - the daimyo (Rank 12), councilors (Rank 11), domain ministers (Rank 10) and their deputies (Rank 9), high-rank clerks (Rank 7-8), castle guards and household retainers from the daimyo's elite retinue, and junior officials in training for higher posts.  Low-rank samurai compose a lower proportion of retainers in the capital than in the provinces.
 
 **Stipends are paid out of the broader tax-farming allocation at the tier where the samurai serves** (NOT out of the discretionary "tax-farming cut" that defines the post's value): capital samurai stipends are funded by the daimyo's broader allocation as a separate ~40,000-koku mandatory line; provincial samurai stipends by the governor's broader allocation as a separate ~5,000-koku mandatory line; county samurai stipends as part of the magistrate's mandatory expenses.  The ~1,000 / ~10,000 / variable canonical "cuts" at the magistrate / governor / daimyo tiers are the discretionary income remaining after all mandatory expenses (tax obligations up, stipends, ministry overhead, kick-ups, etc.) - not the working budget out of which everything is paid.  Cross-tier flow does not happen for stipends as it does for gifts and lineage finances - a provincial samurai is paid by their governor regardless of which lineage the samurai or governor belongs to (see [`l7r.md` - Samurai Lineages](l7r.md#samurai-lineages) for the discussion of how lineage politics and fiscal flow interact).
+
+## The Two Empire-Wide Multipliers
+
+Empire-wide aggregations in this document use one of **two different multipliers** depending on what type of quantity is being aggregated.  Both are correct in their respective contexts; choosing the wrong one is the most common source of arithmetic confusion in the budget math.
+
+| Multiplier | Value | Used For |
+| --- | --- | --- |
+| **Actual-domain multiplier** | **~284** | Quantities that exist exactly once per daimyo: capital cities, Imperial Magistrate main offices (one per the Emerald Charter), daimyo discretionary cuts, total working samurai pool per domain (~3,000 each), domain-level tax throughput, domain-level kick-up aggregations |
+| **Median-size-equivalent (ME) multiplier** | **~400** | Sub-unit counts and geographic distributions that scale with land area: provincial cities (× 6 per ME = ~2,400), towns (× 36 per ME = ~14,400), villages (× 216 per ME = ~86,400), hamlets (× 1,296 per ME = ~518,400), counties (× 36 per ME = ~14,400), waystations (~12.5 per ME = ~5,000), Imperial road mileage (~125 per ME = ~50,000 miles), and Yasuki Taka tariff collection points (one per provincial city + one per capital, ~2,684 Empire-wide) |
+
+The reason there are two multipliers is a structural feature of the Empire's geography and political organization.  Each Great Clan and family carves up its territory into ~284 administrative domains headed by daimyo.  These domains vary substantially in size: the smallest (frontier vassal-house holdings, lean Phoenix mountain territories) are well under 1 ME of land; the largest (clan capitals, major family seats, Yasuki coastal trade hubs) can be 5-10 MEs or more.  The average actual domain has **~1.41 MEs of land** (Empire total area ÷ 284 = 1.41 ME per actual), but each domain still has exactly **1 capital city** and **1 IM main office**.  So per-actual-domain counts for whole-domain quantities do not match per-ME counts for sub-units.
+
+The numerical ratio between the two multipliers is exactly **400 / 284 = 1.41 ME per actual median domain**, which is the same as saying the average actual domain has 1.41 MEs of land area.
+
+### Why "Median Domain" Means Two Things in This Document
+
+The worked examples in this document (Magistrate Hikai's county, Governor Asuka's province, **Daimyo Isao's Reiji domain**) treat Reiji as a **hybrid "median" domain** that uses whichever multiplier produces clean worked-example numbers:
+
+- **As a "median ME"** (sub-unit and geographic counts): Reiji has 6 provincial cities, 36 towns, 216 villages, 1,296 hamlets, ~12 waystations, ~125 miles of Imperial road.  Multiply each of these by **~400 ME** to reach Empire-wide totals.
+- **As a "median actual domain"** (whole-domain quantities): Reiji has 1 capital city, 1 IM main office, ~3,000 working samurai (capital cohort + provincial cohorts + town cohorts combined), ~30,000 koku discretionary daimyo cut.  Multiply each of these by **~284 actual domains** to reach Empire-wide totals.
+
+The hybrid framing is intentional and lets worked examples use clean integer counts (6 provincial cities reads more naturally than the strict per-actual-domain 8.45), while still producing correct Empire-wide aggregations as long as the right multiplier is applied to each line.
+
+### The Most Common Mistake
+
+The most common arithmetic mistake is **multiplying a sub-unit count by 284 instead of 400** (e.g., "6 provincial cities × 284 = 1,704" - this undercounts the actual ~2,400 provincial cities Empire-wide because it does not account for larger actual domains having proportionally more provincial cities than the median).  The converse mistake - multiplying a whole-domain quantity by 400 - overshoots Empire-wide totals (e.g., "1 capital city × 400 = 400" overcounts the actual ~284 capital cities Empire-wide).
+
+**The diagnostic question** to ask before multiplying any per-Reiji quantity by an Empire-wide divisor: *Does this quantity scale with the number of daimyo (× 284) or with the land area (× 400)?*  Whole-domain political and administrative quantities use 284; geographic distributions and sub-unit counts use 400.
 
 ## Domain
 
@@ -956,25 +985,27 @@ The Imperial infrastructure within any domain is staffed by a mix of three group
 
 3. **Locally-recruited ashigaru and peasants** - hired from the host domain's population, paid from the Imperial budget.  Handle physical, security, and unskilled labor (mounted patrol ashigaru, stable hands, kitchen staff, manor servants, road-maintenance specialists, ashigaru security at the IM's manor).
 
-For a median (vassal-house) Reiji-style domain - 17 waystations within the domain, 6 provincial cities each with a yoriki sub-station, 1 Imperial Magistrate at the domain capital - the breakdown looks like:
+For a median (vassal-house) Reiji-style domain - ~12 waystations within the domain (per the geographic divisor: ~5,000 waystations Empire-wide / ~400 median-size-equivalents of Empire land area = ~12.5 waystations per median ME of land), 6 provincial cities each with a yoriki sub-station, 1 Imperial Magistrate at the domain capital - the breakdown looks like:
 
 | Imperial Infrastructure Location | Imperial Appointees | Locally-Detailed Clan Samurai (clan-paid) | Local Ashigaru + Peasants (Imperial-paid) | Total Staff |
 | --- | --- | --- | --- | --- |
-| ~17 waystations within the domain (per station: 1 relay-master + 1 yoriki + 3 detailed clan samurai + ~11 ashigaru/peasants) | 34 (17 relay-masters + 17 waystation yoriki) | 51 (3 per station: courier-postmaster, mounted patrol leader, manifest clerk) | ~187 (~4 mounted patrol ashigaru + ~7 peasants per station) | ~272 |
+| ~12 waystations within the domain (per station: 1 relay-master + 1 yoriki + 3 detailed clan samurai + ~11 ashigaru/peasants) | 24 (12 relay-masters + 12 waystation yoriki) | 36 (3 per station: courier-postmaster, mounted patrol leader, manifest clerk) | ~132 (~4 mounted patrol ashigaru + ~7 peasants per station) | ~192 |
 | 6 provincial-city Imperial yoriki sub-stations (~5 yoriki per station, all Imperial appointees) | 30 | 0 | 0 | 30 |
 | 1 Imperial Magistrate main office at the domain capital | 32 (1 IM + 1 karo + ~5 personal household + ~25 yoriki) | 3 (manifest clerks) | ~21 (~8 manor-security ashigaru + ~13 manor servants/clerical peasants) | ~56 |
-| **Total per Reiji-style vassal-house domain** | **~96** | **~54** | **~208** | **~358** |
+| **Total per Reiji-style vassal-house domain** | **~86** | **~39** | **~153** | **~278** |
 
-So within the Reiji domain, approximately **96 Imperial appointees** are working on Imperial business at any given time - the Imperial Magistrate themselves, the IM's traveling retinue and yoriki force, the yoriki manning the 6 provincial-city sub-stations, and the 34 relay-masters and waystation yoriki scattered across the 17 waystations within the domain.
+So within the Reiji domain, approximately **86 Imperial appointees** are working on Imperial business at any given time - the Imperial Magistrate themselves, the IM's traveling retinue and yoriki force, the yoriki manning the 6 provincial-city sub-stations, and the 24 relay-masters and waystation yoriki scattered across the ~12 waystations within the domain.
 
-Conversely, the Reiji domain commits approximately **54 of its own samurai** to locally-detailed Imperial-adjacent service: 3 at the IM's office in the capital (as manifest clerks) and 51 across the waystations (as couriers, patrol leaders, and clerks).  At average ~Rank 3-4 (12 koku stipend), the clan budget burden for these detailed samurai is ~650 koku/year - a tiny fraction of Daimyo Hida no Reiji Isao's discretionary budget, but a continuing structural reminder of the domain's obligation to support Imperial infrastructure operating within its borders.  These postings are well-regarded among Reiji's samurai because working alongside Imperial appointees confers prestige, access to the Imperial Magistrate's court, and a documented record of competent service that can be cited in promotion considerations.
+Conversely, the Reiji domain commits approximately **39 of its own samurai** to locally-detailed Imperial-adjacent service: 3 at the IM's office in the capital (as manifest clerks) and ~36 across the waystations (as couriers, patrol leaders, and clerks).  At average ~Rank 3-4 (12 koku stipend), the clan budget burden for these detailed samurai is ~470 koku/year - a tiny fraction of Daimyo Hida no Reiji Isao's discretionary budget, but a continuing structural reminder of the domain's obligation to support Imperial infrastructure operating within its borders.  These postings are well-regarded among Reiji's samurai because working alongside Imperial appointees confers prestige, access to the Imperial Magistrate's court, and a documented record of competent service that can be cited in promotion considerations.
+
+**Note on the multipliers used in this breakdown**: per [The Two Empire-Wide Multipliers](#the-two-empire-wide-multipliers) above, this section uses **~400 ME** for waystations (geographic distribution by land area) and provincial-city sub-stations (sub-unit count), but **~284 actual domains** for the IM main office (one per the Emerald Charter) and for the samurai-pool quantities (outflow count, clan budget burden) discussed below.
 
 Empire-wide totals (rough):
-- ~96 Imperial appointees per actual domain × 284 actual domains = ~27,000 Imperial appointees working in IM main offices, provincial sub-stations, and waystations.  Plus ~5,000-7,000 additional Imperial appointees in central roles (Emerald Champion's office, traveling IM force, OU judicial infrastructure, investigative units, and the much larger Imperial Legion cohort separately budgeted).
-- ~54 locally-detailed clan samurai per domain × 284 = ~15,000 clan samurai Empire-wide in Imperial-adjacent support roles (clan-paid, distributed across all 7 Great Clans in proportion to their domain count).
-- ~208 ashigaru and peasants per domain × 284 = ~59,000 ashigaru and peasants Empire-wide working at Imperial facilities (Imperial-paid, locally recruited).
+- ~86 Imperial appointees within a median ME footprint × ~400 ME of Empire land area = ~34,400 Imperial appointees working in IM main offices, provincial sub-stations, and waystations Empire-wide.  Plus ~5,000-7,000 additional Imperial appointees in central roles (Emerald Champion's office, traveling IM force, OU judicial infrastructure, investigative units, and the much larger Imperial Legion cohort separately budgeted).
+- ~39 locally-detailed clan samurai per median ME × 400 = ~15,600 clan samurai Empire-wide in Imperial-adjacent support roles (clan-paid, distributed across all 7 Great Clans in proportion to their land area).
+- ~153 ashigaru and peasants per median ME × 400 = ~61,200 ashigaru and peasants Empire-wide working at Imperial facilities (Imperial-paid, locally recruited).
 
-For larger domains (the Lion, Crab, and Crane have substantially more domains per clan than the smaller clans; clan-capital and family-capital domains have larger IM offices), these per-domain figures scale up proportionally.  The clan-budget burden for locally-detailed samurai also scales: a Crane province with multiple family capitals and many vassal houses may have ~150-250 detailed clan samurai serving Imperial functions across the province's waystations and IM offices.
+For larger domains (the Lion, Crab, and Crane have substantially more land area per clan than the smaller clans; clan-capital and family-capital domains have larger IM offices), these per-domain figures scale up proportionally.  The clan-budget burden for locally-detailed samurai also scales: a Crane province with multiple family capitals and many vassal houses may have ~150-250 detailed clan samurai serving Imperial functions across the province's waystations and IM offices.
 
 #### Imperial Magistrate Cohort Total Aggregation
 
@@ -993,6 +1024,75 @@ Bringing together the Empire-wide totals for the Imperial Magistrate cohort:
 This matches the ~3-4M Imperial Magistrate line shown under the Imperial Ministry of Justice in the Imperial Spending table above.
 
 **Historical justification**: Tang and Song central administration including the judiciary, central court bureaucracy, and Imperial inspector forces was probably ~15-20% of central revenue at peak.  Ming and Qing were closer to ~5-10% (their central administrations were structurally smaller).  Rokugan at ~10-13% sits between Ming/Qing norms and Tang/Song norms, which is consistent with the Empire's overall positioning as moderately more centralized than Ming/Qing but less centralized than Tang/Song.
+
+### Total Imperial Appointee Samurai: Empire-wide Synthesis
+
+The various Imperial appointee positions discussed across the line-item sections above sum to a substantial standing samurai population.  This section consolidates the count, traces how those positions are sourced (Imperial families vs Great Clans), and computes the per-domain "outflow" - how many of a typical Reiji-style domain's own samurai are themselves currently serving in Imperial posts elsewhere in the Empire.
+
+#### Empire-wide Tally of Imperial Appointee Samurai Positions
+
+| Source / Function | Approximate Count | Budgeted Under |
+| --- | --- | --- |
+| Imperial Legions (rank-and-file + officers + senior command, ~25-40 active legions × ~1,000 each) | ~30,000 | Imperial Ministry of War |
+| IM main offices at the 284 domain capitals (scaling with capital size: median ~32 each, very large ~250+) | ~13,000 | Imperial Ministry of Justice |
+| ~2,400 provincial-city Imperial yoriki sub-stations (5 yoriki per station) | ~12,000 | Imperial Ministry of Justice |
+| Waystation Imperial appointees across ~5,000 stations (relay-master + waystation yoriki per station) | ~10,000 | Imperial Ministry of Works (Roads) |
+| Central IM cohort (Emerald Champion central + traveling IMs + OU judicial machinery + investigative units) | ~6,000 | Imperial Ministry of Justice |
+| Other Imperial Ministry of Works (Wall direct contributions, central public works engineering, granary infrastructure) | ~4,000 | Imperial Ministry of Works (central) |
+| Imperial Ministry of Rites (shugenja and ceremonial officials at Imperial shrines, mourning-period coordinators) | ~2,500 | Imperial Ministry of Rites |
+| Imperial Ministry of Retainers (Imperial princes in formal offices, central court samurai, ceremonial-court samurai) | ~4,000 | Imperial Ministry of Retainers |
+| Imperial Ministry of Revenue (Yasuki Taka's central office, salt-monopoly administration, commercial regulators) | ~1,500 | Imperial Ministry of Revenue |
+| Imperial Household (Emperor's personal staff, inner-palace samurai, palace guards) | ~2,500 | Imperial household |
+| Otosan Uchi local government (administering the ~1 million inhabitants of the Imperial capital) | ~6,000 | OU local government |
+| **Total** | **~91,500** | (round: **~90,000 Imperial appointee samurai positions Empire-wide**, with substantial uncertainty - the realistic range is ~80,000-100,000) |
+
+For scale: ~90,000 Imperial appointee samurai is approximately the size of a mid-tier Great Clan's working samurai population.  Phoenix and Dragon are in this range; Lion, Crab, and Crane each substantially exceed it.  The Imperial appointee cohort is structurally a "shadow clan" without territorial domains, drawn from across the actual clans plus the four Imperial families' supply.
+
+#### Source Distribution: Imperial Families vs Great Clans
+
+The ~90,000 positions are not sourced evenly across the Empire's samurai population.  Senior posts concentrate heavily in the Imperial families (Hantei, Seppun, Otomo, Miya); mid-tier and rank-and-file posts are overwhelmingly clan-drawn.  The structural reason is that the Imperial families' combined samurai population (~15,000-25,000 active) is too small to fill more than a sliver of the lower tiers even at high utilization.
+
+| Tier | Empire-wide Count | Imperial Family Share | Clan Share | Notes |
+| --- | --- | --- | --- | --- |
+| Senior IM-cohort + senior Legion command (Imperial Magistrates themselves, IM karos, theater commanders, army generals, senior central judicial) | ~700 | ~75% (~525) | ~25% (~175) | Seppun supplies the largest fraction of IM and karo posts (the user's hypothesis that "the Seppun family makes up the bulk of the Imperial magistrates and legion generals" sits here).  Hantei holds a small handful of the most prestigious assignments (the bulk of the Hantei family runs OU local government and the inner palace, with high-level help from the other Imperial families; relatively few Hantei take field IM postings).  Otomo and Miya supply some senior court roles.  Cross-clan placements - a senior samurai from one clan posted as IM in another - cover the residual ~25% |
+| Mid-tier Imperial posts (IM-office personal household, mid-Legion officers, waystation relay-masters, mid-tier central roles) | ~10,000 | ~8% (~800) | ~92% (~9,200) | Imperial families concentrate their mid-tier share in posts that touch high-prestige central work (IM personal household for senior IMs, top Legion staff officers, OU government leadership).  Most mid-tier posts come from the clans |
+| Yoriki and rank-and-file (sub-station yoriki, IM-office yoriki, waystation yoriki, Legion rank-and-file, central Imperial rank-and-file) | ~80,800 | ~5% (~4,000) | ~95% (~76,800) | Almost entirely clan-supplied.  Yoriki postings are the single most numerous Imperial appointment type and the dominant cross-clan "tour of duty" experience for clan samurai |
+| **Total** | **~91,500** | **~5,300 (~6%)** | **~86,200 (~94%)** | Imperial families supply ~6% of all Imperial appointee positions Empire-wide; the system is structurally clan-dependent at scale |
+
+The Imperial families maintain perhaps half their active samurai in Imperial appointee posts at any given time, with the remainder administering the Imperial families' own family domains.  Seppun is the canonical default supplier for any senior Imperial post, but the family is small enough that it cannot fill every senior post even at high utilization - hence the ~25% cross-clan placements at the senior tier.
+
+#### Per-Domain Outflow: How Many of a Daimyo's Samurai Are Serving Elsewhere
+
+For a typical Reiji-style vassal-house domain, the total clan samurai population sums across the domain's three administrative tiers (capital + provincial cities + county-seat towns), plus those detailed to support Imperial functions within the domain, plus those currently posted to Imperial roles in other parts of the Empire:
+
+| Reiji Samurai Location | Count | Status |
+| --- | --- | --- |
+| Reiji capital, serving Daimyo Isao's court and administering the capital city | ~1,000 | Local clan administrative service |
+| Reiji's 6 provincial cities, serving the provincial governors | 6 × ~250 = ~1,500 | Local clan administrative service |
+| Reiji's 36 county-seat towns, serving the county magistrates | 36 × ~15 = ~540 | Local clan administrative service |
+| Detailed by Daimyo Isao to support Imperial functions within Reiji (clan samurai assigned to waystation courier/patrol/clerk roles, plus a few IM-office assistant roles) | ~39 | Clan-paid, Imperial-attached, working within Reiji |
+| Currently in Imperial posts elsewhere in the Empire | ~300 | Imperial-paid, serving outside Reiji's borders |
+| **Total Reiji clan samurai pool** | **~3,379** | |
+
+The ~300 outgoing figure uses the **284 actual-domain divisor** because samurai-supply to Imperial posts scales with each domain's working-samurai pool: total clan-supplied Imperial positions Empire-wide (~86,200) divided across the 284 actual median domains = ~303 per Reiji.  Of the ~300 Reiji clan samurai currently in Imperial posts elsewhere, the breakdown approximates:
+
+| Post Type | Approximate Count | Notes |
+| --- | --- | --- |
+| Imperial Legions | ~106 | Mix of all ranks; the Crab clan provides especially large numbers to Wall-end legions because of geographic logic and the Hida-vassal political alignment, with Reiji contributing its share of those Wall-stationed Crab samurai |
+| As Imperial yoriki and household samurai at other domains' IM main offices | ~41 | Cross-clan tours in IM-office yoriki roles, working under senior IMs (mostly Seppun or cross-clan senior placements); at the senior tier, Reiji's contribution is reduced (~25% of senior IM/karo posts are clan-supplied, with the bulk going to Seppun and the other Imperial families) |
+| As Imperial yoriki at provincial sub-stations in other domains | ~40 | Cross-clan rotating tours; a Reiji samurai might serve 3-5 years auditing tariff collection in (say) a Lion province before returning home |
+| As Imperial appointees at waystations in other domains (mix of relay-masters and waystation yoriki) | ~34 | Spread across waystation roles in non-Reiji parts of the Empire |
+| In central Imperial roles in Otosan Uchi (OU local government, central court samurai, central judicial machinery, central ministries other than the IM cohort field roles) | ~75 | Includes a handful of unusually distinguished Reiji samurai in mid-tier central court positions; central roles favor the Imperial families more heavily, but the absolute clan share is still substantial |
+| In other Imperial ministries' field operations (Works engineering, Rites ceremonial, Revenue inspection) | ~4 | Specialized assignments matched to a samurai's particular skills (e.g. an unusually skilled stonemason posted to Wall-construction supervision under Min of Works) |
+| **Total Reiji samurai in Imperial service elsewhere** | **~300** | |
+
+Reiji's *incoming* Imperial appointees (from elsewhere): ~86, per the Per-Domain View synthesis above.
+
+**Net Imperial flow for Reiji**: ~300 going out minus ~86 coming in = ~214 net samurai "lent" to the Imperial system at any given moment.  Combined with the ~39 Reiji samurai detailed to Imperial functions *within* Reiji, the full Imperial-engagement footprint of Reiji's samurai pool is ~339 of ~3,379 = **~10% of Reiji's samurai are in Imperial-attached roles at any given time** (whether serving within Reiji's borders or elsewhere in the Empire).
+
+This ~10% engagement figure is the structural cost (or, depending on perspective, structural benefit) of supporting the Imperial system from the daimyo's point of view.  The cost: 10% of Reiji's working samurai are unavailable for direct domain service at any moment.  The offsetting benefits: the Empire pays the stipends of the ~300 samurai serving elsewhere (so the daimyo loses the labor but not the cost); the rank-uplift principle for Imperial Legion service returns those samurai to Reiji at +1 rank from where they left (a hidden Imperial subsidy to Reiji's manpower pool over the long term, per the Rank Uplift Principle discussion in the Legion section above); the prestige of Reiji samurai serving in Imperial roles strengthens Reiji's standing within the broader Crab clan and at the Imperial Court; and the rotating cross-clan experience returns experienced samurai to Reiji's service with knowledge of how other clans actually operate at the administrative level.
+
+**Empire-wide cross-check**: ~300 outgoing per actual median domain × 284 domains = ~85,200 clan-supplied Imperial appointee positions.  Plus ~5,300 supplied by the Imperial families = ~90,500 - matching the ~91,500 Empire-wide total within rounding tolerance.  The structural balance is: each actual median domain contributes ~300 samurai to Empire-wide Imperial functions and hosts ~86 incoming Imperial appointees, with the Imperial families supplying the residual ~6% that closes the Empire-wide accounting.  Larger actual domains (clan capitals, family seats) contribute proportionally more outgoing samurai AND host proportionally more incoming Imperial appointees; the balance still holds in aggregate.
 
 ### Imperial Savings: the "Wealth in Favors Owed" Model
 
