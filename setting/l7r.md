@@ -475,7 +475,7 @@ A typical coven consists of 3-10 bloodspeakers, usually poor peasants.  It's rar
 
 Only a small percentage of covens are violent.  These covens are typically led by a powerful bloodspeaker who previously spread his name violently in the countryside after reaching Rank 5 and taking on the Jama surname.  Thus, about one out of every three domains has an active coven kidnapping and murdering well-known merchants and nobles.
 
-There are about 200 Witch Hunters.  Each Witch Hunter covers about three domains, with large and important cities/domains getting their own Witch Hunter.
+There are about 300 Witch Hunters.  Every domain has a Witch Hunter assigned to the capital, with a few extra Witch Hunters assigned to other important places or teaming up in larger cities.
 
 It is unknown how many "wild" maho-tsukai exist out in the countryside.  Remember that around 70% of the human population of a domain is in village districts and their surrounding hamlets, where no samurai live - thus, unless the locals report suspicious activity to the authorities the samurai have no way of knowing whether the countryside is free of witches or if instead the farmers are happily making use of their services (or being threatened into silence).
 
