@@ -962,7 +962,7 @@ On the other hand, paying someone a lot of money doesn't necessarily make them l
 
 It's worth discussing the structure of Rokugan's civil and religious institutions.  A recurring emphasis in this worldbuilding is the way in which Rokugan's religious doctrines, beliefs, and institutions still have to deal with the reality of politics and temporal power.
 
-For example, a running theme is that in theory the Emperor's authority is supreme and that none would question or oppose the Emperor's wishes, but that in practice people have their own loyalties and incentives and which might sometimes run up against this.  And while it's extremely rare for someone to declare open rebellion against the Emperor's authority, people still find ways to work for their Clan or Family or House or Lineage interests even if the Emperor would want them to do otherwise.  Similarly, even if the Emperor would rather the Lion/Crane war not happen, it's rare that he would try to simply order an entire clan to cease military operations, lest he accidentally convince an entire clan that he is against them and sides with their enemies.
+For example, a running theme is that in theory the Emperor's authority is supreme and that none would question or oppose the Emperor's wishes, but that in practice people have their own loyalties and incentives which might sometimes run up against this.  And while it's extremely rare for someone to declare open rebellion against the Emperor's authority, people still find ways to work for their Clan or Family or House or Lineage interests even if the Emperor would want them to do otherwise.  Similarly, even if the Emperor would rather the Lion/Crane war not happen, it's rare that he would try to simply order an entire clan to cease military operations, lest he accidentally convince an entire clan that he is against them and sides with their enemies.
 
 The original L5R sourcebooks make a few references to the Imperial government and the Imperial courts and such, but the details are mostly left vague.  This is usually fine, since most tabletop RPG adventures don't require either the players or GM to delve into the details of such things.  However, running L5R campaigns over time has made it useful to flesh out a lot of the details, since some adventures touch on the structure of Rokugani government, and knowing who reports to whom or which ministers have what authority affects the choices and decisions PCs and NPCs would make.
 
@@ -2355,7 +2355,7 @@ Goju barely seemed to move, but it halted its forward motion the instant it felt
 
 Here is the final story about the members of Lord Moon's heavenly court - this one is about both Suro and Ryoshun:
 
-#### Balance Exploited, Balanced Defended
+#### Balance Exploited, Balance Defended
 
 In the vast tapestry of the heavens, there came a time when Suro the Thief was finally able to visit the Realm of Day.  He was granted leave by both Lord Moon and Lady Sun to converse and trade with the inhabitants of the luminous domain, with the caveat that he be monitored and searched to ensure he did not leave with anything that did not belong to him.  As he always did when making this journey, Suro gathered a collection of star-metal coins - treasures of the night sky, forged where the light of Lady Sun did not reach.  Imbued with the chilling essence of the nocturnal realm, the coins shimmered like frost in the deepest night and were colder than any earthly winter.
 
@@ -3305,7 +3305,7 @@ Toshi Ranbo is the third largest city in Rokugan, with a population of over 300,
 
 Lion capital cities are traditionally divided into districts with walls separating districts and often separating neighborhoods as well.  Peasants wanting to enter, leave, or travel between districts need special papers.  Although this helps prevent crime, it's extremely stifling to commerce and trade, so the Crane have lifted all such restrictions.  However, the districts still represent a logical separation between areas of jurisdiction, so each district is governed by a captain, and each district has one of the PCs assigned to it as its Imperial magistrate.
 
-Each PC has appellate jurisdiction over one of the districts.  Thus, instead of matters being appealed to the Minister of Justice, things are appealed to the PC assigned to the district.  A PC may unilaterally decide not to hear the case, in which case any earlier ruling will stand.  Or the PC may decide to hear the case, and all of the PCs will convene - this group of five Imperial Magistrates is known as the Board of Justice.  The PC from whose district the case came from gets 2 votes, and if there is a tie then Prince Fukuhachi must decide the case.
+Each PC has appellate jurisdiction over one of the districts.  Thus, instead of matters being appealed to the Minister of Justice, things are appealed to the PC assigned to the district.  A PC may unilaterally decide not to hear the case, in which case any earlier ruling will stand.  Or the PC may decide to hear the case, and all of the PCs will convene - this group of five Imperial Magistrates is known as the Board of Justice.  The PC from whose district the case came gets 2 votes, and if there is a tie then Prince Fukuhachi must decide the case.
 
 This campaign was largely focused around conflicts which can occur within this kind of setting - an occupied city, clashes of cultures within Rokugan, the 3rd largest city in the Empire, the tension between clan interests and Imperial personalities, new religious movements, etc.
 
@@ -3916,7 +3916,7 @@ Oaths and vows should begin by whoever is swearing it naming themself unambiguou
 
 Here's an example of how this applies to the Legionnaire's Oath, an oath of office sworn by those who join the Imperial legions.  Most Imperial legionnaires swear the standard Imperial Legionnaire's Oath, which has three parts:
 
-1. The legionnaire states their name, family, and position.  For some clans, the listing of position is as simple of naming their previous post or formal rank, while other clans take this opportunity to state their personal deeds - the amount of time allotted for this would depend on the rank of the legionnaire involved.  The amount of ancestry stated varies by clan and family as well; some Lion families state their entire lineage back to the Great Ancestors and their vassals, while others actually swear by each ancestor individually in the second part of the oath.
+1. The legionnaire states their name, family, and position.  For some clans, the listing of position is as simple as naming their previous post or formal rank, while other clans take this opportunity to state their personal deeds - the amount of time allotted for this would depend on the rank of the legionnaire involved.  The amount of ancestry stated varies by clan and family as well; some Lion families state their entire lineage back to the Great Ancestors and their vassals, while others actually swear by each ancestor individually in the second part of the oath.
 
 2. The naming of who the oath is being sworn by.  All Imperial legionnaires must swear this oath "by Lady Sun, and by my ancestors", but some legionnaires insert their family patron gods, or particular fortunes whose favor they seek.  In addition to swearing by these entities, some legionnaires may swear on a particular artifact, such as a famous sword they carry or an ancestral heirloom which is part of the legion.
 
@@ -5592,7 +5592,7 @@ According to the Almekhem, the King of Jinn invaded the night sky with his armie
 
 ### Blessings and Curses
 
-There are a number of stories how and why the desert was scorched.  Shosuro, the priestess queen who swore fealty to Bayushi during the founding of the Scorpion clan, explained that the gods appear to humans from behind masks.  Rivers and oceans are merely the masks worn by the water kami, just as ground and mountains are the masks of the earth kami.  What we see in the sky during the daytime is only the mask worn by Lady Sun, whose true form we cannot comprehend.  The desert is what remains in the aftermath of Lady Sun briefly removing her mask, casting her true gaze upon part of the mortal world for only an instant.
+There are a number of stories of how and why the desert was scorched.  Shosuro, the priestess queen who swore fealty to Bayushi during the founding of the Scorpion clan, explained that the gods appear to humans from behind masks.  Rivers and oceans are merely the masks worn by the water kami, just as ground and mountains are the masks of the earth kami.  What we see in the sky during the daytime is only the mask worn by Lady Sun, whose true form we cannot comprehend.  The desert is what remains in the aftermath of Lady Sun briefly removing her mask, casting her true gaze upon part of the mortal world for only an instant.
 
 The Togashi monks have no one canonical story of how the desert came to exist, but they question the assumption that the desert represents Lady Sun's anger or displeasure.  The desert seems to command more of Lady Sun's attention than other places, this is true.  Yet does that not imply that this land has her favor?  The attention of divine beings can be terrifying, but if Lady Sun's blessing appears to be some form of curse, then does that not simply raise questions about how we understand blessings and curses and whether there is even any difference between them?
 
@@ -5890,7 +5890,7 @@ PCs choose their elemental path at the beginning of the round, but they are not 
 
 At the end of each round, players choose the path they take on the next round, with one restriction: they may choose any ring other than the one "opposing" their path on the previous round.  In other words, someone who chose the Path of Water may choose any path other than the Path of Fire for the next round.  The exception is that any PC may choose the Path of Void to go to an opposite ring (e.g. Air to Earth) - if they do this then the skills they roll will be chosen randomly.  This randomness could hurt, but it could also help by enabling a PC to choose an action which uses skills they don't possess, and allowing them to count on the randomness of the Path of Void to hopefully increase their chances of success.
 
-The idea above is to incorporate the various underlying concepts behind the 5 rings into these rules.  The references to "damage" and "wounds" is spiritual rather than physical, and is what I meant when I talked about impairing someone psychically to raise the stakes.
+The idea above is to incorporate the various underlying concepts behind the 5 rings into these rules.  The references to "damage" and "wounds" are spiritual rather than physical, and are what I meant when I talked about impairing someone psychically to raise the stakes.
 
 There's an additional type of damage which can be taken in Spirit Encounters, which is that of "connection damage".  For example, in one dream quest from a past campaign, the PCs found themselves in the Court of the Caliph of Medin al Salaat.  After gaining information in previous scenes, they had the option to exit the dream safely, or proceed to the third and final scene, in which the Caliph and her factions were eating dinner.  Here was a description I wrote of that scene:
 
@@ -6185,7 +6185,7 @@ The pilfering of such a sacred artifact of Bishamon was thus even more egregious
 
 With items and relics of great power covered, along with ghost stories, the theme of ambiguity continues with various supernatural NPC backstories.
 
-Here's an in-universe story, which is an except from the unpublished autobiography of Mirumoto no Ryusei Yasunobu:
+Here's an in-universe story, which is an excerpt from the unpublished autobiography of Mirumoto no Ryusei Yasunobu:
 
 ### Yasunobu's Vision
 
@@ -6747,7 +6747,7 @@ Shiro Moto, which the Moto refer to as Karakoru, is approximately 50 miles west 
 
 The valley is approximately 100 miles to the northwest of the Shinomen forest.  It's at the edge of the Zenzan domain, which is the westernmost domain in Shinjo lands, approximately 75 miles from Shiro Zenzan, which is built close to White Shore Lake.  The entire valley is technically in the Sanfun province, though historically the Imperial Legion has taken responsibility for the valley itself.
 
-Artistic depictions of the valley often show lush green grass on one side and barren desert on the opposite site.  In fact the whole area is semi-arid, with about 16 inches of rainfall per year.  This is not enough to support much in the way of trees or farms, but there is plenty of vegetation on both sides of the valley.  Still, only about 1% of the land is arable, which is why the local village districts are collectively known as the Three Unfortunate Villages of Sanfun, since the land here is poor and its farms tend to be small and spread out.  The Provincial City of Sanfun, also called Oshindoka Toshi, is said to be "heaven for men and dogs, hell for women and horses".
+Artistic depictions of the valley often show lush green grass on one side and barren desert on the opposite side.  In fact the whole area is semi-arid, with about 16 inches of rainfall per year.  This is not enough to support much in the way of trees or farms, but there is plenty of vegetation on both sides of the valley.  Still, only about 1% of the land is arable, which is why the local village districts are collectively known as the Three Unfortunate Villages of Sanfun, since the land here is poor and its farms tend to be small and spread out.  The Provincial City of Sanfun, also called Oshindoka Toshi, is said to be "heaven for men and dogs, hell for women and horses".
 
 Thus, despite its name, the Gateway to the Land of the Burning Sands is actually about 400 miles east of the Burning Sands Desert, and about 800 miles east of the city of Medin al Salaat.
 
