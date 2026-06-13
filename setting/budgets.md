@@ -576,17 +576,13 @@ The Emperor does NOT collect road tolls anywhere in the Empire.  All tolls on th
 | Category | Annual koku | Notes |
 | --- | --- | --- |
 | Imperial household and Imperial family | ~1-2 million | Emperor's personal household + Imperial Consorts and their establishments + Imperial Princes and Princesses + Empresses Dowager + retired Emperors + the chamberlain/eunuch staff that runs the inner palace.  Distinct from the Imperial Ministries below; this is the Emperor's personal/dynastic establishment, not the central bureaucracy |
-| Otosan Uchi local government and administration | ~1-2 million | The mayoral-equivalent functions for the capital's ~1 million inhabitants: OU magistrates, OU policing, OU local market regulation, OU public works above what corvée and the Imperial Ministry of Works handle directly, the OU granary infrastructure (see the Imperial Magistrates line below for the standard per-domain granary model; OU's granaries are vastly larger because of population concentration) |
-| Imperial Ministry of Works (central operations, excluding Imperial roads and Kaiu Wall which are separate lines) | ~1-2 million | Imperial palace maintenance and construction, granary infrastructure design and supervision, sacred construction at major Imperial shrines, OU aqueducts and harbors, Imperial public-works engineering and capital projects |
-| Imperial Ministry of War (central operations, excluding Imperial legions which are a separate line) | ~0.5-1 million | Imperial-level war command, weapon manufacture oversight, war horse breeding programs, strategic intelligence on clan military capacity, mobilization planning |
-| Imperial Ministry of Rites (state ceremonies, sacred construction, mourning observances, Empire-wide religious infrastructure, festival distributions) | ~1.5-2.5 million | The Imperial-level state religion: major Imperial shrines (especially Amaterasu's), Imperial-rank shugenja stipends, ceremonial costs for major Imperial events, Empire-wide festival coordination, supervision of major mourning periods (see Imperial Savings below for the fiscal mechanics of large mourning-period distributions) |
-| Imperial Ministry of Justice (central operations, excluding Imperial Magistrates which are a separate line) | ~0.3-0.5 million | OU-resident judicial machinery, Emerald Champion's central staff, central judicial review, prisoner transport at the Imperial level (Imperial Magistrate line covers the field-level Imperial judiciary across the 284 domains) |
-| Imperial Ministry of Retainers (Imperial-rank samurai stipends and the central retainer-administration apparatus) | ~1-2 million | Stipends for Imperial-rank samurai serving in Imperial posts (Imperial princes who hold formal offices, Imperial-family officials, ceremonial-court samurai, samurai seconded to Imperial duty from clan families); rank-squared stipend calculations and payment-day logistics; the Imperial-level civil service examination administration |
-| Imperial Ministry of Revenue (central operations and oversight) | ~0.5-1 million | Empire-wide tax collection oversight, salt monopoly administration, commercial regulation, Imperial Court financial administration (the Imperial Treasurer's office), liaison with the 284 Imperial Magistrates' tax-related functions |
-| Imperial roads and waystations | ~7-9 million | The 50,000-mile road network plus ~5,000 waystations.  Detailed breakdown below |
-| Imperial legions | ~4-6 million | 25-40 legions of ~5,000 legionnaires each, most stationed on the Kaiu Wall.  Detailed breakdown below |
-| Kaiu Wall direct contributions | ~3-5 million | Imperial-funded Wall maintenance and supplies above and beyond what the Crab clan funds autonomously.  Detailed breakdown below |
-| Imperial Magistrates and their staff | ~3-4 million | One Imperial Magistrate per domain (per the Emerald Charter) plus central judicial infrastructure plus the Yasuki Taka tariff-audit yoriki cohort.  The local Imperial Magistrate also oversees the Emperor's local granaries within their assigned domain.  Detailed breakdown below |
+| Otosan Uchi local government and administration | ~1-2 million | The mayoral-equivalent functions for the capital's ~1 million inhabitants: OU magistrates, OU policing, OU local market regulation, OU public works above what corvée and the Imperial Ministry of Works handle directly, the OU granary infrastructure (see the Imperial Ministry of Justice line below for the standard per-domain granary model; OU's granaries are vastly larger because of population concentration) |
+| Imperial Ministry of Works | ~11-16 million | The Imperial Ministry of Works oversees all Imperial public works at scale, including two enormous strategic programs that account for the bulk of its budget.  Breakdown: **Imperial roads and waystations ~7-9 million** (the 50,000-mile road network plus ~5,000 waystations; detailed breakdown in its own section below); **Kaiu Wall direct contributions ~3-5 million** (Imperial-funded Wall maintenance and supplies above and beyond what the Crab clan funds autonomously; detailed breakdown in its own section below); **central operations ~1-2 million** (Imperial palace maintenance and construction, granary infrastructure design and supervision, sacred construction at major Imperial shrines, OU aqueducts and harbors, Imperial public-works engineering and capital projects) |
+| Imperial Ministry of War | ~4.5-7 million | The Imperial Ministry of War oversees the Empire's central standing army and the supporting strategic functions.  Breakdown: **Imperial legions ~4-6 million** (25-40 active legions of ~1,000 legionnaires each, most stationed on the Kaiu Wall; detailed breakdown in its own section below); **central operations ~0.5-1 million** (Imperial-level war command, weapon manufacture oversight, war horse breeding programs, strategic intelligence on clan military capacity, mobilization planning) |
+| Imperial Ministry of Rites | ~1.5-2.5 million | State ceremonies, sacred construction, mourning observances, Empire-wide religious infrastructure, festival distributions.  The Imperial-level state religion: major Imperial shrines (especially Amaterasu's), Imperial-rank shugenja stipends, ceremonial costs for major Imperial events, Empire-wide festival coordination, supervision of major mourning periods (see Imperial Savings below for the fiscal mechanics of large mourning-period distributions) |
+| Imperial Ministry of Justice | ~3.3-4.5 million | The Imperial Ministry of Justice oversees the Empire's central judicial functions plus the field-level Imperial Magistrate cohort.  Breakdown: **Imperial Magistrates and their staff ~3-4 million** (one Imperial Magistrate per domain per the Emerald Charter, plus the Yasuki Taka tariff-audit yoriki cohort and the local Imperial granary oversight role; detailed breakdown in its own section below); **central operations ~0.3-0.5 million** (OU-resident judicial machinery, Emerald Champion's central staff, central judicial review, prisoner transport at the Imperial level) |
+| Imperial Ministry of Retainers | ~1-2 million | Imperial-rank samurai stipends and the central retainer-administration apparatus.  Stipends for Imperial-rank samurai serving in Imperial posts (Imperial princes who hold formal offices, Imperial-family officials, ceremonial-court samurai, samurai seconded to Imperial duty from clan families *outside* of the Imperial legions structure - the legions are funded under the Imperial Ministry of War line above); rank-squared stipend calculations and payment-day logistics; the Imperial-level civil service examination administration |
+| Imperial Ministry of Revenue | ~0.5-1 million | Empire-wide tax collection oversight, salt monopoly administration, commercial regulation, Imperial Court financial administration (the Imperial Treasurer's office), liaison with the 284 Imperial Magistrates' tax-related functions |
 | Discretionary / contribution to Imperial savings | ~2-3 million | In years when revenue exceeds operating commitments; in lean years this line shrinks or reverses (the Emperor draws from savings to make up the shortfall) |
 | **Total** | **~26-40 million** | Matches baseline Imperial revenue (~36-42 million) within rounding tolerance, with typical surplus of ~5-10M flowing to savings in a good year.  In a hard year the discretionary line zeros out and reserves are drawn down.  The Imperial Chancellery (a deliberative body that advises the Emperor and ratifies major decisions; see [l7r.md - The Ministry of Justice](l7r.md#the-ministry-of-justice) for its political role) is not a separate line because its operating cost is minimal and is folded into the Imperial Ministry of Retainers and Imperial household lines |
 
@@ -630,6 +626,61 @@ The ~7-9 million koku/year for the Imperial road network breaks down roughly as 
 
 **Historical justification**: The Tang Chinese yi (驛) post system spaced stations every ~10 miles for these same functions, with no toll collection, at a cost of roughly 8-12% of Tang central revenue at peak.  Rokugan at ~25% of Imperial revenue is HIGH by Tang standards, but this is the deliberate worldbuilding choice that the "Imperial Roads: a Special Case" subsection below explains - Hantei the Tenth committed to an unusually intense road investment, and the canonical figures reflect that commitment rather than the historical mean.
 
+#### Per-Waystation Staffing Breakdown
+
+A typical waystation supports ~15-18 permanent staff.  Most positions are locally sourced - hard oversight (transit-stamp verification, station command) requires Imperial appointees from elsewhere, but the broader administrative and physical work is done by locals.  Composition and stipend breakdown, with funding source noted:
+
+| Role | Count | Status / Rank | Stipend (koku/yr) | Total (koku/yr) | Paid by |
+| --- | --- | --- | --- | --- | --- |
+| Relay-master (senior samurai who manages the station; Imperial appointee from elsewhere, rotates periodically) | 1 | Rank 5 samurai | 25 | 25 | Imperial budget |
+| Waystation Imperial yoriki (Yasuki Taka transit-stamp verification, Imperial appointee from elsewhere, attached to the Imperial Magistrate of the domain the station sits in) | 1 | Rank 3 samurai | 9 | 9 | Imperial budget |
+| Mounted patrol ashigaru (locally recruited) | ~4 | Ashigaru | 2 each | ~8 | Imperial budget |
+| Stable hands (locally recruited) | ~3 | Peasants (housed + fed + small stipend) | ~1 | ~3 | Imperial budget |
+| Kitchen and provisioning staff (locally recruited) | ~2 | Peasants (housed + fed + small stipend) | ~1 | ~2 | Imperial budget |
+| Road-maintenance crew specialists (locally recruited; supervise corvée labor and do specialized stonework) | ~2 | Peasants with skilled-craft status | ~2 | ~4 | Imperial budget |
+| Courier-postmaster (handles incoming/outgoing couriers and mail; clan samurai detailed by the local daimyo to assist Imperial functions) | 1 | Rank 4 samurai | 16 | 16 | Local clan budget |
+| Mounted patrol leader (clan samurai detailed by the local daimyo) | 1 | Rank 4 samurai | 16 | 16 | Local clan budget |
+| Manifest clerk / scribe (clan samurai detailed by the local daimyo) | 1 | Rank 2 samurai | 4 | 4 | Local clan budget |
+| **Total** | **~16** | | | **~87** | |
+
+Per the user's design principle: oversight (the yoriki function specifically) cannot be entrusted to locals because of the structural conflict of interest - the daimyo's own samurai cannot be trusted to audit imports flowing into the daimyo's own city.  But the broader administrative apparatus - couriers, mounted patrols, manifest record-keeping - can be done by local clan samurai working under the Imperial relay-master's command, which is cheaper and uses local knowledge while preserving Imperial oversight where it matters.
+
+Funding split:
+- Imperial-paid personnel (relay-master + yoriki + all ashigaru/peasants): ~51 koku in stipends + ~10 koku in allowances = ~61 koku/year per waystation
+- Clan-paid personnel (3 local samurai detailed by the daimyo): ~36 koku in stipends + ~9 koku in allowances = ~45 koku/year per waystation, borne by the host domain's clan budget
+
+#### Single Waystation Budget Reference
+
+A typical waystation's annual Imperial budget breaks down as follows (clan-paid samurai stipends are NOT included here - they appear in the host domain's clan budget):
+
+| Category | Annual koku | Notes |
+| --- | --- | --- |
+| Imperial-paid personnel stipends and allowances | ~61 | Relay-master + waystation yoriki + locally-recruited ashigaru and peasants.  See the staffing breakdown table above |
+| Horses and stable operations | ~75 | ~12-15 horses average (courier-relay mounts + mounted-patrol horses + officer mounts); includes fodder, tack, replacement |
+| Building maintenance and repairs | ~150 | Structural upkeep of the waystation complex (main hall, barracks, stables, gates, courtyard walls) |
+| Road repair materials for the adjacent ~10 miles of road | ~200 | Stone, lumber, specialized tools, materials for bridge and culvert maintenance.  The bulk of actual road-repair LABOR comes from corvée obligations on adjacent counties; this budget line covers materials and the wages of the skilled-craft specialists who supervise the corvée crews and do specialized stonework |
+| Daily consumables | ~100 | Lamp oil, firewood, food preservation, kitchen consumables, daily operations of housing and feeding ~16 staff plus transient travelers (couriers passing through, the occasional inspecting magistrate, civilian travelers overnighting) |
+| Manifest paper, sealing wax, courier equipment, transit-stamp supplies | ~50 | For courier-relay record-keeping and the Yasuki Taka transit-stamp verification work |
+| Medical supplies, religious offerings, ad-hoc costs | ~70 | Basic medical supplies, small Buddhist/Fortunist altar maintenance, irregular operational costs |
+| **Total per typical waystation (Imperial budget)** | **~706** | (~700 typical) |
+
+The local daimyo additionally pays ~45 koku/year per waystation in stipends for the 3 clan samurai detailed as courier-postmaster, mounted patrol leader, and manifest clerk.  Across all the waystations within a typical Reiji-style domain (see the per-domain synthesis below), this comes to a few hundred koku of clan budget burden - a trivial obligation in absolute terms but a continuing structural reminder that the domain participates in supporting Imperial infrastructure.
+
+Variation by waystation type (Imperial budget figures, excluding clan-paid samurai stipends):
+
+- **Remote frontier waystations** (~560 koku/year): Fewer staff (~10), fewer horses, less road traffic, lower building-maintenance needs.  Found in places like deep Unicorn lands well west of Shiro Iuchi, northern Phoenix mountain routes, parts of the Kuni Wastelands road network.
+- **Typical mid-route waystations** (~700 koku/year): The standard model documented above.  Represent the majority of stations.
+- **Busy trunk-route or junction waystations** (~1,400 koku/year): Larger staff (~25-30) including a smith for shoeing horses and weapon maintenance, additional clerks for heavier manifest volume, more horses, dual-function as relay points where major routes intersect, occasional hosting of ceremonial Imperial travelers.  Found on the main Otosan Uchi trunks, the central Crane corridor, and major route junctions throughout the Empire.
+
+Empire-wide aggregation across ~5,000 waystations:
+
+- ~1,000 remote × ~560 koku = ~560K
+- ~3,500 typical × ~700 koku = ~2.45M
+- ~500 busy × ~1,400 koku = ~700K
+- **Total Imperial-paid: ~3.7 million koku/year**
+
+This produces the ~3-4M waystation operations figure shown in the Imperial Roads and Waystations top-level breakdown above.  Plus an additional ~225K koku/year of clan-paid stipends for the ~15,000 locally-detailed clan samurai serving across all ~5,000 waystations (3 per waystation), spread across the 284 actual domains as a routine support-of-Imperial-infrastructure obligation.
+
 ### Imperial Roads: a Special Case
 
 The Empire's 50,000-mile Imperial road network is an extraordinary investment for a premodern state.  Heavy maintenance, ~5,000 waystations staffed at irregular but worthwhile intervals (averaging ~10 miles apart on the major trunk routes, more sparsely on minor branches and frontier extensions), no tolls collected anywhere along the system - by historical standards this is dramatic over-investment, and most premodern road networks of comparable ambition either decayed for lack of maintenance funding (Imperial Rome's roads were essentially gone within a generation of the Western collapse) or fragmented into a patchwork of local tolls extracted by individual lords, towns, and barrier stations (medieval European roads, Sengoku Japanese sekisho, the various transit-tax stations of the late dynasties of imperial China).
@@ -646,21 +697,123 @@ The Yasuki Taka import tariff system (see [l7r.md - The Ministry of Revenue](l7r
 
 ### Imperial Legions: Line-Item Detail
 
-The ~4-6 million koku/year for the Imperial legions breaks down as follows:
+The ~4-6 million koku/year for the Imperial legions funds the Empire's central standing army: 25-40 active legions of ~1,000 legionnaires each (~25,000-40,000 total active combat troops), supported by a substantially larger cohort of non-combatant peasant support staff.  Most legions are stationed on the Kaiu Wall assisting the Crab clan; the remainder handle inter-clan border tension as a neutral force, emergency response (riot suppression in distant provinces, famine-relief security), and ceremonial duties at the capital.
 
-- **Legionnaire compensation** (~1-2 million): 25-40 active legions at any given time of approximately ~5,000 legionnaires per legion, totaling ~125,000-200,000 active troops.  Average compensation per legionnaire is ~5-10 koku/year, covering stipend, food, equipment, and housing in barracks.
+#### Legion Organization and Rank Structure
 
-- **Officer pay** (~500K-1M): Senior officers drawn from the Imperial families, especially the Seppun.  Legion commanders, deputies, and field-grade officers are paid at Rank 8-10 stipends with substantial expense allowances.
+Each Imperial Legion is organized into a hierarchy that maps directly onto the rank-squared stipend system:
 
-- **Equipment, fortifications, siege material** (~500K-1M): Imperial-funded weapons, armor, fortification supplies, and defensive engineering at Wall positions and other long-term postings.
+| Unit | Composition | Commander | Commander's Rank | Stipend (koku/yr) |
+| --- | --- | --- | --- | --- |
+| Platoon | ~15-20 legionnaires | Platoon lieutenant | Rank 6 | 36 |
+| Company | ~3 platoons (~50 legionnaires) | Company captain | Rank 7 | 49 |
+| Battalion | ~4-5 companies (~200-250 legionnaires) | Battalion commander | Rank 8 | 64 |
+| Legion | ~5 battalions (~1,000 legionnaires) | Legion general | Rank 9 | 81 |
+| Army | Multiple legions in a theater section (e.g. all legions along one stretch of the Kaiu Wall) | Army general | Rank 10 | 100 |
+| Theater | Multiple armies (e.g. all legions along the entire Kaiu Wall) | "General of the X Armies of the Y" | Rank 11 | 121 |
 
-- **Deployment costs** (~500K-1M): Supplies, transport, camp infrastructure, war horses, and supply caravans to forward positions.
+The Imperial appointee in charge of all legions along the Kaiu Wall holds the title **General of the Border Armies of the Emperor** (Rank 11).  Theater commanders for other strategic groupings carry analogous titles.
 
-- **Medical and wound-care infrastructure** (~200K-500K): Imperial-funded battlefield medical posts, recovery facilities, shugenja healing services, and survivor stipends for legionnaires invalided out of service.
+Within each platoon, the standard composition is: 1 platoon lieutenant (Rank 6, 36 koku), ~3 squad sergeants (Rank 5, 25 koku each), ~3 corporals (Rank 4, 16 koku each), and ~9-13 rank-and-file legionnaires (Rank 3 by default, 9 koku each).  Rank-and-file legionnaires can be demoted to Rank 2 (4 koku) for misconduct, but no Imperial legionnaire is ever demoted to Rank 1 - that lowest rank is incompatible with the prestige of Imperial service, and no peasant who has earned a place in the legions could be reduced to it without an extraordinary act of dishonor.
 
-The majority of legions are stationed on the Kaiu Wall assisting the Crab clan.  The remainder handle inter-clan border tension as a neutral force, emergency response (riot suppression in distant provinces, famine-relief security), and ceremonial duties at the capital.
+#### The Rank Uplift Principle
 
-**Historical justification**: Han Dynasty military spending was 15-30% of central revenue at peak.  Tang under Xuanzong: ~20-30% of revenue on military (frontier garrisons plus central army).  Ming Dynasty at peak Wall-defense intensity: ~25-35% (most of which was border garrison troops).  Rokugan at ~15% on legions is at the LOW end of historical norms for an empire facing significant frontier military pressure - actually understated relative to Ming peak, but defensible because Crab clan domains carry significant additional military costs from their own treasury that don't appear in this line.  In scale terms, Rokugan's ~150,000 active legionnaires are comparable to the Roman Imperial army at peak (~300,000-400,000 distributed across all provinces) or the Ming border garrison (~400,000-1,000,000 at peak); the Rokugani Imperial army is smaller than either but well within the realistic range for a unified empire of 100 million inhabitants.
+Imperial Legion postings are administratively reckoned **one rank higher** than equivalent posts in clan armies.  A squad sergeant in a clan army would normally be a Rank 4 posting; in the Imperial Legions, it is Rank 5.  This applies systematically up and down the structure: a platoon lieutenant who would be Rank 5 in clan service is Rank 6 in Imperial service; a legion general is Rank 9 rather than the Rank 8 they would be at a comparable clan-army post.
+
+The rank uplift is a structural feature of Imperial Legion service, not a discretionary honor.  It reflects the prestige of serving the Emperor directly, and it has two important consequences:
+
+1. **The stipend bump while serving**: under the rank-squared stipend rule, the uplift increases compensation meaningfully.  A squad sergeant goes from 16 koku (Rank 4) to 25 koku (Rank 5), a 56% increase.  A legion general goes from 64 koku (Rank 8) to 81 koku (Rank 9), a 27% increase.  Across an entire legion, the rank uplift is a substantial cost borne by the Imperial Treasury.
+
+2. **The retention of rank after Imperial service**: when a samurai's Imperial Legion assignment ends and they return to their clan, **they keep the higher rank**.  A sergeant who served at Rank 5 in the Imperial Legions returns to their clan as a Rank 5 samurai; their daimyo cannot retroactively demote them to Rank 4 without explicitly insulting them.  The logic is straightforward: to give a returning Imperial veteran a lower-ranking post would be to say they were good enough to serve the Emperor at their elevated rank but not good enough to serve their daimyo at the same rank, which is unacceptable to both the returning veteran and to the Imperial Court that elevated them in the first place.  Demotion is only possible if the samurai is deemed to have personally and individually embarrassed themselves to a degree that warrants explicit punishment - and such embarrassments are public, well-documented, and rare, not silent reversions to clan-army ranks.
+
+This rank-retention rule creates a sustained incentive for daimyo to second their samurai to Imperial Legion duty: the Empire pays the elevated stipend during service, and when the samurai returns, the daimyo has a higher-ranking retainer at no additional clan cost (the daimyo now pays the higher stipend in clan service, but receives a more experienced and Imperially-vetted official in exchange).  This is the structural reason why daimyo voluntarily contribute manpower to the Imperial Legions despite the temporary loss of their samurai's service: it amounts to a hidden subsidy from the Imperial Court to the clans' manpower pool over the long term.
+
+#### Per-Legion Stipend Breakdown
+
+A typical Imperial Legion of ~1,000 legionnaires has the following annual stipend cost, broken down by rank:
+
+| Rank | Position | Count | Stipend (koku/yr) | Total (koku/yr) |
+| --- | --- | --- | --- | --- |
+| Rank 9 | Legion general | 1 | 81 | 81 |
+| Rank 8 | Battalion commander | ~5 | 64 | ~320 |
+| Rank 7 | Company captain | ~20 | 49 | ~980 |
+| Rank 6 | Platoon lieutenant | ~60 | 36 | ~2,160 |
+| Rank 5 | Squad sergeant | ~180 | 25 | ~4,500 |
+| Rank 4 | Corporal | ~180 | 16 | ~2,880 |
+| Rank 3 | Rank-and-file legionnaire | ~570 | 9 | ~5,130 |
+| Rank 2 | Demoted rank-and-file (~5% misconduct) | ~30 | 4 | ~120 |
+| **Total** | | **~1,046** | | **~16,170** |
+
+Stipends alone come to ~16,000 koku/year per legion.  Empire-wide across 25-40 active legions, total samurai stipend cost is ~400-650K koku/year.
+
+#### Tooth-to-Tail Ratio and Non-Combatant Support
+
+A legion's combat strength is supported by a substantial cohort of non-combatant peasant staff - cooks, cleaners, carpenters, smiths, latrine-diggers, tailors, porters, animal handlers, supply clerks, and other support personnel without whom the legion could not function.  The ratio of combat troops to support staff varies dramatically with deployment posture, which is the single biggest variable in legion cost.
+
+| Deployment Posture | Combat-to-Support Ratio | Total Personnel per Legion | Notes |
+| --- | --- | --- | --- |
+| Long-term permanent encampment (e.g. Kaiu Wall garrison) | 1:2 | ~3,000 (1,000 combat + ~2,000 support) | The larger support tail includes specialized roles that would not exist in the field: brewers, entertainers, performers, and luxury providers who keep morale up during long deployments; pavers, stonemasons, and construction specialists who maintain and extend the encampment infrastructure; shopkeepers, kitchen specialists, scribes, and clerical staff who run the day-to-day operations of what is effectively a small permanent town |
+| Field operations (legion on the move, deployed away from permanent base) | 1:1 | ~2,000 (1,000 combat + ~1,000 support) | A legion in the field sheds most of its luxury-and-construction tail (no need for pavers when the legion is moving every few days) but ironically becomes **more expensive per active soldier** because of supply-chain costs.  The non-combatant tail is smaller in raw count, but every meal, every weapon repair, every horse fodder ration must be carried in by porter or wagon rather than being produced on-site at the permanent encampment |
+
+The 2:1 Wall-encampment ratio is similar to Roman Imperial peacetime garrison ratios at major frontier camps and to the support-staff ratios at Ming Wall garrison towns.  The 1:1 field ratio matches the lighter "marching legion" structure that Roman and Tang armies used when deploying away from permanent bases.
+
+A breakdown of typical non-combatant roles at a Wall-stationed legion of ~2,000 support staff:
+
+| Role Category | Count | Annual cost (~5 koku/person incl. food) | Notes |
+| --- | --- | --- | --- |
+| Cooks, kitchen staff, food preservation | ~300 | ~1,500 | Feeding 3,000 people in a permanent encampment requires substantial daily operations |
+| Animal handlers, stable hands, fodder management | ~250 | ~1,250 | ~400 horses per legion require constant care |
+| Smiths, weapon and armor maintenance | ~150 | ~750 | Daily wear maintenance plus replacement |
+| Carpenters, masons, pavers, construction maintenance | ~200 | ~1,000 | Wall fortification and encampment infrastructure |
+| Porters, supply clerks, quartermaster staff | ~250 | ~1,250 | Receiving and distributing supplies; record-keeping |
+| Tailors, leather-workers, equipment fabricators | ~100 | ~500 | Uniforms and personal equipment |
+| Latrine-diggers, water carriers, sanitation | ~150 | ~750 | Critical for preventing camp disease |
+| Brewers, entertainers, performers, masseurs | ~150 | ~750 | Morale maintenance during long deployments |
+| Scribes, clerical staff, message couriers | ~100 | ~500 | Administrative support for the officer cohort |
+| Shopkeepers, market vendors, civilian camp followers | ~200 | ~1,000 | Camp-town economy serving the legion's domestic needs |
+| Medical orderlies, shugenja attendants, healers' support | ~150 | ~750 | Recovery facility staff |
+| **Total** | **~2,000** | **~10,000** | |
+
+#### Single Legion Budget — Wall-Stationed Reference
+
+A typical Wall-stationed Imperial Legion's annual budget breaks down as follows:
+
+| Category | Annual koku | Notes |
+| --- | --- | --- |
+| Combat-troop stipends | ~16,000 | Per the rank-squared breakdown table above |
+| Combat-troop food and basic equipment allowance | ~7,000 | ~7 koku/legionnaire above stipend (food + basic kit + housing in barracks) |
+| Officer expense allowances | ~3,000 | General, battalion commanders, company captains: ceremonial functions, command-tent maintenance, personal household at the encampment |
+| Non-combatant peasant support staff | ~10,000 | Per the non-combatant support breakdown table above |
+| Horses and stable operations | ~4,000 | ~400 horses per legion: cavalry mounts, supply-train horses, officer mounts, replacement and fodder |
+| Equipment maintenance: weapons, armor, fortification supplies, siege material | ~10,000 | Annual replacement and maintenance, plus encampment construction supplies |
+| Fortification work specific to this legion's stretch of Wall | ~10,000 | Stonework, watchtower repair, gate maintenance, structural work |
+| Medical and shugenja healing infrastructure | ~2,000 | Medical posts, recovery facilities, healing shugenja stipends, casualty pensions |
+| Camp operating supplies | ~8,000 | Firewood, food preservation, daily-life supplies at the permanent encampment |
+| Other (intelligence operations, religious ceremonies, ad-hoc costs) | ~3,000 | Scout teams, monastery donations, daily-life expenses not otherwise itemized |
+| **Total per Wall-stationed legion** | **~73,000** | |
+
+Field-deployed legions cost roughly **1.5x** the per-legion baseline due to supply-chain inefficiency, even though their non-combatant tail is smaller in count.  A field-deployed legion costs ~100-110K koku/year, vs. ~73K for a Wall-stationed legion.  For 25-40 active legions Empire-wide with a typical mix of Wall-stationed and field-deployed:
+
+- Mostly Wall-stationed (current peacetime baseline, ~80% Wall + ~20% field): ~75-100K per legion average × 30 legions = ~2.3-3M
+- Significant field deployment (wartime, ~60% Wall + ~40% field): ~85K per legion average × 35 legions = ~3M
+- Plus Imperial-level War Ministry coordination, central logistics, and strategic-reserve readiness: ~0.5-1M
+- Plus headroom for crisis-year surges: ~0.5-1M
+
+This produces the ~4-6 million range shown on the main spending table.
+
+#### Campaign Context: The Lion/Crane War
+
+For most of recent Imperial history, the great majority of Imperial Legions have been stationed on the Kaiu Wall, where they remain.  This is the stable peacetime baseline.
+
+During the **6-year Lion/Crane War**, however, the Emperor redeployed several legions away from the Wall.  Officially these deployments were framed as quelling peasant unrest in war-affected provinces and ensuring civilian safety along the war frontiers.  In actual practice, the redeployment was at least partly intended to prevent opportunistic raids into territories unaffiliated with the war - notably including Imperial-family holdings whose military forces were not built for sustained defense against opportunistic clan-aligned raiders.  This was politically delicate and never publicly stated as the operational rationale.
+
+The fiscal impact was substantial.  Supplying legions conducting field operations - even non-combat operations - is significantly more expensive than maintaining the same legions at their permanent Wall encampments, because the supply chain costs rise sharply and the per-legion overhead increases.  Over six years, the redeployment drew down the Imperial budget considerably and was a meaningful contributor to the current fiscal crisis (see Imperial Savings below).  With the war ended, the redeployed legions have largely returned to the Wall, and per-legion costs have correspondingly dropped back toward the Wall-stationed baseline.  However, the cumulative drawdown from the war years has not been recovered.
+
+#### Historical Justification
+
+Han Dynasty military spending was 15-30% of central revenue at peak.  Tang under Xuanzong: ~20-30% of revenue on military (frontier garrisons plus central army).  Ming Dynasty at peak Wall-defense intensity: ~25-35% (most of which was border garrison troops).  Rokugan at ~15% on legions is at the LOW end of historical norms for an empire facing significant frontier military pressure - understated relative to Ming peak, but defensible because Crab clan domains carry significant additional military costs from their own treasury that don't appear in this line, and the other clans' standing armies are similarly Crown-independent rather than Imperial.
+
+In scale terms, Rokugan's ~25,000-40,000 active combat legionnaires (~75,000-120,000 total Imperial military personnel when non-combatant support is included) is comparable to mid-Tang central armies (~100K-200K) and significantly smaller than Han or Ming peak central forces (~600K-1M).  The Rokugani Imperial standing army is moderate-to-small for an empire of ~100 million inhabitants, but the broader Empire-wide military capacity (Imperial legions + clan standing armies + clan-bushi reserves) is much larger and adequate to the threats the Empire faces.
 
 ### Kaiu Wall Direct Contributions: Line-Item Detail
 
@@ -686,7 +839,9 @@ The ~3-5 million koku/year for direct Imperial Wall contributions covers:
 
 The ~3-4 million koku/year for the Imperial Magistrate cohort breaks down as follows:
 
-- **The 284 standing Imperial Magistrate offices** (~1.7 million): One Imperial Magistrate stationed in every domain (per the Emerald Charter), at average ~6,000 koku/year per Magistrate's office.  This covers the Magistrate's personal stipend (Rank 9-11 equivalent, depending on the importance of the domain), retinue, manor and office operations, the office's standing yoriki force (~30-100 yoriki per office handling general judicial work, dispute investigation, cross-clan-issue mediation, and the city-gate tariff audit work described above), and the supervision of **the Emperor's local granaries within the domain**.  The granary function is structurally important: most of what is collected in Imperial taxes does not physically travel to Otosan Uchi (Rokugan is ~1,000 by ~1,500 miles, and physically transporting grain over those distances would be prohibitively expensive) but is instead stored in the Imperial granaries in each domain capital and used locally - for paying yoriki and other Imperial-staff stipends, funding road and waystation operations, supporting the local Imperial Magistrate's office, and being released into the local market in lean years (the "ever-normal granary" function familiar from Tang/Song Chinese administration).  The Imperial Magistrate's role in overseeing these granaries is one of the most economically consequential functions of the office.  Larger domains and clan-capital postings carry larger Magistrate offices than the average; vassal-house domains and frontier postings are smaller.  (Otosan Uchi's Imperial granary infrastructure is exceptional: because the capital concentrates ~1 million inhabitants, its granaries are vastly larger than any per-domain installation, and the OU local market is tightly monitored and controlled by Imperial regulators.  This is partly handled through the Otosan Uchi local government line in the spending table and partly through the Imperial Ministry of Rites' Empire-wide ceremonial-distribution coordination.)
+- **The 284 standing Imperial Magistrate main offices at domain capitals** (~1.5 million): One Imperial Magistrate stationed in every domain (per the Emerald Charter), located at the domain capital.  This covers the Magistrate's personal stipend (Rank 10 for vassal-house domains, Rank 11 for non-ruling family domains, Rank 12 for clan-ruling-family capitals - see the Rank by Domain Tier table below), retinue, manor and office operations, the office's standing yoriki force (handling general judicial work, dispute investigation, cross-clan-issue mediation, and the *capital-city* tariff audit work), and the supervision of **the Emperor's local granaries within the domain**.  The granary function is structurally important: most of what is collected in Imperial taxes does not physically travel to Otosan Uchi (Rokugan is ~1,000 by ~1,500 miles, and physically transporting grain over those distances would be prohibitively expensive) but is instead stored in the Imperial granaries in each domain capital and used locally - for paying yoriki and other Imperial-staff stipends, funding road and waystation operations, supporting the local Imperial Magistrate's office, and being released into the local market in lean years (the "ever-normal granary" function familiar from Tang/Song Chinese administration).  The Imperial Magistrate's role in overseeing these granaries is one of the most economically consequential functions of the office.  Per-IM cost varies dramatically with the size of the domain capital (see the Per-Magistrate Office Staffing and Budget detail below).  (Otosan Uchi's Imperial granary infrastructure is exceptional: because the capital concentrates ~1 million inhabitants, its granaries are vastly larger than any per-domain installation, and the OU local market is tightly monitored and controlled by Imperial regulators.  This is partly handled through the Otosan Uchi local government line in the spending table and partly through the Imperial Ministry of Rites' Empire-wide ceremonial-distribution coordination.)
+
+- **~2,400 provincial-city Imperial yoriki sub-stations** (~400K): One small Imperial yoriki sub-station in each of the Empire's ~2,400 provincial cities, auditing the Yasuki Taka tariff collection at the provincial city's gates.  These sub-stations report up to the Imperial Magistrate at their domain capital and are administratively part of the IM cohort, but they are budgeted and counted separately because the empire-wide multiplier is different (~2,400 provincial cities, using the 400-ME × 6-provinces aggregation, rather than the ~284 actual domain capitals).  See the Provincial-City Imperial Yoriki Sub-Station Budget detail below.
 
 - **Emerald Champion central operations** (~500-700K): The Imperial Minister of Justice's office in Otosan Uchi, supporting the Emerald Champion's institutional functions (administration of the Test of the Emerald Champion, coordination of Imperial Magistrate appointments and rotations, central judicial review).
 
@@ -696,7 +851,146 @@ The ~3-4 million koku/year for the Imperial Magistrate cohort breaks down as fol
 
 - **Standing investigative units** (~200-400K): Including the salt-smuggling investigative unit documented under the Imperial Revenue salt-monopoly discussion above, plus other specialized Imperial investigation units (counterfeit-currency squad, false-Imperial-credential investigators, etc.).
 
-**Note on the Yasuki Taka tariff-audit infrastructure**: the Imperial yoriki performing tariff audit at provincial city and capital city gates throughout the Empire are part of the Imperial Magistrate cohort - they are administratively attached to the local Imperial Magistrate's office, distributed across the IM's domain (typically ~7-8 yoriki at each of the 6 provincial cities and the 1 capital city in the domain).  Their work is part of their general portfolio alongside other judicial duties.  This is distinct from the separate waystation-yoriki cohort budgeted in the Imperial Roads line above; those waystation yoriki perform transit-stamp verification at intermediate points along the roads between cities, not point-of-sale tariff audit at city gates.  The two cohorts are functionally and budgetarily separate, with the Imperial Magistrate line covering the city-gate audit force (~14,000 Imperial yoriki Empire-wide) and the Imperial Roads line covering the waystation verification force (~5,000-10,000 additional yoriki across ~5,000 waystations).
+**Note on the Yasuki Taka tariff-audit infrastructure**: the Imperial yoriki performing tariff audit at provincial city and capital city gates throughout the Empire are part of the Imperial Magistrate cohort, but distributed across two budget categories: the 284 IM main offices at domain capitals each include ~25 yoriki handling general judicial work AND the capital-city tariff audit, while the ~2,400 provincial-city sub-stations each include ~4-5 yoriki specifically for provincial-city tariff audit.  Total Imperial yoriki Empire-wide across both categories: approximately 14,000-15,000.  This is distinct from the separate waystation-yoriki cohort budgeted in the Imperial Roads line above; those waystation yoriki perform transit-stamp verification at intermediate points along the roads between cities, not point-of-sale tariff audit at city gates.  The two cohorts (Imperial Magistrate-attached city-gate yoriki and Imperial Roads-attached waystation yoriki) are functionally and budgetarily separate.
+
+#### Imperial Magistrate Rank by Domain Tier
+
+The Imperial Magistrate's personal rank is determined by the political tier of the domain they are posted to, NOT by the size of the domain's capital city:
+
+| Domain Tier | IM Rank | IM Stipend (koku/yr) | Approximate Empire-wide Count | Examples |
+| --- | --- | --- | --- | --- |
+| Vassal-house domain | Rank 10 | 100 | ~247 | Reiji (Hida vassal house), Wakashi (Ikoma vassal house), Damasu (Akodo vassal house), Michio (Shosuro vassal house controlling Ryoko Owari) |
+| Non-ruling family domain | Rank 11 | 121 | ~30 | Matsu (non-ruling Lion family), Yasuki (non-ruling Crab family), Otomo (non-ruling Imperial family), Shosuro (non-ruling Scorpion family) |
+| Clan-ruling family domain (clan capital) | Rank 12 | 144 | 7 (one per Great Clan) | The Akodo capital for Lion, the Hida capital for Crab, the Doji capital for Crane, the Bayushi capital for Scorpion, etc. |
+
+The rank is a function of political importance, not commercial scale.  Ryoko Owari is one of the most economically consequential cities in the Empire (500,000 inhabitants, second only to Otosan Uchi) but its IM is Rank 10 because the Michio are a vassal house under the Shosuro family.  Conversely, a Rank 12 IM at a relatively small clan-ruling-family capital still carries the prestige and authority of the clan-tier posting even if the city itself is smaller than several Rank 10 vassal-house capitals.
+
+#### Per-Magistrate Office Staffing and Budget (Median Domain Capital, Rank 10 IM)
+
+A typical Imperial Magistrate office at a median-sized vassal-house domain capital (~12,000 population, IM at Rank 10) supports the following permanent staffing.  The "Paid by" column distinguishes Imperial appointees and Imperial-paid local staff from samurai whom the local daimyo provides to the office as part of the domain's standing obligation to support Imperial functions:
+
+| Role | Count | Status / Rank | Stipend (koku/yr) | Total (koku/yr) | Paid by |
+| --- | --- | --- | --- | --- | --- |
+| Imperial Magistrate themselves | 1 | Rank 10 samurai (Imperial appointee) | 100 | 100 | Imperial budget |
+| Karo (chief steward / secretary to the IM) | 1 | Rank 6 samurai (Imperial appointee, traveling with the IM) | 36 | 36 | Imperial budget |
+| Personal household samurai (the IM's close retinue) | ~5 | Rank 4-5 samurai (Imperial appointees, IM's retinue) | ~20 avg | ~100 | Imperial budget |
+| Yoriki for general judicial work + capital-city tariff audit | ~25 | Rank 3 samurai (Imperial appointees - oversight cannot be local) | 9 each | ~225 | Imperial budget |
+| Ashigaru (manor security, prisoner escort, court enforcement) | ~8 | Ashigaru (locally recruited) | 2 each | ~16 | Imperial budget |
+| Manor servants and clerical peasants | ~13 | Peasants (locally recruited, housed + fed + small stipend) | ~1 each | ~13 | Imperial budget |
+| Manifest clerks and scribes (locally-detailed support samurai) | ~3 | Rank 2 samurai (clan samurai detailed by the local daimyo to assist) | 4 each | ~12 | Local clan budget |
+| **Total staff** | **~56** | | | **~502** | |
+
+Plus food and equipment allowances for the Imperial-paid samurai cohort (~3 koku/samurai × ~32 samurai + ~1 koku × 8 ashigaru): ~104 koku, bringing total Imperial-paid personnel cost to ~594 koku/year.  The clan-paid manifest clerks cost an additional ~21 koku/year from the local daimyo's budget.
+
+Single median IM office budget (Imperial portion only):
+
+| Category | Annual koku | Notes |
+| --- | --- | --- |
+| Personnel stipends and allowances (Imperial-paid only) | ~594 | Per the staffing breakdown above |
+| Manor maintenance, grounds, stable | ~700 | The IM is a senior Imperial official whose residence and office must reflect their rank.  Manor maintenance, gardens, stable, fortified walls, ceremonial halls |
+| Office operations | ~250 | Court materials, paper, ink, document storage, archive maintenance |
+| Travel and ceremonial allowances | ~450 | Official duties require regular travel within the domain; ceremonial entertainment of visiting Imperial officials, the daimyo, and other domain elites |
+| Local Imperial granary supervision and oversight | ~450 | The IM oversees the Emperor's local granaries (see the granary discussion above).  Separate granary staff, materials, and operations costs |
+| Religious offerings, gifts, ceremonial expenses | ~250 | Donations to local temples, gifts to local notables maintaining IM-court relations, ceremonial expenses at festivals |
+| Imperial Court correspondence and courier dispatch | ~150 | Regular reports back to Otosan Uchi, dispatches to/from the Emerald Champion's office, communication with the traveling IM force when relevant |
+| Other (ad-hoc, miscellaneous) | ~150 | Reserve for unexpected costs (special investigations, dispute mediation expenses, prisoner transport beyond normal volume) |
+| **Total per median IM office (Imperial budget)** | **~2,994** | (~3,000 typical) |
+
+#### Imperial Magistrate Office Scaling by Capital Size
+
+The ~3,000-koku figure is for a typical median (Rank 10 IM, vassal-house) capital.  Larger domain capitals carry substantially larger IM offices because both the judicial workload and the capital-city tariff-audit workload scale with the city's commercial volume.  The Empire's largest domain capitals roughly follow **Zipf's law** (the Nth-largest city is approximately 1/N the size of Otosan Uchi at 1,000,000), per the canonical list in [l7r.md - Large Cities](l7r.md#large-cities).
+
+Note that the **IM rank** (10/11/12) and the **IM office budget** (which scales with city size) are independent variables: a Rank 10 IM at Ryoko Owari (500,000 inhabitants, the 2nd-largest city in the Empire) runs a ~75,000 koku/year office, while a Rank 12 IM at a clan-ruling-family capital may have a smaller office in absolute terms but carries the political prestige of the clan-tier posting.  Per-IM cost still scales sub-linearly with population because the IM-themselves and personal-household components are fixed costs that don't grow with city size - it is primarily the yoriki cohort and the granary-oversight infrastructure that scale.
+
+Scaling categories used for the Empire-wide IM-office aggregation:
+
+| Tier | Population Range | Number of Capitals | Typical IM Rank Distribution | Per-IM Office Cost | Subtotal |
+| --- | --- | --- | --- | --- | --- |
+| Very large clan-capital / major-trade-hub (rank 2-5 cities) | 200K-500K | 4 (Ryoko Owari [Rank 10 IM, Michio vassal house], Toshi Ranbo [Rank 11, Yasuki family], Yasuki Estates [Rank 11, Yasuki family], Kyuden Daidoji [Rank 11, Daidoji family]) | Mostly Rank 11 plus 1 Rank 10 | ~60K avg | ~240K |
+| Large clan-capital (rank 6-11 cities) | 90K-200K | 6 (Shiro Otaku, Kyuden Shinjo, Kyuden Matsu, Kyuden Doji, Kyuden Mirumoto, Kyuden Ikoma) | Mix of Rank 11 (family capitals) and Rank 12 (clan-ruling-family capitals) | ~25K avg | ~150K |
+| Medium-large capitals | 30K-90K | ~20 | Mostly Rank 11, some Rank 10 vassal-house seats, a few Rank 12 clan capitals | ~10K avg | ~200K |
+| Medium capitals | 15K-30K | ~70 | Mostly Rank 10 vassal-house seats, some Rank 11 family seats | ~5K avg | ~350K |
+| Median/small capitals (largest tier of count) | 5K-15K | ~184 | Almost entirely Rank 10 vassal-house seats | ~3K avg | ~552K |
+| **Total IM main offices** | | **~284** | **~7 Rank 12 + ~30 Rank 11 + ~247 Rank 10** | | **~1.49 million** |
+
+Notes:
+- The Empire's largest 10-15 cities follow Zipf's law quite closely (see the canonical list).  Below that the long tail flattens - the median-tier domain capitals are mostly smaller cities clustered in the 5K-15K range, with the canonical median of 12K matching the Reiji-style domain in the worked-example section above.
+- Otosan Uchi at 1,000,000 inhabitants is NOT a domain capital - it is the Imperial direct demesne and its judicial functions are handled through the Otosan Uchi local government budget line and the central judicial machinery (Emerald Champion central operations, Imperial-court judicial infrastructure) rather than through an IM office attached to a domain capital.
+
+#### Provincial-City Imperial Yoriki Sub-Station Budget
+
+Each of the ~2,400 provincial cities in the Empire (400 median-size-equivalents × 6 provinces per ME) houses a small Imperial yoriki sub-station that audits the Yasuki Taka tariff collection at the city's gates.  This uses the ~400 ME × 6 multiplier rather than the ~284 actual-domain multiplier because larger actual domains have proportionally more provincial cities than the median (see [Combined Budgets](#combined-budgets) above for the dual-multiplier discussion).
+
+Staffing breakdown for a typical provincial-city sub-station:
+
+| Role | Count | Status / Rank | Stipend (koku/yr) | Total (koku/yr) |
+| --- | --- | --- | --- | --- |
+| Senior yoriki overseer (reports to the Imperial Magistrate at the domain capital) | 1 | Rank 3 samurai | 9 | 9 |
+| Sub-yoriki / assistants | ~4 | Rank 2 samurai | 4 each | ~16 |
+| **Total** | **~5** | | | **~25** |
+
+Plus food and equipment allowances (~3 koku × ~5 samurai = ~15 koku), bringing personnel costs to ~40 koku/year.
+
+Single sub-station budget:
+
+| Category | Annual koku | Notes |
+| --- | --- | --- |
+| Personnel stipends and allowances | ~40 | Per the staffing breakdown above |
+| Operational supplies | ~50 | Manifest paper, sealing wax, audit-record materials |
+| Quartering / workspace | ~30 | Small office near the provincial city gate, or rented space in the provincial governor's administrative annex |
+| Travel and communication with the domain capital IM | ~30 | Regular reports and dispatches between the sub-station and the senior IM office |
+| Medical, religious offerings, ad-hoc | ~20 | Basic supplies and miscellaneous |
+| **Total per provincial-city sub-station** | **~170** | |
+
+Empire-wide aggregation: **~2,400 × ~170 = ~408,000 koku/year**.
+
+The sub-station's primary function is to *audit* the Yasuki Taka inspectors and licensors (who are part of the provincial Revenue ministry, not the IM cohort), verify that the Emperor's 5% cut is correctly collected on all imported goods sold at the provincial city, and report any discrepancies up to the Imperial Magistrate at the domain capital.  Sub-station yoriki do NOT collect taxes themselves; they monitor the collection.  This architectural separation between domain-level tax collection (provincial ministries) and Imperial oversight (Imperial Magistrate cohort) is the audit-side counterpart to the inspector/licensor split in the original Yasuki Taka system: just as the inspector who assesses goods is institutionally separate from the licensor who collects payment, the licensor who collects is institutionally separate from the Imperial yoriki who audits the records.
+
+#### Imperial Appointees vs. Locally-Sourced Staff (Per-Domain View)
+
+The Imperial infrastructure within any domain is staffed by a mix of three groups, distinguished by funding source and origin:
+
+1. **Imperial appointees** - personnel sent by the Emperor from elsewhere, paid from the Imperial budget, rotating periodically.  Required for any position involving oversight of local activities (all yoriki, regardless of where they're posted) or strategic command (the Imperial Magistrate and karo at the capital, relay-masters at waystations).  Oversight cannot be local because the daimyo's own samurai cannot be trusted to audit the daimyo's own imports, granaries, or judicial proceedings - the structural conflict of interest is too direct.
+
+2. **Locally-detailed clan samurai** - samurai of the host domain assigned by the local daimyo to support Imperial functions in non-oversight roles (couriers, mounted patrol leaders, manifest clerks, IM-office scribes).  Paid from the local clan budget as part of the domain's standing obligation to support Imperial infrastructure.  These postings are prestigious - working alongside Imperial appointees, often with promotion potential and visibility to the Emerald Champion's office - but explicitly NOT oversight positions.  The phrasing inside the domain is that these samurai are detailed *to assist* the Imperial Magistrate (or the waystation relay-master), not *to oversee* on behalf of the Emperor.
+
+3. **Locally-recruited ashigaru and peasants** - hired from the host domain's population, paid from the Imperial budget.  Handle physical, security, and unskilled labor (mounted patrol ashigaru, stable hands, kitchen staff, manor servants, road-maintenance specialists, ashigaru security at the IM's manor).
+
+For a median (vassal-house) Reiji-style domain - 17 waystations within the domain, 6 provincial cities each with a yoriki sub-station, 1 Imperial Magistrate at the domain capital - the breakdown looks like:
+
+| Imperial Infrastructure Location | Imperial Appointees | Locally-Detailed Clan Samurai (clan-paid) | Local Ashigaru + Peasants (Imperial-paid) | Total Staff |
+| --- | --- | --- | --- | --- |
+| ~17 waystations within the domain (per station: 1 relay-master + 1 yoriki + 3 detailed clan samurai + ~11 ashigaru/peasants) | 34 (17 relay-masters + 17 waystation yoriki) | 51 (3 per station: courier-postmaster, mounted patrol leader, manifest clerk) | ~187 (~4 mounted patrol ashigaru + ~7 peasants per station) | ~272 |
+| 6 provincial-city Imperial yoriki sub-stations (~5 yoriki per station, all Imperial appointees) | 30 | 0 | 0 | 30 |
+| 1 Imperial Magistrate main office at the domain capital | 32 (1 IM + 1 karo + ~5 personal household + ~25 yoriki) | 3 (manifest clerks) | ~21 (~8 manor-security ashigaru + ~13 manor servants/clerical peasants) | ~56 |
+| **Total per Reiji-style vassal-house domain** | **~96** | **~54** | **~208** | **~358** |
+
+So within the Reiji domain, approximately **96 Imperial appointees** are working on Imperial business at any given time - the Imperial Magistrate themselves, the IM's traveling retinue and yoriki force, the yoriki manning the 6 provincial-city sub-stations, and the 34 relay-masters and waystation yoriki scattered across the 17 waystations within the domain.
+
+Conversely, the Reiji domain commits approximately **54 of its own samurai** to locally-detailed Imperial-adjacent service: 3 at the IM's office in the capital (as manifest clerks) and 51 across the waystations (as couriers, patrol leaders, and clerks).  At average ~Rank 3-4 (12 koku stipend), the clan budget burden for these detailed samurai is ~650 koku/year - a tiny fraction of Daimyo Hida no Reiji Isao's discretionary budget, but a continuing structural reminder of the domain's obligation to support Imperial infrastructure operating within its borders.  These postings are well-regarded among Reiji's samurai because working alongside Imperial appointees confers prestige, access to the Imperial Magistrate's court, and a documented record of competent service that can be cited in promotion considerations.
+
+Empire-wide totals (rough):
+- ~96 Imperial appointees per actual domain × 284 actual domains = ~27,000 Imperial appointees working in IM main offices, provincial sub-stations, and waystations.  Plus ~5,000-7,000 additional Imperial appointees in central roles (Emerald Champion's office, traveling IM force, OU judicial infrastructure, investigative units, and the much larger Imperial Legion cohort separately budgeted).
+- ~54 locally-detailed clan samurai per domain × 284 = ~15,000 clan samurai Empire-wide in Imperial-adjacent support roles (clan-paid, distributed across all 7 Great Clans in proportion to their domain count).
+- ~208 ashigaru and peasants per domain × 284 = ~59,000 ashigaru and peasants Empire-wide working at Imperial facilities (Imperial-paid, locally recruited).
+
+For larger domains (the Lion, Crab, and Crane have substantially more domains per clan than the smaller clans; clan-capital and family-capital domains have larger IM offices), these per-domain figures scale up proportionally.  The clan-budget burden for locally-detailed samurai also scales: a Crane province with multiple family capitals and many vassal houses may have ~150-250 detailed clan samurai serving Imperial functions across the province's waystations and IM offices.
+
+#### Imperial Magistrate Cohort Total Aggregation
+
+Bringing together the Empire-wide totals for the Imperial Magistrate cohort:
+
+| Component | Empire-wide Annual Cost |
+| --- | --- |
+| 284 Imperial Magistrate main offices at domain capitals (per the scaling table above) | ~1.49 million |
+| ~2,400 provincial-city Imperial yoriki sub-stations (per the breakdown above) | ~0.41 million |
+| Emerald Champion central operations | ~0.5-0.7 million |
+| Traveling Imperial Magistrate force | ~0.3-0.5 million |
+| Imperial-court judicial infrastructure at Otosan Uchi | ~0.3-0.5 million |
+| Standing investigative units | ~0.2-0.4 million |
+| **Total Imperial Magistrate cohort** | **~3.2-4.0 million** |
+
+This matches the ~3-4M Imperial Magistrate line shown under the Imperial Ministry of Justice in the Imperial Spending table above.
 
 **Historical justification**: Tang and Song central administration including the judiciary, central court bureaucracy, and Imperial inspector forces was probably ~15-20% of central revenue at peak.  Ming and Qing were closer to ~5-10% (their central administrations were structurally smaller).  Rokugan at ~10-13% sits between Ming/Qing norms and Tang/Song norms, which is consistent with the Empire's overall positioning as moderately more centralized than Ming/Qing but less centralized than Tang/Song.
 
