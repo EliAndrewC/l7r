@@ -1988,7 +1988,7 @@ Because of these shared roles and responsibilities, any breakdown of temple work
 | ~25% | Educators | The most common task is recruiting and instructing initiates who have not yet been chosen to join the temple, followed by the continuing education of the temple's novices, acolytes, and junior monks. |
 | ~20% | Custodians | This not only includes those who clean the temple but also the skilled work responsible for doing maintenance and repair work. In some cases this will require bringing in and overseeing outside contractors for extremely specialized labor. |
 | ~20% | Cooks | The kitchen staff needs to be large to serve multiple meals per day to hundreds of monks, and this figure also includes those who work in community kitchens which exist as part of the Temple of Bishamon's charitable outreach. |
-| ~15% | Scribes/Scholars | The temple librarians copy religious texts, maintain the temple's library and archives, and engage in scholarly pursuits related to the temple's religious teachings and history. Making new copies of the Tao (and other religious texts) in particular is such an incredibly time consuming and important work which many monks devote their entire lives to it. |
+| ~15% | Scribes/Scholars | The temple librarians copy religious texts, maintain the temple's library and archives, and engage in scholarly pursuits related to the temple's religious teachings and history. Making new copies of the Tao (and other religious texts) in particular is such an incredibly time consuming and important work which many monks devote their entire lives to. |
 | ~10% | Administrators | Responsible for managing the temple's finances, resources, and personnel, the stewards and senior monks in these positions also liaise with the city government (particularly the Damasu Ministry of Rites), handle correspondence with other temples, and manage temple visitors and pilgrims. |
 | ~10% | Philanthropy | Those who oversee and distribute the temple's charitable donations, which include not only direct donations to the poor but also things like soup kitchens and the like. |
 | ~10% | Security | Responsible for maintaining safety and order within the temple grounds and protecting the temple's valuable religious artifacts and sacred spaces. Counterintuitively, the Temple of Bishamon actually has fewer monks in this role than other temples, because martial training is so much more common as part of the Order of Bishamon's religious education. Thus, while some other temples require a larger staff specifically devoted to security, the Temple of Bishamon has a smaller percentage of its members specifically designated in this role. |
@@ -2790,7 +2790,7 @@ During the Karmic Inquisitors campaign, the PCs tasked a large staff to look int
 
 Note that while this list should be definitive for everyone from last year and the year before, many more recent pilgrims might not be on it.  There are many temple relics, such as the Pillar of Ten Thousand Names, which pilgrims may freely visit and even lay hands on, without needing to make special donations or be added to a waiting list.   Visitors may enter the Chamber of Celestial Echoes without being recorded and be just one face in the crowd - only those who wish to ascend the platforms to enter the Vault need request the privilege.
 
-Thus, many visitors to Toshi Ranbo spend months visiting the Temple, making donations, and visiting relics before they even decide to take the next step and put themselves in line for e.g. handling the Prayer Beads of the Guardian Spirits, or being able make a secret vow on the Sword of the Vanquished Warlord.  This list would be easily twice as long if it included everyone from just this year who is known to be interested in such things but has not made any overt attempts to gain access to the more restricted relics.
+Thus, many visitors to Toshi Ranbo spend months visiting the Temple, making donations, and visiting relics before they even decide to take the next step and put themselves in line for e.g. handling the Prayer Beads of the Guardian Spirits, or being able to make a secret vow on the Sword of the Vanquished Warlord.  This list would be easily twice as long if it included everyone from just this year who is known to be interested in such things but has not made any overt attempts to gain access to the more restricted relics.
 
 Similarly, this list would probably double in size again (i.e. four times its current size) if it were to include locals who eventually decided to become relic-seeking pilgrims.  This list includes e.g. Damasu samurai who came to Toshi Ranbo from elsewhere in the domain, but it excludes people who are known to have been living in the city for many years who only recently began to make a serious attempt to get personalized audiences with each temple relic.
 
@@ -3159,7 +3159,7 @@ It is disputed whether Akodo truly said this, and some past Lion daimyo have cla
 
 While the Lion have fought many wars, their most infamous conflicts have been internal, especially between the Akodo and Matsu families.  There came a time when the Matsu outgrew the Akodo, becoming the largest Great Family in all the Empire.  At this time, the discontent between the Akodo and Matsu grew, and many in the Matsu wondered whether they should continue to owe fealty and pay taxes to a smaller and perhaps weaker Family.
 
-Akodo Fujita was the second son of the Lion daimyo, and it was he who managed to strike a balance, making peace while ensuring that the Matsu both received the respect and honor that they were due while also providing the taxes and levies which they owed.  To symbolize this act of peacemaking, Fujita commissioned this sword, which acts as a tribute to the bond between all of the families of the Lion.  Fujita himself married a Matsu woman, and unlike any member of the Akodo damyo's immediate family through the centuries until that point, joined the Matsu family rather than keeping his Akodo family name, in honor of the Matsu's family's strength and honor.
+Akodo Fujita was the second son of the Lion daimyo, and it was he who managed to strike a balance, making peace while ensuring that the Matsu both received the respect and honor that they were due while also providing the taxes and levies which they owed.  To symbolize this act of peacemaking, Fujita commissioned this sword, which acts as a tribute to the bond between all of the families of the Lion.  Fujita himself married a Matsu woman, and unlike any member of the Akodo damyo's immediate family through the centuries until that point, joined the Matsu family rather than keeping his Akodo family name, in honor of the Matsu family's strength and honor.
 
 Kishin no Ketsui features a golden guard engraved with a lion's mane, depicting the courage and authority of the Lion.  When one masters this sword, its blade resonates with the user's heartbeat, growing steadier and more precise as the wielder's resolve strengthens.  It is thus able to guide its owner towards ends which specifically involve Lion family unity, and as such the sword has at this point been possessed over the centuries by members of each Lion family - even the Kitsu!
 
@@ -4054,7 +4054,7 @@ Many books and plays have been written about Hitomi, and it is a common name cho
 
 Matsu Hitomi's book is considered the foundational work for anyone contemplating a warrior's pilgrimage.  This book lists a number of vows which can be sworn by someone contemplating this kind of journey.
 
-The above books contain a number of vows whose efficaciousness have been proven if they are followed.  There are also guidance for creating your own vow, though this is generally considered something for experts to do, since you'll end up doing more harm than good if you fail to understand what a fortune actually wants.  (Consider the example above of a person who wins Benten's favor by choosing heartbreak - if a devotee of Benten didn't understand this and swore a vow to see all soulmates joined together in marriage, then they'd probably do more harm than good.)  Some example vows follow, to illustrate the concepts.
+The above books contain a number of vows whose efficaciousness have been proven if they are followed.  There is also guidance for creating your own vow, though this is generally considered something for experts to do, since you'll end up doing more harm than good if you fail to understand what a fortune actually wants.  (Consider the example above of a person who wins Benten's favor by choosing heartbreak - if a devotee of Benten didn't understand this and swore a vow to see all soulmates joined together in marriage, then they'd probably do more harm than good.)  Some example vows follow, to illustrate the concepts.
 
 A "vow of devotion" is one of the most common vows, this can be sworn to any fortune, though the wording often differs based on the fortune involved.  Because this vow requires you to orient your life and priorities around this fortune until death, it's most commonly sworn by monks and priests who lead monastic lives.
 
@@ -4138,7 +4138,7 @@ Some miscellaneous vows, without extensive explanations:
 
 Some of what's described above is based on historical example, and some is invented for the fictional setting of Rokugan and does not match the historical concepts of vows.  The intent is for vows to combine the conventions described here while still drawing on historical Japanese vows, such as those sworn in a Shinto or Buddhist religious order.
 
-Here is the vow of obedience sworn by all members of the Order of Bishamon swear in Lion lands (different clans often have different versions of these vows):
+Here is the vow of obedience sworn by all members of the Order of Bishamon in Lion lands (different clans often have different versions of these vows):
 
 "I, [Monk's Name], vow unto Bishamon, the embodiment of strength and defense, and to the Order that serves him.  I submit myself wholly to the guidance and authority of the Abbot, and to the teachings and principles of our sacred Order.
 
@@ -4662,7 +4662,7 @@ At least, that's what is generally known and believed.  Jama no Kohaku Jin now c
 
 An even more recent event indirectly linked to Kohaku was the exploits of one of his other apprentices, Jama no Kohaku Hoshiko, who was known to be with Jama Kohaku on the recent Day of Thunder.  For years, a historian assigned to the post of Ratling agent for the 3rd Imperial Legion by Kyuden Hida helped samurai track down the lost swords of people's fallen ancestors who died in the Shadowlands.  One day, after a man named Kakita Hio won such a duel with his recovered ancestor's sword, a mujina appeared and declared that all of these recovered swords had been cursed by Jama no Kohaku Hoshiko, and the mujina named the date and place within the Shadowlands where those who wished could seek revenge and break the curse by slaying the oni through which the curse was bound.  (Hoshiko has evidently learned the technique from Jama Musume of convincing samurai to spread her name for their own purposes, thus empowering her.)
 
-When a small army showed up on the date in question, Oni no Hoshiko was indeed slain, but evidently Hoshiko had also studied the techniques of Jama Kyoso and managed to summon/form a rust oni which was specifically able to ruin swords.  While many were wounded, not one samurai died in the fight against the oni, yet every sword carried by all members of the attacking army were ruined beyond repair.  This gives each member of the army a right of vengeance against Jama no Kohaku Hoshiko, which permits them to spread her name when done so in the furtherance of their search for her, which is how many well-informed people would know her name, especially those who keep abreast of such matters.  Hoshiko is an excellent example of how modern bloodspeakers often combine the teachings of many of Iuchiban's disciples - in her case Kohaku, Musume, and Kyoso - in order to wield their power more effectively.
+When a small army showed up on the date in question, Oni no Hoshiko was indeed slain, but evidently Hoshiko had also studied the techniques of Jama Kyoso and managed to summon/form a rust oni which was specifically able to ruin swords.  While many were wounded, not one samurai died in the fight against the oni, yet every sword carried by all members of the attacking army was ruined beyond repair.  This gives each member of the army a right of vengeance against Jama no Kohaku Hoshiko, which permits them to spread her name when done so in the furtherance of their search for her, which is how many well-informed people would know her name, especially those who keep abreast of such matters.  Hoshiko is an excellent example of how modern bloodspeakers often combine the teachings of many of Iuchiban's disciples - in her case Kohaku, Musume, and Kyoso - in order to wield their power more effectively.
 
 ### Iuchiban's Coup History
 
@@ -4684,7 +4684,7 @@ As a reminder, "tsukai" is the general term for a practitioner of maho.  However
 
 This distinction led to a new urban phenomenon of bloodspeakers in cities, who were able to take advantage of dense populations to acquire more power and commit bolder acts against samurai than they could perform in the countryside.  Kidnappings, murders, and larger rituals (especially on certain busy festival days) are all common.  Whereas tsukai in the days before Iuchiban were a rural phenomenon, since they could not operate in large population centers without being found by shugenja.
 
-To combat this new bloodspeaker threat, a new Office of the Jade Champion was founded, which oversaw a new type of magistrate called "Witch Hunters".  Trained from a young age by being repeatedly exposed to the Shadowlands taint from early childhood, those Witch Hunters who survive this training are both immune to the Shadowlands taint and able to detect it even in bloodspeakers who try to conceal it.  Unfortunately, this detection is not perfect, and the powerful bloodspeakers have only a small chance of being detected.  Fortunately, if an entire coven is suspected, it's likely that at least one member will fail to escape detection, and once a single bloodspeaker is found, they can reveal the identities of the others - though the identities of their coven members is often obvious based on who they spend their time consorting with.
+To combat this new bloodspeaker threat, a new Office of the Jade Champion was founded, which oversaw a new type of magistrate called "Witch Hunters".  Trained from a young age by being repeatedly exposed to the Shadowlands taint from early childhood, those Witch Hunters who survive this training are both immune to the Shadowlands taint and able to detect it even in bloodspeakers who try to conceal it.  Unfortunately, this detection is not perfect, and the powerful bloodspeakers have only a small chance of being detected.  Fortunately, if an entire coven is suspected, it's likely that at least one member will fail to escape detection, and once a single bloodspeaker is found, they can reveal the identities of the others - though the identities of their coven members are often obvious based on who they spend their time consorting with.
 
 Witch Hunters quickly grew in number and importance in order to fight against the rapid spread of bloodspeaker covens.  At one point, the Hantei Emperor ordered a Witch Hunter placed in every domain capital in the Empire, with these magistrates of the Jade Champion being given jurisdiction to investigate any reports of tsukai activity anywhere.  Some of these orders were later rescinded for reasons described below, and the power and influence of Witch Hunters has waxed and waned over the centuries according to the needs of the Empire.
 
@@ -4758,7 +4758,7 @@ Isawa Ejuko was the Elemental Master of Water at the beginning of the 8th centur
 
 An Imperial magistrate ordered that the challenge must be answered, and that the duel would be fought to the death, so that the winner would be free to marry (or stay married) to Ejuko's friend Konishiko.  The magistrate ordered that the matter would be decided by duel "once and for all" on a certain date on which the duel would take place.
 
-Ejuko called upon the water kami and created a torrential rain on that day, preventing any possibility of a duel to occur.  When questioned, she declared that the kami themselves were angered by the efforts to separate this husband and wife, though it seemed clear that she herself had provoked this anger and that the kami were angry as result of her request as the Master of Water that they show their anger.
+Ejuko called upon the water kami and created a torrential rain on that day, preventing any possibility of a duel to occur.  When questioned, she declared that the kami themselves were angered by the efforts to separate this husband and wife, though it seemed clear that she herself had provoked this anger and that the kami were angry as a result of her request as the Master of Water that they show their anger.
 
 Ejuko was ordered back to Phoenix lands so that she could no longer interfere with the duel, which was allowed to go forward.  She was not punished, though she was admonished for having interfered with a valid duel, and it was made clear that even the Master of Water would have suffered the displeasure of the Emperor had she interfered with a duel already in progress.
 
@@ -5028,7 +5028,7 @@ However, the rule of thumb is that so long as you're willing to sit down and eat
 
 ### Moto Tribal Structure
 
-The Moto mainly live in nomadic extended-family groups.  An individual group ranges from several dozen to a several hundred.  Individual families within the group have their own brands, which they use to mark their horses and cattle.  (Sheep are often marked with ink on their wool.)
+The Moto mainly live in nomadic extended-family groups.  An individual group ranges from several dozen to several hundred.  Individual families within the group have their own brands, which they use to mark their horses and cattle.  (Sheep are often marked with ink on their wool.)
 
 A "clan" consists of a collection of these extended family groups, "led" by a khan.  The khan is responsible for settling disputes and meting out justice within the clan, and leads the clan in war.  A clan usually has a total population in the low thousands, though some smaller clans may consist of only one or two extended family groups and number no more than a few hundred in total.
 
@@ -5224,7 +5224,7 @@ Gaheris' retainers:
 
 The question of the rank of Moto Chenghiz came up, and it turns out there's a pretty huge range as to what his rank actually might be.
 
-Here's the least favorable interpretation the rank of Moto Chenghiz:
+Here's the least favorable interpretation of the rank of Moto Chenghiz:
 
 - Treat Moto Gaheris as being only of the 12th rank, since someone not recognized by the Imperial chancellery cannot possibly outrank anyone who is so recognized.
 
@@ -5448,7 +5448,7 @@ Jochi is Gaheris' tribute administrator, so this is where his knowledge is stron
 
   This was said to be "under the new Yassa" and is apparently a change made by Gaheris personally.  Gaheris' pre-battle speech spoke of his generosity and having proven himself in the sharing of pillage from the invasion of the Lion.  The rank and file Moto seem to end up with more of a share of pillaged wealth under Gaheris than under previous khans.
 
-  Further conversations with Moto Chenghiz reveals that prior to Gaheris pillage rights were assigned, e.g. over certain areas, and a group assigned pillage rights to something just kept whatever they happened to find.
+  Further conversations with Moto Chenghiz reveal that prior to Gaheris pillage rights were assigned, e.g. over certain areas, and a group assigned pillage rights to something just kept whatever they happened to find.
 
 - After being inventoried, pillage is distributed equally between the khans, to distribute to their own people "under the terms of the Yassa".
 
@@ -5808,7 +5808,7 @@ Some would argue that Isamu has gained something here rather than lost anything.
 
 Isamu can no longer construct persuasive arguments (e.g. make open or contested rolls) involving investigations into anything covered by the underworld skill.  This does include bloodspeakers.  He can still indicate a course of action he believes to be best, and he can still respond to patient questions if someone wants to ask for details about what factors led him to believe in that course of action.  Someone else could therefore argue on his behalf afterwards based on this knowledge.  However, if he was put on the spot by someone who disagreed with him, he would be incapable of arguing the point in a way that would be persuasive.
 
-Since Isamu is capable of arguing about other things, and since he's capable of explaining himself on things related to underworld, this is further evidence that he hasn't "lost" anything but is instead now operating on a higher level than everyone else.  The reason why he cannot engage in persuasive argumentation might be that he now possesses an understand deeper than language can express, and he therefore cannot use this understanding to persuade anyone who lacks his insight into the true nature of the world.
+Since Isamu is capable of arguing about other things, and since he's capable of explaining himself on things related to underworld, this is further evidence that he hasn't "lost" anything but is instead now operating on a higher level than everyone else.  The reason why he cannot engage in persuasive argumentation might be that he now possesses an understanding deeper than language can express, and he therefore cannot use this understanding to persuade anyone who lacks his insight into the true nature of the world.
 
 **3) Perception**
 
@@ -5878,7 +5878,7 @@ Spirit encounters are divided into "scenes".  Much like scenes from a dream, the
 
 Every character takes a single action each round.  In the first round of a scene, each PC chooses a single physical ring: Water, Fire, Earth, or Air.  The round progresses through those rings in that order.  Spirit encounters are turbulent, and PCs take ongoing damage as the encounter continues, though this damage depends on which Ring is chosen.
 
-- Water: these actions always include the "evaluate options" action, which helps the party discern what actions they have available to them.  It's advisable for someone in the party to take this action early in an encounter.  Other Water actions let the PCs influence the scene directly.  A PCs who chooses the Path of Water automatically takes 5 damage per round, in addition to any additional wounds taken by the action they choose.
+- Water: these actions always include the "evaluate options" action, which helps the party discern what actions they have available to them.  It's advisable for someone in the party to take this action early in an encounter.  Other Water actions let the PCs influence the scene directly.  A PC who chooses the Path of Water automatically takes 5 damage per round, in addition to any additional wounds taken by the action they choose.
 
 - Fire: these actions are the most directly effective, but also the most dangerous.  They always include things which directly accomplish the goals of the scene, but you take the most damage.  People who choose the Path of Fire add an extra die to their pool of rolled dice, and automatically set that die to a 10, which is then rerolled as normal, but also takes 10 damage in addition to any wounds taken from the action they choose.
 
@@ -5920,7 +5920,7 @@ One thing that I tried to highlight to my players about the concept of "connecti
 
 For example, consider someone who had suffered connection damage that weakened the ties that bind them to their clan.  This happened to one of my PCs, Bayushi Saburo - other members of the Scorpion Clan were much more inclined to try to take vengeance in response to words or actions which they perceived as insults or betrayals.  And they were far more likely to interpret his behavior in this way.
 
-For example, during the Battle of Coward's Torment, Saburo and the platoon under his command was heavily wounded.  As the acting lieutenant of his platoon, he was in the process of pulling his unit back into the reserves so that a fresh platoon could take his place on the front lines.
+For example, during the Battle of Coward's Torment, Saburo and the platoon under his command were heavily wounded.  As the acting lieutenant of his platoon, he was in the process of pulling his unit back into the reserves so that a fresh platoon could take his place on the front lines.
 
 However, as he was doing so, he spotted a fellow Scorpion from a different company, Shosuro Yuzo, who had gotten separated from their squad.  She was also wounded and had fallen off her horse, and enemy forces were advancing on her.  Saburo had to decide whether to save her or continue pulling back.  He chose the latter, and Yuzo was killed.
 
@@ -6645,7 +6645,7 @@ Some notable things in this garden:
 
 #### Elements of a Pure Land Garden
 
-A tea garden with one a gate leading up to the pagoda where tea ceremonies are held.  Stepping stones run throughout the garden along its various paths, surrounded by mostly evergreen, non-flowering plants.
+A tea garden with a gate leading up to the pagoda where tea ceremonies are held.  Stepping stones run throughout the garden along its various paths, surrounded by mostly evergreen, non-flowering plants.
 
 #### Circle of Here Garden
 
@@ -6880,7 +6880,7 @@ After Tsuruchi's uncle Ginjiro returned home following the banquet and conducted
 
 Ginjiro force-marched his small army and quickly laid siege to Hachinaga Keep.  Surrounding it on all sides and cutting off any attempts to send for reinforcements to the Kyo capital (though the siege would surely be noticed before long).
 
-Under a banner of truce, Tsuruchi met with his uncle Ginjiro.  He appealed his kinship with the Lion, declaring that he and Ginjiro had a common enemy in the treacherous Scorpion members of the Kyo house who had murdered Ginjiro's daughter and Tsuruchi's siblings and parents.  Tsuruchi further declared that Daimyo Haruka had broken loyalty with the Shin, first by not permitting the marriage of his parents, and now by failing to prosecute the treacherous members of the Shin cadet line who had assassinated them.
+Under a banner of truce, Tsuruchi met with his uncle Ginjiro.  He appealed to his kinship with the Lion, declaring that he and Ginjiro had a common enemy in the treacherous Scorpion members of the Kyo house who had murdered Ginjiro's daughter and Tsuruchi's siblings and parents.  Tsuruchi further declared that Daimyo Haruka had broken loyalty with the Shin, first by not permitting the marriage of his parents, and now by failing to prosecute the treacherous members of the Shin cadet line who had assassinated them.
 
 Tsuruchi swore that he and all loyal members of the Shin lineage were prepared to swear fealty to Zenji Kana as their new daimyo and join the Kana as a new lineage of the Kana House of the Matsu Family, renouncing their Scorpion loyalties and becoming Lion, so long as the Shin were permitted to retain their status as a dynasty lineage with authority over the Hachinaga province.
 
@@ -7019,7 +7019,7 @@ Interactions between people of different ranks are governed by the **Doctrine of
 - Two people are of **accordant standing** if they are no more than 3 ranks apart, and are otherwise of **discordant standing** with respect to one another.
 - Some interactions require peer standing and others merely require accordant standing.
 - These comparisons use only the baseline numbers, e.g. someone of the upper seventh rank is of peer standing with someone of the lower sixth rank, despite there being a "1.5 rank" difference between them.
-- A person's **merits** may raise or lower their status for the purpose of determining their peer standing with respect to others of accordant standing, but does not alter their discordant standing among significantly higher or lower ranked individuals.
+- A person's **merits** may raise or lower their status for the purpose of determining their peer standing with respect to others of accordant standing, but do not alter their discordant standing among significantly higher or lower ranked individuals.
   - Players can think of merits as the advantages and disadvantages which affect their perceived rank, though magistrates may take other things into account.  The legal standard for considering merits (as originally defined by Soshi Saibankan) is **the totality of circumstance**, which can include anything the magistrate considers relevant.
 
 The Accordances of Rank apply the Doctrine of Three Steps to dictate everything from banquet seating:
