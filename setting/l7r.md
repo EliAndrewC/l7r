@@ -93,7 +93,7 @@
   - [Blessings and Curses](#blessings-and-curses)
   - [Lady Sun's Apology](#lady-suns-apology)
 - [The Fortunes](#the-fortunes)
-  - [Act 2, Scene 2](#act-2-scene-2)
+  - [Doji Shizue and the Secrets of Calligraphy (Act 2, Scene 2)](#doji-shizue-and-the-secrets-of-calligraphy-act-2-scene-2)
 - [Between Places](#between-places)
   - [Touched by the Supernatural](#touched-by-the-supernatural)
 - [Temple Relics](#temple-relics)
@@ -152,9 +152,11 @@ Each village district usually has a number of small outlying farming communities
 
 The median domain is around 3,750 square miles of land, which would be a little over 70 miles across if the domain were circular - no domain is actually shaped this way, but "70 miles across" is a good first approximation of the size of the median domain.
 
-Note that this describes the "median" domain rather than the "average" (mean) domain, since a small percentage of domains are extremely large - this is the reason why Rokugan has (currently) 284 domains rather than 400, which would be result of dividing the total population by the population of the median domain.  Most of the time, the larger domains tend to be the ruling domains of a great Family and/or Clan, e.g. the Mirumoto domain is the largest in Dragon lands and is several times the size of the median domain, much larger than the domains of other Mirumoto vassal houses.  Larger families also have Karo Domains which are similarly sized which are similar to the ruling domain in size, but most other domains are relatively close to the median (which is strongly encouraged by the Emperor to maintain the balance of power).
+Note that this describes the "median" domain rather than the "average" (mean) domain, since a small percentage of domains are extremely large - this is the reason why Rokugan has (currently) 284 domains rather than 400, which would be the result of dividing the total population by the population of the median domain.  Most of the time, the larger domains tend to be the ruling domains of a great Family and/or Clan, e.g. the Mirumoto domain is the largest in Dragon lands and is several times the size of the median domain, much larger than the domains of other Mirumoto vassal houses.  Larger families also have Karo Domains which are similarly sized which are similar to the ruling domain in size, but most other domains are relatively close to the median (which is strongly encouraged by the Emperor to maintain the balance of power).
 
 The median domain has around 250,000 total human population, with approximately 5,000 samurai (given that samurai are approximately 2% of the population).
+
+A useful way to think about the median domain is that it holds **roughly 1/400th of both the land area and the population of the Empire** (the Empire is ~1.5 million square miles and ~100 million inhabitants; divide either by 400 and you land at the median domain's ~3,750 square miles and ~250,000 people).  This "median-size-equivalent" (ME) is the unit the budget math aggregates on, even though there are only ~284 *actual* domains - because a minority of domains are several times larger than the median, the actual count is smaller than the 400 median-equivalents the Empire's total size would divide into.  When this matters at the table, the GM will tell players whether they are in a roughly median-sized domain or in an unusually large or small one; the worked examples throughout these notes (and in [`budgets.md`](budgets.md#the-two-empire-wide-multipliers)) assume a close-to-median domain unless stated otherwise.
 
 The capital of the domain is usually close to the center of the domain, with roads connecting to each of its provincial cities.  Each level within the domain usually has around half a dozen units, e.g. approximately six provinces per domain, approximately six counties per province, etc.
 
@@ -303,7 +305,7 @@ Rokugan has a strict caste system, which is part of the Celestial Order.  The Ha
 
 Heimen are "half-people" and include farmers and merchants.
 
-Hinin are "non-people" and laborers, servants, and entertainers.  The lowest part of the hinin caste are the burakumin, or "untouchables" who perform ritually unclean labor such as mortians and tanners and those who handle "night-soil" (human feces).
+Hinin are "non-people" and laborers, servants, and entertainers.  The lowest part of the hinin caste are the burakumin, or "untouchables" who perform ritually unclean labor such as morticians and tanners and those who handle "night-soil" (human feces).
 
 Monks exist outside the Celestial Order, walking as the Shinsei did with one foot in this world and one foot in the spiritual realm.  Although monks are a small part of the population (less than 1%) they are enormously influential due to the reverence held by humans of all castes for the gods and their servants and those who preach the Tao of Shinsei.
 
@@ -402,7 +404,7 @@ Farm taxes are capped at 1/3 of the estimated productivity of the land, and rent
 
 Thus, on average a plot generates 5 koku of tax revenue per family and 2.5 koku of rent to the landowners (only ~10% of farmers are freeholders), so there's roughly 90,400 koku of rent going to the landowners.
 
-About 6% of samurai are at least of the 5th Rank (samurai ranks will be explained later), which is about 300 total samurai, many of whom are from the same immediate family (and clustered into various lineages, which will also be explained later).
+Roughly a quarter of all samurai (about 23%, or ~38% of the working cohort) are at least of the 5th Rank (samurai ranks will be explained later) - more than a thousand per domain.  Rank in Rokugan tracks birth family and post far more than personal accomplishment, so senior ranks are not the rarity they would be in a system where rank followed merit, and they cluster heavily in the domain capital where even menial posts carry prestige.  A full rank-by-rank breakdown for the median domain (and the reasons a capital posting can outrank a county magistracy in desirability despite far less wealth and power) is in [`budgets.md` - Samurai Rank Distribution](budgets.md#samurai-rank-distribution).
 
 The land in "the median domain" is owned as follows:
 - ~10% by freeholding farmers
@@ -489,7 +491,7 @@ However, about 1% of ogres are man-eaters; these ogres typically seek out strong
 
 ### Imperials
 
-Each domain has an appointed Imperial samurai (and spouse/children if applicable) acting as an Emerald Magistrate.  They have a staff of around 10 yoriki (samurai assistants) with them, who are typically from other clans, with perhaps 1-2 being from one of the Imperial families.  The magistrate and yoriki live in the domain's capital but might visit the domain's other cities on the extremely rare occasion when it is necessary to "travel into the provinces".
+Each domain has an appointed Imperial samurai (and spouse/children if applicable) acting as an Imperial Magistrate, whose duties are defined by the Emerald Charter.  The Imperial Magistrate keeps a substantial staff: roughly 25 yoriki (samurai assistants) at the magistrate's office in the domain capital - handling general judicial work, cross-clan disputes, oversight of the Emperor's local granaries, and the Yasuki Taka tariff audit at the capital city's gates - plus a small Imperial yoriki sub-station (typically ~5 yoriki each) in every one of the domain's provincial cities, auditing the tariff collection there.  These yoriki are almost all from other clans, since a daimyo's own people cannot be trusted to audit the daimyo, with only a small number drawn from the Imperial families.  The magistrate themselves resides in the domain's capital and rarely travels into the provinces in person, working through the sub-station yoriki instead.  A full staffing-and-budget breakdown is in [`budgets.md` - Imperial Magistrates and Their Staff](budgets.md#imperial-magistrates-and-their-staff-line-item-detail).
 
 When fighting breaks out between neighboring daimyo, the yoriki from nearby domains may be assembled to assist one side or the other.  Having one or two hundred extra troops can change the outcome of a battle, and high-ranking Emerald magistrates are not shy about throwing their weight around.
 
@@ -588,10 +590,10 @@ The larger Families are further divided into Houses, each ruled by a local daimy
 Empire-wide, this distribution implies approximately:
 
 - ~284 daimyo (one per domain)
-- ~2,500 provincial governors (one per province)
-- ~15,000 county magistrates (one per county)
+- close to **twenty-five hundred provinces** (each with its governor)
+- nearly **fifteen thousand counties** (each with its magistrate)
 
-The provincial-governor and county-magistrate totals are determined by per-capita administrative density (~1 county per 6,800 inhabitants, ~1 province per 41,000 inhabitants) rather than by the domain count itself.  Larger domains have proportionally more provinces and counties, so the empire-wide totals at those tiers are essentially constant regardless of how the domain count is tuned.
+The provincial-governor and county-magistrate totals are determined by per-capita administrative density (~1 county per 6,800 inhabitants, ~1 province per 41,000 inhabitants) rather than by the domain count itself.  Larger domains have proportionally more provinces and counties, so the empire-wide totals at those tiers are essentially constant regardless of how the domain count is tuned.  (The round numbers here emphasize scale; the exact per-median figures used in the budget math - ~2,400 provincial cities and ~14,400 counties, from the 400-median-equivalent × 6 and × 36 aggregations - are in [`budgets.md` - The Two Empire-Wide Multipliers](budgets.md#the-two-empire-wide-multipliers).)
 
 ### Experience Levels
 
@@ -999,9 +1001,9 @@ This isn't drawn from the original L5R books, and is instead built on a combinat
 
 The Six Ministries exist at the Imperial level, the Clan level, the Family level, the House level, and at the provincial level (each House is divided in provinces, and the provincial government is divided into the Six Ministries as well).
 
-In general, the Chancellery sets policy, and the Six Ministries implements policies.  At the Imperial level, the Imperial chancellery is composed of a chancellor from each House in the Empire.  However, not all chancellors are equal.  There are some matters where only the 7 Clan chancellors get a vote.  In other cases, all of the 29 Family chancellors from the 7 Clans get to vote, as well as the 4 Imperial Family chancellors from the Imperial families of the Hantei, Seppun, Otomo, and the Miya.  However, for most matters every chancellor from every House in the Empire gets to vote, which means that around 350 chancellors weigh in, which includes all of the vassal houses and minor clans.
+In general, the Chancellery sets policy, and the Six Ministries implements policies.  At the Imperial level, the Imperial chancellery is composed of a chancellor from each House in the Empire.  However, not all chancellors are equal.  There are some matters where only the 7 Clan chancellors get a vote.  In other cases, all of the 29 Family chancellors from the 7 Clans get to vote, as well as the 4 Imperial Family chancellors from the Imperial families of the Hantei, Seppun, Otomo, and the Miya.  However, for most matters every chancellor from every House in the Empire gets to vote, which means that around 284 chancellors weigh in (one for each domain/House in the Empire), which includes all of the vassal houses and minor clans.
 
-Note that "voting" is used here as if the Chancellery were a legislative body, though in theory its role is supposedly to advise the Emperor, who makes all decisions.  However, there are two reasons why this is not true in practice.  First, with around 100 million human beings living in the Empire, the Emperor does not have time to weigh in on all decisions which come before the Chancellery.  Second, the Emperor's power is not as absolute in practice as their religious tradition claims it is, and therefore if the Chancellery overwhelmingly recommends a course of action to the Emperor, he is likely to approve it rather than impose his will upon his subjects on an unpopular manner that might offend his most powerful nobles.
+Note that "voting" is used here as if the Chancellery were a legislative body, though in theory its role is supposedly to advise the Emperor, who makes all decisions.  However, there are two reasons why this is not true in practice.  First, with around 100 million human beings living in the Empire, the Emperor does not have time to weigh in on all decisions which come before the Chancellery.  Second, the Emperor's power is not as absolute in practice as their religious tradition claims it is, and therefore if the Chancellery overwhelmingly recommends a course of action to the Emperor, he is likely to approve it rather than impose his will upon his subjects in an unpopular manner that might offend his most powerful nobles.
 
 With that being said, the Emperor still does wield considerable authority, and in any particular case he would almost certainly succeed if he defied the will of any particular clan or faction.  The Hantei dynasty does not make a habit of doing this, because it is preferable to cultivate the loyalty of all of his subjects over the centuries, so as to maintain the stability of their rulership, but occasionally it might be called for to take some drastic or unpopular action.
 
@@ -1081,7 +1083,7 @@ Ministers of war general the armies of their domains.  They oversee the manufact
 
 The Imperial Minister of War is also known as the Shogun.  All of the Imperial Ministers tend to have many titles, e.g. the Imperial Minister of Revenue is also known as the Imperial Treasurer, the Imperial Minister of Rites is also the High Priestess of Amaterasu, etc.
 
-The Imperial Minister of War oversees the Imperial legions.  Some of these positions are largely ceremonial, though there are also over 20 legions stationed on the Kaiu Wall, assisting the Crab clan in their defense of the Empire against the Shadowlands.  The legionnaires are largely drawn from the Clans, though the leadership of the legions are usually from Imperial families, especially the Seppun.
+The Imperial Minister of War oversees the Imperial legions.  Some of these positions are largely ceremonial, though there are also over 20 legions stationed on the Kaiu Wall, assisting the Crab clan in their defense of the Empire against the Shadowlands.  Every legionnaire is a samurai - the combat troops of a legion are samurai drawn from the Clans, while the leadership of the legions is usually from the Imperial families, especially the Seppun.  (The large non-combatant support tail that every legion requires - cooks, smiths, porters, animal handlers, and the like - is entirely peasant, and is not counted among the legionnaires themselves.)  A full per-legion organization and budget breakdown is in [`budgets.md` - Imperial Legions](budgets.md#imperial-legions-line-item-detail).
 
 ### The Ministry of Works
 
@@ -1089,7 +1091,7 @@ Here are the duties of the Ministry of Works: Overseeing the construction and ma
 
 Ministries of works are given a budget and then expected to meet their construction and maintenance obligations.  If they come in under budget, they are able to keep the excess - when things go over budget they are expected to make up the difference out of pocket.  This is how budgeting works generally for all government posts in Rokugan, and thus Minister of Works can be a position almost as lucrative as the Ministry of Revenue, though in cases of large budget overruns a Minister of Works might need to tap into their lineage's family fortunes in order to avoid the humiliation of failing to complete a project.
 
-This system means that a lot of behaviors which in a modern society would describe as "embezzlement" (or theft or other forms of misappropriation) are actually just Rokugan working as expected.  If a government official manages to negotiate a good deal on some raw materials, they pocket the extra money and everyone knows that's how things work.  This is not just true for those in charge at the top, but also for people in charge of smaller departments within the Ministry.  For example, someone in the Ministry of Works for Damasu lands is tasked with specifically purchasing and transporting stone from Asako quarries to the city of Toshi Ranbo to improve its fortifications.  That person has been allocated a budget based on estimates of how much such things have cost in the past and are likely to cost, and if he can manage to negotiate for less or find a way to transport the stone more cheaply, then he could make himself quite rich as a result.
+This system means that a lot of behaviors which in a modern society would be described as "embezzlement" (or theft or other forms of misappropriation) are actually just Rokugan working as expected.  If a government official manages to negotiate a good deal on some raw materials, they pocket the extra money and everyone knows that's how things work.  This is not just true for those in charge at the top, but also for people in charge of smaller departments within the Ministry.  For example, someone in the Ministry of Works for Damasu lands is tasked with specifically purchasing and transporting stone from Asako quarries to the city of Toshi Ranbo to improve its fortifications.  That person has been allocated a budget based on estimates of how much such things have cost in the past and are likely to cost, and if he can manage to negotiate for less or find a way to transport the stone more cheaply, then he could make himself quite rich as a result.
 
 This kind of thing is especially true in the Ministry of Works, but it also applies to other Ministries as well, when officials are given a budget.  For example, consider how many things need to be purchased by Ministry of War to maintain its military readiness: food, animal feed, horses, weapons, armor, etc.  This system of budgeting applies almost everywhere and to almost all government posts in Rokugan at every level.
 
@@ -1636,7 +1638,7 @@ The tenth month is the first month of winter.  Many vegetables and greens become
 
 ##### 1st Day (7 Nov): Rittou (first day of winter)
 
-In the solar calendar, Rittou is the first day of winter.  This time of the year may be the last chance to travel.  Merchants, granaries, and remote villages evaluate their stores and acquire and supplies that will be needed to make it through the winter.
+In the solar calendar, Rittou is the first day of winter.  This time of the year may be the last chance to travel.  Merchants, granaries, and remote villages evaluate their stores and acquire any supplies that will be needed to make it through the winter.
 
 ##### 6th Day: Gencho (Day of the Boar)
 
@@ -1798,8 +1800,6 @@ A few days later, I was tapped for a diplomatic mission to Toshi Ranbo, which ha
 
 In Toshi Ranbo my dreams and sleepwalking increased.  For the first time my professional life suffered.  I visited many shrines and temples to pray for a cure.  One night I awoke in front of the temple of Bishamon.  My head was clear in a way it had not been clear since I was a girl.  I immediately threw myself upon the mercy of the monks and asked to join holy orders.  I have not had a single nightmare or sleepwalking incident since.
 
-(end of Tsukimichi's backstory)
-
 Here's the backstory of Haru, another member of The Order:
 
 During the Lion/Crane war, in accordance with the treaty between the Tsume house and the Shiba family, the Phoenix clan declared war on the Lion clan.
@@ -1837,8 +1837,6 @@ The party reconvened, marked Genjo's grave, and set out on the westward path.  A
 Ippei spoke privately afterwards to Haru, revealing that he had seen what Haru had done, though it was clear that he had not heard Haru's prayer.  Instead, Ippei spoke as if Haru must be ravaged with guilt and self-loathing, for he had consumed human flesh practically moments before the group was saved.  Ippei and the other Lion credited their victory to the ancestral spirit of Genjo guiding them out of the forest, and only Haru understood that it was his own prayers and "feast" to Lord Moon which had saved them all from death.
 
 Regardless, Ippei spoke with compassion, explaining that he had no intention of shaming Haru for his failings.  Although he has so far kept this secret, he has also asked Haru for assistance on occasion, and clearly considers Haru to be in his debt.  Whether and under what specific circumstances he would ever divulge what he saw remains unclear.
-
-(end of backstory)
 
 Since the Karmic Inquisitors campaign deals with monks, the discussion turns to how temples are structured as institutions, and from there to Damasu lands more generally.
 
@@ -1880,7 +1878,7 @@ However, monks exist outside the Celestial Order, walking with one foot in the w
 
 With that being said, religious orders must necessarily have a hierarchy in order to run a large organization.  Here is what that typically looks like:
 
-- An Initiate is one who has begun the process of joining a religious order but is not yet a full member.  Many who become initiates decide against joining an order, and this never attain any higher standing within any temple.
+- An Initiate is one who has begun the process of joining a religious order but is not yet a full member.  Many who become initiates decide against joining an order, and thus never attain any higher standing within any temple.
 
 - A Novice is the lowest level of monk, who has joined an order but not yet sworn all of their religious vows.  A novice would typically have sworn only a vow of obedience to the order, but not any of the more significant vows which help them on their path to enlightenment and spiritual development.
 
@@ -1904,7 +1902,7 @@ First, some terminology distinguishing an Order from a Temple.
 
 The Order of Bishamon refers to the network of temples, monasteries, and shrines devoted to Bishamon throughout Damasu lands.  Each domain in Lion lands has its own Order of Bishamon with its own Grand Abbot.
 
-Sometimes people refer to "the Order of Bishamon" and mean the general system of all Bishamon-related religious institutions across the entire Empire, but most of the time anyone talking any particular Order is referring to the institution within that domain.
+Sometimes people refer to "the Order of Bishamon" and mean the general system of all Bishamon-related religious institutions across the entire Empire, but most of the time anyone talking about any particular Order is referring to the institution within that domain.
 
 Although the Order of Bishamon in Damasu lands will sometimes send gifts and offerings to the Order of Bishamon in the Akodo domain, this is more infrequent and informal than the rigid expectation of taxes which exist between the Damasu house government and the ruling Akodo house.
 
@@ -2016,7 +2014,7 @@ First let's consider the daily routine of Kenta, who reports to the Custodian of
 | Hour of the Rooster (6-8pm) | Evening prayers and dinner | Just as the day begins with prayers, so does it end. Kenta looks forward to the temple dinners, which are larger and fuller meals than the simple breakfasts and lunches. Dinner may involve soup, noodles, pickles, bean curd, seitan, and on some nights the kitchen serves fried tempura or a piece of fresh fruit as a dessert. |
 | Hour of the Dog (8-10pm) | Bathing and personal time | While some of the other young monks venture out into the city for entertainment during this time, Kenta usually spends a few minutes relaxing his thoughts and then turning in about 60 minutes before the Hour of the Boar, when most of the temple turns in for the night. Once his literacy improves enough for it to be practical, he plans to spend this time reading the Tao and whatever other texts his sensei recommends to him. |
 
-As another example, consider the daily routine of Mizuki, who serves as the Scribe of the Eternal Tao.  She is a senior monk who oversees the all copying of the Tao performed by all scribes in the temple library.
+As another example, consider the daily routine of Mizuki, who serves as the Scribe of the Eternal Tao.  She is a senior monk who oversees all the copying of the Tao performed by all scribes in the temple library.
 
 | Hour | Task | Description |
 | --- | --- | --- |
@@ -2241,7 +2239,7 @@ Here are the facts of this case:
 
 - Asahi was widely understood to be the superior fighter, being a veteran and accomplished duelist, while Masao was still young and inexperienced.  However, despite being drunk himself, Masao knocked Asahi unconscious, probably due to the older man's heavier intoxication.
 
-- Masao proceeded to brag to the entire bar that Asahi was lucky that this was merely a brawl and not a real duel, declared himself the superior fighter, proclaiming that in any real duel he would have surely killed Asahi.
+- Masao proceeded to brag to the entire bar that Asahi was lucky that this was merely a brawl and not a real duel, and declared himself the superior fighter, proclaiming that in any real duel he would have surely killed Asahi.
 
 - Asahi challenged him to a duel to the death the next day, in repayment for the insult.  Masao apologized profusely, publicly said he knew Asahi was the superior opponent, and begged Asahi to pretend that he had never said those things.  Asahi petitioned the Office of the Emerald Champion to have a magistrate rule that Masao must accept his challenge.
 
@@ -2285,8 +2283,6 @@ Magistrates and judges must always keep this tension in the forefront of our min
 
 Indeed, one error that both men have made here is in asking for me to use my judgment and apply my discretion to do what is right.  But the particulars of this case allow for no other ruling than that Masao must answer Asahi's challenge, and fight him to the death.
 
-(end of ruling)
-
 Here's a story told about Nanube by the Teacher of the Astral Ways during a full moon ceremony:
 
 #### No Answer to Believe
@@ -2323,8 +2319,6 @@ Nanube laughed.  "My Lord Moon, is there any answer I could give that you would 
 
 "I suppose not," replied Lord Moon, dismissing Nanube from his presence.
 
-(end of story)
-
 Here's another story about a member of Lord Moon's court - this one is about Goju:
 
 #### Shattered Names and Stubborn Pride
@@ -2358,8 +2352,6 @@ The Nameshattered creature stood frozen, realizing that Goju spoke true.  With g
 Goju barely seemed to move, but it halted its forward motion the instant it felt Goju's obsidian blade at its throat.
 
 "If I am right," said Goju, "you will be far too valuable a servant to my Lord Moon for him to ever order me to find you and take your life."  And then Goju grinned, a smile so wolfish and predatory that his prey stumbled backwards in fear.  "But I pray that I am wrong."
-
-(end of story)
 
 Here is the final story about the members of Lord Moon's heavenly court - this one is about both Suro and Ryoshun:
 
@@ -2396,8 +2388,6 @@ A slow smile spread across Suro's face.  "It seems nothing escapes your watchful
 "Very well," Suro conceded.  "I shall return and leave the coins behind before I descend to earth."  He turned to go, but then glanced back with a chuckle.  "But we shall see, old friend, what will happen now that I have reason to sneak past you.  Perhaps I will simply find another way to the mortal realm, one that eludes even your sight."
 
 Ryoshun's gaze met his, calm and certain.  "Perhaps eventually, Suro - but I'd wager, not this time."
-
-(end of story)
 
 ### The Damasu Domain
 
@@ -2575,7 +2565,7 @@ Suruga means "swift-flowing river" or "fast horse," and this is indeed where the
 
 ##### Shimotsuke
 
-The name means "lower field" or "lower plain," was the southernmost province in Tsume lands, and was won by Akodo Mikio, the personal yojimbo to Akodo Toturi, who killed the greatest surviving Tsume duelist, Tsume Kigura.  (Their previous best surviving duelist, Tsume Koreshiba, was killed in a duel with Kakita Kenji shortly before the start of the Lion/Crane war, forcing former Governor Yasujiro to step down and Tsume Momoko to be appointed.) The provincial government of Shimotsuke is staffed mainly by the new Sei lineage.
+The name means "lower field" or "lower plain."  The province was the southernmost in Tsume lands, and was won by Akodo Mikio, the personal yojimbo to Akodo Toturi, who killed the greatest surviving Tsume duelist, Tsume Kigura.  (Their previous best surviving duelist, Tsume Koreshiba, was killed in a duel with Kakita Kenji shortly before the start of the Lion/Crane war, forcing former Governor Yasujiro to step down and Tsume Momoko to be appointed.) The provincial government of Shimotsuke is staffed mainly by the new Sei lineage.
 
 #### Damasu Temples
 
@@ -2647,7 +2637,7 @@ Although "soothsaying" literally means "truth-speaking", the word colloquially r
 
 The above disclaimer is at the front of several books published by Isawa Akuma many centuries ago, including this one.  Akuma was a powerful shugenja who was also the greatest scholar of his generation, which is unusual since it's practically unheard of for masters of magic to also be masters of scholarship.  However, it later turned out that Isawa Akuma had used his great name to summon an oni lord (Oni no Akuma), who took the form of a Great Library hidden deep in the Isawa Woodlands.  This library is said to contain "all of the things which have ever been written, and many of the things which never were written, and more than a few things which will come to be written".  It cannot be found the same way twice, and therefore is very difficult to reach.
 
-Akuma published a number of works of scholarships written by people who were never born, or possibly which would have otherwise not come to be written for centuries, attributing these works to himself, which fueled his name even further.  Notably, Akuma is only one of two shugenja in history capable of practicing maho and thus taking on the Shadowlands taint without losing their shugenja abilities - the taint is hateful to the elemental kami and all other shugenja who have practiced maho have lost their powers as a result.  Akuma is one of only three shugenja who has achieved immortality, though presumably he did this through dark rituals rather than gaining the favor of the kami.
+Akuma published a number of works of scholarship written by people who were never born, or possibly which would have otherwise not come to be written for centuries, attributing these works to himself, which fueled his name even further.  Notably, Akuma is only one of two shugenja in history capable of practicing maho and thus taking on the Shadowlands taint without losing their shugenja abilities - the taint is hateful to the elemental kami and all other shugenja who have practiced maho have lost their powers as a result.  Akuma is one of only three shugenja who has achieved immortality, though presumably he did this through dark rituals rather than gaining the favor of the kami.
 
 "On Soothsaying" is still considered the foundational work of scholarship on the subject of augury and prophecy, despite its origins, which speaks to its quality.
 
@@ -2681,7 +2671,7 @@ Seeing a spider in the morning means good luck.  Hearing crickets cease their mu
 
 While augury is general, prophecy is specific.  It is not merely predicting an event, but articulating its manifold possible forms, affected as they are by the innumerable choices made by mortals and gods alike.  A prophecy, in essence, is not the foretelling of an immutable future, but a weaving together of a myriad of potential futures, each one hinging on the choices that give them life.  They can be prevented, they can be realized, and most importantly they can be nudged in one direction or another.  A prophecy can be as much a warning as a prediction, as much a caution as a certainty.  Prophets who communicate such future possibilities practice two distinct disciplines: Wisdom Prophecy and Covenant Prophecy.
 
-Prophetic vision of is not unrestricted - it is bound by the sheer complexity of possible futures.  All things are connected to all other things - this is the Tao.  The Shinsei saw the future of the Empire in his tea leaves, but even more impressive was that he did so without being driven mad, unlike most other prophets of great renown, whose glimpses into the interconnectedness of all things yield equal parts wisdom and madness.
+Prophetic vision is not unrestricted - it is bound by the sheer complexity of possible futures.  All things are connected to all other things - this is the Tao.  The Shinsei saw the future of the Empire in his tea leaves, but even more impressive was that he did so without being driven mad, unlike most other prophets of great renown, whose glimpses into the interconnectedness of all things yield equal parts wisdom and madness.
 
 Wisdom Prophets, therefore, must judiciously focus on areas where they have the most insight.  Given the vastness of potential futures, a prophecy will never be comprehensive.  The particular focus of prophetic vision aligns with the divine beings who granted the prophet their futuresight.
 
@@ -2724,8 +2714,6 @@ Prognostication is the art of reading omens and portents that presage broader ev
 Oracular divination, meanwhile, involves more direct solicitation of the divine.  Through specific rites and rituals, those trained as oracles can ask for and then subsequently interpret messages from the gods.  Their practices range from examining the entrails of a sacrificed chicken to scrying with a crystal to interpret the distortions of light and form revealed within it.
 
 Augury, then, is a means for ordinary men and women to listen to the whispers of the universe, to chart their path through the endless sea of potential futures.  It is the art of attuning one's mind to the cosmos, of deciphering the story told by the world around us, a narrative unfolding in every fluttering leaf, every star's twinkle, and every dream's tableau.
-
-(end of introduction)
 
 ### Examples of Omens and Portents
 
@@ -2980,9 +2968,9 @@ Chokoku arrived in Toshi Ranbo mid-spring, looking to further test and strengthe
 
 Emiko is in the position that Doji no Tsume Moe expects to be in a few years.  She has married, had children, and having discharged her filial responsibility to provide heirs, is now taking some time away to strengthen herself.  She stopped in Toshi Ranbo in what was supposed to be the middle of a long warrior's pilgrimage, visiting many temples to Bishamon, first in Lion lands and then later in Crab lands, but she was so overcome by the presence of mighty Bishamon here in his Temple in Toshi Ranbo that rather than leaving in Autumn of last year as planned, she has stayed on to pray before each temple relic, as she trains and tests herself in the city's many dojos.
 
-Emiko fought on the southern front of the war, under in the infantry forces of General Matsu Agetoki, and personally participated in the failed siege of Kyuden Kakita.  Now that the war is over, she has been struck by the difference between training to fight in a military unit and training to fight as an individual.  She realizes that although various sensei did emphasize the differences, it was not until she found herself in battle that she truly understood the distinction, and she wonders whether it would be possible to transmit the wisdom she has gained now that she has experienced both.
+Emiko fought on the southern front of the war, in the infantry forces of General Matsu Agetoki, and personally participated in the failed siege of Kyuden Kakita.  Now that the war is over, she has been struck by the difference between training to fight in a military unit and training to fight as an individual.  She realizes that although various sensei did emphasize the differences, it was not until she found herself in battle that she truly understood the distinction, and she wonders whether it would be possible to transmit the wisdom she has gained now that she has experienced both.
 
-There are certainly things that no sensei can teach, for they may only be experienced, and Emiko acknowledges that this may one such lesson.  However, if there is wisdom to be found, then it would be here, where Bishamon's guidance is felt more directly than perhaps anywhere else in the Empire.  In addition to her time spent in the temple of Bishamon, Emiko has spent considerable time and made disproportionate donations to the shrine to Wu, the minor Fortune of Sensei, hoping that she will become worthy of better guiding the next generation.
+There are certainly things that no sensei can teach, for they may only be experienced, and Emiko acknowledges that this may be one such lesson.  However, if there is wisdom to be found, then it would be here, where Bishamon's guidance is felt more directly than perhaps anywhere else in the Empire.  In addition to her time spent in the temple of Bishamon, Emiko has spent considerable time and made disproportionate donations to the shrine to Wu, the minor Fortune of Sensei, hoping that she will become worthy of better guiding the next generation.
 
 Emiko has two scars on her face she received during the war, and she uses makeup to make them always appear fresh and red.  Along with her dyed hair, this exhibits the style of the southern Matsu.
 
@@ -3487,7 +3475,7 @@ Yokijiro carries an exceptionally well-crafted katana named Akuzuki, sheathed in
 
 Furious, Yokijiro showed his stance and called out the bushi, daring the bushi to repeat the insult.  After ignoring a few stammered attempts to avoid a confrontation, Yokijiro raised his hand as if to strike.  The bushi jumped back rather than attempt to block or counter, and Yokijiro proceeded to scornfully berate the other man for cowardice.  Eventually the bushi withdrew, and after hurling a few more insults, Yokijiro continued on his business, considering the matter to be settled.
 
-If asked why he didn't challenge the man to a duel, Yokijiro will explain that he does not seek out duels, but merely uses them when appropriate to settled disputes.  Since the other bushi backed down, Yokijiro considered his own honor to have been properly defended.  He will accept any challenge to defend his actions, but none will be offered by any Crane in the city unless the PCs manage to talk someone into stepping up.
+If asked why he didn't challenge the man to a duel, Yokijiro will explain that he does not seek out duels, but merely uses them when appropriate to settle disputes.  Since the other bushi backed down, Yokijiro considered his own honor to have been properly defended.  He will accept any challenge to defend his actions, but none will be offered by any Crane in the city unless the PCs manage to talk someone into stepping up.
 
 However, because of this incident, the district captain petitions the PCs to have Yokijiro ejected from the city.  He explains that although Yokijiro didn't necessarily do anything wrong, his mere presence in the city will surely lead to more incidents of this nature, which will be disruptive to the city.  The captain is further offended by the notion that Yokijiro apparently believes that the Crane clan needs some Lion to come and tell their peasants right from wrong, as if the Tsume are incapable of doing this themselves.
 
@@ -3575,9 +3563,9 @@ Second, they're sending a covert team of peasant mercenaries into Toshi Ranbo to
 
 For this plan to succeed, the mercenaries must be the best of the best, as well as extremely trustworthy.  Akodo Kage, the master tactician who hatched this plan, personally traveled throughout Akodo lands, finding the best mercenaries from each domain.  He made arrangements to hire them for a multi-year assignment from the merchant houses who employ them, as well as to have their families moved to a place where they will be closely watched as hostages to assure that none of the mercenaries would dare betray their assignment.
 
-Of course, these "mercenaries" are almost entirely ninja, who typically make up the more dangerous and reliable fighters employed by large merchant houses.  Kage actually understands just how sketchy such men can be, which is why he approach merchant houses asking for their best mercenaries, rather than approaching county magistrates to ask for their best ashigaru.  These are exactly the kinds of men he wants to hire for this kind of covert work.
+Of course, these "mercenaries" are almost entirely ninja, who typically make up the more dangerous and reliable fighters employed by large merchant houses.  Kage actually understands just how sketchy such men can be, which is why he approaches merchant houses asking for their best mercenaries, rather than approaching county magistrates to ask for their best ashigaru.  These are exactly the kinds of men he wants to hire for this kind of covert work.
 
-The man put in charge of these ninja is Matsu Hiroru.  As the brother of Matsu Tsuko, the Matsu Family daimyo, Hiroru spends most of each year at Kyuden Akodo, along with members of the ruling families of the Kitsu and Ikoma.  This is where he become the protege of Akodo Kage, who personally chose him to lead this mission.
+The man put in charge of these ninja is Matsu Hiroru.  As the brother of Matsu Tsuko, the Matsu Family daimyo, Hiroru spends most of each year at Kyuden Akodo, along with members of the ruling families of the Kitsu and Ikoma.  This is where he became the protege of Akodo Kage, who personally chose him to lead this mission.
 
 Hiroru came to Toshi Ranbo about a year before the start of the campaign (roughly two years after the city fell to the Crane), and his men gradually trickled into the city in the following months.  Hiroru is posing as a merchant named Uhiro, who runs a general store and employs many of his men.  However, most of the ninja blend in by taking other work in the city as laborers.  They take mercenary work whenever possible, though they avoid taking jobs which would take them out of the city, such as caravan guarding.
 
@@ -3587,13 +3575,13 @@ Several female bushi will approach one of the PCs about a minor criminal case wh
 
 At this point, the girl attacked them, soundly beating both men quite severely, and continuing to kick them even after knocking them to the ground.  Apparently the lieutenant for the neighborhood is considering charging her for this behavior, and the female bushi want the PCs to speak with him to prevent this from happening.  They would further like the men who harassed the flower girl to be punished severely and publicly to make examples of them.
 
-The PCs will have no difficulty persuading the lieutenant to rule however they want, since he would love to do a favor for such high ranking Imperial magistrates, and this case is quite minor and unimportant to him.  The main purpose of this event is foreshadowing, since this flower girl is in fact one of Hiroru's ninja, which is why she was able to trounce those men so easily.  If the PCs find this odd (it is certainly an unusual occurrence), it will be explained that she grew up with many brothers who were all mercenaries, and join in their fights all through her childhood.
+The PCs will have no difficulty persuading the lieutenant to rule however they want, since he would love to do a favor for such high ranking Imperial magistrates, and this case is quite minor and unimportant to him.  The main purpose of this event is foreshadowing, since this flower girl is in fact one of Hiroru's ninja, which is why she was able to trounce those men so easily.  If the PCs find this odd (it is certainly an unusual occurrence), it will be explained that she grew up with many brothers who were all mercenaries, and joined in their fights all through her childhood.
 
 ### Take the Money and Run
 
 One morning, an angry mob shows up at the homes/offices of every major merchant in the city who holds and lends money for peasants, which is about two per district.  Evidently there have been rumors that these merchants are planning on skipping town with all the money they have, which would be good for the peasants who owe them money, but bad for all the peasants for whom they are holding money.
 
-things turn violent at most of these "bank runs", riots break out, the merchants' homes are broken into and their money and valuables looted, and the magistrates have to show up in force to restore order.  All in all, over 80 peasants are killed, along with about a handful of bushi.  The city ends up getting mostly shut down for a day as everyone is ordered to return to their homes.
+Things turn violent at most of these "bank runs", riots break out, the merchants' homes are broken into and their money and valuables looted, and the magistrates have to show up in force to restore order.  All in all, over 80 peasants are killed, along with about a handful of bushi.  The city ends up getting mostly shut down for a day as everyone is ordered to return to their homes.
 
 There are two interesting things that the PCs can learn about these riots if they investigate:
 
@@ -3601,7 +3589,7 @@ First, if they make a serious effort to track down the source of the rumors, the
 
 Second, if the PCs ask specifically for a breakdown of the casualties, e.g. who was killed at each location, they may discover that of the ~80 peasants who were killed, ~40 were mercenaries guarding the merchants, ~20 were killed while breaking into the merchants' houses to take their money, and ~20 were killed in the riots afterwards.  This 2:1 of mercenaries to rioters being killed at each location is extremely suspicious, since one would expect highly trained and well-armed fighters to make a better showing of themselves, even while outnumbered.
 
-These riots were caused by Hiroru's ninja at his direction.  Not only did they spread the rumors, he had men at each location who were told to instigate violence if they thought they could get away with it.  In these cases, his men maneuvered to the front of the crowd and when the time came, they used hidden knives to stab the guards trying to keep the crowd at bay, and rushed inside to help take out anyone inside who might be strong enough to repel the rioters.  PCs with good investigation rolls who think to ask about the bodies of the dead before they're cremated may discover that several guards were expertly stabbed to death with extremely sharp killing weapons, which is not something that you'd expect from angry mob.
+These riots were caused by Hiroru's ninja at his direction.  Not only did they spread the rumors, he had men at each location who were told to instigate violence if they thought they could get away with it.  In these cases, his men maneuvered to the front of the crowd and when the time came, they used hidden knives to stab the guards trying to keep the crowd at bay, and rushed inside to help take out anyone inside who might be strong enough to repel the rioters.  PCs with good investigation rolls who think to ask about the bodies of the dead before they're cremated may discover that several guards were expertly stabbed to death with extremely sharp killing weapons, which is not something that you'd expect from an angry mob.
 
 Once again, there's not much that the PCs could actually do to get to the bottom of what happened, but they still might get an inkling of what's going on, and this will at least foreshadow coming events.
 
@@ -3705,7 +3693,7 @@ Afterwards Tatsutaro complained to captain Doji Renshi, who refused to do anythi
 
 2. Toshi Ranbo currently has a large garrison of bushi to protect the city from a possible second attempt on the part of the Lion to take back the city.  Because the city lacked sufficient barracks to house these extra troops, the Tsume quartered a lot of their men in the homes of local merchants.  All of the large estates were seized, but many small manors still exist, and they were packed with troops while new barracks were constructed.
 
-At this point sufficient barracks have been constructed to house all of the city's troops, and so most private homes have now been empties of troops.  However, a few lieutenants have men still staying in private homes.  No compensation is being given, and the merchants' servants are expected to do laundry and run errands for the bushi.  The bushi have been politely asked to vacate, but they keep promising that they'll do it really, really soon and then not making any effort to leave.  The merchants have finally mustered the courage to appeal to the PCs to order the troops to withdraw, and possibly to provide compensation for the extra time that their houses have been used.
+At this point sufficient barracks have been constructed to house all of the city's troops, and so most private homes have now been emptied of troops.  However, a few lieutenants have men still staying in private homes.  No compensation is being given, and the merchants' servants are expected to do laundry and run errands for the bushi.  The bushi have been politely asked to vacate, but they keep promising that they'll do it really, really soon and then not making any effort to leave.  The merchants have finally mustered the courage to appeal to the PCs to order the troops to withdraw, and possibly to provide compensation for the extra time that their houses have been used.
 
 3. A district has recently made a large police action searching for opium, and the homes and warehouses of several suspected merchants were searched.  One tobacco merchant was at home when a rude corporal burst in to search his house.  The merchant was completely innocent, and when the search was complete, he angrily demanded that the corporal leave.  Not liking being ordered around, the corporal wandered into the kitchen where the merchant's wife was cooking dinner, and helped himself to some of the food.  Enraged, the merchant ordered the man out, but the corporal proceeded to fondle the wife's breasts.  The merchant furiously grabbed a kitchen knife and stabbed the corporal to death.
 
@@ -3755,7 +3743,7 @@ Benshi will become a major force in the city, and the PCs will need to deal with
 
 Grand Abbot Benshi will give a series of public demonstrations, each followed by a sermon.  He'll start relatively small and see what he can get away with, gradually escalating to more and more dramatic things.  In most if not all of these cases, he will even have local magistrates present during these demonstrations, who approve of what he's doing.
 
-Benshi has his monks perform a series of controversial plays.  In one, the protagonist is a bandit who is a rather sympathetic character; although he eventually dies as a result of his banditry, he is a pious man who cares about his family.  Many object to such a conflicted message, feeling it gives the wrong message to the peasants, and the PCs must decide whether the censor the play.  However, no high-ranking official will be willing to publicly oppose the play, since the governor has mandated that city official cooperate with Benshi so as to not antagonize him.
+Benshi has his monks perform a series of controversial plays.  In one, the protagonist is a bandit who is a rather sympathetic character; although he eventually dies as a result of his banditry, he is a pious man who cares about his family.  Many object to such a conflicted message, feeling it gives the wrong message to the peasants, and the PCs must decide whether to censor the play.  However, no high-ranking official will be willing to publicly oppose the play, since the governor has mandated that city officials cooperate with Benshi so as to not antagonize him.
 
 Benshi's next play is even more provocative.  It involves several unscrupulous merchants who seem to be thinly veiled versions of real-life unpopular merchants here in the city.  They are eventually murdered by bushi as punishment for their moral failures; some of the bushi are punished and others are not.  Some local merchants are upset, feeling that this may be a call for bushi to take vigilante actions against merchants whom they perceive as sinful.
 
@@ -3819,7 +3807,7 @@ Even more fundamental is the decision of what profession to take.  As peasants, 
 
 Other than what's already listed, this campaign will be atypical in several ways:
 
-- Because you're a peasant with limited education, many skills which are basic skill for samurai will be advanced skills for you.  Specifically, the etiquette, culture, history, law, precepts are considered advanced for your characters.  Heraldry is still a basic skill, but for you it will more give info on folks within your province, the local farmer and merchant and samurai families and the relationships they have with one another.
+- Because you're a peasant with limited education, many skills which are basic skills for samurai will be advanced skills for you.  Specifically, the etiquette, culture, history, law, precepts are considered advanced for your characters.  Heraldry is still a basic skill, but for you it will give more info on folks within your province, the local farmer and merchant and samurai families and the relationships they have with one another.
 
 - One major theme in the campaign will be the surprising amount of freedom and influence that you can have even as a peasant farmer who's a newcomer to the big city.  But another major theme in this campaign will be how powerless you are; any kind of trouble you get into, whether deserved or not, can lead to you getting fined, imprisoned, or executed.  At many points during this campaign I will make a random roll and there will be some chance that you'll be sent off to forced labor for something you've done or failed to do.  Depending on what you did and how well you can explain yourselves and what things you've done in the past, these penalties will be larger or smaller, but if you step too far out of line then there will be a small chance of being randomly and capriciously executed, even if there isn't a lot of proof against you.  This campaign is thus a LOT more potentially lethal than the typical L7R campaign; if too many PCs die then I'll have to scale it back a bit, since I don't want everyone to lose their character and certainly don't want anyone to go through several characters over the course of the campaign, but I do want to impress upon everyone that the danger of being smacked down by the authorities for stepping even a little out of line is very real.
 
@@ -3896,7 +3884,7 @@ These hooks take place after the PCs have gained enough seniority that they begi
 
 2. While staying in a flophouse, some other caravan guards witness some gamblers winning a lot of money from some farmers.  The guards believe the gamblers might have been cheating, though they cannot prove it, and they certainly heard them lying about the odds to the uneducated.  The guards decide to attack the gamblers and return their illegal gains to the farmers, along with a warning not to gamble.  The PCs must decide whether to help, try to stop this from happening, or just not get involved.
 
-3. While crossing a bridge, the bridge collapses, sending several wagons full of tea into the river below.  The caravan master offers a 1 koku reward for every crate of tea saved.  This leads some who are bad at swimming to try to jump into the river, and the PCs might have to decide whether to go after tea crates of their fellow caravan guards.
+3. While crossing a bridge, the bridge collapses, sending several wagons full of tea into the river below.  The caravan master offers a 1 koku reward for every crate of tea saved.  This leads some who are bad at swimming to try to jump into the river, and the PCs might have to decide whether to go after tea crates or their fellow caravan guards.
 
 As their three wagons are separated from the rest of the caravan, the PCs are confronted by a bandit gang, who apparently sabotaged the bridge.  They demand one of the wagons as tribute, and the PCs have to decide whether to fight or capitulate.
 
@@ -4010,7 +3998,7 @@ Additional examples of oaths could be given, but the discussion turns now to vow
 
 The above disclaimer is at the front of several books published by Isawa Akuma many centuries ago, including this one.  Akuma was a powerful shugenja who was also the greatest scholar of his generation, which is unusual since it's practically unheard of for masters of magic to also be masters of scholarship.  However, it later turned out that Isawa Akuma had used his great name to summon an oni lord (Oni no Akuma), who took the form of a Great Library hidden deep in the Isawa Woodlands.  This library is said to contain "all of the things which have ever been written, and many of the things which never were written, and more than a few things which will come to be written".  It cannot be found the same way twice, and therefore is very difficult to reach.
 
-Akuma published a number of works of scholarships written by people who were never born, or possibly which would have otherwise not come to be written for centuries, attributing these works to himself, which fueled his name even further.  Notably, Akuma is only one of two shugenja in history capable of practicing maho and thus taking on the Shadowlands taint without losing their shugenja abilities - the taint is hateful to the elemental kami and all other shugenja who have practiced maho have lost their powers as a result.  Akuma is one of only three shugenja who has achieved immortality, though presumably he did this through dark rituals rather than gaining the favor of the kami.  (Additional information on Isawa Akuma, not directly related to vows, appears later.)
+Akuma published a number of works of scholarship written by people who were never born, or possibly which would have otherwise not come to be written for centuries, attributing these works to himself, which fueled his name even further.  Notably, Akuma is only one of two shugenja in history capable of practicing maho and thus taking on the Shadowlands taint without losing their shugenja abilities - the taint is hateful to the elemental kami and all other shugenja who have practiced maho have lost their powers as a result.  Akuma is one of only three shugenja who has achieved immortality, though presumably he did this through dark rituals rather than gaining the favor of the kami.  (Additional information on Isawa Akuma, not directly related to vows, appears later.)
 
 On Vows to the Fortunes is still considered the foundational work of scholarship on the subject of vows, despite its origins, which speaks to its quality.  Here is some of the most salient information it contains.
 
@@ -4346,7 +4334,7 @@ For example, here's some information about Soshi Saibankan.
 
 Saibankan is the fortune of magistrates and judges.  It's unclear in the historical record whether he naturally ascended into becoming one with the existing fortune of magistrates and judges upon his death or if the Emperor elevated him into becoming a fortune upon his death.  Either way, he was recognized throughout the Empire as a wise and judicious magistrate, and the system of Imperial magistrates which persists to this day is sometimes called "Saibankan's net".
 
-In the second century, at the behest of the Emperor and his Emerald Champion Doji Hatsuo, Soshi Saibankan wrote the Emerald Charter, which defines the duties and privileges of all Emerald Magistrates everywhere.  Saibankan also advised the Emperor to establish the common law system that exists to this day, in which precedents from previous rulings would be used to create expectations about future cases.
+In the second century, at the behest of the Emperor and his Emerald Champion Doji Hatsuo, Soshi Saibankan wrote the Emerald Charter, which defines the duties and privileges of all Imperial Magistrates everywhere.  Saibankan also advised the Emperor to establish the common law system that exists to this day, in which precedents from previous rulings would be used to create expectations about future cases.
 
 Saibankan did not come into public notice until he was 35, when he was appointed an obscure judgeship ("Executor of the Northern Fields") in Otosan Uchi.  When he accepted this job, he found out that there was a long-standing dispute between a Yasuki samurai merchant family and Otomo Yorishi, the Emperor's favorite nephew.  Yorishi had paid a sizable sum of money to purchase a large orchard to the north of Otosan Uchi, but it turned out that the man he paid was a con artist who had no claim to the land.  Yorishi asserted ownership over the land anyway, claiming that its Yasuki owners had been swindled and if this man was selling their land without their knowledge, it was they who needed to track him down and demand recompense rather than him.
 
@@ -4430,7 +4418,7 @@ With this in mind, suppose that one of the PCs wanted to swear a vow to Nanube t
 
 "I, (NAME), disciple of Nanube the Deceiver, do solemnly vow before Lord Moon and his servant Nanube, to exploit each and every one of the failed omens and portents that ought to have forewarned us of the fungal blight kumosaya.  In the name of justice, I shall craft tales and weave deceptions to ensure punishment for those guilty of wrongdoing, those who prosper through injustice and greed.
 
-I shall find those who are guilty of great sins, and I pledge to bring low these offenders, be they man, woman, family, or institution, by painting their sins as the reason why the omens and portents did not manifest.  I will use the power of lies, not to hide, but to uncover the truth of their transgressions, to right the wrongs, to protect the innocent, and to strike down the guilty.  I may never discover the truth or bring those truly responsible for this absence of premonitions, and I will surely provoke the ire of those I condemn, but I remain dedicated to punishing evildoers.
+I shall find those who are guilty of great sins, and I pledge to bring low these offenders, be they man, woman, family, or institution, by painting their sins as the reason why the omens and portents did not manifest.  I will use the power of lies, not to hide, but to uncover the truth of their transgressions, to right the wrongs, to protect the innocent, and to strike down the guilty.  I may never discover the truth or bring those truly responsible for this absence of premonitions to justice, and I will surely provoke the ire of those I condemn, but I remain dedicated to punishing evildoers.
 
 I vow to exploit the darkness to bring about the light, to use deception to reveal the truth, to use lies as a tool for justice when the truth has failed.  I will be the whisper in the darkness, the unseen hand that stirs the pot, and the voice that shapes the course of events.
 
@@ -4618,13 +4606,13 @@ By way of background, some of his most famous disciples follow, specifically the
 
 Before adopting the Jama name, Shiba no Iga Suru was the one who first brought maho texts to Iuchiban, particularly the writings of a mad Kuni shugenja who was driven to insanity from too much exposure to the taint while fighting the forces of the Shadowlands.  It was these writings which began Iuchiban's journey into the practice of maho.  Together, the two of them conducted what prayers and rituals they could manage from reading these texts alone, but it soon became clear they needed more expertise.
 
-Suru is notable for being one of the only remaining disciples of Iuchiban from the samurai caste, and to this day he is said to travel in noble circles, kidnapping and impersonating traveling samurai.  He then uses this position to learn the fears, desires, and regrets of those in power, seeking out those who might be willing to give him their names in exchange for his aid in achieving their political ambitions. with the promise to never reveal his role in assisting them.  Because of this secrecy, it's unknown just how many of the political happenings of the Empire have involved Suru's influence.
+Suru is notable for being one of the only remaining disciples of Iuchiban from the samurai caste, and to this day he is said to travel in noble circles, kidnapping and impersonating traveling samurai.  He then uses this position to learn the fears, desires, and regrets of those in power, seeking out those who might be willing to give him their names in exchange for his aid in achieving their political ambitions, with the promise to never reveal his role in assisting them.  Because of this secrecy, it's unknown just how many of the political happenings of the Empire have involved Suru's influence.
 
 Suru ultimately uses the names of famous nobles to fuel powerful rituals.  Suru was directly responsible for resurrecting Iuchiban, and the Great Famine of the 7th century is thought to be Suru's doing.  He has been killed many times but always resurrected by his allies and disciples.
 
 #### Jama Musume
 
-Another terrifying disciple of Iuchiban is Jama Musume.  Unlike the others who have taken the Jama name, she does not add the "no Iuchiban" qualifier, on the basis that she herself originally instructed Iuchiban herself.
+Another terrifying disciple of Iuchiban is Jama Musume.  Unlike the others who have taken the Jama name, she does not add the "no Iuchiban" qualifier, on the basis that she herself originally instructed Iuchiban.
 
 The writings of the mad Kuni shugenja brought to Iuchiban by Suru mentioned an old peasant tsukai-woman known as "the dark daughter of Fu Leng".  Suru sought her out and convinced her to come to their aid, teaching the ways of maho to the most trusted of Iuchiban's retainers.  While she began as Iuchiban's instructor, he eventually surpassed her and taught her the maho disciplines she had previously lacked.
 
@@ -4664,7 +4652,7 @@ Interestingly, Jama no Kohaku Jin told the PCs during a previous campaign that r
 
 After Iuchiban's defeat, while Jama Suru proceeded to recruit and gain power from noble samurai, Jama Kohaku recruited peasants.  He is known to have personally sought out countryside tsukai and from all over the Empire and taught them how to conceal the Shadowlands taint, allowing them to expand their covens and migrate from the countryside into larger cities without being found.  Because of his focus on evangelism to the peasantry, more bloodspeaker covens broken up by Witch Hunters have been linked to Kohaku than any other bloodspeaker.
 
-When a powerful oni lord known as The Maw gathered an army within the Shadowlands, it was Kohaku who combined explosives with powerful maho to blast a hole in the Kaiu Wall, allow the Maw to invade the Empire.  Even worse, Kohaku diverted a Shadowlands river through the opened hole in the Kaiu wall, flooding and tainting the Hiruma countryside, which ultimately prevented the Crab from reclaiming Hiruma castle after the Maw was defeated at the Battle of Cresting Wave.
+When a powerful oni lord known as The Maw gathered an army within the Shadowlands, it was Kohaku who combined explosives with powerful maho to blast a hole in the Kaiu Wall, allowing the Maw to invade the Empire.  Even worse, Kohaku diverted a Shadowlands river through the opened hole in the Kaiu wall, flooding and tainting the Hiruma countryside, which ultimately prevented the Crab from reclaiming Hiruma castle after the Maw was defeated at the Battle of Cresting Wave.
 
 After Iuchiban was defeated, his soul was bound to the Forgotten Tomb.  Jama Suru performed unknown rituals to break it free, but it was Jama Kohaku who used his khadi-trained flesh-shaping abilities to construct a new body for Iuchiban's spirit to inhabit.  Kohaku continued to serve as one of Iuchiban's trusted lieutenants until Iuchiban's second death at the Battle of Sleeping River.
 
@@ -4684,7 +4672,7 @@ What follows is a writeup of Iuchiban's coup attempts and the fallout they gener
 
 Armed with the ability to infiltrate the capital without their maho being detected, Iuchiban and his disciples journeyed to Otosan Uchi.  They slowly began to raise the bodies of the honored dead in the Imperial crypt underneath Otosan Uchi, with the intention to mount a surprise attack on the Imperial court.  At the same time, they began quietly abducting members of the Imperial Chancellery whose names they used to power their spells and rituals.
 
-This was ultimately discovered before their preparations were complete, and a group of investigators drawn from the each of the 7 Great Clans uncovered Iuchiban's activities and slew him in the resulting battle before he could escape.  The similarities between this event and the original Day of Thunder were not lost on people afterwards, and it was an open question for many years whether this event was another Day of Thunder.  The implications are not trivial - if the original Day of Thunder established the supremacy of humanity for all time, then the stakes of such conflicts are more localized in time and place.  But if humanity needs to periodically renew the Prophecy of the Age of Man (in which the Shinsei revealed that the Fortunes favor mortal man), then humanity's future as a species is not guaranteed.
+This was ultimately discovered before their preparations were complete, and a group of investigators drawn from each of the 7 Great Clans uncovered Iuchiban's activities and slew him in the resulting battle before he could escape.  The similarities between this event and the original Day of Thunder were not lost on people afterwards, and it was an open question for many years whether this event was another Day of Thunder.  The implications are not trivial - if the original Day of Thunder established the supremacy of humanity for all time, then the stakes of such conflicts are more localized in time and place.  But if humanity needs to periodically renew the Prophecy of the Age of Man (in which the Shinsei revealed that the Fortunes favor mortal man), then humanity's future as a species is not guaranteed.
 
 The Imperial Ministry of Rites took no direct position on this question, though many individual Imperial Ministers of Rites over the years dismissed the question as ludicrous.  Recently the prophet Baiten declared that the Day of Thunder was at hand.  Prince Fukuhachi, who oversaw the city of Toshi Ranbo at the time, reported that he narrowly prevented the assassination of the prophet Baiten, who was later found to have been murdered at the order of Shinjo Jotsu, the leader of the moon cult.  Shinjo Jotsu's later defeat was later revealed to be another Day of Thunder, prompting the Imperial Ministry of Rites to declare that Days of Thunder are indeed periodic events.  Interestingly, the Imperial Ministry of Rites has not yet retroactively declared Iuchiban's coup to be the Second Day of Thunder, though the growing consensus seems to be that this is obviously the case.
 
@@ -5212,7 +5200,7 @@ The 15 ranks that samurai occupy were already discussed, with the Emperor being 
 
 It was also established that anyone above the level of Governor from the ruling House of a Family automatically has 1 higher rank than what's listed above.  Anyone from the ruling Family of a Clan automatically has 2 higher rank instead.  For example:
 
-- Ikoma Yuan is the Deputy Minister of War for Ikoma lands, but he is of the 10th rank, since the Ikoma Ministry of War means oversees not only the Ikoma house itself, but all of the domains of the Ikoma vassal families.
+- Ikoma Yuan is the Deputy Minister of War for Ikoma lands, but he is of the 10th rank, since the Ikoma Ministry of War oversees not only the Ikoma house itself, but all of the domains of the Ikoma vassal families.
 
 - Shinjo Tashima, who appointed Kitsuki Tetsu as a Clan magistrate overseeing Moto lands (subordinate to Shinjo Shunichi "the sand pirate"), is the Minister of Justice for the Shinjo house, and is therefore also the Minister of Justice for the entire Unicorn clan, so he is of the 12th rank.
 
@@ -5242,7 +5230,7 @@ Here's the least favorable interpretation the rank of Moto Chenghiz:
 
 - Gaheris has not appointed Ministers to any of the recognized six Ministries.  He has official positions for people like Moto Jochi as "Chief Tribute collector", but since this doesn't correspond to any Ministry, these positions cannot be considered any higher than that of a Deputy Minister.  He especially cannot be considered anything like a Minister of Revenue, since he is merely inventorying gifts given to Gaheris (rather than taking taxes and then passing the required amount up to Gaheris), making him a glorified clerk.  This interpretation places Jochi in the 9th rank.
 
-- Chenghiz himself has no official title, meaning that he has no government post beyond assisting his father in the duties of his father's office.  That makes him automatically 3 ranks lower than his father, putting in squarely within the 6th rank.
+- Chenghiz himself has no official title, meaning that he has no government post beyond assisting his father in the duties of his father's office.  That makes him automatically 3 ranks lower than his father, putting him squarely within the 6th rank.
 
 Here is the most favorable interpretation of the rank of Moto Chenghiz:
 
@@ -5396,7 +5384,7 @@ Relatedly, sometimes a drought occurs shortly after a case comes before the Kura
 
 #### Rules of warfare
 
-Moto Jochi explained that the Yassa shall apply to the Uru during warfare against them.  This means that any non-Moto participating in warfare may be penalized for violating the Moto rules of warfare, even if they do not know those rules in advance.  The Moto view is as simple as "ignorance of the law is no excuse" but rather that the righteous have nothing to fear from the Yassa, and men who act with strength and virtue shall be vindicated in their actions.
+Moto Jochi explained that the Yassa shall apply to the Uru during warfare against them.  This means that any non-Moto participating in warfare may be penalized for violating the Moto rules of warfare, even if they do not know those rules in advance.  The Moto view is not as simple as "ignorance of the law is no excuse" but rather that the righteous have nothing to fear from the Yassa, and men who act with strength and virtue shall be vindicated in their actions.
 
 Jochi explained the rules the PCs would be bound to.
 
@@ -5656,8 +5644,6 @@ What follows is a brief summary of the six doctrines, each corresponding to the 
 
 6. The fortunes are vast in their existence, but humans are deep in our nature.  We are composed of many disparate parts, and a single fortune is the avatar of only a single piece of our composition.  While that existence has a weight far beyond mortal man, in a sense it is we who are the giants, for we are constructions of all the fortunes combined.  The fortunes are clear to any who listen, but we so rarely pay our attention to whatever small part of ourselves speaks their will that we wrongly call the fortunes unfathomable.
 
-(end of introduction)
-
 Note that all of the above continues the running theme of the fortunes as cycle/connection entities which make up the fabric of reality.  Moreover, these doctrines highlight the dynamic nature of the relationship between the fortunes and humans.  Whether it's the struggle to understand their instructions, the selective rewarding of their most dedicated followers, or the transformative impact of undertaking tasks on their behalf, these doctrines suggest that the relationship with the fortunes is not just about receiving clear, direct guidance, but also about personal growth, self-discovery, and connection with the deeper truths of existence.
 
 This makes the concept of swearing a vow to a fortune all the more significant, as it's not just a promise to an individual deity, but a commitment to engage with a fundamental aspect of reality and existence.  This commitment is not just about following a set of rules or achieving specific outcomes, but also about embracing the challenge, uncertainty, and transformation inherent in the process.
@@ -5680,7 +5666,7 @@ I mentioned "Doji Shizue and the Secrets of Calligraphy" before, and in Rokugan 
 
 Here is the scene, which I wrote as an in-universe example of how some people talk about the fortunes:
 
-### Act 2, Scene 2
+### Doji Shizue and the Secrets of Calligraphy (Act 2, Scene 2)
 
 **Okura:**  Suppose that you were touched by the Fortune of obedience, whom I shall not name here.  Consider for a moment what would follow.
 
@@ -5774,8 +5760,6 @@ Eventually you come to a dip in the passage, where most of the tunnel is submerg
 
 You are entering one of the "between places".  People have sometimes gotten lost in the Shinomen Forest only a hundred miles from the Gateway to the Land of the Burning Sands and exited the Isawa Woodlands in Phoenix lands.  The Shifting Islands around the Mantis Isles are another example, where children playing have fallen asleep and woken up off the coast of Otosan Uchi.  Depending on the makeup of this place, you might find an exit out into the Ivory Kingdom.  Though of course, the most dangerous type of "between places" are the ones which are coexistent between different realms.  The Forgotten Tomb simultaneously exists in the mortal world and in Yomi, the realm of the honored dead.  Regardless of what type of place you are in, this may be your last chance to turn back.
 
-(end of introduction)
-
 ### Touched by the Supernatural
 
 A recurring concept in this setting is that people who encounter supernatural entities are "touched" by the experience, in ways which can be seen as both a blessing and a curse.
@@ -5828,7 +5812,7 @@ Since Isamu is capable of arguing about other things, and since he's capable of 
 
 **3) Perception**
 
-Isamu can no longer perceive physical contraband.  In other words, if a physical object is illegal, he won't be able to perceive it's existence.  He could be standing next to a giant pile of opium or watching people gamble over a dice game or look directly at an obsidian sword and have no idea that anything illegal was in his presence.
+Isamu can no longer perceive physical contraband.  In other words, if a physical object is illegal, he won't be able to perceive its existence.  He could be standing next to a giant pile of opium or watching people gamble over a dice game or look directly at an obsidian sword and have no idea that anything illegal was in his presence.
 
 This is probably the best evidence *against* the argument that Isamu is now simply operating on a higher level than everyone else.  It's hard to see this as anything other than a handicap.  However, perhaps more study would reveal some deeper truth about this "disability" which would show it to not be that simple.  Like I said, the above explanations are simply what Isamu will come to understand within the first few years of living with these newfound perks and quirks.
 
@@ -5890,7 +5874,7 @@ The generic term I use for things like dream quests are "spirit encounters", sin
 
 Here's a little more information from my notes on Spirit Encounters, which I hope will help provide context for future work when I ask you to help me generate content.
 
-Spirit encounters are divided into "scenes".  Much like scenes from a dream, the PCs will usually understand where they are and have some sense of what's happening around them, even if they don't remember how they specifically arrived in their current location or how they could get back to it later.  Scenes are divided into rounds - sometimes a scene will last until an objective is completed, an other times a scene will last for a predefined number of rounds.
+Spirit encounters are divided into "scenes".  Much like scenes from a dream, the PCs will usually understand where they are and have some sense of what's happening around them, even if they don't remember how they specifically arrived in their current location or how they could get back to it later.  Scenes are divided into rounds - sometimes a scene will last until an objective is completed, or other times a scene will last for a predefined number of rounds.
 
 Every character takes a single action each round.  In the first round of a scene, each PC chooses a single physical ring: Water, Fire, Earth, or Air.  The round progresses through those rings in that order.  Spirit encounters are turbulent, and PCs take ongoing damage as the encounter continues, though this damage depends on which Ring is chosen.
 
@@ -5914,7 +5898,7 @@ It is said in Medin al Salaat that it takes four people to prepare a salad.  A g
 
 Here you can see that the Caliph is the generous person, offering not only her hospitality but immense material support to the Uru in their conflict with the Moto.  The Dahab are stingy, in the way that merchants often are - while they are the main source of the money which is funding the Uru, they wish to know the use to which the Uru will put it.  The Old Man of the Mountain is the wise man here, advising the Uru and Caliph alike, and ensuring that the Houses of Dahab get the answers that will keep their coffers open.  And as for the Uru... considering how they have found themselves thrust into a losing war which seems to benefit everyone except themselves, it would be difficult to ascribe to them any role but that of the fool.
 
-If the PCs chose to enter this scene, they knew that they would no longer be risking "skill damage" of the sort that Kuni Isamu took, but rather "connection damage" which strikes at the ties that bind them together with other people and groups.  Instead of simply learning about secrets and wisdom, they have the opportunity to directly affect the waking world on a spiritual level but disrupting the relationships between people and groups, at the risk of having their own connections damaged.
+If the PCs chose to enter this scene, they knew that they would no longer be risking "skill damage" of the sort that Kuni Isamu took, but rather "connection damage" which strikes at the ties that bind them together with other people and groups.  Instead of simply learning about secrets and wisdom, they have the opportunity to directly affect the waking world on a spiritual level by disrupting the relationships between people and groups, at the risk of having their own connections damaged.
 
 PCs who enter the scene and choose the Path of Water are able to strike at the Caliph's connections to her subjects, weakening the ties that bind her to one or more of the following:
 - the "outsider" factions such as the Ashalan, the Rashari, and the Khayal
@@ -6315,7 +6299,7 @@ After the Day of Thunder, Koichi found herself looked upon with suspicion.  Lord
 
 Still, Koichi found herself marginalized, and eventually volunteered for the Imperial Legions, as that was the only promotion she found herself able to get.  Unfortunately, her reputation has followed her to the Kaiu Wall, where she has encountered similar hostility and suspicion.  Kuni Yori recently visited to interrogate her, and afterwards assured everyone that her loyalty was not in doubt, though he did not say what tests he performed.  Koichi has been ordered to not share any details of their meeting, and she seems haunted by the experience.
 
-Koichi later befriended a well-educated monk named Kouji who was too young to have deep wisdom but who had also struggled against the supernatural and been touched by it.  Though neither was able to answer the most important questions that the other faced, their friendly and collaboration ended up helping both of them navigate both the spiritual challenges and political adversities they each faced.  Kouji helped her to craft a vow to Lord Moon, which she had previously been nervous about swearing, because of the dangers of people thinking it implied disloyalty to the Empire.
+Koichi later befriended a well-educated monk named Kouji who was too young to have deep wisdom but who had also struggled against the supernatural and been touched by it.  Though neither was able to answer the most important questions that the other faced, their friendship and collaboration ended up helping both of them navigate both the spiritual challenges and political adversities they each faced.  Kouji helped her to craft a vow to Lord Moon, which she had previously been nervous about swearing, because of the dangers of people thinking it implied disloyalty to the Empire.
 
 Koichi had three requirements for such a vow:
 
@@ -6427,7 +6411,7 @@ The reason for the vow of poverty is unclear, and Kiyomi has publicly wondered a
 
 #### Agasha Tamori on Kitsu Okura
 
-Another type of ambiguity which exists in this setting is that even when something is plainly supernatural, people will debate it's origin and significance.  For example, here's an open letter written by the head of the Agasha shugenja academy, Agasha Tamori, about why he is banning Kitsu Okura's book "On the relationship between Man and the Fortunes" from all Agasha libraries and recommending that it be banned from other Dragon libraries as well:
+Another type of ambiguity which exists in this setting is that even when something is plainly supernatural, people will debate its origin and significance.  For example, here's an open letter written by the head of the Agasha shugenja academy, Agasha Tamori, about why he is banning Kitsu Okura's book "On the relationship between Man and the Fortunes" from all Agasha libraries and recommending that it be banned from other Dragon libraries as well:
 
 The line of Kitsu Okura is unique in all of recorded history.  Only one man in ten thousand is gifted by the kami as a shugenja, and even among the children of shugenja, only one in a century will share the talents of their sire.  Yet in every generation for three centuries, the firstborn son of Kitsu Okura unfailingly becomes a shugenja, each choosing the name of Kitsu Okura at his gempukku.
 
@@ -6491,7 +6475,7 @@ The most dramatic example of this is the Burning Words, which was supposedly loc
 
 There are two significant properties of the Burning Words which make them the most infamous and supposedly the most powerful source of prophetic revelation in the world:
 
-1. Predictions made by the Burning Words always come true.  Many prophecies are "unstable", in that they do not take themselves into account.  A prophet might predict what would have occurred had her warning not been given, but the fact that a prophecy has been discharged gives humans the opportunity to change which of many possible futures will actually come to pass.  Predictions made by the Burning words will always come true - one who witnesses such a prediction knows that even if they reveal this truth are believed, this knowledge will not be enough to prevent the prophecy from being fulfilled.
+1. Predictions made by the Burning Words always come true.  Many prophecies are "unstable", in that they do not take themselves into account.  A prophet might predict what would have occurred had her warning not been given, but the fact that a prophecy has been discharged gives humans the opportunity to change which of many possible futures will actually come to pass.  Predictions made by the Burning words will always come true - one who witnesses such a prediction knows that even if they reveal this truth and are believed, this knowledge will not be enough to prevent the prophecy from being fulfilled.
 
 2. The Burning Words reveal only terrible truths.  It is said that most who gaze upon them wish that they would have been spared the burden of such terrible knowledge.  The Burning Words transmit not only the truth itself, but the terrible sense that there are no technicalities or loopholes, and that any outcome which fulfils them will indeed be terrible in some regard.
 
@@ -6875,11 +6859,11 @@ Daimyo Haruka refused to entertain such ideas, which she felt would bring instab
 
 In the winter of 1110 (which is 20 years before the start of this campaign), Governor Chitose hosted a banquet, to which many of his consort Natsu's Lion family were invited.  Natsu's mother had passed, but her brother Matsu no Zenji Ginjiro and his children and many of her other cousins were present.
 
-There was much drinking, and memories of the details of this event are fuzzy and disputed.  However, an altercation broke out between the visiting Matsu and their Bayushi hosts, as often happens at events in which both Lion and Scorpion samurai are present.  This quickly escalated into an enormous brawl.  While no one had their swords present and thus most of the damage was done with fists, but hidden knives were unsheathed during the altercation.
+There was much drinking, and memories of the details of this event are fuzzy and disputed.  However, an altercation broke out between the visiting Matsu and their Bayushi hosts, as often happens at events in which both Lion and Scorpion samurai are present.  This quickly escalated into an enormous brawl.  While no one had their swords present and thus most of the damage was done with fists, hidden knives were unsheathed during the altercation.
 
 No official determinations of guilt were made by Imperial magistrates, but the following facts are reliably attested to during the inquest undertaken by Seppun Shizuko (the Imperial magistrate for the Kyo domain):
 - Kyo Fumikazu (a cadet line Shin lineage courtier, and the first cousin of Governor Chitose) argued with Zenji Fudo (Natsu's second cousin), and eventually Fudo threw a drunken punch.
-- A room-wide fight **immediately** broke out, quickly enough that Seppun Shizuko postulated preplanning on the part of some participants, though with punches being thrown by both sides and memories fuzzy it was impossible to determine who was responsible for the escalation.  The poor recollection of many participants led Magistrate Shizuko to postulate that some of sake may have been drugged, though this was never proven.
+- A room-wide fight **immediately** broke out, quickly enough that Seppun Shizuko postulated preplanning on the part of some participants, though with punches being thrown by both sides and memories fuzzy it was impossible to determine who was responsible for the escalation.  The poor recollection of many participants led Magistrate Shizuko to postulate that some of the sake may have been drugged, though this was never proven.
 - Governor Chitose and his consort Natsu were seated next to Natsu's brother Ginjiro and his two children.  Ginjiro and his children were knocked unconscious early in the fight and were unable to testify as to who they fought.
 - Chitose and Natsu and their two younger children were all stabbed to death in the fight, and fine daggers of Matsu manufacture with Lion engravings on the handguard were found buried in the bodies of Chitose and Natsu.
 - Tsuruchi and his two siblings were seated on the other side of their parents, and when the fight broke out, he and his friend (and drinking buddy) Kyo Kyoma leapt into action, first trying to break up the fight and then quickly being drawn into it.
@@ -6918,7 +6902,7 @@ bq).  A single arrow, a single life.
 
 Tsuruchi's Imperial yoriki (assistants) began as a small group of former Shin samurai, but soon were joined by others who were brave enough and free enough from entangling family concerns (mostly but not entirely other ronin).
 
-Many of the bounties Tsuruchi collected were put out by the Crane clan, who often had the money necessary to register Imperial bounty against those wanted for infractions recognized by Imperial magistrates.  The Crane were grateful that many of these bounties, which would have previously gone uncollected, were now resulting in their targets being brought to justice.  Tsuruchi thus earned himself many well-connected Crane friends, even as he made himself powerful enemies throughout the rest of the Empire.  A few Crane have expressed a sense of betrayal when Tsuruchi has accepted bounties on Crane samurai, but the wise and powerful Crane courtiers who control the Imperial courts have publicly commended Tsuruchi's unflinching sense of justice.
+Many of the bounties Tsuruchi collected were put out by the Crane clan, who often had the money necessary to register an Imperial bounty against those wanted for infractions recognized by Imperial magistrates.  The Crane were grateful that many of these bounties, which would have previously gone uncollected, were now resulting in their targets being brought to justice.  Tsuruchi thus earned himself many well-connected Crane friends, even as he made himself powerful enemies throughout the rest of the Empire.  A few Crane have expressed a sense of betrayal when Tsuruchi has accepted bounties on Crane samurai, but the wise and powerful Crane courtiers who control the Imperial courts have publicly commended Tsuruchi's unflinching sense of justice.
 
 ### Tsuruchi's revenge
 
@@ -6942,7 +6926,7 @@ It has been 15 years since the Wasp clan was created.  At the urging of the Cran
 
 Because the Wasp domain is very small (it was a single small but strategically important province), the bounties they collect, which would be a pittance for even an average-sized domain, represent a significant fraction of the Wasp Clan income.  This has sometimes led to questionable methods from less scrupulous Wasp bounty hunters in their methods and tactics, and the Clan's long-term reputation is still very much in the process of being determined.
 
-Among other things, it remains to be seen whether Tsuruchi's particular idiosyncrasies will become the standard for the Wasp in generations to come.  The most notable example is swords: Tsuruchi has left the broken blade of his ancestral sword Isshin embedded in the floor of the great hall of Hachinaga Keep, where it is seen by visitors.  The broken hilt and base of the blade are displayed on the alter of an ancestral shrine in the corner of the same room.  Tsuruchi himself has not chosen another sword, using only borrowed swords when necessary, declaring that there shall be no Ancestral Sword of the Wasp, and refusing to so much as carry a sword while at home in Hachinaga Keep.
+Among other things, it remains to be seen whether Tsuruchi's particular idiosyncrasies will become the standard for the Wasp in generations to come.  The most notable example is swords: Tsuruchi has left the broken blade of his ancestral sword Isshin embedded in the floor of the great hall of Hachinaga Keep, where it is seen by visitors.  The broken hilt and base of the blade are displayed on the altar of an ancestral shrine in the corner of the same room.  Tsuruchi himself has not chosen another sword, using only borrowed swords when necessary, declaring that there shall be no Ancestral Sword of the Wasp, and refusing to so much as carry a sword while at home in Hachinaga Keep.
 
 Because their daimyo exhibits this behavior, many of Tsuruchi's retainers have chosen to show deference to their lord by mimicking his behavior, and as such it is rare to see a Wasp clan samurai carrying a sword in Hachinaga Keep.  And because many guests worry about offending the sensibilities of their hosts, visitors to Hachinaga Keep also frequently shed their daisho before entering.  Such things lead many to wonder how a clan willing to so flagrantly violate ancient traditions can long survive, and whether the next generation of Wasp will revert to the more accepted ways of bushido.
 
@@ -6953,7 +6937,7 @@ As a reminder, the Karmic Inquisitors campaign took place in the winter of 1129 
 | Year | Events |
 | --- | --- |
 | ??? | At the dawn of the Empire, the warrior Shin swears fealty to Lord Bayushi, who grants Bayushi Shin authority over Hachinaga pass, an important mountain passage through the Spine of the World Mountains. <br> A nearby warlord named Myo also swears fealty to Lord Bayushi and is permitted to retain his existing territory as a loyal retainer of the newly founded Scorpion clan. |
-| 417 | During the reign of Hantei the Tenth and the establishment of the Six Ministries, the descendants of Bayushi Shin formally swear fealty to the descendants of Bayushi Myo, and the Shin lineage is formally recognized as the provincial lineage with rulership the Hachinaga province and granted a seat on the Myo chancellery. |
+| 417 | During the reign of Hantei the Tenth and the establishment of the Six Ministries, the descendants of Bayushi Shin formally swear fealty to the descendants of Bayushi Myo, and the Shin lineage is formally recognized as the provincial lineage with rulership of the Hachinaga province and granted a seat on the Myo chancellery. |
 | 1088 | Bayushi no Kyo Chitose becomes the latest Shin lineage governor of Hachinaga. |
 | 1089 | Governor Chitose enters into a torrid love affair with Matsu no Zenji Natsu, a bushi-ko from the neighboring Lion domain. |
 | 1090 | Chitose breaks off his engagement with Bayushi no Kyo Ryoko, but is denied permission from his daimyo to marry his true love. |
@@ -7229,7 +7213,7 @@ Daidoji Maku's father died during an ecstatic fast in the Sovereign Temple of Ho
 
 #### **Togashi Miyuki** [50 koku]
 
-The daughter of Mirumoto Sukune, who ruled the Mirumoto Family in regency during Mirumoto Hitomi's warrior pilgrimage until her return to Dragon lands the year before last.  During the Dragon Winter Court of that year, Mirumoto Miyuki quarreled with and killed a Shosuro actress and was sentenced to death by Kitsuki Yasu, the daimyo of the Kitsuki who acted as the Imperial magistrate for the case.  The sentence was commuted the lifelong exile from Dragon lands at the request of the victim's family, out of respect for the sensibilities of their Dragon hosts, as the death penalty is avoided in Dragon lands.  After leaving Dragon lands, Miyuki joined the monastic order of the Togashi Ise Zume, taking the Togashi name and receiving tattoos from a famous Togashi tattoo artist: the arrowroot, the honeybee, and the hawk.  She is believed to have departed Phoenix lands after the Setsubun New Year's festival on a pilgrimage to the Kitsune forest for reasons unknown.
+The daughter of Mirumoto Sukune, who ruled the Mirumoto Family in regency during Mirumoto Hitomi's warrior pilgrimage until her return to Dragon lands the year before last.  During the Dragon Winter Court of that year, Mirumoto Miyuki quarreled with and killed a Shosuro actress and was sentenced to death by Kitsuki Yasu, the daimyo of the Kitsuki who acted as the Imperial magistrate for the case.  The sentence was commuted to lifelong exile from Dragon lands at the request of the victim's family, out of respect for the sensibilities of their Dragon hosts, as the death penalty is avoided in Dragon lands.  After leaving Dragon lands, Miyuki joined the monastic order of the Togashi Ise Zume, taking the Togashi name and receiving tattoos from a famous Togashi tattoo artist: the arrowroot, the honeybee, and the hawk.  She is believed to have departed Phoenix lands after the Setsubun New Year's festival on a pilgrimage to the Kitsune forest for reasons unknown.
 
 #### **Kitsune Moriko** [50 koku]
 
@@ -7463,7 +7447,7 @@ Tsuruchi Hitomi is the wife of Tsuruchi Kyoma (the PCs' boss), and head of the K
 
 ### The fable
 
-There are many variations on this famous story, most of which share the same basic structure.  The most famous version told version was immortalized by the famous Crane clan storyteller Doji Shizue.  Here is a high-level summary of that account:
+There are many variations on this famous story, most of which share the same basic structure.  The most famous version was immortalized by the famous Crane clan storyteller Doji Shizue.  Here is a high-level summary of that account:
 
 bq).  A man saves a crane that had been shot down by hunters.  That night, a woman appears at the man's door and tells him that she is his wife.  The man tells her that he is not wealthy enough to support them, but she tells him that she has a bag of rice that will fill their stomachs.  Every day, the rice never goes down in the sack, and it always stays full.  The next day she tells the man that she is going in a room to make something and that he is not to come in until she is finished.  Seven days have passed by and she finally comes out with a beautiful piece of clothing, but she is very skinny.  She tells the man to go to the markets the next morning and to sell this for a very large price.  He comes back home and tells her that he sold it for a very good price.  After that, they are now wealthy.  The wife then goes back into the room, telling him once again not to come in until she is finished.  The man's curiosity takes over and he peeks in, realizing that the woman is the crane whom he saved.  When the crane sees that the man has found out her true identity, she says that she cannot stay there anymore and flies away to never come back.
 
@@ -7499,7 +7483,7 @@ The "Akechi Scrolls" (also known as the Ink-Flight scrolls) had their calligraph
 
 Twenty years ago, the daimyo of the Masao vassal house of the Matsu family was visiting Kyuden Kakita with his eldest son (and heir to the Masao domain), Matsu Agetoki.  Kakita Daini was the best archer in the Kakita house, and Agetoki - an accomplished archer himself - challenged him to an archery contest.  The two of them spent the afternoon each challenging the other to impromptu feats of precision, naming certain shots for the other to make, and arguing with increasing tempers about the fairness of the challenges, or the trickery (as in trick-shooting) of each other's accomplishments.
 
-Finally, Agetoki angrily declared that Daini hit a human-sized target with reliability from even such a distance as across the Kakita castle courtyard.  Daini furiously declared that he certainly could, and the two of them made a wager.  Agetoki would stand "just as I am now" on one side of the courtyard, and Daini would take aim and shoot at him.  Then Daini would stand "just as you are now" and let Agetoki do the same.  Then they would repeat.  Whichever man backed out or was first rendered unable to stand would forfeit.
+Finally, Agetoki angrily declared that Daini could not hit a human-sized target with reliability from even such a distance as across the Kakita castle courtyard.  Daini furiously declared that he certainly could, and the two of them made a wager.  Agetoki would stand "just as I am now" on one side of the courtyard, and Daini would take aim and shoot at him.  Then Daini would stand "just as you are now" and let Agetoki do the same.  Then they would repeat.  Whichever man backed out or was first rendered unable to stand would forfeit.
 
 Agetoki wagered the Owari province of the Masao domain (once he succeeded his father and became the Masao daimyo) against the ink-flight scrolls.  Daini sneeringly agreed, laughing at the fact that if Agetoki survived his arrow, he would likely be disowned and removed from the line of succession so that his family could keep the province, and that he might as well prepare to commit seppuku.
 
