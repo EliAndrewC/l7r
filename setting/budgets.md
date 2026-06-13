@@ -47,6 +47,7 @@ Per-tier budget breakdowns for the median domain hierarchy, plus supporting tabl
     - [Discretionary residual](#discretionary-residual-2)
     - [Isao's discretionary breakdown](#isaos-discretionary-breakdown)
     - [Summary](#summary-2)
+- [Samurai Concentration by City Size and the Capital](#samurai-concentration-by-city-size-and-the-capital)
 - [The Imperial Budget](#the-imperial-budget)
   - [Imperial Revenue](#imperial-revenue-36-42-million-koku-per-year-at-canonical-baseline)
   - [Imperial Spending](#imperial-spending-26-40-million-koku-per-year)
@@ -182,7 +183,7 @@ Column definitions:
 
 Two different empire-wide multipliers are in use across the documentation, both correct in their respective contexts: **~284 actual domains** for whole-domain quantities (capital revenue, daimyo cuts, land-output aggregations - matching this table's per-median scale), and **~400 median-size-equivalents × 6 = ~2,400 provincial cities** for sub-unit counts (provinces, counties, tariff collection points - because larger actual domains have proportionally more sub-units than the median).  The [Imperial Budget](#the-imperial-budget) figures below use whichever multiplier is appropriate for each line.
 
-The empire-wide figures align with the [Imperial Budget](#the-imperial-budget) breakdown below, where the Imperial Court's annual revenue derives primarily from ~20.5M of cross-domain kick-ups (land + tariff combined) plus direct Imperial-demesne revenue (Otosan Uchi tax base + tariffs, Imperial-family land taxes, salt monopoly cuts, and miscellaneous mining royalties).
+The empire-wide figures align with the [Imperial Budget](#the-imperial-budget) breakdown below, where the Imperial Court's annual revenue derives primarily from ~20.5M of cross-domain kick-ups (land + tariff combined) plus direct Imperial-domain revenue (Otosan Uchi tax base + tariffs, Imperial-family land taxes, salt monopoly cuts, and miscellaneous mining royalties).
 
 ## Province
 
@@ -575,6 +576,79 @@ Daimyo Hida no Reiji Isao is responsible for the financial operation of the Reij
 
 This is a substantial lifestyle by any standard, but it is the lifestyle of a serious working official, not a leisure-class noble.  The daimyo's discretionary income is dominated by obligations of the office rather than freely-spent wealth.  Even the ~2,000 koku of truly-free spending represents only ~4% of total discretionary income - the same proportion as Asuka's ~4-5% and Hikai's ~5%, scaled by tier.  By all accounts Isao is a steady, virtuous-but-not-exceptional daimyo: he meets his clan and Imperial obligations on time, manages the Reiji ministries competently, contributes the expected manpower and material to the Wall, and has cultivated his lineage chancellor and his fellow Crab daimyo well enough to maintain political stability for his household.  A more politically ambitious daimyo would invest more heavily in clan-level relationships and Imperial Court visibility (paid from personal savings, often dramatically reducing the lean-year reserve); a less scrupulous one could divert substantially more to personal use through reduced almsgiving, reduced Kaiu Wall contributions, or transactional appointments - any of which would quickly invite scrutiny from Hida Kisada or the Imperial magistrate stationed in the Reiji capital.
 
+## Samurai Concentration by City Size and the Capital
+
+The per-tier caste tables in [`l7r.md` - Demographics](l7r.md#demographics) establish that samurai are ~2% of the Empire's total population (~5,000 per median domain).  But this 2% is not distributed evenly across settlement types, and the way it varies with city size is structurally important both for understanding the Empire and for computing the samurai population of Otosan Uchi.
+
+### The Sub-Linear Scaling Principle
+
+**Capital cities of large premodern empires consistently have a *lower* elite percentage than their provincial counterparts, because the absolute size of the administrative cohort scales sub-linearly with city size while the commercial and service population scales roughly linearly.**  A city twice as large does not need twice as many magistrates, ministers, and clerks - administrative need grows more slowly than population - but it does attract roughly twice as many merchants, laborers, servants, and artisans to serve that larger population.  The elite fraction therefore shrinks as the city grows, even as the absolute number of elites rises.
+
+This pattern is robust across analogous premodern capitals:
+
+| Capital | Era | Population | Elite class | Elite % |
+| --- | --- | --- | --- | --- |
+| Tang Chang'an | ~700 CE | ~1 million | scholar-officials + palace establishment | ~2-3% |
+| Northern Song Kaifeng | ~1100 | ~1 million | scholar-officials | ~1-3% |
+| Heian-kyo (Kyoto) at peak | ~1000 | ~400,000 | kuge (court nobility) | ~1-3% |
+| Ming Beijing | ~1500 | ~700,000 | officials + eunuchs + Imperial Guard | ~5-10% |
+| Joseon Hanyang (Seoul) | ~1700 | ~200,000 | yangban (scholar-gentry) | ~5-15% |
+| Qing Beijing | ~1750 | ~700,000 | bannermen (hereditary military caste) | ~14-20% |
+| Tokugawa Edo | ~1850 | ~1 million | samurai | ~60% |
+
+Tokugawa Edo is the dramatic outlier, and the reason is instructive: its ~60% samurai concentration is a direct consequence of *sankin kotai* (the alternate-attendance system), which forced every daimyo to maintain a massive permanent Edo establishment - family, retainers, and guards numbering in the thousands - with the daimyo themselves resident half of every year.  Without that extreme forced-residence mechanism, Edo would have looked far more like the ~5-10% range of the other military-aristocratic capitals.  The "natural" range for a million-population East Asian capital with a strong elite-military presence but no *sankin-kotai*-style concentration mechanism is roughly **3-7%**.
+
+Rokugan deliberately does **not** replicate the *sankin kotai* extreme.  Daimyo maintain embassies at Otosan Uchi (hostage family members, business agents, political representatives) and the Imperial families concentrate there, but daimyo are not required to reside in the capital, and there is no system forcing thousands of retainers per domain into permanent capital residence.  Otosan Uchi therefore lands in the lower part of the natural band.
+
+### The By-Size Schedule
+
+Combining the sub-linear principle with the canonical caste tables produces the following schedule of samurai concentration by settlement size (using **total resident samurai** as the basis, consistent with the ~2% Empire-wide and the ~10% median-capital figures in the caste tables - working samurai are ~60% of these totals per [What the Samurai Counts Mean](#what-the-samurai-counts-mean)):
+
+| Settlement | Population | Samurai % | Resident samurai (approx) |
+| --- | --- | --- | --- |
+| Hamlet / village | 75-500 | 0% | 0 |
+| County town | ~1,200 | ~2.5% | ~30 |
+| Provincial city | ~3,000 | ~10% | ~300 |
+| Median domain capital | ~12,000 | ~10% | ~1,200 |
+| Mid-size capital | ~30,000-90,000 | ~8-9% | ~2,500-7,500 |
+| Large capital (e.g. Kyuden Daidoji ~200K) | ~200,000 | ~6% | ~12,000 |
+| Very large city (e.g. Toshi Ranbo ~300K) | ~300,000 | ~5% | ~15,000 |
+| Largest non-capital city (Ryoko Owari ~500K) | ~500,000 | ~4.5% | ~22,500 |
+| **Otosan Uchi** | **~1,000,000** | **~4%** | **~40,000** |
+
+The schedule captures the key shape: samurai concentration is near-zero in the countryside, rises to a **peak of ~10%** at the level of provincial cities and median domain capitals (where administrative density is highest relative to commercial population), then **declines steadily** for the mega-cities as commercial and service populations outgrow the administrative cohort.  A median domain capital is essentially at the peak of the curve; the great clan and family capitals, despite having far more samurai in absolute terms, have a markedly lower samurai *percentage*.
+
+### Otosan Uchi: ~40,000 Samurai
+
+At 4% of its ~1 million inhabitants, Otosan Uchi has approximately **40,000 resident samurai** - exactly twice the ~2% samurai share of the Empire's population as a whole.  That the largest, most central city in the Empire concentrates samurai at only twice the baseline rate (rather than 10x or 30x) is a deliberate and revealing feature of the setting: even at the very heart of samurai power, samurai remain a small minority of the people doing the actual work of the city.  (See the thematic discussion in [`l7r.md` - Demographics](l7r.md#demographics) on what this 2%-everywhere reality means for what samurai can and cannot know about their own Empire.)
+
+The ~40,000 break down approximately as follows:
+
+| OU-resident samurai cohort | Approx count | Notes |
+| --- | --- | --- |
+| Imperial families resident at the capital | ~11,000 | The Hantei are based almost entirely at Otosan Uchi; large fractions of the Seppun, Otomo, and Miya reside here as well (the remainder administer the Imperial families' own domains).  Includes family members, household, and the Imperial-family officials staffing the inner palace and senior central posts |
+| Clan-supplied samurai staffing Imperial central functions at OU | ~13,000 | The OU-resident workforce of the 6 Imperial Ministries' central operations, the Otosan Uchi local government (administering ~1 million inhabitants), the Imperial Household guard, the Emerald Champion's central staff, and the central judicial machinery.  Imperial-paid; drawn from across the clans (part of the ~86,000 clan-supplied Imperial appointee pool discussed below) |
+| Daimyo embassies (one establishment per actual domain) | ~13,000 | Each of the ~284 actual domains maintains a permanent OU establishment: hostage family members (a structural feature of Imperial politics), business agents pursuing capital commerce, and political representatives cultivating alliances and Imperial favor.  Scales with domain tier: clan capitals ~120 each (× 7 = ~840), family capitals ~90 each (× 30 = ~2,700), vassal houses ~38 each (× 247 = ~9,400).  Clan-paid, not Imperial posts |
+| Private samurai | ~3,000 | Independent agents, students attending capital institutions, ronin seeking patronage, and bushi retained by the great merchant houses |
+| **Total** | **~40,000** | ~4% of the ~1 million population |
+
+The district-governor system documented in the Otosan Uchi material (in which certain favored houses administer entire city districts) layers additional structure onto the clan-supplied and embassy cohorts, but does not change the aggregate ~40,000 figure and does not affect the median domain, so it is set aside here.
+
+### What This Means for the Median Domain
+
+Running the OU population back through the median domain: if ~40,000 of the Empire's ~2,000,000 total samurai (2% of ~100 million inhabitants) reside at Otosan Uchi, then **~2% of all samurai live in the capital at any given time**.  Applied to a median domain's ~5,000 total samurai, that predicts **~100 of a median domain's samurai are at Otosan Uchi** at any moment.
+
+For the Reiji-style vassal-house domain, this ~100 breaks down as:
+
+| Reiji samurai at Otosan Uchi | Approx count | Status |
+| --- | --- | --- |
+| Reiji's permanent OU embassy (hostage family + business/political agents) | ~38 | Clan-paid representation, NOT an Imperial post |
+| Reiji samurai in clan-supplied Imperial central posts at OU | ~50 | Imperial-paid; a subset of Reiji's ~300 outgoing Imperial appointees (see [Total Imperial Appointee Samurai](#total-imperial-appointee-samurai-empire-wide-synthesis)) |
+| Private Reiji samurai at OU (agents, students, etc.) | ~12 | Private; not on any payroll |
+| **Total Reiji samurai at OU** | **~100** | ~2% of Reiji's ~5,000 total samurai |
+
+This is a small but politically consequential cohort.  Note that vassal houses like Reiji sit slightly *below* the per-clan average for OU presence: the great clan and family capitals maintain far larger embassies (~120 and ~90 vs Reiji's ~38) and supply more senior central officials, so they pull the per-clan OU fraction up above 2% while vassal houses sit a touch below it.  Domains geographically closer to the capital also tend to maintain larger and more active OU establishments than distant frontier domains, though the hostage-politics floor applies to every domain regardless of distance.
+
 ## The Imperial Budget
 
 The per-domain budget breakdowns documented in the sections above describe the financial operation of a single domain.  Above and parallel to those is the Imperial budget, by which the Emperor funds the structures and services that bind the Empire together as a whole.
@@ -586,7 +660,7 @@ The per-domain budget breakdowns documented in the sections above describe the f
 | Land-output kick-ups (5% of land output from all ~284 domains) | ~11 million |
 | Otosan Uchi tax base (property + business taxes from the capital's ~1 million urban inhabitants - merchants, artisans, administrators, soldiers, servants) | ~7-9 million |
 | Otosan Uchi import tariffs (Yasuki Taka system at the city gates, at the 5% baseline rate) | ~1-2 million |
-| Imperial-family direct demesne taxes (Hantei lands, Otomo lands, Seppun lands, Miya lands - separate from Otosan Uchi proper) | ~4-6 million |
+| Imperial-family direct domain taxes (Hantei lands, Otomo lands, Seppun lands, Miya lands - separate from Otosan Uchi proper) | ~4-6 million |
 | Imperial tariff cut on cross-domain commerce (5% of declared sales value at every provincial city and capital city gate Empire-wide, per the Yasuki Taka rate structure; ~2,400 provincial cities + ~284 capital cities = ~2,684 collection points) | ~9-10 million |
 | Imperial salt monopoly cuts | ~2-3 million |
 | Minor Imperial revenue (specific mining royalties, miscellaneous) | ~0.5-1 million |
@@ -803,7 +877,7 @@ A breakdown of typical non-combatant roles at a Wall-stationed legion of ~2,000 
 | Medical orderlies, shugenja attendants, healers' support | ~150 | ~750 | Recovery facility staff |
 | **Total** | **~2,000** | **~10,000** | |
 
-#### Single Legion Budget — Wall-Stationed Reference
+#### Single Legion Budget - Wall-Stationed Reference
 
 A typical Wall-stationed Imperial Legion's annual budget breaks down as follows:
 
@@ -944,7 +1018,7 @@ Scaling categories used for the Empire-wide IM-office aggregation:
 
 Notes:
 - The Empire's largest 10-15 cities follow Zipf's law quite closely (see the canonical list).  Below that the long tail flattens - the median-tier domain capitals are mostly smaller cities clustered in the 5K-15K range, with the canonical median of 12K matching the Reiji-style domain in the worked-example section above.
-- Otosan Uchi at 1,000,000 inhabitants is NOT a domain capital - it is the Imperial direct demesne and its judicial functions are handled through the Otosan Uchi local government budget line and the central judicial machinery (Emerald Champion central operations, Imperial-court judicial infrastructure) rather than through an IM office attached to a domain capital.
+- Otosan Uchi at 1,000,000 inhabitants is NOT a domain capital - it is the Imperial direct domain and its judicial functions are handled through the Otosan Uchi local government budget line and the central judicial machinery (Emerald Champion central operations, Imperial-court judicial infrastructure) rather than through an IM office attached to a domain capital.
 
 #### Provincial-City Imperial Yoriki Sub-Station Budget
 
@@ -1078,11 +1152,11 @@ The ~300 outgoing figure uses the **284 actual-domain divisor** because samurai-
 
 | Post Type | Approximate Count | Notes |
 | --- | --- | --- |
-| Imperial Legions | ~106 | Mix of all ranks; the Crab clan provides especially large numbers to Wall-end legions because of geographic logic and the Hida-vassal political alignment, with Reiji contributing its share of those Wall-stationed Crab samurai |
+| Imperial Legions | ~125 | Mix of all ranks; the Crab clan provides especially large numbers to Wall-end legions because of geographic logic and the Hida-vassal political alignment, with Reiji contributing more than the all-clan average of those Wall-stationed Crab samurai (its inland-vassal status keeps the figure from spiking even higher) |
 | As Imperial yoriki and household samurai at other domains' IM main offices | ~41 | Cross-clan tours in IM-office yoriki roles, working under senior IMs (mostly Seppun or cross-clan senior placements); at the senior tier, Reiji's contribution is reduced (~25% of senior IM/karo posts are clan-supplied, with the bulk going to Seppun and the other Imperial families) |
 | As Imperial yoriki at provincial sub-stations in other domains | ~40 | Cross-clan rotating tours; a Reiji samurai might serve 3-5 years auditing tariff collection in (say) a Lion province before returning home |
-| As Imperial appointees at waystations in other domains (mix of relay-masters and waystation yoriki) | ~34 | Spread across waystation roles in non-Reiji parts of the Empire |
-| In central Imperial roles in Otosan Uchi (OU local government, central court samurai, central judicial machinery, central ministries other than the IM cohort field roles) | ~75 | Includes a handful of unusually distinguished Reiji samurai in mid-tier central court positions; central roles favor the Imperial families more heavily, but the absolute clan share is still substantial |
+| As Imperial appointees at waystations in other domains (mix of relay-masters and waystation yoriki) | ~39 | Spread across waystation roles in non-Reiji parts of the Empire |
+| In central Imperial roles in Otosan Uchi (OU local government, central court samurai, central judicial machinery, central ministries other than the IM cohort field roles) | ~50 | Imperial-paid central posts physically located at the capital.  These ~50 are the Imperial-post component of Reiji's ~100-strong total OU presence (the rest being the ~38 clan-paid embassy and ~12 private samurai - see [Samurai Concentration by City Size and the Capital](#samurai-concentration-by-city-size-and-the-capital)).  Central roles favor the Imperial families more heavily, but the absolute clan share is still substantial |
 | In other Imperial ministries' field operations (Works engineering, Rites ceremonial, Revenue inspection) | ~4 | Specialized assignments matched to a samurai's particular skills (e.g. an unusually skilled stonemason posted to Wall-construction supervision under Min of Works) |
 | **Total Reiji samurai in Imperial service elsewhere** | **~300** | |
 

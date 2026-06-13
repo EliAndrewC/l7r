@@ -652,6 +652,14 @@ A few observations about these numbers:
 - Samurai are a small ruling elite (~2%); their formal political authority makes their influence far greater than their numbers.  The canonical ~5,000 samurai per median domain (per [The Median Domain](#the-median-domain) above) includes those living on country estates or otherwise outside the named-settlement caste breakdowns; the per-tier caste tables below account for ~4,080 of the ~5,000.
 - Burakumin are concentrated in towns and cities (~5% of urban population) and entirely absent from the median village or hamlet, which is why their empire-wide share (~1.5%) is far smaller than their per-city presence would suggest.
 
+This ~2% figure is worth dwelling on, because it shapes the kind of world Rokugan is.  This is a samurai game, and the players usually (though not always) play samurai - but the goal is a world with real depth, one in which the samurai are a small part of how the Empire actually operates and are often largely unaware of what most of its inhabitants are doing most of the time.  Even though Rokugan is an extremely well-run society by historical standards, with enormous state capacity compared to most premodern realms, the samurai cannot have much more insight than they do into the other ~98% of the Empire's inhabitants.  Three reasons compound:
+
+1. It is physically impossible for ~2% of a society to be everywhere.  There are simply not enough samurai to personally observe the daily work of the farmers, laborers, merchants, servants, and burakumin who vastly outnumber them.
+
+2. Gaining that understanding would come at the expense of more important obligations.  A samurai's duties - administration, war, court, the cultivation of their lineage and their lord's favor - already consume them, and time spent learning how the night-soil collectors organize their routes is time stolen from the work their station demands.
+
+3. To the extent it would be possible, samurai are largely uninterested in - and in many cases actively repulsed by - the "unclean" work (whether literally unclean, religiously polluting, or both) on which their lives depend.  Far from seeking out such knowledge, samurai society stigmatizes the kind of fraternization that might produce it.  Kitsuki Kaagi, the famous investigator, is considered strange for the wisdom he is said to exchange with his burakumin corpse-handler; only his tremendous reputation allows this to be dismissed as mere eccentricity rather than condemned as the conduct of a pariah.
+
 The per-tier composition that produces these aggregate figures is detailed below, starting with the smallest settlement (the median hamlet) and working up to the largest (the median capital city):
 
 The median hamlet:
@@ -801,6 +809,26 @@ The discussion so far has focused on "the median domain", but the above cities a
 - The Yasuki Estates are at the edge of Earthquake Bay, and are therefore the main harbor city for southern Rokugan.  The Yasuki left the Crane clan to join the Crab many centuries ago, and the Crane courtiers who practically run the Imperial Chancellery have, in retribution, refused to ever allow the Yasuki Estates to be designated as a Kyuden despite being far larger than a dozen other cities which have been granted that status.
 
 - Shinden Togashi is a site of such religious significance that at any given time it has more pilgrims than natives!  The enigmatic Togashi also decline to perform a census, and so true numbers for this mountain temple city are hard to come by.
+
+#### Samurai Population of the Largest Cities
+
+The samurai percentage of a city's population is not constant - it varies with city size in a way that is the opposite of what one might first assume.  As established in the Demographics section above, a median provincial city or domain capital is around 10% samurai.  But the great cities of the Empire have a *lower* samurai percentage, even as their absolute number of samurai is far higher.
+
+The reason is a pattern that holds across the large capital cities of history: the administrative cohort of a city grows more slowly than its overall size, while the commercial and service population (merchants, laborers, servants, artisans) grows roughly in step with it.  A city twice as large does not need twice as many magistrates and ministers, but it does attract roughly twice as many people to feed, serve, and trade with that larger population.  So the samurai percentage shrinks as the city grows, even though the samurai are more numerous in absolute terms.  This is why the great real-world imperial capitals - Tang Chang'an, Song Kaifeng, Heian-kyo - held only a few percent nobility despite being the seats of enormous bureaucracies.  (The one historical exception, Tokugawa Edo at around 60% samurai, was the product of a forced-residence system that compelled every lord to keep thousands of retainers permanently in the capital - a mechanism Rokugan does not have.)
+
+So the samurai concentration peaks at the level of the ordinary administrative city (~10%) and declines from there:
+
+| City | Approx. Pop | Samurai % | Resident samurai |
+| --- | --- | --- | --- |
+| Median provincial city / domain capital | 3,000-12,000 | ~10% | ~300-1,200 |
+| Kyuden Daidoji | 200,000 | ~6% | ~12,000 |
+| Toshi Ranbo | 300,000 | ~5% | ~15,000 |
+| Ryoko Owari | 500,000 | ~4.5% | ~22,500 |
+| Otosan Uchi | 1,000,000 | ~4% | ~40,000 |
+
+Otosan Uchi, the capital of the Empire, has approximately **40,000 resident samurai** - around 4% of its million inhabitants.  This includes the bulk of the Hantei family and large fractions of the Seppun, Otomo, and Miya; the clan-drawn samurai who staff the central Imperial ministries and the capital's own city government; the permanent embassies that every domain maintains at the capital (hostage family members, business agents, and political representatives - a structural feature of Imperial politics rather than a literal imprisonment); and a scattering of private agents, students, and ronin.
+
+It is worth noting that 4% is exactly twice the ~2% samurai share of the Empire as a whole.  Even at the very center of samurai power, samurai are only twice as concentrated as they are across Rokugan generally - a fact that says a great deal about the society described in the Demographics section above.  Running this the other way: roughly 2% of every domain's samurai are at Otosan Uchi at any given moment, which for a median domain means around 100 of its ~5,000 samurai.  (A detailed cohort-by-cohort breakdown of the capital's samurai population, the by-size schedule, and the historical comparison appears in the [budgets writeup](budgets.md#samurai-concentration-by-city-size-and-the-capital).)
 
 ### Village Headsmen
 
