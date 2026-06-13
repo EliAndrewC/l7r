@@ -10,7 +10,7 @@ In addition to our [house rules](https://github.com/EliAndrewC/l7r/tree/master/r
 
 ## Copyright and Attribution
 
-Shout out to Asmodee and Fantasy Flight Games for putting out a policy that encourages fan projects like this one!  As explained above, the ownership of L5R is long and complicated, but it's heartwarming that the current owners are such good caretakers of the property.  In turn, I'll try to be a responsible fan and not make them regret it, respecting their terms and conditions by including the usual disclaimers below:
+Shout out to Asmodee and Fantasy Flight Games for putting out a policy that encourages fan projects like this one!  As explained above, the ownership of L5R is long and complicated, but it's heartwarming that the current owners are such good caretakers of the property.  In turn, I'll try to be a responsible fan and respect their terms and conditions by including the usual disclaimers below:
 
 This unofficial work is not affiliated with, endorsed, sponsored, or approved by Fantasy Flight Games, Asmodee, or any of their affiliates.
 
