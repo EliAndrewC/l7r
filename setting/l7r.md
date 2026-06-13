@@ -152,7 +152,7 @@ Each village district usually has a number of small outlying farming communities
 
 The median domain is around 3,750 square miles of land, which would be a little over 70 miles across if the domain were circular - no domain is actually shaped this way, but "70 miles across" is a good first approximation of the size of the median domain.
 
-Note that this describes the "median" domain rather than the "average" (mean) domain, since a small percentage of domains are extremely large - this is the reason why Rokugan has (currently) 284 domains rather than 400, which would be the result of dividing the total population by the population of the median domain.  Most of the time, the larger domains tend to be the ruling domains of a great Family and/or Clan, e.g. the Mirumoto domain is the largest in Dragon lands and is several times the size of the median domain, much larger than the domains of other Mirumoto vassal houses.  Larger families also have Karo Domains which are similarly sized which are similar to the ruling domain in size, but most other domains are relatively close to the median (which is strongly encouraged by the Emperor to maintain the balance of power).
+Note that this describes the "median" domain rather than the "average" (mean) domain, since a small percentage of domains are extremely large - this is the reason why Rokugan has (currently) 284 domains rather than 400, which would be the result of dividing the total population by the population of the median domain.  Most of the time, the larger domains tend to be the ruling domains of a great Family and/or Clan, e.g. the Mirumoto domain is the largest in Dragon lands and is several times the size of the median domain, much larger than the domains of other Mirumoto vassal houses.  Larger families also have Karo Domains which are similar to the ruling domain in size, but most other domains are relatively close to the median (which is strongly encouraged by the Emperor to maintain the balance of power).
 
 The median domain has around 250,000 total human population, with approximately 5,000 samurai (given that samurai are approximately 2% of the population).
 
@@ -443,7 +443,7 @@ Monk ranks are discussed elsewhere, but shrines and temples are staffed by many 
 
 ### Entertainers
 
-Each county generally has an acting troupe, which usually consists of around 5-10 entertainers.  Acting troupes usually contains not only actors but also other entertainers such as jugglers and musicians, who might perform acts before/during/after plays and skits or be incorporated into larger performances.
+Each county generally has an acting troupe, which usually consists of around 5-10 entertainers.  Acting troupes usually contain not only actors but also other entertainers such as jugglers and musicians, who might perform acts before/during/after plays and skits or be incorporated into larger performances.
 
 Approximately once per week, the town in the center of the county will have a "market day", when farmers throughout the county come to town to buy, sell, and barter.  Acting troupes usually make most of their money on market day, though they will frequently travel through the village districts of the county during the rest of the week to perform.
 
@@ -795,7 +795,7 @@ Here's a chart of the largest cities in Rokugan and who controls them (note that
 | Kyuden Bayushi | 60,000 | Scorpion |
 | Kyuden Tsume | 60,000 | Crane (Doji Family, Tsume House) |
 | Shinden Isawa | 55,000 | Phoenix |
-| Kaimetsu Toshi | 50,000 | Mantis (the Islands of Spice of Silk) |
+| Kaimetsu Toshi | 50,000 | Mantis (the Islands of Spice and Silk) |
 | Shinden Togashi | 50,000 | Dragon |
 
 Note that the designation of "Kyuden" means that the city has been found suitable for the Emperor to hold Imperial Winter Court there, while a "Shiro" lacks that designation.  "Shinden" means "temple", and some Family capitals have that designation when they are known primarily as temples - this is common for "shugenja families", i.e. families where shugenja are more common.
@@ -1001,7 +1001,7 @@ This isn't drawn from the original L5R books, and is instead built on a combinat
 
 The Six Ministries exist at the Imperial level, the Clan level, the Family level, the House level, and at the provincial level (each House is divided in provinces, and the provincial government is divided into the Six Ministries as well).
 
-In general, the Chancellery sets policy, and the Six Ministries implements policies.  At the Imperial level, the Imperial chancellery is composed of a chancellor from each House in the Empire.  However, not all chancellors are equal.  There are some matters where only the 7 Clan chancellors get a vote.  In other cases, all of the 29 Family chancellors from the 7 Clans get to vote, as well as the 4 Imperial Family chancellors from the Imperial families of the Hantei, Seppun, Otomo, and the Miya.  However, for most matters every chancellor from every House in the Empire gets to vote, which means that around 284 chancellors weigh in (one for each domain/House in the Empire), which includes all of the vassal houses and minor clans.
+In general, the Chancellery sets policy, and the Six Ministries implement policies.  At the Imperial level, the Imperial chancellery is composed of a chancellor from each House in the Empire.  However, not all chancellors are equal.  There are some matters where only the 7 Clan chancellors get a vote.  In other cases, all of the 29 Family chancellors from the 7 Clans get to vote, as well as the 4 Imperial Family chancellors from the Imperial families of the Hantei, Seppun, Otomo, and the Miya.  However, for most matters every chancellor from every House in the Empire gets to vote, which means that around 284 chancellors weigh in (one for each domain/House in the Empire), which includes all of the vassal houses and minor clans.
 
 Note that "voting" is used here as if the Chancellery were a legislative body, though in theory its role is supposedly to advise the Emperor, who makes all decisions.  However, there are two reasons why this is not true in practice.  First, with around 100 million human beings living in the Empire, the Emperor does not have time to weigh in on all decisions which come before the Chancellery.  Second, the Emperor's power is not as absolute in practice as their religious tradition claims it is, and therefore if the Chancellery overwhelmingly recommends a course of action to the Emperor, he is likely to approve it rather than impose his will upon his subjects in an unpopular manner that might offend his most powerful nobles.
 
@@ -2191,7 +2191,7 @@ Ryoshun - the Guardian or the Protector:
 
 In the early days of creation, the celestial realms and the mortal realm were closely intertwined, with celestial beings freely passing between them.  The heavenly beings of the day and night roamed the world, upsetting the balance of the elements as they strove to each shape the world according to their particular whims and wills.  Lord Moon saw the danger this posed to the balance of creation, and tasked his servant Ryoshun with guarding the threshold to the celestial heavens.
 
-Ryoshun is easily identifiable as the star at the highest point in the night sky directly above the world.  He watches the skies to prevent other celestials from entering the mortal realm without permission from Lord Moon or Lady Sun, but he is more lenient about allowing denizens from the mortal realm to pass freely across the threshold if they are able to find the way.  Such passage is easier when the distances between the realms is at its lowest, as it is now understood to be in the years around a Day of Thunder.
+Ryoshun is easily identifiable as the star at the highest point in the night sky directly above the world.  He watches the skies to prevent other celestials from entering the mortal realm without permission from Lord Moon or Lady Sun, but he is more lenient about allowing denizens from the mortal realm to pass freely across the threshold if they are able to find the way.  Such passage is easier when the distances between the realms are at their lowest, as it is now understood to be in the years around a Day of Thunder.
 
 Indeed, it was Ryoshun himself who first entered the Damasu domain in the aftermath of the Tsume invasion.  The ancestral god of the Damasu was not being properly worshipped, and so he was receptive to Ryoshun's proposal to allow members of Lord Moon's heavenly court to enter the domain.  However, even having been granted this permission, they were still forbidden by Lady Sun to enter the Empire's cities without being granted access by an authority under her purview.  Ryoshun gained this by striking a bargain with an Imperial Magistrate from the Yasuki family who had been assigned to oversee the Damasu domain under Tsume rule, and so the moon cult began to spread.
 
@@ -2415,7 +2415,7 @@ Most samurai from the Aki lineage live in the province of Akishi, and the provin
 
 However, not all provinces are like Akishi, and not all lineages are tied to a particular province.
 
-Many provincial cities in the Empire began as small county townships and grew over time, usually due some combination of normal population growth, favorable location along the Imperial roads, especially fertile farmland leading to local wealth, etc.  In such cases, governorship of these provinces will generally be awarded by the daimyo, at the recommendation of the House Chancellery, based on a combination of the merit of the candidates and the usual political horse-trading of the house lineages.
+Many provincial cities in the Empire began as small county townships and grew over time, usually due to some combination of normal population growth, favorable location along the Imperial roads, especially fertile farmland leading to local wealth, etc.  In such cases, governorship of these provinces will generally be awarded by the daimyo, at the recommendation of the House Chancellery, based on a combination of the merit of the candidates and the usual political horse-trading of the house lineages.
 
 Likewise, many lineages were established by those who distinguished themselves to their daimyo, who rewarded them with an appointment to the chancellery.  In many cases, members of other lineages which have fallen into disfavor will clamor to marry or be adopted into this new lineage, and new lineages often end up being created specifically to reward and elevate specific members from some existing lineage.  These lineages are not tied to any particular province, though they may lobby for their members to be appointed to administer counties and provinces when those positions come before the House Chancellery.  Such lineages are often referred to as cosmopolitan lineages, which communicates that they are based in their domain's capital.
 
@@ -2727,7 +2727,7 @@ Here are the 7 omens and portents which the Order of Daikoku was looking for in 
 
 4. Prophetic dreams warning of the coming blight: People in the region begin having vivid and disturbing dreams about the crops being destroyed or overrun by a noxious growth.  The dreams might be accompanied by a feeling of dread or a sense of foreboding.
 
-5. Augural readings from divinations being performed to predict the coming crop: Those skilled in the art of divination perform readings to predict the quality and quantity of the upcoming crop.  The signs and omens that they read could be interpreted in a variety of ways, but they should have pointed to the same grim conclusion of the harvest will be ruined by a blight or pestilence.  Yet this did not happen.
+5. Augural readings from divinations being performed to predict the coming crop: Those skilled in the art of divination perform readings to predict the quality and quantity of the upcoming crop.  The signs and omens that they read could be interpreted in a variety of ways, but they should have pointed to the same grim conclusion that the harvest will be ruined by a blight or pestilence.  Yet this did not happen.
 
 6. A blood rain: A strange and unsettling rain falling over the region, appearing to be colored red.  The rain would usually be accompanied by an unusual smell or taste, and it might stain the crops and the earth.  In Lion lands, a red rain is interpreted as a sign of impending disaster or a harbinger of war.
 
@@ -2828,7 +2828,7 @@ The second son of Akodo no Damasu Taro, Jinsei's father sent him to Toshi Ranbo 
 
 ### Akodo no Damasu Maya
 
-Maya is the second daughter of Akodo no Damasu Fusanosuke, the governor of Higo, and a prominent "new guard" member of the Damasu lineage.  Like the others just past their gempukku, and as is common for second children, Maya has been sent to the Temple of Bishamon to train and study and pray and absorb the wisdom and power of Bishamon through the temple and its relics, that she might find her way in the domain and prove worth of a suitable posting, whether or not her older sister potentially inherits the governorship of Higo.
+Maya is the second daughter of Akodo no Damasu Fusanosuke, the governor of Higo, and a prominent "new guard" member of the Damasu lineage.  Like the others just past their gempukku, and as is common for second children, Maya has been sent to the Temple of Bishamon to train and study and pray and absorb the wisdom and power of Bishamon through the temple and its relics, that she might find her way in the domain and prove worthy of a suitable posting, whether or not her older sister potentially inherits the governorship of Higo.
 
 ### Akodo no Damasu Ryuji
 
@@ -2980,7 +2980,7 @@ The wielder of the great sword Akuzuki (Wicked Moon)  - for more information on 
 
 For information on Yokijiro himself, see the biography on his character page at Matsu Yokijiro.
 
-Last year, Yokijiro fought and won his duel in the Sunset Blade Trials against the acclaimed duelist Doji Reju, a man who has always won every duel against any lesser or equal opponent, proving that Yokijiro's skill and sword are so far beyond the great duelist Reju than even Reju was forced to concede the superiority of his opponent.
+Last year, Yokijiro fought and won his duel in the Sunset Blade Trials against the acclaimed duelist Doji Reju, a man who has always won every duel against any lesser or equal opponent, proving that Yokijiro's skill and sword are so far beyond the great duelist Reju that even Reju was forced to concede the superiority of his opponent.
 
 Following the duel, Yokijiro made a pilgrimage to the Sacred Pool of Kaimetsu-Uo deep in the Isawa Woodlands, a place of healing, especially for those recovering from injuries sustained during a difficult duel.  Yokijiro returned to Toshi Ranbo for the first time in many years after leaving the Isawa Woodlands, arriving the week before Setsubun.  He is seeking out the temple's relics and partnering with the Order of Bishamon to continue his work instructing those worthy students who seek his martial training.  He is especially interested in seeking Bishamon's wisdom on the question of whether he should pass the sword Akuzuki down to his eldest grandson, knowing that it may doom him to die in a duel if he does so.
 
@@ -2994,7 +2994,7 @@ With Hitomi returned home and Daini having relinquished his stewardship of the M
 
 ### Moto Chenghiz
 
-This man's gaijin name reveals the gaijin nature of the Moto family, who are clearly not from Rokugan originally, and who have managed, though Crane trickery, to have convinced the Imperial Ministry of Retainers that their ancestors hail from just past the Twilight Mountains, when in fact their true homeland is clearly Medin al Salaat.
+This man's gaijin name reveals the gaijin nature of the Moto family, who are clearly not from Rokugan originally, and who have managed, through Crane trickery, to have convinced the Imperial Ministry of Retainers that their ancestors hail from just past the Twilight Mountains, when in fact their true homeland is clearly Medin al Salaat.
 
 Chenghiz is the eldest son of Moto Jochi, the Moto Minister of Revenue, and Chenghiz is an expert on "Moto law", as evidently the Moto are so barbarous as to not simply employ "Saibankan's Net", the system of magistrates handed down for centuries through the Imperial Ministry of Justice.
 
@@ -3060,7 +3060,7 @@ It's unclear what changed last year to cause him to seek out the encounters with
 
 Iori also believes that Ichiharu may be frequently leaving the city or even the domain, despite being told to remain in the city to be on hand if the opportunity arises to be granted a private audience with a relic.  Every time Ichiharu has been summoned he has responded, but at other times the enigmatic monk is frequently nowhere to be found, not even when Kiyoshi and Hina's whereabouts are accounted for.
 
-Kiyoshi and Hina have continued to donate to the Temple of Bishamon, and pray there, and express interest in audiences with the temple's relics.  Kiyoshi herself is an accomplished duelist, and wields of the famous sword Seiginryu (Justice of the Silver Dragon) - see the Famous swords section below for details.
+Kiyoshi and Hina have continued to donate to the Temple of Bishamon, and pray there, and express interest in audiences with the temple's relics.  Kiyoshi herself is an accomplished duelist, and wields the famous sword Seiginryu (Justice of the Silver Dragon) - see the Famous swords section below for details.
 
 ### Initial Findings
 
@@ -3181,7 +3181,7 @@ This is the ancestral sword of the Tsume.  While every daimyo in the Empire has 
 
 Kasai Tsume is **actually** famous, with a well-earned reputation.  It was used by Doji Tsume to conquer the castle that eventually grew into Kyuden Tsume.  Doji Tsume later made a pilgrimage to Morning Glory Castle, where the visiting Master of Fire advised him to climb to the peak of Asako Mountain and pray for heaven's strength.
 
-While meditating at the mountain's highest plateau, a meteor began to descend to the sky directly towards him.  His first reaction was to think that the Master of Fire had set him up, and was now using his powerful Phoenix magics to assassinate a rival daimyo.  However, before he began to descend away from the mountaintop in a panic, he stopped and chose instead to turn towards the descending fireball and draw his sword to cleave it in two.
+While meditating at the mountain's highest plateau, a meteor began to descend from the sky directly towards him.  His first reaction was to think that the Master of Fire had set him up, and was now using his powerful Phoenix magics to assassinate a rival daimyo.  However, before he began to descend away from the mountaintop in a panic, he stopped and chose instead to turn towards the descending fireball and draw his sword to cleave it in two.
 
 The blade now carries with it not only the residual patterns from the scorching meteorite, but the essence of fire, and this has only further empowered the sword, especially when on the attack.  Tsume Retsu held it as he personally led the assault which conquered Toshi Ranbo in 1117, and Kasai Tsume has been used throughout the history of the violent Tsume house in many battles.
 
@@ -3199,7 +3199,7 @@ Masamune named Shitsuten (Lost Heaven) not only in reference to the loss of divi
 
 Yasuki Aina was the County Magistrate of Friendly Traveler Village, a large town close to the border along Earthquake Bay (not actually a village, this settlement has retained its famous name from when it was far smaller).  Although she herself was a soybean merchant who had never even attempted to form rice plantations, she was tired of Susano's successful raids on her lands, so she set a trap for him, creating fake plantations filled with archers ready to string their hidden bows the moment a raiding party approached.  Susano took the bait, and having already drawn Shitsuten refused to flee when the trap was sprung, shot down in an ill-advised cavalry charge.  Susano's men took his body and fled, leaving Shitsuten behind, as none of them dared to touch the cursed sword.
 
-Yasuki Aini retrieved the sword herself and displayed it proudly as a trophy in her manor in Friendly Traveler Village.  However, the sword's hatred proved disastrous for her, and her soybean business was ruined by Yasuki gangsters from Peddler's Row, who smashed her casks of soy sauce and soybean oil, sank her transport boats in Earthquake Bay, and burned the farmhouses of the soybean farmers who worked in her fields.  Aini refused to back down from whatever dispute she had gotten herself into, possibly defying the feared Lords of the Coin under the influence of the cursed sword she foolishly displayed in her home, and she was eventually killed in a street attack in her own town.
+Yasuki Aina retrieved the sword herself and displayed it proudly as a trophy in her manor in Friendly Traveler Village.  However, the sword's hatred proved disastrous for her, and her soybean business was ruined by Yasuki gangsters from Peddler's Row, who smashed her casks of soy sauce and soybean oil, sank her transport boats in Earthquake Bay, and burned the farmhouses of the soybean farmers who worked in her fields.  Aina refused to back down from whatever dispute she had gotten herself into, possibly defying the feared Lords of the Coin under the influence of the cursed sword she foolishly displayed in her home, and she was eventually killed in a street attack in her own town.
 
 Aina's daughter donated the sword to Shinden Asahina, which promised to keep the sword safe in a shrine.  For 7 centuries, Asahina storytellers would train and practice their craft by telling the sword stories of those who had set aside their anger and hatred, seeking the Shinsei rather than vengeance.  However, the sword was taken from its shrine in Shinden Asahina by a Daidoji priest who claimed to have been told to do so by a powerful mysterious god in a dream.  Doji Masayo had been appointed the Crane Clan Magistrate for Shinden Asahina after the Lion/Crane war, and she ruled that this was not a theft and should be allowed, and then suspiciously the sword was given to her, and she appeared wielding it at the Sunset Blade Trials last winter, using it to kill Damasu Tsuo (and later Damasu Saki earlier this winter).
 
@@ -3639,7 +3639,7 @@ Here are some sets of cases:
 
 - Doji Isamu is a bushi sergeant who believes that the city's defenses are not being properly managed.  He believes that too much attention is being paid to the city walls and not enough to the surrounding countryside.  He has begun distributing pamphlets explaining why it would be better to create and maintain fortifications in the surrounding countryside rather than simply retreat into the city without any fighting or slowing the progress of an attacking army.  His superiors consider his criticisms to be an act of insubordination, and so his district captain orders him silenced.  He appeals this order to the PCs.  Because the PCs have appellate authority over such cases, they could theoretically order that he be allowed to dissent in this manner, but such a ruling would be HIGHLY irregular, and the body of case law is strongly against Isamu.  If the PCs do decide against him, he will commit seppuku in protest.
 
-- A Scorpion noble has written a play which is considered subversive.  It takes place before the dawn of the Emerald Empire, when barbarian warlords ruled with little regard or law or justice.  The play contains a monologue in which a bandit attempts to justify his thieving ways by railing against the unjust actions of his rulers.  Although this takes place before human beings received the gift of true justice from the Son of Heaven, the captain considers the play to be highly inappropriate, and has ordered it stopped.  The playwright appeals the decision to the PCs after shopping the play around and finding that most playhouses and acting troupes won't want to touch it for fear of having it shut down in their districts as well.
+- A Scorpion noble has written a play which is considered subversive.  It takes place before the dawn of the Emerald Empire, when barbarian warlords ruled with little regard for law or justice.  The play contains a monologue in which a bandit attempts to justify his thieving ways by railing against the unjust actions of his rulers.  Although this takes place before human beings received the gift of true justice from the Son of Heaven, the captain considers the play to be highly inappropriate, and has ordered it stopped.  The playwright appeals the decision to the PCs after shopping the play around and finding that most playhouses and acting troupes won't want to touch it for fear of having it shut down in their districts as well.
 
 ### Debt Cases
 
@@ -3677,7 +3677,7 @@ Her captain has ordered her to stop issuing challenges without prior permission.
 
 Because the PCs have special appellate authority, this matter is being appealed to them rather than the usual higher-ups in the city.
 
-4. Doji Miu murdered a fellow bushi in a fit of rage over an argument they were having which got out of hand.  She is scheduled to be hanged (a punishment usually reserved for common criminals) and wishes to be allowed to commit seppuku, or failed that wishes to be beheaded (as fitting her station).  She asks the PCs to hear her case and allow her a less undignified death.
+4. Doji Miu murdered a fellow bushi in a fit of rage over an argument they were having which got out of hand.  She is scheduled to be hanged (a punishment usually reserved for common criminals) and wishes to be allowed to commit seppuku, or failing that wishes to be beheaded (as fitting her station).  She asks the PCs to hear her case and allow her a less undignified death.
 
 ### Abuse of Authority Cases
 
@@ -3687,7 +3687,7 @@ Of course, local merchants might be offered a break on prices in exchange for no
 
 Recently a sting operation revealed a warehouse that was supposedly full of un-licensed goods to be sold.  However, it turned out to have some unlicensed goods but mostly had valid inventory.  However, because it was a large warehouse, it took the magistrates quite some time to sort through everything.  During this time, a fruit merchant named Tatsutaro appeared with proper documentation and demanded to collect his fruit, which he needed to sell before it went bad.
 
-The sergeant in charge in guarding the warehouse demanded a processing fee of 6 bu, explaining that his men were overworked and it would be too much trouble to take them away from their duties to tend to this man.  Tatsutaro explained that he knew exactly where his boxes were, that they were stamped as his property, and that he could remove them himself, with the magistrates only needing to give it a cursory glance.  The sergeant refused and continued to demand the processing fee, which Tatsutaro reluctantly paid.
+The sergeant in charge of guarding the warehouse demanded a processing fee of 6 bu, explaining that his men were overworked and it would be too much trouble to take them away from their duties to tend to this man.  Tatsutaro explained that he knew exactly where his boxes were, that they were stamped as his property, and that he could remove them himself, with the magistrates only needing to give it a cursory glance.  The sergeant refused and continued to demand the processing fee, which Tatsutaro reluctantly paid.
 
 Afterwards Tatsutaro complained to captain Doji Renshi, who refused to do anything about it.  So now the matter is being appealed to the Board of Justice, who should decide not only whether to order the "fee" refunded, but also whether to add a penalty or punishment to the sergeant and/or Doji Renshi.  However, if the PCs decide to rule in the merchant's favor, Renshi will strongly castigate them, fishing for a duel.
 
@@ -4040,7 +4040,7 @@ Shizue gives several example vows, including the vows she herself swore to Bente
 
 Another in-universe work of literature which explains oaths to samurai is "Vengeance and Justice" by Matsu Hitomi.
 
-Shortly before her gempukku, Matsu Hitomi watched her brother die in a duel against Matsu Akimori, a member of a rival lineage.  On the day of her gempukku she challenged Akimori to a duel.  He initially refused, saying she was not yet a worthy opponent.  In anger, Hitomi attacked him, and he easily defeated her, sparing her life with while urging her to return to face him once she was skilled enough to possibly be an even match.
+Shortly before her gempukku, Matsu Hitomi watched her brother die in a duel against Matsu Akimori, a member of a rival lineage.  On the day of her gempukku she challenged Akimori to a duel.  He initially refused, saying she was not yet a worthy opponent.  In anger, Hitomi attacked him, and he easily defeated her, sparing her life while urging her to return to face him once she was skilled enough to possibly be an even match.
 
 Hitomi left on a warrior's pilgrimage to train and swore vows to the two fortunes of vengeance:
 
@@ -4268,7 +4268,7 @@ Finally, here is the wording for the vow of fasting that Tetsu swore to Kamoku:
 
 "I, Kitsuki Tetsu, in homage to Kamoku, the fortune of the West Wind, the bringer of challenges and opportunities, do pledge to honor you in a manner befitting your reverence for Lady Sun.
 
-I vow to fast each day from the setting of the sun until its rise, abstaining from food and drink in the hours of darkness.  As a symbol of my dedication, I will only partake sustenance when I can see daylight, honoring the journey of the sun, the journey of life, and your gentle but formidable force.
+I vow to fast each day from the setting of the sun until its rise, abstaining from food and drink in the hours of darkness.  As a symbol of my dedication, I will only partake of sustenance when I can see daylight, honoring the journey of the sun, the journey of life, and your gentle but formidable force.
 
 In doing so, I open myself to the challenges you bring, to the opportunities hidden within.  I embrace these tests, knowing they are stepping stones towards the prosperity and growth that can be achieved by overcoming adversity.  May I seize these opportunities and, in doing so, honor you.
 
@@ -4636,7 +4636,7 @@ Much more has been written about Yajinden, but one thing to note for future refe
 
 One of the most famous disciples of Iuchiban is Jama no Iuchiban Kyoso.
 
-Known as "queen of oni", Kyoso began as a legionnaire in the 1st Imperial Legion from either the Kitsu family of the Lion or the Yogo family of the Scorpion.  (Each family disclaims her, and there are credible historical accounts supporting her ancestry from either family.) Kyoso quickly mastered the lesser summonings taught by the maho texts of Jama Suru and the teachings of Jama Musume, easily summoning swamp spirits and mujina and kansen.  Kyoso's intuitions about these practices changed how humans understood oni summoning.  It was Kyoso who explained that oni require a name to be summoned, not as payment, but because nothing without a name can exist in our realm.  The name is what permits the oni to possess a physical form, and the nature of the oni's form in Jigoku therefore has even more effect on the form it takes in our realm as any material components used to anchor its spirit to a physicality in our reality.
+Known as "queen of oni", Kyoso began as a legionnaire in the 1st Imperial Legion from either the Kitsu family of the Lion or the Yogo family of the Scorpion.  (Each family disclaims her, and there are credible historical accounts supporting her ancestry from either family.) Kyoso quickly mastered the lesser summonings taught by the maho texts of Jama Suru and the teachings of Jama Musume, easily summoning swamp spirits and mujina and kansen.  Kyoso's intuitions about these practices changed how humans understood oni summoning.  It was Kyoso who explained that oni require a name to be summoned, not as payment, but because nothing without a name can exist in our realm.  The name is what permits the oni to possess a physical form, and the nature of the oni's form in Jigoku therefore has even more effect on the form it takes in our realm than any material components used to anchor its spirit to a physicality in our reality.
 
 Kyoso made further discoveries in the practice of oni summoning.  Prior to her, any tsukai who wished to summon an oni required either their own name or a name which someone chose to give to them.  While blood sacrifices had previously allowed tsukai to use the names of sacrificial victims, it was Kyoso who discovered how to use the name of someone at the moment of their death to summon an oni.  For centuries, this has allowed bloodspeakers to summon oni using the names of victims who would die rather than surrender their own names, even under torture.  This has led to the targeting of countless samurai by bloodspeaker covens over the years, as the protection of righteousness and indomitable will no longer prevents your name from helping a bloodspeaker's summonings.
 
@@ -4650,7 +4650,7 @@ Kohaku was a traveling monk whose pilgrimage brought him to Chai Sedo (the templ
 
 Interestingly, Jama no Kohaku Jin told the PCs during a previous campaign that removing one's heart does not grant immortality, and that instead it is the mastery of one's fears, desires, and regrets which does that.  He indicated that the removal of the heart helps you attain this mastery, but that most who perform the ritual are still mortal and their removed heart will stop beating when their body dies.  Jin claimed that there is some amount of life extension and resistance to wounds and age and sickness which is granted by the ritual, but that the common beliefs about heart-removal are mistaken.  This was already alluded to above - the common belief is that bloodspeakers attain immortality by removing their hearts and keeping them somewhere safe, but in actuality it is about mastering their fears, desires, and regrets.
 
-After Iuchiban's defeat, while Jama Suru proceeded to recruit and gain power from noble samurai, Jama Kohaku recruited peasants.  He is known to have personally sought out countryside tsukai and from all over the Empire and taught them how to conceal the Shadowlands taint, allowing them to expand their covens and migrate from the countryside into larger cities without being found.  Because of his focus on evangelism to the peasantry, more bloodspeaker covens broken up by Witch Hunters have been linked to Kohaku than any other bloodspeaker.
+After Iuchiban's defeat, while Jama Suru proceeded to recruit and gain power from noble samurai, Jama Kohaku recruited peasants.  He is known to have personally sought out countryside tsukai from all over the Empire and taught them how to conceal the Shadowlands taint, allowing them to expand their covens and migrate from the countryside into larger cities without being found.  Because of his focus on evangelism to the peasantry, more bloodspeaker covens broken up by Witch Hunters have been linked to Kohaku than any other bloodspeaker.
 
 When a powerful oni lord known as The Maw gathered an army within the Shadowlands, it was Kohaku who combined explosives with powerful maho to blast a hole in the Kaiu Wall, allowing the Maw to invade the Empire.  Even worse, Kohaku diverted a Shadowlands river through the opened hole in the Kaiu wall, flooding and tainting the Hiruma countryside, which ultimately prevented the Crab from reclaiming Hiruma castle after the Maw was defeated at the Battle of Cresting Wave.
 
@@ -4700,7 +4700,7 @@ In case it matters for future reference, the five families of the Gozoku are:
 
 3. The Tsume vassal house of the Doji family.  The northernmost domain in Doji lands, Tsume lands border both the Lion and Phoenix clans, and in times of war the Tsume daimyo has often been granted the position of "General of the Northern Armies of the Crane".  This was not true in recent years, when Tsume Retsu invaded the city of Toshi Ranbo, ultimately kicking off the Lion/Crane war, much to the displeasure of the rest of the Crane clan.
 
-4. The Bayushi family of the Scorpion clan.  Just as the Lion and Crane clans are said to be the Emperor's right and left hands in times of war (this being reversed in times of peace), the Scorpion are said always be the Emperor's underhand, and the Bayushi have always administered the Scorpion through equal parts rulership and spycraft.
+4. The Bayushi family of the Scorpion clan.  Just as the Lion and Crane clans are said to be the Emperor's right and left hands in times of war (this being reversed in times of peace), the Scorpion are said always to be the Emperor's underhand, and the Bayushi have always administered the Scorpion through equal parts rulership and spycraft.
 
 5. The Michio house of the Shosuro family of the Scorpion clan.  While the largest city in the Empire is its capital of Otosan Uchi, the second largest city of Ryoko Owari lies next to Beiden Pass where the 2nd Imperial Legion is stationed, separating Lion and Scorpion lands.  This is the hub of all trade in the central Empire, and lies just north of the best lands for silk cultivation.
 
@@ -4762,7 +4762,7 @@ Ejuko called upon the water kami and created a torrential rain on that day, prev
 
 Ejuko was ordered back to Phoenix lands so that she could no longer interfere with the duel, which was allowed to go forward.  She was not punished, though she was admonished for having interfered with a valid duel, and it was made clear that even the Master of Water would have suffered the displeasure of the Emperor had she interfered with a duel already in progress.
 
-Fun fact: if not for having been ordered back to Phoenix lands as a result of this ruling, Ejuko would not have been in the right place to marry Mirumoto Asijin to his true love Isawa Maroko.  This was yet another case of Ejuko performing a marriage for someone already betrothed, which led to Akodo Yokutsu leading an army north in retaliation, resulting in the Battle of the Tonbo Plains, which resulting in the creation of the Dragonfly minor clan.
+Fun fact: if not for having been ordered back to Phoenix lands as a result of this ruling, Ejuko would not have been in the right place to marry Mirumoto Asijin to his true love Isawa Maroko.  This was yet another case of Ejuko performing a marriage for someone already betrothed, which led to Akodo Yokutsu leading an army north in retaliation, resulting in the Battle of the Tonbo Plains, which resulted in the creation of the Dragonfly minor clan.
 
 This shows the ways in which the elemental kami are held in high regard, and yet the ability of shugenja to influence them means that their apparent wishes cannot necessarily be weighted as heavily as the will of e.g. the fortunes.
 
@@ -4802,11 +4802,11 @@ Many sloppy histories record the Unicorn clan as "leaving" Rokugan ~100 years af
 
 This is a gross oversimplification, though many plays and "pillow books" take liberties with the actual history in order to create more dramatic scenes of the Unicorn clan being completely absent from their lands prior to returning all at once.
 
-What is true is that the Unicorn clan shifted the bulk of its forces considerably to the west and Shinjo's children conquered the city of Medinat al Salaam, renaming it to Medin al Salaat.  Some early historians have suggested that this was a mistake on the part of the largely illiterate early Unicorn clan, though its unclear what led them to this conclusion.
+What is true is that the Unicorn clan shifted the bulk of its forces considerably to the west and Shinjo's children conquered the city of Medinat al Salaam, renaming it to Medin al Salaat.  Some early historians have suggested that this was a mistake on the part of the largely illiterate early Unicorn clan, though it's unclear what led them to this conclusion.
 
 Regardless, ruling this city state and reaping the benefits were far better than overseeing the largely meager farmland of most of Unicorn lands.  Thus, the Unicorn shifted the bulk of their forces to this end of their holdings.  This led to the Dragon, Lion, Scorpion, and Crab clans all pushing into Unicorn territory which was granted to them by their Clan Charter.  The Unicorn also didn't have sufficient members in Otosan Uchi to have representation in the Imperial Chancellery when it was eventually formed under Emperor Hantei the 10th.
 
-After ruling Medin al Salaat for ~700 years, trade with gaijin lands was banned, which considerably weakened the Unicorn regime.  As another language-related notes on the names of things, "ki-rin" is the word for "Unicorn" in both the Moto and Salaam languages ("Salaam" is the most common language spoken in Medin al Salaat).  The "Ki Rin Trail" is literally the "Unicorn trail", because it was heavily used prior to the banning of gaijin trade.
+After ruling Medin al Salaat for ~700 years, trade with gaijin lands was banned, which considerably weakened the Unicorn regime.  As another language-related note on the names of things, "ki-rin" is the word for "Unicorn" in both the Moto and Salaam languages ("Salaam" is the most common language spoken in Medin al Salaat).  The "Ki Rin Trail" is literally the "Unicorn trail", because it was heavily used prior to the banning of gaijin trade.
 
 This contributed to the Unicorn losing power a century later, being pushed out by the Khadi-backed caliph, who unified the factions of the city in a way never done before to drive out the Unicorn clan.
 
@@ -4844,7 +4844,7 @@ I don't know how much knowledge of history you possess, so I will present the re
 
 Before humankind existed, there was the creator Tenri, who always was and always will be.  Tenri's first creation was Erlikonder, with whom he partnered when creating heaven and earth.  Tenri created Gunahn, who you know as Amaterasu, or Lady Sun, who embodies warmth, and whose rays Tenri used in the creation of the earth.  Erlikonder created Aybaba, who you know as Onnotangu, or Lord Moon, who embodies coldness.  Without this mixture, those who came before could not have created the gen, who you know as the "kami", who themselves gave birth to the plants and animals of the world and to all the races of humans and other creatures.  This tempering was also required for the sun and moon to give birth to the Hantei to rule over the gen, for without a precise mixture of the heavenly forces of warmth and cold, no god could ever assume physical form on earth.
 
-Erlikonder became prideful after seeing the success of his work, and so Tenri created another place for him, from which he could banished from heaven.  Erlikonder was arrogant but not unfair, so Tenri created the underworld and placed him in charge of judging the souls of the dead.  Not being content with having so little control over the world above, Erlikonder created Kurmez, who had the power to send souls back into the world as spirits.  I understand that captured Uru warriors who are released by the Moto must first swear oaths by Erlikonder and Kurmez using their Moto names King Yan and Wei Tin, as well as swearing by two other gods of the underworld with which I am not familiar.  This is not surprising, as the Moto people of ages past are known to have worshiped Erlikonder and the other gods of the underworld, especially Kurmez through whose subordinate spirits human worship is solicited.
+Erlikonder became prideful after seeing the success of his work, and so Tenri created another place for him, from which he could be banished from heaven.  Erlikonder was arrogant but not unfair, so Tenri created the underworld and placed him in charge of judging the souls of the dead.  Not being content with having so little control over the world above, Erlikonder created Kurmez, who had the power to send souls back into the world as spirits.  I understand that captured Uru warriors who are released by the Moto must first swear oaths by Erlikonder and Kurmez using their Moto names King Yan and Wei Tin, as well as swearing by two other gods of the underworld with which I am not familiar.  This is not surprising, as the Moto people of ages past are known to have worshiped Erlikonder and the other gods of the underworld, especially Kurmez through whose subordinate spirits human worship is solicited.
 
 Because Erlikonder was banished to the underworld, the influence of Gunahn was stronger than that of Aybaba among the gen and gods of the world.  Amaz, the god of fire, had more control over the world, which was upsetting to Sakha, the goddess of water.  At this time, the Altin ("gold") mountains to the east had a high golden peak, for which the Altin mountain range was named, and this peak connected heaven and earth.  Sakha climbed the Altin peak to reach heaven and petitioned Tenri for balance.
 
@@ -4914,7 +4914,7 @@ The Hanan Caliphate:
 
 The city is ruled by a Caliphate.  The oldest female daughter of the previous Caliph is first in the line of succession.  It's unclear why only female rulers are permitted - under the previous Sultanate the rulers were all male.
 
-The Hanan is the name of the family who rules, and the current ruler is named Hanan Talibah.  In fact every ruler goes by this name, so presumably the current ruler is Hanan Talibah the <number>, though it's not clear to those in Rokugan where she is in the counting of the family line.  It's also unclear whether the Hanan family was originally Almekhem or from one of the other factions or even from outside the city.  However, they continue to speak Salaam and don't have their own language, which implies they possible came from the Almekhem.
+The Hanan is the name of the family who rules, and the current ruler is named Hanan Talibah.  In fact every ruler goes by this name, so presumably the current ruler is Hanan Talibah the <number>, though it's not clear to those in Rokugan where she is in the counting of the family line.  It's also unclear whether the Hanan family was originally Almekhem or from one of the other factions or even from outside the city.  However, they continue to speak Salaam and don't have their own language, which implies they possibly came from the Almekhem.
 
 They are said to control a special type of elemental kami known as djinn, though it's unclear whether this is true or just a folk superstition.  Most shugenja doubt that the 5 elements are fundamentally different from place to place, so if djinn exist at all, they may be a type of kansen (corrupted elemental kami).  However, the claim is also made that djinn will not follow a khadi (see below) because of their Shadowlands taint, and that is why the khadi are incapable of seizing control of the city themselves, and tsukai are capable of dealing with kansen, so perhaps djinn don't even exist.
 
@@ -4932,7 +4932,7 @@ The writeup aims to keep things consistent while still allowing for more exotic 
 
 The Ashalan:
 
-"Ashalan" is the Salaam word for "tattooed".  The Ashalan were said to be the original farmers in the area "who dug the canals" before the city was build by the Almekhem.  They are now mainly known for being merchants.  It's unclear how large they are, but when the Unicorn left they were said to be "one of the largest" factions in the city.  They mainly speak their own language, though like most in the city they also speak Salaam in order to deal and trade with others.
+"Ashalan" is the Salaam word for "tattooed".  The Ashalan were said to be the original farmers in the area "who dug the canals" before the city was built by the Almekhem.  They are now mainly known for being merchants.  It's unclear how large they are, but when the Unicorn left they were said to be "one of the largest" factions in the city.  They mainly speak their own language, though like most in the city they also speak Salaam in order to deal and trade with others.
 
 The Rashari:
 
@@ -5094,7 +5094,7 @@ The Burning Sands desert surrounds Moto lands on its western and southern border
 
 The Vindicator Moto have sworn religious vows to oppose the Shadowlands, and they seek and destroy any Shadowlands creatures which make their way this far north through the mountains.  They are the sworn enemies of the Dark Moto.
 
-They are mainly a normal nomadic tribe (like most Moto), but their holy place is Bodi Kaikhan, a shrine consecrated to Emma-O, the Fortune of Death.  In addition to being a holy place of the Moto, it is also a pilgrimage destination for members of The Order of Peaceful Repose, a sect of the Brotherhood of Shinsei.  This order is rooted in pre-Imperial funerary traditions, formed by priests who developed methods of pacifying or banishing the spirits those who did not pass peacefully from this world.
+They are mainly a normal nomadic tribe (like most Moto), but their holy place is Bodi Kaikhan, a shrine consecrated to Emma-O, the Fortune of Death.  In addition to being a holy place of the Moto, it is also a pilgrimage destination for members of The Order of Peaceful Repose, a sect of the Brotherhood of Shinsei.  This order is rooted in pre-Imperial funerary traditions, formed by priests who developed methods of pacifying or banishing the spirits of those who did not pass peacefully from this world.
 
 (It has since been explained to the PCs in the Hidden Way that Bodi Kaikhan is in fact a shrine to the 4 Gods of Death rather than to Emma-O specifically.)
 
@@ -5108,7 +5108,7 @@ The number 4 is unlucky because it sounds like the word "death".  Rokugani often
 
 - Buildings in Rokugan are "never" 4 stories, i.e. a basement either will or won't be counted as a floor of the building in order to make the number of floors either 3 or 5.
 
-- Gifts which would normally be 4 zeni/bu/koku will be supplemented with lower denomination (e.g. 4 koku and 1 bu so the gift is 5 coins) in order to avoid the unlucky number.  The exception is a threat - a gift of 4 of something is considered a threat in Rokugani culture just as a gift of a weapon in considered a threat in Moto culture.
+- Gifts which would normally be 4 zeni/bu/koku will be supplemented with lower denomination (e.g. 4 koku and 1 bu so the gift is 5 coins) in order to avoid the unlucky number.  The exception is a threat - a gift of 4 of something is considered a threat in Rokugani culture just as a gift of a weapon is considered a threat in Moto culture.
 
 It is therefore fitting that there are 4 Gods of Death - given the significance of the number, how could there be any other number?  However, of the 4 Gods of Death, only two are recognized in the rest of Rokugan, and the others appear unique to Moto teachings.
 
@@ -5118,7 +5118,7 @@ Moto Gaheris, the daimyo of the Moto family, who is referred to by the Moto as "
 - Lightning, used in single combat, is dedicated to King Yan
 - Retirement, used in executions, is dedicated to Wei Tin
 
-Emma-O is the fortune of death, recognized throughout the Empire since the dawn of civilization.  However, there is no Grand Abbot of Emma-O, and temples to Emma-O are all in remote locations to avoid attracting the her attention in populated areas.  The order of Emma-O is known as the Order of the Peaceful Repose, and specializes in pacifying upset ghosts and helping them return to Jigoku.  There is at least one monastery to Emma-O in every clan, as the services of the Order of the Peaceful Repose will inevitably be required in every clan at some point.
+Emma-O is the fortune of death, recognized throughout the Empire since the dawn of civilization.  However, there is no Grand Abbot of Emma-O, and temples to Emma-O are all in remote locations to avoid attracting her attention in populated areas.  The order of Emma-O is known as the Order of the Peaceful Repose, and specializes in pacifying upset ghosts and helping them return to Jigoku.  There is at least one monastery to Emma-O in every clan, as the services of the Order of the Peaceful Repose will inevitably be required in every clan at some point.
 
 A few well-established truths which are important to remember about the fortunes:
 
@@ -5134,7 +5134,7 @@ One thing worth emphasizing about these Moto religious practices is that they wi
 
 For example, let's talk about King Yan, who the Moto also worship as one of the Gods of Death.
 
-King Yan, also known as the King of Hell, is the one who judges the souls of the dead, determining where they will spend their time in the underworld until they are reborn.  There are 8 greater hells and 16 lesser hells, and a King Yan sentences souls to spend time in one of these, or several in succession.  This is said to be a necessary part of the process by which souls are purified and stripped of their connections to their previous life.  Thus, while souls are indeed punished in the 24 hells of Jigoku, the process of a soul having its connections eaten by oni is not inherently a punishment, as it is what allows rebirth.
+King Yan, also known as the King of Hell, is the one who judges the souls of the dead, determining where they will spend their time in the underworld until they are reborn.  There are 8 greater hells and 16 lesser hells, and King Yan sentences souls to spend time in one of these, or several in succession.  This is said to be a necessary part of the process by which souls are purified and stripped of their connections to their previous life.  Thus, while souls are indeed punished in the 24 hells of Jigoku, the process of a soul having its connections eaten by oni is not inherently a punishment, as it is what allows rebirth.
 
 King Yan will send some souls who are worthy (especially those already close to enlightenment) directly into Yomi, the realm of the honored dead.  It's unclear whether Yomi is part of Jigoku or if it is a separate realm entirely - this is much debated by scholars.  King Yan doesn't appear to have dominion over Yomi, which has no need for any ruler.  Yomi is where honored ancestors dwell, and damned souls which have completed their time in the hells of Jigoku commune with their own ancestors in Yomi before being reincarnated.
 
@@ -5150,7 +5150,7 @@ King Yan rules over all oni, and tsukai (witches) often pray to him.  There is s
 
 - Oni who are summoned into the mortal realm by bloodspeakers and other types of tsukai usually try to devour everything they can, though smarter ones may scheme to more effectively feed as much as they can while in this realm.  This is unquestionably bad and wrong, as the essence of Jigoku (the Shadowlands taint) they bring with them corrupts and degrades all it comes into contact with, in contravention of the natural order.
 
-The Vindicator clan, which deals with the occasional oni which makes it way into Moto lands along the western side of the Twilight Mountains, teaches that oni in the mortal realm are not evil, and should instead be regarded like rabid animals which need to be put down.  Killing such an oni allows it to "return to where it belongs" and is therefore a merciful act, not only protecting its mortal victims but ultimately doing what is best for the oni itself to where it will thrive where the Tao prospers for it.  The Vindicator's hatred for all things Shadowlands is well-known, as they are the southernmost Moto tribe who has to deal with all of the Shadowlands denizens which make their way into Moto lands.  Thus, their position is treated with deference even by those who disagree with them and find it foolish.
+The Vindicator clan, which deals with the occasional oni which makes its way into Moto lands along the western side of the Twilight Mountains, teaches that oni in the mortal realm are not evil, and should instead be regarded like rabid animals which need to be put down.  Killing such an oni allows it to "return to where it belongs" and is therefore a merciful act, not only protecting its mortal victims but ultimately doing what is best for the oni itself, returning it to where the Tao prospers for it.  The Vindicator's hatred for all things Shadowlands is well-known, as they are the southernmost Moto tribe who has to deal with all of the Shadowlands denizens which make their way into Moto lands.  Thus, their position is treated with deference even by those who disagree with them and find it foolish.
 
 One thing this section and others try to emphasize is how, even within the world of Rokugan with its many established doctrines, there is active debate about these matters.  Even with something as seemingly black-and-white, good-and-evil as oni (demons) from hell (Jigoku), there is much room for theological disagreement between different characters in the setting.
 
@@ -5244,7 +5244,7 @@ So basically, Chenghiz can be considered anywhere between the 6th and 10th ranks
 
 These sections emphasize the difficulties in integrating the Moto with the rest of Rokugan, both religiously and politically, due to the differences in their culture and practices.
 
-The Moto also practice a fundamentally different kind of horse culture than the rest of Rokugan, so this section outlines first how normal ("Stable") horse culture works and then discussed how the Moto vary from the norm.
+The Moto also practice a fundamentally different kind of horse culture than the rest of Rokugan, so this section outlines first how normal ("Stable") horse culture works and then discusses how the Moto vary from the norm.
 
 ### Stable Horse Culture
 
@@ -5480,7 +5480,7 @@ The specific nature of the dispute is unclear, though Gaheris appears to have ca
 
 - Gaheris continued his father's work renovating the Temple of the 7 Fortunes for a time.  However, he apparently scaled back the scope of work or possibly canceled it outright after some amount of work was completed.  He has evidently said something like, "I used to consider Moto Darqan a wise and prudent man, but from his speeches and sermons, it has become evident to me that he does not possess complete understanding and that his comprehension is but small." It's unclear what precisely Moto Darqan has said or done to shrink Gaheris' opinion of him.
 
-Some combination of these things, perhaps along with some unknown family drama, seems to have led to Moto Davaajav to leave and take up residence in Ulan Bator ("Red Hero").  It's unclear what precise insult he offered to Gaheris, though he is known to have publicly criticized his nephew.  Gaheris evidently took a small force of his closest friends and retainers to Ulan Bator and killed his uncle.  He ordered the inhabitants of the settlement measured against the lynchpin, and then ordered the settlement razed to the ground, such that "a man can ride through the town on horseback at full speed in the darkness of night without stumbling".  The survivors were resettled in Karakoru.
+Some combination of these things, perhaps along with some unknown family drama, seems to have led Moto Davaajav to leave and take up residence in Ulan Bator ("Red Hero").  It's unclear what precise insult he offered to Gaheris, though he is known to have publicly criticized his nephew.  Gaheris evidently took a small force of his closest friends and retainers to Ulan Bator and killed his uncle.  He ordered the inhabitants of the settlement measured against the lynchpin, and then ordered the settlement razed to the ground, such that "a man can ride through the town on horseback at full speed in the darkness of night without stumbling".  The survivors were resettled in Karakoru.
 
 Many of the buildings razed were farmhouses, but this appears to have not violated the Yassa.  Even those who have criticized the kuraldai as being overly lenient on the Moto do not seem to have taken issue with this - it's unclear why these buildings were not protected.
 
@@ -5962,7 +5962,7 @@ Or we could go back to the story of Otaku Mirai, another officer in the 1st Impe
 
 Starting the night of his gempukku, Mirai was tormented in dreams by a mujina.  This curse followed him to his first assignment as a sergeant in the 1st Imperial legion.  At times he would go weeks without being able to sleep through the night.
 
-One evening, an old man appeared in the Mirai's dreams, identifying himself as the spirit of a neglected sword.  Shockingly, the man was a gaijin who named himself Heartseeker.  The old man additionally stated that he was unable to leave his scabbard as he had been defiled by dirty human hands.  Most importantly, the spirit told Mirai that should he wish to permanently rid himself of the hateful mujina, he should clean the blade of its rust.
+One evening, an old man appeared in Mirai's dreams, identifying himself as the spirit of a neglected sword.  Shockingly, the man was a gaijin who named himself Heartseeker.  The old man additionally stated that he was unable to leave his scabbard as he had been defiled by dirty human hands.  Most importantly, the spirit told Mirai that should he wish to permanently rid himself of the hateful mujina, he should clean the blade of its rust.
 
 Mirai tracked down all of the gaijin swords in the legion, of which there were many, and identified and acquired Heartseeker from captain Otaku Hiyu, who had left it languishing in a crate of old antiques not considered worthy of display.  It had originally been taken from a slain gaijin bandit many centuries ago.
 
@@ -5998,7 +5998,7 @@ She named the sword Yamaoroshi - "Wind Blowing Down the Mountain".  As the sword
 
 Yamaoroshi later became the family sword of Agasha Shigeaki, one of the companions of Agasha Kitsuki, and struck down several of the assassins bent on murdering Mirumoto Januko, the daimyo of the Mirumoto family when the Unicorn returned.  Agasha Kitsuki was granted his own Family name, and so Shigeaki then became Kitsuki Shigeaki, and Yamaoroshi has stayed with the Kitsuki family ever since.
 
-Note that this is sword is steeped in history and is many centuries old, and it is believed to not only benefit from excellent craftsmanship in its manufacture, but that the weight of its past deeds and accomplishments grants its wielder an almost supernatural advantage.
+Note that this sword is steeped in history and is many centuries old, and it is believed to not only benefit from excellent craftsmanship in its manufacture, but that the weight of its past deeds and accomplishments grants its wielder an almost supernatural advantage.
 
 On the other hand... there aren't really any testable claims being made about the sword, exactly.  Even the explanation that the sword has a will to be striking "downhill" would be difficult to measure or prove.  Someone performing katas with the sword might say something like, "oh yes, I can certainly feel the sword's will and the way in which swinging it towards a lower elevation grants me additional strength, as it adds the weight of its desire to my strikes".  But that could easily just be the power of suggestion!
 
@@ -6165,7 +6165,7 @@ Pilgrims and samurai would seek guidance, wisdom, and blessings in the Shrine of
 
 Residing within the Shrine of Harmonious Spirit is a venerated statue crafted from a single, flawless piece of jade, depicting Shinsei in a serene, meditative pose.  The statue is adorned with intricately crafted garments, which are changed three times per year in a solemn and intricate ceremony performed by "the daimyo" (previously the daimyo who ruled over Toshi Ranbo) or a designated representative.
 
-Each garment represents a different aspect and season of life (though notable the three seasons do not correspond to the four yearly seasons): renewal and growth, abundance and prosperity, and withdrawal and introspection.
+Each garment represents a different aspect and season of life (though notably the three seasons do not correspond to the four yearly seasons): renewal and growth, abundance and prosperity, and withdrawal and introspection.
 
 The Tsume put considerable effort into moving this statue, which is almost 9 feet tall and over 4 tons in weight.  It is now located in Kyuden Tsume, and because the Jade Shinsei was considered a protector of the city and a symbol of the seasons of life, teaching acceptance and adaptation to change, the Tsume believe that its presence in the city is an important reason why Kyuden Tsume never fell to protracted Lion siege.
 
@@ -6793,7 +6793,7 @@ and
 
 > You may always trust a peasant over a nobleman.  The nobleman is ambitious.  The peasant only wants to eat.  In other words, the nobleman has betrayal in his blood while the peasant only wishes not to be betrayed.
 
-After the return of the Unicorn, it was quickly noticed that a new threat had emerged in the Shadowlands - skeletal riders calling themselves the Black Guard of the Moto.  Tangen did not personally perform any investigations into this phenomenon, but his work "The Dark Moto" is viewed as the authoritative source of the subject, and it appears to be Bayushi Tangen who originated that name.  Modern editions contain supplemental chapters drawn from subsequent encounters, with quotes and anecdotes.
+After the return of the Unicorn, it was quickly noticed that a new threat had emerged in the Shadowlands - skeletal riders calling themselves the Black Guard of the Moto.  Tangen did not personally perform any investigations into this phenomenon, but his work "The Dark Moto" is viewed as the authoritative source on the subject, and it appears to be Bayushi Tangen who originated that name.  Modern editions contain supplemental chapters drawn from subsequent encounters, with quotes and anecdotes.
 
 The copy in Chai Sedo is over 100 years old, and newer editions presumably contain information this copy lacks, though some attached commentaries by past visiting scholars helps to fill in the details.
 
@@ -7058,7 +7058,7 @@ The Wasp Clan Charter grants all Wasp samurai the authority to pursue Imperial b
 
 ### Registering a bounty
 
-Fugitives often flee the jurisdiction where they are wanted, and crossing clan boundaries to hide amongst the enemies of the magistrates who seek them.
+Fugitives often flee the jurisdiction where they are wanted, and cross clan boundaries to hide amongst the enemies of the magistrates who seek them.
 
 Even when they don't cross clan boundaries, it is Imperial magistrates who are responsible for notifying other jurisdictions about a fugitive on the run.  [Soshi Saibankan](https://hiddenway.obsidianportal.com/wikis/soshi-saibankan) helped formalize these procedures during the reign of Hantei the Tenth, which may include:
 
@@ -7112,7 +7112,7 @@ In the previous example, a samurai committed assault and fled the jurisdiction r
 
 Hida no Akito Zenshiro is visiting Kyuden Kakita to negotiate tariff rates between the Kakita family and the northern territories of the Crab clan.  While a new agreement is eventually struck, in the course of negotiations he makes several derisive comments about the "unseemly greed" of the Crane.  While none of these were made in the presence of his hosts, he was overheard saying such things on multiple occasions by various people around Kyuden Kakita.
 
-A few months after Zenshiro returns home, a local courtier name Kakita Torikago calls upon his friend, Seppun Shogo, the Imperial magistrate for Kakita lands.  Torikago explains that there was a troubling incident at a local tea house, the Evening's Sigh, which culminated in a large brawl.  The matter has been mostly dealt with, but two of the participants still have conflicting recollections about who said what in the hours leading up to the incident.
+A few months after Zenshiro returns home, a local courtier named Kakita Torikago calls upon his friend, Seppun Shogo, the Imperial magistrate for Kakita lands.  Torikago explains that there was a troubling incident at a local tea house, the Evening's Sigh, which culminated in a large brawl.  The matter has been mostly dealt with, but two of the participants still have conflicting recollections about who said what in the hours leading up to the incident.
 
 Hida Zenshiro was not present for the brawl, but multiple witnesses attest to seeing him there that evening, having left less than an hour prior to the altercation.  Torikago explains that Kakita Hideo, the Kakita Deputy Minister of Justice, has already written to Zenshiro, requesting that he return to the city as an honored guest of the Kakita to help clear up this matter.  However, Zenshiro's reply letter states that he has never been to the Evening's Sigh, and was not present that evening, and therefore he has declined the invitation to return.
 
