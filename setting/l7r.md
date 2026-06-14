@@ -307,7 +307,7 @@ Rokugan has a strict caste system, which is part of the Celestial Order.  The Ha
 
 Heimen are "half-people" and include farmers and merchants.
 
-Hinin are "non-people" and laborers, servants, and entertainers.  The lowest part of the hinin caste are the burakumin, or "untouchables" who perform ritually unclean labor such as morticians and tanners and those who handle "night-soil" (human feces).
+Hinin are "non-people" and include laborers, servants, and entertainers.  The lowest part of the hinin caste are the burakumin, or "untouchables" who perform ritually unclean labor such as morticians and tanners and those who handle "night-soil" (human feces).
 
 Monks exist outside the Celestial Order, walking as the Shinsei did with one foot in this world and one foot in the spiritual realm.  Although monks are a small part of the population (less than 1%) they are enormously influential due to the reverence held by humans of all castes for the gods and their servants and those who preach the Tao of Shinsei.
 
@@ -2225,7 +2225,7 @@ Upon being brought before Lord Moon and demanded to account for what he had stol
 
 Thus it came to pass that even after the source of Suro's power later became known, Lord Moon's decree that none should suffer continued to protect Suro, as punishing him would violate that decree, and Lord Moon's decrees are absolute in the realm of night.
 
-Disciples of Suro learn to call upon the power of the Shadow of Nothing by beseeching Suro to share this power with those who serve him.  In the days before the Empire, this was done openly by those to the south of the Spine of the World mountains who later swore fealty to Bayushi, founder of the Scorpion clan.  The Order of Lord Moon knows that the high priestess who was chosen by the Shinsei as the Scorpion clan Thunder chose her name in honor of Suro, which is why she was known as Shosuro.  Indeed, after the defeat of Fu Leng, it was Shosuro alone who returned with the Black Scrolls, and though she died of her wounds shortly after, it was surely the power of the Shadow whose power allowed her to be the last surviving Thunder.
+Disciples of Suro learn to call upon the power of the Shadow of Nothing by beseeching Suro to share this power with those who serve him.  In the days before the Empire, this was done openly by those to the south of the Spine of the World mountains who later swore fealty to Bayushi, founder of the Scorpion clan.  The Order of Lord Moon knows that the high priestess who was chosen by the Shinsei as the Scorpion clan Thunder chose her name in honor of Suro, which is why she was known as Shosuro.  Indeed, after the defeat of Fu Leng, it was Shosuro alone who returned with the Black Scrolls, and though she died of her wounds shortly after, it was surely the Shadow whose power allowed her to be the last surviving Thunder.
 
 #### A Saibankan Ruling
 
@@ -4454,7 +4454,7 @@ Each day, as sure as the moon follows the sun, I will feast upon the flesh of an
 
 I trust this vow to serve as a continuous connection to Lord Moon, reminding me of his raw, primal power.  Let my daily indulgence fortify me, just as Lord Moon draws strength from his celestial feast.
 
-In my meals and libations, I shall remember the celestial grace that sustains us all.  May my strength, in turn, reflect the mighty Lord Moon, using it both for personal gain as well as for the greater good.  This I vow, in the name of Lord Moon, the mighty and unpredictable."
+In my meals and libations, I shall remember the celestial grace that sustains us all.  May my strength, in turn, reflect the mighty Lord Moon, using it both for personal gain and for the greater good.  This I vow, in the name of Lord Moon, the mighty and unpredictable."
 
 And the public-facing vow to Bishamon with similar terms:
 
@@ -4618,7 +4618,7 @@ Another terrifying disciple of Iuchiban is Jama Musume.  Unlike the others who h
 
 The writings of the mad Kuni shugenja brought to Iuchiban by Suru mentioned an old peasant tsukai-woman known as "the dark daughter of Fu Leng".  Suru sought her out and convinced her to come to their aid, teaching the ways of maho to the most trusted of Iuchiban's retainers.  While she began as Iuchiban's instructor, he eventually surpassed her and taught her the maho disciplines she had previously lacked.
 
-Musume assisted Iuchiban in his coup attempt, but was not killed, and was the only one of Iuchiban's former lieutenants who was absent after his resurrection.  She is known to live in the Shadowlands, where she occasionally ambushes Crab raiding parties.  Instead of killing them, she takes their swords and tells them a date and place at which they can reclaim them if they defeat her oni.  Bushi will typically return to the Shadowlands with a small army, allowing them to easily defeat the oni and reclaim their lost swords.  Unfortunately, this serves Musume's purposes quite nicely, since the larger a force is brought, the more people learn of her name and carry the memory of her oni, thus further increasing her power.  (Remember that tsukai gain strength based on the number of people who know their name, especially when those people have strong emotional feelings of fear, desire, and or regret when thinking of that name.)
+Musume assisted Iuchiban in his coup attempt, but was not killed, and was the only one of Iuchiban's former lieutenants who was absent after his resurrection.  She is known to live in the Shadowlands, where she occasionally ambushes Crab raiding parties.  Instead of killing them, she takes their swords and tells them a date and place at which they can reclaim them if they defeat her oni.  Bushi will typically return to the Shadowlands with a small army, allowing them to easily defeat the oni and reclaim their lost swords.  Unfortunately, this serves Musume's purposes quite nicely, since the larger a force is brought, the more people learn of her name and carry the memory of her oni, thus further increasing her power.  (Remember that tsukai gain strength based on the number of people who know their name, especially when those people have strong emotional feelings of fear, desire, and/or regret when thinking of that name.)
 
 Musume is never present when these armies appear to kill Oni no Musume, since she has no need to be there in order for her purpose to be achieved.  Instead, she can remain safely elsewhere, not putting herself at risk of the inconvenience of being slain, and indeed it is unclear whether she has ever been killed.
 
@@ -6896,7 +6896,7 @@ Thus, Tsuruchi and many of his former retainers became ronin, and Tsuruchi's unc
 
 ### Tsuruchi's career as an Imperial bounty hunter
 
-In the years that followed, Tsuruchi was granted a post as an Imperial magistrate, and took on the role of a bounty hunter.  It turned out that there are often matters serious enough to generate an Imperial bounty, but not serious enough to cause Imperial magistrates to spend their limited time and attention seeking out people who are being sheltered by their families.  Indeed, in many politically touchy cases, some Imperial magistrates are loathe to disturb the Emperor's peace by forcing a standoff with locals over matters which, on the scale of Imperial concerns, are relatively minor.  Thus, it is often the case that samurai with Imperial bounties on their heads can live out their lives in quiet obscurity, with their families claiming that they have not seen their wayward relatives.
+In the years that followed, Tsuruchi was granted a post as an Imperial magistrate, and took on the role of a bounty hunter.  It turned out that there are often matters serious enough to generate an Imperial bounty, but not serious enough to cause Imperial magistrates to spend their limited time and attention seeking out people who are being sheltered by their families.  Indeed, in many politically touchy cases, some Imperial magistrates are loath to disturb the Emperor's peace by forcing a standoff with locals over matters which, on the scale of Imperial concerns, are relatively minor.  Thus, it is often the case that samurai with Imperial bounties on their heads can live out their lives in quiet obscurity, with their families claiming that they have not seen their wayward relatives.
 
 Tsuruchi no longer had any family to be drawn into the political fallout from targeted well-connected fugitives, and he quickly became infamous throughout the Empire for his ruthless devotion to seeking out those who dared defy the Emperor's justice.  While some Imperial bounty hunters famed in history for adopting a similar philosophy have often challenged their targets to duels so that they have a chance to die honorably, Tsuruchi preferred to employ his mastery of the bow in striking down such targets, declaring:
 
