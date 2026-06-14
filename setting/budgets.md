@@ -67,6 +67,13 @@ Per-tier budget breakdowns for the median domain hierarchy, plus supporting tabl
   - [Imperial Savings: the "Wealth in Favors Owed" Model](#imperial-savings-the-wealth-in-favors-owed-model)
 - [Tax Pie](#tax-pie)
 - [Land Productivity](#land-productivity)
+  - [Rice and Arable-Land Math](#rice-and-arable-land-math)
+    - [Historical Units](#historical-units)
+    - [Yield Reference](#yield-reference)
+    - [Historical Household-Size Guidelines](#historical-household-size-guidelines)
+    - [Rokugan Arable-Land Extrapolation](#rokugan-arable-land-extrapolation)
+    - [Total Rice Production](#total-rice-production)
+    - [Other Per-Domain Derivations](#other-per-domain-derivations)
   - [Unit Conversions: land area to rice koku](#unit-conversions-land-area-to-rice-koku)
   - [Per-Family Reference](#per-family-reference)
   - [Farm Families by Tier (per Domain)](#farm-families-by-tier-per-domain)
@@ -731,7 +738,7 @@ Seitoyama is a county in Nagahara province of the Reiji domain (Crab clan).  Hid
 | Town laborers, servants, and burakumin | ~55 | Property + business | ~125 |
 | **Total county tax revenue** |  |  | **~6,400** |
 
-Math note: each farming household has ~5 members and pays ~5 koku per year in land tax (following the Rice and Arable-Land Math in [`l7r.md`](l7r.md#rice-and-arable-land-math)).  The ~1,116 farm families in the county contribute ~5,580 koku in farm taxes.  The remaining ~825 koku is property and business tax from town residents, dominated by the wealthy merchants - the very-rich merchant families pay ~235 koku each in combined property + business tax, while the ordinary "merchants, other" households pay ~5 koku each.  Per-household rates by caste sub-category are detailed in the [Town](#town) caste table further down in this document.
+Math note: each farming household has ~5 members and pays ~5 koku per year in land tax (following the [Rice and Arable-Land Math](#rice-and-arable-land-math)).  The ~1,116 farm families in the county contribute ~5,580 koku in farm taxes.  The remaining ~825 koku is property and business tax from town residents, dominated by the wealthy merchants - the very-rich merchant families pay ~235 koku each in combined property + business tax, while the ordinary "merchants, other" households pay ~5 koku each.  Per-household rates by caste sub-category are detailed in the [Town](#town) caste table further down in this document.
 
 Seitoyama is a heavily agrarian county, so Magistrate Hikai's tax revenue comes almost entirely from land tax and ordinary town property/business taxes.  Local specialized industries do exist, e.g. the local clothier, sake brewer, etc, but their licenses are captured in the business tax column above and do not constitute a separate revenue stream.  Counties with major specialized industries (coastal counties with substantial fishing or salt-making operations, mountain counties with mining, river-junction counties with major brewing or paper-making) collect additional "small assessments" (in the Tokugawa *komononari* sense) beyond what is shown here, sometimes amounting to several hundred koku per year, occasionally more for an exceptional county.
 
@@ -1506,6 +1513,109 @@ A typical domain's ~292,735 koku/year tax base, broken down by where it comes fr
 
 ## Land Productivity
 
+### Rice and Arable-Land Math
+
+The demographic figures above (population counts, koku-per-parcel output, rice-production totals) are anchored in real-world historical agricultural data, converted from Chinese units into Rokugan's koku-on-the-rice-standard.
+
+#### Historical Units
+
+A few units used in the conversion math:
+
+- **mu**: a unit of area equal to 1/15 hectare
+- **shi**: a unit of volume equal to about a bushel, or 155.168 jin of rice
+- **jin**: a unit of weight equal to 1.33 lbs
+- A traditional reference figure: 3.33 shi of rice is enough to feed a person for a year
+- **1 koku = 200 pounds**, which combined with the gallon-based definition of a koku produces the cross-conversion paths below
+
+#### Yield Reference
+
+Real-world rice yields in twentieth-century Hunan China were 284.40 jin/mu and 4.00 shi/mu.  Two independent unit-conversion paths produce a koku-per-square-mile figure consistent with that yield, after applying the deflation factors appropriate to each path's starting figure.
+
+Path A (jin-based, deflated for milling loss):
+
+```
+284.4 jin/mu (early-20th-century Hunan, ~2.1 tons/hectare)
+             * 15 mu/hectare
+             * 258.998811 hectares/square_mile
+             * 1.33 pounds/jin
+             * 2.5 cups/pound
+             * 0.0625 gallons/cup
+             * 0.025 koku/gallon
+             = ~5,740 koku per square mile (raw harvested rice)
+             * ~0.63 milling factor (rough harvested rice to consumable polished rice, ~37% mass loss)
+             = ~3,616 koku per square mile of consumable rice
+```
+
+Path B (ton-based, deflated for premodern productivity):
+
+```
+4 tons/hectare (modern post-Green-Revolution Hunan yield)
+              * 2204.62262 pounds/ton
+              * 0.003314280067510029 koku/pound
+              * 258.998811 hectares/square_mile
+              = ~7,569 koku per square mile (modern productivity)
+              * ~0.40 premodern productivity deflator (4 t/ha modern -> ~1.6 t/ha empire-wide premodern average)
+              = ~3,000 koku per square mile under premodern conditions
+```
+
+The two paths apply different implicit deflators because their starting points are different.  Path A's 284.4 jin/mu is an early-20th-century figure already close to premodern productivity (the Green Revolution had not yet transformed Chinese yields when this measurement was made), so only milling loss needs to be applied to convert harvested rough rice into consumable polished rice.  Path B's 4 tons/hectare is a modern post-Green-Revolution figure, so it requires a much larger deflation to bring it back to historically realistic premodern yields, but no separate milling adjustment - the resulting figure is already in unmilled-koku terms, matching the *kokudaka* convention used throughout these notes.
+
+The two paths converge on ~3,000 to 3,600 koku per square mile, and downstream calculations use the round-number version of 3,000.  This is on the LOW side of premodern East Asian rice productivity (Tokugawa Japanese paddies averaged ~4,500-5,500 koku/sq mi, southern Chinese Yangtze-delta paddies could exceed 5,500 koku/sq mi at the Song-Ming peak), which is appropriate for an empire-wide average that includes Rokugan's many marginal-quality paddies in northern, mountain, and frontier regions alongside its prime southern rice country.
+
+#### Historical Household-Size Guidelines
+
+The same ancient Chinese sources provide some calibration on how much land a single household could work:
+
+- 10 mu was about the maximum a single landowner could manage on his own; more than that required tenant farmers.
+- 100 mu was the ideal land size for a household of five.
+- 20-30 mu was more typical for such a household in crowded metro areas.
+- Small household (1-3 members): could work 0.1-5.0 mu
+- Medium household (4-5 members): could work 5.1-19.5 mu
+- Large household (8-9 members): could work 20.0-38.5 mu
+
+For comparative scale: early Ming China had approximately 40 million hectares of land under cultivation supporting a population of 65 million people.
+
+#### Rokugan Arable-Land Extrapolation
+
+Applying these yields to Rokugan's 1.5 million square miles:
+
+- **15% of Rokugan is arable**: approximately 225,000 square miles total, or ~560 square miles per median-sized domain.
+- **4% is suitable for rice farming**: approximately 60,000 square miles total, or ~152 square miles per median-sized domain.  This 4% figure follows imperial Chinese norms (historically ~3-5% of total area, depending on period); Tokugawa Japan's higher ~6% paddy share is not the right anchor for Rokugan, whose continental geography includes mountain ranges, arid borderlands, and frontier regions without close Japanese analogues.
+
+#### Total Rice Production
+
+At an assumed density of 400 farmers per square mile across Rokugan's ~60,000 sq mi of rice-suitable land:
+
+```
+400 farmers/sq mi * 60,000 sq mi = ~24,000,000 farmers on rice-suitable terrain
+```
+
+This 24 million is the total farming population living on rice-suitable land.  Of these, roughly 8 million directly work the active wet paddies (the ~1/3 of rice-suitable area under active wet-paddy cultivation in any given year, per the labor-limited utilization frame discussed below); the remaining ~16 million work the supporting hillside soybean and azuki fields whose runoff fertilizes the paddies, the dryland fields for aftercrops and other Five Grains, the small share of upland-rice rotation, and the labor-fallow margins.  Together they constitute the human-economic system of the 60,000 sq mi rice-suitable region.
+
+Annual rice production at 3,000 koku per square mile:
+
+```
+3,000 koku/sq mi * 60,000 sq mi = 180,000,000 koku of rice (theoretical maximum at full utilization)
+                                * 1/3 (paddy utilization factor, see below)
+                                = 60,000,000 koku of rice per year
+```
+
+The 1/3 paddy utilization factor reflects the historical reality that wet-rice paddies, once established, can be cropped continuously for centuries without depleting the soil - the flooded paddy fixes atmospheric nitrogen via cyanobacteria, and silt from irrigation water carries in additional nutrients.  The constraint is therefore not soil exhaustion but labor.  Of Rokugan's ~60,000 sq mi of rice-suitable terrain (~152 sq mi per median-sized domain), only about 1/3 (~20,000 sq mi empire-wide, ~50 sq mi per median-sized domain) is actively flooded wet paddy in any given year.  The rest splits roughly into hillside fields growing the soybeans and azuki beans whose runoff and household fertilizer cycling renew the paddies; dryland fields for aftercrops and other Five Grains; a small share given over to upland rice (which does require a multi-year rotation cycle, as the Sparrow Clan's well-documented misfortune demonstrates); and a substantial portion left genuinely fallow because there are not enough farmers to work it.
+
+Note that the 400 farmers/sq mi density is the upper bound, achievable in the best wet-rice paddies; the per-tier population breakdowns elsewhere in this document imply an effective average closer to 300 farmers/sq mi when rice and non-rice land are combined.  This reflects an important historical truth: in most periods and places, farm output was more limited by the number of farmers than the amount of good farmland, and even the prosperous Rokugan (where farming is a punishingly harsh lifestyle by modern standards while being idyllic compared to most historical periods) has large amounts of fallow land in every domain.  In comparative terms, Rokugan's rice-land-per-capita (~600 sq mi per million inhabitants) puts it in roughly the same range as Song and Ming China during their more prosperous and comfortable periods, well below the demographic squeeze of Tokugawa Japan (~310 sq mi per million) or late Qing China (~290-350 sq mi per million).  The Empire has substantial room for population growth into its existing arable base, and the long-run trajectory has been steady expansion: Rokugan a thousand years ago supported only a fraction of its current population, and even allowing for periodic famines and Shadowlands wars, the population continues to grow toward a carrying capacity it is still well short of.
+
+#### Other Per-Domain Derivations
+
+A few smaller calculations that anchor the per-parcel and per-family numbers used elsewhere in this document:
+
+**County and domain family counts**: a county has `156 families (town) + 6 * 70 families per village + 36 * 15 families per hamlet = 1,116 farming families`.  A domain has `36 * 1,116 = 40,176` farming families.
+
+**Average koku per family**: a domain has ~250,000 population, and assuming ~2 koku worth of food per person, that's `500,000 koku per year / 40,176 families ~= 12.45 koku per family`.  This rounds up to ~15 koku per family on average, reflecting a typical surplus.
+
+**Merchant land allocation**: if each "merchant, other" family owned a single parcel, that would total `(12 * 36) + (90 * 6) + 360 = 1,332 parcels = 3.32% of the domain`.  The total number of "merchant, rich" families per domain is `(36 * 2.4) + (6 * 18) + 72 = 266`, and "merchant, very rich" is `(6 * 12) + 48 = 120`.  Assuming roughly 5,000 parcels are owned by samurai, that leaves `40,176 - 1,332 - 5,000 = 33,844 parcels` for distribution among the merchant families.
+
+**Government-officials count**: across a domain's 7 cities (one capital plus six provincial cities), each of the 6 Ministries has a Minister and a Deputy Minister, so `2 * 6 * 7 = 84 ministers and deputy ministers`.  Adding the 6 chancellors on the House council brings the domain's senior officialdom to roughly 90 samurai.  If each comes from a different immediate family, that represents about 9% of the domain's samurai families.
+
 ### Unit Conversions: land area to rice koku
 
 | Unit | Area | Yield (koku) |
@@ -1536,7 +1646,7 @@ These are the farming households living inside each settlement type (per the cas
 
 ### Arable Land Allocation (per Domain)
 
-This table describes the **land available** in a median domain, not the land actively cropped in a given year (see the labor-limited note below).  Shares follow [l7r.md - Rokugan Arable-Land Extrapolation](l7r.md#rokugan-arable-land-extrapolation): 15% of total land is arable, of which 4% (of total) is rice-suitable and the remaining 11% is non-rice arable.
+This table describes the **land available** in a median domain, not the land actively cropped in a given year (see the labor-limited note below).  Shares follow [Rokugan Arable-Land Extrapolation](#rokugan-arable-land-extrapolation): 15% of total land is arable, of which 4% (of total) is rice-suitable and the remaining 11% is non-rice arable.
 
 | Type | Total domain land (sq mi) | Arable share | Arable area (sq mi) | In acres |
 | --- | --- | --- | --- | --- |
@@ -1544,7 +1654,7 @@ This table describes the **land available** in a median domain, not the land act
 | Non-rice arable | 3,750 | 11% | 412.5 | 264,000 |
 | **Total arable** | 3,750 | 15% | 562.5 | 360,000 |
 
-**Note on labor utilization (not land utilization)**: Rokugan is currently **labor-limited, not land-limited** (per [l7r.md - Total Rice Production](l7r.md#total-rice-production)).  Of the 150 sq mi of rice-suitable land in a median domain, only about **1/3 (~50 sq mi) is in active wet-paddy production** in any given year - that ~50 sq mi yields ~50 × 3,000 = **~150,000 koku of rice per median domain** (which is exactly the canonical empire-wide ~60M koku ÷ 400 median-size-equivalents).  The other ~2/3 of rice-suitable land, plus the non-rice arable, grows the supporting hillside soybean and azuki fields, dryland aftercrops and other Five Grains, a small share of upland rice in multi-year rotation, and a substantial portion left genuinely fallow because there are not enough farmers to work it.  The constraint is wet-paddy labor, not soil: an established paddy can be cropped continuously for centuries (the flooded field fixes nitrogen and silt renews nutrients), so the latent rice-suitable land would come under the plow as population grows.  The ~40,176 farm families of the domain (per [Farm Families by Tier](#farm-families-by-tier-per-domain) above) work this land; for tax purposes the median family's output is reckoned at ~15 koku (taxed at 1/3 = ~5 koku), per [l7r.md - Rent and taxes](l7r.md#rent-and-taxes).
+**Note on labor utilization (not land utilization)**: Rokugan is currently **labor-limited, not land-limited** (per [Total Rice Production](#total-rice-production)).  Of the 150 sq mi of rice-suitable land in a median domain, only about **1/3 (~50 sq mi) is in active wet-paddy production** in any given year - that ~50 sq mi yields ~50 × 3,000 = **~150,000 koku of rice per median domain** (which is exactly the canonical empire-wide ~60M koku ÷ 400 median-size-equivalents).  The other ~2/3 of rice-suitable land, plus the non-rice arable, grows the supporting hillside soybean and azuki fields, dryland aftercrops and other Five Grains, a small share of upland rice in multi-year rotation, and a substantial portion left genuinely fallow because there are not enough farmers to work it.  The constraint is wet-paddy labor, not soil: an established paddy can be cropped continuously for centuries (the flooded field fixes nitrogen and silt renews nutrients), so the latent rice-suitable land would come under the plow as population grows.  The ~40,176 farm families of the domain (per [Farm Families by Tier](#farm-families-by-tier-per-domain) above) work this land; for tax purposes the median family's output is reckoned at ~15 koku (taxed at 1/3 = ~5 koku), per [l7r.md - Rent and taxes](l7r.md#rent-and-taxes).
 
 ### Rice Productivity by Land Quality
 
@@ -1558,7 +1668,7 @@ This table describes the **land available** in a median domain, not the land act
 | **Total** |  |  | **1.00** | **3308.46** |  |
 | Average | 12.77 | 3308.46 |  | 3308.46 |  |
 
-The land-quality shares sum to 1.00; the weighted-average ~3,300 koku/sq mi sits within the ~3,000-3,600 convergence range derived in [l7r.md - Yield Reference](l7r.md#yield-reference), and downstream calculations use the round-number 3,000 koku/sq mi.
+The land-quality shares sum to 1.00; the weighted-average ~3,300 koku/sq mi sits within the ~3,000-3,600 convergence range derived in [Yield Reference](#yield-reference), and downstream calculations use the round-number 3,000 koku/sq mi.
 
 ### Wheat Productivity by Land Quality
 
