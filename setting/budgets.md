@@ -23,6 +23,12 @@ Per-tier budget breakdowns for the median domain hierarchy, plus supporting tabl
   - [Skilled Ashigaru](#skilled-ashigaru)
   - [Ashigaru](#ashigaru)
   - [Budget](#budget-2)
+- [Capital City](#capital-city)
+- [Provincial City](#provincial-city)
+- [Town](#town)
+- [Village](#village)
+- [Hamlet](#hamlet)
+- [Samurai Concentration by City Size and the Capital](#samurai-concentration-by-city-size-and-the-capital)
 - [Ministry Budgets](#ministry-budgets)
   - [Domain Ministry Budgets](#domain-ministry-budgets)
   - [Provincial Ministry Budgets](#provincial-ministry-budgets)
@@ -49,7 +55,6 @@ Per-tier budget breakdowns for the median domain hierarchy, plus supporting tabl
     - [Discretionary residual](#discretionary-residual-2)
     - [Isao's discretionary breakdown](#isaos-discretionary-breakdown)
     - [Summary](#summary-2)
-- [Samurai Concentration by City Size and the Capital](#samurai-concentration-by-city-size-and-the-capital)
 - [The Imperial Budget](#the-imperial-budget)
   - [Imperial Revenue](#imperial-revenue-33-40-million-koku-per-year-at-canonical-baseline)
   - [Imperial Spending](#imperial-spending-27-42-million-koku-per-year)
@@ -60,11 +65,6 @@ Per-tier budget breakdowns for the median domain hierarchy, plus supporting tabl
   - [Kaiu Wall Direct Contributions: Line-Item Detail](#kaiu-wall-direct-contributions-line-item-detail)
   - [Imperial Magistrates and Their Staff: Line-Item Detail](#imperial-magistrates-and-their-staff-line-item-detail)
   - [Imperial Savings: the "Wealth in Favors Owed" Model](#imperial-savings-the-wealth-in-favors-owed-model)
-- [Capital City](#capital-city)
-- [Provincial City](#provincial-city)
-- [Town](#town)
-- [Village](#village)
-- [Hamlet](#hamlet)
 - [Tax Pie](#tax-pie)
 - [Land Productivity](#land-productivity)
   - [Unit Conversions: land area to rice koku](#unit-conversions-land-area-to-rice-koku)
@@ -351,6 +351,294 @@ As with the [Domain population table](#domain) above, this sums only named settl
 | Total | 1445 |
 | Remainder | 4958 |
 
+## Capital City
+
+Total population: **~12,000**.
+
+| P | Caste | Population | Families | Property | Business | Land | Total Tax |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 20 | Servants | 2400 | 480 |  |  |  | 672 |
+| 0 | servants, tutors | 0 | 0 | 0 | 0 | 0 | 0 |
+| 0 | servants, temple | 0 | 0 | 0 | 0 | 0 | 0 |
+| 5 | servants, wealthy samurai families | 600 | 120 | 2 | 0 | 0 | 240 |
+| 3 | servants, wealthy merchant families | 360 | 72 | 2 | 0 | 0 | 144 |
+| 7 | servants, non-wealthy samurai families | 840 | 168 | 1 | 0 | 0 | 168 |
+| 3 | servants, non-wealthy merchant families | 360 | 72 | 1 | 0 | 0 | 72 |
+| 2 | servants, miscellaneous | 240 | 48 | 1 | 0 | 0 | 48 |
+| 40 | Laborers | 4800 | 960 |  |  |  | 5760 |
+| 5 | laborers, master (rich) | 600 | 120 | 10 | 25 | 0 | 4200 |
+| 5 | laborers, poor | 600 | 120 | 1 | 0 | 0 | 120 |
+| 30 | laborers, other | 3600 | 720 | 2 | 0 | 0 | 1440 |
+| 25 | Merchants | 3000 | 600 |  |  |  | 18240 |
+| 2 | merchants, very rich | 240 | 48 | 25 | 225 | 0 | 12000 |
+| 3 | merchants, rich | 360 | 72 | 10 | 25 | 0 | 2520 |
+| 5 | merchants, poor | 600 | 120 | 1 | 3 | 0 | 480 |
+| 15 | merchants, other | 1800 | 360 | 2 | 7 | 0 | 3240 |
+| 5 | Burakumin | 600 | 120 |  |  |  | 216 |
+| 0.5 | burakumin, well-off | 60 | 12 | 2 | 7 | 0 | 108 |
+| 3 | burakumin, poor | 360 | 72 | 1 | 0 | 0 | 72 |
+| 1.5 | burakumin, very poor | 180 | 36 | 1 | 0 | 0 | 36 |
+| 0 | Farmers | 0 | 0 |  |  |  | 0 |
+| 0 | farmer, urban tenant farmer | 0 | 0 | 2 | 0 | 15 | 0 |
+| 0 | farmer, temple urban tenant farmer | 0 | 0 | 0 | 0 | 0 | 0 |
+| 0 | farmer, rural tenant farmer | 0 | 0 | 2 | 0 | 15 | 0 |
+| 0 | farmer, poor freeholder | 0 | 0 | 2 | 0 | 15 | 0 |
+| 0 | farmer, freeholder | 0 | 0 | 2 | 0 | 15 | 0 |
+| 0 | farmer, wealthy landowner | 0 | 0 | 5 | 0 | 15 | 0 |
+| 10 | Samurai (domestic) | 1200 | 240 |  |  |  | 0 |
+| 1 | samurai, merchants | 120 | 24 | 0 | 0 | 0 | 0 |
+| 1 | samurai, courtiers | 120 | 24 | 0 | 0 | 0 | 0 |
+| 8 | samurai, bushi | 960 | 192 | 0 | 0 | 0 | 0 |
+| 0 | samurai, shugenja | 0 | 0 | 0 | 0 | 0 | 0 |
+| 100 | Total | 12000 | 2400 |  |  |  | 24888 |
+| +3 | samurai, relocated county families (non-working) | ~360 | ~72 | 0 | 0 | 0 | 0 |
+| +0.4 | samurai, foreign (Imperial appointees) | ~45 | ~12 | 0 | 0 | 0 | 0 |
+
+**Samurai composition note**: the capital's settled-population breakdown (~12,000) shows ~1,200 domestic samurai (10%), but its true resident samurai count is higher because the capital is the domain's schooling-and-retirement magnet.  Adding the **~360 non-working samurai whose families relocate here from the domain's county towns** (children sent to the capital's schools, elders retiring near the daimyo's court) brings the domestic total to **~1,560**, and the ~1,200 base itself is ~800 working (the cohort the daimyo pays, per the [Samurai sub-tables](#samurai-1)) plus ~400 non-working (children, retirees, and the families of the ~200 capital-born samurai serving the Empire abroad).  So the capital's resident domestic samurai run **~1,560 (~13% of its ~12,360 physical population)** - the highest samurai concentration of any settlement tier, exactly as a daimyo's castle-town seat should be (provincial cities sit at ~10%, county towns at ~1.7%, and the great mega-cities fall back toward ~4-6% as commerce dilutes them).  The working share is correspondingly low (~800 of ~1,560 ≈ 51%) because so many of the residents are dependents.  The **~45 foreign samurai** are the Imperial Magistrate's office (the IM, karo, ~5 household, ~25 office yoriki, plus ~12 accompanying family) - resident but paid by the Empire and their own home domains, not by Daimyo Isao.  Both the relocated and foreign cohorts are listed *additional* to the 12,000-person settled-population breakdown; with them the capital physically holds ~12,400 people.
+
+## Provincial City
+
+Total population: **~2,000-4,000, average ~3,000**.
+
+| P | Caste | Population | Families | Property | Business | Land | Total Tax |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 20 | Servants | 600 | 120 |  |  |  | 168 |
+| 0 | servants, tutors | 0 | 0 | 0 | 0 | 0 | 0 |
+| 0 | servants, temple | 0 | 0 | 0 | 0 | 0 | 0 |
+| 5 | servants, wealthy samurai families | 150 | 30 | 2 | 0 | 0 | 60 |
+| 3 | servants, wealthy merchant families | 90 | 18 | 2 | 0 | 0 | 36 |
+| 7 | Indentured servants, non-wealthy samurai families | 210 | 42 | 1 | 0 | 0 | 42 |
+| 3 | Indentured servants, non-wealthy merchant families | 90 | 18 | 1 | 0 | 0 | 18 |
+| 2 | servants, miscellaneous | 60 | 12 | 1 | 0 | 0 | 12 |
+| 40 | Laborers | 1200 | 240 |  |  |  | 1440 |
+| 5 | laborers, master (rich) | 150 | 30 | 10 | 25 | 0 | 1050 |
+| 5 | laborers, poor | 150 | 30 | 1 | 0 | 0 | 30 |
+| 30 | laborers, other | 900 | 180 | 2 | 0 | 0 | 360 |
+| 25 | Merchants | 750 | 150 |  |  |  | 4560 |
+| 2 | merchants, very rich | 60 | 12 | 25 | 225 | 0 | 3000 |
+| 3 | merchants, rich | 90 | 18 | 10 | 25 | 0 | 630 |
+| 5 | merchants, poor | 150 | 30 | 1 | 3 | 0 | 120 |
+| 15 | merchants, other | 450 | 90 | 2 | 7 | 0 | 810 |
+| 5 | Burakumin | 150 | 30 |  |  |  | 54 |
+| 0.5 | burakumin, well-off | 15 | 3 | 2 | 7 | 0 | 27 |
+| 3 | burakumin, poor | 90 | 18 | 1 | 0 | 0 | 18 |
+| 1.5 | burakumin, very poor | 45 | 9 | 1 | 0 | 0 | 9 |
+| 0 | Farmers | 0 | 0 |  |  |  | 0 |
+| 0 | farmer, urban tenant farmer | 0 | 0 | 2 | 0 | 15 | 0 |
+| 0 | farmer, temple urban tenant farmer | 0 | 0 | 0 | 0 | 0 | 0 |
+| 0 | farmer, rural tenant farmer | 0 | 0 | 2 | 0 | 15 | 0 |
+| 0 | farmer, poor freeholder | 0 | 0 | 2 | 0 | 15 | 0 |
+| 0 | farmer, freeholder | 0 | 0 | 2 | 0 | 15 | 0 |
+| 0 | farmer, wealthy landowner | 0 | 0 | 5 | 0 | 15 | 0 |
+| 10 | Samurai (domestic) | 300 | 60 |  |  |  |  |
+| 1 | samurai, merchants | 30 | 6 | 0 | 0 | 0 | 0 |
+| 1 | samurai, courtiers | 30 | 6 | 0 | 0 | 0 | 0 |
+| 8 | samurai, bushi | 240 | 48 | 0 | 0 | 0 | 0 |
+| 0 | samurai, shugenja | 0 | 0 | 0 | 0 | 0 | 0 |
+| 100 | Total | 3000 | 600 |  |  |  | 6222 |
+| +0.2 | samurai, foreign (Imperial appointees) | ~5 | ~1 | 0 | 0 | 0 | 0 |
+
+**Samurai composition note**: the 10% domestic samurai (~300) break down as ~225 working (the cohort the governor pays) plus ~75 non-working (children, retirees, and resident families of the ~25 provincial-born samurai serving the Empire abroad).  The **~5 foreign samurai** are the small Imperial yoriki sub-station that audits Yasuki Taka tariff collection at the provincial city's gate - resident but Empire-paid, listed additional to the 3,000-person settled-population breakdown.
+
+## Town
+
+Total population: **~900-1,500, average ~1,200**.
+
+| P | Caste | Population | Families | Property | Business | Land | Total Tax |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 5.5 | Servants | 66 | 13.2 |  |  |  | 18 |
+| 0 | servants, tutors | 0 | 0 | 0 | 0 | 0 | 0 |
+| 0 | servants, temple | 0 | 0 | 0 | 0 | 0 | 0 |
+| 1.5 | servants, wealthy samurai families | 18 | 3.6 | 2 | 0 | 0 | 7.2 |
+| 0.5 | servants, wealthy merchant families | 6 | 1.2 | 2 | 0 | 0 | 2.4 |
+| 0.5 | Indentured servants, non-wealthy samurai families | 6 | 1.2 | 1 | 0 | 0 | 1.2 |
+| 1 | Indentured servants, non-wealthy merchant families | 12 | 2.4 | 1 | 0 | 0 | 2.4 |
+| 2 | servants, miscellaneous | 24 | 4.8 | 1 | 0 | 0 | 4.8 |
+| 12 | Laborers | 144 | 28.8 |  |  |  | 86.4 |
+| 1 | laborers, master (rich) | 12 | 2.4 | 5 | 20 | 0 | 60 |
+| 1 | laborers, poor | 12 | 2.4 | 1 | 0 | 0 | 2.4 |
+| 10 | laborers, other | 120 | 24 | 1 | 0 | 0 | 24 |
+| 10 | Merchants | 120 | 24 |  |  |  | 698.4 |
+| 1 | merchants, very rich | 12 | 2.4 | 10 | 225 | 0 | 564 |
+| 1 | merchants, rich | 12 | 2.4 | 5 | 20 | 0 | 60 |
+| 3 | merchants, poor | 36 | 7.2 | 1 | 1 | 0 | 14.4 |
+| 5 | merchants, other | 60 | 12 | 1 | 4 | 0 | 60 |
+| 5 | Burakumin | 60 | 12 |  |  |  | 20.4 |
+| 0.5 | burakumin, well-off | 6 | 1.2 | 1 | 7 | 0 | 9.6 |
+| 3 | burakumin, poor | 36 | 7.2 | 1 | 0 | 0 | 7.2 |
+| 1.5 | burakumin, very poor | 18 | 3.6 | 1 | 0 | 0 | 3.6 |
+| 0 | burakumin, maho-tsukai | 0 | 0 | 1 | 0 | 0 | 0 |
+| 65 | Farmers | 780 | 156 |  |  |  | 780 |
+| 0 | farmer, urban tenant farmer | 0 | 0 | 0 | 0 | 5 | 0 |
+| 0 | farmer, temple urban tenant farmer | 0 | 0 | 0 | 0 | 0 | 0 |
+| 55 | farmer, rural tenant farmer | 660 | 132 | 0 | 0 | 5 | 660 |
+| 2.5 | farmer, poor freeholder | 30 | 6 | 0 | 0 | 5 | 30 |
+| 5 | farmer, freeholder | 60 | 12 | 0 | 0 | 5 | 60 |
+| 2.5 | farmer, wealthy landowner | 30 | 6 | 0 | 0 | 5 | 30 |
+| 1.7 | Samurai | 20 | 4 |  |  |  |  |
+| 0 | samurai, merchants | 0 | 0 |  |  |  |  |
+| 0 | samurai, courtiers | 0 | 0 |  |  |  |  |
+| 1.7 | samurai, bushi | 20 | 4 |  |  |  |  |
+| 0 | samurai, shugenja | 0 | 0 |  |  |  |  |
+| 100 | Total | 1190 | 238 |  |  |  | 1603.2 |
+
+**Samurai composition note**: a county town holds only ~20 resident samurai, of which ~15 are working (the magistrate and their staff - a full platoon) and only ~5 are non-working.  This is a far higher working share (~75%) than any city, because **county samurai families largely do not live in the remote county seat**: children are sent up-tier to the provincial city or domain capital for schooling, and elders retire there, so the dependents who would otherwise pad the count reside in those larger centers (see the [Capital City](#capital-city) note).  The ~10 family members per town who relocate up account for the ~360-per-domain shift that lifts the capital's resident samurai to ~13%.  The town's tax base (~1,603) is unchanged - samurai pay no property/business tax, so their relocation does not move it.
+
+## Village
+
+Total in-village population: **~200-500, average ~350**.
+
+| P | Caste | Population | Families | Property | Business | Land | Total Tax |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 0 | Servants | 0 | 0 |  |  |  | 0 |
+| 0 | servants, tutors | 0 | 0 | 0 | 0 | 0 | 0 |
+| 0 | servants, temple | 0 | 0 | 0 | 0 | 0 | 0 |
+| 0 | servants, wealthy samurai families | 0 | 0 | 2 | 0 | 0 | 0 |
+| 0 | servants, wealthy merchant families | 0 | 0 | 2 | 0 | 0 | 0 |
+| 0 | servants, non-wealthy samurai families | 0 | 0 | 1 | 0 | 0 | 0 |
+| 0 | servants, non-wealthy merchant families | 0 | 0 | 1 | 0 | 0 | 0 |
+| 0 | servants, miscellaneous | 0 | 0 | 1 | 0 | 0 | 0 |
+| 0 | Laborers | 0 | 0 |  |  |  | 0 |
+| 0 | laborers, master (rich) | 0 | 0 | 5 | 25 | 0 | 0 |
+| 0 | laborers, poor | 0 | 0 | 1 | 0 | 0 | 0 |
+| 0 | laborers, other | 0 | 0 | 1 | 0 | 0 | 0 |
+| 0 | Merchants | 0 | 0 |  |  |  | 0 |
+| 0 | merchants, very rich | 0 | 0 | 10 | 225 | 0 | 0 |
+| 0 | merchants, rich | 0 | 0 | 5 | 25 | 0 | 0 |
+| 0 | merchants, poor | 0 | 0 | 1 | 3 | 0 | 0 |
+| 0 | merchants, other | 0 | 0 | 1 | 7 | 0 | 0 |
+| 0 | Burakumin | 0 | 0 |  |  |  | 0 |
+| 0 | burakumin, well-off | 0 | 0 | 1 | 7 | 0 | 0 |
+| 0 | burakumin, poor | 0 | 0 | 1 | 0 | 0 | 0 |
+| 0 | burakumin, very poor | 0 | 0 | 1 | 0 | 0 | 0 |
+| 100 | Farmers | 350 | 70 |  |  |  | 350 |
+| 0 | farmer, urban tenant farmer | 0 | 0 | 0 | 0 | 5 | 0 |
+| 0 | farmer, temple urban tenant farmer | 0 | 0 | 0 | 0 | 0 | 0 |
+| 80 | farmer, rural tenant farmer | 280 | 56 | 0 | 0 | 5 | 280 |
+| 5 | farmer, poor freeholder | 17.5 | 3.5 | 0 | 0 | 5 | 17.5 |
+| 10 | farmer, freeholder | 35 | 7 | 0 | 0 | 5 | 35 |
+| 5 | farmer, wealthy landowner | 17.5 | 3.5 | 0 | 0 | 5 | 17.5 |
+| 0 | Samurai | 0 | 0 |  |  |  |  |
+| 0 | samurai, merchants | 0 | 0 |  |  |  |  |
+| 0 | samurai, courtiers | 0 | 0 |  |  |  |  |
+| 0 | samurai, bushi | 0 | 0 |  |  |  |  |
+| 0 | samurai, shugenja | 0 | 0 |  |  |  |  |
+| 100 | Total | 350 | 70 |  |  |  | 350 |
+
+## Hamlet
+
+Total population: **~50-100, average ~75**.
+
+| P | Caste | Population | Families | Property | Business | Land | Total Tax |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 0 | Servants | 0 | 0 |  |  |  | 0 |
+| 0 | servants, tutors | 0 | 0 | 0 | 0 | 0 | 0 |
+| 0 | servants, temple | 0 | 0 | 0 | 0 | 0 | 0 |
+| 0 | servants, wealthy samurai families | 0 | 0 | 2 | 0 | 0 | 0 |
+| 0 | servants, wealthy merchant families | 0 | 0 | 2 | 0 | 0 | 0 |
+| 0 | servants, non-wealthy samurai families | 0 | 0 | 1 | 0 | 0 | 0 |
+| 0 | servants, non-wealthy merchant families | 0 | 0 | 1 | 0 | 0 | 0 |
+| 0 | servants, miscellaneous | 0 | 0 | 1 | 0 | 0 | 0 |
+| 0 | Laborers | 0 | 0 |  |  |  | 0 |
+| 0 | laborers, master (rich) | 0 | 0 | 5 | 25 | 0 | 0 |
+| 0 | laborers, poor | 0 | 0 | 1 | 0 | 0 | 0 |
+| 0 | laborers, other | 0 | 0 | 1 | 0 | 0 | 0 |
+| 0 | Merchants | 0 | 0 |  |  |  | 0 |
+| 0 | merchants, very rich | 0 | 0 | 10 | 225 | 0 | 0 |
+| 0 | merchants, rich | 0 | 0 | 5 | 25 | 0 | 0 |
+| 0 | merchants, poor | 0 | 0 | 1 | 3 | 0 | 0 |
+| 0 | merchants, other | 0 | 0 | 1 | 7 | 0 | 0 |
+| 0 | Burakumin | 0 | 0 |  |  |  | 0 |
+| 0 | burakumin, well-off | 0 | 0 | 1 | 7 | 0 | 0 |
+| 0 | burakumin, poor | 0 | 0 | 1 | 0 | 0 | 0 |
+| 0 | burakumin, very poor | 0 | 0 | 1 | 0 | 0 | 0 |
+| 100 | Farmers | 75 | 15 |  |  |  | 75 |
+| 0 | farmer, urban tenant farmer | 0 | 0 | 0 | 0 | 5 | 0 |
+| 0 | farmer, temple urban tenant farmer | 0 | 0 | 0 | 0 | 0 | 0 |
+| 80 | farmer, rural tenant farmer | 60 | 12 | 0 | 0 | 5 | 60 |
+| 5 | farmer, poor freeholder | 3.75 | 0.75 | 0 | 0 | 5 | 3.75 |
+| 10 | farmer, freeholder | 7.5 | 1.5 | 0 | 0 | 5 | 7.5 |
+| 5 | farmer, wealthy landowner | 3.75 | 0.75 | 0 | 0 | 5 | 3.75 |
+| 0 | Samurai | 0 | 0 |  |  |  |  |
+| 0 | samurai, merchants | 0 | 0 |  |  |  |  |
+| 0 | samurai, courtiers | 0 | 0 |  |  |  |  |
+| 0 | samurai, bushi | 0 | 0 |  |  |  |  |
+| 0 | samurai, shugenja | 0 | 0 |  |  |  |  |
+| 100 | Total | 75 | 15 |  |  |  | 75 |
+
+## Samurai Concentration by City Size and the Capital
+
+The per-tier caste tables in [`l7r.md` - Demographics](l7r.md#demographics) establish that samurai are ~2% of the Empire's total population (~5,000 per median domain).  But this 2% is not distributed evenly across settlement types, and the way it varies with city size is structurally important both for understanding the Empire and for computing the samurai population of Otosan Uchi.
+
+### The Sub-Linear Scaling Principle
+
+**Capital cities of large premodern empires consistently have a *lower* elite percentage than their provincial counterparts, because the absolute size of the administrative cohort scales sub-linearly with city size while the commercial and service population scales roughly linearly.**  A city twice as large does not need twice as many magistrates, ministers, and clerks - administrative need grows more slowly than population - but it does attract roughly twice as many merchants, laborers, servants, and artisans to serve that larger population.  The elite fraction therefore shrinks as the city grows, even as the absolute number of elites rises.
+
+This pattern is robust across analogous premodern capitals:
+
+| Capital | Era | Population | Elite class | Elite % |
+| --- | --- | --- | --- | --- |
+| Tang Chang'an | ~700 CE | ~1 million | scholar-officials + palace establishment | ~2-3% |
+| Northern Song Kaifeng | ~1100 | ~1 million | scholar-officials | ~1-3% |
+| Heian-kyo (Kyoto) at peak | ~1000 | ~400,000 | kuge (court nobility) | ~1-3% |
+| Ming Beijing | ~1500 | ~700,000 | officials + eunuchs + Imperial Guard | ~5-10% |
+| Joseon Hanyang (Seoul) | ~1700 | ~200,000 | yangban (scholar-gentry) | ~5-15% |
+| Qing Beijing | ~1750 | ~700,000 | bannermen (hereditary military caste) | ~14-20% |
+| Tokugawa Edo | ~1850 | ~1 million | samurai | ~60% |
+
+Tokugawa Edo is the dramatic outlier, and the reason is instructive: its ~60% samurai concentration is a direct consequence of *sankin kotai* (the alternate-attendance system), which forced every daimyo to maintain a massive permanent Edo establishment - family, retainers, and guards numbering in the thousands - with the daimyo themselves resident half of every year.  Without that extreme forced-residence mechanism, Edo would have looked far more like the ~5-10% range of the other military-aristocratic capitals.  The "natural" range for a million-population East Asian capital with a strong elite-military presence but no *sankin-kotai*-style concentration mechanism is roughly **3-7%**.
+
+Rokugan deliberately does **not** replicate the *sankin kotai* extreme.  Daimyo maintain embassies at Otosan Uchi (hostage family members, business agents, political representatives) and the Imperial families concentrate there, but daimyo are not required to reside in the capital, and there is no system forcing thousands of retainers per domain into permanent capital residence.  Otosan Uchi therefore lands in the lower part of the natural band.
+
+### The By-Size Schedule
+
+Combining the sub-linear principle with the canonical caste tables produces the following schedule of samurai concentration by settlement size, using **total resident samurai** as the basis (counting working samurai, pre-gempukku children, and retirees alike, consistent with the ~2% Empire-wide and ~10% median-capital population figures in the caste tables).  The working cohort that actually draws stipends is a subset of these totals - roughly the ~60% domain-wide working ratio, running somewhat higher inside cities where senior officials and their smaller households cluster, per [What the Samurai Counts Mean](#what-the-samurai-counts-mean):
+
+| Settlement | Population | Samurai % | Resident samurai (approx) |
+| --- | --- | --- | --- |
+| Hamlet / village | 75-500 | 0% | 0 |
+| County town | ~1,190 | ~1.7% | ~20 |
+| Provincial city | ~3,000 | ~10% | ~300 |
+| Median domain capital | ~12,400 | ~13% | ~1,560 |
+| Mid-size capital | ~30,000-90,000 | ~8-9% | ~2,500-7,500 |
+| Large capital (e.g. Kyuden Daidoji ~200K) | ~200,000 | ~6% | ~12,000 |
+| Very large city (e.g. Toshi Ranbo ~300K) | ~300,000 | ~5% | ~15,000 |
+| Largest non-capital city (Ryoko Owari ~500K) | ~500,000 | ~4.5% | ~22,500 |
+| **Otosan Uchi** | **~1,000,000** | **~4%** | **~40,000** |
+
+The schedule captures the key shape: samurai concentration is near-zero in the countryside, rises to a **peak of ~13% at the median domain capital** - the daimyo's castle-town seat, which concentrates not only the senior administrative cohort but the schooling-and-retirement households of samurai families from across the domain (including the county towns, which run correspondingly light at ~1.7%) - and then **declines steadily** for larger cities as commercial and service populations outgrow the samurai cohort.  Provincial cities sit a step below the capital at ~10% (they are administrative centers but not the family magnet the capital is); larger clan and family capitals, despite far more samurai in absolute terms, fall back toward ~6-9% as their sheer commercial size dilutes the concentration, all the way down to Otosan Uchi at ~4%.  (This ~13% capital peak is a deliberately restrained echo of the historical castle town, where the daimyo's seat ran 30-60% samurai; Rokugan's capitals are far more commercial.)
+
+### Otosan Uchi: ~40,000 Samurai
+
+At 4% of its ~1 million inhabitants, Otosan Uchi has approximately **40,000 resident samurai** - exactly twice the ~2% samurai share of the Empire's population as a whole.  That the largest, most central city in the Empire concentrates samurai at only twice the baseline rate (rather than 10x or 30x) is a deliberate and revealing feature of the setting: even at the very heart of samurai power, samurai remain a small minority of the people doing the actual work of the city.  (See the thematic discussion in [`l7r.md` - Demographics](l7r.md#demographics) on what this 2%-everywhere reality means for what samurai can and cannot know about their own Empire.)
+
+The ~40,000 break down approximately as follows:
+
+| OU-resident samurai cohort | Approx count | Notes |
+| --- | --- | --- |
+| Imperial families resident at the capital | ~11,000 | More than half of the Hantei are based at Otosan Uchi, along with substantial fractions of the Seppun, Otomo, and Miya (the remainder administer the Imperial families' own 9 domains and serve as Imperial appointees scattered across the Empire).  Includes family members, household, and the Imperial-family officials staffing the inner palace and senior central posts |
+| Clan-supplied samurai staffing Imperial central functions at OU | ~13,000 | The OU-resident workforce of the 6 Imperial Ministries' central operations, the Otosan Uchi local government (administering ~1 million inhabitants), the Imperial Household guard, the Emerald Champion's central staff, and the central judicial machinery.  Imperial-paid; drawn from across the clans (part of the ~86,000 clan-supplied Imperial appointee pool discussed below) |
+| Daimyo embassies (one establishment per actual domain) | ~13,000 | Each of the ~284 actual domains maintains a permanent OU establishment: hostage family members (a structural feature of Imperial politics), business agents pursuing capital commerce, and political representatives cultivating alliances and Imperial favor.  Scales with domain tier: clan capitals ~120 each (× 7 = ~840), family capitals ~90 each (× 30 = ~2,700), vassal houses ~38 each (× 247 = ~9,400).  Clan-paid, not Imperial posts |
+| Private samurai | ~3,000 | Independent agents, students attending capital institutions, ronin seeking patronage, and bushi retained by the great merchant houses |
+| **Total** | **~40,000** | ~4% of the ~1 million population |
+
+The district-governor system documented in the Otosan Uchi material (in which certain favored houses administer entire city districts) layers additional structure onto the clan-supplied and embassy cohorts, but does not change the aggregate ~40,000 figure and does not affect the median domain, so it is set aside here.
+
+### What This Means for the Median Domain
+
+Running the OU population back through the median domain: if ~40,000 of the Empire's ~2,000,000 total samurai (2% of ~100 million inhabitants) reside at Otosan Uchi, then **~2% of all samurai live in the capital at any given time**.  Applied to a median domain's ~5,000 total samurai, that predicts **~100 of a median domain's samurai are at Otosan Uchi** at any moment.
+
+For the Reiji-style vassal-house domain, this ~100 breaks down as:
+
+| Reiji samurai at Otosan Uchi | Approx count | Status |
+| --- | --- | --- |
+| Reiji's permanent OU embassy (hostage family + business/political agents) | ~38 | Clan-paid representation, NOT an Imperial post |
+| Reiji samurai in clan-supplied Imperial central posts at OU | ~50 | Imperial-paid; a subset of Reiji's ~300 outgoing Imperial appointees (see [Total Imperial Appointee Samurai](#total-imperial-appointee-samurai-empire-wide-synthesis)) |
+| Private Reiji samurai at OU (agents, students, etc.) | ~12 | Private; not on any payroll |
+| **Total Reiji samurai at OU** | **~100** | ~2% of Reiji's ~5,000 total samurai |
+
+This is a small but politically consequential cohort.  Note that vassal houses like Reiji sit slightly *below* the per-clan average for OU presence: the great clan and family capitals maintain far larger embassies (~120 and ~90 vs Reiji's ~38) and supply more senior central officials, so they pull the per-clan OU fraction up above 2% while vassal houses sit a touch below it.  Domains geographically closer to the capital also tend to maintain larger and more active OU establishments than distant frontier domains, though the hostage-politics floor applies to every domain regardless of distance.
+
 ## Ministry Budgets
 
 **Note on the term "tax farming"**: This document uses "tax farming" in its loose modern English sense - the structural pattern of officials keeping a share of taxes they collect as their compensation.  Strictly, tax farming refers to the Roman *publicani* model where collection rights were auctioned to private contractors who paid the state a fixed sum upfront and pocketed whatever they could extract above it.  The Rokugan system isn't that: Rokugani officials are appointed through the civil-service examination and chancellery selection process, not auctioned, and the size of each office's cut is fixed by tradition rather than competitive bidding.  Structurally, the Rokugan arrangement is closer to the Tokugawa *chigyō* (fief grant) or the medieval European prebend (office-attached income), where the official is a state official whose compensation is an attached tax allocation.  "Tax farming" is used here because it conveys the right intuition (the office-holder profits from extraction efficiency) and is the established casual English usage for this broader pattern, including in modern descriptions of the Mughal *jagir* and Ottoman *timar* systems which were similarly appointment-based rather than auctioned.
@@ -501,7 +789,7 @@ Nagahara is a province in the Reiji domain (Crab clan), containing Seitoyama cou
 | Source | Annual koku | Notes |
 | --- | --- | --- |
 | Tax obligation from 6 county magistrates (~5,000 each) | ~30,000 | Standard provincial-tier share of county tax revenue; Hikai's ~5,000 obligation is one of these six |
-| Provincial city direct tax base (property + business; dominated by very-rich and rich merchant households) | ~6,200 | Per the Provincial City caste table below |
+| Provincial city direct tax base (property + business; dominated by very-rich and rich merchant households) | ~6,200 | Per the Provincial City caste table above |
 | Provincial city import tariffs (Yasuki Taka system at the city gates; 13% effective rate × ~52,000 koku of imported goods sold annually) | ~6,800 | Varies by trade volume; Nagahara is a typical inland Crab province with steady but moderate caravan traffic through its provincial city, primarily from neighboring Scorpion lands.  The 13% effective rate reflects the Reiji's Hida-vassal status: the 2% family-daimyo layer is absorbed into the clan-daimyo layer (since both are Hida Kisada), giving an 8% kick-up layer instead of the standard 10%, plus the ~5% average daimyo cut (out of the ≤10% legal maximum the daimyo can charge).  All of this tariff revenue passes up the chain - 100% of it is either kick-ups or daimyo's portion, with none retained at the provincial level |
 | **Total provincial throughput** |  | **~43,000** |
 
@@ -575,7 +863,7 @@ The Reiji are a fairly typical inland Crab domain: agricultural-base economy, mo
 | Source | Annual koku | Notes |
 | --- | --- | --- |
 | Tax obligation from 6 provincial governors (~23,500 each) | ~141,000 | Standard domain-tier share of provincial revenue; Asuka's ~23,500 obligation is one of these six.  Each governor's obligation decomposes as ~16,200 land-tax kick-up plus ~6,800 of provincial-city tariff passthrough plus ~500 in samurai-stipend savings passed up (the governors' samurai who left for Imperial service); the kick-ups on tariffs are distributed at the daimyo's tier, not at the provincial tier |
-| Capital city direct tax base (property + business; dominated by the capital's larger and wealthier merchant population than provincial cities) | ~25,000 | Per the Capital City caste table below |
+| Capital city direct tax base (property + business; dominated by the capital's larger and wealthier merchant population than provincial cities) | ~25,000 | Per the Capital City caste table above |
 | Capital city import tariffs (Yasuki Taka system at the capital city gates; 13% effective rate × ~233,000 koku of imported goods sold annually) | ~30,000 | Substantial because the capital is the largest urban center in the domain (~12,000 inhabitants) and the principal caravan junction for trade through the Reiji domain; the 13% effective rate reflects the Reiji's Hida-vassal status (family-clan layer consolidated).  Like provincial tariffs, the full ~30,000 passes up to kick-ups (family/clan/Imperial) and the daimyo's own portion, not retained gross |
 | Domain mining royalties (iron and minor metal works from the hill country) | ~20,000 | A characteristic feature of Crab domains; the Reiji's inland hill country supports modest iron, tin, and copper works whose extracted value flows partly to the daimyo as a royalty |
 | Other domain-level revenue (large cross-province sake export licenses, craft monopolies such as silk and fine paper, special assessments / *komononari* on specific industries) | ~30,000 | The aggregated revenue from licenses and assessments that the daimyo collects directly rather than passing through the provincial tier |
@@ -641,79 +929,6 @@ This is specifically how Daimyo Isao chooses to allocate his ~63,000-koku total 
 Daimyo Hida no Reiji Isao is responsible for the financial operation of the Reiji domain, which generates ~246,000 koku in annual tax revenue at the daimyo's tier.  Of this, ~62,000 flows up to Hida Kisada (in his combined role as Hida family daimyo and Crab clan daimyo) and the Imperial center as the Reiji's 8% land-output kick-ups (a reduced rate from the standard 10%, reflecting the Reiji's Hida-vassal status); ~43,600 flows up as the Reiji's 8% tariff kick-ups on the domain's ~545,000 koku of imported-goods sales volume; ~32,000 funds the ~800 working capital samurai the daimyo pays (stipends + food + equipment); ~50,000 funds the six domain ministries' overhead budgets; ~1,400 covers minor domain administrative overhead.  This leaves Isao with a ~57,000-koku tax-derived discretionary allocation, supplemented by ~6,000 koku in seasonal gifts from across the domain and clan, for a total of ~63,000 koku per year.  After festivals, almsgiving, retainer and visitor hospitality, religious patronage (including the Kaiu Wall contribution), inter-domain political maintenance, and the customary lineage tithe (~34,500 in expected obligations), and after manor operations and personal household expenses (~13,200), ~15,300 koku remains for savings and truly-unconstrained spending - of which Isao saves ~13,000 against future obligations.  His truly-unconstrained spending is around ~2,300 koku per year, roughly 4.6x Governor Asuka's ~500 and ~38x Magistrate Hikai's ~60.
 
 This is a substantial lifestyle by any standard, but it is the lifestyle of a serious working official, not a leisure-class noble.  The daimyo's discretionary income is dominated by obligations of the office rather than freely-spent wealth.  Even the ~2,300 koku of truly-free spending represents only ~4% of total discretionary income - the same proportion as Asuka's ~4-5% and Hikai's ~5%, scaled by tier.  By all accounts Isao is a steady, virtuous-but-not-exceptional daimyo: he meets his clan and Imperial obligations on time, manages the Reiji ministries competently, contributes the expected manpower and material to the Wall, and has cultivated his lineage chancellor and his fellow Crab daimyo well enough to maintain political stability for his household.  A more politically ambitious daimyo would invest more heavily in clan-level relationships and Imperial Court visibility (paid from personal savings, often dramatically reducing the lean-year reserve); a less scrupulous one could divert substantially more to personal use through reduced almsgiving, reduced Kaiu Wall contributions, or transactional appointments - any of which would quickly invite scrutiny from Hida Kisada or the Imperial magistrate stationed in the Reiji capital.
-
-## Samurai Concentration by City Size and the Capital
-
-The per-tier caste tables in [`l7r.md` - Demographics](l7r.md#demographics) establish that samurai are ~2% of the Empire's total population (~5,000 per median domain).  But this 2% is not distributed evenly across settlement types, and the way it varies with city size is structurally important both for understanding the Empire and for computing the samurai population of Otosan Uchi.
-
-### The Sub-Linear Scaling Principle
-
-**Capital cities of large premodern empires consistently have a *lower* elite percentage than their provincial counterparts, because the absolute size of the administrative cohort scales sub-linearly with city size while the commercial and service population scales roughly linearly.**  A city twice as large does not need twice as many magistrates, ministers, and clerks - administrative need grows more slowly than population - but it does attract roughly twice as many merchants, laborers, servants, and artisans to serve that larger population.  The elite fraction therefore shrinks as the city grows, even as the absolute number of elites rises.
-
-This pattern is robust across analogous premodern capitals:
-
-| Capital | Era | Population | Elite class | Elite % |
-| --- | --- | --- | --- | --- |
-| Tang Chang'an | ~700 CE | ~1 million | scholar-officials + palace establishment | ~2-3% |
-| Northern Song Kaifeng | ~1100 | ~1 million | scholar-officials | ~1-3% |
-| Heian-kyo (Kyoto) at peak | ~1000 | ~400,000 | kuge (court nobility) | ~1-3% |
-| Ming Beijing | ~1500 | ~700,000 | officials + eunuchs + Imperial Guard | ~5-10% |
-| Joseon Hanyang (Seoul) | ~1700 | ~200,000 | yangban (scholar-gentry) | ~5-15% |
-| Qing Beijing | ~1750 | ~700,000 | bannermen (hereditary military caste) | ~14-20% |
-| Tokugawa Edo | ~1850 | ~1 million | samurai | ~60% |
-
-Tokugawa Edo is the dramatic outlier, and the reason is instructive: its ~60% samurai concentration is a direct consequence of *sankin kotai* (the alternate-attendance system), which forced every daimyo to maintain a massive permanent Edo establishment - family, retainers, and guards numbering in the thousands - with the daimyo themselves resident half of every year.  Without that extreme forced-residence mechanism, Edo would have looked far more like the ~5-10% range of the other military-aristocratic capitals.  The "natural" range for a million-population East Asian capital with a strong elite-military presence but no *sankin-kotai*-style concentration mechanism is roughly **3-7%**.
-
-Rokugan deliberately does **not** replicate the *sankin kotai* extreme.  Daimyo maintain embassies at Otosan Uchi (hostage family members, business agents, political representatives) and the Imperial families concentrate there, but daimyo are not required to reside in the capital, and there is no system forcing thousands of retainers per domain into permanent capital residence.  Otosan Uchi therefore lands in the lower part of the natural band.
-
-### The By-Size Schedule
-
-Combining the sub-linear principle with the canonical caste tables produces the following schedule of samurai concentration by settlement size, using **total resident samurai** as the basis (counting working samurai, pre-gempukku children, and retirees alike, consistent with the ~2% Empire-wide and ~10% median-capital population figures in the caste tables).  The working cohort that actually draws stipends is a subset of these totals - roughly the ~60% domain-wide working ratio, running somewhat higher inside cities where senior officials and their smaller households cluster, per [What the Samurai Counts Mean](#what-the-samurai-counts-mean):
-
-| Settlement | Population | Samurai % | Resident samurai (approx) |
-| --- | --- | --- | --- |
-| Hamlet / village | 75-500 | 0% | 0 |
-| County town | ~1,190 | ~1.7% | ~20 |
-| Provincial city | ~3,000 | ~10% | ~300 |
-| Median domain capital | ~12,400 | ~13% | ~1,560 |
-| Mid-size capital | ~30,000-90,000 | ~8-9% | ~2,500-7,500 |
-| Large capital (e.g. Kyuden Daidoji ~200K) | ~200,000 | ~6% | ~12,000 |
-| Very large city (e.g. Toshi Ranbo ~300K) | ~300,000 | ~5% | ~15,000 |
-| Largest non-capital city (Ryoko Owari ~500K) | ~500,000 | ~4.5% | ~22,500 |
-| **Otosan Uchi** | **~1,000,000** | **~4%** | **~40,000** |
-
-The schedule captures the key shape: samurai concentration is near-zero in the countryside, rises to a **peak of ~13% at the median domain capital** - the daimyo's castle-town seat, which concentrates not only the senior administrative cohort but the schooling-and-retirement households of samurai families from across the domain (including the county towns, which run correspondingly light at ~1.7%) - and then **declines steadily** for larger cities as commercial and service populations outgrow the samurai cohort.  Provincial cities sit a step below the capital at ~10% (they are administrative centers but not the family magnet the capital is); larger clan and family capitals, despite far more samurai in absolute terms, fall back toward ~6-9% as their sheer commercial size dilutes the concentration, all the way down to Otosan Uchi at ~4%.  (This ~13% capital peak is a deliberately restrained echo of the historical castle town, where the daimyo's seat ran 30-60% samurai; Rokugan's capitals are far more commercial.)
-
-### Otosan Uchi: ~40,000 Samurai
-
-At 4% of its ~1 million inhabitants, Otosan Uchi has approximately **40,000 resident samurai** - exactly twice the ~2% samurai share of the Empire's population as a whole.  That the largest, most central city in the Empire concentrates samurai at only twice the baseline rate (rather than 10x or 30x) is a deliberate and revealing feature of the setting: even at the very heart of samurai power, samurai remain a small minority of the people doing the actual work of the city.  (See the thematic discussion in [`l7r.md` - Demographics](l7r.md#demographics) on what this 2%-everywhere reality means for what samurai can and cannot know about their own Empire.)
-
-The ~40,000 break down approximately as follows:
-
-| OU-resident samurai cohort | Approx count | Notes |
-| --- | --- | --- |
-| Imperial families resident at the capital | ~11,000 | More than half of the Hantei are based at Otosan Uchi, along with substantial fractions of the Seppun, Otomo, and Miya (the remainder administer the Imperial families' own 9 domains and serve as Imperial appointees scattered across the Empire).  Includes family members, household, and the Imperial-family officials staffing the inner palace and senior central posts |
-| Clan-supplied samurai staffing Imperial central functions at OU | ~13,000 | The OU-resident workforce of the 6 Imperial Ministries' central operations, the Otosan Uchi local government (administering ~1 million inhabitants), the Imperial Household guard, the Emerald Champion's central staff, and the central judicial machinery.  Imperial-paid; drawn from across the clans (part of the ~86,000 clan-supplied Imperial appointee pool discussed below) |
-| Daimyo embassies (one establishment per actual domain) | ~13,000 | Each of the ~284 actual domains maintains a permanent OU establishment: hostage family members (a structural feature of Imperial politics), business agents pursuing capital commerce, and political representatives cultivating alliances and Imperial favor.  Scales with domain tier: clan capitals ~120 each (× 7 = ~840), family capitals ~90 each (× 30 = ~2,700), vassal houses ~38 each (× 247 = ~9,400).  Clan-paid, not Imperial posts |
-| Private samurai | ~3,000 | Independent agents, students attending capital institutions, ronin seeking patronage, and bushi retained by the great merchant houses |
-| **Total** | **~40,000** | ~4% of the ~1 million population |
-
-The district-governor system documented in the Otosan Uchi material (in which certain favored houses administer entire city districts) layers additional structure onto the clan-supplied and embassy cohorts, but does not change the aggregate ~40,000 figure and does not affect the median domain, so it is set aside here.
-
-### What This Means for the Median Domain
-
-Running the OU population back through the median domain: if ~40,000 of the Empire's ~2,000,000 total samurai (2% of ~100 million inhabitants) reside at Otosan Uchi, then **~2% of all samurai live in the capital at any given time**.  Applied to a median domain's ~5,000 total samurai, that predicts **~100 of a median domain's samurai are at Otosan Uchi** at any moment.
-
-For the Reiji-style vassal-house domain, this ~100 breaks down as:
-
-| Reiji samurai at Otosan Uchi | Approx count | Status |
-| --- | --- | --- |
-| Reiji's permanent OU embassy (hostage family + business/political agents) | ~38 | Clan-paid representation, NOT an Imperial post |
-| Reiji samurai in clan-supplied Imperial central posts at OU | ~50 | Imperial-paid; a subset of Reiji's ~300 outgoing Imperial appointees (see [Total Imperial Appointee Samurai](#total-imperial-appointee-samurai-empire-wide-synthesis)) |
-| Private Reiji samurai at OU (agents, students, etc.) | ~12 | Private; not on any payroll |
-| **Total Reiji samurai at OU** | **~100** | ~2% of Reiji's ~5,000 total samurai |
-
-This is a small but politically consequential cohort.  Note that vassal houses like Reiji sit slightly *below* the per-clan average for OU presence: the great clan and family capitals maintain far larger embassies (~120 and ~90 vs Reiji's ~38) and supply more senior central officials, so they pull the per-clan OU fraction up above 2% while vassal houses sit a touch below it.  Domains geographically closer to the capital also tend to maintain larger and more active OU establishments than distant frontier domains, though the hostage-politics floor applies to every domain regardless of distance.
 
 ## The Imperial Budget
 
@@ -1275,221 +1490,6 @@ The principle is canonically illustrated in the following story of Hantei the Te
 > Hantei the X then smiled and turned to his Miya heralds.  "Go out to the Imperial court and tell all present that Hantei the Tenth requires funds.  Ask what each present can pledge to be delivered to the Imperial palace today.  Not in time, not what funds they can raise with effort, but what they can deliver as a gift by nightfall this very day.  Do not instruct them to make this delivery, merely ask what can be supplied and report back with the totals."
 >
 > A few more minutes passed, and the Miya heralds returned.  A quick calculation showed that the amount of money pledged was far higher than the increase in the Imperial treasury which Taka's proposal had purported to be worth.  Thus, the greatest money manager in the history of the Empire was humbled by the Hantei's wisdom.
-
-## Capital City
-
-Total population: **~12,000**.
-
-| P | Caste | Population | Families | Property | Business | Land | Total Tax |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 20 | Servants | 2400 | 480 |  |  |  | 672 |
-| 0 | servants, tutors | 0 | 0 | 0 | 0 | 0 | 0 |
-| 0 | servants, temple | 0 | 0 | 0 | 0 | 0 | 0 |
-| 5 | servants, wealthy samurai families | 600 | 120 | 2 | 0 | 0 | 240 |
-| 3 | servants, wealthy merchant families | 360 | 72 | 2 | 0 | 0 | 144 |
-| 7 | servants, non-wealthy samurai families | 840 | 168 | 1 | 0 | 0 | 168 |
-| 3 | servants, non-wealthy merchant families | 360 | 72 | 1 | 0 | 0 | 72 |
-| 2 | servants, miscellaneous | 240 | 48 | 1 | 0 | 0 | 48 |
-| 40 | Laborers | 4800 | 960 |  |  |  | 5760 |
-| 5 | laborers, master (rich) | 600 | 120 | 10 | 25 | 0 | 4200 |
-| 5 | laborers, poor | 600 | 120 | 1 | 0 | 0 | 120 |
-| 30 | laborers, other | 3600 | 720 | 2 | 0 | 0 | 1440 |
-| 25 | Merchants | 3000 | 600 |  |  |  | 18240 |
-| 2 | merchants, very rich | 240 | 48 | 25 | 225 | 0 | 12000 |
-| 3 | merchants, rich | 360 | 72 | 10 | 25 | 0 | 2520 |
-| 5 | merchants, poor | 600 | 120 | 1 | 3 | 0 | 480 |
-| 15 | merchants, other | 1800 | 360 | 2 | 7 | 0 | 3240 |
-| 5 | Burakumin | 600 | 120 |  |  |  | 216 |
-| 0.5 | burakumin, well-off | 60 | 12 | 2 | 7 | 0 | 108 |
-| 3 | burakumin, poor | 360 | 72 | 1 | 0 | 0 | 72 |
-| 1.5 | burakumin, very poor | 180 | 36 | 1 | 0 | 0 | 36 |
-| 0 | Farmers | 0 | 0 |  |  |  | 0 |
-| 0 | farmer, urban tenant farmer | 0 | 0 | 2 | 0 | 15 | 0 |
-| 0 | farmer, temple urban tenant farmer | 0 | 0 | 0 | 0 | 0 | 0 |
-| 0 | farmer, rural tenant farmer | 0 | 0 | 2 | 0 | 15 | 0 |
-| 0 | farmer, poor freeholder | 0 | 0 | 2 | 0 | 15 | 0 |
-| 0 | farmer, freeholder | 0 | 0 | 2 | 0 | 15 | 0 |
-| 0 | farmer, wealthy landowner | 0 | 0 | 5 | 0 | 15 | 0 |
-| 10 | Samurai (domestic) | 1200 | 240 |  |  |  | 0 |
-| 1 | samurai, merchants | 120 | 24 | 0 | 0 | 0 | 0 |
-| 1 | samurai, courtiers | 120 | 24 | 0 | 0 | 0 | 0 |
-| 8 | samurai, bushi | 960 | 192 | 0 | 0 | 0 | 0 |
-| 0 | samurai, shugenja | 0 | 0 | 0 | 0 | 0 | 0 |
-| 100 | Total | 12000 | 2400 |  |  |  | 24888 |
-| +3 | samurai, relocated county families (non-working) | ~360 | ~72 | 0 | 0 | 0 | 0 |
-| +0.4 | samurai, foreign (Imperial appointees) | ~45 | ~12 | 0 | 0 | 0 | 0 |
-
-**Samurai composition note**: the capital's settled-population breakdown (~12,000) shows ~1,200 domestic samurai (10%), but its true resident samurai count is higher because the capital is the domain's schooling-and-retirement magnet.  Adding the **~360 non-working samurai whose families relocate here from the domain's county towns** (children sent to the capital's schools, elders retiring near the daimyo's court) brings the domestic total to **~1,560**, and the ~1,200 base itself is ~800 working (the cohort the daimyo pays, per the [Samurai sub-tables](#samurai-1)) plus ~400 non-working (children, retirees, and the families of the ~200 capital-born samurai serving the Empire abroad).  So the capital's resident domestic samurai run **~1,560 (~13% of its ~12,360 physical population)** - the highest samurai concentration of any settlement tier, exactly as a daimyo's castle-town seat should be (provincial cities sit at ~10%, county towns at ~1.7%, and the great mega-cities fall back toward ~4-6% as commerce dilutes them).  The working share is correspondingly low (~800 of ~1,560 ≈ 51%) because so many of the residents are dependents.  The **~45 foreign samurai** are the Imperial Magistrate's office (the IM, karo, ~5 household, ~25 office yoriki, plus ~12 accompanying family) - resident but paid by the Empire and their own home domains, not by Daimyo Isao.  Both the relocated and foreign cohorts are listed *additional* to the 12,000-person settled-population breakdown; with them the capital physically holds ~12,400 people.
-
-## Provincial City
-
-Total population: **~2,000-4,000, average ~3,000**.
-
-| P | Caste | Population | Families | Property | Business | Land | Total Tax |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 20 | Servants | 600 | 120 |  |  |  | 168 |
-| 0 | servants, tutors | 0 | 0 | 0 | 0 | 0 | 0 |
-| 0 | servants, temple | 0 | 0 | 0 | 0 | 0 | 0 |
-| 5 | servants, wealthy samurai families | 150 | 30 | 2 | 0 | 0 | 60 |
-| 3 | servants, wealthy merchant families | 90 | 18 | 2 | 0 | 0 | 36 |
-| 7 | Indentured servants, non-wealthy samurai families | 210 | 42 | 1 | 0 | 0 | 42 |
-| 3 | Indentured servants, non-wealthy merchant families | 90 | 18 | 1 | 0 | 0 | 18 |
-| 2 | servants, miscellaneous | 60 | 12 | 1 | 0 | 0 | 12 |
-| 40 | Laborers | 1200 | 240 |  |  |  | 1440 |
-| 5 | laborers, master (rich) | 150 | 30 | 10 | 25 | 0 | 1050 |
-| 5 | laborers, poor | 150 | 30 | 1 | 0 | 0 | 30 |
-| 30 | laborers, other | 900 | 180 | 2 | 0 | 0 | 360 |
-| 25 | Merchants | 750 | 150 |  |  |  | 4560 |
-| 2 | merchants, very rich | 60 | 12 | 25 | 225 | 0 | 3000 |
-| 3 | merchants, rich | 90 | 18 | 10 | 25 | 0 | 630 |
-| 5 | merchants, poor | 150 | 30 | 1 | 3 | 0 | 120 |
-| 15 | merchants, other | 450 | 90 | 2 | 7 | 0 | 810 |
-| 5 | Burakumin | 150 | 30 |  |  |  | 54 |
-| 0.5 | burakumin, well-off | 15 | 3 | 2 | 7 | 0 | 27 |
-| 3 | burakumin, poor | 90 | 18 | 1 | 0 | 0 | 18 |
-| 1.5 | burakumin, very poor | 45 | 9 | 1 | 0 | 0 | 9 |
-| 0 | Farmers | 0 | 0 |  |  |  | 0 |
-| 0 | farmer, urban tenant farmer | 0 | 0 | 2 | 0 | 15 | 0 |
-| 0 | farmer, temple urban tenant farmer | 0 | 0 | 0 | 0 | 0 | 0 |
-| 0 | farmer, rural tenant farmer | 0 | 0 | 2 | 0 | 15 | 0 |
-| 0 | farmer, poor freeholder | 0 | 0 | 2 | 0 | 15 | 0 |
-| 0 | farmer, freeholder | 0 | 0 | 2 | 0 | 15 | 0 |
-| 0 | farmer, wealthy landowner | 0 | 0 | 5 | 0 | 15 | 0 |
-| 10 | Samurai (domestic) | 300 | 60 |  |  |  |  |
-| 1 | samurai, merchants | 30 | 6 | 0 | 0 | 0 | 0 |
-| 1 | samurai, courtiers | 30 | 6 | 0 | 0 | 0 | 0 |
-| 8 | samurai, bushi | 240 | 48 | 0 | 0 | 0 | 0 |
-| 0 | samurai, shugenja | 0 | 0 | 0 | 0 | 0 | 0 |
-| 100 | Total | 3000 | 600 |  |  |  | 6222 |
-| +0.2 | samurai, foreign (Imperial appointees) | ~5 | ~1 | 0 | 0 | 0 | 0 |
-
-**Samurai composition note**: the 10% domestic samurai (~300) break down as ~225 working (the cohort the governor pays) plus ~75 non-working (children, retirees, and resident families of the ~25 provincial-born samurai serving the Empire abroad).  The **~5 foreign samurai** are the small Imperial yoriki sub-station that audits Yasuki Taka tariff collection at the provincial city's gate - resident but Empire-paid, listed additional to the 3,000-person settled-population breakdown.
-
-## Town
-
-Total population: **~900-1,500, average ~1,200**.
-
-| P | Caste | Population | Families | Property | Business | Land | Total Tax |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 5.5 | Servants | 66 | 13.2 |  |  |  | 18 |
-| 0 | servants, tutors | 0 | 0 | 0 | 0 | 0 | 0 |
-| 0 | servants, temple | 0 | 0 | 0 | 0 | 0 | 0 |
-| 1.5 | servants, wealthy samurai families | 18 | 3.6 | 2 | 0 | 0 | 7.2 |
-| 0.5 | servants, wealthy merchant families | 6 | 1.2 | 2 | 0 | 0 | 2.4 |
-| 0.5 | Indentured servants, non-wealthy samurai families | 6 | 1.2 | 1 | 0 | 0 | 1.2 |
-| 1 | Indentured servants, non-wealthy merchant families | 12 | 2.4 | 1 | 0 | 0 | 2.4 |
-| 2 | servants, miscellaneous | 24 | 4.8 | 1 | 0 | 0 | 4.8 |
-| 12 | Laborers | 144 | 28.8 |  |  |  | 86.4 |
-| 1 | laborers, master (rich) | 12 | 2.4 | 5 | 20 | 0 | 60 |
-| 1 | laborers, poor | 12 | 2.4 | 1 | 0 | 0 | 2.4 |
-| 10 | laborers, other | 120 | 24 | 1 | 0 | 0 | 24 |
-| 10 | Merchants | 120 | 24 |  |  |  | 698.4 |
-| 1 | merchants, very rich | 12 | 2.4 | 10 | 225 | 0 | 564 |
-| 1 | merchants, rich | 12 | 2.4 | 5 | 20 | 0 | 60 |
-| 3 | merchants, poor | 36 | 7.2 | 1 | 1 | 0 | 14.4 |
-| 5 | merchants, other | 60 | 12 | 1 | 4 | 0 | 60 |
-| 5 | Burakumin | 60 | 12 |  |  |  | 20.4 |
-| 0.5 | burakumin, well-off | 6 | 1.2 | 1 | 7 | 0 | 9.6 |
-| 3 | burakumin, poor | 36 | 7.2 | 1 | 0 | 0 | 7.2 |
-| 1.5 | burakumin, very poor | 18 | 3.6 | 1 | 0 | 0 | 3.6 |
-| 0 | burakumin, maho-tsukai | 0 | 0 | 1 | 0 | 0 | 0 |
-| 65 | Farmers | 780 | 156 |  |  |  | 780 |
-| 0 | farmer, urban tenant farmer | 0 | 0 | 0 | 0 | 5 | 0 |
-| 0 | farmer, temple urban tenant farmer | 0 | 0 | 0 | 0 | 0 | 0 |
-| 55 | farmer, rural tenant farmer | 660 | 132 | 0 | 0 | 5 | 660 |
-| 2.5 | farmer, poor freeholder | 30 | 6 | 0 | 0 | 5 | 30 |
-| 5 | farmer, freeholder | 60 | 12 | 0 | 0 | 5 | 60 |
-| 2.5 | farmer, wealthy landowner | 30 | 6 | 0 | 0 | 5 | 30 |
-| 1.7 | Samurai | 20 | 4 |  |  |  |  |
-| 0 | samurai, merchants | 0 | 0 |  |  |  |  |
-| 0 | samurai, courtiers | 0 | 0 |  |  |  |  |
-| 1.7 | samurai, bushi | 20 | 4 |  |  |  |  |
-| 0 | samurai, shugenja | 0 | 0 |  |  |  |  |
-| 100 | Total | 1190 | 238 |  |  |  | 1603.2 |
-
-**Samurai composition note**: a county town holds only ~20 resident samurai, of which ~15 are working (the magistrate and their staff - a full platoon) and only ~5 are non-working.  This is a far higher working share (~75%) than any city, because **county samurai families largely do not live in the remote county seat**: children are sent up-tier to the provincial city or domain capital for schooling, and elders retire there, so the dependents who would otherwise pad the count reside in those larger centers (see the [Capital City](#capital-city) note).  The ~10 family members per town who relocate up account for the ~360-per-domain shift that lifts the capital's resident samurai to ~13%.  The town's tax base (~1,603) is unchanged - samurai pay no property/business tax, so their relocation does not move it.
-
-## Village
-
-Total in-village population: **~200-500, average ~350**.
-
-| P | Caste | Population | Families | Property | Business | Land | Total Tax |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 0 | Servants | 0 | 0 |  |  |  | 0 |
-| 0 | servants, tutors | 0 | 0 | 0 | 0 | 0 | 0 |
-| 0 | servants, temple | 0 | 0 | 0 | 0 | 0 | 0 |
-| 0 | servants, wealthy samurai families | 0 | 0 | 2 | 0 | 0 | 0 |
-| 0 | servants, wealthy merchant families | 0 | 0 | 2 | 0 | 0 | 0 |
-| 0 | servants, non-wealthy samurai families | 0 | 0 | 1 | 0 | 0 | 0 |
-| 0 | servants, non-wealthy merchant families | 0 | 0 | 1 | 0 | 0 | 0 |
-| 0 | servants, miscellaneous | 0 | 0 | 1 | 0 | 0 | 0 |
-| 0 | Laborers | 0 | 0 |  |  |  | 0 |
-| 0 | laborers, master (rich) | 0 | 0 | 5 | 25 | 0 | 0 |
-| 0 | laborers, poor | 0 | 0 | 1 | 0 | 0 | 0 |
-| 0 | laborers, other | 0 | 0 | 1 | 0 | 0 | 0 |
-| 0 | Merchants | 0 | 0 |  |  |  | 0 |
-| 0 | merchants, very rich | 0 | 0 | 10 | 225 | 0 | 0 |
-| 0 | merchants, rich | 0 | 0 | 5 | 25 | 0 | 0 |
-| 0 | merchants, poor | 0 | 0 | 1 | 3 | 0 | 0 |
-| 0 | merchants, other | 0 | 0 | 1 | 7 | 0 | 0 |
-| 0 | Burakumin | 0 | 0 |  |  |  | 0 |
-| 0 | burakumin, well-off | 0 | 0 | 1 | 7 | 0 | 0 |
-| 0 | burakumin, poor | 0 | 0 | 1 | 0 | 0 | 0 |
-| 0 | burakumin, very poor | 0 | 0 | 1 | 0 | 0 | 0 |
-| 100 | Farmers | 350 | 70 |  |  |  | 350 |
-| 0 | farmer, urban tenant farmer | 0 | 0 | 0 | 0 | 5 | 0 |
-| 0 | farmer, temple urban tenant farmer | 0 | 0 | 0 | 0 | 0 | 0 |
-| 80 | farmer, rural tenant farmer | 280 | 56 | 0 | 0 | 5 | 280 |
-| 5 | farmer, poor freeholder | 17.5 | 3.5 | 0 | 0 | 5 | 17.5 |
-| 10 | farmer, freeholder | 35 | 7 | 0 | 0 | 5 | 35 |
-| 5 | farmer, wealthy landowner | 17.5 | 3.5 | 0 | 0 | 5 | 17.5 |
-| 0 | Samurai | 0 | 0 |  |  |  |  |
-| 0 | samurai, merchants | 0 | 0 |  |  |  |  |
-| 0 | samurai, courtiers | 0 | 0 |  |  |  |  |
-| 0 | samurai, bushi | 0 | 0 |  |  |  |  |
-| 0 | samurai, shugenja | 0 | 0 |  |  |  |  |
-| 100 | Total | 350 | 70 |  |  |  | 350 |
-
-## Hamlet
-
-Total population: **~50-100, average ~75**.
-
-| P | Caste | Population | Families | Property | Business | Land | Total Tax |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 0 | Servants | 0 | 0 |  |  |  | 0 |
-| 0 | servants, tutors | 0 | 0 | 0 | 0 | 0 | 0 |
-| 0 | servants, temple | 0 | 0 | 0 | 0 | 0 | 0 |
-| 0 | servants, wealthy samurai families | 0 | 0 | 2 | 0 | 0 | 0 |
-| 0 | servants, wealthy merchant families | 0 | 0 | 2 | 0 | 0 | 0 |
-| 0 | servants, non-wealthy samurai families | 0 | 0 | 1 | 0 | 0 | 0 |
-| 0 | servants, non-wealthy merchant families | 0 | 0 | 1 | 0 | 0 | 0 |
-| 0 | servants, miscellaneous | 0 | 0 | 1 | 0 | 0 | 0 |
-| 0 | Laborers | 0 | 0 |  |  |  | 0 |
-| 0 | laborers, master (rich) | 0 | 0 | 5 | 25 | 0 | 0 |
-| 0 | laborers, poor | 0 | 0 | 1 | 0 | 0 | 0 |
-| 0 | laborers, other | 0 | 0 | 1 | 0 | 0 | 0 |
-| 0 | Merchants | 0 | 0 |  |  |  | 0 |
-| 0 | merchants, very rich | 0 | 0 | 10 | 225 | 0 | 0 |
-| 0 | merchants, rich | 0 | 0 | 5 | 25 | 0 | 0 |
-| 0 | merchants, poor | 0 | 0 | 1 | 3 | 0 | 0 |
-| 0 | merchants, other | 0 | 0 | 1 | 7 | 0 | 0 |
-| 0 | Burakumin | 0 | 0 |  |  |  | 0 |
-| 0 | burakumin, well-off | 0 | 0 | 1 | 7 | 0 | 0 |
-| 0 | burakumin, poor | 0 | 0 | 1 | 0 | 0 | 0 |
-| 0 | burakumin, very poor | 0 | 0 | 1 | 0 | 0 | 0 |
-| 100 | Farmers | 75 | 15 |  |  |  | 75 |
-| 0 | farmer, urban tenant farmer | 0 | 0 | 0 | 0 | 5 | 0 |
-| 0 | farmer, temple urban tenant farmer | 0 | 0 | 0 | 0 | 0 | 0 |
-| 80 | farmer, rural tenant farmer | 60 | 12 | 0 | 0 | 5 | 60 |
-| 5 | farmer, poor freeholder | 3.75 | 0.75 | 0 | 0 | 5 | 3.75 |
-| 10 | farmer, freeholder | 7.5 | 1.5 | 0 | 0 | 5 | 7.5 |
-| 5 | farmer, wealthy landowner | 3.75 | 0.75 | 0 | 0 | 5 | 3.75 |
-| 0 | Samurai | 0 | 0 |  |  |  |  |
-| 0 | samurai, merchants | 0 | 0 |  |  |  |  |
-| 0 | samurai, courtiers | 0 | 0 |  |  |  |  |
-| 0 | samurai, bushi | 0 | 0 |  |  |  |  |
-| 0 | samurai, shugenja | 0 | 0 |  |  |  |  |
-| 100 | Total | 75 | 15 |  |  |  | 75 |
 
 ## Tax Pie
 
