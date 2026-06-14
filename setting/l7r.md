@@ -3,7 +3,6 @@
 - [The Setting](#the-setting)
   - [Hierarchies](#hierarchies)
   - [The Median Domain](#the-median-domain)
-  - [Rice and Arable-Land Math](#rice-and-arable-land-math)
   - [Place Names](#place-names)
   - [Castes](#castes)
   - [Money](#money)
@@ -186,109 +185,6 @@ These are samurai counted at their **home domain** even when posted elsewhere, s
 Note that county towns are the lowest level at which samurai live.  Village districts are farming communities populated by peasant farmers with no samurai living there.  At most a samurai family might maintain a country estate close to some farmland, but the estate would never be considered to be part of the village/hamlet and most certainly would not be under the authority of any peasant village headsman.  For tax and population accounting, however, the estate's output is tallied under the nearest village district as a bookkeeping convenience - a separate matter from authority - so a country estate, unlike a genuinely unregistered farm, still counts within the domain's settled population totals rather than among the off-the-books fringe.
 
 Samurai are typically ~80% bushi (warriors), ~10% courtiers, and ~10% merchants, though this varies by Clan and Family.
-
-### Rice and Arable-Land Math
-
-The demographic figures above (population counts, koku-per-parcel output, rice-production totals) are anchored in real-world historical agricultural data, converted from Chinese units into Rokugan's koku-on-the-rice-standard.
-
-#### Historical Units
-
-A few units used in the conversion math:
-
-- **mu**: a unit of area equal to 1/15 hectare
-- **shi**: a unit of volume equal to about a bushel, or 155.168 jin of rice
-- **jin**: a unit of weight equal to 1.33 lbs
-- A traditional reference figure: 3.33 shi of rice is enough to feed a person for a year
-- **1 koku = 200 pounds**, which combined with the gallon-based definition of a koku produces the cross-conversion paths below
-
-#### Yield Reference
-
-Real-world rice yields in twentieth-century Hunan China were 284.40 jin/mu and 4.00 shi/mu.  Two independent unit-conversion paths produce a koku-per-square-mile figure consistent with that yield, after applying the deflation factors appropriate to each path's starting figure.
-
-Path A (jin-based, deflated for milling loss):
-
-```
-284.4 jin/mu (early-20th-century Hunan, ~2.1 tons/hectare)
-             * 15 mu/hectare
-             * 258.998811 hectares/square_mile
-             * 1.33 pounds/jin
-             * 2.5 cups/pound
-             * 0.0625 gallons/cup
-             * 0.025 koku/gallon
-             = ~5,740 koku per square mile (raw harvested rice)
-             * ~0.63 milling factor (rough harvested rice to consumable polished rice, ~37% mass loss)
-             = ~3,616 koku per square mile of consumable rice
-```
-
-Path B (ton-based, deflated for premodern productivity):
-
-```
-4 tons/hectare (modern post-Green-Revolution Hunan yield)
-              * 2204.62262 pounds/ton
-              * 0.003314280067510029 koku/pound
-              * 258.998811 hectares/square_mile
-              = ~7,569 koku per square mile (modern productivity)
-              * ~0.40 premodern productivity deflator (4 t/ha modern -> ~1.6 t/ha empire-wide premodern average)
-              = ~3,000 koku per square mile under premodern conditions
-```
-
-The two paths apply different implicit deflators because their starting points are different.  Path A's 284.4 jin/mu is an early-20th-century figure already close to premodern productivity (the Green Revolution had not yet transformed Chinese yields when this measurement was made), so only milling loss needs to be applied to convert harvested rough rice into consumable polished rice.  Path B's 4 tons/hectare is a modern post-Green-Revolution figure, so it requires a much larger deflation to bring it back to historically realistic premodern yields, but no separate milling adjustment - the resulting figure is already in unmilled-koku terms, matching the *kokudaka* convention used throughout these notes.
-
-The two paths converge on ~3,000 to 3,600 koku per square mile, and downstream calculations use the round-number version of 3,000.  This is on the LOW side of premodern East Asian rice productivity (Tokugawa Japanese paddies averaged ~4,500-5,500 koku/sq mi, southern Chinese Yangtze-delta paddies could exceed 5,500 koku/sq mi at the Song-Ming peak), which is appropriate for an empire-wide average that includes Rokugan's many marginal-quality paddies in northern, mountain, and frontier regions alongside its prime southern rice country.
-
-#### Historical Household-Size Guidelines
-
-The same ancient Chinese sources provide some calibration on how much land a single household could work:
-
-- 10 mu was about the maximum a single landowner could manage on his own; more than that required tenant farmers.
-- 100 mu was the ideal land size for a household of five.
-- 20-30 mu was more typical for such a household in crowded metro areas.
-- Small household (1-3 members): could work 0.1-5.0 mu
-- Medium household (4-5 members): could work 5.1-19.5 mu
-- Large household (8-9 members): could work 20.0-38.5 mu
-
-For comparative scale: early Ming China had approximately 40 million hectares of land under cultivation supporting a population of 65 million people.
-
-#### Rokugan Arable-Land Extrapolation
-
-Applying these yields to Rokugan's 1.5 million square miles:
-
-- **15% of Rokugan is arable**: approximately 225,000 square miles total, or ~560 square miles per median-sized domain.
-- **4% is suitable for rice farming**: approximately 60,000 square miles total, or ~152 square miles per median-sized domain.  This 4% figure follows imperial Chinese norms (historically ~3-5% of total area, depending on period); Tokugawa Japan's higher ~6% paddy share is not the right anchor for Rokugan, whose continental geography includes mountain ranges, arid borderlands, and frontier regions without close Japanese analogues.
-
-#### Total Rice Production
-
-At an assumed density of 400 farmers per square mile across Rokugan's ~60,000 sq mi of rice-suitable land:
-
-```
-400 farmers/sq mi * 60,000 sq mi = ~24,000,000 farmers on rice-suitable terrain
-```
-
-This 24 million is the total farming population living on rice-suitable land.  Of these, roughly 8 million directly work the active wet paddies (the ~1/3 of rice-suitable area under active wet-paddy cultivation in any given year, per the labor-limited utilization frame discussed below); the remaining ~16 million work the supporting hillside soybean and azuki fields whose runoff fertilizes the paddies, the dryland fields for aftercrops and other Five Grains, the small share of upland-rice rotation, and the labor-fallow margins.  Together they constitute the human-economic system of the 60,000 sq mi rice-suitable region.
-
-Annual rice production at 3,000 koku per square mile:
-
-```
-3,000 koku/sq mi * 60,000 sq mi = 180,000,000 koku of rice (theoretical maximum at full utilization)
-                                * 1/3 (paddy utilization factor, see below)
-                                = 60,000,000 koku of rice per year
-```
-
-The 1/3 paddy utilization factor reflects the historical reality that wet-rice paddies, once established, can be cropped continuously for centuries without depleting the soil - the flooded paddy fixes atmospheric nitrogen via cyanobacteria, and silt from irrigation water carries in additional nutrients.  The constraint is therefore not soil exhaustion but labor.  Of Rokugan's ~60,000 sq mi of rice-suitable terrain (~152 sq mi per median-sized domain), only about 1/3 (~20,000 sq mi empire-wide, ~50 sq mi per median-sized domain) is actively flooded wet paddy in any given year.  The rest splits roughly into hillside fields growing the soybeans and azuki beans whose runoff and household fertilizer cycling renew the paddies; dryland fields for aftercrops and other Five Grains; a small share given over to upland rice (which does require a multi-year rotation cycle, as the Sparrow Clan's well-documented misfortune demonstrates); and a substantial portion left genuinely fallow because there are not enough farmers to work it.
-
-Note that the 400 farmers/sq mi density is the upper bound, achievable in the best wet-rice paddies; the per-tier population breakdowns elsewhere in this document imply an effective average closer to 300 farmers/sq mi when rice and non-rice land are combined.  This reflects an important historical truth: in most periods and places, farm output was more limited by the number of farmers than the amount of good farmland, and even the prosperous Rokugan (where farming is a punishingly harsh lifestyle by modern standards while being idyllic compared to most historical periods) has large amounts of fallow land in every domain.  In comparative terms, Rokugan's rice-land-per-capita (~600 sq mi per million inhabitants) puts it in roughly the same range as Song and Ming China during their more prosperous and comfortable periods, well below the demographic squeeze of Tokugawa Japan (~310 sq mi per million) or late Qing China (~290-350 sq mi per million).  The Empire has substantial room for population growth into its existing arable base, and the long-run trajectory has been steady expansion: Rokugan a thousand years ago supported only a fraction of its current population, and even allowing for periodic famines and Shadowlands wars, the population continues to grow toward a carrying capacity it is still well short of.
-
-#### Other Per-Domain Derivations
-
-A few smaller calculations that anchor the per-parcel and per-family numbers used elsewhere in this document:
-
-**County and domain family counts**: a county has `156 families (town) + 6 * 70 families per village + 36 * 15 families per hamlet = 1,116 farming families`.  A domain has `36 * 1,116 = 40,176` farming families.
-
-**Average koku per family**: a domain has ~250,000 population, and assuming ~2 koku worth of food per person, that's `500,000 koku per year / 40,176 families ~= 12.45 koku per family`.  This rounds up to ~15 koku per family on average, reflecting a typical surplus.
-
-**Merchant land allocation**: if each "merchant, other" family owned a single parcel, that would total `(12 * 36) + (90 * 6) + 360 = 1,332 parcels = 3.32% of the domain`.  The total number of "merchant, rich" families per domain is `(36 * 2.4) + (6 * 18) + 72 = 266`, and "merchant, very rich" is `(6 * 12) + 48 = 120`.  Assuming roughly 5,000 parcels are owned by samurai, that leaves `40,176 - 1,332 - 5,000 = 33,844 parcels` for distribution among the merchant families.
-
-**Government-officials count**: across a domain's 7 cities (one capital plus six provincial cities), each of the 6 Ministries has a Minister and a Deputy Minister, so `2 * 6 * 7 = 84 ministers and deputy ministers`.  Adding the 6 chancellors on the House council brings the domain's senior officialdom to roughly 90 samurai.  If each comes from a different immediate family, that represents about 9% of the domain's samurai families.
 
 ### Place Names
 
@@ -641,7 +537,7 @@ It might be tempting for people to think "oh, peasants lead humdrum lives and ca
 
 With the above in mind, here are the populations of different castes and categories in the different places within a domain.  "The median domain" remains the baseline throughout.
 
-The aggregate empire-wide breakdown by caste, derived from the per-tier composition detailed below, is approximately:
+The aggregate empire-wide breakdown by caste, derived from the per-tier composition (tabulated per settlement type in [`budgets.md`](budgets.md#capital-city)), is approximately:
 
 | Caste | % of population | People per median domain |
 | --- | --- | --- |
@@ -655,7 +551,7 @@ The aggregate empire-wide breakdown by caste, derived from the per-tier composit
 A few observations about these numbers:
 
 - The Empire is overwhelmingly farming-dependent: about 4 out of every 5 humans work the land.  Even the median town is ~65% farmers, since town population is counted as the in-and-around population including peasants on the immediately-surrounding fields.
-- Samurai are a small ruling elite (~2%); their formal political authority makes their influence far greater than their numbers.  The canonical ~5,000 samurai per median domain (per [The Median Domain](#the-median-domain) above) break down roughly as: ~4,080 in the named-settlement caste tables below (the capital ~1,560 - its ~1,200 base plus ~360 county-samurai families who have relocated there - the 6 provincial cities at ~300 each, and the 36 county towns at ~20 each), plus ~560 living on country estates rather than in the cities and towns (physically outside any settlement, but tallied into the surrounding village districts for population and tax purposes, so still within the named-settlement totals), plus ~360 beyond the domain's borders in Imperial service (~300 serving and ~60 accompanying family).
+- Samurai are a small ruling elite (~2%); their formal political authority makes their influence far greater than their numbers.  The canonical ~5,000 samurai per median domain (per [The Median Domain](#the-median-domain) above) break down roughly as: ~4,080 in the named settlements (the capital ~1,560 - its ~1,200 base plus ~360 county-samurai families who have relocated there - the 6 provincial cities at ~300 each, and the 36 county towns at ~20 each), plus ~560 living on country estates rather than in the cities and towns (physically outside any settlement, but tallied into the surrounding village districts for population and tax purposes, so still within the named-settlement totals), plus ~360 beyond the domain's borders in Imperial service (~300 serving and ~60 accompanying family).
 - Burakumin are concentrated in towns and cities (~5% of urban population) and entirely absent from the median village or hamlet, which is why their empire-wide share (~1.5%) is far smaller than their per-city presence would suggest.
 
 This ~2% figure is worth dwelling on, because it shapes the kind of world Rokugan is.  This is a samurai game, and the players usually (though not always) play samurai - but the goal is a world with real depth, one in which the samurai are a small part of how the Empire actually operates and are often largely unaware of what most of its inhabitants are doing most of the time.  Even though Rokugan is an extremely well-run society by historical standards, with enormous state capacity compared to most premodern realms, the samurai cannot have much more insight than they do into the other ~98% of the Empire's inhabitants.  Three reasons compound:
@@ -666,106 +562,17 @@ This ~2% figure is worth dwelling on, because it shapes the kind of world Rokuga
 
 3. To the extent it would be possible, samurai are largely uninterested in - and in many cases actively repulsed by - the "unclean" work (whether literally unclean, religiously polluting, or both) on which their lives depend.  Far from seeking out such knowledge, samurai society stigmatizes the kind of fraternization that might produce it.  Kitsuki Kaagi, the famous investigator, is considered strange for the wisdom he is said to exchange with his burakumin corpse-handler; only his tremendous reputation allows this to be dismissed as mere eccentricity rather than condemned as the conduct of a pariah.
 
-The per-tier composition that produces these aggregate figures is detailed below, starting with the smallest settlement (the median hamlet) and working up to the largest (the median capital city):
-
-The median hamlet:
-
-| % | Category |
-| --- | --- |
-| ~80% | farmer, rural tenant farmer |
-| ~5% | farmer, poor freeholder |
-| ~10% | farmer, freeholder |
-| ~5% | farmer, wealthy landowner |
-
-The median village (remember "village district" refers to a village and its surrounding hamlets, so this section refers only to the village itself):
-
-| % | Category |
-| --- | --- |
-| ~80% | farmer, rural tenant farmer |
-| ~5% | farmer, poor freeholder |
-| ~10% | farmer, freeholder |
-| ~5% | farmer, wealthy landowner |
+The detailed caste-by-caste composition of each settlement tier - the exact share of farmers, merchants, laborers, servants, burakumin, and samurai in a median hamlet, village, town, provincial city, and capital - is tabulated and explained per settlement type in [`budgets.md`](budgets.md#capital-city) (the Hamlet, Village, Town, Provincial City, and Capital City sections).  At a high level the shape is simple: the countryside is almost entirely farmers, and the samurai share rises with a settlement's administrative weight - effectively nil in villages and hamlets, ~1.7% in a county town, ~10% in a provincial city, and ~13% in the domain capital.
 
 Villages and hamlets contain no burakumin in the median case: the rural population is essentially pure farmers.  Burakumin are concentrated in towns and cities, which is where their specialty trades (tanning, butchery, mortuary work, night-soil collection for the upper classes) have customers.
-
-The median town (remember that a "county" is the town and its surrounding village districts, so this is only the town itself):
-
-| % | Category |
-| --- | --- |
-| ~1.5% | servants, working for wealthy samurai families |
-| ~0.5% | servants, working for wealthy merchant families |
-| ~0.5% | Indentured servants, working for non-wealthy samurai families |
-| ~1% | Indentured servants, working for non-wealthy merchant families |
-| ~2% | servants, miscellaneous |
-| ~1% | laborers, master (rich) |
-| ~1% | laborers, poor |
-| ~10% | laborers, other |
-| ~1% | merchants, very rich |
-| ~1% | merchants, rich |
-| ~3% | merchants, poor |
-| ~5% | merchants, other |
-| ~0.5% | burakumin, well-off |
-| ~3% | burakumin, poor |
-| ~1.5% | burakumin, very poor |
-| ~56% | farmer, rural tenant farmer |
-| ~2.5% | farmer, poor freeholder |
-| ~5% | farmer, freeholder |
-| ~2.5% | farmer, wealthy landowner |
-| ~1.7% | samurai |
 
 Remember that the county town is the "lowest" level of organized society that still has samurai - villages and hamlets are peasant-only!  Also note that it's the lowest level to have merchants - this is why farmers come into town for market day approximately once per week.
 
 The county town's samurai (~20 in a median county) are mostly the **working** magistrate and their staff - about ~15, a full platoon - with only a handful of non-working dependents.  This is because county samurai families largely do not live out in the remote county seat: children are sent to the provincial city or domain capital for schooling, and elders retire there, so the dependents who would otherwise pad the count live up-tier (this is part of why the domain capital's resident samurai share runs higher than a provincial city's - see [Large Cities](#large-cities) below).
 
-The median provincial city (i.e. the city central to a province, surrounded by counties):
-
-| % | Category |
-| --- | --- |
-| ~5% | servants, working for wealthy samurai families |
-| ~3% | servants, working for wealthy merchant families |
-| ~7% | Indentured servants, working for non-wealthy samurai families |
-| ~3% | Indentured servants, working for non-wealthy merchant families |
-| ~2% | servants, miscellaneous |
-| ~5% | laborers, master (rich) |
-| ~5% | laborers, poor |
-| ~30% | laborers, other |
-| ~2% | merchants, very rich |
-| ~3% | merchants, rich |
-| ~5% | merchants, poor |
-| ~15% | merchants, other |
-| ~0.5% | burakumin, well-off |
-| ~3% | burakumin, poor |
-| ~1.5% | burakumin, very poor |
-| ~1% | samurai, merchants |
-| ~1% | samurai, courtiers |
-| ~8% | samurai, bushi |
-
 Note that there are no farmers in the median provincial city.  This is largely an artifact of what counts as being "part of the city", i.e. while there are generally no farms within the city's walls, provincial cities are frequently located in areas with rich farmland.  However, these farms are counted by the government as being part of the surrounding county lands, rather than being part of the city itself.
 
-The median domain capital city:
-
-| % | Category |
-| --- | --- |
-| ~5% | servants, wealthy samurai families |
-| ~3% | servants, wealthy merchant families |
-| ~7% | servants, non-wealthy samurai families |
-| ~3% | servants, non-wealthy merchant families |
-| ~2% | servants, miscellaneous |
-| ~5% | laborers, master (rich) |
-| ~5% | laborers, poor |
-| ~30% | laborers, other |
-| ~2% | merchants, very rich |
-| ~3% | merchants, rich |
-| ~5% | merchants, poor |
-| ~15% | merchants, other |
-| ~0.5% | burakumin, well-off |
-| ~3% | burakumin, poor |
-| ~1.5% | burakumin, very poor |
-| ~1% | samurai, merchants |
-| ~1% | samurai, courtiers |
-| ~8% | samurai, bushi |
-
-The base mix above is essentially the same as a provincial city's - a capital is, in commercial terms, just a larger version of a provincial city.  But the capital carries one thing a provincial city does not: it is the domain's **schooling-and-retirement magnet**, the place samurai families from across the domain (and especially from the county towns) send their children to be educated and their elders to retire, including the families of samurai away in Imperial service.  Adding those ~360 relocated non-working samurai per domain lifts the capital's resident samurai from the ~10% base shown above to **~13%** - the highest concentration of any settlement tier, as befits the daimyo's castle-town seat (provincial cities sit at ~10%, county towns at ~1.7%).  This is a deliberately restrained echo of the historical castle town, where the daimyo's seat could run 30-60% samurai; Rokugan's capitals are far more commercial.
+The capital's caste mix is essentially the same as a provincial city's - a capital is, in commercial terms, just a larger version of a provincial city.  But the capital carries one thing a provincial city does not: it is the domain's **schooling-and-retirement magnet**, the place samurai families from across the domain (and especially from the county towns) send their children to be educated and their elders to retire, including the families of samurai away in Imperial service.  Adding those ~360 relocated non-working samurai per domain lifts the capital's resident samurai from a ~10% base (the same as a provincial city's) to **~13%** - the highest concentration of any settlement tier, as befits the daimyo's castle-town seat (provincial cities sit at ~10%, county towns at ~1.7%).  This is a deliberately restrained echo of the historical castle town, where the daimyo's seat could run 30-60% samurai; Rokugan's capitals are far more commercial.
 
 In larger domains the picture changes again, and the great clan and family capitals - despite holding far more samurai in absolute terms - have a *lower* samurai percentage as their sheer commercial size dilutes the concentration.  See below for an explanation of the largest cities in the Empire:
 
@@ -824,16 +631,7 @@ The samurai percentage of a city's population is not constant - it varies with c
 
 The reason is a pattern that holds across the large capital cities of history: the administrative cohort of a city grows more slowly than its overall size, while the commercial and service population (merchants, laborers, servants, artisans) grows roughly in step with it.  A city twice as large does not need twice as many magistrates and ministers, but it does attract roughly twice as many people to feed, serve, and trade with that larger population.  So the samurai percentage shrinks as the city grows, even though the samurai are more numerous in absolute terms.  This is why the great real-world imperial capitals - Tang Chang'an, Song Kaifeng, Heian-kyo - held only a few percent nobility despite being the seats of enormous bureaucracies.  (The one historical exception, Tokugawa Edo at around 60% samurai, was the product of a forced-residence system that compelled every lord to keep thousands of retainers permanently in the capital - a mechanism Rokugan does not have.)
 
-So the samurai concentration peaks at the domain capital (~13%, the daimyo's family-and-court seat) and declines from there as cities grow larger and more commercial:
-
-| City | Approx. Pop | Samurai % | Resident samurai |
-| --- | --- | --- | --- |
-| Median provincial city | ~3,000 | ~10% | ~300 |
-| Median domain capital | ~12,400 | ~13% | ~1,560 |
-| Kyuden Daidoji | 200,000 | ~6% | ~12,000 |
-| Toshi Ranbo | 300,000 | ~5% | ~15,000 |
-| Ryoko Owari | 500,000 | ~4.5% | ~22,500 |
-| Otosan Uchi | 1,000,000 | ~4% | ~40,000 |
+So the samurai concentration peaks at the domain capital (~13%, the daimyo's family-and-court seat) and declines steadily from there as cities grow larger and more commercial, falling to ~6-9% in the great clan and family capitals and all the way to ~4% in Otosan Uchi - even as those cities' absolute samurai numbers dwarf any median capital's.
 
 Otosan Uchi, the capital of the Empire, has approximately **40,000 resident samurai** - around 4% of its million inhabitants.  This includes the bulk of the Hantei family and large fractions of the Seppun, Otomo, and Miya; the clan-drawn samurai who staff the central Imperial ministries and the capital's own city government; the permanent embassies that every domain maintains at the capital (hostage family members, business agents, and political representatives - a structural feature of Imperial politics rather than a literal imprisonment); and a scattering of private agents, students, and ronin.
 
@@ -1230,7 +1028,6 @@ Many ambitious samurai are drawn to high-paying posts (county magistrate, Minist
 
 The Imperial Budget is documented in detail in [`budgets.md` - The Imperial Budget](budgets.md#the-imperial-budget).  It is provisionally located there while the budget framework is being iteratively refined; once stable it will be promoted into this file alongside the other Imperial-level structural notes.
 
-
 ## Rokugan's Calendar
 
 First of all, because Rokugan is not a real place on earth and has a different cosmology, it has a 360 day solar year.  This avoids the need to worry about months of different lengths or leap years or interregnum days or anything complicated like that.
@@ -1321,7 +1118,7 @@ An "hour" in the traditional Rokugani system is a twelfth of a day, or two hours
 | Ox | 0200 - 0400 |
 | Tiger | 0400 - 0600 |
 
-This is all based on historical Chinese calendar that the Japanese Imperial Court adopted in the seventh century C.E. though obviously some modifications have been made.
+This is all based on the historical Chinese calendar that the Japanese Imperial Court adopted in the seventh century C.E. though obviously some modifications have been made.
 
 ### Crops and Farming Seasons
 
@@ -1595,7 +1392,7 @@ Hazuki, the "leaf month," is the last month before the harvest.  It includes the
 
 In the solar calendar, Hakuro marks the time when dew condenses on grass and leaves in the early morning chill.  It is a cliche of autumn that people who walk in the early morning, such as a lover returning home from a secret tryst, get their clothes covered in dew.
 
-##### 4th Day (11 Sep): Nihyakuhatsuka (220 days since Spring)
+##### 5th Day (11 Sep): Nihyakuhatsuka (220 days since Spring)
 
 The fifth day of the eighth month is the 220th day since Spring, another important milestone approaching the rice harvest.
 
@@ -2298,7 +2095,7 @@ Many centuries ago, Nanube the Deceiver arrived in Lady Sun's court as an emissa
 
 She spent considerable time there, getting to know the members of Lady Sun's celestial administration, and learning the ways of the Realm of Day.
 
-Eventually Nanube requested an audience with Lady Sun.  She explained to Amaterasu the true hidden purpose of her visit.  That Lord Moon desired a Shard of Pure Sunlight, undiluted such that only Lady Sun can provide, to remind him of her presence when they are apart.
+Eventually Nanube requested an audience with Lady Sun.  She explained to Amaterasu the true hidden purpose of her visit.  That Lord Moon desired a Shard of Pure Sunlight, undiluted such as only Lady Sun can provide, to remind him of her presence when they are apart.
 
 Nanube explained that Lord Moon was too proud to admit that he desires such a thing, and that he would never express such vulnerability himself, never make such an admission of need.  Nanube was sent, therefore, to attempt to determine which members of Lady Sun's celestial administration might be bribed, coerced, or corrupted into helping him obtain what he seeks.
 
@@ -3166,7 +2963,7 @@ It is disputed whether Akodo truly said this, and some past Lion daimyo have cla
 
 While the Lion have fought many wars, their most infamous conflicts have been internal, especially between the Akodo and Matsu families.  There came a time when the Matsu outgrew the Akodo, becoming the largest Great Family in all the Empire.  At this time, the discontent between the Akodo and Matsu grew, and many in the Matsu wondered whether they should continue to owe fealty and pay taxes to a smaller and perhaps weaker Family.
 
-Akodo Fujita was the second son of the Lion daimyo, and it was he who managed to strike a balance, making peace while ensuring that the Matsu both received the respect and honor that they were due while also providing the taxes and levies which they owed.  To symbolize this act of peacemaking, Fujita commissioned this sword, which acts as a tribute to the bond between all of the families of the Lion.  Fujita himself married a Matsu woman, and unlike any member of the Akodo daimyo's immediate family through the centuries until that point, joined the Matsu family rather than keeping his Akodo family name, in honor of the Matsu family's strength and honor.
+Akodo Fujita was the second son of the Lion daimyo, and it was he who managed to strike a balance, making peace while ensuring that the Matsu both received the respect and honor that they were due and also provided the taxes and levies which they owed.  To symbolize this act of peacemaking, Fujita commissioned this sword, which acts as a tribute to the bond between all of the families of the Lion.  Fujita himself married a Matsu woman, and unlike any member of the Akodo daimyo's immediate family through the centuries until that point, joined the Matsu family rather than keeping his Akodo family name, in honor of the Matsu family's strength and honor.
 
 Kishin no Ketsui features a golden guard engraved with a lion's mane, depicting the courage and authority of the Lion.  When one masters this sword, its blade resonates with the user's heartbeat, growing steadier and more precise as the wielder's resolve strengthens.  It is thus able to guide its owner towards ends which specifically involve Lion family unity, and as such the sword has at this point been possessed over the centuries by members of each Lion family - even the Kitsu!
 
@@ -3947,7 +3744,7 @@ Battalion commanders and Legion generals swear even longer oaths, which dependin
 
 - I shall avoid any and all actions which are injurious to the functioning of a well-ordered society.
 
-- I possess pure faith and obedience to Emperor and shall preserve, support and secure the Empire without being affected by fear, mercy, love or hatred.
+- I possess pure faith and obedience to the Emperor and shall preserve, support and secure the Empire without being affected by fear, mercy, love or hatred.
 
 - I shall discharge strictly and conscientiously the lofty duties that have been bestowed upon me.
 
@@ -4571,7 +4368,7 @@ Before Akuma's practice of maho became known, he journeyed deep into the Isawa W
 
 This oni was so massive and powerful that it warped place in the Isawa Woodlands, creating a new "between place" coexistent between the mortal realm and Jigoku.  Because Akuma summoned an oni whose thirst for knowledge matched his own, this oni took the form of a great library, which is said to contain "all of the things that have ever been written, and many of the things which never were written, and more than a few things which will come to be written".
 
-Akuma then set out to read through the sources of knowledge and power in this chaotic and disorganized library which was created by his oni and which is the oni.  Akuma himself was not able to control the oni - although most summoners are able to command the oni which they summon, such a powerful oni lord was required that it will respond to no human commands.  Thankfully for Akuma, this merely means that it treats him like any other visitor, offering its shelves full of nonsense and wisdom and madness and knowledge and lies and power to any who make their way to him.
+Akuma then set out to read through the sources of knowledge and power in this chaotic and disorganized library which was created by his oni and which is the oni.  Akuma himself was not able to control the oni - although most summoners are able to command the oni which they summon, so powerful an oni lord was required that it will respond to no human commands.  Thankfully for Akuma, this merely means that it treats him like any other visitor, offering its shelves full of nonsense and wisdom and madness and knowledge and lies and power to any who make their way to him.
 
 Over the next few years, Akuma began to publish some of the greatest foundational works of scholarship the Empire had ever seen.  Many of the concepts behind vows I described earlier in our conversation are included in his book "On Vows to the Fortunes".  His work "On Soothsaying" contains the definitive classification and description of the various forms of augury and prophecy.  There are many other examples... and as his scholarship grew, so did the power of his name, and thus so did the oni which formed his Great Library.
 
@@ -5975,7 +5772,7 @@ Mirai tracked down all of the gaijin swords in the legion, of which there were m
 
 Desperate to be able to sleep well again, Mirai carefully cleaned the blade.  As he finished his eyes fell upon the decorative leg of a brazier in his room.  In the flickering light it suddenly resembled the imp in his dreams!  The freshly cleansed sword then moved by itself to lop off that decorative leg, thus freeing Mirai from his nightly torment.
 
-Mirai carries this sword with him at all times, strapped to his back in the manner of a barbarian.  When in his tent it occupies a place of honor at a shrine he has built for it back at camp, but he never travels without it.  Being a courtier and thus not able to duel, he has taken to practicing with it and has developed his own fighting style.  He has spoken of plans to eventually make a warriors pilgrimage to join Moto Gaheris' army to better learn its techniques and adapt to other more civilized weapons, though many doubt that he will follow through on such plans, as many take this as the boastful talk of a teenager.
+Mirai carries this sword with him at all times, strapped to his back in the manner of a barbarian.  When in his tent it occupies a place of honor at a shrine he has built for it back at camp, but he never travels without it.  Being a courtier and thus not able to duel, he has taken to practicing with it and has developed his own fighting style.  He has spoken of plans to eventually make a warrior's pilgrimage to join Moto Gaheris' army to better learn its techniques and adapt to other more civilized weapons, though many doubt that he will follow through on such plans, as many take this as the boastful talk of a teenager.
 
 This is based on a real historical anecdote, but modern readers might not read that anecdote and think that a sword was really haunted by an imp.  Rather, they might believe that someone had a strange dream, then saw something in the flickering shadows, then thought that they had defeated some supernatural force, and then that belief was self-reinforcing and so he found himself no longer worried about being afflicted and was therefore no longer afflicted.
 
