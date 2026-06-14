@@ -164,11 +164,13 @@ Here is how the population of the domain is divided between these various levels
 
 | Category | Count | Population (individual) | Population (total) | Percent of domain |
 | --- | --- | --- | --- | --- |
-| the capital | 1 | 12,000 | ~12,000 | ~5% |
+| the capital | 1 | ~12,400 | ~12,400 | ~5% |
 | provincial cities | 6 | 2000 - 4000 | ~18,000 | ~7% |
-| large towns | 36 | 900 - 1500 | ~43,000 | ~18% |
+| large towns | 36 | ~1190 | ~42,800 | ~17% |
 | small villages | 216 | 200 - 500 | ~75,000 | ~30% |
 | tiny hamlets | 1296 | 50 - 100 | ~97,000 | ~40% |
+
+These tiers are the named settlements and sum to ~245,000 (~99% of the domain).  The remaining ~1% lives outside any named settlement, on dispersed country estates and the isolated farmsteads attached to them (the ~560 country-estate samurai noted below plus their households and estate hands).  A small dispersed remainder like this is what a nucleated-settlement society produces - in Tokugawa Japan and the wet-rice cores of China nearly everyone belonged to a named village even when their fields were scattered - so the full domain rounds to the canonical ~250,000 (see [`budgets.md`](budgets.md#domain) for the detailed reconciliation).
 
 The above numbers cover the total human population, but let's discuss the samurai population specifically.  The median domain has around 5,000 samurai.  A child legally becomes an adult during their gempukku at the age of 14, and is considered a "useful" adult until they retire.  The default age at which one is eligible for retirement is 40, at 50 it is encouraged, and at 60 it is mandatory without special dispensation from your daimyo.
 
@@ -430,7 +432,7 @@ Shrines and monasteries are controlled by the Ministry of Rites, and are organiz
 - each village district has a Country Monk
 - each town has a Preceptor per Order
 - each province has an Abbot per Order
-- each capitol city has a Grand Abbot per Order
+- each capital city has a Grand Abbot per Order
 
 Monk ranks are discussed elsewhere, but shrines and temples are staffed by many monks who report to the leaders mentioned above, and their ranks are generally ordered like this:
 - Initiate
@@ -653,7 +655,7 @@ The aggregate empire-wide breakdown by caste, derived from the per-tier composit
 A few observations about these numbers:
 
 - The Empire is overwhelmingly farming-dependent: about 4 out of every 5 humans work the land.  Even the median town is ~65% farmers, since town population is counted as the in-and-around population including peasants on the immediately-surrounding fields.
-- Samurai are a small ruling elite (~2%); their formal political authority makes their influence far greater than their numbers.  The canonical ~5,000 samurai per median domain (per [The Median Domain](#the-median-domain) above) includes those living on country estates or otherwise outside the named-settlement caste breakdowns; the per-tier caste tables below account for ~4,080 of the ~5,000.
+- Samurai are a small ruling elite (~2%); their formal political authority makes their influence far greater than their numbers.  The canonical ~5,000 samurai per median domain (per [The Median Domain](#the-median-domain) above) break down roughly as: ~4,080 in the named-settlement caste tables below (the capital ~1,560 - its ~1,200 base plus ~360 county-samurai families who have relocated there - the 6 provincial cities at ~300 each, and the 36 county towns at ~20 each), plus ~560 living on country estates outside any settlement, plus ~360 beyond the domain's borders in Imperial service (~300 serving and ~60 accompanying family).
 - Burakumin are concentrated in towns and cities (~5% of urban population) and entirely absent from the median village or hamlet, which is why their empire-wide share (~1.5%) is far smaller than their per-city presence would suggest.
 
 This ~2% figure is worth dwelling on, because it shapes the kind of world Rokugan is.  This is a samurai game, and the players usually (though not always) play samurai - but the goal is a world with real depth, one in which the samurai are a small part of how the Empire actually operates and are often largely unaware of what most of its inhabitants are doing most of the time.  Even though Rokugan is an extremely well-run society by historical standards, with enormous state capacity compared to most premodern realms, the samurai cannot have much more insight than they do into the other ~98% of the Empire's inhabitants.  Three reasons compound:
@@ -705,13 +707,15 @@ The median town (remember that a "county" is the town and its surrounding villag
 | ~0.5% | burakumin, well-off |
 | ~3% | burakumin, poor |
 | ~1.5% | burakumin, very poor |
-| ~55% | farmer, rural tenant farmer |
+| ~56% | farmer, rural tenant farmer |
 | ~2.5% | farmer, poor freeholder |
 | ~5% | farmer, freeholder |
 | ~2.5% | farmer, wealthy landowner |
-| ~2.5% | samurai |
+| ~1.7% | samurai |
 
 Remember that the county town is the "lowest" level of organized society that still has samurai - villages and hamlets are peasant-only!  Also note that it's the lowest level to have merchants - this is why farmers come into town for market day approximately once per week.
+
+The county town's samurai (~20 in a median county) are mostly the **working** magistrate and their staff - about ~15, a full platoon - with only a handful of non-working dependents.  This is because county samurai families largely do not live out in the remote county seat: children are sent to the provincial city or domain capital for schooling, and elders retire there, so the dependents who would otherwise pad the count live up-tier (this is part of why the domain capital's resident samurai share runs higher than a provincial city's - see [Large Cities](#large-cities) below).
 
 The median provincial city (i.e. the city central to a province, surrounded by counties):
 
@@ -761,9 +765,9 @@ The median domain capital city:
 | ~1% | samurai, courtiers |
 | ~8% | samurai, bushi |
 
-Note that this is just the same numbers as for a provincial city - it is generally true that in "the median domain" a capital city is simply just a larger version of the domain's provincial cities.
+The base mix above is essentially the same as a provincial city's - a capital is, in commercial terms, just a larger version of a provincial city.  But the capital carries one thing a provincial city does not: it is the domain's **schooling-and-retirement magnet**, the place samurai families from across the domain (and especially from the county towns) send their children to be educated and their elders to retire, including the families of samurai away in Imperial service.  Adding those ~360 relocated non-working samurai per domain lifts the capital's resident samurai from the ~10% base shown above to **~13%** - the highest concentration of any settlement tier, as befits the daimyo's castle-town seat (provincial cities sit at ~10%, county towns at ~1.7%).  This is a deliberately restrained echo of the historical castle town, where the daimyo's seat could run 30-60% samurai; Rokugan's capitals are far more commercial.
 
-However, in larger domains this is extremely untrue.  See below for an explanation of the largest cities in the Empire:
+In larger domains the picture changes again, and the great clan and family capitals - despite holding far more samurai in absolute terms - have a *lower* samurai percentage as their sheer commercial size dilutes the concentration.  See below for an explanation of the largest cities in the Empire:
 
 ### Large Cities
 
@@ -816,15 +820,16 @@ The discussion so far has focused on "the median domain", but the above cities a
 
 #### Samurai Population of the Largest Cities
 
-The samurai percentage of a city's population is not constant - it varies with city size in a way that is the opposite of what one might first assume.  As established in the Demographics section above, a median provincial city or domain capital is around 10% samurai.  But the great cities of the Empire have a *lower* samurai percentage, even as their absolute number of samurai is far higher.
+The samurai percentage of a city's population is not constant - it varies with city size in a way that is the opposite of what one might first assume.  As established in the Demographics section above, a median provincial city is around 10% samurai and a median domain capital ~13% (the capital concentrates the domain's samurai families, as noted there).  But the great cities of the Empire have a *lower* samurai percentage, even as their absolute number of samurai is far higher.
 
 The reason is a pattern that holds across the large capital cities of history: the administrative cohort of a city grows more slowly than its overall size, while the commercial and service population (merchants, laborers, servants, artisans) grows roughly in step with it.  A city twice as large does not need twice as many magistrates and ministers, but it does attract roughly twice as many people to feed, serve, and trade with that larger population.  So the samurai percentage shrinks as the city grows, even though the samurai are more numerous in absolute terms.  This is why the great real-world imperial capitals - Tang Chang'an, Song Kaifeng, Heian-kyo - held only a few percent nobility despite being the seats of enormous bureaucracies.  (The one historical exception, Tokugawa Edo at around 60% samurai, was the product of a forced-residence system that compelled every lord to keep thousands of retainers permanently in the capital - a mechanism Rokugan does not have.)
 
-So the samurai concentration peaks at the level of the ordinary administrative city (~10%) and declines from there:
+So the samurai concentration peaks at the domain capital (~13%, the daimyo's family-and-court seat) and declines from there as cities grow larger and more commercial:
 
 | City | Approx. Pop | Samurai % | Resident samurai |
 | --- | --- | --- | --- |
-| Median provincial city / domain capital | 3,000-12,000 | ~10% | ~300-1,200 |
+| Median provincial city | ~3,000 | ~10% | ~300 |
+| Median domain capital | ~12,400 | ~13% | ~1,560 |
 | Kyuden Daidoji | 200,000 | ~6% | ~12,000 |
 | Toshi Ranbo | 300,000 | ~5% | ~15,000 |
 | Ryoko Owari | 500,000 | ~4.5% | ~22,500 |
@@ -954,9 +959,9 @@ The village headsman has been portrayed as probably handling small disputes, wit
 
 **Who is the village headsman actually loyal to?**
 
-The samurai presumably like to think that the headsman represents their interests.  The merchants presumably like to think their gifts are meaningful enough to keep him loyal to them.  The headman's farming community neighbors presumably like to think that he's one of them and does right by them.
+The samurai presumably like to think that the headsman represents their interests.  The merchants presumably like to think their gifts are meaningful enough to keep him loyal to them.  The headsman's farming community neighbors presumably like to think that he's one of them and does right by them.
 
-One thing which gives the headsman's stipend so many downstream consequences is that, based on the numbers above, the village produces ~400 koku worth of rent and ~800 koku worth of taxes every year.  With those kind of numbers, ensuring the village headsman gets a 10 koku/year stipend isn't crazy (and localities where this doesn't happen often end up with different outcomes).  Although shortsightedness sometimes keeps this from being true, samurai and merchants SHOULD be highly invested in making sure that this guy is paid well enough to care about staying in their good graces, have time to actually do the job well without worrying about his own farm, actually fill out paperwork, etc.
+One thing which gives the headsman's stipend so many downstream consequences is that, based on the numbers above, the village produces ~400 koku worth of rent and ~800 koku worth of taxes every year.  With those kinds of numbers, ensuring the village headsman gets a 10 koku/year stipend isn't crazy (and localities where this doesn't happen often end up with different outcomes).  Although shortsightedness sometimes keeps this from being true, samurai and merchants SHOULD be highly invested in making sure that this guy is paid well enough to care about staying in their good graces, have time to actually do the job well without worrying about his own farm, actually fill out paperwork, etc.
 
 On the other hand, paying someone a lot of money doesn't necessarily make them loyal to you!  In some places the headsman gets paid a 1 koku/year stipend, with another 1 koku gift from each large merchant house or samurai lineage which owns land in the village, and mostly is just another member of the peasant class who speaks on behalf of his neighbors who he actually cares about.
 
@@ -1135,7 +1140,7 @@ Every samurai retainer belongs to a noble lineage.  These are not simply bloodli
 
 As an example, let's consider the Ryusei domain of the Mirumoto family of the Dragon clan.  The Ryusei domain is a roughly-average-sized House with a population of about 4,200 samurai out of a total of 210,000 humans (remember that the median domain has 5,000 samurai out of 250,000 humans, so this is a fairly typical domain).
 
-The Ryusei House Chancellery is comprised of representatives from its six largest lineages, which collectively make up almost 90% of the domain.  The ruling lineage (i.e. the daimyo's lineage) is the Ryusei lineage, and it and the others are listed below:
+The Ryusei House Chancellery is composed of representatives from its six largest lineages, which collectively make up almost 90% of the domain.  The ruling lineage (i.e. the daimyo's lineage) is the Ryusei lineage, and it and the others are listed below:
 
 | Lineage | Chancellor | Governors and Magistrates | Ministry Officials | % of Domain |
 | --- | --- | --- | --- | --- |
@@ -1451,7 +1456,7 @@ In the solar calendar, seimei marks a period of spring when the weather is usual
 
 ##### 3rd Day (7 Apr): Hinamatsuri (Doll Festival) or Momo no sekku (Peach Festival), and Gotou (Holy Light)
 
-Momo no sekku, or Hinamatsuri, is one of the five Gosechi holidays.  It is called the Peach Festival because the peach blossoms are in bloom, but it is more commonly known as the Doll Festival because of the use of dolls for ritual purification.  The Holy Light observance centers around lighting candles.  On the third day of the third month, people use straw dolls for ritual purification ceremonies.  The dolls are ritually linked to the person through writing the person's name, birthdate, and guardian star on the doll, and rituals are performed to transfer evil spirits and impurities to the doll.  The dolls are thrown into rivers and oceans to carry away the bad fortune.  In a more modern custom, families with daughters make a decorative display of dolls in their home to bring good fortune for their daughters.  The characteristics and positioning of the dolls is rigidly prescribed, but dolls can be simple or very ornate.  Wealthy families have lavishly appointed displays of dolls.  Momo no sekku is an auspicious time for medicine hunts (kusagari), expeditions to search for special herbs and minerals that promote longevity and good health.  Mugwort is a particularly important herb, since it can be burned to dispel evil spirits.  Medicine hunts are mainly done by servants (on behalf of their masters), doctors, apothecaries, shugenja, diviners, tsukai, and Bloodspeakers.  Momo no sekku is also important for the silk industry, because it is the time when women begin feeding mulberry leaves to newly hatched silkworm larvae.  That night, the Emperor lights a candle and prays to the North Star for protection.  Ordinary people join in the lighting of candles, and men and women dance together.  Music, dancing, and sake are typical.  In ancient times, Gotou festivals devolved into orgies.  The Hinamatsuri and Gotou are a particularly important time for maho.  Tsukai and Bloodspeakers use the purification ceremony to help control the onset of the Shadowlands Taint.  They also use corrupted versions of the purification ceremonies for some maho rituals.  Bloodspeakers gain special power over a person if they can acquire the straw doll used for the day's purification ceremony.
+Momo no sekku, or Hinamatsuri, is one of the five Gosechi holidays.  It is called the Peach Festival because the peach blossoms are in bloom, but it is more commonly known as the Doll Festival because of the use of dolls for ritual purification.  The Holy Light observance centers on lighting candles.  On the third day of the third month, people use straw dolls for ritual purification ceremonies.  The dolls are ritually linked to the person through writing the person's name, birthdate, and guardian star on the doll, and rituals are performed to transfer evil spirits and impurities to the doll.  The dolls are thrown into rivers and oceans to carry away the bad fortune.  In a more modern custom, families with daughters make a decorative display of dolls in their home to bring good fortune for their daughters.  The characteristics and positioning of the dolls is rigidly prescribed, but dolls can be simple or very ornate.  Wealthy families have lavishly appointed displays of dolls.  Momo no sekku is an auspicious time for medicine hunts (kusagari), expeditions to search for special herbs and minerals that promote longevity and good health.  Mugwort is a particularly important herb, since it can be burned to dispel evil spirits.  Medicine hunts are mainly done by servants (on behalf of their masters), doctors, apothecaries, shugenja, diviners, tsukai, and Bloodspeakers.  Momo no sekku is also important for the silk industry, because it is the time when women begin feeding mulberry leaves to newly hatched silkworm larvae.  That night, the Emperor lights a candle and prays to the North Star for protection.  Ordinary people join in the lighting of candles, and men and women dance together.  Music, dancing, and sake are typical.  In ancient times, Gotou festivals devolved into orgies.  The Hinamatsuri and Gotou are a particularly important time for maho.  Tsukai and Bloodspeakers use the purification ceremony to help control the onset of the Shadowlands Taint.  They also use corrupted versions of the purification ceremonies for some maho rituals.  Bloodspeakers gain special power over a person if they can acquire the straw doll used for the day's purification ceremony.
 
 ##### 13th Day (17 Apr): Haru no douyou (preparing the ground for spring)
 
@@ -1706,7 +1711,7 @@ The suddenness of the blight combined with the lack of any divine warnings can m
 
 ### "the Order"
 
-The PCs in the Karmic Inquisitors campaign are members of a secret society known as The Order of Lord moon.
+The PCs in the Karmic Inquisitors campaign are members of a secret society known as The Order of Lord Moon.
 
 The Order of Lord Moon is referred to as The Order in conversation, so that anyone who overhears will assume that the speaker is talking about The Order of Bishamon.
 
@@ -1856,7 +1861,7 @@ When the Shinsei was advising the Hantei on the new Empire being created, part o
 | Hotei | The fortune of contentment |
 | Jurojin | The fortune of longevity |
 
-The Shinsei further recommended that each clan cultivate two major Fortunes to be their patrons, ensuring that every city within the clan have a temple to each of their two patron Fortunes.
+The Shinsei further recommended that each clan cultivates two major Fortunes to be their patrons, ensuring that every city within the clan has a temple to each of their two patron Fortunes.
 
 | Clan | Patron Fortunes |
 | --- | --- |
@@ -1868,7 +1873,7 @@ The Shinsei further recommended that each clan cultivate two major Fortunes to b
 | Scorpion | Benten + Jurojin |
 | Unicorn | Fukurokujin + Jurojin |
 
-In the late 3rd century, Hantei the Tenth formalized the system of the Six Ministries, and along with it codified the requirement that each of the Empire's cities contain a temple to each of its clan's patron fortunes.
+In the late 3rd century, Hantei the Tenth formalized the system of the Six Ministries, and along with it codified the requirement that each of the Empire's cities contains a temple to each of its clan's patron fortunes.
 
 The temples in Toshi Ranbo are unusually large and well-funded, due to Toshi Ranbo being the 3rd-largest city in the Empire, but the general structure is the same commonly-used way to organize temples which exists everywhere.
 
@@ -2063,7 +2068,7 @@ The timeline below covers events related to the Karmic Inquisitors campaign:
 | Kuni Yori is executed for high treason against the Empire for experimenting with moon cultists and the practice of maho. Kuni Utagu becomes the new Jade Champion. |  |
 | Iuchi Shahai and the remaining moon cultists attempt to assassinate the Emperor at Imperial Winter Court at Kyuden Shinjo. |  |
 | Shinjo Hanari executes Iuchi Daiyu, the daimyo of the Iuchi family (and Shahai's father), and declares a blood debt on Shahai's line. Iuchi Morijiro (a priest rather than a bushi) becomes daimyo of the Iuchi family. |  |
-| 1128 | The Crab clan, under the direction of the Kuni Witch hunters, begin experimenting with the Black Scrolls. |
+| 1128 | The Crab clan, under the direction of the Kuni Witch Hunters, begin experimenting with the Black Scrolls. |
 | With the Lion/Crane war ended, a dueling tournament is conducted according to the terms of the peace treaty to settle the ownership of several disputed provinces between the Tsume and Damasu. |  |
 | 1129 | A fungal blight destroys half of the Damasu rice and soybean crop, with only 1 Tsume province being seriously affected. |
 | Timeline of events specifically relating to the moon cult |  |
@@ -2275,7 +2280,7 @@ When the blood of Onnotangu (Lord Moon) mixed with the tears of Amaterasu (Lady 
 
 Lady Sun considered this.  She understood that mortal man would rise to even greater heights if she did not allow Lord Moon to burden them with impulses contrary to their interests.  But she also understood that her consort was right, and it would sadden her greatly for their mortal children to have nothing of her lover's influence.  So she agreed to his request, and thus humanity came to its present condition.
 
-With that in mind, let us consider the factors at play in this case.  Both men were drunk and behaved on impulse rather than considered action.  However, does this matter?  A samurai owns every word he speaks.  And while we may often need to act in an instant, the years of training which precede those instants is what separates untrained fumbling from expert skill.  So too do we train ourselves to honorable conduct, so that we may not stumble even in our least guarded instants.
+With that in mind, let us consider the factors at play in this case.  Both men were drunk and behaved on impulse rather than considered action.  However, does this matter?  A samurai owns every word he speaks.  And while we may often need to act in an instant, the years of training which precede those instants are what separates untrained fumbling from expert skill.  So too do we train ourselves to honorable conduct, so that we may not stumble even in our least guarded instants.
 
 Thus, the conduct of both men should be judged without consideration for their inebriation, and Asahi's challenge to Masao is legitimate and must be answered.  And so we must consider the nature of the duel, specifically whether it must be fought to the death.  We have already established that the particulars of this exchange should determine this answer, including the specific words used by each man, no matter how drunk they were.
 
@@ -2585,7 +2590,7 @@ When the Shinsei was advising the Hantei on the new Empire being created, part o
 | Hotei | The fortune of contentment |
 | Jurojin | The fortune of longevity |
 
-The Shinsei further recommended that each clan cultivate two major Fortunes to be their patrons, ensuring that every city within the clan have a temple to each of their two patron Fortunes.
+The Shinsei further recommended that each clan cultivates two major Fortunes to be their patrons, ensuring that every city within the clan has a temple to each of their two patron Fortunes.
 
 | Clan | Patron Fortunes |
 | --- | --- |
@@ -2597,7 +2602,7 @@ The Shinsei further recommended that each clan cultivate two major Fortunes to b
 | Scorpion | Benten + Jurojin |
 | Unicorn | Fukurokujin + Jurojin |
 
-In the late 3rd century, Hantei the Tenth formalized the system of the Six Ministries, and along with it codified the requirement that each of the Empire's cities contain a temple to each of its clan's patron fortunes.
+In the late 3rd century, Hantei the Tenth formalized the system of the Six Ministries, and along with it codified the requirement that each of the Empire's cities contains a temple to each of its clan's patron fortunes.
 
 In addition to the required temples to Bishamon and Daikoku that every Lion city contains, there are two other significant temples in Toshi Ranbo.  Each of the four major temples in the city is described in a section below.
 
@@ -2639,7 +2644,7 @@ Although "soothsaying" literally means "truth-speaking", the word colloquially r
 
 The above disclaimer is at the front of several books published by Isawa Akuma many centuries ago, including this one.  Akuma was a powerful shugenja who was also the greatest scholar of his generation, which is unusual since it's practically unheard of for masters of magic to also be masters of scholarship.  However, it later turned out that Isawa Akuma had used his great name to summon an oni lord (Oni no Akuma), who took the form of a Great Library hidden deep in the Isawa Woodlands.  This library is said to contain "all of the things which have ever been written, and many of the things which never were written, and more than a few things which will come to be written".  It cannot be found the same way twice, and therefore is very difficult to reach.
 
-Akuma published a number of works of scholarship written by people who were never born, or possibly which would have otherwise not come to be written for centuries, attributing these works to himself, which fueled his name even further.  Notably, Akuma is only one of two shugenja in history capable of practicing maho and thus taking on the Shadowlands taint without losing their shugenja abilities - the taint is hateful to the elemental kami and all other shugenja who have practiced maho have lost their powers as a result.  Akuma is one of only three shugenja who has achieved immortality, though presumably he did this through dark rituals rather than gaining the favor of the kami.
+Akuma published a number of works of scholarship written by people who were never born, or possibly which would have otherwise not come to be written for centuries, attributing these works to himself, which fueled his name even further.  Notably, Akuma is only one of two shugenja in history capable of practicing maho and thus taking on the Shadowlands taint without losing their shugenja abilities - the taint is hateful to the elemental kami and all other shugenja who have practiced maho have lost their powers as a result.  Akuma is one of only three shugenja who have achieved immortality, though presumably he did this through dark rituals rather than gaining the favor of the kami.
 
 "On Soothsaying" is still considered the foundational work of scholarship on the subject of augury and prophecy, despite its origins, which speaks to its quality.
 
@@ -2860,7 +2865,7 @@ Out of the ashes of his shameful defeat, Kenta has made a warrior's pilgrimage t
 
 ### Asako Sachi
 
-Sachi is a renown ichthyologist, with a specialty in tropical fish, and she has reliably received invitations to every Imperial Winter Court, where she advises courtiers from each of the 7 Great Clans, as well as the Imperial Families and minor clans.  Being from Asako lands, which was always close to Damasu lands - and now borders the Damasu directly - she has visited Toshi Ranbo many times over the years, but the year before last she bought a house in the city and has spent most of her time here, especially in the Temple District.
+Sachi is a renowned ichthyologist, with a specialty in tropical fish, and she has reliably received invitations to every Imperial Winter Court, where she advises courtiers from each of the 7 Great Clans, as well as the Imperial Families and minor clans.  Being from Asako lands, which was always close to Damasu lands - and now borders the Damasu directly - she has visited Toshi Ranbo many times over the years, but the year before last she bought a house in the city and has spent most of her time here, especially in the Temple District.
 
 Steward Iori regards her with some amount of disfavor for two main reasons.  First, she left the city to attend Imperial Winter Court in Kyuden Shinjo the time before last, which forfeited her place in line (even as others such as Setsuko the beggar-nun - see below - were given priority).  Second, Iori considers it unseemly that she is so interested in all of the city's relics - she has spent just as much time in the Temple of Daikoku and their relics, handling the Wealth Bringer Rice Husk, the Key to Treasure Mountain, the Endless Warren, the Statue of Abundance, and others.  While many pilgrims seek the wisdom of all of the fortunes, Iori regards Sachi as a dilettante, hoping to gain wisdom and influence through proximity to the divine, rather than through discipline and study.
 
@@ -2902,7 +2907,7 @@ After the war ended, as part of the plan to repay Aki lineage debts, Yoshiyasu s
 
 The county magistrate of Choshizuka, a county from the Kai province of the ruling Hida domain, Kinori's county lies between the 3rd Imperial Legion and the 1st Crab legion.  Kinori was personally present for the events leading up to the Black Scrolls being recharged, and had many encounters with the heroes whose mission recharged them, and this has driven her to seek out her own strength and religious understanding.
 
-Kinori opposed the creation of a shrine to Osano-Wo, the Lord of Storms, and father to Hida Kaimetsu-Uo (who left the Crab to found the Mantis clan), on the Kaiu wall at the edge of her county.  When she was overruled, and the shrine later struck by lightning - an unambiguous sign of the Fortune's approval - she was humbled.  When the Black Scrolls were later recharged, and it became clear that challenging times would be ahead, Kinori set out on her pilgrimage to Toshi Ranbo.
+Kinori opposed the creation of a shrine to Osano-Wo, the Lord of Storms, and father to Hida Kaimetsu-Uo (who left the Crab to found the Mantis clan), on the Kaiu Wall at the edge of her county.  When she was overruled, and the shrine later struck by lightning - an unambiguous sign of the Fortune's approval - she was humbled.  When the Black Scrolls were later recharged, and it became clear that challenging times would be ahead, Kinori set out on her pilgrimage to Toshi Ranbo.
 
 Here she seeks not only Bishamon's strength but also his wisdom, for knowing when and how to support or oppose an action, whether religious or political or military, is the essence of wise strength.
 
@@ -3056,7 +3061,7 @@ Katsuro is the captain of the Lightning Squad, an elite team of first responders
 
 ### Togashi Ichiharu, Mirumoto Kiyoshi, and Kitsuki Hina
 
-This trio of traveling adventurers have been to the city many times before, but returned for the first time in nearly a decade late last year, arriving just before the Harvest Moon of the Fall Equinox.  This is not the first time that Kiyoshi or Hina have expressed an interest in temple relics, but in the past Togashi Ichiharu always eschewed such things, as part of his vows as an ascetic Ize Zumi monk.
+This trio of traveling adventurers has been to the city many times before, but returned for the first time in nearly a decade late last year, arriving just before the Harvest Moon of the Fall Equinox.  This is not the first time that Kiyoshi or Hina have expressed an interest in temple relics, but in the past Togashi Ichiharu always eschewed such things, as part of his vows as an ascetic Ize Zumi monk.
 
 It's unclear what changed last year to cause him to seek out the encounters with temple relics, but he has remained in the city for most of the intervening time.  Steward Iori is somewhat suspicious of him, though not in the sense of believing his motives to be impure, for the piousness of the Togashi is known throughout the Empire.  However, Iori has expressed that Ichiharu is likely the victim of false doctrines, as he asserts that "the mad monks of Togashi mountain" are as likely to confuse people away from enlightenment as they are to help people achieve it.
 
@@ -3105,7 +3110,7 @@ Here's the alphabetically sorted list of relic seekers Huiru is unable to locate
 
 The PCs requested their staff try to track down those who were out of the city, as well as get more information about the people in interesting circumstances within the city.  This is in progress, and so far this is what has been reported as of the 4th day of the 12th month, in alphabetical order:
 
-- **Asako Sachi** has been confirmed to have been spending most nights in the main Temple of Sadahako outside of the city in western Owari.  Your staff visited and spent considerable time praying there, and observed her talking with Grand Abbot Naoki.  Normally a visiting samurai consulting with the Grand Abbot of the Order of Sadahako would be presumed to be seeking advice, but in this case it may have been Naoki who was consulting with Sachi, who is an Empire-renown expert ichthyologist and also extremely politically connected with the Imperial Court.  The content of their discussions is unknown, though your staff is working diligently to learn more.
+- **Asako Sachi** has been confirmed to have been spending most nights in the main Temple of Sadahako outside of the city in western Owari.  Your staff visited and spent considerable time praying there, and observed her talking with Grand Abbot Naoki.  Normally a visiting samurai consulting with the Grand Abbot of the Order of Sadahako would be presumed to be seeking advice, but in this case it may have been Naoki who was consulting with Sachi, who is an Empire-renowned expert ichthyologist and also extremely politically connected with the Imperial Court.  The content of their discussions is unknown, though your staff is working diligently to learn more.
 
 - **Hida no Noriko Takeo** has evidently returned to the city.  Huiru couldn't locate him when he last tried, but your staff found him at home, and made inquiries with his neighbors about his conduct.  They had evidently expected a series of wild parties when they learned a Crab clan bushi was moving into the neighborhood, as the Crab clan generally and Hida bushi in particular are notorious drunkards, but evidently the family is on their best behavior while visiting a foreign city.  Takeo and his wife keep to themselves and display the proper reserve and decorum expected of samurai, even those  temporarily housed in a merchant neighborhood.
 
@@ -4000,7 +4005,7 @@ Additional examples of oaths could be given, but the discussion turns now to vow
 
 The above disclaimer is at the front of several books published by Isawa Akuma many centuries ago, including this one.  Akuma was a powerful shugenja who was also the greatest scholar of his generation, which is unusual since it's practically unheard of for masters of magic to also be masters of scholarship.  However, it later turned out that Isawa Akuma had used his great name to summon an oni lord (Oni no Akuma), who took the form of a Great Library hidden deep in the Isawa Woodlands.  This library is said to contain "all of the things which have ever been written, and many of the things which never were written, and more than a few things which will come to be written".  It cannot be found the same way twice, and therefore is very difficult to reach.
 
-Akuma published a number of works of scholarship written by people who were never born, or possibly which would have otherwise not come to be written for centuries, attributing these works to himself, which fueled his name even further.  Notably, Akuma is only one of two shugenja in history capable of practicing maho and thus taking on the Shadowlands taint without losing their shugenja abilities - the taint is hateful to the elemental kami and all other shugenja who have practiced maho have lost their powers as a result.  Akuma is one of only three shugenja who has achieved immortality, though presumably he did this through dark rituals rather than gaining the favor of the kami.  (Additional information on Isawa Akuma, not directly related to vows, appears later.)
+Akuma published a number of works of scholarship written by people who were never born, or possibly which would have otherwise not come to be written for centuries, attributing these works to himself, which fueled his name even further.  Notably, Akuma is only one of two shugenja in history capable of practicing maho and thus taking on the Shadowlands taint without losing their shugenja abilities - the taint is hateful to the elemental kami and all other shugenja who have practiced maho have lost their powers as a result.  Akuma is one of only three shugenja who have achieved immortality, though presumably he did this through dark rituals rather than gaining the favor of the kami.  (Additional information on Isawa Akuma, not directly related to vows, appears later.)
 
 On Vows to the Fortunes is still considered the foundational work of scholarship on the subject of vows, despite its origins, which speaks to its quality.  Here is some of the most salient information it contains.
 
@@ -4484,7 +4489,7 @@ Remember: all bloodspeakers are tsukai, but not all tsukai are bloodspeakers.  (
 
 The Office of the Jade Champion is in charge of the Kuni Witch Hunters, who are responsible for hunting tsukai.  There are about 200 Witch Hunters in the Empire, so while smaller domains don't have a Witch Hunter, most domains do.  (There are currently 284 domains total.)
 
-There are many different types of maho, because maho is not really a single practice - the textbook list of the 7 maho disciplines for Witch hunters and other authorities to watch out for are:
+There are many different types of maho, because maho is not really a single practice - the textbook list of the 7 maho disciplines for Witch Hunters and other authorities to watch out for are:
 
 - **Shadowlands taint magic:**
 
@@ -4538,7 +4543,7 @@ One of the earliest works of literature about the early days of the Empire is th
 
 "Before the rise of our Great Ancestors humanity amounted to little.  Their hands ran red with blood, they ate ravenously the flesh of animals, and their bodies were unbathed and ungroomed.  The original religious practices of the unguided peasants included the worship of local gods and minor fortunes who could bless families and land with fertility, prosperity and good fortune or wrack them with disasters and sterility.  Maho cults also existed and although not all human beings practiced maho, the practice of maho was both commonplace and accepted.  Ancient maho practices were identical to modern maho, except that they were commonplace and not illegalized.  Using sacrifices of blood and children, cultists sought to appease the dark gods of Jigoku and yield crops from the soil.  Because agricultural techniques of the early humans were undeveloped, the thirst of the soil for their blood was great."
 
-The Great Ancestors who founded the 7 Great Clans required that any warlord who swore fealty to them foreswear the practices of maho and make it illegal in their domains.  However, as Hantei Kajimitsu later mentions:
+The Great Ancestors who founded the 7 Great Clans required that any warlord who swore fealty to them foreswears the practices of maho and makes it illegal in their domains.  However, as Hantei Kajimitsu later mentions:
 
 "Although maho was made illegal after the founding of the Empire, it is unfortunately the case that some of the subjects of the Hantei continue to practice unclean maho."
 
@@ -4654,7 +4659,7 @@ Interestingly, Jama no Kohaku Jin told the PCs during a previous campaign that r
 
 After Iuchiban's defeat, while Jama Suru proceeded to recruit and gain power from noble samurai, Jama Kohaku recruited peasants.  He is known to have personally sought out countryside tsukai from all over the Empire and taught them how to conceal the Shadowlands taint, allowing them to expand their covens and migrate from the countryside into larger cities without being found.  Because of his focus on evangelism to the peasantry, more bloodspeaker covens broken up by Witch Hunters have been linked to Kohaku than any other bloodspeaker.
 
-When a powerful oni lord known as The Maw gathered an army within the Shadowlands, it was Kohaku who combined explosives with powerful maho to blast a hole in the Kaiu Wall, allowing the Maw to invade the Empire.  Even worse, Kohaku diverted a Shadowlands river through the opened hole in the Kaiu wall, flooding and tainting the Hiruma countryside, which ultimately prevented the Crab from reclaiming Hiruma castle after the Maw was defeated at the Battle of Cresting Wave.
+When a powerful oni lord known as The Maw gathered an army within the Shadowlands, it was Kohaku who combined explosives with powerful maho to blast a hole in the Kaiu Wall, allowing the Maw to invade the Empire.  Even worse, Kohaku diverted a Shadowlands river through the opened hole in the Kaiu Wall, flooding and tainting the Hiruma countryside, which ultimately prevented the Crab from reclaiming Hiruma castle after the Maw was defeated at the Battle of Cresting Wave.
 
 After Iuchiban was defeated, his soul was bound to the Forgotten Tomb.  Jama Suru performed unknown rituals to break it free, but it was Jama Kohaku who used his khadi-trained flesh-shaping abilities to construct a new body for Iuchiban's spirit to inhabit.  Kohaku continued to serve as one of Iuchiban's trusted lieutenants until Iuchiban's second death at the Battle of Sleeping River.
 
@@ -4692,7 +4697,7 @@ Witch Hunters quickly grew in number and importance in order to fight against th
 
 #### The Gozoku
 
-Some Hantei Emperors need to take strong action and be closely involved in political matters throughout the Empire.  Other Emperors preside over periods of prosperity which require little of their attention.  During one such period, five families of the Empire collaborated to effectively seize control of the Imperial Chancellery, ensuring that their cabal were the true decisionmakers in most matters decided in the Imperial capital.  Some players may have noticed that a few of the Companies in the 1st Imperial Legion are not from the ruling houses of their respective families.  Those families were members of the Gozoku, and were so powerful that they obtained more wealth and influence than even the houses which ostensibly ruled them.
+Some Hantei Emperors need to take strong action and be closely involved in political matters throughout the Empire.  Other Emperors preside over periods of prosperity which require little of their attention.  During one such period, five families of the Empire collaborated to effectively seize control of the Imperial Chancellery, ensuring that their cabal was the true decisionmakers in most matters decided in the Imperial capital.  Some players may have noticed that a few of the Companies in the 1st Imperial Legion are not from the ruling houses of their respective families.  Those families were members of the Gozoku, and were so powerful that they obtained more wealth and influence than even the houses which ostensibly ruled them.
 
 In case it matters for future reference, the five families of the Gozoku are:
 
@@ -4760,7 +4765,7 @@ Isawa Ejuko was the Elemental Master of Water at the beginning of the 8th centur
 
 An Imperial magistrate ordered that the challenge must be answered, and that the duel would be fought to the death, so that the winner would be free to marry (or stay married) to Ejuko's friend Konishiko.  The magistrate ordered that the matter would be decided by duel "once and for all" on a certain date on which the duel would take place.
 
-Ejuko called upon the water kami and created a torrential rain on that day, preventing any possibility of a duel to occur.  When questioned, she declared that the kami themselves were angered by the efforts to separate this husband and wife, though it seemed clear that she herself had provoked this anger and that the kami were angry as a result of her request as the Master of Water that they show their anger.
+Ejuko called upon the water kami and created a torrential rain on that day, preventing any possibility of a duel occurring.  When questioned, she declared that the kami themselves were angered by the efforts to separate this husband and wife, though it seemed clear that she herself had provoked this anger and that the kami were angry as a result of her request as the Master of Water that they show their anger.
 
 Ejuko was ordered back to Phoenix lands so that she could no longer interfere with the duel, which was allowed to go forward.  She was not punished, though she was admonished for having interfered with a valid duel, and it was made clear that even the Master of Water would have suffered the displeasure of the Emperor had she interfered with a duel already in progress.
 
@@ -4838,7 +4843,7 @@ Here is what Bashi wrote to Tetsu when asked to compose a report on the Moto:
 
 To His Excellency Kitsuki Tetsu,
 
-You have asked about the Moto, but there are two Moto peoples on the two sides of the western desert.  Each of them claim to live in their ancestral homeland, but it is the Moto who ride under the banner of Moto Gaheris who are correct, and those who live to the southwest of Medinat al Salaam have been deceived by false histories and doctrines.
+You have asked about the Moto, but there are two Moto peoples on the two sides of the western desert.  Each of them claims to live in their ancestral homeland, but it is the Moto who ride under the banner of Moto Gaheris who are correct, and those who live to the southwest of Medinat al Salaam have been deceived by false histories and doctrines.
 
 You might ask how I can draw such a strong conclusion, when each group of Moto is unable to present a convincing case.  The Moto are a secretive people, who keep hidden their laws and histories, and thus most Moto do not know how men came to ride horses.  By examining this history, we can locate the true ancestral homeland of the Moto people, despite the histories of the Uru people having very little information about the Moto.
 
@@ -4990,7 +4995,7 @@ The Uru have arrived in Medin al Salaat, to meet with Caliph Hanan Talibah in th
 
 In the Caliph's court are the most esteemed of the factions.  The most numerous are the noble families of the Almekhem, who ruled the city under the Sultunate before the Ki Rin conquered the city and who now once again administer holdings under the Caliph.  However, in this dream they are faceless masses, just as the Moto families were who helped your raids and acted as your bodyguards.  Here you discern that the individual Almekhem matter little, for whatever their noble blood they serve at the pleasure of the Caliph and act as extensions of her will.
 
-The khadi are also present - in particular two senior khadi, each of them with an apprentice.  One of the senior khadi is the Caliph's grand vizier, and the other is her slave.  Each khadi carries an obsidian sword, and other than the Caliphs personal guard they are the only ones permitted to carry such weapons in the Caliph's court.  The faces of all 4 of the khadi cannot be seen, because none of them are in possession of their own names.  Instead you see different faces cycle back and forth.  On the vizier and the slave, the faces shift so quickly that your eyes cannot focus on them for even an instant, whereas on their apprentices faces linger for many seconds before cycling between a smaller number of the faces of those whose names they have taken.
+The khadi are also present - in particular two senior khadi, each of them with an apprentice.  One of the senior khadi is the Caliph's grand vizier, and the other is her slave.  Each khadi carries an obsidian sword, and other than the Caliph's personal guard they are the only ones permitted to carry such weapons in the Caliph's court.  The faces of all 4 of the khadi cannot be seen, because none of them are in possession of their own names.  Instead you see different faces cycle back and forth.  On the vizier and the slave, the faces shift so quickly that your eyes cannot focus on them for even an instant, whereas on their apprentices, faces linger for many seconds before cycling between a smaller number of the faces of those whose names they have taken.
 
 The Nizari are also present - while as you've already seen their population lives mainly outside the city, they also have emissaries here.  Their leader, who represents them here, is the Old Man of the Mountain.
 
@@ -5664,7 +5669,7 @@ This is my way as the GM of resolving all of the stories of people "becoming" a 
 
 In other cases a fortune has been identified by name without using a name which once belonged to a human.  For example, Bishamon, the Fortune of Strength, has always been known as Bishamon, rather than being named for any specific, identifiable human with that name.
 
-I mentioned "Doji Shizue and the Secrets of Calligraphy" before, and in Rokugan there is a play with that title.  In the play Shizue has sought out the advice of the shugenja Kitsu Okura.  The family line of Kitsu Okura denounces this scene, which is the only scene in which Kitsu Okura appears, though his descendents have declined to say which specific part is not accurate or fails to reflect their family understanding of the fortunes.
+I mentioned "Doji Shizue and the Secrets of Calligraphy" before, and in Rokugan there is a play with that title.  In the play Shizue has sought out the advice of the shugenja Kitsu Okura.  The family line of Kitsu Okura denounces this scene, which is the only scene in which Kitsu Okura appears, though his descendants have declined to say which specific part is not accurate or fails to reflect their family understanding of the fortunes.
 
 Here is the scene, which I wrote as an in-universe example of how some people talk about the fortunes:
 
@@ -6369,7 +6374,7 @@ Fu eventually realized that the only way to see the investigation through was to
 
 After the Day of Thunder, Fu felt vindicated and she suspects that Lord Moon's servants may have had some hand in this matter.  She has gotten word that this investigation has received increased scrutiny after it was revealed that some in the Scorpion clan had fallen under Lord Moon's influence, but she remains convinced they are not doing enough.  Fu intends to return to Ryoko Owari after this tour of duty to hunt for whatever monster lurks in the shadows there.
 
-In the meantime, Fu keeps a meticulous journal and has developed an obsessive system of indexing its pages, then carving the index into wooden planks she nails to the walls of the barracks.  She reviews the journals regularly and checks for missing pages to ensure that no more of her memories are stolen from her.  Thus far she has had no further missing time, which only confirms that the danger is centered around Ryoko Owari and Beiden Pass.
+In the meantime, Fu keeps a meticulous journal and has developed an obsessive system of indexing its pages, then carving the index into wooden planks she nails to the walls of the barracks.  She reviews the journals regularly and checks for missing pages to ensure that no more of her memories are stolen from her.  Thus far she has had no further missing time, which only confirms that the danger is centered on Ryoko Owari and Beiden Pass.
 
 Note that Fu's backstory was explained by the story of the Nameless One, though Fu did not have this explanation at the time of the 3rd Imperial Legion campaign.
 
@@ -6397,7 +6402,7 @@ Gohei was branded "the butcher" by his enemies, and decided to take this on as a
 
 This last example was particularly egregious, but Gohei prides himself on fearing nothing, and especially being unafraid of ghosts, even the vengeful ancestors of his enemies.  In particular, he would raid and pillage ancestral shrines in conquered territory, even while others treated them with the same reverence as shrines and temples to the fortunes and kami.
 
-Kazushi participated in many of these raids and executions, and yet was the first person to warn everyone off of attacking Doji no Tsume Toyohiro, saying things like, "Trust me, it's a bad idea and not worth it to interfere with a man's ancestors." Last year during the entire week of the Bon festival, Kazushi enshrined himself in Chai Sedo burning incense and praying to his own ancestors.  Evidently he consulted with Toranosuke (the abbot of Chai Sedo) and was told this was a good way to fulfill his own ancestral commitments while remaining safe from vengeful ghosts during the week in which the gates of Jigoku are open.
+Kazushi participated in many of these raids and executions, and yet was the first person to warn everyone off attacking Doji no Tsume Toyohiro, saying things like, "Trust me, it's a bad idea and not worth it to interfere with a man's ancestors." Last year during the entire week of the Bon festival, Kazushi enshrined himself in Chai Sedo burning incense and praying to his own ancestors.  Evidently he consulted with Toranosuke (the abbot of Chai Sedo) and was told this was a good way to fulfill his own ancestral commitments while remaining safe from vengeful ghosts during the week in which the gates of Jigoku are open.
 
 It's unclear how Bayushi Iru discovered all of this, since the Lion tend to close ranks and not share internal gossip, and Toranosuke is known for discretion, but Iru is the reason why this is all public knowledge.  After a minor public squabble, she called him out as being haunted, using language like "what did that idiot think would happen - he desecrated ancestral shrines so now of course he's haunted by angry ancestors!" Kazushi challenged her to a duel and was forced to submit by her superior skill.  (Iru said nothing disparaging afterwards, but as a person who always compliments her opponents after any kind of duel her silence spoke volumes.)
 
@@ -6477,7 +6482,7 @@ The most dramatic example of this is the Burning Words, which was supposedly loc
 
 There are two significant properties of the Burning Words which make them the most infamous and supposedly the most powerful source of prophetic revelation in the world:
 
-1. Predictions made by the Burning Words always come true.  Many prophecies are "unstable", in that they do not take themselves into account.  A prophet might predict what would have occurred had her warning not been given, but the fact that a prophecy has been discharged gives humans the opportunity to change which of many possible futures will actually come to pass.  Predictions made by the Burning words will always come true - one who witnesses such a prediction knows that even if they reveal this truth and are believed, this knowledge will not be enough to prevent the prophecy from being fulfilled.
+1. Predictions made by the Burning Words always come true.  Many prophecies are "unstable", in that they do not take themselves into account.  A prophet might predict what would have occurred had her warning not been given, but the fact that a prophecy has been discharged gives humans the opportunity to change which of many possible futures will actually come to pass.  Predictions made by the Burning Words will always come true - one who witnesses such a prediction knows that even if they reveal this truth and are believed, this knowledge will not be enough to prevent the prophecy from being fulfilled.
 
 2. The Burning Words reveal only terrible truths.  It is said that most who gaze upon them wish that they would have been spared the burden of such terrible knowledge.  The Burning Words transmit not only the truth itself, but the terrible sense that there are no technicalities or loopholes, and that any outcome which fulfils them will indeed be terrible in some regard.
 
@@ -6837,7 +6842,7 @@ Here's my writeup on the creation of the Wasp clan:
 
 The Spine of the World Mountains bisect the Empire in two, with Beiden Pass being the main passage between the northern and southern halves of the central Empire.  In the eastern Empire, ships are the fastest and most efficient way to move people and goods up and down the coast, and a narrow mountain pass 150 miles inland is the best way to travel from one side of the mountains to the other (as Beiden pass is ~400 miles to the northwest along the mountain range).
 
-This mountain pass is located in the Hachinaga ("long wasp") province, a dynasty province which the Shin lineage has ruled for over a thousand years.  Their progenitor, Bayushi Shin, personally swore fealty to Lord Bayushi, and his descendents later became part of the Kyo vassal house of the Bayushi family, tasked with defending the valuable mountain pass from the Zenji vassal house of the Matsu Family of the Lion Clan to the north.
+This mountain pass is located in the Hachinaga ("long wasp") province, a dynasty province which the Shin lineage has ruled for over a thousand years.  Their progenitor, Bayushi Shin, personally swore fealty to Lord Bayushi, and his descendants later became part of the Kyo vassal house of the Bayushi family, tasked with defending the valuable mountain pass from the Zenji vassal house of the Matsu Family of the Lion Clan to the north.
 
 The Wasp Clan was founded by Tsuruchi, first of his name, and its holdings consist entirely of the mountainous Hachinaga province.
 
@@ -6960,7 +6965,7 @@ As a reminder, the Karmic Inquisitors campaign took place in the winter of 1129 
 | 1123 | The Day of Thunder occurs. <br> Bayushi Shoju is murdered.  His brother, Bayushi Aramoro later marries his widow, Bayushi Kachiko. <br> Hida Kisada is wounded, and his oldest daughter Hida O-Ushi, the Crab Thunder, is killed. <br> Jama no Iuchiban Kohaku arrives late to the Day of Thunder, fails to stop the 7 Thunders from defeating Shinjo Jotsu, and takes revenge by slaying the remaining Thunders.  Oni no Kohaku kills hundreds of samurai before being slain.  Kohaku announces that all loyal moon cultists should take refuge in Kyuden Shinjo, where the moon cult remains strong. |
 | 1124 | Shinjo Hanari executes Shinjo Yokatsu for high treason against the Empire, and declares a blood debt on his line, and becomes daimyo of the Unicorn clan. |
 | 1127 | The Black Scrolls are opened and recharged at the Forgotten Tomb. <br> Kuni Yori is executed for high treason against the Empire for experimenting with moon cultists and the practice of maho.  Kuni Utagu becomes the new Jade Champion. <br> Iuchi Shahai and the remaining moon cultists attempt to assassinate the Emperor at Imperial Winter Court at Kyuden Shinjo. <br> Shinjo Hanari executes Iuchi Daiyu, the daimyo of the Iuchi family (and Shahai's father), and declares a blood debt on Shahai's line.  Iuchi Morijiro (a priest rather than a bushi) becomes daimyo of the Iuchi family. |
-| 1128 | The Crab clan, under the direction of the Kuni Witch hunters, begin experimenting with the Black Scrolls. |
+| 1128 | The Crab clan, under the direction of the Kuni Witch Hunters, begin experimenting with the Black Scrolls. |
 | 1129 | The kumosaya fungal blight destroys half of the Damasu rice and soybean crop. |
 | 1130 | Tsuruchi Naomi begins considering suitors for her eldest son Ichiro (the future daimyo of the Wasp). |
 
@@ -7335,7 +7340,7 @@ There were fewer humans in those days, so the bounty of the wilds was sufficient
 
 In the untapped wilds of the far west, these peoples were often aided by the gods of the land, both the spirits who dwell in the unseen world and the elemental kami.  These were not the folk practices of unclean maho, but shamans who had learned the rhythms of the world and how to solicit the divine favor of the gods.  Although these shamans rejected the newly revealed truths of shugendo and shinseism, they could not be put to death as the maho-tsukai were, as doing so would have angered the gods whom they served.  However, these shamans could not be permitted to remain in the west, as the esteem in which they were held was leading many away from the guidance of the Lady Shinjo.
 
-Asako, first of her name (daimyo of the Asako family of the new Phoenix clan) offered sanctuary to these "shamans of the ki rin", centered around the newly constructed "Ki Rin's Shrine".  However, these shamans of the west were not all of one mind or tradition, and they clashed with each other just as much as they created strife for their Asako hosts.  While many of them were eventually civilized, marrying into the Asako family and adding their ancient lore to the secrets of the Phoenix, others continued to resist the pull of civilization.
+Asako, first of her name (daimyo of the Asako family of the new Phoenix clan) offered sanctuary to these "shamans of the ki rin", centered on the newly constructed "Ki Rin's Shrine".  However, these shamans of the west were not all of one mind or tradition, and they clashed with each other just as much as they created strife for their Asako hosts.  While many of them were eventually civilized, marrying into the Asako family and adding their ancient lore to the secrets of the Phoenix, others continued to resist the pull of civilization.
 
 While the Asako were unwilling to retract their hospitality, they sought out other places where their intransigent guests might be better suited.
 
