@@ -179,12 +179,18 @@ The most common arithmetic mistake is **multiplying a sub-unit count by 284 inst
 
 | Place | N | T | P | Total Tax | Total Pop |
 | --- | --- | --- | --- | --- | --- |
-| Capital city | 1 | 24888 | 12000 | 24888 | 12000 |
+| Capital city | 1 | 24888 | 12360 | 24888 | 12360 |
 | Provincial city | 6 | 6222 | 3000 | 37332 | 18000 |
-| Town | 36 | 1603.2 | 1200 | 57715 | 43200 |
+| Town | 36 | 1603.2 | 1190 | 57715 | 42840 |
 | Village | 216 | 350 | 350 | 75600 | 75600 |
 | Hamlet | 1296 | 75 | 75 | 97200 | 97200 |
-| **Total** |  |  |  | 292735 | 246000 |
+| **Named-settlement total** |  |  |  | 292735 | 246000 |
+
+**Named-settlement total vs. the full domain**: this table sums only the *named settlements* (capital, provincial cities, county towns, villages, hamlets), which come to ~246,000.  The domain's full population is the canonical **~250,000** (1/400 of the Empire's 100 million); the ~4,000 difference (~1.6% of the domain) is **rural population living outside any named settlement** - chiefly the ~560 samurai on country estates (per [`l7r.md` - The Median Domain](l7r.md#the-median-domain), an estate "would never be considered part of the village/hamlet") together with their household servants and the estate hands who farm holdings too isolated to be counted under any village or hamlet, plus the slack in rounding ~246,000 up to a clean quarter-million.  So the named-settlement ~246,000 plus the rural-estate balance reconciles to the canonical ~250,000; the property 250,000 = 100,000,000 ÷ 400 holds for the domain as a whole.
+
+That a small ~1.6% remainder lives outside any named settlement is consistent with historical norms for a **nucleated-settlement agrarian society**, which is what Rokugan is modeled on.  Tokugawa Japan was organized almost entirely around the *mura* (the village as a registered corporate unit): nearly every commoner belonged to a named village or town even when their fields were scattered across the landscape, and genuinely isolated farmsteads were the exception rather than the rule.  The same is broadly true of the dense wet-rice cores of Ming and Qing China, where paddy cultivation rewards clustered labor and almost everyone lived in a named village.  This is the opposite of dispersed-settlement regions (much of upland and northwestern Europe, frontier zones), where isolated single-family farmsteads were common and a "no named settlement" share could run far higher.  Rokugan follows the East Asian pattern: the overwhelming bulk of the population lives in named villages, hamlets, towns, and cities (all captured in the table above), and the dispersed remainder is small.  It skews samurai because the one group with a structural reason to live *off* the nucleated grid is the warrior caste holding a country estate - the L7R analogue of the rural *gōshi* who remained on the land after the separation of warrior and peasant (*heinō bunri*) concentrated the great majority of samurai into castle towns.  A ~1.6% dispersed share, most of it estate households, is exactly what a nucleated-settlement society with a small rural-resident gentry produces.
+
+The capital's ~12,360 is its settled ~12,000 plus the ~360 non-working samurai whose families have relocated there from the domain's county towns (see the [Town](#town) and [Capital City](#capital-city) caste tables); the county towns are correspondingly lighter (~1,190 each, down from ~1,200).  Total domain population and the entire tax base are unchanged - this is a redistribution of samurai *within* the domain, and samurai pay no property/business tax, so no settlement's Total Tax moves.
 
 ### Samurai
 
@@ -240,12 +246,14 @@ The empire-wide figures align with the [Imperial Budget](#the-imperial-budget) b
 
 | Place | N | T | P | Total Tax | Total Pop |
 | --- | --- | --- | --- | --- | --- |
-| Capital city | 0 | 24888 | 12000 | 0 | 0 |
+| Capital city | 0 | 24888 | 12360 | 0 | 0 |
 | Provincial city | 1 | 6222 | 3000 | 6222 | 3000 |
-| Town | 6 | 1603.2 | 1200 | 9619 | 7200 |
+| Town | 6 | 1603.2 | 1190 | 9619 | 7140 |
 | Village | 36 | 350 | 350 | 12600 | 12600 |
 | Hamlet | 216 | 75 | 75 | 16200 | 16200 |
-| **Total** |  |  |  | 44641 | 39000 |
+| **Named-settlement total** |  |  |  | 44641 | 38940 |
+
+As with the [Domain population table](#domain) above, this sums only named settlements; the province's full population is slightly higher (~39,600), the small remainder being the same dispersed rural-estate population explained there.
 
 ### Samurai
 
@@ -283,12 +291,14 @@ The empire-wide figures align with the [Imperial Budget](#the-imperial-budget) b
 
 | Place | N | T | P | Total Tax | Total Pop |
 | --- | --- | --- | --- | --- | --- |
-| Capital city | 0 | 24888 | 12000 | 0 | 0 |
+| Capital city | 0 | 24888 | 12360 | 0 | 0 |
 | Provincial city | 0 | 6222 | 3000 | 0 | 0 |
-| Town | 1 | 1603.2 | 1200 | 1603 | 1200 |
+| Town | 1 | 1603.2 | 1190 | 1603 | 1190 |
 | Village | 6 | 350 | 350 | 2100 | 2100 |
 | Hamlet | 36 | 75 | 75 | 2700 | 2700 |
-| **Total** |  |  |  | 6403 | 6000 |
+| **Named-settlement total** |  |  |  | 6403 | 5990 |
+
+As with the [Domain population table](#domain) above, this sums only named settlements; the county's full population is slightly higher (~6,100), the small remainder being the same dispersed rural-estate population explained there.
 
 ### Samurai
 
@@ -658,16 +668,16 @@ Combining the sub-linear principle with the canonical caste tables produces the 
 | Settlement | Population | Samurai % | Resident samurai (approx) |
 | --- | --- | --- | --- |
 | Hamlet / village | 75-500 | 0% | 0 |
-| County town | ~1,200 | ~2.5% | ~30 |
+| County town | ~1,190 | ~1.7% | ~20 |
 | Provincial city | ~3,000 | ~10% | ~300 |
-| Median domain capital | ~12,000 | ~10% | ~1,200 |
+| Median domain capital | ~12,400 | ~13% | ~1,560 |
 | Mid-size capital | ~30,000-90,000 | ~8-9% | ~2,500-7,500 |
 | Large capital (e.g. Kyuden Daidoji ~200K) | ~200,000 | ~6% | ~12,000 |
 | Very large city (e.g. Toshi Ranbo ~300K) | ~300,000 | ~5% | ~15,000 |
 | Largest non-capital city (Ryoko Owari ~500K) | ~500,000 | ~4.5% | ~22,500 |
 | **Otosan Uchi** | **~1,000,000** | **~4%** | **~40,000** |
 
-The schedule captures the key shape: samurai concentration is near-zero in the countryside, rises to a **peak of ~10%** at the level of provincial cities and median domain capitals (where administrative density is highest relative to commercial population), then **declines steadily** for the mega-cities as commercial and service populations outgrow the administrative cohort.  A median domain capital is essentially at the peak of the curve; the great clan and family capitals, despite having far more samurai in absolute terms, have a markedly lower samurai *percentage*.
+The schedule captures the key shape: samurai concentration is near-zero in the countryside, rises to a **peak of ~13% at the median domain capital** - the daimyo's castle-town seat, which concentrates not only the senior administrative cohort but the schooling-and-retirement households of samurai families from across the domain (including the county towns, which run correspondingly light at ~1.7%) - and then **declines steadily** for larger cities as commercial and service populations outgrow the samurai cohort.  Provincial cities sit a step below the capital at ~10% (they are administrative centers but not the family magnet the capital is); larger clan and family capitals, despite far more samurai in absolute terms, fall back toward ~6-9% as their sheer commercial size dilutes the concentration, all the way down to Otosan Uchi at ~4%.  (This ~13% capital peak is a deliberately restrained echo of the historical castle town, where the daimyo's seat ran 30-60% samurai; Rokugan's capitals are far more commercial.)
 
 ### Otosan Uchi: ~40,000 Samurai
 
@@ -1301,9 +1311,10 @@ Total population: **~12,000**.
 | 8 | samurai, bushi | 960 | 192 | 0 | 0 | 0 | 0 |
 | 0 | samurai, shugenja | 0 | 0 | 0 | 0 | 0 | 0 |
 | 100 | Total | 12000 | 2400 |  |  |  | 24888 |
+| +3 | samurai, relocated county families (non-working) | ~360 | ~72 | 0 | 0 | 0 | 0 |
 | +0.4 | samurai, foreign (Imperial appointees) | ~45 | ~12 | 0 | 0 | 0 | 0 |
 
-**Samurai composition note**: the 10% domestic samurai (~1,200) break down as ~800 working (the cohort the daimyo pays a stipend, per the [Samurai sub-tables](#samurai-1)) plus ~400 non-working - children being educated, retirees, and the resident families of the ~200 capital-born samurai who serve the Empire abroad (in the legions, at Otosan Uchi, or as cross-clan yoriki) and leave their households in the capital.  The capital concentrates non-working samurai families (it is the cultural and educational center of the domain), which is why its working share is lower than the ~60% domain-wide.  The **~45 foreign samurai** are the Imperial Magistrate's office stationed in the capital (the IM, karo, ~5 household, ~25 office yoriki, plus ~12 accompanying family) - they reside in the city but are paid by the Empire and their own home domains, not by Daimyo Isao, so they are listed *additional* to the 12,000-person settled-population breakdown rather than within it.
+**Samurai composition note**: the capital's settled-population breakdown (~12,000) shows ~1,200 domestic samurai (10%), but its true resident samurai count is higher because the capital is the domain's schooling-and-retirement magnet.  Adding the **~360 non-working samurai whose families relocate here from the domain's county towns** (children sent to the capital's schools, elders retiring near the daimyo's court) brings the domestic total to **~1,560**, and the ~1,200 base itself is ~800 working (the cohort the daimyo pays, per the [Samurai sub-tables](#samurai-1)) plus ~400 non-working (children, retirees, and the families of the ~200 capital-born samurai serving the Empire abroad).  So the capital's resident domestic samurai run **~1,560 (~13% of its ~12,360 physical population)** - the highest samurai concentration of any settlement tier, exactly as a daimyo's castle-town seat should be (provincial cities sit at ~10%, county towns at ~1.7%, and the great mega-cities fall back toward ~4-6% as commerce dilutes them).  The working share is correspondingly low (~800 of ~1,560 ≈ 51%) because so many of the residents are dependents.  The **~45 foreign samurai** are the Imperial Magistrate's office (the IM, karo, ~5 household, ~25 office yoriki, plus ~12 accompanying family) - resident but paid by the Empire and their own home domains, not by Daimyo Isao.  Both the relocated and foreign cohorts are listed *additional* to the 12,000-person settled-population breakdown; with them the capital physically holds ~12,400 people.
 
 ## Provincial City
 
@@ -1384,12 +1395,14 @@ Total population: **~900-1,500, average ~1,200**.
 | 2.5 | farmer, poor freeholder | 30 | 6 | 0 | 0 | 5 | 30 |
 | 5 | farmer, freeholder | 60 | 12 | 0 | 0 | 5 | 60 |
 | 2.5 | farmer, wealthy landowner | 30 | 6 | 0 | 0 | 5 | 30 |
-| 2.5 | Samurai | 30 | 6 |  |  |  |  |
+| 1.7 | Samurai | 20 | 4 |  |  |  |  |
 | 0 | samurai, merchants | 0 | 0 |  |  |  |  |
 | 0 | samurai, courtiers | 0 | 0 |  |  |  |  |
-| 2.5 | samurai, bushi | 30 | 6 |  |  |  |  |
+| 1.7 | samurai, bushi | 20 | 4 |  |  |  |  |
 | 0 | samurai, shugenja | 0 | 0 |  |  |  |  |
-| 100 | Total | 1200 | 240 |  |  |  | 1603.2 |
+| 100 | Total | 1190 | 238 |  |  |  | 1603.2 |
+
+**Samurai composition note**: a county town holds only ~20 resident samurai, of which ~15 are working (the magistrate and their staff - a full platoon) and only ~5 are non-working.  This is a far higher working share (~75%) than any city, because **county samurai families largely do not live in the remote county seat**: children are sent up-tier to the provincial city or domain capital for schooling, and elders retire there, so the dependents who would otherwise pad the count reside in those larger centers (see the [Capital City](#capital-city) note).  The ~10 family members per town who relocate up account for the ~360-per-domain shift that lifts the capital's resident samurai to ~13%.  The town's tax base (~1,603) is unchanged - samurai pay no property/business tax, so their relocation does not move it.
 
 ## Village
 
