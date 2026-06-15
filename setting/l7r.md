@@ -870,7 +870,7 @@ Beyond land tax and city-gate import tariffs, the Ministry of Revenue's third si
 
 ### The Ministry of Retainers
 
-The Ministry of Retainers handles stipends and tracks the rank of all the daimyo's samurai retainers.  Administers civil service exams, and assesses candidates for promotions.  For high-ranking positions (usually Governor or above and often County Magistrates due to the revenue associated with that position), the Ministry of Retainers will administer exams to eligible candidates, and then the Chancellery will select from a small pool of those who scored the highest.
+The Ministry of Retainers handles stipends and tracks the rank of all the daimyo's samurai retainers.  It also administers civil service exams and assesses candidates for promotions.  For high-ranking positions (usually Governor or above and often County Magistrates due to the revenue associated with that position), the Ministry of Retainers will administer exams to eligible candidates, and then the Chancellery will select from a small pool of those who scored the highest.
 
 A significant operational detail: stipends are paid in a mix of rice and coin (koku gold, bu silver, zeni copper at various scales).  The legal exchange rate is fixed by Imperial decree - 1 koku gold coin is always equivalent to 40 gallons of rice for purposes of stipends, rent, and taxes - but real market prices fluctuate substantially with the harvest, regional demand, transportation costs, and merchant speculation.  When rice is cheap on the open market, paying stipends in rice favors the government and disadvantages the recipient; when rice is expensive, the opposite holds.  The same dynamic applies to gold-versus-silver-versus-copper exchange ratios.  The Ministry of Retainers exercises substantial discretion over the denomination mix in each samurai's annual stipend, year by year - and applied across thousands of stipends, this discretion translates to major cumulative impact on samurai household budgets.  A friendly Minister can quietly favor a samurai or a whole lineage with denomination decisions that recognize their interests; an unfriendly one does the opposite.  This is one of the Ministry's principal sources of soft power and a major reason ambitious samurai compete for the Minister of Retainers post even though its formal stipend is modest.
 
@@ -1272,7 +1272,7 @@ Hachijuuhachiya marks the time when newly planted rice is safe from even the mos
 - **Month of the Horse** - 6 May to 5 June
 - **Seasonal color:** Orange flower combination (deadleaf yellow and purple)
 - **Flowers of Summer:** aogiri phoenix tree, natsukusa summer grasses and herbs, aoashi green reeds, mugura burweed, makomo water oats, ukikusa duckweed
-- **Flowers of Uzuki:** botan peony, wakakaede young maple leaves, tokiwagi ochiba fallen evergreen leaves, unohana deutzia flower, ibara multiflora rose, kiri pawlonia, takeochiba fallen bamboo leaves, yuri lily, takenoko bamboo shoots, fuki buterburr, mugi barley
+- **Flowers of Uzuki:** botan peony, wakakaede young maple leaves, tokiwagi ochiba fallen evergreen leaves, unohana deutzia flower, ibara multiflora rose, kiri pawlonia, takeochiba fallen bamboo leaves, yuri lily, takenoko bamboo shoots, fuki butterbur, mugi barley
 
 The fourth month is called the "unohana month" for the unohana flower, or deutzia, that blooms seasonally.  Summer begins in the fourth month.  Uzuki is an even-numbered month when people are busy with farming, so it has a relatively clear calendar.  However, there are many flowers and plants to enjoy in this month, and people acutely aware of the approaching rainy season will make time to enjoy nature.  Uzuki is also the month for harvesting winter wheat and picking tea leaves, and the time for harvesting winter barley in temperate areas.
 
@@ -1522,7 +1522,7 @@ There are always 12 members of The Order, most of whom don't have any official t
 
 - Teacher of the Astral Ways, aka the Teacher.  This member (currently Umiko) is responsible for training new initiates.
 
-- Steward of the Secret Cache, aka the Steward.  The Order's ceremonies require many implements, and these things must be kept hidden and brought to ceremonies by the Steward (currently Osei).
+- Steward of the Sacred Cache, aka the Steward.  The Order's ceremonies require many implements, and these things must be kept hidden and brought to ceremonies by the Steward (currently Osei).
 
 Below are the backstories for the senior members of The Order of Lord Moon:
 
@@ -2205,7 +2205,7 @@ All samurai associate themselves with a notable ancestor who founded a lineage. 
 
 Each domain usually has 5-10 major lineages which make up the majority of its samurai and who administer its government.  The daimyo's lineage is often referred to as the ruling lineage and always has the same name as the domain itself, e.g. the ruling lineage of the Damasu house is, unsurprisingly, the Damasu lineage.
 
-Most domains have a handful of smaller lineages which are too minor to be granted a position in the House Chancellery, but whose members still proudly uphold the traditions of their family line.  Sometimes such lineages grow sufficiently large and successful enough to be granted a seat on the chancellery, and other times existing lineages shrink or otherwise fall into disfavor and lose their seat.  In general, lineages which make up at least 10% of a domain usually have seats in their local House Chancellery, and smaller lineages do not, though this is not a legal requirement and daimyo have absolute legal authority in their domains to promote or dismiss their retainers at their sole discretion.
+Most domains have a handful of smaller lineages which are too minor to be granted a position in the House Chancellery, but whose members still proudly uphold the traditions of their family line.  Sometimes such lineages grow sufficiently large and successful to be granted a seat on the chancellery, and other times existing lineages shrink or otherwise fall into disfavor and lose their seat.  In general, lineages which make up at least 10% of a domain usually have seats in their local House Chancellery, and smaller lineages do not, though this is not a legal requirement and daimyo have absolute legal authority in their domains to promote or dismiss their retainers at their sole discretion.
 
 Such changes most often happen during turbulent times, and the recent war and changes in Damasu lands (as explained on the Timeline) have caused many changes to the makeup of the Damasu's lineages, which are now almost completely different than they were 15 years ago before the Tsume invasion.
 
@@ -2375,31 +2375,7 @@ The name means "lower field" or "lower plain."  The province was the southernmos
 
 Since the PCs are members of the Brotherhood of Shinsei, the significant temples in Damasu lands deserve some attention.
 
-When the Shinsei was advising the Hantei on the new Empire being created, part of his guidance was the identification of the 7 Major Fortunes whose favor would bring good luck and prosperity to humanity:
-
-| Fortune | Domain |
-| --- | --- |
-| Benten | The fortune of romantic love |
-| Bishamon | The fortune of strength |
-| Daikoku | The fortune of wealth |
-| Ebisu | The fortune of honest work |
-| Fukurokujin | The fortune of wisdom and mercy |
-| Hotei | The fortune of contentment |
-| Jurojin | The fortune of longevity |
-
-The Shinsei further recommended that each clan cultivates two major Fortunes to be their patrons, ensuring that every city within the clan has a temple to each of their two patron Fortunes.
-
-| Clan | Patron Fortunes |
-| --- | --- |
-| Crab | Bishamon + Ebisu |
-| Crane | Benten + Daikoku |
-| Dragon | Hotei + Ebisu |
-| Lion | Bishamon + Daikoku |
-| Phoenix | Fukurokujin + Hotei |
-| Scorpion | Benten + Jurojin |
-| Unicorn | Fukurokujin + Jurojin |
-
-In the late 3rd century, Hantei the Tenth formalized the system of the Six Ministries, and along with it codified the requirement that each of the Empire's cities contains a temple to each of its clan's patron fortunes.
+The general structure of clan patron Fortunes and required temples is described under [Temple Organization](#temple-organization).
 
 In addition to the required temples to Bishamon and Daikoku that every Lion city contains, there are two other significant temples in Toshi Ranbo.  Each of the four major temples in the city is described in a section below.
 
@@ -2606,9 +2582,7 @@ In the coming weeks, the monks tasked by the PCs to look into these people will 
 
 The eldest daughter of Damasu Tomoko, the Minister of Retainers for the entire Damasu domain, Akuhiko will be the highest ranking member of the Taizo lineage once her mother retires and she inherits that responsibility.
 
-The Taizo lineage was previously one of the major lineages on the Damasu chancellery.  The Taizo have fallen into disfavor due to having spoken out so harshly against the prophet Baiten, who proclaimed that the Day of Thunder was at hand.  After the murder of the prophet was announced in Kyuden Akodo, Tomoko publicly declared that this should put a stop to the nonsense talk, and that at least the Tsume family had finally done one worthwhile thing in their miserable existence.
-
-After the Day of Thunder later occurred, and Baiten was proven correct, Tomoko was disgraced, and as the highest ranking member of the Taizo lineage, her influence reflected poorly on all who chose to continue to affiliate with the Taizo.  When the Damasu domain was retaken, many Taizo samurai took the opportunity to affiliate themselves with other lineages.
+For the history of the Taizo lineage's fall from favor, see [The Taizo lineage](#the-taizo-lineage).
 
 However, Tomoko's talents and accomplishments during the Lion/Crane war are so indisputable that she was still appointed the new Damasu Minister of Retainers when the Lion retook the city, making her the highest ranking member of the diminishing Taizo lineage, a position which Akuhiko will one day inherit even if the position of Minister of Retainers passes to another.
 
@@ -2820,6 +2794,8 @@ Before each mission or undertaking of any sort - such as going into the Shadowla
 
 Asayo has received the Order of the Precious Crown, the highest honor that anyone below the rank of daimyo can receive, for being one of the Heroes of the Black Scrolls, having successfully fulfilled the mission to recharge them.  He came to Toshi Ranbo at the beginning of this past autumn, lured by the city's plentiful actors and relatively new Temple to Sadahako, the Fortune of Artists and Entertainers.  He splits his time evenly between the Order of Bishamon and the Order of Sadahako, though being already rich and married, he has made only perfunctory visits and meager donations to the temples of Daikoku and Benten.
 
+(Asayo's earlier service on the Wall, where his paintings began prophetically reflecting the Shadowlands, is described under [Shiba Asayo (3rd Legion)](#shiba-asayo-3rd-legion).)
+
 Asayo is traveling with his friend and fellow Hero of the Black Scrolls, Kuni Isamu (see above).
 
 ### Shiba Tsukune
@@ -2945,7 +2921,7 @@ The family considered vowing that the sword should never leave the city, but its
 
 ### **Seishinsho** (Spirit Whisper)
 
-This sword's origin is unknown - it was gifted to Akodo Biko, the second son of the Akodo daimyo many centuries ago, by a mysterious hermit who explained that the sword had been blessed by the Jade Dragon.  Seishinsho has a slender, elegant blade with cherry blossom motifs running along the hilt, symbolizing beauty and the transient nature of life.  Its characteristic jade insets are along the sword's guard and handle of the sword.
+This sword's origin is unknown - it was gifted to Akodo Biko, the second son of the Akodo daimyo many centuries ago, by a mysterious hermit who explained that the sword had been blessed by the Jade Dragon.  Seishinsho has a slender, elegant blade with cherry blossom motifs running along the hilt, symbolizing beauty and the transient nature of life.  Its characteristic jade insets are along the sword's guard and handle.
 
 Akodo Biko's stories of the sword's might were proven correct when he won The Duel of Falling Leaves.  The sword "sang" as it cut through the autumn leaves which fell to the ground during the duel, and Seishinsho's connection to the spirit realm was felt by all who witnessed its killing strike.  Biko advised his descendants to attune themselves to the sword in order to make themselves capable of heeding the sword's guidance.
 
@@ -3401,9 +3377,7 @@ Once again, there's not much that the PCs could actually do to get to the bottom
 
 Matsu Yokijiro (discussed above) will sooner or later walk into the store run by the merchant Uhiro.  Because Yokijiro was a high-ranking official in the House of Matsu, he immediately recognizes the brother of the Matsu daimyo.  They look at each other for a few moments, which is all the time it takes for Yokijiro to immediately figure out what's going on.  Yokijiro turns and leaves without a word.
 
-As you may recall from "The Lion's Roar":
-
-'The captain will further call into question the safety of having such a Lion in the city, since he may have opportunities to sabotage or otherwise undermine the city's defenses.  If brought up, Yokijiro will immediately give his word that he will attempt no such thing.  He explains that if the Lion do attack, he intends to immediately leave the city and join the attacking army, fighting honorably as a bushi should.'
+As covered in [The Lion's Roar](#the-lions-roar), Yokijiro has given his word that he will not sabotage or undermine the city's defenses; if the Lion attack, he intends to immediately leave the city and openly join the attacking army, fighting honorably as a bushi should.
 
 Yokijiro is a man of his word, and thus will never attempt to help this plot in any way.  However, he did not give his word to actively work against any such plots, so he will remain silent about the whole thing.  However, Yokijiro has the "Can't Lie" disadvantage, so if he is ever pressed on the subject of plots after discovering what his clan is doing in the city, it will be obvious to any skilled interrogator that he knows something.
 
@@ -4800,7 +4774,7 @@ The Qabal of the Sahir are present - Hakhim of the Firmament, Kaleel the Stormwi
 
 Finally, the Houses of Dahab are represented, primarily by their spokesperson Menjari, who brings all disputes on behalf of the Dahab to the Caliph.
 
-Eguden Yeke translates for the Uru, as he apparently speaks Salaam.  After the Uru present themselves to the Caliph's court, they retire to a private counsel.  The Caliph Hanan Talibah, who rules the city, is present with her advisors.  In particular she has invited the Old Man of the Mountain, who leads the Nizari, as well as the several khadi, to advise her in this meeting.
+Eguden Yeke translates for the Uru, as he apparently speaks Salaam.  After the Uru present themselves to the Caliph's court, they retire to take private counsel.  The Caliph Hanan Talibah, who rules the city, is present with her advisors.  In particular she has invited the Old Man of the Mountain, who leads the Nizari, as well as the several khadi, to advise her in this meeting.
 
 That was the second scene of the dream quest.  Here there were deeper secrets to be learned, and I have a separate rules system for dream quests which is used to determine how successful the PCs are and how damaging this can be.
 
@@ -4962,7 +4936,7 @@ The next God of Death is Enma:
 
 Enma was thought to be the Moto word for Emma-O, i.e. until the start of the campaign the PCs thought that they referred to the same being.  The Moto describe Enma as "the guardian of the gates of Jigoku".
 
-As a reminder, the Bon Festival occurs on the full moon of the 7th month (Obon), when families invite back the spirits of their ancestors to return to them for one day and one night.  This is a time of reunification for ancestors whose souls were in Yomi; for souls damned in Jigoku, it is a brief reprieve.  The gates of the underworld are opened by the power of monks, who chant the sutras of the Shinseist canon for the entire week leading up to Obon.
+As a reminder, during the [Obon Festival](#15th-day-obon-bon-festival), the gates of the underworld are opened by the power of monks, who chant the sutras of the Shinseist canon for the entire week leading up to Obon.
 
 The Moto claim that these monks are not opening the gates directly, but that their sutras entreat Enma to open the gates herself.  This assertion has never been tested by the Imperial Ministry of Rites to determine whether it is heretical, so PCs should be careful before asserting its truth themselves.  There's no need to worry about simply informing others that this is a thing the Moto believe, though this may prompt others to demand that the PCs denounce this teaching and assert its falseness.
 
@@ -5070,7 +5044,7 @@ The best horses come from Unicorn lands, who have spent a thousand years breedin
 
 - The Otaku have the best heavy cavalry horses - they breed the largest horses which can support the most weight and are the best at scattering groups of infantry in battle.
 
-- The Shinjo have the best riding horses, which are faster over long distances and better for the horse archery, which despite the dramatic nature of swordsmanship is really the true origin of the samurai class.
+- The Shinjo have the best riding horses, which are faster over long distances and better for horse archery, which despite the dramatic nature of swordsmanship is really the true origin of the samurai class.
 
 - The Moto have the best (and most numerous) pack horses, which are especially suited to cold climates.  See below for an explanation of the Moto approach and how it differs from everything above.
 
@@ -5094,7 +5068,7 @@ An active horse typically eats about 20 pounds of hay per day.  Hay is usually s
 
 1% of farmland in any Unicorn domain is required by law to be set aside specifically for hay production, and in practice the amount of hay land is somewhat higher.  Otaku lands additionally have high legal requirements on how much hay is required to be stockpiled, which usually amounts to more than their entire required annual yield.  Thankfully, hay keeps almost indefinitely in non-humid climates and conditions.
 
-Otaku Mirai says that Otaku lands produce around 15,000 tons of hay per year from its legally set-aside-for-hay farmland, and at least a few thousand more tons from non-mandated hayfarms.  Mirai isn't sure of the current amount of stockpiled hay in the Otaku domain, since the numbers change during wartime and in anticipation of military requirements and he has been at Chai Sedo for the past 16 months, but he estimates at least 20,000 tons of hay in Otaku haybarns.
+Otaku Mirai says that Otaku lands produce around 15,000 tons of hay per year from their legally set-aside-for-hay farmland, and at least a few thousand more tons from non-mandated hayfarms.  Mirai isn't sure of the current amount of stockpiled hay in the Otaku domain, since the numbers change during wartime and in anticipation of military requirements and he has been at Chai Sedo for the past 16 months, but he estimates at least 20,000 tons of hay in Otaku haybarns.
 
 The Moto army invading Uru lands appears to have in excess of 50,000 horses, as well as many thousands of sheep and cows (though that number is quickly diminishing as the Moto slaughter their flocks and herds).  If they were to subsist entirely on hay, bought at market price, this would cost them at least 500 koku per day.  What this hay would be worth if delivered safely to Umut is perhaps as much a philosophical question as a logistical one.
 
@@ -6151,6 +6125,8 @@ As he progresses in mastery of his art, Asayo increasingly finds himself in a su
 
 About a year ago, when returning to finish a painting after a mission, he started noticing details which reminded him of places or objects he encountered while in the Shadowlands.  It's always subtle, such as an oddly shaped branch or the curve of a rocky stream, but it has now happened enough times that he has begun sharing his unfinished works.  Reactions are mixed, but many have recognized details in his unfinished paintings later appearing in the Shadowlands.  Some of Asayo's comrades have taken to scrutinizing his half-finished works before they embark on a mission with him, looking for signs and omens.
 
+(Asayo's later arrival in Toshi Ranbo and his honors are covered under [Shiba Asayo](#shiba-asayo).)
+
 Here's one more story about a legionnaire from the 3rd Imperial legion:
 
 #### Kitsuki Fu
@@ -6651,7 +6627,7 @@ Tsuruchi's father Chitose was the provincial governor of Hachinaga.  Chitose was
 
 Chitose had already inherited the governorship of Hachinaga after his father died at sea on a journey north to Otosan Uchi, and his mother had died in childbirth a few months later.  With no living parents to countermand him, he ignored the advice of his aunt, Chancellor Omika, and broke off his engagement to Ryoko.
 
-The powerful Rui lineage convinced Bayushi no Kyo Haruka, the Kyo daimyo, to deny Chitose's permission to marry Natsu.  Governor Chitose might have ignored his daimyo and defied her orders to marry his true love, but Natsu's mother refused to grant her daughter permission to marry under those circumstances, and as a result Natsu herself refused to consent to a marriage.
+The powerful Rui lineage convinced Bayushi no Kyo Haruka, the Kyo daimyo, to deny Chitose permission to marry Natsu.  Governor Chitose might have ignored his daimyo and defied her orders to marry his true love, but Natsu's mother refused to grant her daughter permission to marry under those circumstances, and as a result Natsu herself refused to consent to a marriage.
 
 However, while Natsu's filial piety stopped her from marrying Chitose, she nevertheless moved to Hachinaga Keep to live with Chitose and raise their son, and she continued bearing him children and raising the next generation of the main line of the Shin lineage.  She spent the rest of her life referred to as the governor's "consort" ("Naisai" literally means "inner wife" and is the official term, though Chitose's political enemies referred to her as his "Mekake" or "female servant" / "mistress").
 
@@ -7287,7 +7263,7 @@ Takuan himself was not made chancellor, as his background made him unsuitable fo
 
 ### Tsuruchi Hitomi
 
-After the founding of the Wasp clan, Tsuruchi's allies in the Crane offered three beautiful and talented young courtiers as wives for him and his two most loyal retainers.  These three women form the Wasp clan chancellery, which is referred to by many in the Wasp clan as "the crane wives".  (Whether the allusion to the famous fable is unfortunate or fitting or both depends on your view of the moral of that story, and this question is a subject of spirited debate within the Wasp clan.)
+Hitomi is one of [the crane wives](#the-crane-wives), the three Crane courtiers who form the Wasp clan chancellery.
 
 Hitomi's elder brother, Kakita Daini, inherited "the ink-flight scrolls", a series of silk hangings painted with fine calligraphy by the legendary archer-poet Kakita Akechi, who famously stated "the path of the arrow is the most perfect line ever drawn".
 
@@ -7334,7 +7310,7 @@ She also cautioned the PCs about Haru Higan, when many samurai households give o
 When the PCs spoke of journeying into the Kitsune forest, Tatsuki gave each of them three amulets and the party a single shared fourth:
 
 - **Guest-token (kakuyō-fu)** - a small red silk pouch the size of a thumb, containing a folded paper bearing the seal of the specific Kitsune household sponsoring the journey.  Worn on the cord of the scabbard or tied to a sash.  This is the baseline gift; every visitor whose presence is officially approved by a Kitsune host receives one.  As long as it is carried openly, the wood's fox-spirits recognize the bearer as not-to-be-troubled.  Lose it or hide it deliberately and the protection lapses immediately.
-- **Pilgrim's bell (junrei-suzu)** - a small brass bell, finger-sized, tied to a walking staff or the side of a pack.  Each bell's tone is attuned with the shrines that blessed it; as long as it is ringing on the path, the shrine's awareness extends to the bearer, and most fox-illusions cannot easily replace the way back.  If the bearer sets the staff down and the bell falls silent, the protection lapses until they pick it up again.
+- **Pilgrim's bell (junrei-suzu)** - a small brass bell, finger-sized, tied to a walking staff or the side of a pack.  Each bell's tone is attuned to the shrines that blessed it; as long as it is ringing on the path, the shrine's awareness extends to the bearer, and most fox-illusions cannot easily replace the way back.  If the bearer sets the staff down and the bell falls silent, the protection lapses until they pick it up again.
 - **Iron pin (kurogane-bari)** - a small black iron pin, worn in the hair or pinned to the inside of clothing where it touches the skin.  Iron is anathema to most spirits, and a single pin worn against the skin is known to disrupt a range of low-grade fox glamours.
 - **Spirit-mirror (kage-tama)** - the shared party item, a small disc of polished obsidian or smoky quartz, the size of a copper zeni, worn on a cord around the neck.  Held up against a confusing path, a hut that wasn't there yesterday, or a person whose face seems off, the surface reveals whether what one sees is real.
 
