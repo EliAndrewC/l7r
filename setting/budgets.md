@@ -278,25 +278,25 @@ As with the [Domain population table](#domain) above, this sums only named settl
 
 | Place | N | P | Stipend | Food | Housing | Equipment | Other | Population | Payroll | Total Food | Total Housing | Total Equipment | Total Cost |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Capital city | 0 | 1000 | 35 | 3 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Provincial city | 1 | 250 | 15 | 3 | 0 | 2 | 0 | 250 | 3750 | 750 | 0 | 500 | 5000 |
+| Capital city | 0 | 800 | 35 | 3 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Provincial city | 1 | 225 | 15 | 3 | 0 | 2 | 0 | 225 | 3375 | 675 | 0 | 450 | 4500 |
 | Town | 0 | 15 | 10 | 3 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | Village | 0 | 0 | 10 | 3 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | Hamlet | 0 | 0 | 10 | 3 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| **Total** |  |  |  |  |  |  |  | 250 | 3750 | 750 | 0 | 500 | 5000 |
+| **Total** |  |  |  |  |  |  |  | 225 | 3375 | 675 | 0 | 450 | 4500 |
 
 ### Budget
 
 | Category | Expense |
 | --- | --- |
 | Staff | 0 |
-| Samurai | 5000 |
+| Samurai | 4500 |
 | Ashigaru | 0 |
 | Servants | 20 |
 | Supplies | 10 |
 | Tax Farming | 10000 |
-| Total | 15030 |
-| Remainder | 29611 |
+| Total | 14530 |
+| Remainder | 30111 |
 
 ### Tax Farming Cost by Tier
 
@@ -323,8 +323,8 @@ As with the [Domain population table](#domain) above, this sums only named settl
 
 | Place | N | P | Stipend | Food | Housing | Equipment | Other | Population | Payroll | Total Food | Total Housing | Total Equipment | Total Cost |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Capital city | 0 | 1000 | 35 | 3 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Provincial city | 0 | 250 | 15 | 3 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Capital city | 0 | 800 | 35 | 3 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Provincial city | 0 | 225 | 15 | 3 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | Town | 1 | 15 | 10 | 3 | 0 | 2 | 0 | 15 | 150 | 45 | 0 | 30 | 225 |
 | Village | 6 | 0 | 10 | 3 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | Hamlet | 36 | 0 | 10 | 3 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
@@ -896,7 +896,7 @@ The Reiji are a fairly typical inland Crab domain: agricultural-base economy, mo
 | Domain servants, supplies, and the daimyo's direct administrative staff (outside the ministry budgets) | ~1,400 |  |
 | **Total mandatory** |  | **~175,200** |
 
-Math note: the 6 provincial governors pass up ~141,000 koku, the capital city's own tax base contributes ~25,000, the Yasuki Taka tariff system at the capital city gates contributes ~30,000, mining royalties contribute ~20,000, and other domain-level revenue contributes ~30,000 - bringing total throughput to ~246,000.  Of this, ~48,200 flows up to Hida Kisada and the Imperial center as the Reiji's 8% land-output kick-ups (reduced from the standard 10% per the Hida-vassal note above); ~43,600 flows up to Hida Kisada and the Imperial center as the Reiji's 8% tariff kick-ups on the domain's ~545,000 koku of imported-goods sales volume; ~32,000 funds the ~800 working capital samurai the daimyo pays (stipends + food + equipment); ~50,000 funds the six domain ministries' overhead budgets; ~1,400 covers minor domain administrative overhead.  Daimyo Isao is left with **~71,000 koku of discretionary income** - the daimyo's "tax-farming cut," substantially higher than a provincial governor's ~10,000 and a county magistrate's ~1,000.  This figure varies widely across domains depending on trade volume, tariff structure (Hida-vassal vs standard), domain wealth, and military pressures: wealthy maritime trade or large clan-capital domains run substantially higher; frontier or war-recovering domains run substantially lower.  The Reiji's ~71,000 sits *above* the ~58,000 typical median because of its Hida-vassal status, which lets it stop levying the 2% family-daimyo kick-up layer (Hida Kisada holds both the Hida family and Crab clan daimyo titles, so there is no separate family daimyo to pay).  The two halves of that layer behave very differently, because land tax is captive and tariffs are not.  On **land** - peasants cannot relocate to a cheaper jurisdiction - the Reiji simply keep the 2% (~12,000 koku/year), and *that* is what lifts the cut ~12,500 above the median.  On **tariffs** they cannot: the Reiji border three Minor Clans, whose domains carry neither family nor clan kick-ups and therefore far lower gate tariffs, and the resulting competition forces the Reiji to hold their own gate tariff near ~13% rather than the ~15% standard - so the absorbed tariff 2% (~10,900 koku/year) is handed to merchants as a lower rate rather than pocketed, showing up as ~10,900 of *lower throughput* instead of a bigger cut.  Most ruling-family vassal houses face no such neighbor and simply keep their tariff at ~15%, pocketing that ~10,900 - so a typical one runs nearer ~81,000, and the Reiji's tariff restraint is a locally-compelled choice to sit below its ruling-family peers.  (Separately, the ~300 working samurai the Empire pays while they serve in Imperial posts also free up stipend money for the daimyo's cut, but that applies to *every* domain and is already built into the ~58,000 median.)
+Math note: the 6 provincial governors pass up ~141,000 koku, the capital city's own tax base contributes ~25,000, the Yasuki Taka tariff system at the capital city gates contributes ~30,000, mining royalties contribute ~20,000, and other domain-level revenue contributes ~30,000 - bringing total throughput to ~246,000.  Of this, ~48,200 flows up to Hida Kisada and the Imperial center as the Reiji's 8% land-output kick-ups (reduced from the standard 10% per the Hida-vassal note above); ~43,600 flows up to Hida Kisada and the Imperial center as the Reiji's 8% tariff kick-ups on the domain's ~545,000 koku of imported-goods sales volume; ~32,000 funds the ~800 working capital samurai the daimyo pays (stipends + food + equipment); ~50,000 funds the six domain ministries' overhead budgets; ~1,400 covers minor domain administrative overhead.  Daimyo Isao is left with **~71,000 koku of discretionary income** - the daimyo's "tax-farming cut," substantially higher than a provincial governor's ~10,000 and a county magistrate's ~1,000.  This figure varies widely across domains depending on trade volume, tariff structure (Hida-vassal vs standard), domain wealth, and military pressures: wealthy maritime trade or large clan-capital domains run substantially higher; frontier or war-recovering domains run substantially lower.  The Reiji's ~71,000 sits *above* the ~58,000 typical median because of its Hida-vassal status, which lets it stop levying the 2% family-daimyo kick-up layer (Hida Kisada holds both the Hida family and Crab clan daimyo titles, so there is no separate family daimyo to pay).  The two halves of that layer behave very differently, because land tax is captive and tariffs are not.  On **land** - peasants cannot relocate to a cheaper jurisdiction - the Reiji simply keep the 2% (~12,000 koku/year), and *that* is what lifts the cut to ~71,000, above the ~58,000 typical median.  On **tariffs** they cannot: the Reiji border three Minor Clans, whose domains carry neither family nor clan kick-ups and therefore far lower gate tariffs, and the resulting competition forces the Reiji to hold their own gate tariff near ~13% rather than the ~15% standard - so the absorbed tariff 2% (~10,900 koku/year) is handed to merchants as a lower rate rather than pocketed, showing up as ~10,900 of *lower throughput* instead of a bigger cut.  Most ruling-family vassal houses face no such neighbor and simply keep their tariff at ~15%, pocketing that ~10,900 - so a typical one runs nearer ~81,000, and the Reiji's tariff restraint is a locally-compelled choice to sit below its ruling-family peers.  (Separately, the ~300 working samurai the Empire pays while they serve in Imperial posts also free up stipend money for the daimyo's cut, but that applies to *every* domain and is already built into the ~58,000 median.)
 
 #### Gift income
 
@@ -1537,14 +1537,14 @@ The demographic figures throughout this document (population counts, koku-per-pa
 A few units used in the conversion math:
 
 - **mu**: a unit of area equal to 1/15 hectare
-- **shi**: a unit of volume equal to about a bushel, or 155.168 jin of rice
-- **jin**: a unit of weight equal to 1.33 lbs
+- **shi** (dan, 石): the Chinese grain measure, and a slippery one - it took two forms that share the character and changed size by era.  As a *volume* it ran ~59 litres in the Tang dynasty and ~100 litres by modern times (1 dan = 10 dou = 100 sheng, a bit over a bushel); as a *weight* a dan/picul was 120 jin.  The ~155.168-jin equivalence used in spots below is one *modern* ~100-litre dan of brown rice (100 litres at ~0.78 kg/L, weighed in the modern 0.5-kg jin), whereas the Hunan yield figures below use the smaller *Tang* ~59-litre dan - so the word "shi" does not denote a single fixed quantity here; watch which era's dan a given figure assumes.
+- **jin** (catty): a unit of weight with two values in play.  The *historical* (Tang-era) catty was ~1.33 lbs (~0.6 kg) and is what the koku conversions below use; the *modern* Chinese jin is 0.5 kg, and that is the basis of the twentieth-century Hunan yield figures.
 - A traditional reference figure: 3.33 shi of rice is enough to feed a person for a year
 - **1 koku is ~180 liters** (~48 US gallons, roughly 5 bushels), which as unhulled/brown rice weighs about 135 kg (~300 lb); this volumetric koku anchors the cross-conversion paths below (the commonly cited ~150 kg / ~330 lb koku is the milled-rice equivalent)
 
 #### Yield Reference
 
-Real-world rice yields in twentieth-century Hunan China were 284.40 jin/mu and 4.00 shi/mu.  Two independent unit-conversion paths produce a koku-per-square-mile figure consistent with that yield, after applying the deflation factors appropriate to each path's starting figure.
+Real-world rice yields in twentieth-century Hunan China were 284.40 jin/mu and 4.00 shi/mu - the same yield in two notations (the modern 0.5-kg jin, and the Tang ~59-litre dan), about ~2.1 tons/hectare.  Two independent unit-conversion paths produce a koku-per-square-mile figure consistent with that yield, after applying the deflation factors appropriate to each path's starting figure.  (Path A converts the jin figure using the heavier *historical* catty rather than the modern jin it was measured in, which inflates the raw figure somewhat before milling loss is applied - one of the era-spanning approximations that make the two-path agreement a magnitude cross-check rather than an exact match.)
 
 Path A (jin-based, deflated for milling loss):
 
@@ -1575,7 +1575,7 @@ Path B (ton-based, deflated for premodern productivity):
 
 The two paths apply different implicit deflators because their starting points are different.  Path A's 284.4 jin/mu is an early-20th-century figure already close to premodern productivity (the Green Revolution had not yet transformed Chinese yields when this measurement was made), so only milling loss needs to be applied to convert harvested rough rice into consumable polished rice.  Path B's 4 tons/hectare is a modern post-Green-Revolution figure, so it requires a much larger deflation to bring it back to historically realistic premodern yields, but no separate milling adjustment - the resulting figure is already in unmilled-koku terms, matching the *kokudaka* convention used throughout these notes.
 
-The two paths land on ~3,000 to ~3,050 koku per square mile.  The agreement is approximate rather than exact - the two endpoints are not on quite the same basis (Path A lands at ~3,040 koku of *consumable, polished* rice, while Path B lands at ~3,000 in the *unmilled* kokudaka terms used everywhere else in these notes) - but that is precisely the value of running two independent derivations: starting from different real-world measurements and different conversion routes, they both land in the low thousands once each is reduced to realistic premodern terms - good reassurance that the Rokugani rice estimate is the right general magnitude rather than an artifact of one chain of assumptions.  Downstream calculations use the round-number ~3,000.  That is the more conservative anchor of the two, which suits an empire-wide average; it is also the figure that comes from Path B, whose starting point is a *modern* (post-Green-Revolution) yield - an industrial-era measurement, though of a still largely pre-industrial farming region - that has to be deflated heavily to reach premodern conditions, so leaning on its lower result while noting that the milling-adjusted Path A figure sits just above it (rather than far away) is the cautious reading.  In absolute terms 3,000 is on the LOW side of premodern East Asian rice productivity (Tokugawa Japanese paddies averaged ~4,500-5,500 koku/sq mi, southern Chinese Yangtze-delta paddies could exceed 5,500 koku/sq mi at the Song-Ming peak), which is appropriate for an empire-wide average that includes Rokugan's many marginal-quality paddies in northern, mountain, and frontier regions alongside its prime southern rice country.
+The two paths land on ~3,000 to ~3,050 koku per square mile.  The agreement is approximate rather than exact - the two endpoints are not on quite the same basis (Path A lands at ~3,040 koku of *consumable, polished* rice, while Path B lands at ~3,000 in the *unmilled* kokudaka terms used everywhere else in these notes) - but that is precisely the value of running two independent derivations: starting from different real-world measurements and different conversion routes, they both land in the low thousands once each is reduced to realistic premodern terms - good reassurance that the Rokugani rice estimate is the right general magnitude rather than an artifact of one chain of assumptions.  Downstream calculations use the round-number ~3,000.  That is the more conservative anchor of the two, which suits an empire-wide average; it is also the figure that comes from Path B, whose starting point is a *modern* (post-Green-Revolution) yield - an industrial-era measurement, though of a still largely pre-industrial farming region - that has to be deflated heavily to reach premodern conditions, so leaning on its lower result while noting that the milling-adjusted Path A figure sits just above it (rather than far away) is the cautious reading.  In absolute terms 3,000 sits at the low end of premodern East Asian rice productivity, but the comparison depends on whether one means assessed or actual yield.  It is actually close to Tokugawa Japan's *assessed* prime-paddy grades (~1.1-1.5 koku/tan, or ~2,900-3,900 koku/sq mi); it reads as "low" mainly against *actual* harvests, since good Tokugawa paddies yielded ~4,500-5,500 koku/sq mi in practice (well above their assessment) and southern Chinese Yangtze-delta paddies could exceed 5,500 koku/sq mi at the Song-Ming peak.  A deliberately conservative empire-wide average like 3,000 is appropriate because it folds in Rokugan's many marginal-quality paddies in northern, mountain, and frontier regions alongside its prime southern rice country.
 
 #### Historical Household-Size Guidelines
 
