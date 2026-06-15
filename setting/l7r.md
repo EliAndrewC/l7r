@@ -2826,7 +2826,7 @@ Asayo is traveling with his friend and fellow Hero of the Black Scrolls, Kuni Is
 
 One of the best duelists in all of Phoenix lands, it was Tsukune who defeated Matsu Gohei in the Sunset Blade Trials last year.  She has since come to the Temple of Bishamon to further train in the city's dojos and test herself physically and spiritually.  Tsukune is still young enough that she could become Emerald Champion if Bayushi Karasu were to die or retire, assuming she is able to reach the peak of mastery of her art.
 
-More recently there has been speculation about what might happen when Gohei arrives in the city, alongside Hantei Daigotsu and Akodo Godaigo and Kitsu Okura.  The Phoenix and the Lion clans are now at peace, but there is less danger of provoking a war or other escalations if a conflict occurs between them.  On the other hand, Akodo Toturi's new wife is Isawa Kaede, so it may be the case that as a relatively pacifistic Phoenix, Tsukune does not wish to start an altercation, and as a relatively loyal Lion, Gohei would be afraid to start one.
+More recently there has been speculation about what might happen when Gohei arrives in the city, alongside Hantei Daigotsu and Akodo Godaigo and Kitsu Okura.  The Phoenix and the Lion clans are now at peace, so there is less danger of provoking a war or other escalations if a conflict occurs between them.  On the other hand, Akodo Toturi's new wife is Isawa Kaede, so it may be the case that as a relatively pacifistic Phoenix, Tsukune does not wish to start an altercation, and as a relatively loyal Lion, Gohei would be afraid to start one.
 
 ### Shinjo no Dorai Yuriko
 
@@ -5853,7 +5853,7 @@ Below is a list of the major temple relics.
 
 ### The Staff of Bishamon
 
-This is the first holy relic ever possessed by the Order of Bishamon, and may be the oldest relic of Bishamon in the entire Empire.  Displayed prominently in its own special prayer hall, this intricately carved staff is made from ancient cherry wood, carved from the branch of a tree blessed by Bishamon himself.  Inscribed with symbols and inscriptions of the Seven Virtues of Bushido.
+This is the first holy relic ever possessed by the Order of Bishamon, and may be the oldest relic of Bishamon in the entire Empire.  Displayed prominently in its own special prayer hall, this intricately carved staff is made from ancient cherry wood, carved from the branch of a tree blessed by Bishamon himself.  It is inscribed with symbols and inscriptions of the Seven Virtues of Bushido.
 
 Legend tells that the staff was found a thousand years ago by the temple's first "high monk" - so called because this predates the title of Grand Abbot!  "High Monk Fujita" came across the staff during a pilgrimage to the Isawa Woodlands, where it lay unclaimed beside a spring said to be touched by the gods.  The monk took this as a sign of Bishamon's blessing and brought the staff back to the temple, where it has been preserved and venerated ever since.
 
@@ -5877,7 +5877,7 @@ This set of 108 prayer beads is carefully crafted from polished jade, each attun
 
 The beads are strung together with a durable silk thread, each bead separated by a small knot, allowing monks and pilgrims to easily move from one bead to the next during their prayers.  While at a glance, every bead seems uniform, upon closer inspection, each bead is subtly unique (though almost perfectly identical in size), hinting at the individuality of the spirits they symbolize.
 
-When one prays and meditates with the Prayer Beads of the Guardian Spirit, certain beads may change in temperature, becoming noticeably warmer or even chillingly cold to the touch.  Alternatively, individual beads may feel significantly larger to the touch, or in rare cases appear missing when passing the beads through the hands, only to reappear as soon as the supplicant gazes upon the prayer beads.
+When one prays and meditates with the Prayer Beads of the Guardian Spirits, certain beads may change in temperature, becoming noticeably warmer or even chillingly cold to the touch.  Alternatively, individual beads may feel significantly larger to the touch, or in rare cases appear missing when passing the beads through the hands, only to reappear as soon as the supplicant gazes upon the prayer beads.
 
 These variations signify the messages and warnings of the guardian spirits.  Monks are trained to take note of the beads that stand out during their prayers, recording their numbers to later consult the temple's extensive manuals.  These manuals, which have been maintained and updated over countless generations, contain interpretations of the various combinations of beads that might react.
 
@@ -6329,7 +6329,7 @@ Khuyag's masterpiece was a "death detector" which he explained could predict "la
 
 - All forms of soothsaying are divided into stable and unstable predictions (which is different from the distinction between certain and uncertain predictions).  As explained earlier, stable predictions take themselves into account - they predict futures in which the result of the prediction is known and accounted for in the resulting choices made.  Unstable predictions only tell you what would have happened if the prediction had never been made.
 
-- Khuyag describes his own death detectors as "in the worst of all situations", which is that it sometimes takes itself into consideration and other times does not.  Thus, if mass violent death is predicted at a certain location and you proceed to go to that location, you cannot be sure that the prediction didn't lead to violent deaths which would not have otherwise occurred.  Khuyag is uncertain what factors make his detector sometimes give stable predictions and other times not - there are so many variables which could cause this that it may be impossible to ever determine.
+- Khuyag describes his own death detectors as "in the worst of all situations", which is that they sometimes take themselves into consideration and other times do not.  Thus, if mass violent death is predicted at a certain location and you proceed to go to that location, you cannot be sure that the prediction didn't lead to violent deaths which would not have otherwise occurred.  Khuyag is uncertain what factors make his detector sometimes give stable predictions and other times not - there are so many variables which could cause this that it may be impossible to ever determine.
 
 - Khuyag hopes that his next device will be able to solve this.  It may not be possible even in theory to build a device which can always take itself into account - the Burning Words are said to do this, but they may be a creation of heaven and not formed by the hands of man.  But according to Khuyag, "Master Khunbish says it should be within my capabilities to create a new version which never takes its own predictions into account."
 
