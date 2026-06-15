@@ -597,7 +597,7 @@ This pattern is robust across analogous premodern capitals:
 | Heian-kyo (Kyoto) at peak | ~1000 | ~150,000 | kuge (court nobility) | ~1-3% |
 | Ming Beijing | ~1500 | ~700,000 | officials + eunuchs + Imperial Guard | ~5-10% |
 | Joseon Hanyang (Seoul) | ~1700 | ~200,000 | yangban (scholar-gentry) | ~5-15% |
-| Qing Beijing | ~1750 | ~700,000 | bannermen (hereditary military caste) | ~14-20% |
+| Qing Beijing | ~1750 | ~700,000 | bannermen (hereditary military caste) | ~50% |
 | Tokugawa Edo | ~1850 | ~1 million | samurai | ~60% |
 
 Tokugawa Edo is the dramatic outlier, and the reason is instructive: its ~60% samurai concentration is a direct consequence of *sankin kotai* (the alternate-attendance system), which forced every daimyo to maintain a massive permanent Edo establishment - family, retainers, and guards numbering in the thousands - with the daimyo themselves resident half of every year.  Without that extreme forced-residence mechanism, Edo would have looked far more like the ~5-10% range of the other military-aristocratic capitals.  The "natural" range for a million-population East Asian capital with a strong elite-military presence but no *sankin-kotai*-style concentration mechanism is roughly **3-7%**.
@@ -1582,7 +1582,7 @@ The two paths land on ~3,000 to ~3,050 koku per square mile.  The agreement is a
 The same ancient Chinese sources provide some calibration on how much land a single household could work:
 
 - 10 mu was about the maximum a single landowner could manage on his own; more than that required tenant farmers.
-- 100 mu was the ideal land size for a household of five.
+- The classical ~100-mu ideal for a household of five (Li Kui, Mencius) is a northern dry-grain figure; intensive wet rice is far more labor-bound, so paddy households work much less.
 - 20-30 mu was more typical for such a household in crowded metro areas.
 - Small household (1-3 members): could work 0.1-5.0 mu
 - Medium household (4-5 members): could work 5.1-19.5 mu
