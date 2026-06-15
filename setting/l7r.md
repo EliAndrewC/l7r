@@ -2467,7 +2467,7 @@ Channeling Prophecy represents a more intimate form of divine communication, whe
 
 In some respects, Channeling Prophecy is more potent than Devotional Prophecy.  After all, it is the Fortune themselves who direct the prophet's attention, showing what needs to be seen.  The prophet is not merely observing the possibilities; they are glimpsing truths or trajectories that the divine deem essential.  This direct involvement from the divine being can lend a weight and certainty to these prophecies that is harder to achieve through the personal exploration of Devotional Prophecy.
 
-However, this potency comes with its own limitations.  Unlike Devotional Prophecy, where the prophet exercises some level of choice in where to direct their gaze, in Channeling Prophecy the prophet has much less agency.  The divine being sets the agenda, guiding the prophet's visions according to their own divine will.  Consequently, the prophet may have less control over the areas of future they inspect, and their second sight is heavily influenced by the interests and priorities of the Fortune providing the vision.  This path offers powerful visions, but also a path that demands surrender to the will of the divine.
+However, this potency comes with its own limitations.  Unlike Devotional Prophecy, where the prophet exercises some level of choice in where to direct their gaze, in Channeling Prophecy the prophet has much less agency.  The divine being sets the agenda, guiding the prophet's visions according to their own divine will.  Consequently, the prophet may have less control over the areas of future they inspect, and their second sight is heavily influenced by the interests and priorities of the Fortune providing the vision.  This path offers powerful visions, but also demands surrender to the will of the divine.
 
 Covenant Prophecy represents a distinct relationship between prophet and divine entity, often a Fortune.  This discipline of prophecy stems from a compact or understanding between the mortal and the divine.  Due to its nature as a divine commitment, Covenant Prophecy stands as the more reliable prophecy discipline, provided the covenant remains intact.  These carry a certainty that others lack, for the gods themselves have pledged their future actions, under two forms of covenants: Sentinel Prophecies and Stratagem Prophecies.
 
@@ -2726,7 +2726,7 @@ Kenji has more recently returned after being sent by the PCs to find Doji Masato
 
 ### Kuni Isamu
 
-Kuni Isamu is one of only ~200 Witch Hunters in the Empire, and is specifically the Witch Hunter to order the death of Kuni Yori, the previous Jade Champion, on behalf of his Office, during his mission to recharge the Black Scrolls two summers ago.
+Kuni Isamu is one of only ~200 Witch Hunters in the Empire, and is specifically the Witch Hunter who ordered the death of Kuni Yori, the previous Jade Champion, on behalf of his Office, during his mission to recharge the Black Scrolls two summers ago.
 
 The new Jade Champion is Kuni Utagu, who was previously the chief Witch Hunter for Mantis lands, and Isamu has taken on that role.  Isamu has taken some time away, as there are other Witch Hunters assigned to the Islands of Spice and Silk, to make a pilgrimage to Toshi Ranbo.  While in the Forgotten Tomb, Isamu visited a Temple to Bishamon there, and increased his mastery of archery, something he has always had a talent for.
 
@@ -5570,7 +5570,7 @@ e.g. some covens seem to treat murdering samurai as a noble goal unto itself, wh
 - These "families" were founded after Hiruma lands fell during the
 invasion of the Maw.  Evidently the bloodspeakers involved (led by Jama Kohaku) "protected" the peasants in Hiruma lands from the invading army and led them safely back into the Empire, but told them that anyone who wanted to join them as apprentices could learn how to wield the dark power they had witnessed.  Apparently so many peasants took them up on this that most bloodspeaker covens that exist today can be traced back to the peasants who accepted this offer.
 
-Interestingly, Isamu had no idea that any of this was true, but in the Classrooms of the Great Masters this was presented as being existing knowledge already well understood by the Witch Hunters, which implies that for whatever reason this is a part of history which is kept secret even from most Witch Hunters.  Isamu has no idea why this would be the case, since it doesn't seem like particularly dangerous knowledge for Witch Hunters to have.
+Interestingly, Isamu had no idea that any of this was true, but in the Classrooms of the Great Masters this was presented as existing knowledge already well understood by the Witch Hunters, which implies that for whatever reason this is a part of history which is kept secret even from most Witch Hunters.  Isamu has no idea why this would be the case, since it doesn't seem like particularly dangerous knowledge for Witch Hunters to have.
 
 Isamu has gained the "supernatural" ability to understand the different bloodspeaker ideologies, which will allow him to create "family trees" of covens over time.  Not only that, it would allow Isamu to understand the differences of opinion that exist between the different groups of bloodspeakers, and how closely the different groups work together.  Isamu can see a few ways in which this could lead to being able to hunt bloodspeakers more effectively, and the Great Teacher who gave this lecture promised that this was somehow the key to truly understanding bloodspeakers (though this claim seems hard to believe).
 
@@ -6299,7 +6299,7 @@ Khuyag's masterpiece was a "death detector" which he explained could predict "la
 
 - The detection is tied to a geographic location, in which an accurate map is made and where at various landmarks "the blood of horses is spilled" and "bloodied earth is returned to Shiro Moto".  Thus, Khuyag cannot use his detection device in Uru lands where Moto Gaheris was at the time waging war, and Khuyag thus needs to create a separate detector for any other area in which he wishes to detect death.
 
-- The area of detection must be sparsely populated - Moto lands are notoriously poor in everything but grasslands and horses, and have perhaps only a tithe (10%) the population density of most other places in the Empire.  If it were too dense the "intersections of fates and choices would be too numerous" for Khuyag's death detector to function.
+- The area of detection must be sparsely populated - Moto lands are notoriously poor in everything but grasslands and horses, and have perhaps only a tithe (10%) of the population density of most other places in the Empire.  If it were too dense the "intersections of fates and choices would be too numerous" for Khuyag's death detector to function.
 
 - Other forms of prophetic instruction and oracular divination may be hidden from this detection.  Thus, even a large battle might not show up if e.g. divine intervention provoked a sudden battle.
 
