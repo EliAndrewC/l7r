@@ -594,7 +594,7 @@ This pattern is robust across analogous premodern capitals:
 | --- | --- | --- | --- | --- |
 | Tang Chang'an | ~700 CE | ~1 million | scholar-officials + palace establishment | ~2-3% |
 | Northern Song Kaifeng | ~1100 | ~1 million | scholar-officials | ~1-3% |
-| Heian-kyo (Kyoto) at peak | ~1000 | ~400,000 | kuge (court nobility) | ~1-3% |
+| Heian-kyo (Kyoto) at peak | ~1000 | ~150,000 | kuge (court nobility) | ~1-3% |
 | Ming Beijing | ~1500 | ~700,000 | officials + eunuchs + Imperial Guard | ~5-10% |
 | Joseon Hanyang (Seoul) | ~1700 | ~200,000 | yangban (scholar-gentry) | ~5-15% |
 | Qing Beijing | ~1750 | ~700,000 | bannermen (hereditary military caste) | ~14-20% |
@@ -991,7 +991,7 @@ The Imperial Budget figures above warrant explicit historical grounding, because
 
 | State | Population | Central revenue (grain-equivalent) | Per capita |
 | --- | --- | --- | --- |
-| Han China at Wu Di's peak (~100 BCE) | ~60 million | ~40-50 million shi | ~0.7-0.8 shi/person |
+| Han China at its census peak (2 CE) | ~60 million | ~40-50 million shi | ~0.7-0.8 shi/person |
 | Tang China at Xuanzong's peak (~750 CE) | ~50-60 million | ~60-80 million shi | ~1.0-1.4 shi/person |
 | Northern Song China (~1100) | ~100 million | ~60-100 million shi | ~0.6-1.0 shi/person |
 | Ming China at peak (~1500-1600) | ~150-200 million | ~50-70 million shi | ~0.3-0.4 shi/person |
@@ -1537,10 +1537,10 @@ The demographic figures throughout this document (population counts, koku-per-pa
 A few units used in the conversion math:
 
 - **mu**: a unit of area equal to 1/15 hectare
-- **shi** (dan, 石): the Chinese grain measure, and a slippery one - it took two forms that share the character and changed size by era.  As a *volume* it ran ~59 litres in the Tang dynasty and ~100 litres by modern times (1 dan = 10 dou = 100 sheng, a bit over a bushel); as a *weight* a dan/picul was 120 jin.  The ~155.168-jin equivalence used in spots below reflects a *modern* ~100-litre dan (the larger, modern dan) figured at *milled* (white-rice) density of ~0.78 kg/litre - consistent with the ~150 kg milled-rice koku noted below, not the lighter brown/unhulled density of the volumetric koku - whereas the Hunan yield figures below use the smaller *Tang* ~59-litre dan - so the word "shi" does not denote a single fixed quantity here; watch which era's dan a given figure assumes.
+- **shi** (dan, 石): the Chinese grain measure, and a slippery one - it took two forms that share the character and changed size by era.  As a *volume* it ran ~59 litres in the Tang dynasty and ~100 litres by modern times (1 dan = 10 dou = 100 sheng, a bit over a bushel); as a *weight* a dan/picul was 120 jin.  The ~155.168-jin figure for a dan reflects a *modern* ~100-litre dan of *milled* (white) rice: ~77.6 kg, or ~155 jin at 0.5 kg per modern jin.  That is a *milled* basis, distinct from the brown/unhulled volumetric koku below, whereas the Hunan yield figures below use the smaller *Tang* ~59-litre dan - so the word "shi" does not denote a single fixed quantity here; watch which era's dan a given figure assumes.
 - **jin** (catty): a unit of weight with two values in play.  The *historical* (Tang-era) catty was ~1.33 lbs (~0.6 kg) and is what the koku conversions below use; the *modern* Chinese jin is 0.5 kg, and that is the basis of the twentieth-century Hunan yield figures.
 - A traditional reference figure: 3.33 shi of rice is enough to feed a person for a year
-- **1 koku is ~180 liters** (~48 US gallons, roughly 5 bushels), which as unhulled/brown rice weighs about 135 kg (~300 lb); this volumetric koku anchors the cross-conversion paths below (the commonly cited ~150 kg / ~330 lb koku is the milled-rice equivalent)
+- **1 koku is ~180 liters** (~48 US gallons, roughly 5 bushels).  The koku's weight depends on milling state: ~150 kg (~330 lb) as the *brown* rice (genmai) in which the *kokudaka* system was assessed (the canonical figure), ~136 kg (~300 lb) milled to polished white, and ~187 kg as unhulled paddy.  These standardized koku weights track one harvest losing husk then bran, so they descend across rough, brown, and milled rather than following raw bulk density.  The cross-conversion paths below convert weight to koku-volume at ~138 kg per koku - near the ~136 kg milled-koku weight and ~8% under the ~150 kg brown kokudaka koku; that weight-to-volume basis is separate from whether a path also strips milling mass-loss (Path A does, landing in polished terms; Path B does not, staying in unmilled kokudaka terms).  Either way, the ~8% slack is absorbed by the deliberately conservative round-number 3,000.
 
 #### Yield Reference
 
@@ -1677,15 +1677,15 @@ This table describes the **land available** in a median domain, not the land act
 
 | Land | k/ha | k/mi² | P (share) | Proportional production | k/acre |
 | --- | --- | --- | --- | --- | --- |
-| High | 20 | 5180 | 0.27 | 1398.60 | 8.00 |
-| Medium | 15 | 3885 | 0.17 | 660.45 | 6.00 |
-| Med-low | 11.4 | 2952.6 | 0.17 | 501.94 | 4.56 |
-| Low | 8 | 2072 | 0.30 | 621.60 | 3.20 |
-| Awful | 5.4 | 1398.6 | 0.09 | 125.87 | 2.16 |
+| High | 20 | 5180 | 0.27 | 1398.60 | 8.09 |
+| Medium | 15 | 3885 | 0.17 | 660.45 | 6.07 |
+| Med-low | 11.4 | 2952.6 | 0.17 | 501.94 | 4.61 |
+| Low | 8 | 2072 | 0.30 | 621.60 | 3.24 |
+| Awful | 5.4 | 1398.6 | 0.09 | 125.87 | 2.19 |
 | **Total** |  |  | **1.00** | **3308.46** |  |
 | Average | 12.77 | 3308.46 |  | 3308.46 |  |
 
-The land-quality shares sum to 1.00; the weighted-average ~3,300 koku/sq mi sits within the ~3,000-3,600 convergence range derived in [Yield Reference](#yield-reference), and downstream calculations use the round-number 3,000 koku/sq mi.
+The land-quality shares sum to 1.00; the weighted-average ~3,300 koku/sq mi sits just above the ~3,000-3,050 two-path derivation in [Yield Reference](#yield-reference) - the same low-thousands magnitude - and downstream calculations use the conservative round-number 3,000 koku/sq mi.
 
 ### Wheat Productivity by Land Quality
 
