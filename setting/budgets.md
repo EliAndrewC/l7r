@@ -11,15 +11,9 @@ Per-tier budget breakdowns for the median domain hierarchy, plus supporting tabl
 - [The two Empire-wide multipliers](#the-two-empire-wide-multipliers)
 - [Domain](#domain)
   - [Population outside named settlements](#population-outside-named-settlements)
-  - [Samurai](#samurai)
-  - [Combined budgets](#combined-budgets)
+  - [Discretionary budgets](#discretionary-budgets)
 - [Province](#province)
-  - [Samurai](#samurai-1)
-  - [Tax farming cost by tier](#tax-farming-cost-by-tier)
 - [County](#county)
-  - [Samurai](#samurai-2)
-  - [Skilled ashigaru](#skilled-ashigaru)
-  - [Ashigaru](#ashigaru)
 - [Capital city](#capital-city)
 - [Provincial city](#provincial-city)
 - [Town](#town)
@@ -209,44 +203,25 @@ The most common arithmetic mistake is **multiplying a sub-unit count by 284 inst
 
 The capital's ~12,360 is its settled ~12,000 plus the ~360 non-working samurai whose families have relocated there from the domain's county towns (see the [Town](#town) and [Capital City](#capital-city) caste tables); the county towns are correspondingly lighter (~1,190 each, down from ~1,200).  Total domain population and the entire tax base are unchanged - this is a redistribution of samurai *within* the domain, and samurai pay no property taxes on their homes, so no settlement's tax base moves.
 
-### Samurai
+### Discretionary budgets
 
-| Place | N | P | Stipend | Food | Housing | Equipment | Other | Population | Payroll | Total Food | Total Housing | Total Equipment | Total Cost |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Capital city | 1 | 800 | 35 | 3 | 0 | 2 | 0 | 800 | 28000 | 2400 | 0 | 1600 | 32000 |
-| **Total** |  |  |  |  |  |  |  | 800 | 28000 | 2400 | 0 | 1600 | 32000 |
+| Tier | Per domain | Discretionary funds |
+| --- | --- | --- |
+| Daimyo | 1 | ~64,000 |
+| Provincial governor | 6 | ~11,000 |
+| County magistrate | 36 | ~1,100 |
 
-### Combined budgets
+Some notes about these figures:
 
-| Tier | N | Cost (mandatory ops) | Tax Farming (discretionary cut) | Kick-ups (to Clan/Family/Imperial) | Total per Tier |
-| --- | --- | --- | --- | --- | --- |
-| Domain | 1 | 83,400 | 58,200 | 114,800 | 256,400 |
-| Province | 6 | 9,530 | 10,000 | 0 | 117,180 |
-| County | 36 | 445 | 1,000 | 0 | 52,020 |
-| **Total per median domain** |  |  |  | **114,800** | **425,600** |
-
-Column definitions:
-
-- **Cost (mandatory ops)** at each tier covers samurai compensation, ministry overhead (where applicable), servants, supplies, and miscellaneous operations.  At the domain tier: ~32,000 capital samurai stipends + food + equipment (the ~800 working capital samurai the daimyo actually pays) + ~50,000 domain ministry overhead + ~1,400 staff/servants/supplies.  At the province tier: ~4,500 provincial samurai compensation (~225 working) + ~5,000 provincial ministry overhead + ~30 servants/supplies.  At the county tier: ~225 samurai + ~190 ashigaru + ~30 servants/supplies; counties have no ministry overhead because the magistrate IS the institution.
-- **Tax Farming (discretionary cut)** is the office-holder's discretionary income at that tier.  The county magistrate's ~1,000 is a fairly reliable rule of thumb which only varies for counties with poor farmland or a noteworthy local industry.  A provincial governor's ~10,000 koku has slightly more variance, especially among provinces with e.g. rich natural resources or a smaller number of counties.  The domain daimyo's ~58,000 typical figure is only a rough median; actual daimyo cuts range from ~35,000 (poor frontier domains) to ~115,000+ (wealthy domain capitals), with structural factors like Hida-vassal status (~71,000 for the Reiji example documented below) creating additional variation.  A portion of the cut is a **hidden Imperial subsidy to the clans**: because the Empire pays the ~216 of each domain's working samurai who serve in Imperial posts (legions, cross-clan yoriki, central court), the daimyo's stipend outlay is ~7,200 lower than his in-domain headcount alone would imply, and that saving flows to his discretionary cut (documented in the [Imperial Legions](#imperial-legions-line-item-detail) section).
-- **Kick-ups Out** are funds that flow out of the domain to Family, Clan, and Imperial recipients per the structural kick-up chain (see [The Ministry of Revenue](l7r.md#the-ministry-of-revenue) for the rate structure).  Only the domain tier pays kick-ups directly; counties and provinces pass their tax obligations upward through the cascade rather than paying kick-ups themselves.  The ~114,800 kick-up at the domain tier is composed of ~60,300 (10% of land output, against the ~602,640-koku assessed kokudaka per median domain - the obligation base; actual gross output is higher, with the surplus kept by farmers, per the assessed-kokudaka note under [Land Productivity](#land-productivity)) + ~54,500 (10% of imported-goods trade volume, against ~545,000 koku of median-domain imported-goods sales - itself ~312,000 in provincial-city trade plus ~233,000 at the capital gate), reflecting the standard non-Hida-vassal rates.  Aggregating this kick-up Empire-wide is **mixed-basis**: the land-output and provincial-tariff portions scale × 400, the capital-tariff portion × 284 (see [The two Empire-wide multipliers](#the-two-empire-wide-multipliers)).  Coastal trade-hub domains run substantially higher tariff volumes and pull the true Empire-wide *mean* above this figure, but these per-domain aggregations use the *median* domain throughout (the median is the unit used throughout this document; see [The Two Empire-Wide Multipliers](#the-two-empire-wide-multipliers)).
-- **Total per Tier** is the sum of mandatory operations, discretionary cuts, and kick-ups across N instances of that tier within a median domain.
-
-**Empire-wide implications**: this table represents a typical actual median domain.  Aggregating by ~284 actual domains in the Empire:
-
-- Total throughput across the Empire: ~168 million koku/year (the bulk of the ~425,600 per median scales with land and provinces and aggregates × 400; only the ~23,300 capital-tariff kick-up aggregates × 284)
-- Kick-ups out of domains, aggregated: ~43 million koku/year (mixed-basis: ~24.1M land + ~12.5M provincial tariff on the × 400 basis, ~6.6M capital tariff on the × 284 basis), of which ~21.6M lands at the Imperial center (the 5% land + 5% tariff Imperial cut per the [Imperial Budget](#the-imperial-budget) framing) and ~21.6M flows to Family and Clan daimyo
-- Stays within domains (operations + discretionary across all tiers): ~124 million koku/year
-
-Two different empire-wide multipliers are in use across the documentation, both correct in their respective contexts: **~284 actual domains** for once-per-domain institutions (capital cities, IM main offices, and the single capital-city tariff), and **~400 median domains** for everything that scales with land and provinces (land output and its tax and kick-ups, provincial-city tariffs, daimyo cuts, throughput, and sub-unit counts like the ~2,400 provincial cities at × 6).  The domain tax kick-up is the one figure that splits across both bases (land + provincial tariff × 400, capital tariff × 284).  The [Imperial Budget](#the-imperial-budget) figures below use whichever multiplier is appropriate for each line.
-
-The empire-wide figures align with the [Imperial Budget](#the-imperial-budget) breakdown below, where the Imperial Court's annual revenue derives primarily from ~21.6M of domain kick-ups (land + tariff combined) plus direct Imperial-domain revenue (Otosan Uchi tax base + tariffs, Imperial-Family land taxes, salt monopoly cuts, and miscellaneous mining royalties).
+- **Costs** the discretionary income at each level is what is left over after the cost of samurai compensation, ministry overhead (where applicable), servants, supplies, and miscellaneous operations.  At the domain tier: ~32,000 koku for capital samurai stipends + food + equipment (the ~800 working capital samurai the daimyo actually pays) + ~50,000 koku for domain ministry overhead, etc.  At the province tier: ~4,500 koku for provincial samurai stipends (~225 working samurai) + ~5,000 provincial ministry overhead + ~30 servants/supplies.  At the county tier: ~225 koku for samurai stipends + funding for the county's ~200 ashigaru, etc; counties have no ministry overhead because the magistrate IS the institution.  A full breakdown of these costs for each level can be found in the corresponding section below. 
+- **Discretionary funds** is the office-holder's income from tax farming, gifts, and (for the daimyo) tariffs, minus costs - slightly above the bare tax-farming cut.  The table shows these gift-inclusive totals: the daimyo's ~64,000 (a ~58,000 median tax-farming cut plus ~6,000 in gifts), the governor's ~11,000 (a ~10,000 cut plus ~1,000 in gifts, matching the Asuka example below), and the magistrate's ~1,100 (a ~1,000 cut plus gifts, matching the Hikai example below).  The underlying cut is the canonical figure that defines each post's value: the county magistrate's ~1,000 is a fairly reliable rule of thumb which only varies for counties with poor farmland or a noteworthy local industry; a provincial governor's ~10,000 koku has slightly more variance, especially among provinces with e.g. rich natural resources or a smaller number of counties; and the domain daimyo's ~58,000 is only a rough median, with actual cuts ranging from ~35,000 (poor frontier domains) to ~115,000+ (wealthy domain capitals) and structural factors like Hida-vassal status (~71,000 for the Reiji example documented below) creating additional variation.  A portion of the cut is a **hidden Imperial subsidy to the clans**: because the Empire pays the ~216 of each domain's working samurai who serve in Imperial posts (legions, cross-clan yoriki, central court), the daimyo's stipend outlay is ~7,200 lower than his in-domain headcount alone would imply, and that saving flows to his discretionary cut (documented in the [Imperial Legions](#imperial-legions-line-item-detail) section).
+- **Kick-ups** are not mentioned here specifically as this table does not include or break down costs, but it is worth mentioning the funds which flow out of the domain to Family, Clan, and Imperial recipients per the structural kick-up chain (see [The Ministry of Revenue](l7r.md#the-ministry-of-revenue) for the rate structure).  In particular, it is important to understand that only the domain tier pays kick-ups directly; counties and provinces pass their tax obligations upward through the cascade rather than paying kick-ups themselves.  The ~114,800 kick-up at the domain tier is composed of ~60,300 (10% of land output, against the ~602,640-koku assessed kokudaka per median domain - the obligation base; actual gross output is higher, with the surplus kept by farmers, per the assessed-kokudaka note under [Land Productivity](#land-productivity)) + ~54,500 (10% of imported-goods trade volume, against ~545,000 koku of median-domain imported-goods sales - itself ~312,000 in provincial-city trade plus ~233,000 at the capital gate), reflecting the standard non-Hida-vassal rates.  Aggregating this kick-up Empire-wide is **mixed-basis**: the land-output and provincial-tariff portions scale × 400, the capital-tariff portion × 284 (see [The two Empire-wide multipliers](#the-two-empire-wide-multipliers)).  Coastal trade-hub domains run substantially higher tariff volumes and pull the true Empire-wide *mean* above this figure, but these per-domain aggregations use the *median* domain throughout (the median is the unit used throughout this document; see [The Two Empire-Wide Multipliers](#the-two-empire-wide-multipliers)).
+- **Empire-wide totals**: across the ~284 actual domains, total throughput is ~168 million koku/year, of which ~43 million flows out as kick-ups (~21.6M to the Imperial center and ~21.6M to Family and Clan daimyo) and the remaining ~124 million stays within the domains (operations plus discretionary income at every tier).  Most of this scales × 400 with land and provinces; only the capital-tariff portion of the kick-up scales × 284 (see [The two Empire-wide multipliers](#the-two-empire-wide-multipliers)).
 
 ## Province
 
 | Place | N | Pop each | Total Pop |
 | --- | --- | --- | --- |
-| Capital city | 0 | 12360 | 0 |
 | Provincial city | 1 | 3000 | 3000 |
 | Town | 6 | 1190 | 7140 |
 | Village | 36 | 350 | 12600 |
@@ -255,70 +230,16 @@ The empire-wide figures align with the [Imperial Budget](#the-imperial-budget) b
 
 As with the [Domain population table](#domain) above, this sums only named settlements; the province's full population is slightly higher (~39,600), the small remainder being the same off-the-books peasantry explained under [Population Outside Named Settlements](#population-outside-named-settlements).
 
-### Samurai
-
-| Place | N | P | Stipend | Food | Housing | Equipment | Other | Population | Payroll | Total Food | Total Housing | Total Equipment | Total Cost |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Capital city | 0 | 800 | 35 | 3 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Provincial city | 1 | 225 | 15 | 3 | 0 | 2 | 0 | 225 | 3375 | 675 | 0 | 450 | 4500 |
-| Town | 0 | 15 | 10 | 3 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Village | 0 | 0 | 10 | 3 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Hamlet | 0 | 0 | 10 | 3 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| **Total** |  |  |  |  |  |  |  | 225 | 3375 | 675 | 0 | 450 | 4500 |
-
-### Tax farming cost by tier
-
-| N | C | Total |
-| --- | --- | --- |
-| 36 | 1000 | 36000 |
-| 6 | 10000 | 60000 |
-| 1 | 58200 | 58200 |
-
 ## County
 
 | Place | N | Pop each | Total Pop |
 | --- | --- | --- | --- |
-| Capital city | 0 | 12360 | 0 |
-| Provincial city | 0 | 3000 | 0 |
 | Town | 1 | 1190 | 1190 |
 | Village | 6 | 350 | 2100 |
 | Hamlet | 36 | 75 | 2700 |
 | **Named-settlement total** |  |  | 5990 |
 
 As with the [Domain population table](#domain) above, this sums only named settlements; the county's full population is slightly higher (~6,100), the small remainder being the same off-the-books peasantry explained under [Population Outside Named Settlements](#population-outside-named-settlements).
-
-### Samurai
-
-| Place | N | P | Stipend | Food | Housing | Equipment | Other | Population | Payroll | Total Food | Total Housing | Total Equipment | Total Cost |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Capital city | 0 | 800 | 35 | 3 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Provincial city | 0 | 225 | 15 | 3 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Town | 1 | 15 | 10 | 3 | 0 | 2 | 0 | 15 | 150 | 45 | 0 | 30 | 225 |
-| Village | 6 | 0 | 10 | 3 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Hamlet | 36 | 0 | 10 | 3 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| **Total** |  |  |  |  |  |  |  | 15 | 150 | 45 | 0 | 30 | 225 |
-
-### Skilled ashigaru
-
-| Place | N | P | Rate | Stipend | Population | Payroll |
-| --- | --- | --- | --- | --- | --- | --- |
-| Capital city | 0 | 0 | 0.02 | 2 | 0 | 0 |
-| Provincial city | 0 | 0 | 0.02 | 2 | 0 | 0 |
-| Town | 1 | 0 | 0.02 | 2 | 0 | 0 |
-| Village | 6 | 6.93 | 0.02 | 2 | 42 | 83 |
-| Hamlet | 36 | 1.49 | 0.02 | 2 | 53 | 107 |
-| **Total** |  |  |  |  | 95 | 190 |
-
-### Ashigaru
-
-| Place | N | P | Rate | Population |
-| --- | --- | --- | --- | --- |
-| Capital city | 0 | 0 | 0.1 | 0 |
-| Provincial city | 0 | 0 | 0.1 | 0 |
-| Town | 1 | 0 | 0.1 | 0 |
-| Village | 6 | 31.5 | 0.1 | 189 |
-| Hamlet | 36 | 6.75 | 0.1 | 243 |
-| **Total** |  |  |  | 432 |
 
 ## Capital city
 
@@ -327,8 +248,6 @@ Total population: **~12,000**.
 | P | Caste | Population | Families | Property | Business | Land | Total Tax |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 20 | Servants | 2400 | 480 |  |  |  | 672 |
-| 0 | servants, tutors | 0 | 0 | 0 | 0 | 0 | 0 |
-| 0 | servants, temple | 0 | 0 | 0 | 0 | 0 | 0 |
 | 5 | servants, wealthy samurai families | 600 | 120 | 2 | 0 | 0 | 240 |
 | 3 | servants, wealthy merchant families | 360 | 72 | 2 | 0 | 0 | 144 |
 | 7 | servants, non-wealthy samurai families | 840 | 168 | 1 | 0 | 0 | 168 |
@@ -347,23 +266,15 @@ Total population: **~12,000**.
 | 0.5 | burakumin, well-off | 60 | 12 | 2 | 7 | 0 | 108 |
 | 3 | burakumin, poor | 360 | 72 | 1 | 0 | 0 | 72 |
 | 1.5 | burakumin, very poor | 180 | 36 | 1 | 0 | 0 | 36 |
-| 0 | Farmers | 0 | 0 |  |  |  | 0 |
-| 0 | farmer, urban tenant farmer | 0 | 0 | 2 | 0 | 15 | 0 |
-| 0 | farmer, temple urban tenant farmer | 0 | 0 | 0 | 0 | 0 | 0 |
-| 0 | farmer, rural tenant farmer | 0 | 0 | 2 | 0 | 15 | 0 |
-| 0 | farmer, poor freeholder | 0 | 0 | 2 | 0 | 15 | 0 |
-| 0 | farmer, freeholder | 0 | 0 | 2 | 0 | 15 | 0 |
-| 0 | farmer, wealthy landowner | 0 | 0 | 5 | 0 | 15 | 0 |
 | 10 | Samurai (domestic) | 1200 | 240 |  |  |  | 0 |
 | 1 | samurai, merchants | 120 | 24 | 0 | 0 | 0 | 0 |
 | 1 | samurai, courtiers | 120 | 24 | 0 | 0 | 0 | 0 |
 | 8 | samurai, bushi | 960 | 192 | 0 | 0 | 0 | 0 |
-| 0 | samurai, shugenja | 0 | 0 | 0 | 0 | 0 | 0 |
 | 100 | Total | 12000 | 2400 |  |  |  | 24888 |
 | +3 | samurai, relocated county families (non-working) | ~360 | ~72 | 0 | 0 | 0 | 0 |
 | +0.4 | samurai, foreign (Imperial appointees) | ~45 | ~12 | 0 | 0 | 0 | 0 |
 
-**Samurai composition note**: the capital's settled-population breakdown (~12,000) shows ~1,200 domestic samurai (10%), but its true resident samurai count is higher because the capital is the domain's schooling-and-retirement magnet.  Adding the **~360 non-working samurai whose families relocate here from the domain's county towns** (children sent to the capital's schools, elders retiring near the daimyo's court) brings the domestic total to **~1,560**, and the ~1,200 base itself is ~800 working (the cohort the daimyo pays, per the [Samurai sub-tables](#samurai-1)) plus ~400 non-working (children, retirees, and the families of the ~150 capital-born samurai serving the Empire abroad).  So the capital's resident domestic samurai run **~1,560 (~13% of its ~12,360 physical population)** - the highest samurai concentration of any settlement tier, exactly as a daimyo's castle-town seat should be (provincial cities sit at ~10%, county towns at ~1.7%, and the great mega-cities fall back toward ~4-6% as commerce dilutes them).  The working share is correspondingly low (~800 of ~1,560 ≈ 51%) because so many of the residents are dependents.  The **~45 foreign samurai** are the Imperial Magistrate's office (the IM, karo, ~5 household, ~25 office yoriki, plus ~12 accompanying family) - resident but paid by the Empire and their own home domains, not by Daimyo Isao.  Both the relocated and foreign cohorts are listed *additional* to the 12,000-person settled-population breakdown; with them the capital physically holds ~12,400 people.
+**Samurai composition note**: the capital's settled-population breakdown (~12,000) shows ~1,200 domestic samurai (10%), but its true resident samurai count is higher because the capital is the domain's schooling-and-retirement magnet.  Adding the **~360 non-working samurai whose families relocate here from the domain's county towns** (children sent to the capital's schools, elders retiring near the daimyo's court) brings the domestic total to **~1,560**, and the ~1,200 base itself is ~800 working (the cohort the daimyo pays, per [Samurai rank distribution](#samurai-rank-distribution)) plus ~400 non-working (children, retirees, and the families of the ~150 capital-born samurai serving the Empire abroad).  So the capital's resident domestic samurai run **~1,560 (~13% of its ~12,360 physical population)** - the highest samurai concentration of any settlement tier, exactly as a daimyo's castle-town seat should be (provincial cities sit at ~10%, county towns at ~1.7%, and the great mega-cities fall back toward ~4-6% as commerce dilutes them).  The working share is correspondingly low (~800 of ~1,560 ≈ 51%) because so many of the residents are dependents.  The **~45 foreign samurai** are the Imperial Magistrate's office (the IM, karo, ~5 household, ~25 office yoriki, plus ~12 accompanying family) - resident but paid by the Empire and their own home domains, not by Daimyo Isao.  Both the relocated and foreign cohorts are listed *additional* to the 12,000-person settled-population breakdown; with them the capital physically holds ~12,400 people.
 
 ## Provincial city
 
@@ -372,8 +283,6 @@ Total population: **~2,000-4,000, average ~3,000**.
 | P | Caste | Population | Families | Property | Business | Land | Total Tax |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 20 | Servants | 600 | 120 |  |  |  | 168 |
-| 0 | servants, tutors | 0 | 0 | 0 | 0 | 0 | 0 |
-| 0 | servants, temple | 0 | 0 | 0 | 0 | 0 | 0 |
 | 5 | servants, wealthy samurai families | 150 | 30 | 2 | 0 | 0 | 60 |
 | 3 | servants, wealthy merchant families | 90 | 18 | 2 | 0 | 0 | 36 |
 | 7 | Indentured servants, non-wealthy samurai families | 210 | 42 | 1 | 0 | 0 | 42 |
@@ -392,18 +301,10 @@ Total population: **~2,000-4,000, average ~3,000**.
 | 0.5 | burakumin, well-off | 15 | 3 | 2 | 7 | 0 | 27 |
 | 3 | burakumin, poor | 90 | 18 | 1 | 0 | 0 | 18 |
 | 1.5 | burakumin, very poor | 45 | 9 | 1 | 0 | 0 | 9 |
-| 0 | Farmers | 0 | 0 |  |  |  | 0 |
-| 0 | farmer, urban tenant farmer | 0 | 0 | 2 | 0 | 15 | 0 |
-| 0 | farmer, temple urban tenant farmer | 0 | 0 | 0 | 0 | 0 | 0 |
-| 0 | farmer, rural tenant farmer | 0 | 0 | 2 | 0 | 15 | 0 |
-| 0 | farmer, poor freeholder | 0 | 0 | 2 | 0 | 15 | 0 |
-| 0 | farmer, freeholder | 0 | 0 | 2 | 0 | 15 | 0 |
-| 0 | farmer, wealthy landowner | 0 | 0 | 5 | 0 | 15 | 0 |
 | 10 | Samurai (domestic) | 300 | 60 |  |  |  |  |
 | 1 | samurai, merchants | 30 | 6 | 0 | 0 | 0 | 0 |
 | 1 | samurai, courtiers | 30 | 6 | 0 | 0 | 0 | 0 |
 | 8 | samurai, bushi | 240 | 48 | 0 | 0 | 0 | 0 |
-| 0 | samurai, shugenja | 0 | 0 | 0 | 0 | 0 | 0 |
 | 100 | Total | 3000 | 600 |  |  |  | 6222 |
 | +0.2 | samurai, foreign (Imperial appointees) | ~5 | ~1 | 0 | 0 | 0 | 0 |
 
@@ -416,8 +317,6 @@ Total population: **~900-1,500, average ~1,200**.
 | P | Caste | Population | Families | Property | Business | Land | Total Tax |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 5.5 | Servants | 66 | 13.2 |  |  |  | 18 |
-| 0 | servants, tutors | 0 | 0 | 0 | 0 | 0 | 0 |
-| 0 | servants, temple | 0 | 0 | 0 | 0 | 0 | 0 |
 | 1.5 | servants, wealthy samurai families | 18 | 3.6 | 2 | 0 | 0 | 7.2 |
 | 0.5 | servants, wealthy merchant families | 6 | 1.2 | 2 | 0 | 0 | 2.4 |
 | 0.5 | Indentured servants, non-wealthy samurai families | 6 | 1.2 | 1 | 0 | 0 | 1.2 |
@@ -436,22 +335,16 @@ Total population: **~900-1,500, average ~1,200**.
 | 0.5 | burakumin, well-off | 6 | 1.2 | 1 | 7 | 0 | 9.6 |
 | 3 | burakumin, poor | 36 | 7.2 | 1 | 0 | 0 | 7.2 |
 | 1.5 | burakumin, very poor | 18 | 3.6 | 1 | 0 | 0 | 3.6 |
-| 0 | burakumin, maho-tsukai | 0 | 0 | 1 | 0 | 0 | 0 |
 | 65 | Farmers | 780 | 156 |  |  |  | 780 |
-| 0 | farmer, urban tenant farmer | 0 | 0 | 0 | 0 | 5 | 0 |
-| 0 | farmer, temple urban tenant farmer | 0 | 0 | 0 | 0 | 0 | 0 |
 | 55 | farmer, rural tenant farmer | 660 | 132 | 0 | 0 | 5 | 660 |
 | 2.5 | farmer, poor freeholder | 30 | 6 | 0 | 0 | 5 | 30 |
 | 5 | farmer, freeholder | 60 | 12 | 0 | 0 | 5 | 60 |
 | 2.5 | farmer, wealthy landowner | 30 | 6 | 0 | 0 | 5 | 30 |
 | 1.7 | Samurai | 20 | 4 |  |  |  |  |
-| 0 | samurai, merchants | 0 | 0 |  |  |  |  |
-| 0 | samurai, courtiers | 0 | 0 |  |  |  |  |
 | 1.7 | samurai, bushi | 20 | 4 |  |  |  |  |
-| 0 | samurai, shugenja | 0 | 0 |  |  |  |  |
 | 100 | Total | 1190 | 238 |  |  |  | 1603.2 |
 
-**Samurai composition note**: a county town holds only ~20 resident samurai, of which ~15 are working (the magistrate and their staff - a full platoon) and only ~5 are non-working.  This is a far higher working share (~75%) than any city, because **county samurai families largely do not live in the remote county seat**: children are sent up-tier to the provincial city or domain capital for schooling, and elders retire there, so the dependents who would otherwise pad the count reside in those larger centers (see the [Capital City](#capital-city) note).  The ~10 family members per town who relocate up account for the ~360-per-domain shift that lifts the capital's resident samurai to ~13%.  The town's tax base (~1,603) is unchanged - samurai pay no property/business tax, so their relocation does not move it.
+**Samurai composition note**: a county town holds only ~20 resident samurai, of which ~15 are working (the magistrate and their staff - a full platoon) and only ~5 are non-working.  This is a far higher working share (~75%) than any city, because **county samurai families largely do not live in the remote county seat**; children are sent up-tier to the provincial city or domain capital for schooling, and elders retire to those places, so the dependents who would otherwise pad the count reside in those larger centers (see the [Capital City](#capital-city) note).  The ~10 family members per town who relocate up account for the ~360-per-domain shift that lifts the capital's resident samurai to ~13%.  The town's tax base (~1,603) is unchanged - samurai pay no property taxes on their homes, so their relocation does not move it.
 
 ## Village
 
@@ -459,39 +352,11 @@ Total in-village population: **~200-500, average ~350**.
 
 | P | Caste | Population | Families | Property | Business | Land | Total Tax |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0 | Servants | 0 | 0 |  |  |  | 0 |
-| 0 | servants, tutors | 0 | 0 | 0 | 0 | 0 | 0 |
-| 0 | servants, temple | 0 | 0 | 0 | 0 | 0 | 0 |
-| 0 | servants, wealthy samurai families | 0 | 0 | 2 | 0 | 0 | 0 |
-| 0 | servants, wealthy merchant families | 0 | 0 | 2 | 0 | 0 | 0 |
-| 0 | servants, non-wealthy samurai families | 0 | 0 | 1 | 0 | 0 | 0 |
-| 0 | servants, non-wealthy merchant families | 0 | 0 | 1 | 0 | 0 | 0 |
-| 0 | servants, miscellaneous | 0 | 0 | 1 | 0 | 0 | 0 |
-| 0 | Laborers | 0 | 0 |  |  |  | 0 |
-| 0 | laborers, master (rich) | 0 | 0 | 5 | 25 | 0 | 0 |
-| 0 | laborers, poor | 0 | 0 | 1 | 0 | 0 | 0 |
-| 0 | laborers, other | 0 | 0 | 1 | 0 | 0 | 0 |
-| 0 | Merchants | 0 | 0 |  |  |  | 0 |
-| 0 | merchants, very rich | 0 | 0 | 10 | 225 | 0 | 0 |
-| 0 | merchants, rich | 0 | 0 | 5 | 25 | 0 | 0 |
-| 0 | merchants, poor | 0 | 0 | 1 | 3 | 0 | 0 |
-| 0 | merchants, other | 0 | 0 | 1 | 7 | 0 | 0 |
-| 0 | Burakumin | 0 | 0 |  |  |  | 0 |
-| 0 | burakumin, well-off | 0 | 0 | 1 | 7 | 0 | 0 |
-| 0 | burakumin, poor | 0 | 0 | 1 | 0 | 0 | 0 |
-| 0 | burakumin, very poor | 0 | 0 | 1 | 0 | 0 | 0 |
 | 100 | Farmers | 350 | 70 |  |  |  | 350 |
-| 0 | farmer, urban tenant farmer | 0 | 0 | 0 | 0 | 5 | 0 |
-| 0 | farmer, temple urban tenant farmer | 0 | 0 | 0 | 0 | 0 | 0 |
 | 80 | farmer, rural tenant farmer | 280 | 56 | 0 | 0 | 5 | 280 |
 | 5 | farmer, poor freeholder | 17.5 | 3.5 | 0 | 0 | 5 | 17.5 |
 | 10 | farmer, freeholder | 35 | 7 | 0 | 0 | 5 | 35 |
 | 5 | farmer, wealthy landowner | 17.5 | 3.5 | 0 | 0 | 5 | 17.5 |
-| 0 | Samurai | 0 | 0 |  |  |  |  |
-| 0 | samurai, merchants | 0 | 0 |  |  |  |  |
-| 0 | samurai, courtiers | 0 | 0 |  |  |  |  |
-| 0 | samurai, bushi | 0 | 0 |  |  |  |  |
-| 0 | samurai, shugenja | 0 | 0 |  |  |  |  |
 | 100 | Total | 350 | 70 |  |  |  | 350 |
 
 ## Hamlet
@@ -500,39 +365,11 @@ Total population: **~50-100, average ~75**.
 
 | P | Caste | Population | Families | Property | Business | Land | Total Tax |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0 | Servants | 0 | 0 |  |  |  | 0 |
-| 0 | servants, tutors | 0 | 0 | 0 | 0 | 0 | 0 |
-| 0 | servants, temple | 0 | 0 | 0 | 0 | 0 | 0 |
-| 0 | servants, wealthy samurai families | 0 | 0 | 2 | 0 | 0 | 0 |
-| 0 | servants, wealthy merchant families | 0 | 0 | 2 | 0 | 0 | 0 |
-| 0 | servants, non-wealthy samurai families | 0 | 0 | 1 | 0 | 0 | 0 |
-| 0 | servants, non-wealthy merchant families | 0 | 0 | 1 | 0 | 0 | 0 |
-| 0 | servants, miscellaneous | 0 | 0 | 1 | 0 | 0 | 0 |
-| 0 | Laborers | 0 | 0 |  |  |  | 0 |
-| 0 | laborers, master (rich) | 0 | 0 | 5 | 25 | 0 | 0 |
-| 0 | laborers, poor | 0 | 0 | 1 | 0 | 0 | 0 |
-| 0 | laborers, other | 0 | 0 | 1 | 0 | 0 | 0 |
-| 0 | Merchants | 0 | 0 |  |  |  | 0 |
-| 0 | merchants, very rich | 0 | 0 | 10 | 225 | 0 | 0 |
-| 0 | merchants, rich | 0 | 0 | 5 | 25 | 0 | 0 |
-| 0 | merchants, poor | 0 | 0 | 1 | 3 | 0 | 0 |
-| 0 | merchants, other | 0 | 0 | 1 | 7 | 0 | 0 |
-| 0 | Burakumin | 0 | 0 |  |  |  | 0 |
-| 0 | burakumin, well-off | 0 | 0 | 1 | 7 | 0 | 0 |
-| 0 | burakumin, poor | 0 | 0 | 1 | 0 | 0 | 0 |
-| 0 | burakumin, very poor | 0 | 0 | 1 | 0 | 0 | 0 |
 | 100 | Farmers | 75 | 15 |  |  |  | 75 |
-| 0 | farmer, urban tenant farmer | 0 | 0 | 0 | 0 | 5 | 0 |
-| 0 | farmer, temple urban tenant farmer | 0 | 0 | 0 | 0 | 0 | 0 |
 | 80 | farmer, rural tenant farmer | 60 | 12 | 0 | 0 | 5 | 60 |
 | 5 | farmer, poor freeholder | 3.75 | 0.75 | 0 | 0 | 5 | 3.75 |
 | 10 | farmer, freeholder | 7.5 | 1.5 | 0 | 0 | 5 | 7.5 |
 | 5 | farmer, wealthy landowner | 3.75 | 0.75 | 0 | 0 | 5 | 3.75 |
-| 0 | Samurai | 0 | 0 |  |  |  |  |
-| 0 | samurai, merchants | 0 | 0 |  |  |  |  |
-| 0 | samurai, courtiers | 0 | 0 |  |  |  |  |
-| 0 | samurai, bushi | 0 | 0 |  |  |  |  |
-| 0 | samurai, shugenja | 0 | 0 |  |  |  |  |
 | 100 | Total | 75 | 15 |  |  |  | 75 |
 
 ## Samurai concentration by city size and the capital
@@ -1285,7 +1122,7 @@ Notes:
 
 #### Provincial-city Imperial yoriki sub-station budget
 
-Each of the ~2,400 provincial cities in the Empire (400 median domains × 6 provinces per MD) houses a small Imperial yoriki sub-station that audits tariff collection at the city's gates.  This uses the ~400 MD × 6 multiplier rather than the ~284 actual-domain multiplier because larger actual domains have proportionally more provincial cities than the median (see [Combined Budgets](#combined-budgets) above for the dual-multiplier discussion).
+Each of the ~2,400 provincial cities in the Empire (400 median domains × 6 provinces per MD) houses a small Imperial yoriki sub-station that audits tariff collection at the city's gates.  This uses the ~400 MD × 6 multiplier rather than the ~284 actual-domain multiplier because larger actual domains have proportionally more provincial cities than the median (see [The two Empire-wide multipliers](#the-two-empire-wide-multipliers) for the dual-multiplier discussion).
 
 Staffing breakdown for a typical provincial-city sub-station:
 
