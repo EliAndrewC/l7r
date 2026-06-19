@@ -1,39 +1,39 @@
-# Domain Budgets
+# Domain budgets
 
 Per-tier budget breakdowns for the median domain hierarchy, plus supporting tables.
 
 ## Contents
 
-- [What These Populations Count](#what-these-populations-count)
-- [What the Samurai Counts Mean](#what-the-samurai-counts-mean)
-- [Samurai Stipend Convention](#samurai-stipend-convention)
-- [Samurai Rank Distribution](#samurai-rank-distribution)
-- [The Two Empire-Wide Multipliers](#the-two-empire-wide-multipliers)
+- [What these populations count](#what-these-populations-count)
+- [What the samurai counts mean](#what-the-samurai-counts-mean)
+- [Samurai stipend convention](#samurai-stipend-convention)
+- [Samurai rank distribution](#samurai-rank-distribution)
+- [The two Empire-wide multipliers](#the-two-empire-wide-multipliers)
 - [Domain](#domain)
-  - [Population Outside Named Settlements](#population-outside-named-settlements)
+  - [Population outside named settlements](#population-outside-named-settlements)
   - [Samurai](#samurai)
   - [Budget](#budget)
-  - [Combined Budgets](#combined-budgets)
+  - [Combined budgets](#combined-budgets)
 - [Province](#province)
   - [Samurai](#samurai-1)
   - [Budget](#budget-1)
-  - [Tax Farming Cost by Tier](#tax-farming-cost-by-tier)
+  - [Tax farming cost by tier](#tax-farming-cost-by-tier)
 - [County](#county)
   - [Samurai](#samurai-2)
-  - [Skilled Ashigaru](#skilled-ashigaru)
+  - [Skilled ashigaru](#skilled-ashigaru)
   - [Ashigaru](#ashigaru)
   - [Budget](#budget-2)
-- [Capital City](#capital-city)
-- [Provincial City](#provincial-city)
+- [Capital city](#capital-city)
+- [Provincial city](#provincial-city)
 - [Town](#town)
 - [Village](#village)
 - [Hamlet](#hamlet)
-- [Samurai Concentration by City Size and the Capital](#samurai-concentration-by-city-size-and-the-capital)
-- [Ministry Budgets](#ministry-budgets)
-  - [Domain Ministry Budgets](#domain-ministry-budgets)
-  - [Provincial Ministry Budgets](#provincial-ministry-budgets)
+- [Samurai concentration by city size and the capital](#samurai-concentration-by-city-size-and-the-capital)
+- [Ministry budgets](#ministry-budgets)
+  - [Domain ministry budgets](#domain-ministry-budgets)
+  - [Provincial ministry budgets](#provincial-ministry-budgets)
   - [Cross-cutting project negotiation](#cross-cutting-project-negotiation)
-- [Example Office-Holder Budgets](#example-office-holder-budgets)
+- [Example office-holder budgets](#example-office-holder-budgets)
   - [Magistrate Hida no Reiji Hikai of Seitoyama County](#magistrate-hida-no-reiji-hikai-of-seitoyama-county)
     - [Income](#income)
     - [Mandatory expenses](#mandatory-expenses)
@@ -55,61 +55,60 @@ Per-tier budget breakdowns for the median domain hierarchy, plus supporting tabl
     - [Discretionary residual](#discretionary-residual-2)
     - [Isao's discretionary breakdown](#isaos-discretionary-breakdown)
     - [Summary](#summary-2)
-- [The Imperial Budget](#the-imperial-budget)
-  - [Imperial Revenue](#imperial-revenue-30-38-million-koku-per-year-at-canonical-baseline)
-  - [Imperial Spending](#imperial-spending-27-42-million-koku-per-year)
-  - [Imperial Budget Scale: Historical Context](#imperial-budget-scale-historical-context)
-  - [Imperial Roads and Waystations: Line-Item Detail](#imperial-roads-and-waystations-line-item-detail)
-  - [Imperial Roads: a Special Case](#imperial-roads-a-special-case)
-  - [Imperial Legions: Line-Item Detail](#imperial-legions-line-item-detail)
-  - [Kaiu Wall Direct Contributions: Line-Item Detail](#kaiu-wall-direct-contributions-line-item-detail)
-  - [Imperial Magistrates and Their Staff: Line-Item Detail](#imperial-magistrates-and-their-staff-line-item-detail)
-  - [Imperial Savings: the "Wealth in Favors Owed" Model](#imperial-savings-the-wealth-in-favors-owed-model)
-- [Tax Pie](#tax-pie)
-- [Land Productivity](#land-productivity)
-  - [Rice and Arable-Land Math](#rice-and-arable-land-math)
-    - [Historical Units](#historical-units)
-    - [Yield Reference](#yield-reference)
-    - [Historical Household-Size Guidelines](#historical-household-size-guidelines)
-    - [Rokugan Arable-Land Extrapolation](#rokugan-arable-land-extrapolation)
-    - [Total Rice Production](#total-rice-production)
-    - [Other Per-Domain Derivations](#other-per-domain-derivations)
-  - [Unit Conversions: land area to rice koku](#unit-conversions-land-area-to-rice-koku)
-  - [Per-Family Reference](#per-family-reference)
-  - [Farm Families by Tier (per Domain)](#farm-families-by-tier-per-domain)
-  - [Arable Land Allocation (per Domain)](#arable-land-allocation-per-domain)
-  - [Rice Productivity by Land Quality](#rice-productivity-by-land-quality)
-  - [Wheat Productivity by Land Quality](#wheat-productivity-by-land-quality)
+- [The Imperial budget](#the-imperial-budget)
+  - [Imperial revenue](#imperial-revenue-30-38-million-koku-per-year-at-canonical-baseline)
+  - [Imperial spending](#imperial-spending-27-42-million-koku-per-year)
+  - [Imperial budget scale: historical context](#imperial-budget-scale-historical-context)
+  - [Imperial roads and waystations: line-item detail](#imperial-roads-and-waystations-line-item-detail)
+  - [Imperial roads: a special case](#imperial-roads-a-special-case)
+  - [Imperial legions: line-item detail](#imperial-legions-line-item-detail)
+  - [Kaiu Wall direct contributions: line-item detail](#kaiu-wall-direct-contributions-line-item-detail)
+  - [Imperial magistrates and their staff: line-item detail](#imperial-magistrates-and-their-staff-line-item-detail)
+  - [Imperial savings: the "wealth in favors owed" model](#imperial-savings-the-wealth-in-favors-owed-model)
+- [Land productivity](#land-productivity)
+  - [Rice and arable-land math](#rice-and-arable-land-math)
+    - [Historical units](#historical-units)
+    - [Yield reference](#yield-reference)
+    - [Historical household-size guidelines](#historical-household-size-guidelines)
+    - [Rokugan arable-land extrapolation](#rokugan-arable-land-extrapolation)
+    - [Total rice production](#total-rice-production)
+    - [Other per-domain derivations](#other-per-domain-derivations)
+  - [Unit conversions: land area to rice koku](#unit-conversions-land-area-to-rice-koku)
+  - [Per-family reference](#per-family-reference)
+  - [Farm families by tier (per domain)](#farm-families-by-tier-per-domain)
+  - [Arable land allocation (per domain)](#arable-land-allocation-per-domain)
+  - [Rice productivity by land quality](#rice-productivity-by-land-quality)
+  - [Wheat productivity by land quality](#wheat-productivity-by-land-quality)
 
-## What These Populations Count
+## What these populations count
 
 The "population" figures in this document mean different things at different tiers, and the differences matter for the math downstream (see [`l7r.md` - The Median Domain](l7r.md#the-median-domain) for the canonical per-tier population ranges):
 
-- **Hamlet (~50-100, average ~75) and Village (~200-500, average ~350)**: counts every person living in that settlement.  These are pure farming communities - a hamlet is just a cluster of farmhouses; a village is several clusters around multiple large fields plus a slightly larger headman's household.  No burakumin in most rural settlements, as burakumin live in towns and cities where their specialty trades have customers.
+- **Hamlet (~50-100, average ~75) and Village (~200-500, average ~350)**: counts every person living in that settlement.  These are pure farming communities - a hamlet is just a cluster of farmhouses, often around a common field; a village is several clusters around multiple large fields plus a slightly larger headman's household.  No burakumin in most rural settlements, as burakumin live in towns and cities where their specialty trades have customers.
 - **Town (~900-1,500, average ~1,200)**: counts the in-and-around population.  Most town residents are farmers (~65%) because the working farmland immediately surrounding a county town is included in the town's population.  Border towns tend to be walled, whereas towns which do not need to maintain this level of military preparedness have a much more porous boundary and lack a clear inside-vs-outside boundary.  A "county" is the town plus its surrounding village districts.
 - **Provincial city (~2,000-4,000, average ~3,000) and Capital city (~12,000)**: counts ONLY the population living within the city walls / on the city's footprint proper.  Cities are nearly always built on top of (or beside) very fertile land, and that land is farmed - but the farmers who work it live in villages and hamlets in the *surrounding county*, not in the city itself, which will almost always be walled and thus have rigorous demarcation between their urban interior and agricultural exterior.  That is why both city tiers show zero farmers in their caste tables.
 
-The practical result: a capital city of ~12,000 is a city of ~12,000 administrators / artisans / soldiers / merchants / servants, ringed by farming villages whose inhabitants are counted under the surrounding rural settlement totals.  Likewise the ~6 provincial cities of a domain - each ~2,000-4,000 inside the walls, surrounded by farming villages counted in other population totals.
+The practical result: a capital city of ~12,000 is a city of ~12,000 administrators / artisans / soldiers / merchants / servants / etc, ringed by farming villages whose inhabitants are counted under the surrounding rural settlement totals.  Likewise the ~6 provincial cities of a domain - each ~2,000-4,000 inside the walls, surrounded by farming villages counted in other population totals.
 
-## What the Samurai Counts Mean
+## What the samurai counts mean
 
-The samurai populations in the per-tier sub-tables (~800 in the capital, ~225 per provincial city, ~15 per county town, for an **in-domain** working total of ~2,690) refer specifically to the **useful working cohort serving inside the domain**: samurai past their gempukku and not yet retired.  The domain's *full* working cohort is ~3,000; the other **~300 work in Imperial posts outside the domain** (Imperial Legions, cross-clan yoriki tours, central court roles at Otosan Uchi), paid by the Empire rather than the daimyo - see [Per-Domain Outflow](#per-domain-outflow-how-many-of-a-daimyos-samurai-are-serving-elsewhere) below.  The total samurai population per domain, including children and retirees living in their family households, is approximately **5,000** (per [`l7r.md` - The Median Domain](l7r.md#the-median-domain)).  Every samurai is counted **once, at their home domain**, so the ~300 serving abroad are *part of* the 5,000, not added on top of it - this is what keeps the Empire-wide samurai share at exactly 2% (~5,000 = 2% of 250,000 = 1/400 of the Empire's 2 million samurai).
+The samurai populations in the per-tier sub-tables (~800 in the capital, ~225 per provincial city, ~15 per county town, for an **in-domain** working total of ~2,700) refer specifically to the **useful working cohort serving inside the domain**: samurai past their gempukku and not yet retired.  The domain's *full* working cohort is ~3,000; the other **~300 work in Imperial posts outside the domain** (Imperial Legions, cross-clan yoriki tours, central court roles at Otosan Uchi), paid by the Empire rather than the daimyo - see [Per-Domain Outflow](#per-domain-outflow-how-many-of-a-daimyos-samurai-are-serving-elsewhere) below.  The total samurai population per domain, including children and retirees living in their family households, is approximately **5,000** (per [`l7r.md` - The Median Domain](l7r.md#the-median-domain)).  Every samurai is counted **once, at their home domain**, so the ~300 serving abroad are *part of* the 5,000, not added on top of it - this is important for understanding the Empire-wide samurai share as being 2% (~5,000 = 2% of ~250,000 = 1/400 of the Empire's ~2 million samurai).
 
 **Two distinct counts, used for two distinct purposes**: city *population* figures (the samurai shown in the [Capital City](#capital-city) caste table) count **all resident samurai - working, pre-gempukku children, and retirees alike** - because all of them physically live in the city and consume its housing, food, and services, and they additionally include a small cohort of **foreign Imperial appointees** stationed in the city (the Imperial Magistrate's office, the tariff-audit yoriki) who reside there without drawing the daimyo's stipend.  *Stipend* figures, by contrast, are paid by the daimyo to his **in-domain working cohort only** (~800 in the capital): **pre-gempukku children and post-retirement samurai draw no government stipend**, samurai serving the Empire abroad are paid by the Empire, and foreign appointees are paid by their own home domains.  This is why the caste tables (resident population) and the Samurai sub-tables (the daimyo's stipend payroll) show different samurai numbers for the same settlement - they are counting different things, not contradicting each other.
 
-## Samurai Stipend Convention
+## Samurai stipend convention
 
-The Stipend column in the per-tier Samurai sub-tables shows the mean **average** annual stipend per working samurai at each tier.  Individual stipends follow the rank-squared rule (`stipend = rank^2`, per [`l7r.md` - Accordances of Rank](l7r.md#accordances-of-rank)): a Rank 1 bushi receives 1 koku, a Rank 5 county magistrate receives 25 koku, a Rank 10 minister 100 koku, a Rank 12 daimyo 144 koku.
+The Stipend column in the per-tier Samurai sub-tables shows the mean **average** annual stipend per working samurai at each tier.  Individual stipends follow the rank-squared rule (`stipend = rank^2`, per [`l7r.md` - Accordances of Rank](l7r.md#accordances-of-rank)): a Rank 2 bushi receives 4 koku, a Rank 6 Deputy Provincial Minister receives 36 koku, a Rank 10 minister receives 100 koku, etc.
 
 The average varies by tier because the rank distribution does:
 
 - **County town samurai**: ~10 koku average (avg rank ~3).  A typical county town's 15 samurai include 1 magistrate (Rank 5, 25 koku), the magistrate's karo and ~3 squad sergeants (Rank 4, 16 koku each), ~3 squad corporals (Rank 3, 9 koku each), and the remainder mostly Rank 2-3 bushi.
 - **Provincial city samurai**: ~15 koku average (avg rank ~3-4).  Provincial cities house the provincial governor (Rank 8), six provincial ministers (Rank 7) and their deputies (Rank 6), mid-rank clerks (Rank 3-5), and rank-and-file bushi assigned to provincial administrative and military duties.
-- **Capital city samurai**: ~35 koku average (avg rank ~5-6).  The capital is staffed with the senior cohort - the daimyo (Rank 12), councilors (Rank 11), domain ministers (Rank 10) and their deputies (Rank 9), high-rank clerks (Rank 7-8), castle guards and household retainers from the daimyo's elite retinue, and junior officials in training for higher posts.  Low-rank samurai compose a lower proportion of retainers in the capital than in the provinces.
+- **Capital city samurai**: ~35 koku average (avg rank ~5-6).  The capital is staffed with the senior cohort - the daimyo (Rank 12, who draws no stipend), councilors (Rank 11), domain ministers (Rank 10) and their deputies (Rank 9), high-rank clerks (Rank 7-8), castle guards and household retainers from the daimyo's elite retinue, and junior officials in training for higher posts.  Low-rank samurai compose a lower proportion of retainers in the capital than in the provinces.
 
 **Stipends are paid out of the broader tax-farming allocation at the tier where the samurai serves** (*not* out of the discretionary "tax-farming cut" that defines the post's value): capital samurai stipends are funded by the daimyo's broader allocation as a separate ~32,000-koku mandatory line (~800 working capital samurai); provincial samurai stipends by the governor's broader allocation as a separate ~4,500-koku mandatory line (~225 per province); county samurai stipends as part of the magistrate's mandatory expenses.  The ~1,000 / ~10,000 / variable canonical "cuts" at the magistrate / governor / daimyo tiers are the discretionary income remaining after all mandatory expenses (tax obligations up, stipends, ministry overhead, kick-ups, etc.) - not the working budget out of which everything is paid.  Cross-tier flow does not happen for stipends as it does for gifts and lineage finances - a provincial samurai is paid by their governor regardless of which lineage the samurai or governor belongs to (see [`l7r.md` - Samurai Lineages](l7r.md#samurai-lineages) for the discussion of how lineage politics and fiscal flow interact).
 
-## Samurai Rank Distribution
+## Samurai rank distribution
 
 The per-tier average stipends above (capital ~35, province ~15, county ~10 koku) imply a specific distribution of the domain's **in-domain working samurai** across the 15 ranks.  The table below shows that distribution per settlement and aggregated for the whole median domain.  Counts are for **working samurai the daimyo pays** (past gempukku, not yet retired); the ~300 of the domain's working samurai who serve in *Empire-paid* posts elsewhere are not in this stipend table (they appear in [Per-Domain Outflow](#per-domain-outflow-how-many-of-a-daimyos-samurai-are-serving-elsewhere) below), and the rank a samurai holds is retained into retirement but retirees are not counted here.
 
@@ -130,61 +129,61 @@ The per-tier average stipends above (capital ~35, province ~15, county ~10 koku)
 | **Total** | | **800** | **225** | **15** | **2,690** |
 | *Avg stipend* | | *~35* | *~15* | *~10* | *~20* |
 
-(The "Domain total" column = 1 capital + 6 provinces + 36 counties, so e.g. Rank 5 = 142 + 6×40 + 36×1 = 418.  Per-settlement stipend totals: capital ~28,400, province ~3,400, county ~143, each matching the Samurai sub-tables below.  The capital column counts everyone the daimyo pays a stipend to - which includes a handful of samurai physically posted *abroad* as the House's emissaries, explained below - but excludes samurai the *Empire* pays, such as those serving in the Imperial Legions or as Imperial yoriki elsewhere, who are tallied separately in the outflow synthesis.)
+(The "Domain total" column = 1 capital + 6 provinces + 36 counties, so e.g. Rank 5 = 142 + 6×40 + 36×1 = 418.  Per-settlement stipend totals: capital ~28,400, province ~3,400, county ~143, each matching the Samurai sub-tables below.  The lone Rank-12 daimyo draws no stipend - he lives from the domain's discretionary cut, not a salary - so although he is counted in the capital's 800, the ~28,400 capital total excludes his notional 144 koku (the rank-squared column shows the rule; the total shows what is actually paid).  The capital column otherwise counts everyone the daimyo pays - which includes a handful of samurai physically posted *abroad* as the House's emissaries, explained below - but excludes samurai the *Empire* pays, such as those serving in the Imperial Legions or as Imperial yoriki elsewhere, who are tallied separately in the outflow synthesis.)
 
 **The headline number: roughly 36% of a domain's in-domain working samurai are Rank 5 or above** (~965 of ~2,690); counting the ~300 who serve abroad (who skew low-rank, being mostly rank-and-file legionnaires, but include ~80 at Rank 5+ in central court and command roles), it is ~35% of the full ~3,000 working cohort, or about **21% of all ~5,000 samurai** including children and retirees.  Note how *few* samurai sit at Ranks 10-12 (only ~16 in the whole domain) versus the broad bulge at Ranks 5-8: the very top of the pyramid is genuinely narrow, but "senior-ish" rank (5 through 8) is common.
 
-### Why So Many High Ranks - and Why County Magistrate Is "the Median"
+### Why so many high ranks - and why county magistrate is "the median"
 
 Three features of this distribution surprise newcomers, and all are deliberate:
 
-**Rank tracks birth and post far more than personal power.**  Unlike a level-based fantasy game, a Rokugani samurai's rank is determined chiefly by their **birth family and the post they hold**, not by their accumulated experience (XP).  Rokugan is unusually merit-based by historical standards - it even runs Chinese-style civil-service examinations - but family connections remain a much stronger determinant of rank than raw competence.  The Empire is full of high-XP samurai stalled in middle-management posts because they lack the connections to be handed the big jobs, and of comfortably-ranked samurai who owe their position to a well-placed relative.  So rank and XP are only loosely correlated, and a "senior-ish rank" is not the rarity it would be in a system where rank tracked ability.
+**Rank tracks birth and post far more than personal power.**  Unlike a level-based fantasy game, a Rokugani samurai's rank is determined chiefly by their **birth family and the post they hold**, not by their accumulated experience (XP).  Rokugan is unusually merit-based by historical standards - it even runs Chinese-style civil-service examinations - but family connections remain a much stronger determinant of rank than raw competence.  The Empire is full of high-XP samurai stalled in middle-management posts because they lack the connections to be handed the big jobs, and many comfortably-ranked samurai owe their position to a well-placed relative.  Thus, rank and XP are only loosely correlated, and a "senior-ish rank" is not the rarity it would be in a system where rank purely tracked ability.
 
-**The very top of the pyramid is narrow, but "rank by association" fills the upper-middle.**  Within a vassal House almost no one holds a *title* above Rank 9: there is one Rank 12 (the daimyo), a small handful of Rank 11 (the ~6 lineage chancellors on the House council), the six Rank 10 Ministers, and their six Rank 9 Deputy Ministers - and that is essentially the entire in-domain officer corps at Ranks 9-12.  The reason Ranks 8-9 are nonetheless well-populated, and Ranks 10-11 show a few more heads than the in-domain office count alone, comes from two rules of [the Doctrine of Three Steps](l7r.md#the-doctrine-of-three-steps):
+**The very top of the pyramid is narrow, but "rank by association" fills the upper-middle.**  Within a vassal House almost no one holds a *title* above Rank 9: there is one Rank 12 (the daimyo), a small handful of Rank 11 (the ~6 lineage chancellors on the House Chancellery), the six Rank 10 Ministers, and their six Rank 9 Deputy Ministers - and that is nearly the entire in-domain officer corps at Ranks 9-12.  That said, higher Ranks have their numbers bolstered due to [the Doctrine of Three Steps](l7r.md#the-doctrine-of-three-steps):
 
 - **External representation.**  A House posts standing emissaries to the courts above it, each ranked high enough to deal with that court on accordant terms: its representative on the Imperial Chancellery (upper Rank 11), its emissary to the Clan capital (lower Rank 11), its emissary to the Family capital (Rank 10), and its ambassadors to peer vassal Houses (usually Rank 9).  These samurai serve *outside* the domain but remain on the daimyo's payroll - which is why they appear in the capital stipend column above (the ~8 Rank-11 and ~7 Rank-10 figures are the ~6 in-domain chancellors and ~6 in-domain Ministers plus these abroad-posted emissaries), even though they are not physically in the capital.
-- **Family by association.**  No samurai may be more than three ranks below their immediate family, so the daimyo's adult children, siblings, and parents are at least Rank 9 (12 minus 3) even with no office of their own; the chancellors' close kin are at least Rank 8; and so on down.  This "rank by association" is what populates the broad Rank 8-9 band with samurai who hold no post at all - they have standing because of who they are related to, and the daimyo supports them at the rank their blood commands.
+- **Family by association.**  No samurai may be more than three ranks below their immediate family, so the daimyo's adult children, siblings, and parents are at least Rank 9 (12 minus 3) even when holding no office of their own; the chancellors' close kin are at least Rank 8; and so on down.  This "rank by association" is what populates the broad Rank 8-9 band with samurai who hold no post at all - they have standing because of who they are related to, and the daimyo supports them at the rank their blood commands.
 
 So the **~16 samurai at Ranks 10-12 are almost all genuine office-holders or emissaries**, while the large Rank 5-9 cohort is a mix of mid-level posts, the elite bushi and household of the capital, and the titled-by-blood.  (Samurai a daimyo sends into *Imperial* service - the legions, cross-clan yoriki tours - are paid by the Empire rather than the daimyo, so they are counted in the [outflow synthesis](#per-domain-outflow-how-many-of-a-daimyos-samurai-are-serving-elsewhere) below, not in this stipend table.)
 
 **A capital posting is high-prestige even when the job itself is menial**, which is why the capital is so rank-heavy.  Consider a samurai walking a patrol route in the domain capital: they may hold the **same Rank 5 as a county magistrate**, drawing a 25-koku stipend, while the magistrate rules over a hundred-plus square miles with ~1,000 koku of discretionary income.  The magistrate is vastly wealthier and more powerful - and yet a move "out into the counties" is not unambiguously a promotion.  Some capital samurai would leap at the magistracy; others would politely decline, especially if a different family member could take the post instead and secure the income for the lineage.
 
-Those who decline are not being irrational.  Leaving the capital means leaving the **cultural and social center of the domain** - family, friends, teahouses, theaters, restaurants, drinking houses, and businesses that no county town will ever match - for a remote posting that is, in practical terms, removed from civilized society.  The patroller is *already* fantastically wealthy by the standards of the ~98% of Rokugan that is not samurai; trading "fantastically wealthy and surrounded by civilization" for "obscenely wealthy and isolated" is not an obvious win.  And samurai are socialized **not to display interest in money** - openly chasing wealth is unseemly.  Wealth and power do drive nearly every decision in the society, but ambitious samurai speak of it only obliquely, as a wish "to increase our family's position" or "to fund the schooling of the next generation."  (Even in Yasuki lands, samurai merchants discuss money frankly among themselves but know to be circumspect around outsiders.)  Plenty of samurai are simply not ambitious enough to uproot themselves for a richer-but-lonelier life.
+Those who decline are not being irrational.  Leaving the capital means leaving the **cultural and social center of the domain** - family, friends, teahouses, theaters, restaurants, drinking houses, and businesses that no county town will ever match - for a remote posting that is, in practical terms, removed from civilized society.  The patroller is *already* fantastically wealthy by the standards of the ~98% of Rokugan that is not samurai; trading "fantastically wealthy and surrounded by civilization" for "obscenely wealthy and isolated" is not an obvious win.  And samurai are socialized **not to display interest in money** - openly chasing wealth is unseemly.  Wealth and power do drive nearly every decision in the society, but ambitious samurai speak of it only obliquely, as a wish "to increase our family's position" or "to fund the schooling of the next generation."  (Even in Yasuki lands, samurai merchants discuss money frankly among themselves but know to be circumspect around outsiders.)  Plenty of samurai are simply not ambitious enough to uproot themselves for a richer-but-lonelier life, especially when they can instead pursue other promotions within the capital (many of which are for similarly menial jobs but nonetheless come with greater prestige).
 
 A **provincial governorship** is a different matter, and is keenly sought after - because a provincial city is *still a city*.  The governor gets the wealth and power of a senior post without surrendering urban life.  The reluctance attaches specifically to the county tier, where the post means genuine rural exile.  This is the structural reason the county magistracy is simultaneously one of the most lucrative posts below the daimyo (per [Provincial Ministry Budgets](#provincial-ministry-budgets), a magistrate's ~1,000-koku cut beats every provincial minister but Revenue) and, for many of the capital-born samurai eligible for it, a posting they regard as a demotion.
 
-## The Two Empire-Wide Multipliers
+## The two Empire-wide multipliers
 
 Empire-wide aggregations in this document use one of **two different multipliers** depending on what type of quantity is being aggregated.  Both are correct in their respective contexts; choosing the wrong one is the most common source of arithmetic confusion in the budget math.
 
 | Multiplier | Value | Used For |
 | --- | --- | --- |
 | **Actual-domain multiplier** | **~284** | Quantities that exist exactly once per daimyo: capital cities, Imperial Magistrate main offices (one per the Emerald Charter), daimyo discretionary cuts, total working samurai pool per domain (~3,000 each), domain-level tax throughput, domain-level kick-up aggregations |
-| **Median-size-equivalent (ME) multiplier** | **~400** | Sub-unit counts and geographic distributions that scale with land area: provincial cities (× 6 per ME = ~2,400), towns (× 36 per ME = ~14,400), villages (× 216 per ME = ~86,400), hamlets (× 1,296 per ME = ~518,400), counties (× 36 per ME = ~14,400), waystations (~12.5 per ME = ~5,000), Imperial road mileage (~125 per ME = ~50,000 miles), and Yasuki Taka tariff collection points (one per provincial city + one per capital, ~2,684 Empire-wide) |
+| **Median domain (MD) multiplier** | **~400** | Sub-unit counts and geographic distributions that scale with land area: provincial cities (× 6 per MD = ~2,400), towns (× 36 per MD = ~14,400), villages (× 216 per MD = ~86,400), hamlets (× 1,296 per MD = ~518,400), counties (× 36 per MD = ~14,400), waystations (~12.5 per MD = ~5,000), Imperial road mileage (~125 per MD = ~50,000 miles), and tariff collection points (one per provincial city + one per capital, ~2,684 Empire-wide) |
 
-A **median-size-equivalent (ME)** is one median domain's worth of the Empire: **~1/400th of both the Empire's land area and its population** (the Empire is ~1.5 million square miles and ~100 million inhabitants; ÷ 400 gives the median domain's ~3,750 square miles and ~250,000 people).  Land and population both divide into ~400 MEs because a median domain holds ~1/400 of each - they are two measures of the same "median domain unit," not two different units (see [`l7r.md` - The Median Domain](l7r.md#the-median-domain)).
+A **median domain (MD)** is one median domain's worth of the Empire: **~1/400th of both the Empire's land area and its population** (the Empire is ~1.5 million square miles and ~100 million inhabitants; ÷ 400 gives the median domain's ~3,750 square miles and ~250,000 people).  Land and population both divide into ~400 MDs because a median domain holds ~1/400 of each - two measures of the same unit, not two different units (see [`l7r.md` - The Median Domain](l7r.md#the-median-domain)).  **MD** is shorthand for this median-domain-sized unit of land and population; it is deliberately distinct from the **~284 actual domains** (the administrative units headed by daimyo), which average ~1.41 MD apiece - the Empire holds ~400 median-domain-sized units of land but only ~284 actual domains, because the typical actual domain is larger than the median.
 
-The reason there are two multipliers is a structural feature of the Empire's geography and political organization.  The Great Clans and families together carve the Empire into ~284 administrative domains headed by daimyo.  These domains vary substantially in size: the smallest (frontier vassal-house holdings, lean Phoenix mountain territories) are well under 1 ME; the largest (clan capitals, major family seats, Yasuki coastal trade hubs) can be 5-10 MEs or more.  The average actual domain is therefore **~1.41 MEs** (Empire total ÷ 284 = 1.41 ME per actual, in either land or population), but each domain still has exactly **1 capital city** and **1 IM main office**.  So per-actual-domain counts for whole-domain quantities do not match per-ME counts for sub-units.
+The reason there are two multipliers is a structural feature of the Empire's geography and political organization.  The Great Clans and families together carve the Empire into ~284 administrative domains headed by daimyo.  These domains vary substantially in size: the smallest (frontier vassal-house holdings, lean Phoenix mountain territories) are well under 1 MD; the largest (clan capitals, major family seats, Yasuki coastal trade hubs) can be 5-10 MDs or more.  The average actual domain is therefore **~1.41 MDs** (Empire total ÷ 284 = 1.41 MD per actual, in either land or population), but each domain still has exactly **1 capital city** and **1 IM main office**.  So per-actual-domain counts for whole-domain quantities do not match per-MD counts for sub-units.
 
-The numerical ratio between the two multipliers is exactly **400 / 284 = 1.41 ME per actual median domain**, which is the same as saying the average actual domain has 1.41 MEs of land area.
+The numerical ratio between the two multipliers is exactly **400 / 284 = 1.41 MD per actual domain**, which is the same as saying the average actual domain has 1.41 MDs of land area.
 
-**Why the 284 carries a tilde**: at the campaign's present moment the figure is *exact* - there are precisely 284 daimyo-headed domains in the Empire right now - but it is written with a tilde throughout this document because it drifts slowly over time.  Vassal domains occasionally conquer one another or split apart under civil infighting, and across the last century the total has stayed within a narrow 280-290 band.  That makes it stable enough to anchor Empire-wide aggregations, but it is nearly certain to move within the next decade.  Two illustrative ways it might change:
+**Why the 284 carries a tilde**: at the campaign's present moment the figure is *exact* - there are precisely 284 daimyo-headed domains in the Empire right now - but it is written with a tilde throughout this document because it drifts slowly over time.  Vassal domains occasionally conquer one another or split apart under civil infighting, and across the last several centuries the total has stayed within a 275-300 range, and has remained within a narrow 280-290 band for the past hundred years.  That makes it stable enough to anchor Empire-wide aggregations, but it is nearly certain to move within the next decade.  Two illustrative ways it might change:
 
 - A provincial city somewhere in Matsu lands grows wealthy enough to declare its independence from the vassal house it pays taxes to, taking a cluster of neighboring provinces with it, and makes the claim stick after a brief but intense period of fighting - adding a domain to the count.
-- A small vassal domain offends a neighboring daimyo so deeply that conquering the whole vassal house is seen as justified.  The combined territory is not large enough to prompt the Crab clan daimyo or the Emperor to insist that the conquered domain be preserved as a distinct vassal house under new leadership, so it is simply absorbed - removing a domain from the count.
+- A small Hida vassal domain offends a neighboring daimyo so deeply that conquering the whole vassal house is seen as justified.  The combined territory is not large enough to prompt the Crab clan daimyo or the Emperor to insist that the conquered domain be preserved as a distinct vassal house under new leadership, so it is simply absorbed - removing a domain from the count.
 
-Rokugan has nothing like the constant warfare of the Warring States period, but this sort of low-level conflict is a steady backdrop across the Empire, and the domain count breathes slowly with it.  The ~284 should therefore be read as "284 today, and reliably in the 280s, but not a fixed constant of nature."
+Rokugan has nothing like the constant warfare of the Warring States period, but this sort of low-level conflict is a steady backdrop across the Empire, and the domain count breathes slowly with it.  The ~284 should therefore be read as "284 today, and reliably in the 280s for the forseeable future, but not a fixed constant of nature."
 
-### Why "Median Domain" Means Two Things in This Document
+### Why "median domain" means two things in this document
 
 The worked examples in this document (Magistrate Hikai's county, Governor Asuka's province, **Daimyo Isao's Reiji domain**) treat Reiji as a **hybrid "median" domain** that uses whichever multiplier produces clean worked-example numbers:
 
-- **As a "median ME"** (sub-unit and geographic counts): Reiji has 6 provincial cities, 36 towns, 216 villages, 1,296 hamlets, ~12 waystations, ~125 miles of Imperial road.  Multiply each of these by **~400 ME** to reach Empire-wide totals.
+- **As a median domain by land area (MD)** (sub-unit and geographic counts): Reiji has 6 provincial cities, 36 towns, 216 villages, 1,296 hamlets, ~12 waystations, ~125 miles of Imperial road.  Multiply each of these by **~400 MD** to reach Empire-wide totals.
 - **As a "median actual domain"** (whole-domain quantities): Reiji has 1 capital city, 1 IM main office, ~3,000 working samurai (capital cohort + provincial cohorts + town cohorts combined), and a ~58,000-koku typical-median discretionary daimyo cut (the Reiji's own Hida-vassal cut is the higher ~71,000, but the median is the right figure to aggregate).  Multiply each of these by **~284 actual domains** to reach Empire-wide totals.
 
 The hybrid framing is intentional and lets worked examples use clean integer counts (6 provincial cities reads more naturally than the strict per-actual-domain 8.45), while still producing correct Empire-wide aggregations as long as the right multiplier is applied to each line.
 
-### The Most Common Mistake
+### The most common mistake
 
 The most common arithmetic mistake is **multiplying a sub-unit count by 284 instead of 400** (e.g., "6 provincial cities × 284 = 1,704" - this undercounts the actual ~2,400 provincial cities Empire-wide because it does not account for larger actual domains having proportionally more provincial cities than the median).  The converse mistake - multiplying a whole-domain quantity by 400 - overshoots Empire-wide totals (e.g., "1 capital city × 400 = 400" overcounts the actual ~284 capital cities Empire-wide).
 
@@ -201,9 +200,9 @@ The most common arithmetic mistake is **multiplying a sub-unit count by 284 inst
 | Hamlet | 1296 | 75 | 75 | 97200 | 97200 |
 | **Named-settlement total** |  |  |  | 292735 | 246000 |
 
-### Population Outside Named Settlements
+### Population outside named settlements
 
-**Named-settlement total vs. the full domain**: the table above sums only the *named settlements* (capital, provincial cities, county towns, villages, hamlets), which come to ~246,000.  The domain's full **real** population is the canonical **~250,000** (1/400 of the Empire's 100 million); the ~4,000 difference (~1.6% of the domain) is **peasants living outside any named settlement AND outside the magistrate's notice** - households on plots too marginal, too remote, or too newly-cleared to have been entered on the tax rolls at all.  So ~246,000 counted-and-settled inhabitants plus ~4,000 off-the-books peasants reconciles to the canonical ~250,000, and the property 250,000 = 100,000,000 ÷ 400 holds for the domain as a whole.  (The 250,000 is a real headcount, not a registered figure - the off-the-books ~1.6% is included in it; it is simply invisible to the domain's own administration.)
+**Named-settlement total vs. the full domain**: the table above sums only the *named settlements* (capital, provincial cities, county towns, villages, hamlets), which come to ~246,000.  The domain's full **real** population is **~250,000** (1/400 of the Empire's 100 million); the ~4,000 difference (~1.6% of the domain) is **peasants living outside any named settlement AND outside the magistrate's notice** - households on plots too marginal, too remote, or too newly-cleared to have been entered on the tax rolls at all.  So ~246,000 counted-and-settled inhabitants plus ~4,000 off-the-books peasants reconciles to the canonical ~250,000, and the property 250,000 = 100,000,000 ÷ 400 holds for the domain as a whole.  (The 250,000 is a real headcount, not a registered figure - the off-the-books ~1.6% is included in it; it is simply invisible to the domain's own administration.)
 
 **Why the remainder is peasants and not samurai**: it is purely peasants because of an accounting convention.  A small isolated farm that is *taxed at all* - including a samurai's country estate - is tallied under whichever village or hamlet district lies nearest, even when the holding is so remote that it is really its own separate thing.  Its output, and the people it supports, are folded into that district's total as a bookkeeping convenience.  This is a separate matter from administrative authority: the estate is never under the village headman's jurisdiction (see [`l7r.md` - The Median Domain](l7r.md#the-median-domain)), it is simply counted there.  So the ~560 samurai who live on country estates rather than in the cities and towns - the L7R analogue of the rural *gōshi* who remained on the land after the separation of warrior and peasant (*heinō bunri*) concentrated most samurai into castle towns - together with their households and the tenant farmers who work their land, are already inside the ~246,000 (tallied into the surrounding village districts) and already inside the domain's ~5,000 samurai (see [What the Samurai Counts Mean](#what-the-samurai-counts-mean)).  What is left in the ~1.6% is only the genuinely *untaxed* population: peasants the domain administration has never registered.
 
@@ -235,7 +234,7 @@ The capital's ~12,360 is its settled ~12,000 plus the ~360 non-working samurai w
 
 **Note on what this table covers**: these simple per-tier Budget tables (here and under [Province](#budget-1) and [County](#budget-2)) show only the tier's *direct operating costs* - samurai compensation plus direct staff, servants, and supplies.  They deliberately do **not** include the **six ministries' overhead budgets** (materials, contracts, ministry-specific staff, ministers' formal stipends and customary skims), which at the domain tier come to ~50,000 koku and at the province tier ~5,000 koku.  Ministry overhead is folded in only at the [Combined Budgets](#combined-budgets) level, where domain mandatory operations total ~83,400 (= ~32,000 capital samurai stipends + ~50,000 ministry overhead + ~1,400 staff/servants/supplies).  So the ~33,360 here and the ~83,400 in Combined Budgets describe the same tier at two different scopes, not a contradiction.
 
-### Combined Budgets
+### Combined budgets
 
 | Tier | N | Cost (mandatory ops) | Tax Farming (discretionary cut) | Kick-ups Out (to clan/family/Imperial) | Total per Tier |
 | --- | --- | --- | --- | --- | --- |
@@ -247,7 +246,7 @@ The capital's ~12,360 is its settled ~12,000 plus the ~360 non-working samurai w
 Column definitions:
 
 - **Cost (mandatory ops)** at each tier covers samurai compensation, ministry overhead (where applicable), servants, supplies, and miscellaneous operations.  At the domain tier: ~32,000 capital samurai stipends + food + equipment (the ~800 working capital samurai the daimyo actually pays) + ~50,000 domain ministry overhead + ~1,400 staff/servants/supplies.  At the province tier: ~4,500 provincial samurai compensation (~225 working) + ~5,000 provincial ministry overhead + ~30 servants/supplies.  At the county tier: ~225 samurai + ~190 ashigaru + ~30 servants/supplies; counties have no ministry overhead because the magistrate IS the institution.
-- **Tax Farming (discretionary cut)** is the office-holder's discretionary income at that tier.  The county magistrate's ~1,000 and the provincial governor's ~10,000 are fixed canonical figures.  The domain daimyo's ~58,000 typical figure is a rough median; actual daimyo cuts range from ~35,000 (poor frontier domains) to ~115,000+ (wealthy clan capitals), with structural factors like Hida-vassal status (~71,000 for the Reiji example documented below) creating additional variation.  A portion of the cut is a **hidden Imperial subsidy to the clans**: because the Empire pays the ~300 of each domain's working samurai who serve in Imperial posts (legions, cross-clan yoriki, central court), the daimyo's stipend outlay is ~10,000 lower than his in-domain headcount alone would imply, and that saving flows to his discretionary cut (documented in the [Imperial Legions](#imperial-legions-line-item-detail) section).  (The governor and magistrate cuts hold at their canonical 10,000 / 1,000; the provincial samurai savings pass up to the daimyo, who absorbs the full subsidy.)
+- **Tax Farming (discretionary cut)** is the office-holder's discretionary income at that tier.  The county magistrate's ~1,000 is a fairly reliable rule of thumb which only varies for counties with poor farmland or a noteworthy local industry.  A provincial governor's ~10,000 koku has slightly more variance, especially among provinces with e.g. rich natural resources or a smaller number of counties.  The domain daimyo's ~58,000 typical figure is only a rough median; actual daimyo cuts range from ~35,000 (poor frontier domains) to ~115,000+ (wealthy domain capitals), with structural factors like Hida-vassal status (~71,000 for the Reiji example documented below) creating additional variation.  A portion of the cut is a **hidden Imperial subsidy to the clans**: because the Empire pays the ~300 of each domain's working samurai who serve in Imperial posts (legions, cross-clan yoriki, central court), the daimyo's stipend outlay is ~10,000 lower than his in-domain headcount alone would imply, and that saving flows to his discretionary cut (documented in the [Imperial Legions](#imperial-legions-line-item-detail) section).
 - **Kick-ups Out** are funds that flow OUT of the domain to family, clan, and Imperial recipients per the structural kick-up chain (see [The Ministry of Revenue](l7r.md#the-ministry-of-revenue) for the rate structure).  Only the domain tier pays kick-ups directly; counties and provinces pass their tax obligations upward through the cascade rather than paying kick-ups themselves.  The ~114,800 kick-up at the domain tier is composed of ~60,300 (10% of land output, against the ~602,640-koku assessed kokudaka per median domain - the obligation base; actual gross output is higher, with the surplus kept by farmers, per the assessed-kokudaka note under [Land Productivity](#land-productivity)) + ~54,500 (10% of imported-goods trade volume, against ~545,000 koku of median-domain imported-goods sales), reflecting the standard non-Hida-vassal rates.  Coastal trade-hub domains run substantially higher tariff volumes and pull the true Empire-wide *mean* above this figure, but these per-domain aggregations use the *median* domain throughout (the median is the unit used throughout this document; see [The Two Empire-Wide Multipliers](#the-two-empire-wide-multipliers)).
 - **Total per Tier** is the sum of mandatory operations, discretionary cuts, and kick-ups across N instances of that tier within a median domain.
 
@@ -257,7 +256,7 @@ Column definitions:
 - Kick-ups out of domains, aggregated: ~32.6 million koku/year, of which ~16.3M lands at the Imperial center (5% land-output kick-up + 5% tariff kick-up per the [Imperial Budget](#the-imperial-budget) framing) and ~16.3M flows to family and clan daimyo
 - Stays within domains (operations + discretionary across all tiers): ~88 million koku/year
 
-Two different empire-wide multipliers are in use across the documentation, both correct in their respective contexts: **~284 actual domains** for whole-domain quantities (capital revenue, daimyo cuts, land-output aggregations - matching this table's per-median scale), and **~400 median-size-equivalents × 6 = ~2,400 provincial cities** for sub-unit counts (provinces, counties, tariff collection points - because larger actual domains have proportionally more sub-units than the median).  The [Imperial Budget](#the-imperial-budget) figures below use whichever multiplier is appropriate for each line.
+Two different empire-wide multipliers are in use across the documentation, both correct in their respective contexts: **~284 actual domains** for whole-domain quantities (capital revenue, daimyo cuts, land-output aggregations - matching this table's per-median scale), and **~400 median domains × 6 = ~2,400 provincial cities** for sub-unit counts (provinces, counties, tariff collection points - because larger actual domains have proportionally more sub-units than the median).  The [Imperial Budget](#the-imperial-budget) figures below use whichever multiplier is appropriate for each line.
 
 The empire-wide figures align with the [Imperial Budget](#the-imperial-budget) breakdown below, where the Imperial Court's annual revenue derives primarily from ~16.3M of cross-domain kick-ups (land + tariff combined) plus direct Imperial-domain revenue (Otosan Uchi tax base + tariffs, Imperial-family land taxes, salt monopoly cuts, and miscellaneous mining royalties).
 
@@ -298,7 +297,7 @@ As with the [Domain population table](#domain) above, this sums only named settl
 | Total | 14530 |
 | Remainder | 30111 |
 
-### Tax Farming Cost by Tier
+### Tax farming cost by tier
 
 | N | C | Total |
 | --- | --- | --- |
@@ -330,7 +329,7 @@ As with the [Domain population table](#domain) above, this sums only named settl
 | Hamlet | 36 | 0 | 10 | 3 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | **Total** |  |  |  |  |  |  |  | 15 | 150 | 45 | 0 | 30 | 225 |
 
-### Skilled Ashigaru
+### Skilled ashigaru
 
 | Place | N | P | Rate | Stipend | Population | Payroll |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -365,7 +364,7 @@ As with the [Domain population table](#domain) above, this sums only named settl
 | Total | 1445 |
 | Remainder | 4958 |
 
-## Capital City
+## Capital city
 
 Total population: **~12,000**.
 
@@ -410,7 +409,7 @@ Total population: **~12,000**.
 
 **Samurai composition note**: the capital's settled-population breakdown (~12,000) shows ~1,200 domestic samurai (10%), but its true resident samurai count is higher because the capital is the domain's schooling-and-retirement magnet.  Adding the **~360 non-working samurai whose families relocate here from the domain's county towns** (children sent to the capital's schools, elders retiring near the daimyo's court) brings the domestic total to **~1,560**, and the ~1,200 base itself is ~800 working (the cohort the daimyo pays, per the [Samurai sub-tables](#samurai-1)) plus ~400 non-working (children, retirees, and the families of the ~150 capital-born samurai serving the Empire abroad).  So the capital's resident domestic samurai run **~1,560 (~13% of its ~12,360 physical population)** - the highest samurai concentration of any settlement tier, exactly as a daimyo's castle-town seat should be (provincial cities sit at ~10%, county towns at ~1.7%, and the great mega-cities fall back toward ~4-6% as commerce dilutes them).  The working share is correspondingly low (~800 of ~1,560 ≈ 51%) because so many of the residents are dependents.  The **~45 foreign samurai** are the Imperial Magistrate's office (the IM, karo, ~5 household, ~25 office yoriki, plus ~12 accompanying family) - resident but paid by the Empire and their own home domains, not by Daimyo Isao.  Both the relocated and foreign cohorts are listed *additional* to the 12,000-person settled-population breakdown; with them the capital physically holds ~12,400 people.
 
-## Provincial City
+## Provincial city
 
 Total population: **~2,000-4,000, average ~3,000**.
 
@@ -452,7 +451,7 @@ Total population: **~2,000-4,000, average ~3,000**.
 | 100 | Total | 3000 | 600 |  |  |  | 6222 |
 | +0.2 | samurai, foreign (Imperial appointees) | ~5 | ~1 | 0 | 0 | 0 | 0 |
 
-**Samurai composition note**: the 10% domestic samurai (~300) break down as ~225 working (the cohort the governor pays) plus ~75 non-working (children, retirees, and resident families of the ~25 provincial-born samurai serving the Empire abroad).  The **~5 foreign samurai** are the small Imperial yoriki sub-station that audits Yasuki Taka tariff collection at the provincial city's gate - resident but Empire-paid, listed additional to the 3,000-person settled-population breakdown.
+**Samurai composition note**: the 10% domestic samurai (~300) break down as ~225 working (the cohort the governor pays) plus ~75 non-working (children, retirees, and resident families of the ~25 provincial-born samurai serving the Empire abroad).  The **~5 foreign samurai** are the small Imperial yoriki sub-station that audits tariff collection at the provincial city's gate - resident but Empire-paid, listed additional to the 3,000-person settled-population breakdown.
 
 ## Town
 
@@ -580,11 +579,11 @@ Total population: **~50-100, average ~75**.
 | 0 | samurai, shugenja | 0 | 0 |  |  |  |  |
 | 100 | Total | 75 | 15 |  |  |  | 75 |
 
-## Samurai Concentration by City Size and the Capital
+## Samurai concentration by city size and the capital
 
 The per-tier caste tables in [`l7r.md` - Demographics](l7r.md#demographics) establish that samurai are ~2% of the Empire's total population (~5,000 per median domain).  But this 2% is not distributed evenly across settlement types, and the way it varies with city size is structurally important both for understanding the Empire and for computing the samurai population of Otosan Uchi.
 
-### The Sub-Linear Scaling Principle
+### The sub-linear scaling principle
 
 **Capital cities of large premodern empires consistently have a *lower* elite percentage than their provincial counterparts, because the absolute size of the administrative cohort scales sub-linearly with city size while the commercial and service population scales roughly linearly.**  A city twice as large does not need twice as many magistrates, ministers, and clerks - administrative need grows more slowly than population - but it does attract roughly twice as many merchants, laborers, servants, and artisans to serve that larger population.  The elite fraction therefore shrinks as the city grows, even as the absolute number of elites rises.
 
@@ -604,7 +603,7 @@ Tokugawa Edo is the dramatic outlier, and the reason is instructive: its ~60% sa
 
 Rokugan deliberately does **not** replicate the *sankin kotai* extreme.  Daimyo maintain embassies at Otosan Uchi (hostage family members, business agents, political representatives) and the Imperial families concentrate there, but daimyo are not required to reside in the capital, and there is no system forcing thousands of retainers per domain into permanent capital residence.  Otosan Uchi therefore lands in the lower part of the natural band.
 
-### The By-Size Schedule
+### The by-size schedule
 
 Combining the sub-linear principle with the canonical caste tables produces the following schedule of samurai concentration by settlement size, using **total resident samurai** as the basis (counting working samurai, pre-gempukku children, and retirees alike, consistent with the ~2% Empire-wide and ~10% median-capital population figures in the caste tables).  The working cohort that actually draws stipends is a subset of these totals - roughly the ~60% domain-wide working ratio, running somewhat higher inside cities where senior officials and their smaller households cluster, per [What the Samurai Counts Mean](#what-the-samurai-counts-mean):
 
@@ -622,7 +621,7 @@ Combining the sub-linear principle with the canonical caste tables produces the 
 
 The schedule captures the key shape: samurai concentration is near-zero in the countryside, rises to a **peak of ~13% at the median domain capital** - the daimyo's castle-town seat, which concentrates not only the senior administrative cohort but the schooling-and-retirement households of samurai families from across the domain (including the county towns, which run correspondingly light at ~1.7%) - and then **declines steadily** for larger cities as commercial and service populations outgrow the samurai cohort.  Provincial cities sit a step below the capital at ~10% (they are administrative centers but not the family magnet the capital is); larger clan and family capitals, despite far more samurai in absolute terms, fall back toward ~6-9% as their sheer commercial size dilutes the concentration, all the way down to Otosan Uchi at ~4%.  (This ~13% capital peak is a deliberately restrained echo of the historical castle town, where the daimyo's seat ran 30-60% samurai; Rokugan's capitals are far more commercial.)
 
-### Otosan Uchi: ~40,000 Samurai
+### Otosan Uchi: ~40,000 samurai
 
 At 4% of its ~1 million inhabitants, Otosan Uchi has approximately **40,000 resident samurai** - exactly twice the ~2% samurai share of the Empire's population as a whole.  That the largest, most central city in the Empire concentrates samurai at only twice the baseline rate (rather than 10x or 30x) is a deliberate and revealing feature of the setting: even at the very heart of samurai power, samurai remain a small minority of the people doing the actual work of the city.  (See the thematic discussion in [`l7r.md` - Demographics](l7r.md#demographics) on what this 2%-everywhere reality means for what samurai can and cannot know about their own Empire.)
 
@@ -638,7 +637,7 @@ The ~40,000 break down approximately as follows:
 
 The district-governor system documented in the Otosan Uchi material (in which certain favored houses administer entire city districts) layers additional structure onto the clan-supplied and embassy cohorts, but does not change the aggregate ~40,000 figure and does not affect the median domain, so it is set aside here.
 
-### What This Means for the Median Domain
+### What this means for the median domain
 
 Running the OU population back through the median domain: if ~40,000 of the Empire's ~2,000,000 total samurai (2% of ~100 million inhabitants) reside at Otosan Uchi, then **~2% of all samurai live in the capital at any given time**.  Applied to a median domain's ~5,000 total samurai, that predicts **~100 of a median domain's samurai are at Otosan Uchi** at any moment.
 
@@ -653,7 +652,7 @@ For the Reiji-style vassal-house domain, this ~100 breaks down as:
 
 This is a small but politically consequential cohort.  Note that vassal houses like Reiji sit slightly *below* the per-clan average for OU presence: the great clan and family capitals maintain far larger embassies (~120 and ~90 vs Reiji's ~38) and supply more senior central officials, so they pull the per-clan OU fraction up above 2% while vassal houses sit a touch below it.  Domains geographically closer to the capital also tend to maintain larger and more active OU establishments than distant frontier domains, though the hostage-politics floor applies to every domain regardless of distance.
 
-## Ministry Budgets
+## Ministry budgets
 
 **Note on the term "tax farming"**: This document uses "tax farming" in its loose modern English sense - the structural pattern of officials keeping a share of taxes they collect as their compensation.  Strictly, tax farming refers to the Roman *publicani* model where collection rights were auctioned to private contractors who paid the state a fixed sum upfront and pocketed whatever they could extract above it.  The Rokugan system isn't that: Rokugani officials are appointed through the civil-service examination and chancellery selection process, not auctioned, and the size of each office's cut is fixed by tradition rather than competitive bidding.  Structurally, the Rokugan arrangement is closer to the Tokugawa *chigyō* (fief grant) or the medieval European prebend (office-attached income), where the official is a state official whose compensation is an attached tax allocation.  "Tax farming" is used here because it conveys the right intuition (the office-holder profits from extraction efficiency) and is the established casual English usage for this broader pattern, including in modern descriptions of the Mughal *jagir* and Ottoman *timar* systems which were similarly appointment-based rather than auctioned.
 
@@ -661,9 +660,9 @@ The Tax Farming line items in the Budget tables (~58,000 typical for the daimyo,
 
 The breakdowns below show the typical allocation at each tier.  Numbers are approximate and vary by domain, province, and the personalities and politics of the office-holders.  The **informal income** column shows the office-holder's effective personal take above their formal stipend, calculated as a ~10% skim on the ministry budget they administer ("a tithe", a customary rate built into many Rokugani fiscal formalities, e.g. the 10-koku Imperial registration fee on a 100-koku bounty).  Strictly speaking, this is not built into the budget, and in fact office holders are expected to pay all expenses related to their duties even if those expenses exceed their income.  As with tax farming, the presumption is that forward-thinking appointees will save their money in years of plenty so that they can spend their savings and/or make use of lineage reserves as needed in lean years.  The 10% figure is thus only a loose average, and corrupt officials may extract more, while scrupulous samurai might consistently draw on family connections to make up chronic shortfalls without ever personally enriching themselves.
 
-### Domain Ministry Budgets
+### Domain ministry budgets
 
-A typical domain generates ~256,000 koku/year in tax throughput at the daimyo's tier (the six provincial governors' tax obligations passed up + the capital city's direct tax base and import tariffs + domain-level revenue from mining royalties, large cross-province sake export licenses, craft monopolies, and special assessments).  Of this, ~60,300 koku flows up to the clan daimyo, family daimyo, and Imperial superiors as the 10% land-output kick-ups (see [The Imperial Budget](#the-imperial-budget) below); ~54,500 flows up to those same superiors as the 10% tariff kick-ups on the domain's typical ~545,000 koku of imported-goods sales volume (per the Yasuki Taka rate structure documented in [l7r.md - The Ministry of Revenue](l7r.md#the-ministry-of-revenue)); ~32,000 funds the ~800 working capital samurai the daimyo pays (stipends + food + equipment - the other ~300 of the domain's working samurai serve in Empire-paid posts elsewhere); ~50,000 funds the six domain ministries' **overhead budgets** (materials, contracts, ministry-specific staff, ministers' formal stipends and customary skims); ~1,400 covers minor domain servants, supplies, and the daimyo's direct administrative staff.  The remaining ~58,000 koku is the **daimyo's discretionary cut** - the daimyo's "tax-farming cut," significantly higher than a provincial governor's ~10,000 and a county magistrate's ~1,000 but not by a fixed ratio.
+A typical domain generates ~256,000 koku/year in tax throughput at the daimyo's tier (the six provincial governors' tax obligations passed up + the capital city's direct tax base and import tariffs + domain-level revenue from mining royalties, large cross-province sake export licenses, craft monopolies, and special assessments).  Of this, ~60,300 koku flows up to the clan daimyo, family daimyo, and Imperial superiors as the 10% land-output kick-ups (see [The Imperial Budget](#the-imperial-budget) below); ~54,500 flows up to those same superiors as the 10% tariff kick-ups on the domain's typical ~545,000 koku of imported-goods sales volume (per the "Yasuki Taka" rate structure documented in [l7r.md - The Ministry of Revenue](l7r.md#the-ministry-of-revenue)); ~32,000 funds the ~800 working capital samurai the daimyo pays (stipends + food + equipment - the other ~300 of the domain's working samurai serve in Empire-paid posts elsewhere); ~50,000 funds the six domain ministries' **overhead budgets** (materials, contracts, ministry-specific staff, ministers' formal stipends and customary skims); ~1,400 covers minor domain servants, supplies, and the daimyo's direct administrative staff.  The remaining ~58,000 koku is the **daimyo's discretionary cut** - the daimyo's "tax-farming cut," significantly higher than a provincial governor's ~10,000 and a county magistrate's ~1,000 but not by a fixed ratio.
 
 **Note**: as at the provincial tier, the ministry budgets shown here are **overhead only** - they do NOT include capital samurai stipends, which are funded as a separate ~32,000-koku line from the daimyo's overall budget.  The Ministry of Retainers *administers* stipend disbursement (rice/coin denomination decisions, rank-squared calculations, payment-day logistics) but the funds themselves flow from the daimyo's tax-farming allocation, not from the Retainers ministry's ~3,000-koku overhead budget.  Only working samurai past their gempukku and not yet retired receive stipends.
 
@@ -685,13 +684,13 @@ Notice the **structural floor for the Minister of Justice is the lowest** of the
 
 The other ministries cluster more tightly around their budget-determined income.
 
-### Provincial Ministry Budgets
+### Provincial ministry budgets
 
 Each typical province generates ~44,000 koku/year in tax throughput (county tributes + the provincial city's direct tax base + city-gate tariffs).  Of this, ~24,500 koku flows up to the daimyo as the province's tax obligation (composed of ~16,200 land-tax kick-up + ~7,800 tariff passthrough, plus the ~500 the governor saves on samurai stipends and passes up - see below; the tariff kick-up distribution to family/clan/Imperial is handled at the daimyo's tier, not the governor's), ~5,000 funds the six provincial ministries' **overhead budgets** (materials, contracts, ministry-specific staff, the minister's formal stipend and customary skim), ~4,500 funds the broader cohort of ~225 working provincial samurai the governor pays (stipends + food + equipment, averaging ~20 koku each; the other ~25 of the province's ~250-strong working cohort serve in Empire-paid posts elsewhere), and ~30 covers minor provincial servants and supplies.  The remaining ~10,000 koku is the **governor's discretionary cut** - the canonical "tax-farming cut" that defines the post's value, parallel to a county magistrate's ~1,000-koku cut, and held at 10,000 (the savings from samurai in Imperial service pass up to the daimyo rather than enlarging the governor's cut).  The Reiji's provinces (such as Nagahara, see worked example below) collect slightly less in gross tariffs (~6,800 vs ~7,800) because the Reiji hold their gate tariff near ~13% rather than the ~15% standard - competitive pressure from three bordering low-tariff Minor Clans, passing their absorbed family layer to merchants rather than pocketing it - with correspondingly lower throughput (~43,000) and tax obligation (~23,500).
 
 **Note on what ministry budgets cover**: The provincial ministry budgets shown here (and the domain ministry budgets shown later) are **overhead budgets only** - they do NOT include samurai stipends for the broader provincial samurai cohort.  Stipends are funded as a separate line item from the governor's overall budget.  The Ministry of Retainers *administers* stipend disbursement as throughput (handling rice/coin denomination decisions, calculating per-samurai allocations under the rank-squared rule, and physically disbursing on payment days), but the actual stipend funds flow from the governor's tax-farming allocation rather than from the Retainers ministry's own ~250-koku overhead budget.  Only working samurai past their gempukku and not yet retired receive stipends; children and retired samurai consume from their family households' resources rather than from a separate state allocation (matching the convention documented in [What the Samurai Counts Mean](#what-the-samurai-counts-mean) above).
 
-**Note on Yasuki Taka tariff-collection staff at the provincial city gate**: of the ~225 working provincial samurai counted above, typically ~15-30 are deployed to the provincial city gate as the Yasuki Taka inspectors and licensors who handle physical tariff collection from arriving caravans.  Their stipends come out of the ~4,500-koku provincial samurai compensation line rather than the Ministry of Revenue's ~150-koku overhead budget; the Revenue ministry's overhead budget covers materials (the publicly posted tariff-rate boards, manifest paper, stamps, courier dispatch to Otosan Uchi with sealed records) but not the personnel themselves.  This is in addition to the small cohort of Imperial yoriki (~7-8 per provincial city) attached to the Imperial Magistrate's office who audit the Yasuki Taka system for the Emperor's 5% cut - those yoriki are funded from the Imperial Magistrate line in the Imperial Budget rather than from any provincial or domain budget.
+**Note on tariff-collection staff at the provincial city gate**: of the ~225 working provincial samurai counted above, typically ~15-30 are deployed to the provincial city gate as "the Yasuki Taka system" inspectors and licensors who handle physical tariff collection from arriving caravans.  Their stipends come out of the ~4,500-koku provincial samurai compensation line rather than the Ministry of Revenue's ~150-koku overhead budget; the Revenue ministry's overhead budget covers materials (the publicly posted tariff-rate boards, manifest paper, stamps, courier dispatch to Otosan Uchi with sealed records) but not the personnel themselves.  This is in addition to the small cohort of Imperial yoriki (~7-8 per provincial city) attached to the Imperial Magistrate's office who audit the operation for the Emperor's 5% cut - those yoriki are funded from the Imperial Magistrate line in the Imperial Budget rather than from any provincial or domain budget.
 
 The 5,000-koku provincial ministry overhead allocation breaks down across the six ministries, with effective income for each Rank 7 provincial minister:
 
@@ -721,7 +720,7 @@ For projects that span multiple tiers (a new canal across the domain, maintenanc
 
 A ~10,000-koku canal project, for example, might be funded purely from domain Works (using ~33% of that year's domain Works budget), or split as ~6,000 from domain Works + ~600-700 from each of 6 affected provinces' Works budgets.  Which solution prevails depends on the daimyo's bargaining position, the governors' political weight, and the lineage chancellors' opinions in the chancellery.
 
-## Example Office-Holder Budgets
+## Example office-holder budgets
 
 ### Magistrate Hida no Reiji Hikai of Seitoyama County
 
@@ -804,7 +803,7 @@ Nagahara is a province in the Reiji domain (Crab clan), containing Seitoyama cou
 | --- | --- | --- |
 | Tax obligation from 6 county magistrates (~5,000 each) | ~30,000 | Standard provincial-tier share of county tax revenue; Hikai's ~5,000 obligation is one of these six |
 | Provincial city direct tax base (property + business; dominated by very-rich and rich merchant households) | ~6,200 | Per the Provincial City caste table above |
-| Provincial city import tariffs (Yasuki Taka system at the city gates; 13% effective rate × ~52,000 koku of imported goods sold annually) | ~6,800 | Varies by trade volume; Nagahara is a typical inland Crab province with steady but moderate caravan traffic through its provincial city, primarily from neighboring Scorpion lands.  The 13% effective rate reflects the Reiji's Hida-vassal status: the 2% family-daimyo layer is absorbed into the clan-daimyo layer (since both are Hida Kisada), giving an 8% kick-up layer instead of the standard 10%, plus the ~5% average daimyo cut (out of the ≤10% legal maximum the daimyo can charge).  All of this tariff revenue passes up the chain - 100% of it is either kick-ups or daimyo's portion, with none retained at the provincial level |
+| Provincial city import tariffs ("the Yasuki Taka system" at the city gates; 13% effective rate × ~52,000 koku of imported goods sold annually) | ~6,800 | Varies by trade volume; Nagahara is a typical inland Crab province with steady but moderate caravan traffic through its provincial city, primarily from neighboring Scorpion lands.  The 13% effective rate reflects the Reiji's Hida-vassal status: the 2% family-daimyo layer is absorbed into the clan-daimyo layer (since both are Hida Kisada), giving an 8% kick-up layer instead of the standard 10%, plus the ~5% average daimyo cut (out of the ≤10% legal maximum the daimyo can charge).  All of this tariff revenue passes up the chain - 100% of it is either kick-ups or daimyo's portion, with none retained at the provincial level |
 | **Total provincial throughput** |  | **~43,000** |
 
 #### Mandatory expenses
@@ -819,7 +818,7 @@ Nagahara is a province in the Reiji domain (Crab clan), containing Seitoyama cou
 | Provincial servants and supplies | ~30 |  |
 | **Total mandatory** |  | **~33,030** |
 
-Math note: the 6 county magistrates pass up ~30,000 koku, the provincial city's own tax base contributes ~6,200, and the Yasuki Taka tariff system at the provincial city gates contributes ~6,800 (Hida-vassal 13% effective rate × ~52,000 koku of imported goods) - bringing total throughput to ~43,000.  Of this, ~23,500 goes up to Daimyo Isao (composed of ~16,200 land-tax kick-up plus the full ~6,800 tariff passthrough plus ~500 in samurai-stipend savings passed up; the kick-up structure on tariffs is handled at Isao's tier, not Asuka's, since the family/clan/Imperial layers are paid out at the domain level rather than retained at any provincial level); ~4,500 funds the broader samurai cohort's compensation (stipends + food + equipment for ~225 working samurai serving in-province); ~5,000 funds the six provincial ministries' overhead budgets; ~30 covers minor servants and supplies.  Asuka is left with **~10,000 koku of discretionary income** - the canonical "tax-farming cut" that defines the post's value, parallel to a county magistrate's ~1,000-koku cut.  All of Asuka's personal household operations, manor, retinue hospitality, festival and almsgiving obligations, lineage tithe, savings, and truly-personal spending come out of this ~10,000 plus her gift income, broken down further below.
+Math note: the 6 county magistrates pass up ~30,000 koku, the provincial city's own tax base contributes ~6,200, and tariffs at the provincial city gates contribute ~6,800 (Hida-vassal 13% effective rate × ~52,000 koku of imported goods) - bringing total throughput to ~43,000.  Of this, ~23,500 goes up to Daimyo Isao (composed of ~16,200 land-tax kick-up plus the full ~6,800 tariff passthrough plus ~500 in samurai-stipend savings passed up; the kick-up structure on tariffs is handled at Isao's tier, not Asuka's, since the family/clan/Imperial layers are paid out at the domain level rather than retained at any provincial level); ~4,500 funds the broader samurai cohort's compensation (stipends + food + equipment for ~225 working samurai serving in-province); ~5,000 funds the six provincial ministries' overhead budgets; ~30 covers minor servants and supplies.  Asuka is left with **~10,000 koku of discretionary income** - the canonical "tax-farming cut" that defines the post's value, parallel to a county magistrate's ~1,000-koku cut.  All of Asuka's personal household operations, manor, retinue hospitality, festival and almsgiving obligations, lineage tithe, savings, and truly-personal spending come out of this ~10,000 plus her gift income, broken down further below.
 
 A structural note: the ~23,500 tax obligation is meaningfully less than the ~30,000 sum of the 6 county magistrates' tributes.  The governor receives ALL provincial revenue (county tribute, the provincial city's direct tax base, and the city-gate tariffs) and decides what funds provincial operations, what they keep, and what flows up.  Of the ~13,000 the governor effectively retains from county money beyond the daimyo's share, most goes to funding the provincial samurai cohort (~4,500 in stipends and allowances) and the six provincial ministries' overhead budgets (~5,000) - both of which have no equivalent at the county tier, where the magistrate IS the institution.
 
@@ -878,7 +877,7 @@ The Reiji are a fairly typical inland Crab domain: agricultural-base economy, mo
 | --- | --- | --- |
 | Tax obligation from 6 provincial governors (~23,500 each) | ~141,000 | Standard domain-tier share of provincial revenue; Asuka's ~23,500 obligation is one of these six.  Each governor's obligation decomposes as ~16,200 land-tax kick-up plus ~6,800 of provincial-city tariff passthrough plus ~500 in samurai-stipend savings passed up (the governors' samurai who left for Imperial service); the kick-ups on tariffs are distributed at the daimyo's tier, not at the provincial tier |
 | Capital city direct tax base (property + business; dominated by the capital's larger and wealthier merchant population than provincial cities) | ~25,000 | Per the Capital City caste table above |
-| Capital city import tariffs (Yasuki Taka system at the capital city gates; 13% effective rate × ~233,000 koku of imported goods sold annually) | ~30,000 | Substantial because the capital is the largest urban center in the domain (~12,000 inhabitants) and the principal caravan junction for trade through the Reiji domain; the 13% effective rate reflects the Reiji's Hida-vassal status (family-clan layer consolidated).  Like provincial tariffs, the full ~30,000 passes up to kick-ups (family/clan/Imperial) and the daimyo's own portion, not retained gross |
+| Capital city import tariffs (taken at the capital city gates; 13% effective rate × ~233,000 koku of imported goods sold annually) | ~30,000 | Substantial because the capital is the largest urban center in the domain (~12,000 inhabitants) and the principal caravan junction for trade through the Reiji domain; the 13% effective rate reflects the Reiji's Hida-vassal status (family-clan layer consolidated).  Like provincial tariffs, the full ~30,000 passes up to kick-ups (family/clan/Imperial) and the daimyo's own portion, not retained gross |
 | Domain mining royalties (iron and minor metal works from the hill country) | ~20,000 | A characteristic feature of Crab domains; the Reiji's inland hill country supports modest iron, tin, and copper works whose extracted value flows partly to the daimyo as a royalty |
 | Other domain-level revenue (large cross-province sake export licenses, craft monopolies such as silk and fine paper, special assessments / *komononari* on specific industries) | ~30,000 | The aggregated revenue from licenses and assessments that the daimyo collects directly rather than passing through the provincial tier |
 | **Total domain throughput** |  | **~246,000** |
@@ -888,7 +887,7 @@ The Reiji are a fairly typical inland Crab domain: agricultural-base economy, mo
 | Category | Annual koku | Notes |
 | --- | --- | --- |
 | Land-output kick-ups to Hida Kisada (as both Hida family daimyo and Crab clan daimyo) and the Imperial center (8% of land output) | ~48,200 | Calculated against the domain's assessed land output (the kokudaka, ~602,640 koku), not against actual harvest.  The standard split is 2% family + 3% clan + 5% Imperial = 10%, but the Reiji are a Hida vassal house and Hida Kisada holds BOTH the Hida family daimyo title AND the Crab clan daimyo title - so the family-level 2% layer is not levied separately and the Reiji keeps it (the "family services" it notionally funds are already covered by the clan's operations when the same person heads both); on land tax, which is captive, that ~12,000 koku/year goes straight to the daimyo's cut.  Other domains where the family and clan daimyo are distinct people pay the full 10% per the canonical split documented in [l7r.md - The Ministry of Revenue](l7r.md#the-ministry-of-revenue); the ~12,000-koku/year savings is one of the structural advantages of being a Hida vassal house |
-| Tariff kick-ups to Hida Kisada and the Imperial center (8% of declared sales value at every provincial and capital city gate within the Reiji domain) | ~43,600 | Calculated against the domain's total imported-goods sales volume (~545,000 koku/year across 6 provincial cities + the capital).  Composed of ~16,350 to Kisada (3% combined family+clan, with the family-daimyo 2% layer absorbed per the Hida-vassal note above) plus ~27,250 to the Imperial center (5% of trade volume, per the Yasuki Taka rate structure documented in [l7r.md - The Ministry of Revenue](l7r.md#the-ministry-of-revenue)).  Other domains where the family-daimyo layer is not absorbed pay the full 10% tariff kick-up rate |
+| Tariff kick-ups to Hida Kisada and the Imperial center (8% of declared sales value at every provincial and capital city gate within the Reiji domain) | ~43,600 | Calculated against the domain's total imported-goods sales volume (~545,000 koku/year across 6 provincial cities + the capital).  Composed of ~16,350 to Kisada (3% combined family+clan, with the family-daimyo 2% layer absorbed per the Hida-vassal note above) plus ~27,250 to the Imperial center (5% of trade volume, per the rate structure documented in [l7r.md - The Ministry of Revenue](l7r.md#the-ministry-of-revenue)).  Other domains where the family-daimyo layer is not absorbed pay the full 10% tariff kick-up rate |
 | Capital samurai stipends (~800 working samurai × ~35 koku average; the other ~150 of the capital's working cohort serve in Empire-paid Imperial posts; only working samurai past their gempukku and not yet retired receive stipends) | ~28,000 | Distributed across the six domain ministries and the daimyo's personal household roles; the Ministry of Retainers administers disbursement, but the funds flow from the daimyo's allocation rather than from the Retainers ministry's ~3,000-koku overhead budget |
 | Capital samurai food allowance (~800 × ~3 koku) | ~2,400 |  |
 | Capital samurai equipment allowance (~800 × ~2 koku) | ~1,600 |  |
@@ -896,7 +895,7 @@ The Reiji are a fairly typical inland Crab domain: agricultural-base economy, mo
 | Domain servants, supplies, and the daimyo's direct administrative staff (outside the ministry budgets) | ~1,400 |  |
 | **Total mandatory** |  | **~175,200** |
 
-Math note: the 6 provincial governors pass up ~141,000 koku, the capital city's own tax base contributes ~25,000, the Yasuki Taka tariff system at the capital city gates contributes ~30,000, mining royalties contribute ~20,000, and other domain-level revenue contributes ~30,000 - bringing total throughput to ~246,000.  Of this, ~48,200 flows up to Hida Kisada and the Imperial center as the Reiji's 8% land-output kick-ups (reduced from the standard 10% per the Hida-vassal note above); ~43,600 flows up to Hida Kisada and the Imperial center as the Reiji's 8% tariff kick-ups on the domain's ~545,000 koku of imported-goods sales volume; ~32,000 funds the ~800 working capital samurai the daimyo pays (stipends + food + equipment); ~50,000 funds the six domain ministries' overhead budgets; ~1,400 covers minor domain administrative overhead.  Daimyo Isao is left with **~71,000 koku of discretionary income** - the daimyo's "tax-farming cut," substantially higher than a provincial governor's ~10,000 and a county magistrate's ~1,000.  This figure varies widely across domains depending on trade volume, tariff structure (Hida-vassal vs standard), domain wealth, and military pressures: wealthy maritime trade or large clan-capital domains run substantially higher; frontier or war-recovering domains run substantially lower.  The Reiji's ~71,000 sits *above* the ~58,000 typical median because of its Hida-vassal status, which lets it stop levying the 2% family-daimyo kick-up layer (Hida Kisada holds both the Hida family and Crab clan daimyo titles, so there is no separate family daimyo to pay).  The two halves of that layer behave very differently, because land tax is captive and tariffs are not.  On **land** - peasants cannot relocate to a cheaper jurisdiction - the Reiji simply keep the 2% (~12,000 koku/year), and *that* is what lifts the cut to ~71,000, above the ~58,000 typical median.  On **tariffs** they cannot: the Reiji border three Minor Clans, whose domains carry neither family nor clan kick-ups and therefore far lower gate tariffs, and the resulting competition forces the Reiji to hold their own gate tariff near ~13% rather than the ~15% standard - so the absorbed tariff 2% (~10,900 koku/year) is handed to merchants as a lower rate rather than pocketed, showing up as ~10,900 of *lower throughput* instead of a bigger cut.  Most ruling-family vassal houses face no such neighbor and simply keep their tariff at ~15%, pocketing that ~10,900 - so a typical one runs nearer ~81,000, and the Reiji's tariff restraint is a locally-compelled choice to sit below its ruling-family peers.  (Separately, the ~300 working samurai the Empire pays while they serve in Imperial posts also free up stipend money for the daimyo's cut, but that applies to *every* domain and is already built into the ~58,000 median.)
+Math note: the 6 provincial governors pass up ~141,000 koku, the capital city's own tax base contributes ~25,000, the tariff system at the capital city gates contributes ~30,000, mining royalties contribute ~20,000, and other domain-level revenue contributes ~30,000 - bringing total throughput to ~246,000.  Of this, ~48,200 flows up to Hida Kisada and the Imperial center as the Reiji's 8% land-output kick-ups (reduced from the standard 10% per the Hida-vassal note above); ~43,600 flows up to Hida Kisada and the Imperial center as the Reiji's 8% tariff kick-ups on the domain's ~545,000 koku of imported-goods sales volume; ~32,000 funds the ~800 working capital samurai the daimyo pays (stipends + food + equipment); ~50,000 funds the six domain ministries' overhead budgets; ~1,400 covers minor domain administrative overhead.  Daimyo Isao is left with **~71,000 koku of discretionary income** - the daimyo's "tax-farming cut," substantially higher than a provincial governor's ~10,000 and a county magistrate's ~1,000.  This figure varies widely across domains depending on trade volume, tariff structure (Hida-vassal vs standard), domain wealth, and military pressures: wealthy maritime trade or large clan-capital domains run substantially higher; frontier or war-recovering domains run substantially lower.  The Reiji's ~71,000 sits *above* the ~58,000 typical median because of its Hida-vassal status, which lets it stop levying the 2% family-daimyo kick-up layer (Hida Kisada holds both the Hida family and Crab clan daimyo titles, so there is no separate family daimyo to pay).  The two halves of that layer behave very differently, because land tax is captive and tariffs are not.  On **land** - peasants cannot relocate to a cheaper jurisdiction - the Reiji simply keep the 2% (~12,000 koku/year), and *that* is what lifts the cut to ~71,000, above the ~58,000 typical median.  On **tariffs** they cannot: the Reiji border three Minor Clans, whose domains carry neither family nor clan kick-ups and therefore far lower gate tariffs, and the resulting competition forces the Reiji to hold their own gate tariff near ~13% rather than the ~15% standard - so the absorbed tariff 2% (~10,900 koku/year) is handed to merchants as a lower rate rather than pocketed, showing up as ~10,900 of *lower throughput* instead of a bigger cut.  Most ruling-family vassal houses face no such neighbor and simply keep their tariff at ~15%, pocketing that ~10,900 - so a typical one runs nearer ~81,000, and the Reiji's tariff restraint is a locally-compelled choice to sit below its ruling-family peers.  (Separately, the ~300 working samurai the Empire pays while they serve in Imperial posts also free up stipend money for the daimyo's cut, but that applies to *every* domain and is already built into the ~58,000 median.)
 
 #### Gift income
 
@@ -945,24 +944,24 @@ Daimyo Hida no Reiji Isao is responsible for the financial operation of the Reij
 
 This is a substantial lifestyle by any standard, but it is the lifestyle of a serious working official, not a leisure-class noble.  The daimyo's discretionary income is dominated by obligations of the office rather than freely-spent wealth.  Even the ~2,900 koku of truly-free spending represents only ~4% of total discretionary income - the same proportion as Asuka's ~4-5% and Hikai's ~5%, scaled by tier.  By all accounts Isao is a steady, virtuous-but-not-exceptional daimyo: he meets his clan and Imperial obligations on time, manages the Reiji ministries competently, contributes the expected manpower and material to the Wall, and has cultivated his lineage chancellor and his fellow Crab daimyo well enough to maintain political stability for his household.  A more politically ambitious daimyo would invest more heavily in clan-level relationships and Imperial Court visibility (paid from personal savings, often dramatically reducing the lean-year reserve); a less scrupulous one could divert substantially more to personal use through reduced almsgiving, reduced Kaiu Wall contributions, or transactional appointments - any of which would quickly invite scrutiny from Hida Kisada or the Imperial magistrate stationed in the Reiji capital.
 
-## The Imperial Budget
+## The Imperial budget
 
 The per-domain budget breakdowns documented in the sections above describe the financial operation of a single domain.  Above and parallel to those is the Imperial budget, by which the Emperor funds the structures and services that bind the Empire together as a whole.
 
-### Imperial Revenue (~30-38 million koku per year at canonical baseline)
+### Imperial revenue (~30-38 million koku per year at canonical baseline)
 
 | Source | Annual koku |
 | --- | --- |
 | Land-output kick-ups (5% of land output from all ~284 domains) | ~8.6 million |
 | Otosan Uchi tax base (property + business taxes from the capital's ~1 million urban inhabitants - merchants, artisans, administrators, soldiers, servants) | ~7-9 million |
-| Otosan Uchi import tariffs (Yasuki Taka system at the city gates, at the 5% baseline rate) | ~1-2 million |
+| Otosan Uchi import tariffs (taken at the city gates, at the 5% baseline rate) | ~1-2 million |
 | Imperial-family direct domain taxes (Hantei lands, Otomo lands, Seppun lands, Miya lands - separate from Otosan Uchi proper) | ~4-6 million |
-| Imperial tariff cut on cross-domain commerce (5% of declared sales value at every provincial city and capital city gate Empire-wide, per the Yasuki Taka rate structure; ~2,400 provincial cities + ~284 capital cities = ~2,684 collection points, against ~545,000 koku of median-domain trade volume) | ~7-8 million |
+| Imperial tariff cut on cross-domain commerce (5% of declared sales value at every provincial city and capital city gate Empire-wide, per the standard rate structure; ~2,400 provincial cities + ~284 capital cities = ~2,684 collection points, against ~545,000 koku of median-domain trade volume) | ~7-8 million |
 | Imperial salt monopoly cuts | ~2-3 million |
 | Minor Imperial revenue (specific mining royalties, miscellaneous) | ~0.5-1 million |
 | **Total** | **~30-38 million** |
 
-**Note on the Otosan Uchi tariff rate**: the 5% Imperial floor is the rate the Emperor *always* collects at Otosan Uchi gates (it is the Imperial cut from the standard Yasuki Taka rate structure that applies Empire-wide).  Above this floor, the Emperor has discretion to add an OU-specific tariff layer, raising the effective rate at Otosan Uchi above the 5% baseline.  Such elevations are rare and politically sensitive (OU merchant houses lobby vigorously against them, and excessive rates would discourage commerce into the capital), but they have occurred.  At the time of the current campaign, sustained fiscal pressure has forced the Emperor to raise OU tariffs incrementally to approximately 15% (10 points above the floor), adding roughly ~2-3 million koku/year above the baseline figure shown in the table.  Even this elevation has not been sufficient to fully offset the recent multi-year drawdown of Imperial reserves; see the Imperial Savings section below for the campaign-current fiscal context.
+**Note on the Otosan Uchi tariff rate**: the 5% Imperial floor is the rate the Emperor *always* collects at Otosan Uchi gates (it is the Imperial cut from the standard rate structure that applies Empire-wide).  Above this floor, the Emperor has discretion to add an OU-specific tariff layer, raising the effective rate at Otosan Uchi above the 5% baseline.  Such elevations are rare and politically sensitive (OU merchant houses lobby vigorously against them, and excessive rates would discourage commerce into the capital), but they have occurred.  At the time of the current campaign, sustained fiscal pressure has forced the Emperor to raise OU tariffs incrementally to approximately 15% (10 points above the floor), adding roughly ~2-3 million koku/year above the baseline figure shown in the table.  Even this elevation has not been sufficient to fully offset the recent multi-year drawdown of Imperial reserves; see the Imperial Savings section below for the campaign-current fiscal context.
 
 Note that the 5% from each domain is calculated against the domain's assessed land output (the kokudaka), not against the much smaller figure of taxes actually collected.  Since the daimyo collects 1/3 of that assessed output as land tax, the 5% Imperial cut works out to ~15% of the daimyo's land-tax revenue.  This is documented per the Wakashi example in [l7r.md - The Ministry of Revenue](l7r.md#the-ministry-of-revenue).
 
@@ -970,7 +969,7 @@ The Imperial **salt monopoly** is regional rather than universal: the Crown take
 
 The Emperor does NOT collect road tolls anywhere in the Empire.  All tolls on the Imperial road network were outlawed by Hantei the Tenth, with consequences explained below.
 
-### Imperial Spending (~27-42 million koku per year)
+### Imperial spending (~27-42 million koku per year)
 
 | Category | Annual koku | Notes |
 | --- | --- | --- |
@@ -979,13 +978,13 @@ The Emperor does NOT collect road tolls anywhere in the Empire.  All tolls on th
 | Imperial Ministry of Works | ~11-16 million | The Imperial Ministry of Works oversees all Imperial public works at scale, including two enormous strategic programs that account for the bulk of its budget.  Breakdown: **Imperial roads and waystations ~7-9 million** (the 50,000-mile road network plus ~5,000 waystations; detailed breakdown in its own section below); **Kaiu Wall direct contributions ~3-5 million** (Imperial-funded Wall maintenance and supplies above and beyond what the Crab clan funds autonomously; detailed breakdown in its own section below); **central operations ~1-2 million** (Imperial palace maintenance and construction, granary infrastructure design and supervision, sacred construction at major Imperial shrines, OU aqueducts and harbors, Imperial public-works engineering and capital projects) |
 | Imperial Ministry of War | ~4.5-7 million | The Imperial Ministry of War oversees the Empire's central standing army and the supporting strategic functions.  Breakdown: **Imperial legions ~4-6 million** (25-40 active legions of ~1,000 legionnaires each, most stationed on the Kaiu Wall; detailed breakdown in its own section below); **central operations ~0.5-1 million** (Imperial-level war command, weapon manufacture oversight, war horse breeding programs, strategic intelligence on clan military capacity, mobilization planning) |
 | Imperial Ministry of Rites | ~1.5-2.5 million | State ceremonies, sacred construction, mourning observances, Empire-wide religious infrastructure, festival distributions.  The Imperial-level state religion: major Imperial shrines (especially Amaterasu's), Imperial-rank shugenja stipends, ceremonial costs for major Imperial events, Empire-wide festival coordination, supervision of major mourning periods (see Imperial Savings below for the fiscal mechanics of large mourning-period distributions) |
-| Imperial Ministry of Justice | ~3.3-4.5 million | The Imperial Ministry of Justice oversees the Empire's central judicial functions plus the field-level Imperial Magistrate cohort.  Breakdown: **Imperial Magistrates and their staff ~3-4 million** (one Imperial Magistrate per domain per the Emerald Charter, plus the Yasuki Taka tariff-audit yoriki cohort and the local Imperial granary oversight role; detailed breakdown in its own section below); **central operations ~0.3-0.5 million** (OU-resident judicial machinery, Emerald Champion's central staff, central judicial review, prisoner transport at the Imperial level) |
+| Imperial Ministry of Justice | ~3.3-4.5 million | The Imperial Ministry of Justice oversees the Empire's central judicial functions plus the field-level Imperial Magistrate cohort.  Breakdown: **Imperial Magistrates and their staff ~3-4 million** (one Imperial Magistrate per domain per the Emerald Charter, plus "the Yasuki Taka system" tariff-audit yoriki cohort and the local Imperial granary oversight role; detailed breakdown in its own section below); **central operations ~0.3-0.5 million** (OU-resident judicial machinery, Emerald Champion's central staff, central judicial review, prisoner transport at the Imperial level) |
 | Imperial Ministry of Retainers | ~1-2 million | Imperial-rank samurai stipends and the central retainer-administration apparatus.  Stipends for Imperial-rank samurai serving in Imperial posts (Imperial princes who hold formal offices, Imperial-family officials, ceremonial-court samurai, samurai seconded to Imperial duty from clan families *outside* of the Imperial legions structure - the legions are funded under the Imperial Ministry of War line above); rank-squared stipend calculations and payment-day logistics; the Imperial-level civil service examination administration |
 | Imperial Ministry of Revenue | ~0.5-1 million | Empire-wide tax collection oversight, salt monopoly administration, commercial regulation, Imperial Court financial administration (the Imperial Treasurer's office), liaison with the 284 Imperial Magistrates' tax-related functions |
 | Discretionary / contribution to Imperial savings | ~3-5 million | The good-year surplus (revenue minus operating commitments) that flows to savings; in lean years this line shrinks to zero or reverses (the Emperor draws from savings to make up the shortfall) |
 | **Total** | **~27-42 million** | Operating spending (~24-37M) plus the savings contribution (~3-5M).  Matches baseline Imperial revenue (~30-38 million) within rounding tolerance: in a good year a modest surplus of ~3-5M flows to savings, while in a hard year operating costs run to the high end, the savings line zeros out, and reserves are drawn down.  The Emperor runs on a surprisingly thin margin for an empire of this scale - which is precisely why a single extended mourning period or a multi-year clan war can tip the treasury into genuine crisis rather than being quietly absorbed by reserves, and why "just tighten the belt for a few years" does not by itself refill the vaults (see Imperial Savings below).  The Imperial Chancellery (a deliberative body that advises the Emperor and ratifies major decisions; see [l7r.md - The Ministry of Justice](l7r.md#the-ministry-of-justice) for its political role) is not a separate line because its operating cost is minimal and is folded into the Imperial Ministry of Retainers and Imperial household lines |
 
-### Imperial Budget Scale: Historical Context
+### Imperial budget scale: historical context
 
 The Imperial Budget figures above warrant explicit historical grounding, because the scale of Imperial fiscal extraction varies enormously across premodern empires and the Rokugani case is structurally important to understand.  Comparing per-capita central revenue across major historical examples:
 
@@ -1011,30 +1010,30 @@ The total tax extraction rate observable to a Rokugani peasant - the 1/3 land ta
 
 The practical implication for campaign play: significant Imperial policy questions can be re-litigated when an Emperor weakens or a clan strengthens.  The relationship between Imperial Court and the 7 clans is a live, evolving fiscal-political balance, not a settled hierarchy.  Hard fiscal pressure on the Imperial Court (a depleted treasury, an unusually expensive Wall campaign, a succession crisis with large discretionary outlays) is something the clans can sometimes exploit; conversely, a strong Emperor with full reserves can push back against clan autonomy in ways that a fiscally stressed Emperor cannot.
 
-### Imperial Roads and Waystations: Line-Item Detail
+### Imperial roads and waystations: line-item detail
 
 The ~7-9 million koku/year for the Imperial road network breaks down roughly as follows:
 
 - **Road surface maintenance** (~2.5-3.5 million): Cash costs for materials, specialized labor (stone-cutting, bridge work, mountain-pass engineering), supervision, and emergency repairs after floods or landslides.  Average cash spend is ~50-70 koku/mile/year.  The bulk of actual repair labor is provided through **corvée obligations** on counties adjacent to the road network (per [l7r.md - The Ministry of Works](l7r.md#the-ministry-of-works)), which is why the cash component is far smaller than the engineering scope would otherwise suggest.
 
-- **Waystation operations** (~3.5-4 million): Approximately ~5,000 waystations across the 50,000-mile network, spaced at irregular but worthwhile intervals averaging ~10 miles apart but varying substantially by route conditions.  On the most important and well-traveled stretches (the main trunks connecting Otosan Uchi to the Great Clan capitals, the heavily-populated route through central Crane lands, dangerous segments where bandit incidents have been historically frequent) waystations are spaced as close as every ~5 miles.  In remote frontier regions (parts of Unicorn lands well west of Shiro Iuchi, sections of the Kuni Wastelands road network, far northern Phoenix routes through the cold mountains) the spacing stretches to ~20-30 miles - locals refer to these as the routes where it is a full day's journey between waystations, and travel preparations are correspondingly more serious.  Each waystation costs the Imperial budget ~560-1,400 koku/year to operate (typical ~700; see the Per-Waystation detail below), plus a small clan-paid stipend burden (~45 koku/year, for the locally-detailed clan samurai) borne by the host domain rather than the Crown.  Each supports a permanent staff of ~10-30 people: relay-master, courier-postmaster, mounted patrol detachment, stable hands, road-maintenance crew billeted there, kitchen and provisioning staff, and waystation-attached Imperial yoriki assigned to Yasuki Taka transit-stamp verification (distinct from the city-gate yoriki cohort attached to the Imperial Magistrate offices).
+- **Waystation operations** (~3.5-4 million): Approximately ~5,000 waystations across the 50,000-mile network, spaced at irregular but worthwhile intervals averaging ~10 miles apart but varying substantially by route conditions.  On the most important and well-traveled stretches (the main trunks connecting Otosan Uchi to the Great Clan capitals, the heavily-populated route through central Crane lands, dangerous segments where bandit incidents have been historically frequent) waystations are spaced as close as every ~5 miles.  In remote frontier regions (parts of Unicorn lands well west of Shiro Iuchi, sections of the Kuni Wastelands road network, far northern Phoenix routes through the cold mountains) the spacing stretches to ~20-30 miles - locals refer to these as the routes where it is a full day's journey between waystations, and travel preparations are correspondingly more serious.  Each waystation costs the Imperial budget ~560-1,400 koku/year to operate (typical ~700; see the Per-Waystation detail below), plus a small clan-paid stipend burden (~45 koku/year, for the locally-detailed clan samurai) borne by the host domain rather than the Crown.  Each supports a permanent staff of ~10-30 people: relay-master, courier-postmaster, mounted patrol detachment, stable hands, road-maintenance crew billeted there, kitchen and provisioning staff, and waystation-attached Imperial yoriki assigned to "the Yasuki Taka system" transit-stamp verification (distinct from the city-gate yoriki cohort attached to the Imperial Magistrate offices).
 
 - **Specialized engineering infrastructure** (~700K-1M): Bridges across major rivers, tunnel-pass maintenance, mountain-pass shelter facilities, ferry stations.  Roughly 50-100 major engineered structures Empire-wide.
 
 - **Mounted Imperial courier service** (~300-500K): The ~500-1,000 trained mounted couriers themselves, above and beyond the waystation base operations.  Significant horse-replacement and tack-equipment costs.
 
-**Why waystations exist at all (since Rokugan does not collect tolls)**: the network supports six distinct functions, of which toll collection (the one Rokugan rejects) is only one.  Without tolls, waystations still support: (1) Imperial courier relay, the central government's nervous system, allowing orders from Otosan Uchi to reach distant frontier domains in days rather than weeks; (2) mounted anti-banditry patrols on the road segments between stations; (3) military logistics for Imperial legions in transit; (4) civilian hospitality and overnight safety for commoner travelers; (5) billeting for road-maintenance crews; (6) Yasuki Taka transit-stamp verification, the audit-side companion to the no-transit-tariffs policy (see [l7r.md - The Ministry of Revenue](l7r.md#the-ministry-of-revenue) for the tariff-audit detail).
+**Why waystations exist at all (since Rokugan does not collect tolls)**: the network supports six distinct functions, of which toll collection (the one Rokugan rejects) is only one.  Without tolls, waystations still support: (1) Imperial courier relay, the central government's nervous system, allowing orders from Otosan Uchi to reach distant frontier domains in days rather than weeks; (2) mounted anti-banditry patrols on the road segments between stations; (3) military logistics for Imperial legions in transit; (4) civilian hospitality and overnight safety for commoner travelers; (5) billeting for road-maintenance crews; (6) transit-stamp verification, the audit-side companion to the no-transit-tariffs policy (see [l7r.md - The Ministry of Revenue](l7r.md#the-ministry-of-revenue) for the tariff-audit detail).
 
 **Historical justification**: The Tang Chinese yi (驛) post system spaced stations every ~10 miles for these same functions, with no toll collection, at a cost of roughly 8-12% of Tang central revenue at peak.  Rokugan at ~20% of Imperial revenue is HIGH by Tang standards, but this is the deliberate worldbuilding choice that the "Imperial Roads: a Special Case" subsection below explains - Hantei the Tenth committed to an unusually intense road investment, and the canonical figures reflect that commitment rather than the historical mean.
 
-#### Per-Waystation Staffing Breakdown
+#### Per-waystation staffing breakdown
 
 A typical waystation supports ~15-18 permanent staff.  Most positions are locally sourced - hard oversight (transit-stamp verification, station command) requires Imperial appointees from elsewhere, but the broader administrative and physical work is done by locals.  Composition and stipend breakdown, with funding source noted:
 
 | Role | Count | Status / Rank | Stipend (koku/yr) | Total (koku/yr) | Paid by |
 | --- | --- | --- | --- | --- | --- |
 | Relay-master (senior samurai who manages the station; Imperial appointee from elsewhere, rotates periodically) | 1 | Rank 5 samurai | 25 | 25 | Imperial budget |
-| Waystation Imperial yoriki (Yasuki Taka transit-stamp verification, Imperial appointee from elsewhere, attached to the Imperial Magistrate of the domain the station sits in) | 1 | Rank 3 samurai | 9 | 9 | Imperial budget |
+| Waystation Imperial yoriki (transit-stamp verification, Imperial appointee from elsewhere, attached to the Imperial Magistrate of the domain the station sits in) | 1 | Rank 3 samurai | 9 | 9 | Imperial budget |
 | Mounted patrol ashigaru (locally recruited) | ~4 | Ashigaru | 2 each | ~8 | Imperial budget |
 | Stable hands (locally recruited) | ~3 | Peasants (housed + fed + small stipend) | ~1 | ~3 | Imperial budget |
 | Kitchen and provisioning staff (locally recruited) | ~2 | Peasants (housed + fed + small stipend) | ~1 | ~2 | Imperial budget |
@@ -1050,7 +1049,7 @@ Funding split:
 - Imperial-paid personnel (relay-master + yoriki + all ashigaru/peasants): ~51 koku in stipends + ~10 koku in allowances = ~61 koku/year per waystation
 - Clan-paid personnel (3 local samurai detailed by the daimyo): ~36 koku in stipends + ~9 koku in allowances = ~45 koku/year per waystation, borne by the host domain's clan budget
 
-#### Single Waystation Budget Reference
+#### Single waystation budget reference
 
 A typical waystation's annual Imperial budget breaks down as follows (clan-paid samurai stipends are NOT included here - they appear in the host domain's clan budget):
 
@@ -1061,8 +1060,8 @@ A typical waystation's annual Imperial budget breaks down as follows (clan-paid 
 | Building maintenance and repairs | ~150 | Structural upkeep of the waystation complex (main hall, barracks, stables, gates, courtyard walls) |
 | Road repair materials for the adjacent ~10 miles of road | ~200 | Stone, lumber, specialized tools, materials for bridge and culvert maintenance.  The bulk of actual road-repair LABOR comes from corvée obligations on adjacent counties; this budget line covers materials and the wages of the skilled-craft specialists who supervise the corvée crews and do specialized stonework |
 | Daily consumables | ~100 | Lamp oil, firewood, food preservation, kitchen consumables, daily operations of housing and feeding ~16 staff plus transient travelers (couriers passing through, the occasional inspecting magistrate, civilian travelers overnighting) |
-| Manifest paper, sealing wax, courier equipment, transit-stamp supplies | ~50 | For courier-relay record-keeping and the Yasuki Taka transit-stamp verification work |
-| Medical supplies, religious offerings, ad-hoc costs | ~70 | Basic medical supplies, small Buddhist/Fortunist altar maintenance, irregular operational costs |
+| Manifest paper, sealing wax, courier equipment, transit-stamp supplies | ~50 | For courier-relay record-keeping and transit-stamp verification work |
+| Medical supplies, religious offerings, ad-hoc costs | ~70 | Basic medical supplies, small altar maintenance, irregular operational costs |
 | **Total per typical waystation (Imperial budget)** | **~706** | (~700 typical) |
 
 The local daimyo additionally pays ~45 koku/year per waystation in stipends for the 3 clan samurai detailed as courier-postmaster, mounted patrol leader, and manifest clerk.  Across all the waystations within a typical Reiji-style domain (see the per-domain synthesis below), this comes to a few hundred koku of clan budget burden - a trivial obligation in absolute terms but a continuing structural reminder that the domain participates in supporting Imperial infrastructure.
@@ -1082,7 +1081,7 @@ Empire-wide aggregation across ~5,000 waystations:
 
 This produces the ~3-4M waystation operations figure shown in the Imperial Roads and Waystations top-level breakdown above.  Plus an additional ~225K koku/year of clan-paid stipends for the ~15,000 locally-detailed clan samurai serving across all ~5,000 waystations (3 per waystation), spread across the 284 actual domains as a routine support-of-Imperial-infrastructure obligation.
 
-### Imperial Roads: a Special Case
+### Imperial roads: a special case
 
 The Empire's 50,000-mile Imperial road network is an extraordinary investment for a premodern state.  Heavy maintenance, ~5,000 waystations staffed at irregular but worthwhile intervals (averaging ~10 miles apart on the major trunk routes, more sparsely on minor branches and frontier extensions), no tolls collected anywhere along the system - by historical standards this is dramatic over-investment, and most premodern road networks of comparable ambition either decayed for lack of maintenance funding (Imperial Rome's roads were essentially gone within a generation of the Western collapse) or fragmented into a patchwork of local tolls extracted by individual lords, towns, and barrier stations (medieval European roads, Sengoku Japanese sekisho, the various transit-tax stations of the late dynasties of imperial China).
 
@@ -1096,11 +1095,11 @@ Second, and as a Doyalist matter that the in-fiction characters do not articulat
 
 The Yasuki Taka import tariff system (see [l7r.md - The Ministry of Revenue](l7r.md#the-ministry-of-revenue)) provides the necessary fiscal counterbalance: city gates collect tariffs that generate substantial revenue from commerce, while roads themselves remain free for any traveler, preserving the conditions for the commerce to occur in the first place.
 
-### Imperial Legions: Line-Item Detail
+### Imperial legions: line-item detail
 
 The ~4-6 million koku/year for the Imperial legions funds the Empire's central standing army: 25-40 active legions of ~1,000 legionnaires each (~25,000-40,000 total active combat troops), supported by a substantially larger cohort of non-combatant peasant support staff.  **Every legionnaire is a samurai** - the ~1,000 combat troops in a legion are samurai drawn from the clans (with senior command from the Imperial families, especially the Seppun), carrying the rank-squared stipends shown below.  The much larger support tail (cooks, smiths, porters, animal handlers, and so on) is entirely peasant, per the tooth-to-tail discussion further down.  Most legions are stationed on the Kaiu Wall assisting the Crab clan; the remainder handle inter-clan border tension as a neutral force, emergency response (riot suppression in distant provinces, famine-relief security), and ceremonial duties at the capital.
 
-#### Legion Organization and Rank Structure
+#### Legion organization and rank structure
 
 Each Imperial Legion is organized into a hierarchy that maps directly onto the rank-squared stipend system:
 
@@ -1117,7 +1116,7 @@ The Imperial appointee in charge of all legions along the Kaiu Wall holds the ti
 
 Within each platoon, the standard composition is: 1 platoon lieutenant (Rank 6, 36 koku), ~3 squad sergeants (Rank 5, 25 koku each), ~3 corporals (Rank 4, 16 koku each), and ~9-13 rank-and-file legionnaires (Rank 3 by default, 9 koku each).  Rank-and-file legionnaires can be demoted to Rank 2 (4 koku) for misconduct, but no Imperial legionnaire is ever demoted to Rank 1 - that lowest rank is incompatible with the prestige of Imperial service, and no samurai who has earned a place in the legions could be reduced to it without an extraordinary act of dishonor.
 
-#### The Rank Uplift Principle
+#### The rank uplift principle
 
 Imperial Legion postings are administratively reckoned **one rank higher** than equivalent posts in clan armies.  A squad sergeant in a clan army would normally be a Rank 4 posting; in the Imperial Legions, it is Rank 5.  This applies systematically up and down the structure: a platoon lieutenant who would be Rank 5 in clan service is Rank 6 in Imperial service; a legion general is Rank 9 rather than the Rank 8 they would be at a comparable clan-army post.
 
@@ -1129,7 +1128,7 @@ The rank uplift is a structural feature of Imperial Legion service, not a discre
 
 This rank-retention rule creates a sustained incentive for daimyo to second their samurai to Imperial Legion duty: the Empire pays the elevated stipend during service, and when the samurai returns, the daimyo has a higher-ranking retainer at no additional clan cost (the daimyo now pays the higher stipend in clan service, but receives a more experienced and Imperially-vetted official in exchange).  This is the structural reason why daimyo voluntarily contribute manpower to the Imperial Legions despite the temporary loss of their samurai's service: it amounts to a hidden subsidy from the Imperial Court to the clans' manpower pool over the long term.
 
-#### Per-Legion Stipend Breakdown
+#### Per-legion stipend breakdown
 
 A typical Imperial Legion of ~1,000 legionnaires has the following annual stipend cost, broken down by rank:
 
@@ -1147,7 +1146,7 @@ A typical Imperial Legion of ~1,000 legionnaires has the following annual stipen
 
 Stipends alone come to ~16,000 koku/year per legion.  Empire-wide across 25-40 active legions, total samurai stipend cost is ~400-650K koku/year.
 
-#### Tooth-to-Tail Ratio and Non-Combatant Support
+#### Tooth-to-tail ratio and non-combatant support
 
 A legion's combat strength is supported by a substantial cohort of non-combatant peasant staff - cooks, cleaners, carpenters, smiths, latrine-diggers, tailors, porters, animal handlers, supply clerks, and other support personnel without whom the legion could not function.  The ratio of combat troops to support staff varies dramatically with deployment posture, which is the single biggest variable in legion cost.
 
@@ -1175,7 +1174,7 @@ A breakdown of typical non-combatant roles at a Wall-stationed legion of ~2,000 
 | Medical orderlies, shugenja attendants, healers' support | ~150 | ~750 | Recovery facility staff |
 | **Total** | **~2,000** | **~10,000** | |
 
-#### Single Legion Budget - Wall-Stationed Reference
+#### Single legion budget - Wall-stationed reference
 
 A typical Wall-stationed Imperial Legion's annual budget breaks down as follows:
 
@@ -1201,7 +1200,7 @@ Field-deployed legions cost roughly **1.5x** the per-legion baseline due to supp
 
 This produces the ~4-6 million range shown on the main spending table (low end ~4M in a quiet year, high end ~6M when legions are deployed to the field as during the Lion/Crane War).
 
-#### Campaign Context: The Lion/Crane War
+#### Campaign context: the Lion/Crane war
 
 For most of recent Imperial history, the great majority of Imperial Legions have been stationed on the Kaiu Wall, where they remain.  This is the stable peacetime baseline.
 
@@ -1209,7 +1208,7 @@ During the **6-year Lion/Crane War**, however, the Emperor redeployed several le
 
 The fiscal impact was substantial.  Supplying legions conducting field operations - even non-combat operations - is significantly more expensive than maintaining the same legions at their permanent Wall encampments, because the supply chain costs rise sharply and the per-legion overhead increases.  Over six years, the redeployment drew down the Imperial budget considerably and was a meaningful contributor to the current fiscal crisis (see Imperial Savings below).  With the war ended, the redeployed legions have largely returned to the Wall, and per-legion costs have correspondingly dropped back toward the Wall-stationed baseline.  However, the cumulative drawdown from the war years has not been recovered.
 
-#### Historical Justification
+#### Historical justification
 
 Han Dynasty military spending was 15-30% of central revenue at peak.  Tang under Xuanzong: ~20-30% of revenue on military (frontier garrisons plus central army).  Ming Dynasty at peak Wall-defense intensity: ~25-35% (most of which was border garrison troops).  Rokugan at ~15% on legions is at the LOW end of historical norms for an empire facing significant frontier military pressure - understated relative to Ming peak, but defensible because Crab clan domains carry significant additional military costs from their own treasury that don't appear in this line, and the other clans' standing armies are similarly Crown-independent rather than Imperial.
 
@@ -1223,7 +1222,7 @@ The Imperial legions, in this light, need not be strong enough to conquer a Grea
 
 This pattern of consolidating power through engineered interdependence rather than standing force is not unique to Rokugan; it is a recognizable feature of stable feudal systems generally.  But, as with so much of its governance, Rokugan is unusually well-run for a premodern society, and the Hantei have sustained the arrangement more successfully, and for longer, than any real-world dynasty managed while still wielding real power.  The real dynasties that endured even longer - the Imperial House of Japan foremost among them - generally did so by allowing themselves to be reduced to ceremonial figureheads while actual governance passed to shoguns, regents, or ministers.  That is arguably true of the Hantei to a degree (the Emperor rarely takes a significant action not "recommended" by the Imperial Chancellery), but only to a degree: across a thousand-year span, Rokugan's Imperial monarchy has retained far more wealth, direct control of governance, and real power than the throne of any comparable real-world empire.
 
-### Kaiu Wall Direct Contributions: Line-Item Detail
+### Kaiu Wall direct contributions: line-item detail
 
 The ~3-5 million koku/year for direct Imperial Wall contributions covers:
 
@@ -1243,13 +1242,13 @@ The ~3-5 million koku/year for direct Imperial Wall contributions covers:
 
 **Length and intensity comparison**: The Great Wall of Ming was ~5,500 miles total length; the Kaiu Wall is shorter (estimates range from ~500 to ~1,500 miles depending on how the canonical descriptions are interpreted) but more fortification-intensive per mile because of the supernatural threat profile.  Per-mile cost works out approximately similar to Ming Great Wall maintenance.
 
-### Imperial Magistrates and Their Staff: Line-Item Detail
+### Imperial magistrates and their staff: line-item detail
 
 The ~3-4 million koku/year for the Imperial Magistrate cohort breaks down as follows:
 
 - **The 284 standing Imperial Magistrate main offices at domain capitals** (~1.5 million): One Imperial Magistrate stationed in every domain (per the Emerald Charter), located at the domain capital.  This covers the Magistrate's personal stipend (Rank 10 for vassal-house domains, Rank 11 for non-ruling family domains, Rank 12 for clan-ruling-family capitals - see the Rank by Domain Tier table below), retinue, manor and office operations, the office's standing yoriki force (handling general judicial work, dispute investigation, cross-clan-issue mediation, and the *capital-city* tariff audit work), and the supervision of **the Emperor's local granaries within the domain**.  The granary function is structurally important: most of what is collected in Imperial taxes does not physically travel to Otosan Uchi (Rokugan is ~1,000 by ~1,500 miles, and physically transporting grain over those distances would be prohibitively expensive) but is instead stored in the Imperial granaries in each domain capital and used locally - for paying yoriki and other Imperial-staff stipends, funding road and waystation operations, supporting the local Imperial Magistrate's office, and being released into the local market in lean years (the "ever-normal granary" function familiar from Tang/Song Chinese administration).  The Imperial Magistrate's role in overseeing these granaries is one of the most economically consequential functions of the office.  Per-IM cost varies dramatically with the size of the domain capital (see the Per-Magistrate Office Staffing and Budget detail below).  (Otosan Uchi's Imperial granary infrastructure is exceptional: because the capital concentrates ~1 million inhabitants, its granaries are vastly larger than any per-domain installation, and the OU local market is tightly monitored and controlled by Imperial regulators.  This is partly handled through the Otosan Uchi local government line in the spending table and partly through the Imperial Ministry of Rites' Empire-wide ceremonial-distribution coordination.)
 
-- **~2,400 provincial-city Imperial yoriki sub-stations** (~400K): One small Imperial yoriki sub-station in each of the Empire's ~2,400 provincial cities, auditing the Yasuki Taka tariff collection at the provincial city's gates.  These sub-stations report up to the Imperial Magistrate at their domain capital and are administratively part of the IM cohort, but they are budgeted and counted separately because the empire-wide multiplier is different (~2,400 provincial cities, using the 400-ME × 6-provinces aggregation, rather than the ~284 actual domain capitals).  See the Provincial-City Imperial Yoriki Sub-Station Budget detail below.
+- **~2,400 provincial-city Imperial yoriki sub-stations** (~400K): One small Imperial yoriki sub-station in each of the Empire's ~2,400 provincial cities, auditing tariff collection at the provincial city's gates.  These sub-stations report up to the Imperial Magistrate at their domain capital and are administratively part of the IM cohort, but they are budgeted and counted separately because the empire-wide multiplier is different (~2,400 provincial cities, using the 400-MD × 6-provinces aggregation, rather than the ~284 actual domain capitals).  See the Provincial-City Imperial Yoriki Sub-Station Budget detail below.
 
 - **Emerald Champion central operations** (~500-700K): The Imperial Minister of Justice's office in Otosan Uchi, supporting the Emerald Champion's institutional functions (administration of the Test of the Emerald Champion, coordination of Imperial Magistrate appointments and rotations, central judicial review).
 
@@ -1259,9 +1258,9 @@ The ~3-4 million koku/year for the Imperial Magistrate cohort breaks down as fol
 
 - **Standing investigative units** (~200-400K): Including the salt-smuggling investigative unit documented under the Imperial Revenue salt-monopoly discussion above, plus other specialized Imperial investigation units (counterfeit-currency squad, false-Imperial-credential investigators, etc.).
 
-**Note on the Yasuki Taka tariff-audit infrastructure**: the Imperial yoriki performing tariff audit at provincial city and capital city gates throughout the Empire are part of the Imperial Magistrate cohort, but distributed across two budget categories: the 284 IM main offices at domain capitals each include ~25 yoriki handling general judicial work AND the capital-city tariff audit, while the ~2,400 provincial-city sub-stations each include ~4-5 yoriki specifically for provincial-city tariff audit.  Total Imperial yoriki Empire-wide across both categories: approximately 14,000-15,000.  This is distinct from the separate waystation-yoriki cohort budgeted in the Imperial Roads line above; those waystation yoriki perform transit-stamp verification at intermediate points along the roads between cities, not point-of-sale tariff audit at city gates.  The two cohorts (Imperial Magistrate-attached city-gate yoriki and Imperial Roads-attached waystation yoriki) are functionally and budgetarily separate.
+**Note on the tariff-audit infrastructure**: the Imperial yoriki performing tariff audit at provincial city and capital city gates throughout the Empire are part of the Imperial Magistrate cohort, but distributed across two budget categories: the 284 IM main offices at domain capitals each include ~25 yoriki handling general judicial work AND the capital-city tariff audit, while the ~2,400 provincial-city sub-stations each include ~4-5 yoriki specifically for provincial-city tariff audit.  Total Imperial yoriki Empire-wide across both categories: approximately 14,000-15,000.  This is distinct from the separate waystation-yoriki cohort budgeted in the Imperial Roads line above; those waystation yoriki perform transit-stamp verification at intermediate points along the roads between cities, not point-of-sale tariff audit at city gates.  The two cohorts (Imperial Magistrate-attached city-gate yoriki and Imperial Roads-attached waystation yoriki) are functionally and budgetarily separate.
 
-#### Imperial Magistrate Rank by Domain Tier
+#### Imperial magistrate rank by domain tier
 
 The Imperial Magistrate's personal rank is determined by the political tier of the domain they are posted to, NOT by the size of the domain's capital city:
 
@@ -1273,7 +1272,7 @@ The Imperial Magistrate's personal rank is determined by the political tier of t
 
 The rank is a function of political importance, not commercial scale.  Ryoko Owari is one of the most economically consequential cities in the Empire (500,000 inhabitants, second only to Otosan Uchi) but its IM is Rank 10 because the Michio are a vassal house under the Shosuro family.  Conversely, a Rank 12 IM at a relatively small clan-ruling-family capital still carries the prestige and authority of the clan-tier posting even if the city itself is smaller than several Rank 10 vassal-house capitals.
 
-#### Per-Magistrate Office Staffing and Budget (Median Domain Capital, Rank 10 IM)
+#### Per-magistrate office staffing and budget (median domain capital, Rank 10 IM)
 
 A typical Imperial Magistrate office at a median-sized vassal-house domain capital (~12,000 population, IM at Rank 10) supports the following permanent staffing.  The "Paid by" column distinguishes Imperial appointees and Imperial-paid local staff from samurai whom the local daimyo provides to the office as part of the domain's standing obligation to support Imperial functions:
 
@@ -1304,7 +1303,7 @@ Single median IM office budget (Imperial portion only):
 | Other (ad-hoc, miscellaneous) | ~150 | Reserve for unexpected costs (special investigations, dispute mediation expenses, prisoner transport beyond normal volume) |
 | **Total per median IM office (Imperial budget)** | **~2,994** | (~3,000 typical) |
 
-#### Imperial Magistrate Office Scaling by Capital Size
+#### Imperial magistrate office scaling by capital size
 
 The ~3,000-koku figure is for a typical median (Rank 10 IM, vassal-house) capital.  Larger domain capitals carry substantially larger IM offices because both the judicial workload and the capital-city tariff-audit workload scale with the city's commercial volume.  The Empire's largest domain capitals roughly follow **Zipf's law** (the Nth-largest city is approximately 1/N the size of Otosan Uchi at 1,000,000), per the canonical list in [l7r.md - Large Cities](l7r.md#large-cities).
 
@@ -1326,9 +1325,9 @@ Notes:
 - The Empire's largest 10-15 cities follow Zipf's law quite closely (see the canonical list).  Below that the long tail flattens - the median-tier domain capitals are mostly smaller cities clustered in the 5K-15K range, with the canonical median of 12K matching the Reiji-style domain in the worked-example section above.
 - Otosan Uchi at 1,000,000 inhabitants is NOT a domain capital - it is the Imperial direct domain and its judicial functions are handled through the Otosan Uchi local government budget line and the central judicial machinery (Emerald Champion central operations, Imperial-court judicial infrastructure) rather than through an IM office attached to a domain capital.
 
-#### Provincial-City Imperial Yoriki Sub-Station Budget
+#### Provincial-city Imperial yoriki sub-station budget
 
-Each of the ~2,400 provincial cities in the Empire (400 median-size-equivalents × 6 provinces per ME) houses a small Imperial yoriki sub-station that audits the Yasuki Taka tariff collection at the city's gates.  This uses the ~400 ME × 6 multiplier rather than the ~284 actual-domain multiplier because larger actual domains have proportionally more provincial cities than the median (see [Combined Budgets](#combined-budgets) above for the dual-multiplier discussion).
+Each of the ~2,400 provincial cities in the Empire (400 median domains × 6 provinces per MD) houses a small Imperial yoriki sub-station that audits tariff collection at the city's gates.  This uses the ~400 MD × 6 multiplier rather than the ~284 actual-domain multiplier because larger actual domains have proportionally more provincial cities than the median (see [Combined Budgets](#combined-budgets) above for the dual-multiplier discussion).
 
 Staffing breakdown for a typical provincial-city sub-station:
 
@@ -1353,9 +1352,9 @@ Single sub-station budget:
 
 Empire-wide aggregation: **~2,400 × ~170 = ~408,000 koku/year**.
 
-The sub-station's primary function is to *audit* the Yasuki Taka inspectors and licensors (who are part of the provincial Revenue ministry, not the IM cohort), verify that the Emperor's 5% cut is correctly collected on all imported goods sold at the provincial city, and report any discrepancies up to the Imperial Magistrate at the domain capital.  Sub-station yoriki do NOT collect taxes themselves; they monitor the collection.  This architectural separation between domain-level tax collection (provincial ministries) and Imperial oversight (Imperial Magistrate cohort) is the audit-side counterpart to the inspector/licensor split in the original Yasuki Taka system: just as the inspector who assesses goods is institutionally separate from the licensor who collects payment, the licensor who collects is institutionally separate from the Imperial yoriki who audits the records.
+The sub-station's primary function is to *audit* "the Yasuki Taka system" inspectors and licensors (who are part of the provincial Revenue ministry, not the IM cohort), verify that the Emperor's 5% cut is correctly collected on all imported goods sold at the provincial city, and report any discrepancies up to the Imperial Magistrate at the domain capital.  Sub-station yoriki do NOT collect taxes themselves; they monitor the collection.  This architectural separation between domain-level tax collection (provincial ministries) and Imperial oversight (Imperial Magistrate cohort) is the audit-side counterpart to the inspector/licensor split in the original Yasuki Taka system: just as the inspector who assesses goods is institutionally separate from the licensor who collects payment, the licensor who collects is institutionally separate from the Imperial yoriki who audits the records.
 
-#### Imperial Appointees vs. Locally-Sourced Staff (Per-Domain View)
+#### Imperial appointees vs. locally-sourced staff (per-domain view)
 
 The Imperial infrastructure within any domain is staffed by a mix of three groups, distinguished by funding source and origin:
 
@@ -1365,7 +1364,7 @@ The Imperial infrastructure within any domain is staffed by a mix of three group
 
 3. **Locally-recruited ashigaru and peasants** - hired from the host domain's population, paid from the Imperial budget.  Handle physical, security, and unskilled labor (mounted patrol ashigaru, stable hands, kitchen staff, manor servants, road-maintenance specialists, ashigaru security at the IM's manor).
 
-For a median (vassal-house) Reiji-style domain - ~12 waystations within the domain (per the geographic divisor: ~5,000 waystations Empire-wide / ~400 median-size-equivalents of Empire land area = ~12.5 waystations per median ME of land), 6 provincial cities each with a yoriki sub-station, 1 Imperial Magistrate at the domain capital - the breakdown looks like:
+For a median (vassal-house) Reiji-style domain - ~12 waystations within the domain (per the geographic divisor: ~5,000 waystations Empire-wide / ~400 median domains of Empire land area = ~12.5 waystations per MD of land), 6 provincial cities each with a yoriki sub-station, 1 Imperial Magistrate at the domain capital - the breakdown looks like:
 
 | Imperial Infrastructure Location | Imperial Appointees | Locally-Detailed Clan Samurai (clan-paid) | Local Ashigaru + Peasants (Imperial-paid) | Total Staff |
 | --- | --- | --- | --- | --- |
@@ -1378,16 +1377,16 @@ So within the Reiji domain, approximately **86 Imperial appointees** are working
 
 Conversely, the Reiji domain commits approximately **39 of its own samurai** to locally-detailed Imperial-adjacent service: 3 at the IM's office in the capital (as manifest clerks) and ~36 across the waystations (as couriers, patrol leaders, and clerks).  At average ~Rank 3-4 (12 koku stipend), the clan budget burden for these detailed samurai is ~470 koku/year - a tiny fraction of Daimyo Hida no Reiji Isao's discretionary budget, but a continuing structural reminder of the domain's obligation to support Imperial infrastructure operating within its borders.  These postings are well-regarded among Reiji's samurai because working alongside Imperial appointees confers prestige, access to the Imperial Magistrate's court, and a documented record of competent service that can be cited in promotion considerations.
 
-**Note on the multipliers used in this breakdown**: per [The Two Empire-Wide Multipliers](#the-two-empire-wide-multipliers) above, this section uses **~400 ME** for waystations (geographic distribution by land area) and provincial-city sub-stations (sub-unit count), but **~284 actual domains** for the IM main office (one per the Emerald Charter) and for the samurai-pool quantities (outflow count, clan budget burden) discussed below.
+**Note on the multipliers used in this breakdown**: per [The Two Empire-Wide Multipliers](#the-two-empire-wide-multipliers) above, this section uses **~400 MD** for waystations (geographic distribution by land area) and provincial-city sub-stations (sub-unit count), but **~284 actual domains** for the IM main office (one per the Emerald Charter) and for the samurai-pool quantities (outflow count, clan budget burden) discussed below.
 
 Empire-wide totals (rough):
-- The ~86 appointees per median domain are NOT all aggregated with the same multiplier - each component uses the divisor appropriate to it (per [The Two Empire-Wide Multipliers](#the-two-empire-wide-multipliers)): the **24 waystation appointees** and **30 sub-station appointees** are geographic/sub-unit counts, so × ~400 ME = ~9,600 + ~12,000; the **32 IM-main-office appointees** are a per-actual-domain count, so × ~284 = ~9,100 at the median, rising to ~13,000 once larger capitals' bigger offices are included (per the scaling table above).  Total: ~9,600 + ~12,000 + ~13,000 = **~34,600 Imperial appointees** working in IM main offices, provincial sub-stations, and waystations Empire-wide.  (Multiplying the full 86 by 400 would happen to land near the same total only by coincidence - the correct method keeps the IM-office component on the ×284 divisor.)  Plus ~5,000-7,000 additional Imperial appointees in central roles (Emerald Champion's office, traveling IM force, OU judicial infrastructure, investigative units, and the much larger Imperial Legion cohort separately budgeted).
-- ~39 locally-detailed clan samurai per median ME × 400 = ~15,600 clan samurai Empire-wide in Imperial-adjacent support roles (clan-paid, distributed across all 7 Great Clans in proportion to their land area).
-- ~153 ashigaru and peasants per median ME × 400 = ~61,200 ashigaru and peasants Empire-wide working at Imperial facilities (Imperial-paid, locally recruited).
+- The ~86 appointees per median domain are NOT all aggregated with the same multiplier - each component uses the divisor appropriate to it (per [The Two Empire-Wide Multipliers](#the-two-empire-wide-multipliers)): the **24 waystation appointees** and **30 sub-station appointees** are geographic/sub-unit counts, so × ~400 MD = ~9,600 + ~12,000; the **32 IM-main-office appointees** are a per-actual-domain count, so × ~284 = ~9,100 at the median, rising to ~13,000 once larger capitals' bigger offices are included (per the scaling table above).  Total: ~9,600 + ~12,000 + ~13,000 = **~34,600 Imperial appointees** working in IM main offices, provincial sub-stations, and waystations Empire-wide.  (Multiplying the full 86 by 400 would happen to land near the same total only by coincidence - the correct method keeps the IM-office component on the ×284 divisor.)  Plus ~5,000-7,000 additional Imperial appointees in central roles (Emerald Champion's office, traveling IM force, OU judicial infrastructure, investigative units, and the much larger Imperial Legion cohort separately budgeted).
+- ~39 locally-detailed clan samurai per MD × 400 = ~15,600 clan samurai Empire-wide in Imperial-adjacent support roles (clan-paid, distributed across all 7 Great Clans in proportion to their land area).
+- ~153 ashigaru and peasants per MD × 400 = ~61,200 ashigaru and peasants Empire-wide working at Imperial facilities (Imperial-paid, locally recruited).
 
 For larger domains (the Lion, Crab, and Crane have substantially more land area per clan than the smaller clans; clan-capital and family-capital domains have larger IM offices), these per-domain figures scale up proportionally.  The clan-budget burden for locally-detailed samurai also scales: a Crane province with multiple family capitals and many vassal houses may have ~150-250 detailed clan samurai serving Imperial functions across the province's waystations and IM offices.
 
-#### Imperial Magistrate Cohort Total Aggregation
+#### Imperial magistrate cohort total aggregation
 
 Bringing together the Empire-wide totals for the Imperial Magistrate cohort:
 
@@ -1405,11 +1404,11 @@ This matches the ~3-4M Imperial Magistrate line shown under the Imperial Ministr
 
 **Historical justification**: Tang and Song central administration including the judiciary, central court bureaucracy, and Imperial inspector forces was probably ~15-20% of central revenue at peak.  Ming and Qing were closer to ~5-10% (their central administrations were structurally smaller).  Rokugan at ~9-11% sits between Ming/Qing norms and Tang/Song norms, which is consistent with the Empire's overall positioning as moderately more centralized than Ming/Qing but less centralized than Tang/Song.
 
-### Total Imperial Appointee Samurai: Empire-wide Synthesis
+### Total Imperial appointee samurai: Empire-wide synthesis
 
 The various Imperial appointee positions discussed across the line-item sections above sum to a substantial standing samurai population.  This section consolidates the count, traces how those positions are sourced (Imperial families vs Great Clans), and computes the per-domain "outflow" - how many of a typical Reiji-style domain's own samurai are themselves currently serving in Imperial posts elsewhere in the Empire.
 
-#### Empire-wide Tally of Imperial Appointee Samurai Positions
+#### Empire-wide tally of Imperial appointee samurai positions
 
 | Source / Function | Approximate Count | Budgeted Under |
 | --- | --- | --- |
@@ -1421,14 +1420,14 @@ The various Imperial appointee positions discussed across the line-item sections
 | Other Imperial Ministry of Works (Wall direct contributions, central public works engineering, granary infrastructure) | ~4,000 | Imperial Ministry of Works (central) |
 | Imperial Ministry of Rites (shugenja and ceremonial officials at Imperial shrines, mourning-period coordinators) | ~2,500 | Imperial Ministry of Rites |
 | Imperial Ministry of Retainers (Imperial princes in formal offices, central court samurai, ceremonial-court samurai) | ~4,000 | Imperial Ministry of Retainers |
-| Imperial Ministry of Revenue (Yasuki Taka's central office, salt-monopoly administration, commercial regulators) | ~1,500 | Imperial Ministry of Revenue |
+| Imperial Ministry of Revenue (The Imperial Treasurer's central office, salt-monopoly administration, commercial regulators) | ~1,500 | Imperial Ministry of Revenue |
 | Imperial Household (Emperor's personal staff, inner-palace samurai, palace guards) | ~2,500 | Imperial household |
 | Otosan Uchi local government (administering the ~1 million inhabitants of the Imperial capital) | ~6,000 | OU local government |
 | **Total** | **~91,500** | (round: **~90,000 Imperial appointee samurai positions Empire-wide**, with substantial uncertainty - the realistic range is ~80,000-100,000) |
 
 For scale: ~90,000 Imperial appointee samurai is approximately the size of a mid-tier Great Clan's working samurai population.  Phoenix and Dragon are in this range; Lion, Crab, and Crane each substantially exceed it.  The Imperial appointee cohort is structurally a "shadow clan" without territorial domains, drawn from across the actual clans plus the four Imperial families' supply.
 
-#### Source Distribution: Imperial Families vs Great Clans
+#### Source distribution: Imperial families vs Great Clans
 
 The ~90,000 positions are not sourced evenly across the Empire's samurai population.  Senior posts concentrate heavily in the Imperial families (Hantei, Seppun, Otomo, Miya); mid-tier and rank-and-file posts are overwhelmingly clan-drawn.  The structural reason is that the Imperial families' combined samurai population (~15,000-25,000 active) is too small to fill more than a sliver of the lower tiers even at high utilization.
 
@@ -1441,7 +1440,7 @@ The ~90,000 positions are not sourced evenly across the Empire's samurai populat
 
 The Imperial families are small (~75,000 samurai total across all four, per [l7r.md - Clan Populations](l7r.md#clan-populations)), and most of their samurai administer the Imperial families' own 9 domains rather than serving as Imperial appointees elsewhere - which is why they supply only ~6% (~5,300) of all Imperial appointee positions despite dominating the senior tier.  Seppun is the canonical default supplier for any senior Imperial post (per [l7r.md - The Ministry of War](l7r.md#the-ministry-of-war), "the leadership of the legions are usually from Imperial families, especially the Seppun"), but the family is small enough that it cannot fill every senior post even at high utilization - hence the ~25% cross-clan placements at the senior tier.
 
-#### Per-Domain Outflow: How Many of a Daimyo's Samurai Are Serving Elsewhere
+#### Per-domain outflow: how many of a daimyo's samurai are serving elsewhere
 
 For a typical Reiji-style vassal-house domain, the **~3,000 working samurai** (60% of the ~5,000 total) are distributed as follows.  Every one is counted **once, at Reiji** - including those serving the Empire elsewhere, who are *part of* the 3,000, not additional to it (this is what keeps the Empire-wide samurai share at exactly 2%):
 
@@ -1485,7 +1484,7 @@ This ~11% engagement figure is the structural cost (or, depending on perspective
 
 **Empire-wide cross-check**: ~300 outgoing per actual median domain × 284 domains = ~85,200 clan-supplied Imperial appointee positions.  Plus ~5,300 supplied by the Imperial families = ~90,500 - matching the ~91,500 Empire-wide total within rounding tolerance.  The structural balance is: each actual median domain contributes ~300 samurai to Empire-wide Imperial functions and hosts ~86 incoming Imperial appointees, with the Imperial families supplying the residual ~6% that closes the Empire-wide accounting.  Larger actual domains (clan capitals, family seats) contribute proportionally more outgoing samurai AND host proportionally more incoming Imperial appointees; the balance still holds in aggregate.
 
-### Imperial Savings: the "Wealth in Favors Owed" Model
+### Imperial savings: the "wealth in favors owed" model
 
 The Emperor typically maintains "savings" equivalent to roughly 80-120 million koku - two to three years of Imperial revenue in reserve.  This is in line with well-run premodern East Asian Imperial norms: Tang China at its fiscal peak held similar 2-3 year reserves; Song China sometimes accumulated many years' worth of central revenue in its Wealth Treasuries during particularly prosperous reigns; Qing China under the Yongzheng and Qianlong emperors held silver reserves equivalent to roughly two years of central revenue.  Maintaining substantial reserves was the historical default for any well-administered premodern empire, because commodity-money economies could not easily borrow at scale and faced periodic massive obligations (military campaigns, river-control works, famine relief) that ordinary annual revenue could not cover.
 
@@ -1510,7 +1509,7 @@ Both moves illustrate the structural point: an empire that runs on callable favo
 
 The principle is canonically illustrated in the following story of Hantei the Tenth, told and retold for centuries in Rokugan as a teaching about the nature of Imperial wealth:
 
-> After being named the first Imperial Treasurer, during a morning meeting with His Imperial Majesty, Yasuki Taka suggested that the Hantei Emperor was being too generous in the gifts and budgets allocated to his retainers.  Members of every clan were being given lavish budgets far above what they needed to fulfil their duties, well beyond the expected extra which would be needed to secure their gratitude and loyalty.  Taka proposed a "modest" reduction to shore up the Imperial treasury, indicating that he himself would propose an even more severe reduction but had deferred to the Hantei's legendary generosity in his more modest proposal.
+> After being named the first Imperial Treasurer, during a morning meeting with His Imperial Majesty, Yasuki Taka suggested that the Hantei Emperor was being overly generous in the gifts and budgets allocated to his retainers.  Members of every clan were being given lavish budgets far above what they needed to fulfil their duties, well beyond the expected extra which would be needed to secure their gratitude and loyalty.  Taka proposed a "modest" reduction to shore up the Imperial treasury, indicating that he himself would propose an even more severe reduction but had deferred to the Hantei's legendary generosity in his more modest proposal.
 >
 > Hantei the X considered this, and then named a reduction in budgets more significant than what Taka had proposed, asking what the size of his treasury would be had he established this reduction at the beginning of his reign.
 >
@@ -1520,19 +1519,13 @@ The principle is canonically illustrated in the following story of Hantei the Te
 >
 > A few more minutes passed, and the Miya heralds returned.  A quick calculation showed that the amount of money pledged was far higher than the increase in the Imperial treasury which Taka's proposal had purported to be worth.  Thus, the greatest money manager in the history of the Empire was humbled by the Hantei's wisdom.
 
-## Tax Pie
+## Land productivity
 
-![Annual tax revenue by settlement tier (typical domain, ~292,735 koku/year)](tax_pie.svg)
-
-A typical domain's ~292,735 koku/year tax base, broken down by where it comes from. The single capital city contributes less than a third of what the 1,296 hamlets contribute in aggregate, despite each hamlet paying only ~75 koku/year - the long tail of small settlements outweighs the head.
-
-## Land Productivity
-
-### Rice and Arable-Land Math
+### Rice and arable-land math
 
 The demographic figures throughout this document (population counts, koku-per-parcel output, rice-production totals) are anchored in real-world historical agricultural data, converted from Chinese units into Rokugan's koku-on-the-rice-standard.
 
-#### Historical Units
+#### Historical units
 
 A few units used in the conversion math:
 
@@ -1542,7 +1535,7 @@ A few units used in the conversion math:
 - A traditional reference figure: 3.33 shi of rice is enough to feed a person for a year
 - **1 koku is ~180 liters** (~48 US gallons, roughly 5 bushels).  The koku's weight depends on milling state: ~150 kg (~330 lb) as the *brown* rice (genmai) in which the *kokudaka* system was assessed (the canonical figure), ~136 kg (~300 lb) milled to polished white, and ~187 kg as unhulled paddy.  These standardized koku weights track one harvest losing husk then bran, so they descend across rough, brown, and milled rather than following raw bulk density.  The cross-conversion paths below convert weight to koku-volume at ~138 kg per koku - near the ~136 kg milled-koku weight and ~8% under the ~150 kg brown kokudaka koku; that weight-to-volume basis is separate from whether a path also strips milling mass-loss (Path A does, landing in polished terms; Path B does not, staying in unmilled kokudaka terms).  Either way, the ~8% slack is absorbed by the deliberately conservative round-number 3,000.
 
-#### Yield Reference
+#### Yield reference
 
 Real-world rice yields in twentieth-century Hunan China were 284.40 jin/mu (a weight, in the modern 0.5-kg jin) and 4.00 shi/mu (a volume, in the Tang ~59-litre dan) - both reported figures, each working out to about ~2.1 tons/hectare.  Two independent unit-conversion paths produce a koku-per-square-mile figure consistent with that yield, after applying the deflation factors appropriate to each path's starting figure.  (Path A converts the jin figure using the heavier *historical* catty rather than the modern jin it was measured in, which inflates the raw figure somewhat before milling loss is applied - one of the era-spanning approximations that make the two-path agreement a magnitude cross-check rather than an exact match.)
 
@@ -1577,7 +1570,7 @@ The two paths apply different implicit deflators because their starting points a
 
 The two paths land on ~3,000 to ~3,050 koku per square mile.  The agreement is approximate rather than exact - the two endpoints are not on quite the same basis (Path A lands at ~3,040 koku of *consumable, polished* rice, while Path B lands at ~3,000 in the *unmilled* kokudaka terms used everywhere else in these notes) - but that is precisely the value of running two independent derivations: starting from different real-world measurements and different conversion routes, they both land in the low thousands once each is reduced to realistic premodern terms - good reassurance that the Rokugani rice estimate is the right general magnitude rather than an artifact of one chain of assumptions.  Downstream calculations use the round-number ~3,000.  That is the more conservative anchor of the two, which suits an empire-wide average; it is also the figure that comes from Path B, whose starting point is a *modern* (post-Green-Revolution) yield - an industrial-era measurement, though of a still largely pre-industrial farming region - that has to be deflated heavily to reach premodern conditions, so leaning on its lower result while noting that the milling-adjusted Path A figure sits just above it (rather than far away) is the cautious reading.  In absolute terms 3,000 sits at the low end of premodern East Asian rice productivity, but the comparison depends on whether one means assessed or actual yield.  It is actually close to Tokugawa Japan's *assessed* prime-paddy grades (~1.1-1.5 koku/tan, or ~2,900-3,900 koku/sq mi); it reads as "low" mainly against *actual* harvests, since good Tokugawa paddies yielded ~4,500-5,500 koku/sq mi in practice (well above their assessment) and southern Chinese Yangtze-delta paddies could exceed 5,500 koku/sq mi at the Song-Ming peak.  A deliberately conservative empire-wide average like 3,000 is appropriate because it folds in Rokugan's many marginal-quality paddies in northern, mountain, and frontier regions alongside its prime southern rice country.
 
-#### Historical Household-Size Guidelines
+#### Historical household-size guidelines
 
 The same ancient Chinese sources provide some calibration on how much land a single household could work:
 
@@ -1590,14 +1583,14 @@ The same ancient Chinese sources provide some calibration on how much land a sin
 
 For comparative scale: early Ming China had approximately 40 million hectares of land under cultivation supporting a population of 65 million people.
 
-#### Rokugan Arable-Land Extrapolation
+#### Rokugan arable-land extrapolation
 
 Applying these yields to Rokugan's 1.5 million square miles:
 
 - **15% of Rokugan is arable**: approximately 225,000 square miles total, or ~560 square miles per median-sized domain.
 - **4% is suitable for rice farming**: approximately 60,000 square miles total, or ~150 square miles per median-sized domain.  This 4% figure follows imperial Chinese norms (historically ~3-5% of total area, depending on period); Tokugawa Japan's higher ~6% paddy share is not the right anchor for Rokugan, whose continental geography includes mountain ranges, arid borderlands, and frontier regions without close Japanese analogues.
 
-#### Total Rice Production
+#### Total rice production
 
 At an assumed density of 400 farmers per square mile across Rokugan's ~60,000 sq mi of rice-suitable land:
 
@@ -1619,7 +1612,7 @@ The 1/3 paddy utilization factor reflects the historical reality that wet-rice p
 
 Note that the 400 farmers/sq mi density is the upper bound, achievable in the best wet-rice paddies; the per-tier population breakdowns elsewhere in this document imply an effective average closer to 300 farmers/sq mi when rice and non-rice land are combined.  This reflects an important historical truth: in most periods and places, farm output was more limited by the number of farmers than the amount of good farmland, and even the prosperous Rokugan (where farming is a punishingly harsh lifestyle by modern standards while being idyllic compared to most historical periods) has large amounts of fallow land in every domain.  In comparative terms, Rokugan's rice-land-per-capita (~600 sq mi per million inhabitants) puts it in roughly the same range as Song and Ming China during their more prosperous and comfortable periods, well below the demographic squeeze of Tokugawa Japan (~310 sq mi per million) or late Qing China (~290-350 sq mi per million).  The Empire has substantial room for population growth into its existing arable base, and the long-run trajectory has been steady expansion: Rokugan a thousand years ago supported only a fraction of its current population, and even allowing for periodic famines and Shadowlands wars, the population continues to grow toward a carrying capacity it is still well short of.
 
-#### Other Per-Domain Derivations
+#### Other per-domain derivations
 
 A few smaller calculations that anchor the per-parcel and per-family numbers used elsewhere in this document:
 
@@ -1631,7 +1624,7 @@ A few smaller calculations that anchor the per-parcel and per-family numbers use
 
 **Government-officials count**: across a domain's 7 cities (one capital plus six provincial cities), each of the 6 Ministries has a Minister and a Deputy Minister, so `2 * 6 * 7 = 84 ministers and deputy ministers`.  Adding the 6 chancellors on the House council brings the domain's senior officialdom to roughly 90 samurai.  If each comes from a different immediate family, that represents about 9% of the domain's samurai families.
 
-### Unit Conversions: land area to rice koku
+### Unit conversions: land area to rice koku
 
 | Unit | Area | Yield (koku) |
 | --- | --- | --- |
@@ -1640,13 +1633,13 @@ A few smaller calculations that anchor the per-parcel and per-family numbers use
 | Mu | 1 | 0.77 |
 | Hectare | 1 | 11.58 |
 
-### Per-Family Reference
+### Per-family reference
 
 | Family | Acres | Koku |
 | --- | --- | --- |
 | 1 | 2 | 9.38 |
 
-### Farm Families by Tier (per Domain)
+### Farm families by tier (per domain)
 
 These are the farming households living inside each settlement type (per the caste percentages elsewhere in this document).  Capital and provincial cities have no in-walls farmers - the fertile land surrounding them is worked by villagers counted under the rural tiers.
 
@@ -1659,7 +1652,7 @@ These are the farming households living inside each settlement type (per the cas
 | Hamlet | 1,296 | 15 | 19,440 |
 | **Total** |  |  | **40,176** |
 
-### Arable Land Allocation (per Domain)
+### Arable land allocation (per domain)
 
 This table describes the **land available** in a median domain, not the land actively cropped in a given year (see the labor-limited note below).  Shares follow [Rokugan Arable-Land Extrapolation](#rokugan-arable-land-extrapolation): 15% of total land is arable, of which 4% (of total) is rice-suitable and the remaining 11% is non-rice arable.
 
@@ -1669,11 +1662,11 @@ This table describes the **land available** in a median domain, not the land act
 | Non-rice arable | 3,750 | 11% | 412.5 | 264,000 |
 | **Total arable** | 3,750 | 15% | 562.5 | 360,000 |
 
-**Note on labor utilization (not land utilization)**: Rokugan is currently **labor-limited, not land-limited** (per [Total Rice Production](#total-rice-production)).  Of the 150 sq mi of rice-suitable land in a median domain, only about **1/3 (~50 sq mi) is in active wet-paddy production** in any given year - that ~50 sq mi yields ~50 × 3,000 = **~150,000 koku of rice per median domain** (which is exactly the canonical empire-wide ~60M koku ÷ 400 median-size-equivalents).  The other ~2/3 of rice-suitable land, plus the non-rice arable, grows the supporting hillside soybean and azuki fields, dryland aftercrops and other Five Grains, a small share of upland rice in multi-year rotation, and a substantial portion left genuinely fallow because there are not enough farmers to work it.  The constraint is wet-paddy labor, not soil: an established paddy can be cropped continuously for centuries (the flooded field fixes nitrogen and silt renews nutrients), so the latent rice-suitable land would come under the plow as population grows.  The ~40,176 farm families of the domain (per [Farm Families by Tier](#farm-families-by-tier-per-domain) above) work this land; for tax purposes the median family's output is reckoned at ~15 koku (taxed at 1/3 = ~5 koku), per [l7r.md - Rent and taxes](l7r.md#rent-and-taxes).
+**Note on labor utilization (not land utilization)**: Rokugan is currently **labor-limited, not land-limited** (per [Total Rice Production](#total-rice-production)).  Of the 150 sq mi of rice-suitable land in a median domain, only about **1/3 (~50 sq mi) is in active wet-paddy production** in any given year - that ~50 sq mi yields ~50 × 3,000 = **~150,000 koku of rice per median domain** (which is exactly the canonical empire-wide ~60M koku ÷ 400 median domains).  The other ~2/3 of rice-suitable land, plus the non-rice arable, grows the supporting hillside soybean and azuki fields, dryland aftercrops and other Five Grains, a small share of upland rice in multi-year rotation, and a substantial portion left genuinely fallow because there are not enough farmers to work it.  The constraint is wet-paddy labor, not soil: an established paddy can be cropped continuously for centuries (the flooded field fixes nitrogen and silt renews nutrients), so the latent rice-suitable land would come under the plow as population grows.  The ~40,176 farm families of the domain (per [Farm Families by Tier](#farm-families-by-tier-per-domain) above) work this land; for tax purposes the median family's output is reckoned at ~15 koku (taxed at 1/3 = ~5 koku), per [l7r.md - Rent and taxes](l7r.md#rent-and-taxes).
 
 **Assessed kokudaka vs. actual output, and fallow land**: Rokugani land tax *and* feudal kick-ups are both reckoned on the **assessed** value of designated farmland - the *kokudaka* - not on each year's actual harvest, exactly as in Tokugawa Japan's *jomen* system.  The median domain's assessed kokudaka is **~602,640 koku** (the ~40,176 farm families x ~15 koku reckoned output), and this is the base against which the 1/3 land tax (~200,880) and every land-output kick-up are computed.  Because assessments are deliberately conservative and reassessed only infrequently, **actual gross output runs higher - on the order of ~775,000 koku of worked land in a good year** - and the surplus above the assessment is kept by the farmers (the very incentive that makes them work harder).  So ~775,000 is the actual physical harvest, not the obligation base: obligations ride on the ~602,640 assessment.  Fallow land follows the same logic.  The bulk of a domain's uncultivated land is **latent land that has never been designated or assessed** (the labor-limited margin - there are simply not enough farmers to work it), so it is **outside the kokudaka and untaxed**, which is why the assessed base sits so far below the land's theoretical ceiling.  Land that *was* once assessed and then falls fallow, by contrast, **stays on the rolls and keeps owing its tax** (removable only through a deliberately difficult formal wasteland reclassification) - the standing incentive to keep it cultivated, the reason magistrates and governors run reclamation projects (Japan's *shinden kaihatsu*, China's *kenhuang* wasteland-opening campaigns) to bring latent land onto the kokudaka, and the reason a merchant landholder may try to offload tax-burdened fallow plots on the domain's land market.
 
-### Rice Productivity by Land Quality
+### Rice productivity by land quality
 
 | Land | k/ha | k/mi² | P (share) | Proportional production | k/acre |
 | --- | --- | --- | --- | --- | --- |
@@ -1687,7 +1680,7 @@ This table describes the **land available** in a median domain, not the land act
 
 The land-quality shares sum to 1.00; the weighted-average ~3,300 koku/sq mi sits just above the ~3,000-3,050 two-path derivation in [Yield Reference](#yield-reference) - the same low-thousands magnitude - and downstream calculations use the conservative round-number 3,000 koku/sq mi.
 
-### Wheat Productivity by Land Quality
+### Wheat productivity by land quality
 
 | Land | bush/acre | bush/ha | bush/mi² | koku/ha | koku/mi² | koku/acre |
 | --- | --- | --- | --- | --- | --- | --- |
