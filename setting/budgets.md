@@ -20,6 +20,10 @@ Per-tier budget breakdowns for the median domain hierarchy, plus supporting tabl
   - [Populations outside named settlements](#populations-outside-named-settlements)
   - [Discretionary budgets](#discretionary-budgets)
 - [Samurai concentration by city size](#samurai-concentration-by-city-size)
+  - [The sub-linear scaling principle](#the-sub-linear-scaling-principle)
+  - [The by-size schedule](#the-by-size-schedule)
+  - [Otosan Uchi: ~40,000 samurai](#otosan-uchi-40000-samurai)
+  - [What this means for the median domain](#what-this-means-for-the-median-domain)
 - [Ministry budgets](#ministry-budgets)
   - [Domain ministry budgets](#domain-ministry-budgets)
   - [Provincial ministry budgets](#provincial-ministry-budgets)
@@ -240,7 +244,7 @@ Total population: **~12,000**.
 | Hamlet | 216 | 75 | 16200 |
 | **Named-settlement total** |  |  | 38940 |
 
-As with the [Domain population table](#domain) above, this sums only named settlements; the province's full population is slightly higher (~39,600), the small remainder being the same off-the-books peasantry explained under [Population Outside Named Settlements](#population-outside-named-settlements).
+As with the [Domain population table](#domain) above, this sums only named settlements; the province's full population is slightly higher (~39,600), the small remainder being the same off-the-books peasantry explained under [Population Outside Named Settlements](#populations-outside-named-settlements).
 
 ### Provincial city
 
@@ -285,7 +289,7 @@ Total population: **~2,000-4,000, average ~3,000**.
 | Hamlet | 36 | 75 | 2700 |
 | **Named-settlement total** |  |  | 5990 |
 
-As with the [Domain population table](#domain) above, this sums only named settlements; the county's full population is slightly higher (~6,100), the small remainder being the same off-the-books peasantry explained under [Population Outside Named Settlements](#population-outside-named-settlements).
+As with the [Domain population table](#domain) above, this sums only named settlements; the county's full population is slightly higher (~6,100), the small remainder being the same off-the-books peasantry explained under [Population Outside Named Settlements](#populations-outside-named-settlements).
 
 ### Town
 
@@ -1259,7 +1263,7 @@ Of the ~2,690 working *inside* Reiji, ~39 are clan samurai the daimyo details to
 | As Imperial yoriki and household samurai at other domains' IM main offices | ~27 | Cross-clan tours in IM-office yoriki roles, working under senior IMs (mostly Seppun or cross-clan senior placements); at the senior tier, Reiji's contribution is reduced (~25% of senior IM/karo posts are clan-supplied, with the bulk going to Seppun and the other Imperial Families) |
 | As Imperial yoriki at provincial sub-stations in other domains | ~27 | Cross-clan rotating tours; a Reiji samurai might serve 3-5 years auditing tariff collection in (say) a Lion province before returning home |
 | As Imperial appointees at waystations in other domains (mix of relay-masters and waystation yoriki) | ~26 | Spread across waystation roles in non-Reiji parts of the Empire |
-| In central Imperial roles in Otosan Uchi (OU local government, central court samurai, central judicial machinery, central ministries other than the IM cohort field roles) | ~50 | Imperial-paid central posts physically located at the capital.  These ~50 are the Imperial-post component of Reiji's ~100-strong total OU presence (the rest being the ~38 clan-paid embassy and ~12 private samurai - see [Samurai Concentration by City Size and the Capital](#samurai-concentration-by-city-size-and-the-capital)).  Central roles favor the Imperial Families more heavily, but the absolute clan share is still substantial |
+| In central Imperial roles in Otosan Uchi (OU local government, central court samurai, central judicial machinery, central ministries other than the IM cohort field roles) | ~50 | Imperial-paid central posts physically located at the capital.  These ~50 are the Imperial-post component of Reiji's ~100-strong total OU presence (the rest being the ~38 clan-paid embassy and ~12 private samurai - see [Samurai Concentration by City Size and the Capital](#samurai-concentration-by-city-size)).  Central roles favor the Imperial Families more heavily, but the absolute clan share is still substantial |
 | In other Imperial ministries' field operations (Works engineering, Rites ceremonial, Revenue inspection) | ~3 | Specialized assignments matched to a samurai's particular skills (e.g. an unusually skilled stonemason posted to Wall-construction supervision under Min of Works) |
 | **Total Reiji samurai in Imperial service elsewhere** | **~216** | |
 
