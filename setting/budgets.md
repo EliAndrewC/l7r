@@ -10,16 +10,16 @@ Per-tier budget breakdowns for the median domain hierarchy, plus supporting tabl
 - [Samurai rank distribution](#samurai-rank-distribution)
 - [The two Empire-wide multipliers](#the-two-empire-wide-multipliers)
 - [Domain](#domain)
-  - [Population outside named settlements](#population-outside-named-settlements)
+  - [Province](#province)
+  - [County](#county)
+  - [Capital city](#capital-city)
+  - [Provincial city](#provincial-city)
+  - [Town](#town)
+  - [Village](#village)
+  - [Hamlet](#hamlet)
+  - [Populations outside named settlements](#populations-outside-named-settlements)
   - [Discretionary budgets](#discretionary-budgets)
-- [Province](#province)
-- [County](#county)
-- [Capital city](#capital-city)
-- [Provincial city](#provincial-city)
-- [Town](#town)
-- [Village](#village)
-- [Hamlet](#hamlet)
-- [Samurai concentration by city size and the capital](#samurai-concentration-by-city-size-and-the-capital)
+- [Samurai concentration by city size](#samurai-concentration-by-city-size)
 - [Ministry budgets](#ministry-budgets)
   - [Domain ministry budgets](#domain-ministry-budgets)
   - [Provincial ministry budgets](#provincial-ministry-budgets)
@@ -184,6 +184,8 @@ The most common arithmetic mistake is **multiplying a sub-unit count by 284 inst
 
 ## Domain
 
+This section breaks down the total population for the median domain at a high level, and the following subsections each correspond to different administrative areas and population centers.
+
 | Place | N | Pop each | Total Pop |
 | --- | --- | --- | --- |
 | Capital city | 1 | 12360 | 12360 |
@@ -193,55 +195,7 @@ The most common arithmetic mistake is **multiplying a sub-unit count by 284 inst
 | Hamlet | 1296 | 75 | 97200 |
 | **Named-settlement total** |  |  | 246000 |
 
-### Population outside named settlements
-
-**Named-settlement total vs. the full domain**: the table above sums only the *named settlements* (capital, provincial cities, county towns, villages, hamlets), which come to ~246,000.  The domain's full **real** population is **~250,000** (1/400 of the Empire's 100 million); the ~4,000 difference (~1.6% of the domain) is **peasants living outside any named settlement AND outside the magistrate's notice** - households on plots too marginal, too remote, or too newly-cleared to have been entered on the tax rolls at all.  So ~246,000 counted-and-settled inhabitants plus ~4,000 off-the-books peasants reconciles to the canonical ~250,000, and the property 250,000 = 100,000,000 ÷ 400 holds for the domain as a whole.  (The 250,000 is a real headcount, not a registered figure - the off-the-books ~1.6% is included in it; it is simply invisible to the domain's own administration.)
-
-**Why the remainder is peasants and not samurai**: it is purely peasants because of an accounting convention.  A small isolated farm that is *taxed at all* is tallied under whichever village or hamlet district lies nearest, even when the holding is so remote that it is really its own separate thing.  Its output, and the people it supports, are folded into that district's total as a bookkeeping convenience.  Samurai country estates are a separate matter; the ~560 samurai who live on country estates rather than in the cities and towns - the L7R analogue of the rural *gōshi* who remained on the land after the separation of warrior and peasant (*heinō bunri*) concentrated most samurai into castle towns - together with their households and the tenant farmers who work their land, are already inside the ~246,000 (tallied into the surrounding village districts) and already inside the domain's ~5,000 samurai (see [What the Samurai Counts Mean](#what-the-samurai-counts-mean)).  What is left in the ~1.6% is only the genuinely *untaxed* population: peasants the domain administration has never registered.
-
-**Why ~1.6% fits historical norms**: a small off-the-books remainder of this size is well within historical norms, and 1.6% is deliberately at the *low* end of the plausible band because Rokugan is portrayed as an unusually well-administered state.  Two historical patterns set the bounds.  First, **nucleated settlement**: Tokugawa Japan was organized almost entirely around the *mura* (the village as a registered corporate unit), and the wet-rice cores of Ming and Qing China were similar - paddy cultivation rewards clustered labor, so nearly everyone belonged to a named village even when their fields were scattered, and genuinely isolated farmsteads were the exception rather than the rule.  This is why the *taxed* dispersed population is small enough to fold into the district totals rather than forming a population of its own.  Second, **under-registration and non-state space**: every premodern register undercounted.  Tokugawa enumerations ran well below the true population; hidden fields (*kakushida*) concealed from the cadastral surveyors were a chronic problem; Qing baojia coverage in practice could fall far below its nominal 100%; and James C. Scott's "non-state spaces" (uplands, marshes, forests) sheltered people the state could not easily count - though those usually lay *beyond* a polity's effective reach rather than deep inside a well-run core.  A poorly-administered or frontier domain might carry a genuinely uncounted fringe of 5-10% or more; Rokugan, being unusually well-run, sits near the floor at ~1.6%.  That is small enough to be the exception rather than the rule, but nonzero - which is the point: it leaves just enough room for player characters to stumble on a cluster of non-state peasants the local magistrate has never heard of, and for that discovery to register, in-setting, as the genuine irregularity it is.
-
-The capital's ~12,360 is its settled ~12,000 plus the ~360 non-working samurai whose families have relocated there from the domain's county towns (see the [Town](#town) and [Capital City](#capital-city) caste tables); the county towns are correspondingly lighter (~1,190 each, down from ~1,200).  Total domain population and the entire tax base are unchanged - this is a redistribution of samurai *within* the domain, and samurai pay no property taxes on their homes, so no settlement's tax base moves.
-
-### Discretionary budgets
-
-| Tier | Per domain | Discretionary funds |
-| --- | --- | --- |
-| Daimyo | 1 | ~64,000 |
-| Provincial governor | 6 | ~11,000 |
-| County magistrate | 36 | ~1,100 |
-
-Some notes about these figures:
-
-- **Costs** the discretionary income at each level is what is left over after the cost of samurai compensation, ministry overhead (where applicable), servants, supplies, and miscellaneous operations.  At the domain tier: ~32,000 koku for capital samurai stipends + food + equipment (the ~800 working capital samurai the daimyo actually pays) + ~50,000 koku for domain ministry overhead, etc.  At the province tier: ~4,500 koku for provincial samurai stipends (~225 working samurai) + ~5,000 provincial ministry overhead + ~30 servants/supplies.  At the county tier: ~225 koku for samurai stipends + funding for the county's ~200 ashigaru, etc; counties have no ministry overhead because the magistrate IS the institution.  A full breakdown of these costs for each level can be found in the corresponding section below. 
-- **Discretionary funds** is the office-holder's income from tax farming, gifts, and (for the daimyo) tariffs, minus costs - slightly above the bare tax-farming cut.  The table shows these gift-inclusive totals: the daimyo's ~64,000 (a ~58,000 median tax-farming cut plus ~6,000 in gifts), the governor's ~11,000 (a ~10,000 cut plus ~1,000 in gifts, matching the Asuka example below), and the magistrate's ~1,100 (a ~1,000 cut plus gifts, matching the Hikai example below).  The underlying cut is the canonical figure that defines each post's value: the county magistrate's ~1,000 is a fairly reliable rule of thumb which only varies for counties with poor farmland or a noteworthy local industry; a provincial governor's ~10,000 koku has slightly more variance, especially among provinces with e.g. rich natural resources or a smaller number of counties; and the domain daimyo's ~58,000 is only a rough median, with actual cuts ranging from ~35,000 (poor frontier domains) to ~115,000+ (wealthy domain capitals) and structural factors like Hida-vassal status (~71,000 for the Reiji example documented below) creating additional variation.  A portion of the cut is a **hidden Imperial subsidy to the clans**: because the Empire pays the ~216 of each domain's working samurai who serve in Imperial posts (legions, cross-clan yoriki, central court), the daimyo's stipend outlay is ~7,200 lower than his in-domain headcount alone would imply, and that saving flows to his discretionary cut (documented in the [Imperial Legions](#imperial-legions-line-item-detail) section).
-- **Kick-ups** are not mentioned here specifically as this table does not include or break down costs, but it is worth mentioning the funds which flow out of the domain to Family, Clan, and Imperial recipients per the structural kick-up chain (see [The Ministry of Revenue](l7r.md#the-ministry-of-revenue) for the rate structure).  In particular, it is important to understand that only the domain tier pays kick-ups directly; counties and provinces pass their tax obligations upward through the cascade rather than paying kick-ups themselves.  The ~114,800 kick-up at the domain tier is composed of ~60,300 (10% of land output, against the ~602,640-koku assessed kokudaka per median domain - the obligation base; actual gross output is higher, with the surplus kept by farmers, per the assessed-kokudaka note under [Land Productivity](#land-productivity)) + ~54,500 (10% of imported-goods trade volume, against ~545,000 koku of median-domain imported-goods sales - itself ~312,000 in provincial-city trade plus ~233,000 at the capital gate), reflecting the standard non-Hida-vassal rates.  Aggregating this kick-up Empire-wide is **mixed-basis**: the land-output and provincial-tariff portions scale × 400, the capital-tariff portion × 284 (see [The two Empire-wide multipliers](#the-two-empire-wide-multipliers)).  Coastal trade-hub domains run substantially higher tariff volumes and pull the true Empire-wide *mean* above this figure, but these per-domain aggregations use the *median* domain throughout (the median is the unit used throughout this document; see [The Two Empire-Wide Multipliers](#the-two-empire-wide-multipliers)).
-- **Empire-wide totals**: across the ~284 actual domains, total throughput is ~168 million koku/year, of which ~43 million flows out as kick-ups (~21.6M to the Imperial center and ~21.6M to Family and Clan daimyo) and the remaining ~124 million stays within the domains (operations plus discretionary income at every tier).  Most of this scales × 400 with land and provinces; only the capital-tariff portion of the kick-up scales × 284 (see [The two Empire-wide multipliers](#the-two-empire-wide-multipliers)).
-
-## Province
-
-| Place | N | Pop each | Total Pop |
-| --- | --- | --- | --- |
-| Provincial city | 1 | 3000 | 3000 |
-| Town | 6 | 1190 | 7140 |
-| Village | 36 | 350 | 12600 |
-| Hamlet | 216 | 75 | 16200 |
-| **Named-settlement total** |  |  | 38940 |
-
-As with the [Domain population table](#domain) above, this sums only named settlements; the province's full population is slightly higher (~39,600), the small remainder being the same off-the-books peasantry explained under [Population Outside Named Settlements](#population-outside-named-settlements).
-
-## County
-
-| Place | N | Pop each | Total Pop |
-| --- | --- | --- | --- |
-| Town | 1 | 1190 | 1190 |
-| Village | 6 | 350 | 2100 |
-| Hamlet | 36 | 75 | 2700 |
-| **Named-settlement total** |  |  | 5990 |
-
-As with the [Domain population table](#domain) above, this sums only named settlements; the county's full population is slightly higher (~6,100), the small remainder being the same off-the-books peasantry explained under [Population Outside Named Settlements](#population-outside-named-settlements).
-
-## Capital city
+### Capital city
 
 Total population: **~12,000**.
 
@@ -276,7 +230,19 @@ Total population: **~12,000**.
 
 **Samurai composition note**: the capital's settled-population breakdown (~12,000) shows ~1,200 domestic samurai (10%), but its true resident samurai count is higher because the capital is the domain's schooling-and-retirement magnet.  Adding the **~360 non-working samurai whose families relocate here from the domain's county towns** (children sent to the capital's schools, elders retiring near the daimyo's court) brings the domestic total to **~1,560**, and the ~1,200 base itself is ~800 working (the cohort the daimyo pays, per [Samurai rank distribution](#samurai-rank-distribution)) plus ~400 non-working (children, retirees, and the families of the ~150 capital-born samurai serving the Empire abroad).  So the capital's resident domestic samurai run **~1,560 (~13% of its ~12,360 physical population)** - the highest samurai concentration of any settlement tier, exactly as a daimyo's castle-town seat should be (provincial cities sit at ~10%, county towns at ~1.7%, and the great mega-cities fall back toward ~4-6% as commerce dilutes them).  The working share is correspondingly low (~800 of ~1,560 ≈ 51%) because so many of the residents are dependents.  The **~45 foreign samurai** are the Imperial Magistrate's office (the IM, karo, ~5 household, ~25 office yoriki, plus ~12 accompanying family) - resident but paid by the Empire and their own home domains, not by Daimyo Isao.  Both the relocated and foreign cohorts are listed *additional* to the 12,000-person settled-population breakdown; with them the capital physically holds ~12,400 people.
 
-## Provincial city
+### Province
+
+| Place | N | Pop each | Total Pop |
+| --- | --- | --- | --- |
+| Provincial city | 1 | 3000 | 3000 |
+| Town | 6 | 1190 | 7140 |
+| Village | 36 | 350 | 12600 |
+| Hamlet | 216 | 75 | 16200 |
+| **Named-settlement total** |  |  | 38940 |
+
+As with the [Domain population table](#domain) above, this sums only named settlements; the province's full population is slightly higher (~39,600), the small remainder being the same off-the-books peasantry explained under [Population Outside Named Settlements](#population-outside-named-settlements).
+
+### Provincial city
 
 Total population: **~2,000-4,000, average ~3,000**.
 
@@ -310,7 +276,18 @@ Total population: **~2,000-4,000, average ~3,000**.
 
 **Samurai composition note**: the 10% domestic samurai (~300) break down as ~225 working (the cohort the governor pays) plus ~75 non-working (children, retirees, and resident families of the ~25 provincial-born samurai serving the Empire abroad).  The **~5 foreign samurai** are the small Imperial yoriki sub-station that audits tariff collection at the provincial city's gate - resident but Empire-paid, listed additional to the 3,000-person settled-population breakdown.
 
-## Town
+### County
+
+| Place | N | Pop each | Total Pop |
+| --- | --- | --- | --- |
+| Town | 1 | 1190 | 1190 |
+| Village | 6 | 350 | 2100 |
+| Hamlet | 36 | 75 | 2700 |
+| **Named-settlement total** |  |  | 5990 |
+
+As with the [Domain population table](#domain) above, this sums only named settlements; the county's full population is slightly higher (~6,100), the small remainder being the same off-the-books peasantry explained under [Population Outside Named Settlements](#population-outside-named-settlements).
+
+### Town
 
 Total population: **~900-1,500, average ~1,200**.
 
@@ -346,7 +323,7 @@ Total population: **~900-1,500, average ~1,200**.
 
 **Samurai composition note**: a county town holds only ~20 resident samurai, of which ~15 are working (the magistrate and their staff - a full platoon) and only ~5 are non-working.  This is a far higher working share (~75%) than any city, because **county samurai families largely do not live in the remote county seat**; children are sent up-tier to the provincial city or domain capital for schooling, and elders retire to those places, so the dependents who would otherwise pad the count reside in those larger centers (see the [Capital City](#capital-city) note).  The ~10 family members per town who relocate up account for the ~360-per-domain shift that lifts the capital's resident samurai to ~13%.  The town's tax base (~1,603) is unchanged - samurai pay no property taxes on their homes, so their relocation does not move it.
 
-## Village
+### Village
 
 Total in-village population: **~200-500, average ~350**.
 
@@ -359,7 +336,7 @@ Total in-village population: **~200-500, average ~350**.
 | 5 | farmer, wealthy landowner | 17.5 | 3.5 | 0 | 0 | 5 | 17.5 |
 | 100 | Total | 350 | 70 |  |  |  | 350 |
 
-## Hamlet
+### Hamlet
 
 Total population: **~50-100, average ~75**.
 
@@ -372,7 +349,34 @@ Total population: **~50-100, average ~75**.
 | 5 | farmer, wealthy landowner | 3.75 | 0.75 | 0 | 0 | 5 | 3.75 |
 | 100 | Total | 75 | 15 |  |  |  | 75 |
 
-## Samurai concentration by city size and the capital
+### Populations outside named settlements
+
+**Named-settlement total vs. the full domain**: the sections above count only the *named settlements* (capital, provincial cities, county towns, villages, hamlets), which come to ~246,000.  The domain's full **real** population is **~250,000** (1/400 of the Empire's 100 million); the ~4,000 difference (~1.6% of the domain) is **peasants living outside any named settlement AND outside the magistrate's notice** - households on plots too marginal, too remote, or too newly-cleared to have been entered on the tax rolls at all.  So ~246,000 counted-and-settled inhabitants plus ~4,000 off-the-books peasants reconciles to the canonical ~250,000, and the property 250,000 = 100,000,000 ÷ 400 holds for the domain as a whole.  (The 250,000 is a real headcount, not a registered figure - the off-the-books ~1.6% is included in it; it is simply invisible to the domain's own administration.)
+
+**Why the remainder is peasants and not samurai**: it is purely peasants because of an accounting convention.  A small isolated farm that is *taxed at all* is tallied under whichever village or hamlet district lies nearest, even when the holding is so remote that it is really its own separate thing.  Its output, and the people it supports, are folded into that district's total as a bookkeeping convenience.  Samurai country estates are a separate matter; the ~560 samurai who live on country estates rather than in the cities and towns - the L7R analogue of the rural *gōshi* who remained on the land after the separation of warrior and peasant (*heinō bunri*) concentrated most samurai into castle towns - together with their households and the tenant farmers who work their land, are already inside the ~246,000 (tallied into the surrounding village districts) and already inside the domain's ~5,000 samurai (see [What the Samurai Counts Mean](#what-the-samurai-counts-mean)).  What is left in the ~1.6% is only the genuinely *untaxed* population: peasants the domain administration has never registered.
+
+**Why ~1.6% fits historical norms**: a small off-the-books remainder of this size is well within historical norms, and 1.6% is deliberately at the *low* end of the plausible band because Rokugan is portrayed as an unusually well-administered state.  Two historical patterns set the bounds.  First, **nucleated settlement**: Tokugawa Japan was organized almost entirely around the *mura* (the village as a registered corporate unit), and the wet-rice cores of Ming and Qing China were similar - paddy cultivation rewards clustered labor, so nearly everyone belonged to a named village even when their fields were scattered, and genuinely isolated farmsteads were the exception rather than the rule.  This is why the *taxed* dispersed population is small enough to fold into the district totals rather than forming a population of its own.  Second, **under-registration and non-state space**: every premodern register undercounted.  Tokugawa enumerations ran well below the true population; hidden fields (*kakushida*) concealed from the cadastral surveyors were a chronic problem; Qing baojia coverage in practice could fall far below its nominal 100%; and James C. Scott's "non-state spaces" (uplands, marshes, forests) sheltered people the state could not easily count - though those usually lay *beyond* a polity's effective reach rather than deep inside a well-run core.  A poorly-administered or frontier domain might carry a genuinely uncounted fringe of 5-10% or more; Rokugan, being unusually well-run, sits near the floor at ~1.6%.  That is small enough to be the exception rather than the rule, but nonzero - which is the point: it leaves just enough room for player characters to stumble on a cluster of non-state peasants the local magistrate has never heard of, and for that discovery to register, in-setting, as the genuine irregularity it is.
+
+The capital's ~12,360 is its settled ~12,000 plus the ~360 non-working samurai whose families have relocated there from the domain's county towns (see the [Town](#town) and [Capital City](#capital-city) caste tables); the county towns are correspondingly lighter (~1,190 each, down from ~1,200).  Total domain population and the entire tax base are unchanged - this is a redistribution of samurai *within* the domain, and samurai pay no property taxes on their homes, so no settlement's tax base moves.
+
+### Discretionary budgets
+
+Before diving into the much more detailed budgets below, here is a rough summary of the annual "discretionary" funds available to the people in charge at each of these levels:
+
+| Tier | Per domain | Discretionary funds |
+| --- | --- | --- |
+| Daimyo | 1 | ~64,000 |
+| Provincial governor | 6 | ~11,000 |
+| County magistrate | 36 | ~1,100 |
+
+Some notes about these figures:
+
+- **Costs** the discretionary income at each level is what is left over after the cost of samurai compensation, ministry overhead (where applicable), servants, supplies, and miscellaneous operations.  At the domain tier: ~32,000 koku for capital samurai stipends + food + equipment (the ~800 working capital samurai the daimyo actually pays) + ~50,000 koku for domain ministry overhead, etc.  At the province tier: ~4,500 koku for provincial samurai stipends (~225 working samurai) + ~5,000 provincial ministry overhead + ~30 servants/supplies.  At the county tier: ~225 koku for samurai stipends + funding for the county's ~200 ashigaru, etc; counties have no ministry overhead because the magistrate IS the institution.  A full breakdown of these costs for each level can be found in the corresponding section below. 
+- **Discretionary funds** is the office-holder's income from tax farming, gifts, and (for the daimyo) tariffs, minus costs - slightly above the bare tax-farming cut.  The underlying cut is the canonical figure that defines each post's value: the county magistrate's ~1,000 is a fairly reliable rule of thumb which only varies for counties with poor farmland or a noteworthy local industry; a provincial governor's ~10,000 koku has slightly more variance, especially among provinces with e.g. rich natural resources or a smaller number of counties; and the domain daimyo's ~64,000 is only a rough average, with actual cuts ranging from ~35,000 (poor frontier domains) to ~115,000+ (wealthy domain capitals) and structural factors like ruling-Family-vassal status (~71,000 for the Reiji example documented below) creating additional variation.  A portion of the cut is a **hidden Imperial subsidy to the clans**: because the Empire pays the ~216 of each domain's working samurai who serve in Imperial posts (legions, cross-clan yoriki, central court), the daimyo's stipend outlay is ~7,200 lower than his in-domain headcount alone would imply, and that saving flows to his discretionary cut (documented in the [Imperial Legions](#imperial-legions-line-item-detail) section).
+- **Kick-ups** are not mentioned here specifically as this table does not include or break down costs, but it is worth mentioning the funds which flow out of the domain to Family, Clan, and Imperial recipients per the structural kick-up chain (see [The Ministry of Revenue](l7r.md#the-ministry-of-revenue) for the rate structure).  In particular, it is important to understand that only the domain tier pays kick-ups directly; counties and provinces pass their tax obligations upward through the cascade rather than paying kick-ups themselves.  The ~114,800 kick-up at the domain tier is composed of ~60,300 (10% of land output, against the ~602,640-koku assessed kokudaka per median domain - the obligation base; actual gross output is higher, with the surplus kept by farmers, per the assessed-kokudaka note under [Land Productivity](#land-productivity)) + ~54,500 (10% of imported-goods trade volume, against ~545,000 koku of median-domain imported-goods sales - itself ~312,000 in provincial-city trade plus ~233,000 at the capital gate), reflecting the standard non-Hida-vassal rates.  Aggregating this kick-up Empire-wide is **mixed-basis**: the land-output and provincial-tariff portions scale × 400, the capital-tariff portion × 284 (see [The two Empire-wide multipliers](#the-two-empire-wide-multipliers)).  Coastal trade-hub domains run substantially higher tariff volumes and pull the true Empire-wide *mean* above this figure, but these per-domain aggregations use the *median* domain throughout (the median is the unit used throughout this document; see [The Two Empire-Wide Multipliers](#the-two-empire-wide-multipliers)).
+- **Empire-wide totals**: across the ~284 actual domains, total throughput is ~168 million koku/year, of which ~43 million flows out as kick-ups (~21.6M to the Imperial center and ~21.6M to Family and Clan daimyo) and the remaining ~124 million stays within the domains (operations plus discretionary income at every tier).  Most of this scales × 400 with land and provinces; only the capital-tariff portion of the kick-up scales × 284 (see [The two Empire-wide multipliers](#the-two-empire-wide-multipliers)).
+
+## Samurai concentration by city size
 
 The per-tier caste tables in [`l7r.md` - Demographics](l7r.md#demographics) establish that samurai are ~2% of the Empire's total population (~5,000 per median domain).  But this 2% is not distributed evenly across settlement types, and the way it varies with city size is structurally important both for understanding the Empire and for computing the samurai population of Otosan Uchi.
 
@@ -403,7 +407,7 @@ Combining the sub-linear principle with the canonical caste tables produces the 
 | Settlement | Population | Samurai % | Resident samurai (approx) |
 | --- | --- | --- | --- |
 | Hamlet / village | 75-500 | 0% | 0 |
-| County town | ~1,190 | ~1.7% | ~20 |
+| County town | ~1,200 | ~1.7% | ~20 |
 | Provincial city | ~3,000 | ~10% | ~300 |
 | Median domain capital | ~12,400 | ~13% | ~1,560 |
 | Mid-size capital | ~30,000-90,000 | ~8-9% | ~2,500-7,500 |
