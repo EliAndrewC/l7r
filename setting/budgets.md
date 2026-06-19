@@ -12,17 +12,14 @@ Per-tier budget breakdowns for the median domain hierarchy, plus supporting tabl
 - [Domain](#domain)
   - [Population outside named settlements](#population-outside-named-settlements)
   - [Samurai](#samurai)
-  - [Budget](#budget)
   - [Combined budgets](#combined-budgets)
 - [Province](#province)
   - [Samurai](#samurai-1)
-  - [Budget](#budget-1)
   - [Tax farming cost by tier](#tax-farming-cost-by-tier)
 - [County](#county)
   - [Samurai](#samurai-2)
   - [Skilled ashigaru](#skilled-ashigaru)
   - [Ashigaru](#ashigaru)
-  - [Budget](#budget-2)
 - [Capital city](#capital-city)
 - [Provincial city](#provincial-city)
 - [Town](#town)
@@ -193,14 +190,14 @@ The most common arithmetic mistake is **multiplying a sub-unit count by 284 inst
 
 ## Domain
 
-| Place | N | T | P | Total Tax | Total Pop |
-| --- | --- | --- | --- | --- | --- |
-| Capital city | 1 | 24888 | 12360 | 24888 | 12360 |
-| Provincial city | 6 | 6222 | 3000 | 37332 | 18000 |
-| Town | 36 | 1603.2 | 1190 | 57715 | 42840 |
-| Village | 216 | 350 | 350 | 75600 | 75600 |
-| Hamlet | 1296 | 75 | 75 | 97200 | 97200 |
-| **Named-settlement total** |  |  |  | 292735 | 246000 |
+| Place | N | Pop each | Total Pop |
+| --- | --- | --- | --- |
+| Capital city | 1 | 12360 | 12360 |
+| Provincial city | 6 | 3000 | 18000 |
+| Town | 36 | 1190 | 42840 |
+| Village | 216 | 350 | 75600 |
+| Hamlet | 1296 | 75 | 97200 |
+| **Named-settlement total** |  |  | 246000 |
 
 ### Population outside named settlements
 
@@ -210,35 +207,18 @@ The most common arithmetic mistake is **multiplying a sub-unit count by 284 inst
 
 **Why ~1.6% fits historical norms**: a small off-the-books remainder of this size is well within historical norms, and 1.6% is deliberately at the *low* end of the plausible band because Rokugan is portrayed as an unusually well-administered state.  Two historical patterns set the bounds.  First, **nucleated settlement**: Tokugawa Japan was organized almost entirely around the *mura* (the village as a registered corporate unit), and the wet-rice cores of Ming and Qing China were similar - paddy cultivation rewards clustered labor, so nearly everyone belonged to a named village even when their fields were scattered, and genuinely isolated farmsteads were the exception rather than the rule.  This is why the *taxed* dispersed population is small enough to fold into the district totals rather than forming a population of its own.  Second, **under-registration and non-state space**: every premodern register undercounted.  Tokugawa enumerations ran well below the true population; hidden fields (*kakushida*) concealed from the cadastral surveyors were a chronic problem; Qing baojia coverage in practice could fall far below its nominal 100%; and James C. Scott's "non-state spaces" (uplands, marshes, forests) sheltered people the state could not easily count - though those usually lay *beyond* a polity's effective reach rather than deep inside a well-run core.  A poorly-administered or frontier domain might carry a genuinely uncounted fringe of 5-10% or more; Rokugan, being unusually well-run, sits near the floor at ~1.6%.  That is small enough to be the exception rather than the rule, but nonzero - which is the point: it leaves just enough room for player characters to stumble on a cluster of non-state peasants the local magistrate has never heard of, and for that discovery to register, in-setting, as the genuine irregularity it is.
 
-The capital's ~12,360 is its settled ~12,000 plus the ~360 non-working samurai whose families have relocated there from the domain's county towns (see the [Town](#town) and [Capital City](#capital-city) caste tables); the county towns are correspondingly lighter (~1,190 each, down from ~1,200).  Total domain population and the entire tax base are unchanged - this is a redistribution of samurai *within* the domain, and samurai pay no property taxes on their homes, so no settlement's Total Tax moves.
+The capital's ~12,360 is its settled ~12,000 plus the ~360 non-working samurai whose families have relocated there from the domain's county towns (see the [Town](#town) and [Capital City](#capital-city) caste tables); the county towns are correspondingly lighter (~1,190 each, down from ~1,200).  Total domain population and the entire tax base are unchanged - this is a redistribution of samurai *within* the domain, and samurai pay no property taxes on their homes, so no settlement's tax base moves.
 
 ### Samurai
 
 | Place | N | P | Stipend | Food | Housing | Equipment | Other | Population | Payroll | Total Food | Total Housing | Total Equipment | Total Cost |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Capital city | 1 | 800 | 35 | 3 | 0 | 2 | 0 | 800 | 28000 | 2400 | 0 | 1600 | 32000 |
-| Provincial city | 0 | 225 | 15 | 3 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Town | 0 | 0 | 10 | 3 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Village | 0 | 0 | 10 | 3 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Hamlet | 0 | 0 | 10 | 3 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | **Total** |  |  |  |  |  |  |  | 800 | 28000 | 2400 | 0 | 1600 | 32000 |
-
-### Budget
-
-| Category | Expense |
-| --- | --- |
-| Staff | 1000 |
-| Samurai | 32000 |
-| Ashigaru | 0 |
-| Servants | 240 |
-| Supplies | 120 |
-| **Total** | 33360 |
-
-**Note on what this table covers**: these simple per-tier Budget tables (here and under [Province](#budget-1) and [County](#budget-2)) show only the tier's *direct operating costs* - samurai compensation plus direct staff, servants, and supplies.  They deliberately do **not** include the **six ministries' overhead budgets** (materials, contracts, ministry-specific staff, ministers' formal stipends and customary skims), which at the domain tier come to ~50,000 koku and at the province tier ~5,000 koku.  Ministry overhead is folded in only at the [Combined Budgets](#combined-budgets) level, where domain mandatory operations total ~83,400 (= ~32,000 capital samurai stipends + ~50,000 ministry overhead + ~1,400 staff/servants/supplies).  So the ~33,360 here and the ~83,400 in Combined Budgets describe the same tier at two different scopes, not a contradiction.
 
 ### Combined budgets
 
-| Tier | N | Cost (mandatory ops) | Tax Farming (discretionary cut) | Kick-ups Out (to Clan/Family/Imperial) | Total per Tier |
+| Tier | N | Cost (mandatory ops) | Tax Farming (discretionary cut) | Kick-ups (to Clan/Family/Imperial) | Total per Tier |
 | --- | --- | --- | --- | --- | --- |
 | Domain | 1 | 83,400 | 58,200 | 114,800 | 256,400 |
 | Province | 6 | 9,530 | 10,000 | 0 | 117,180 |
@@ -264,14 +244,14 @@ The empire-wide figures align with the [Imperial Budget](#the-imperial-budget) b
 
 ## Province
 
-| Place | N | T | P | Total Tax | Total Pop |
-| --- | --- | --- | --- | --- | --- |
-| Capital city | 0 | 24888 | 12360 | 0 | 0 |
-| Provincial city | 1 | 6222 | 3000 | 6222 | 3000 |
-| Town | 6 | 1603.2 | 1190 | 9619 | 7140 |
-| Village | 36 | 350 | 350 | 12600 | 12600 |
-| Hamlet | 216 | 75 | 75 | 16200 | 16200 |
-| **Named-settlement total** |  |  |  | 44641 | 38940 |
+| Place | N | Pop each | Total Pop |
+| --- | --- | --- | --- |
+| Capital city | 0 | 12360 | 0 |
+| Provincial city | 1 | 3000 | 3000 |
+| Town | 6 | 1190 | 7140 |
+| Village | 36 | 350 | 12600 |
+| Hamlet | 216 | 75 | 16200 |
+| **Named-settlement total** |  |  | 38940 |
 
 As with the [Domain population table](#domain) above, this sums only named settlements; the province's full population is slightly higher (~39,600), the small remainder being the same off-the-books peasantry explained under [Population Outside Named Settlements](#population-outside-named-settlements).
 
@@ -286,19 +266,6 @@ As with the [Domain population table](#domain) above, this sums only named settl
 | Hamlet | 0 | 0 | 10 | 3 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | **Total** |  |  |  |  |  |  |  | 225 | 3375 | 675 | 0 | 450 | 4500 |
 
-### Budget
-
-| Category | Expense |
-| --- | --- |
-| Staff | 0 |
-| Samurai | 4500 |
-| Ashigaru | 0 |
-| Servants | 20 |
-| Supplies | 10 |
-| Tax Farming | 10000 |
-| Total | 14530 |
-| Remainder | 30111 |
-
 ### Tax farming cost by tier
 
 | N | C | Total |
@@ -309,14 +276,14 @@ As with the [Domain population table](#domain) above, this sums only named settl
 
 ## County
 
-| Place | N | T | P | Total Tax | Total Pop |
-| --- | --- | --- | --- | --- | --- |
-| Capital city | 0 | 24888 | 12360 | 0 | 0 |
-| Provincial city | 0 | 6222 | 3000 | 0 | 0 |
-| Town | 1 | 1603.2 | 1190 | 1603 | 1190 |
-| Village | 6 | 350 | 350 | 2100 | 2100 |
-| Hamlet | 36 | 75 | 75 | 2700 | 2700 |
-| **Named-settlement total** |  |  |  | 6403 | 5990 |
+| Place | N | Pop each | Total Pop |
+| --- | --- | --- | --- |
+| Capital city | 0 | 12360 | 0 |
+| Provincial city | 0 | 3000 | 0 |
+| Town | 1 | 1190 | 1190 |
+| Village | 6 | 350 | 2100 |
+| Hamlet | 36 | 75 | 2700 |
+| **Named-settlement total** |  |  | 5990 |
 
 As with the [Domain population table](#domain) above, this sums only named settlements; the county's full population is slightly higher (~6,100), the small remainder being the same off-the-books peasantry explained under [Population Outside Named Settlements](#population-outside-named-settlements).
 
@@ -352,19 +319,6 @@ As with the [Domain population table](#domain) above, this sums only named settl
 | Village | 6 | 31.5 | 0.1 | 189 |
 | Hamlet | 36 | 6.75 | 0.1 | 243 |
 | **Total** |  |  |  | 432 |
-
-### Budget
-
-| Category | Expense |
-| --- | --- |
-| Staff | 0 |
-| Samurai | 225 |
-| Ashigaru | 190 |
-| Servants | 20 |
-| Supplies | 10 |
-| Tax Farming | 1000 |
-| Total | 1445 |
-| Remainder | 4958 |
 
 ## Capital city
 
@@ -658,7 +612,7 @@ This is a small but politically consequential cohort.  Note that vassal houses l
 
 **Note on the term "tax farming"**: This document uses "tax farming" in its loose modern English sense - the structural pattern of officials keeping a share of taxes they collect as their compensation.  Strictly, tax farming refers to the Roman *publicani* model where collection rights were auctioned to private contractors who paid the state a fixed sum upfront and pocketed whatever they could extract above it.  The Rokugan system isn't that: Rokugani officials are appointed through the civil-service examination and chancellery selection process, not auctioned, and the size of each office's cut is fixed by tradition rather than competitive bidding.  Structurally, the Rokugan arrangement is closer to the Tokugawa *chigyō* (fief grant) or the medieval European prebend (office-attached income), where the official is a state official whose compensation is an attached tax allocation.  "Tax farming" is used here because it conveys the right intuition (the office-holder profits from extraction efficiency) and is the established casual English usage for this broader pattern, including in modern descriptions of the Mughal *jagir* and Ottoman *timar* systems which were similarly appointment-based rather than auctioned.
 
-The Tax Farming line items in the Budget tables (~58,000 typical for the daimyo, ~10,000 per provincial governor, ~1,000 per county magistrate) are **the office-holder's discretionary income** - what remains after all mandatory expenses (tax obligations up to the next tier, kick-ups to Clan/Family/Imperial, samurai stipends, ministry overhead budgets, manor and office operations).  This is the canonical "tax-farming cut" figure that defines the post's value.  The county magistrate and provincial governor figures are fixed canonical amounts; the daimyo figure represents a typical median and varies widely (~35,000 for poor frontier domains, ~115,000+ for wealthy Clan capitals, with structural factors like Hida-vassal status adding additional variation - see [Domain Ministry Budgets](#domain-ministry-budgets) for the full breakdown).
+The tax-farming cuts (~58,000 typical for the daimyo, ~10,000 per provincial governor, ~1,000 per county magistrate) are **the office-holder's discretionary income** - what remains after all mandatory expenses (tax obligations up to the next tier, kick-ups to Clan/Family/Imperial, samurai stipends, ministry overhead budgets, manor and office operations).  This is the canonical "tax-farming cut" figure that defines the post's value.  The county magistrate and provincial governor figures are fixed canonical amounts; the daimyo figure represents a typical median and varies widely (~35,000 for poor frontier domains, ~115,000+ for wealthy Clan capitals, with structural factors like Hida-vassal status adding additional variation - see [Domain Ministry Budgets](#domain-ministry-budgets) for the full breakdown).
 
 The breakdowns below show the typical allocation at each tier.  Numbers are approximate and vary by domain, province, and the personalities and politics of the office-holders.  The **informal income** column shows the office-holder's effective personal take above their formal stipend, calculated as a ~10% skim on the ministry budget they administer ("a tithe", a customary rate built into many Rokugani fiscal formalities, e.g. the 10-koku Imperial registration fee on a 100-koku bounty).  Strictly speaking, this is not built into the budget, and in fact office holders are expected to pay all expenses related to their duties even if those expenses exceed their income.  As with tax farming, the presumption is that forward-thinking appointees will save their money in years of plenty so that they can spend their savings and/or make use of lineage reserves as needed in lean years.  The 10% figure is thus only a loose average, and corrupt officials may extract more, while scrupulous samurai might consistently draw on family connections to make up chronic shortfalls without ever personally enriching themselves.
 
