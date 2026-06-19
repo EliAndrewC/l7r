@@ -133,7 +133,7 @@ Specifically: Rokugan is about 1500 miles top-to-bottom and about 1000 miles acr
 
 ### Hierarchies
 
-Most of the land in Rokugan is divided between the 7 Great Clans, though there are additional holdings administered directly by Imperial families and a handful of Minor Clans.
+Most of the land in Rokugan is divided between the 7 Great Clans, though there are additional holdings administered directly by Imperial Families and a handful of Minor Clans.
 
 Each of the Great Clans is divided into 3-5 Great Families, of which one is the ruling family.
 
@@ -175,12 +175,12 @@ The above numbers cover the total human population, but let's discuss the samura
 
 Rokugan samurai culture is more egalitarian with respect to gender than historical samurai culture, a deliberate choice to keep the game welcoming to female players - roleplaying constant intense sexism isn't fun for most male players either.  The population of "useful" adults is therefore considered equal for both sexes.
 
-Of the 5,000 samurai in the domain, approximately 3,000 (~60%) are past their gempukku (and thus legally adults) and have not yet retired.  Of these ~3,000 "useful" samurai, about ~2,700 serve *within* the domain and ~300 serve in Imperial posts *outside* it (the Imperial Legions, cross-clan magistrate/yoriki tours, and central court roles at Otosan Uchi - paid by the Empire while they serve, but still counted as the domain's own people).  The in-domain ~2,700 break down as:
+Of the 5,000 samurai in the domain, approximately 2,900 (~58%) are past their gempukku (and thus legally adults) and have not yet retired.  Of these ~2,900 "useful" samurai, about ~2,690 serve *within* the domain and ~216 serve in Imperial posts *outside* it (the Imperial Legions, cross-clan magistrate/yoriki tours, and central court roles at Otosan Uchi - paid by the Empire while they serve, but still counted as the domain's own people).  The in-domain ~2,690 break down as:
 - ~800 samurai in the capital
 - ~225 samurai in each of the ~6 provincial cities
 - ~15 samurai in each of the 36 towns
 
-These are samurai counted at their **home domain** even when posted elsewhere, so the ~300 abroad are part of the 5,000, not added on top - which is how the Empire-wide samurai share stays at exactly 2%.  Whether a samurai's family travels with them depends on the posting: legionnaires and remote postings almost always leave their families resident at home; samurai posted to Otosan Uchi usually bring spouse and young children (though school-age children are often left with kin and elders retire at home); cross-clan magistrate tours are mixed.  So a small number of *non-working* samurai (mostly young children, ~60-70 per domain) are also abroad at any time, while retirees almost always remain at home.
+These are samurai counted at their **home domain** even when posted elsewhere, so the ~216 abroad are part of the 5,000, not added on top - which is how the Empire-wide samurai share stays at exactly 2%.  Whether a samurai's family travels with them depends on the posting: legionnaires and remote postings almost always leave their families resident at home; samurai posted to Otosan Uchi usually bring spouse and young children (though school-age children are often left with kin and elders retire at home); cross-clan magistrate tours are mixed.  So a small number of *non-working* samurai (mostly young children, ~45-50 per domain) are also abroad at any time, while retirees almost always remain at home.
 
 Note that county towns are the lowest level at which samurai live.  Village districts are farming communities populated by peasant farmers with no samurai living there.  At most a samurai family might maintain a country estate close to some farmland, but the estate would never be considered to be part of the village/hamlet and most certainly would not be under the authority of any peasant village headsman.  For tax and population accounting, however, the estate's output is tallied under the nearest village district as a bookkeeping convenience - a separate matter from authority - so a country estate, unlike a genuinely unregistered farm, still counts within the domain's settled population totals rather than among the off-the-books fringe.
 
@@ -391,7 +391,7 @@ However, about 1% of ogres are man-eaters; these ogres typically seek out strong
 
 ### Imperials
 
-Each domain has an appointed Imperial samurai (and spouse/children if applicable) acting as an Imperial Magistrate, whose duties are defined by the Emerald Charter.  The Imperial Magistrate keeps a substantial staff: roughly 25 yoriki (samurai assistants) at the magistrate's office in the domain capital - handling general judicial work, cross-clan disputes, oversight of the Emperor's local granaries, and the Yasuki Taka tariff audit at the capital city's gates - plus a small Imperial yoriki sub-station (typically ~5 yoriki each) in every one of the domain's provincial cities, auditing the tariff collection there.  These yoriki are almost all from other clans, since a daimyo's own people cannot be trusted to audit the daimyo, with only a small number drawn from the Imperial families.  The magistrate themselves resides in the domain's capital and rarely travels into the provinces in person, working through the sub-station yoriki instead.  A full staffing-and-budget breakdown is in [`budgets.md` - Imperial Magistrates and Their Staff](budgets.md#imperial-magistrates-and-their-staff-line-item-detail).
+Each domain has an appointed Imperial samurai (and spouse/children if applicable) acting as an Imperial Magistrate, whose duties are defined by the Emerald Charter.  The Imperial Magistrate keeps a substantial staff: roughly 25 yoriki (samurai assistants) at the magistrate's office in the domain capital - handling general judicial work, cross-clan disputes, oversight of the Emperor's local granaries, and the Yasuki Taka tariff audit at the capital city's gates - plus a small Imperial yoriki sub-station (typically ~5 yoriki each) in every one of the domain's provincial cities, auditing the tariff collection there.  These yoriki are almost all from other clans, since a daimyo's own people cannot be trusted to audit the daimyo, with only a small number drawn from the Imperial Families.  The magistrate themselves resides in the domain's capital and rarely travels into the provinces in person, working through the sub-station yoriki instead.  A full staffing-and-budget breakdown is in [`budgets.md` - Imperial Magistrates and Their Staff](budgets.md#imperial-magistrates-and-their-staff-line-item-detail).
 
 When fighting breaks out between neighboring daimyo, the yoriki from nearby domains may be assembled to assist one side or the other.  Having one or two hundred extra troops can change the outcome of a battle, and high-ranking Emerald magistrates are not shy about throwing their weight around.
 
@@ -425,8 +425,8 @@ In addition to the above numbers, here are the numbers for Imperials and also th
 | Minor Clans | 50 | 30 Mantis, 10 Dragonfly, 3 Fox, 2 Sparrow, 2 Wasp, 2 Tortoise, 1 Hare |
 
 Some things to note about these numbers:
-- the Hantei family is relatively small despite containing the Emperor himself, and members of the Hantei family usually marry into other families.
-- there are a number of minor clans not listed because they are so small, e.g. the Hare clan has fewer than a thousand samurai
+- the Hantei Family is relatively small despite containing the Emperor himself, and members of the Hantei Family usually marry into other families.
+- there are a number of minor clans not listed because they are so small, e.g. the Hare Clan has fewer than a thousand samurai
 
 The larger Families are further divided into Houses, each ruled by a local daimyo.  The number of distinct domains (i.e. daimyo-headed holdings, corresponding roughly to Houses) per Family follows from a simple rule:
 
@@ -551,7 +551,7 @@ The aggregate empire-wide breakdown by caste, derived from the per-tier composit
 A few observations about these numbers:
 
 - The Empire is overwhelmingly farming-dependent: about 4 out of every 5 humans work the land.  Even the median town is ~65% farmers, since town population is counted as the in-and-around population including peasants on the immediately-surrounding fields.
-- Samurai are a small ruling elite (~2%); their formal political authority makes their influence far greater than their numbers.  The canonical ~5,000 samurai per median domain (per [The Median Domain](#the-median-domain) above) break down roughly as: ~4,080 in the named settlements (the capital ~1,560 - its ~1,200 base plus ~360 county-samurai families who have relocated there - the 6 provincial cities at ~300 each, and the 36 county towns at ~20 each), plus ~560 living on country estates rather than in the cities and towns (physically outside any settlement, but tallied into the surrounding village districts for population and tax purposes, so still within the named-settlement totals), plus ~360 beyond the domain's borders in Imperial service (~300 serving and ~60 accompanying family).
+- Samurai are a small ruling elite (~2%); their formal political authority makes their influence far greater than their numbers.  The canonical ~5,000 samurai per median domain (per [The Median Domain](#the-median-domain) above) break down roughly as: ~4,180 in the named settlements (the capital ~1,560 - its ~1,200 base plus ~360 county-samurai families who have relocated there - the 6 provincial cities at ~300 each, the 36 county towns at ~20 each, and ~100 additional resident retainers a median domain keeps home rather than sending to Imperial service, where a larger average-size domain sends more), plus ~560 living on country estates rather than in the cities and towns (physically outside any settlement, but tallied into the surrounding village districts for population and tax purposes, so still within the named-settlement totals), plus ~261 beyond the domain's borders in Imperial service (~216 serving and ~45 accompanying family).
 - Burakumin are concentrated in towns and cities (~5% of urban population) and entirely absent from the median village or hamlet, which is why their empire-wide share (~1.5%) is far smaller than their per-city presence would suggest.
 
 This ~2% figure is worth dwelling on, because it shapes the kind of world Rokugan is.  This is a samurai game, and the players usually (though not always) play samurai - but the goal is a world with real depth, one in which the samurai are a small part of how the Empire actually operates and are often largely unaware of what most of its inhabitants are doing most of the time.  Even though Rokugan is an extremely well-run society by historical standards, with enormous state capacity compared to most premodern realms, the samurai cannot have much more insight than they do into the other ~98% of the Empire's inhabitants.  Three reasons compound:
@@ -574,7 +574,7 @@ Note that there are no farmers in the median provincial city.  This is largely a
 
 The capital's caste mix is essentially the same as a provincial city's - a capital is, in commercial terms, just a larger version of a provincial city.  But the capital carries one thing a provincial city does not: it is the domain's **schooling-and-retirement magnet**, the place samurai families from across the domain (and especially from the county towns) send their children to be educated and their elders to retire, including the families of samurai away in Imperial service.  Adding those ~360 relocated non-working samurai per domain lifts the capital's resident samurai from a ~10% base (the same as a provincial city's) to **~13%** - the highest concentration of any settlement tier, as befits the daimyo's castle-town seat (provincial cities sit at ~10%, county towns at ~1.7%).  This is a deliberately restrained echo of the historical castle town, where the daimyo's seat could run 30-60% samurai; Rokugan's capitals are far more commercial.
 
-In larger domains the picture changes again, and the great clan and family capitals - despite holding far more samurai in absolute terms - have a *lower* samurai percentage as their sheer commercial size dilutes the concentration.  See below for an explanation of the largest cities in the Empire:
+In larger domains the picture changes again, and the Great Clan and Family capitals - despite holding far more samurai in absolute terms - have a *lower* samurai percentage as their sheer commercial size dilutes the concentration.  See below for an explanation of the largest cities in the Empire:
 
 ### Large Cities
 
@@ -582,7 +582,7 @@ In larger domains the picture changes again, and the great clan and family capit
 
 Otosan Uchi is the capital of the Empire and is also its largest city, with a total population of approximately 1 million humans.
 
-Ryoko Owari (aka Kyuden Michio) is the second-largest city in the Empire, with a population of approximately 500,000.  It is located south of Beiden Pass, which cuts through the Spine of the World Mountains and is the central trading hub for the southern and western halves of Rokugan.  Remember that the capital city of most domains contains only around 5% of the domain's population.  Yet for a city like Ryoko Owari, the city might be half or more of the population of the Michio domain (the Michio are the vassal House of the Shosuro family which control Ryoko Owari).
+Ryoko Owari (aka Kyuden Michio) is the second-largest city in the Empire, with a population of approximately 500,000.  It is located south of Beiden Pass, which cuts through the Spine of the World Mountains and is the central trading hub for the southern and western halves of Rokugan.  Remember that the capital city of most domains contains only around 5% of the domain's population.  Yet for a city like Ryoko Owari, the city might be half or more of the population of the Michio domain (the Michio are the vassal House of the Shosuro Family which control Ryoko Owari).
 
 Toshi Ranbo (aka Kyuden Damasu) is the third-largest city in the Empire, with a population of over 300,000 (the population used to be even higher, but recent war and other fighting has diminished the population by tens of thousands).
 
@@ -621,7 +621,7 @@ The discussion so far has focused on "the median domain", but the above cities a
 
 - Around 1/3 of the wheat in Rokugan is grown in the Firefly River Valley in Unicorn lands, close to Kyuden Otaku and Kyuden Shinjo.
 
-- The Yasuki Estates are at the edge of Earthquake Bay, and are therefore the main harbor city for southern Rokugan.  The Yasuki left the Crane clan to join the Crab many centuries ago, and the Crane courtiers who practically run the Imperial Chancellery have, in retribution, refused to ever allow the Yasuki Estates to be designated as a Kyuden despite being far larger than a dozen other cities which have been granted that status.
+- The Yasuki Estates are at the edge of Earthquake Bay, and are therefore the main harbor city for southern Rokugan.  The Yasuki left the Crane Clan to join the Crab many centuries ago, and the Crane courtiers who practically run the Imperial Chancellery have, in retribution, refused to ever allow the Yasuki Estates to be designated as a Kyuden despite being far larger than a dozen other cities which have been granted that status.
 
 - Shinden Togashi is a site of such religious significance that at any given time it has more pilgrims than natives!  The enigmatic Togashi also decline to perform a census, and so true numbers for this mountain temple city are hard to come by.
 
@@ -631,9 +631,9 @@ The samurai percentage of a city's population is not constant - it varies with c
 
 The reason is a pattern that holds across the large capital cities of history: the administrative cohort of a city grows more slowly than its overall size, while the commercial and service population (merchants, laborers, servants, artisans) grows roughly in step with it.  A city twice as large does not need twice as many magistrates and ministers, but it does attract roughly twice as many people to feed, serve, and trade with that larger population.  So the samurai percentage shrinks as the city grows, even though the samurai are more numerous in absolute terms.  This is why the great real-world imperial capitals - Tang Chang'an, Song Kaifeng, Heian-kyo - held only a few percent nobility despite being the seats of enormous bureaucracies.  (The one historical exception, Tokugawa Edo at around 60% samurai, was the product of a forced-residence system that compelled every lord to keep thousands of retainers permanently in the capital - a mechanism Rokugan does not have.)
 
-So the samurai concentration peaks at the domain capital (~13%, the daimyo's family-and-court seat) and declines steadily from there as cities grow larger and more commercial, falling to ~6-9% in the great clan and family capitals and all the way to ~4% in Otosan Uchi - even as those cities' absolute samurai numbers dwarf any median capital's.
+So the samurai concentration peaks at the domain capital (~13%, the daimyo's family-and-court seat) and declines steadily from there as cities grow larger and more commercial, falling to ~6-9% in the Great Clan and Family capitals and all the way to ~4% in Otosan Uchi - even as those cities' absolute samurai numbers dwarf any median capital's.
 
-Otosan Uchi, the capital of the Empire, has approximately **40,000 resident samurai** - around 4% of its million inhabitants.  This includes the bulk of the Hantei family and large fractions of the Seppun, Otomo, and Miya; the clan-drawn samurai who staff the central Imperial ministries and the capital's own city government; the permanent embassies that every domain maintains at the capital (hostage family members, business agents, and political representatives - a structural feature of Imperial politics rather than a literal imprisonment); and a scattering of private agents, students, and ronin.
+Otosan Uchi, the capital of the Empire, has approximately **40,000 resident samurai** - around 4% of its million inhabitants.  This includes the bulk of the Hantei Family and large fractions of the Seppun, Otomo, and Miya; the clan-drawn samurai who staff the central Imperial ministries and the capital's own city government; the permanent embassies that every domain maintains at the capital (hostage family members, business agents, and political representatives - a structural feature of Imperial politics rather than a literal imprisonment); and a scattering of private agents, students, and ronin.
 
 It is worth noting that 4% is exactly twice the ~2% samurai share of the Empire as a whole.  Even at the very center of samurai power, samurai are only twice as concentrated as they are across Rokugan generally - a fact that says a great deal about the society described in the Demographics section above.  Running this the other way: roughly 2% of every domain's samurai are at Otosan Uchi at any given moment, which for a median domain means around 100 of its ~5,000 samurai.  (A detailed cohort-by-cohort breakdown of the capital's samurai population, the by-size schedule, and the historical comparison appears in the [budgets writeup](budgets.md#samurai-concentration-by-city-size-and-the-capital).)
 
@@ -775,7 +775,7 @@ As mentioned, this version of Rokugan does follow the basic structure from the o
 
 As explained above, Rokugan has 7 Great Clans, each of which has 3-5 Great Families.  Most of those Families have a ruling house and a number of vassal houses.
 
-For example, one campaign takes place in Damasu lands.  The Damasu are a vassal family to the Akodo family.  Thus, all Damasu samurai have the Akodo name, e.g. their previous daimyo was Akodo no Damasu Kojima.  Note that Akodo is the family name, "no Damasu" indicates that he is "of the Damasu" vassal house, and Kojima is his personal name.
+For example, one campaign takes place in Damasu lands.  The Damasu are a vassal family to the Akodo Family.  Thus, all Damasu samurai have the Akodo name, e.g. their previous daimyo was Akodo no Damasu Kojima.  Note that Akodo is the family name, "no Damasu" indicates that he is "of the Damasu" vassal house, and Kojima is his personal name.
 
 There are 15 ranks of the samurai caste in this version of Rokugan.  (This is more than in the published books, but the original 10 ranks proved insufficient to encompass all of the layers of government.)  The Emperor, of course, is of the Fifteenth Rank, referred to in conversation as "rank 15".  A lowly samurai who has just passed their gempukku and not yet been assigned to a significant government post would be "of the First Rank" (referred to in conversation as "a rank 1 samurai").
 
@@ -783,9 +783,9 @@ Here's a rough list of the ranks of extremely high-ranking people:
 
 **Rank 15**: the Emperor (and no one else)
 
-**Rank 14**: the Imperial Chancellor (usually from an Imperial family but currently Kakita Yoshi), and all 7 of the Clan daimyo (sometimes called the Clan Champions)
+**Rank 14**: the Imperial Chancellor (usually from an Imperial Family but currently Kakita Yoshi), and all 7 of the Clan daimyo (sometimes called the Clan Champions)
 
-**Rank 13**: The ruling daimyo of the great Families, e.g. while Akodo Toturi is of the Fourteenth Rank due to being the daimyo of the whole Lion clan, Ikoma Tsanuri is of the Thirteenth Rank, as she is the daimyo over the entire Ikoma family but is subordinate to Akodo Toturi.  Imperial Ministers are also Rank 13.
+**Rank 13**: The ruling daimyo of the great Families, e.g. while Akodo Toturi is of the Fourteenth Rank due to being the daimyo of the whole Lion Clan, Ikoma Tsanuri is of the Thirteenth Rank, as she is the daimyo over the entire Ikoma Family but is subordinate to Akodo Toturi.  Imperial Ministers are also Rank 13.
 
 **Rank 12**: a House daimyo, i.e. the daimyo of a vassal family of one of the Great Families, e.g. before his death Akodo no Damasu Kojima was of the Twelfth Rank.
 
@@ -806,7 +806,7 @@ This isn't drawn from the original L5R books, and is instead built on a combinat
 
 The Six Ministries exist at the Imperial level, the Clan level, the Family level, the House level, and at the provincial level (each House is divided into provinces, and the provincial government is divided into the Six Ministries as well).
 
-In general, the Chancellery sets policy, and the Six Ministries implement policies.  At the Imperial level, the Imperial chancellery is composed of a chancellor from each House in the Empire.  However, not all chancellors are equal.  There are some matters where only the 7 Clan chancellors get a vote.  In other cases, all of the 29 Family chancellors from the 7 Clans get to vote, as well as the 4 Imperial Family chancellors from the Imperial families of the Hantei, Seppun, Otomo, and the Miya.  However, for most matters every chancellor from every House in the Empire gets to vote, which means that around 284 chancellors weigh in (one for each domain/House in the Empire), which includes all of the vassal houses and minor clans.
+In general, the Chancellery sets policy, and the Six Ministries implement policies.  At the Imperial level, the Imperial chancellery is composed of a chancellor from each House in the Empire.  However, not all chancellors are equal.  There are some matters where only the 7 Clan chancellors get a vote.  In other cases, all of the 29 Family chancellors from the 7 Clans get to vote, as well as the 4 Imperial Family chancellors from the Imperial Families of the Hantei, Seppun, Otomo, and the Miya.  However, for most matters every chancellor from every House in the Empire gets to vote, which means that around 284 chancellors weigh in (one for each domain/House in the Empire), which includes all of the vassal houses and minor clans.
 
 Note that "voting" is used here as if the Chancellery were a legislative body, though in theory its role is supposedly to advise the Emperor, who makes all decisions.  However, there are two reasons why this is not true in practice.  First, with around 100 million human beings living in the Empire, the Emperor does not have time to weigh in on all decisions which come before the Chancellery.  Second, the Emperor's power is not as absolute in practice as their religious tradition claims it is, and therefore if the Chancellery overwhelmingly recommends a course of action to the Emperor, he is likely to approve it rather than impose his will upon his subjects in an unpopular manner that might offend his most powerful nobles.
 
@@ -832,9 +832,9 @@ The Ministry of Revenue oversees the collection of land taxes, business license 
 
 This is also how things work for Governors and County Magistrates, and generally any kind of tax collection position or office which generates revenue.  Officials are expected to meet their obligations to the government, and when they do well they keep what is left over, and when they do poorly they must draw from their personal or family fortunes in order to ensure that the financial obligation is met.
 
-At the Imperial level, the Ministry of Revenue oversees Imperial tax collection.  Consider a vassal domain such as the Wakashi house of the Ikoma family.  The Wakashi owe taxes to those above them, which come to:
-- 2% of their land output to the Ikoma family daimyo, Ikoma Tsanuri
-- 3% to the daimyo of the Lion clan, Akodo Toturi
+At the Imperial level, the Ministry of Revenue oversees Imperial tax collection.  Consider a vassal domain such as the Wakashi house of the Ikoma Family.  The Wakashi owe taxes to those above them, which come to:
+- 2% of their land output to the Ikoma Family daimyo, Ikoma Tsanuri
+- 3% to the daimyo of the Lion Clan, Akodo Toturi
 - 5% to the Emperor
 
 These percentages are of total land output (i.e. the gross agricultural production from the domain's farms), not of the land tax actually collected.  Since the daimyo collects 1/3 of land output as land tax (per the rent-and-tax discussion further down), the 10% kicked up to the Wakashi's superiors is roughly 30% of the Wakashi's gross land-tax revenue.
@@ -851,7 +851,7 @@ Money never changes hands with anyone who has authority over assessment.  Any mo
 
 This Yasuki innovation was first deployed at the harbor of Friendly Traveler Village (then a major Yasuki trade hub) and proved sufficiently effective that Hantei the Tenth made it the empire-wide standard within a few years of its introduction.  The system does not extend to counties: most county towns are not walled, and even those that are (typically along contested borders) generally do not see enough caravan traffic to justify the institutional overhead.  All collection of import tariffs occurs at the provincial city or capital city tier.
 
-The **tariff rate structure** is patterned on the land-tax kick-up chain but with one critical difference: the daimyo's cut is the only negotiable piece.  The maximum legal rate on any imported good is 20% of declared sales value, broken into 2% to the family daimyo + 3% to the clan daimyo + 5% to the Imperial center + up to 10% kept by the local daimyo.  The 2%/3%/5% layer (10% of trade value) flows up the chain as non-negotiable kick-ups, just as land-tax kick-ups do.  The daimyo's 10% is the only portion the local daimyo can discount, and discount it they do: most daimyo lower their portion by an aggregate ~5% across goods and origins (varying by trade-negotiation history with specific clans, families, and individual merchant houses), so the typical effective tariff is about 15% of declared sales value (10% kick-up layer + ~5% daimyo cut).  Some goods and some origin combinations carry favorable rates as low as the 10% kick-up floor; others carry the full 20% if no preferential arrangement exists.
+The **tariff rate structure** is patterned on the land-tax kick-up chain but with one critical difference: the daimyo's cut is the only negotiable piece.  The maximum legal rate on any imported good is 20% of declared sales value, broken into 2% to the Family daimyo + 3% to the Clan daimyo + 5% to the Imperial center + up to 10% kept by the local daimyo.  The 2%/3%/5% layer (10% of trade value) flows up the chain as non-negotiable kick-ups, just as land-tax kick-ups do.  The daimyo's 10% is the only portion the local daimyo can discount, and discount it they do: most daimyo lower their portion by an aggregate ~5% across goods and origins (varying by trade-negotiation history with specific clans, families, and individual merchant houses), so the typical effective tariff is about 15% of declared sales value (10% kick-up layer + ~5% daimyo cut).  Some goods and some origin combinations carry favorable rates as low as the 10% kick-up floor; others carry the full 20% if no preferential arrangement exists.
 
 A daimyo may declare zero local tariffs in emergency circumstances (famine relief, major military mobilization, response to a regional economic shock) to encourage emergency commerce - but the kick-up obligations are still tracked against the underlying trade volume, and the daimyo is personally responsible for making the equivalent kick-up payments to clan, family, and Imperial superiors out of their own treasury, with penalty interest assessed if the payments are made late.  This is a rare but well-attested move, usually invoked by a daimyo whose domain has just suffered a flood, blight, or military disaster and needs to bring in supplies quickly without a tariff wall discouraging merchants.  Bad daimyo have occasionally abused the emergency provision for non-emergency political reasons; the Imperial Treasurer's office prosecutes such cases vigorously when discovered.
 
@@ -864,7 +864,7 @@ A daimyo may declare zero local tariffs in emergency circumstances (famine relie
 - **Goods misclassification**: a merchant declares high-rate goods (silk, fine swords, rare minerals) as low-rate goods (cotton, common iron, ordinary stones) and pays the lower rate.  Caught by inspectors who actually open and verify the cargo, by tipoffs from rival merchants, or by yoriki who notice an unusual volume of low-rate declarations from a specific merchant.
 - **Outright bypass**: a merchant avoids the city gate entirely, sneaking goods into the local market through unwatched routes.  Hard to do at the largest cities but practical at smaller provincial cities with extensive surrounding farmland.  Caught by Imperial magistrates who notice market merchandise without corresponding tariff records.
 
-The **Yasuki paradox**, well-known across the Empire, is that the Yasuki family - having invented the inspector/licensor system and continuing to staff the Imperial Treasurer's office with most of its senior officials - are simultaneously *the most adept in the Empire at preventing smuggling in their own lands* AND *notoriously the most practiced at performing it when abroad*.  A Yasuki merchant traveling in someone else's domain will routinely deploy techniques that would be impossible to use against a Yasuki-trained inspector at a Yasuki gate.  The other clans tolerate this with various degrees of grudging respect, exasperation, and political cost-benefit calculation; the Yasuki regard it as one of the structural privileges they earned by creating the system in the first place.  An aspiring Yasuki magistrate is expected to be familiar with both sides of the trade-friction equation.
+The **Yasuki paradox**, well-known across the Empire, is that the Yasuki Family - having invented the inspector/licensor system and continuing to staff the Imperial Treasurer's office with most of its senior officials - are simultaneously *the most adept in the Empire at preventing smuggling in their own lands* AND *notoriously the most practiced at performing it when abroad*.  A Yasuki merchant traveling in someone else's domain will routinely deploy techniques that would be impossible to use against a Yasuki-trained inspector at a Yasuki gate.  The other clans tolerate this with various degrees of grudging respect, exasperation, and political cost-benefit calculation; the Yasuki regard it as one of the structural privileges they earned by creating the system in the first place.  An aspiring Yasuki magistrate is expected to be familiar with both sides of the trade-friction equation.
 
 Beyond land tax and city-gate import tariffs, the Ministry of Revenue's third significant revenue stream is **business license fees**.  The most important single category is **sake brewing**: every brewery operating above the household level must hold an annual license, with rates tiered by production volume.  In a prosperous brewing town the sake licenses alone can exceed all other business-license revenue combined, and in counties whose economies are built around large-scale sake export (the Crane and Phoenix have several such counties) the sake license revenue can rival the land tax in scale.  Other commonly-licensed trades include dye houses (which use regulated quantities of certain minerals and plant extracts), weapon and armor smithies (whose work is restricted by caste rules enforced through the license), pawnbrokers (who require a license to operate as collateral lenders), salt-boilers and small salt-pan operators outside the regions covered by the Imperial salt monopoly, and the larger merchant houses in any given town.  Small artisans and casual traders are generally not licensed, both because the assessment overhead would exceed the revenue and because allowing informal cottage industry to operate untaxed is part of how Rokugani society absorbs minor economic shocks - a peasant family that begins weaving baskets or pickling vegetables for sale during a hard winter is welcomed rather than fined.
 
@@ -888,7 +888,7 @@ Ministers of war general the armies of their domains.  They oversee the manufact
 
 The Imperial Minister of War is also known as the Shogun.  All of the Imperial Ministers tend to have many titles, e.g. the Imperial Minister of Revenue is also known as the Imperial Treasurer, the Imperial Minister of Rites is also the High Priestess of Amaterasu, etc.
 
-The Imperial Minister of War oversees the Imperial legions.  Some of these positions are largely ceremonial, though there are also over 20 legions stationed on the Kaiu Wall, assisting the Crab clan in their defense of the Empire against the Shadowlands.  Every legionnaire is a samurai - the combat troops of a legion are samurai drawn from the Clans, while the leadership of the legions is usually from the Imperial families, especially the Seppun.  (The large non-combatant support tail that every legion requires - cooks, smiths, porters, animal handlers, and the like - is entirely peasant, and is not counted among the legionnaires themselves.)  A full per-legion organization and budget breakdown is in [`budgets.md` - Imperial Legions](budgets.md#imperial-legions-line-item-detail).
+The Imperial Minister of War oversees the Imperial legions.  Some of these positions are largely ceremonial, though there are also over 20 legions stationed on the Kaiu Wall, assisting the Crab Clan in their defense of the Empire against the Shadowlands.  Every legionnaire is a samurai - the combat troops of a legion are samurai drawn from the Clans, while the leadership of the legions is usually from the Imperial Families, especially the Seppun.  (The large non-combatant support tail that every legion requires - cooks, smiths, porters, animal handlers, and the like - is entirely peasant, and is not counted among the legionnaires themselves.)  A full per-legion organization and budget breakdown is in [`budgets.md` - Imperial Legions](budgets.md#imperial-legions-line-item-detail).
 
 ### The Ministry of Works
 
@@ -914,16 +914,16 @@ Such duels were more common early in the Empire, when the Emperor's authority wa
 
 Every domain in the Empire has an Imperial magistrate whose duties are outlined in the Emerald Charter.  The Imperial magistrate also oversees tax collection for the Imperial Ministry of Revenue, coordinates the recruitment of troops for the Imperial legions on behalf of the Imperial Ministry of War, etc.  In order to perform all of these duties, Imperial Magistrates have a large staff of Imperial yoriki ("assistants").
 
-This is not only true at the Imperial level, but at the Clan and Family level as well.  Consider the Wakashi domain of the Ikoma family.  Shiro Wakashi, their capital has:
+This is not only true at the Imperial level, but at the Clan and Family level as well.  Consider the Wakashi domain of the Ikoma Family.  Shiro Wakashi, their capital has:
 
 - an Imperial Magistrate, whose duties I described above
-- an Ikoma Family magistrate, who oversees Ikoma family tax collection and manages Family disputes
-- a Lion Clan magistrate from the Akodo family, who oversees Lion clan tax collection and manages clan disputes
+- an Ikoma Family magistrate, who oversees Ikoma Family tax collection and manages Family disputes
+- a Lion Clan magistrate from the Akodo Family, who oversees Lion Clan tax collection and manages clan disputes
 
 Consider when two samurai in the Wakashi domain become embroiled in a legal dispute:
 - if both samurai are from the Wakashi house, then it is a local matter, and handled by the Wakashi Ministry of Justice
-- if the samurai are from different houses of the Ikoma family, then the Ikoma Family magistrate hears the dispute
-- if the samurai are from different families of the Lion clan, such as a Matsu having a dispute with an Ikoma, then the Lion Clan magistrate handles the dispute
+- if the samurai are from different houses of the Ikoma Family, then the Ikoma Family magistrate hears the dispute
+- if the samurai are from different families of the Lion Clan, such as a Matsu having a dispute with an Ikoma, then the Lion Clan magistrate handles the dispute
 - if the samurai are from different clans, then the Imperial magistrate handles the dispute
 
 Accounting for these different types of disputes is why every domain has magistrates representing all of these different levels.  However, such magistrates are always stationed in the domain's capital, so two people having a dispute out in the provinces of the Wakashi domain would need to travel to Shiro Wakashi in order to have their case heard.
@@ -936,7 +936,7 @@ A virtuous Minister of Justice lives modestly on their formal stipend and a smal
 
 Every samurai retainer belongs to a noble lineage.  These are not simply bloodlines, but well-defined political coalitions.  Each lineage whose population makes up at least 10% of the samurai in the domain generally has a representative on the house Chancellery, which sets policy through its advice given to the daimyo.  The "ruling" lineage bears the name of the house, e.g. the Wakashi house is ruled by a daimyo from the Wakashi lineage, and one of the daimyo's close family members (often a spouse or sibling or child) will be the Wakashi chancellor.
 
-As an example, let's consider the Ryusei domain of the Mirumoto family of the Dragon clan.  The Ryusei domain is a roughly-average-sized House with a population of about 4,200 samurai out of a total of 210,000 humans (remember that the median domain has 5,000 samurai out of 250,000 humans, so this is a fairly typical domain).
+As an example, let's consider the Ryusei domain of the Mirumoto Family of the Dragon Clan.  The Ryusei domain is a roughly-average-sized House with a population of about 4,200 samurai out of a total of 210,000 humans (remember that the median domain has 5,000 samurai out of 250,000 humans, so this is a fairly typical domain).
 
 The Ryusei House Chancellery is composed of representatives from its six largest lineages, which collectively make up almost 90% of the domain.  The ruling lineage (i.e. the daimyo's lineage) is the Ryusei lineage, and it and the others are listed below:
 
@@ -970,7 +970,7 @@ Note that these numbers reflect the nature and character of the lineages, as is 
 
 - The Sasara lineage is the most pious, and is so religiously observant that they focus on obtaining positions in the Ministry of Rites.  However, they have recently lost many county magistrate positions and currently have no governors, because their religious zeal caused them to align with a new religious movement (the Baitenist movement) to a degree that many officials were stripped of their positions after allowing tenant farmers to leave their lands in mass numbers.
 
-- The Isa lineage is the most warlike, to a degree which is expected for members of their bloodline but unusual for Dragon clan samurai from Mirumoto houses such as the Ryusei.  Their "bloodthirsty" nature is reflected in their pursuit of positions within the Ministry of War.
+- The Isa lineage is the most warlike, to a degree which is expected for members of their bloodline but unusual for Dragon Clan samurai from Mirumoto houses such as the Ryusei.  Their "bloodthirsty" nature is reflected in their pursuit of positions within the Ministry of War.
 
 Provinces:
 
@@ -998,13 +998,13 @@ Note that in Ryusei lands, all of the lineages are "cosmopolitan lineages" and t
 
 Geography:
 
-The Ryusei domain is the westernmost Mirumoto House.  Dragon lands are to its east and northeast, with mostly uninhabited mountains to the north.  Ryusei lands border the Unicorn clan on the west, and the Lion clan on the south.
+The Ryusei domain is the westernmost Mirumoto House.  Dragon lands are to its east and northeast, with mostly uninhabited mountains to the north.  Ryusei lands border the Unicorn Clan on the west, and the Lion Clan on the south.
 
-The Natsune are the Shinjo domain in the Unicorn clan lands bordering the Ryusei directly to the west.
+The Natsune are the Shinjo domain in the Unicorn Clan lands bordering the Ryusei directly to the west.
 
-The Wakashi are the Ikoma domain in the Lion clan lands bordering the Ryusei directly to the south.
+The Wakashi are the Ikoma domain in the Lion Clan lands bordering the Ryusei directly to the south.
 
-The Fuseo are the Mirumoto domain in the other Dragon clan lands bordering the Ryusei directly to the east.
+The Fuseo are the Mirumoto domain in the other Dragon Clan lands bordering the Ryusei directly to the east.
 
 #### Takeaways
 
@@ -1500,7 +1500,7 @@ The "Karmic Inquisitors" campaign is an older campaign set in Damasu lands, the 
 
 ### Campaign Description
 
-Positioned at the crossroads between Lion, Dragon, Phoenix, Crane, and Imperial lands, Toshi Ranbo is the third largest city in the Empire and capital of the Damasu domain of the Akodo family.
+Positioned at the crossroads between Lion, Dragon, Phoenix, Crane, and Imperial lands, Toshi Ranbo is the third largest city in the Empire and capital of the Damasu domain of the Akodo Family.
 
 Last year, the dreaded fungal blight kumosaya destroyed half of the domain's rice and soybean crop.  Normally such blights start small and worsen over a period of years, but this one came seemingly out of nowhere.  Further, it was not heralded by any omens or portents which should have forewarned the government of the coming disaster.
 
@@ -1606,17 +1606,17 @@ In Toshi Ranbo my dreams and sleepwalking increased.  For the first time my prof
 
 Here's the backstory of Haru, another member of The Order:
 
-During the Lion/Crane war, in accordance with the treaty between the Tsume house and the Shiba family, the Phoenix clan declared war on the Lion clan.
+During the Lion/Crane war, in accordance with the treaty between the Tsume house and the Shiba Family, the Phoenix Clan declared war on the Lion Clan.
 
-However, the Phoenix clan is famously pacifistic (by samurai standards), and no battles were fought - not one single Lion was killed by a Phoenix or vice versa.  However, the Phoenix clan did provide significant aid, by allowing Crane troops to travel through Phoenix lands to evade Lion armies, while refusing entry into their lands by Lion wishing to do the same.  This gave the Tsume a significant advantage, as the Lion clan did not wish to test the resolve of the Phoenix by invading their lands - a war in which the Southern Armies of the Phoenix were added to those of the Northern Armies of the Crane could have been a disaster for the Lion clan.
+However, the Phoenix Clan is famously pacifistic (by samurai standards), and no battles were fought - not one single Lion was killed by a Phoenix or vice versa.  However, the Phoenix Clan did provide significant aid, by allowing Crane troops to travel through Phoenix lands to evade Lion armies, while refusing entry into their lands by Lion wishing to do the same.  This gave the Tsume a significant advantage, as the Lion Clan did not wish to test the resolve of the Phoenix by invading their lands - a war in which the Southern Armies of the Phoenix were added to those of the Northern Armies of the Crane could have been a disaster for the Lion Clan.
 
-Occupying the southwestern corner of Phoenix lands, the Asako family vigilantly patrolled their borders, overlooking both sides of the war from Morning Glory Castle (aka Kyuden Asako, their capital).
+Occupying the southwestern corner of Phoenix lands, the Asako Family vigilantly patrolled their borders, overlooking both sides of the war from Morning Glory Castle (aka Kyuden Asako, their capital).
 
 With that being said, the Lion would have been foolish to not send scouts into Phoenix lands, in order to track the movements of Crane troops.  While caution prevented them from going deep into Phoenix lands, the Lion still attempted to find other ways to track the movements of the Crane.
 
-One advantage the Lion had was that the Phoenix are as pious as they are pacifistic, and thus they were unwilling to turn away pilgrims, even when those pilgrims were openly Lion clan samurai who clearly wished to gather intelligence on the movement of Crane troops and Phoenix patrols.  However, the Phoenix clan mitigated these concerns by assigning escorts, and also forcing Lion pilgrims to take more roundabout routes than any other clan would take.
+One advantage the Lion had was that the Phoenix are as pious as they are pacifistic, and thus they were unwilling to turn away pilgrims, even when those pilgrims were openly Lion Clan samurai who clearly wished to gather intelligence on the movement of Crane troops and Phoenix patrols.  However, the Phoenix Clan mitigated these concerns by assigning escorts, and also forcing Lion pilgrims to take more roundabout routes than any other clan would take.
 
-This was still worthwhile for the Lion clan, and Akodo no Sugiwara Ippei was one of many "pilgrims" who went through Asako lands to reach the Isawa woodlands, ostensibly to visit the Sacred Pool of Kaimetsu-Uo.
+This was still worthwhile for the Lion Clan, and Akodo no Sugiwara Ippei was one of many "pilgrims" who went through Asako lands to reach the Isawa woodlands, ostensibly to visit the Sacred Pool of Kaimetsu-Uo.
 
 Located deep in the Isawa woodlands, this crystal clear pool of water is a revered place of tranquility and healing.  The pool is named after Kaimetsu-Uo, a legendary figure in Isawa history from before the dawn of the Empire, said to have been healed in these waters after a brutal battle against an oni.  It is common for those seeking healing or purification to journey here, either for themselves or on behalf of others.  Pilgrims often leave small, symbolic offerings at the edge of the pool, and the Order of Kaimetsu-Uo maintains a series of baths which pilgrims must use both before and after bathing in the pool.
 
@@ -1740,9 +1740,9 @@ Over the next several years of Tsume occupation, the city was in bad shape, with
 
 The Temple of Bishamon thus not only had to contend with the emptying of its treasury, but also losing over half of its funding overnight, putting the temple's finances in dire straits.  The disorder within the city, combined with the Tsume pillaging of the temple's normal roster of wealthy patrons made this problem worse.  Additionally, the temple's budget shortfalls led to a massive scaling back of its charitable endeavors, which further strained the ability of the city's population to cope with the new regime.  Many monks were dismissed from the Temple during this time, reassigned to the provinces or to other domains, and many of these formed the early cadre of the Baitenist movement.
 
-Almost 4 years after the Tsume invasion, the Lion clan retook the city (in the year 1121), and it reverted to the Damasu.  The Lion clan investigated the temple's finances and found them lacking, and instead of depleting them further restored their government funding, though they did not have the resources to restore its treasury to its previous levels at this time, due to the ongoing war with the Crane clan.
+Almost 4 years after the Tsume invasion, the Lion Clan retook the city (in the year 1121), and it reverted to the Damasu.  The Lion Clan investigated the temple's finances and found them lacking, and instead of depleting them further restored their government funding, though they did not have the resources to restore its treasury to its previous levels at this time, due to the ongoing war with the Crane Clan.
 
-About 6 years later, the Lion/Crane war ended (the peace treaty was officially signed in the year 1128), and the peace treaty involved large payments to the Lion clan.  The Damasu were flush with coin, and donated generously to the Temple.  In the past year, after the peace treaty was signed, the Temple's income is double what it was even under the previous Damasu regime.
+About 6 years later, the Lion/Crane war ended (the peace treaty was officially signed in the year 1128), and the peace treaty involved large payments to the Lion Clan.  The Damasu were flush with coin, and donated generously to the Temple.  In the past year, after the peace treaty was signed, the Temple's income is double what it was even under the previous Damasu regime.
 
 The Temple of Bishamon's annual income before the fall of the previous Damasu regime was roughly 10,000 koku/year, which was sourced as follows:
 
@@ -1847,7 +1847,7 @@ The timeline below covers events related to the Karmic Inquisitors campaign:
 | --- | --- |
 | 1116 | Akodo no Damasu Kojima, daimyo of the Damasu house, executes a Tsume noble for smuggling without bringing the matter before any Imperial magistrate. |
 | 1117 | Doji no Tsume Retsu, daimyo of the Tsume house, invades Toshi Ranbo in retaliation, taking the city in a sneak attack immediately after a giant flood which prevented any immediate reinforcements from other Lion domains. Kojima is killed along with most of his extended family and almost all of his high-ranking retainers from the Damasu chancellery and ministries. |
-| 1118 | The Lion clan attempts to retake the city after the spring thaw. Doji Chuto, General of the Northern Armies of the Crane, successfully defends it, killing Akodo Toturi's brother, resulting in Toturi becoming the next daimyo of the Lion clan. |
+| 1118 | The Lion Clan attempts to retake the city after the spring thaw. Doji Chuto, General of the Northern Armies of the Crane, successfully defends it, killing Akodo Toturi's brother, resulting in Toturi becoming the next daimyo of the Lion Clan. |
 | 1119 | Tsume Retsu is murdered under mysterious circumstances. The killer is never found. Enemies of the Tsume point to his son, Doji no Tsume Takashi, who becomes daimyo of the Tsume house. Takashi and his retainers maintain his father's political enemies had Retsu assassinated. |
 | 1120 | The prophet Baiten reveals that the next Day of Thunder is at hand. |
 | Prince Hantei Fukuhachi prevents the government of Toshi Ranbo from prosecuting Baiten. |  |
@@ -1860,12 +1860,12 @@ The timeline below covers events related to the Karmic Inquisitors campaign:
 | Bayushi Shoju is murdered. His brother, Bayushi Aramoro later marries his widow, Bayushi Kachiko. |  |
 | Hida Kisada is wounded, and his oldest daughter Hida O-Ushi, the Crab Thunder, is killed. |  |
 | Jama no Iuchiban Kohaku arrives late to the Day of Thunder, fails to stop the 7 Thunders from defeating Shinjo Jotsu, and takes revenge by slaying the remaining Thunders. Oni no Kohaku kills hundreds of samurai before being slain. Kohaku announces that all loyal moon cultists should take refuge in Kyuden Shinjo, where the moon cult remains strong. |  |
-| 1124 | Shinjo Hanari executes Shinjo Yokatsu for high treason against the Empire, and declares a blood debt on his line, and becomes daimyo of the Unicorn clan. |
+| 1124 | Shinjo Hanari executes Shinjo Yokatsu for high treason against the Empire, and declares a blood debt on his line, and becomes daimyo of the Unicorn Clan. |
 | 1127 | The Black Scrolls are opened and recharged at the Forgotten Tomb. |
 | Kuni Yori is executed for high treason against the Empire for experimenting with moon cultists and the practice of maho. Kuni Utagu becomes the new Jade Champion. |  |
 | Iuchi Shahai and the remaining moon cultists attempt to assassinate the Emperor at Imperial Winter Court at Kyuden Shinjo. |  |
-| Shinjo Hanari executes Iuchi Daiyu, the daimyo of the Iuchi family (and Shahai's father), and declares a blood debt on Shahai's line. Iuchi Morijiro (a priest rather than a bushi) becomes daimyo of the Iuchi family. |  |
-| 1128 | The Crab clan, under the direction of the Kuni Witch Hunters, begin experimenting with the Black Scrolls. |
+| Shinjo Hanari executes Iuchi Daiyu, the daimyo of the Iuchi Family (and Shahai's father), and declares a blood debt on Shahai's line. Iuchi Morijiro (a priest rather than a bushi) becomes daimyo of the Iuchi Family. |  |
+| 1128 | The Crab Clan, under the direction of the Kuni Witch Hunters, begin experimenting with the Black Scrolls. |
 | With the Lion/Crane war ended, a dueling tournament is conducted according to the terms of the peace treaty to settle the ownership of several disputed provinces between the Tsume and Damasu. |  |
 | 1129 | A fungal blight destroys half of the Damasu rice and soybean crop, with only 1 Tsume province being seriously affected. |
 | Timeline of events specifically relating to the moon cult |  |
@@ -1875,13 +1875,13 @@ The Order of Lord Moon has operated in this area since before the dawn of the Em
 
 Much like The Order itself, titles within The Order of Lord Moon have a full version and a less-incriminating abbreviated version.  The full title is only used during sacred ceremonies and the abbreviated version is used at all other times.  The head of The Order has the title The Master of the Lunar Way, but is referred to conversationally as "Master of the Way", allowing members to claim that they are only referring to that person as a master of the Way of Shinsei.
 
-1118 The Lion clan's counterattack against the city after the spring thaw was massive but uncoordinated.  Akodo Arasou launched an assault from all sides, using his massive advantage in numbers to force the defenders to fight at all city gates and at every possible point of entry.
+1118 The Lion Clan's counterattack against the city after the spring thaw was massive but uncoordinated.  Akodo Arasou launched an assault from all sides, using his massive advantage in numbers to force the defenders to fight at all city gates and at every possible point of entry.
 
 When Lion forces broke through and established a bridgehead within the city, the Lion armies should have pulled back from their assault on other parts of the city walls to push forward into the city.  However, there were many different Lion daimyo present, and none of them wanted to enter the city riding the coattails of a rival.  Doji Chuto perceived this dynamic and did not order his men to fall back.  Instead, he deployed all of his reserves to push the Lion back before they could secure their place, rather than pulling back to the inner city as most any other general would have done.  This tactic was risky, but it succeeded at repelling the intruders and refortifying their defensive position.
 
-Most of the other Lion daimyo present redoubled their efforts to breach the city's defenses, far past the point where it was wise to do so, taking such heavy casualties that the entire operation ended in failure.  Among those killed in this attempt was Akodo Arasou, the future daimyo of the Lion clan.  After losing their general and taking such heavy losses, the Lion clan withdrew and the Crane clan kept the city.
+Most of the other Lion daimyo present redoubled their efforts to breach the city's defenses, far past the point where it was wise to do so, taking such heavy casualties that the entire operation ended in failure.  Among those killed in this attempt was Akodo Arasou, the future daimyo of the Lion Clan.  After losing their general and taking such heavy losses, the Lion Clan withdrew and the Crane Clan kept the city.
 
-With his brother dead, Akodo Toturi was named the next daimyo of the Lion clan, and he immediately began planning the next attempt to retake Toshi Ranbo.  Akodo Kage, Revered Sensei of the Lion Clan, and personal karo to Akodo Toturi, spent the remainder of the year recruiting peasant operatives to infiltrate the city.  They trickled in along with the other craftsmen and laborers who flock to the city looking for work, waiting for orders.  Most were isolated and without direct knowledge of each other, but they were all led by Matsu Hiroru, a talented pupil of Akodo Kage and brother to Matsu Tsuko, daimyo of the Matsu family.
+With his brother dead, Akodo Toturi was named the next daimyo of the Lion Clan, and he immediately began planning the next attempt to retake Toshi Ranbo.  Akodo Kage, Revered Sensei of the Lion Clan, and personal karo to Akodo Toturi, spent the remainder of the year recruiting peasant operatives to infiltrate the city.  They trickled in along with the other craftsmen and laborers who flock to the city looking for work, waiting for orders.  Most were isolated and without direct knowledge of each other, but they were all led by Matsu Hiroru, a talented pupil of Akodo Kage and brother to Matsu Tsuko, daimyo of the Matsu Family.
 
 During this time, the city's granaries and storehouses were largely emptied after being strained by the city's defense, and this led to riots and demonstrations by the peasantry, which prompted governor Tsume Yasujiro to declare martial law.  Prince Hantei Fukuhachi, the Emperor's youngest adult son, was assigned to oversee the transition and provide Imperial oversight to the city's administration.  Prince Fukuhachi was tasked primarily with ensuring that order was maintained, and that further uprisings were not permitted in the Emperor's third-largest city, a mere few hundred miles from Otosan Uchi.
 
@@ -1909,7 +1909,7 @@ Suzuki left the city shortly thereafter, and his companion Jotsu appeared to bet
 
 During this time, members of The Order felt their powers and abilities strengthening like never before.  What had previously been the pinnacle of mastery was now recategorized as The First Phase of a larger set of gifts.  The Order was clearly being rewarded for their efforts, even if Suzuki's position in the city was at an end.
 
-Having also returned from being healed by the prophet Baiten, Otaku Taira shared the revelation that the next Day of Thunder was at hand.  He declared that his own dreams had been interpreted by the prophet, and that Governor Yasujiro should be replaced.  Taira fought and won a duel against Yasujiro's yojimbo, killing Tsume Koreshiba, who had been known as the greatest surviving duelist of the Tsume family.  Governor Yasujiro stepped down and was replaced by Tsume Momoko, a district lieutenant who was chosen over dozens of more senior candidates at the urging of the Board of Justice.
+Having also returned from being healed by the prophet Baiten, Otaku Taira shared the revelation that the next Day of Thunder was at hand.  He declared that his own dreams had been interpreted by the prophet, and that Governor Yasujiro should be replaced.  Taira fought and won a duel against Yasujiro's yojimbo, killing Tsume Koreshiba, who had been known as the greatest surviving duelist of the Tsume Family.  Governor Yasujiro stepped down and was replaced by Tsume Momoko, a district lieutenant who was chosen over dozens of more senior candidates at the urging of the Board of Justice.
 
 During this time, a bloodspeaker whose name is forbidden to speak but who all locals know to be named Jama Manabu began targeting well-known nobles in the city.  His most widely-known early exploit was when he attempted to kidnap Tsume Horobinu, the county magistrate of Hikobayashi, a short distance outside the city.
 
@@ -1931,7 +1931,7 @@ The members of The Order contemplated sending their senior Disciple of Goju on a
 
 1122 While it took over a year for the Lion/Crane war to officially begin, those in Toshi Ranbo could see it coming long before it was made official just after the spring thaw of this year.
 
-1123 Shortly before the Day of Thunder, the descendant of Shinsei Grand Abbot Okawa discerned that crystal would be the key to a new technique by which moon cultists could be detected.  Though he died before he could develop the particulars of the technique, he sent word of this revelation with a trusted messenger just before the final confrontation with Shinjo Jotsu, who was revealed on the Day of Thunder to be the true inheritor of the Moon Cult, wielding the power of Lord Moon against the Seven Thunders.  (Also killed was Hida O-Ushi, the Crab Thunder and daughter of Hida Kisada, the daimyo of the Crab clan.)
+1123 Shortly before the Day of Thunder, the descendant of Shinsei Grand Abbot Okawa discerned that crystal would be the key to a new technique by which moon cultists could be detected.  Though he died before he could develop the particulars of the technique, he sent word of this revelation with a trusted messenger just before the final confrontation with Shinjo Jotsu, who was revealed on the Day of Thunder to be the true inheritor of the Moon Cult, wielding the power of Lord Moon against the Seven Thunders.  (Also killed was Hida O-Ushi, the Crab Thunder and daughter of Hida Kisada, the daimyo of the Crab Clan.)
 
 This came only weeks after moon cultists in the Scorpion Clan murdered their daimyo Bayushi Shoju in an attempted coup.  They were thwarted by his brother Bayushi Aramoro, whose agents had only just begun infiltrating the cult when they sprung their coup.
 
@@ -1997,7 +1997,7 @@ In the early days of creation, the celestial realms and the mortal realm were cl
 
 Ryoshun is easily identifiable as the star at the highest point in the night sky directly above the world.  He watches the skies to prevent other celestials from entering the mortal realm without permission from Lord Moon or Lady Sun, but he is more lenient about allowing denizens from the mortal realm to pass freely across the threshold if they are able to find the way.  Such passage is easier when the distances between the realms are at their lowest, as it is now understood to be in the years around a Day of Thunder.
 
-Indeed, it was Ryoshun himself who first entered the Damasu domain in the aftermath of the Tsume invasion.  The ancestral god of the Damasu was not being properly worshipped, and so he was receptive to Ryoshun's proposal to allow members of Lord Moon's heavenly court to enter the domain.  However, even having been granted this permission, they were still forbidden by Lady Sun to enter the Empire's cities without being granted access by an authority under her purview.  Ryoshun gained this by striking a bargain with an Imperial Magistrate from the Yasuki family who had been assigned to oversee the Damasu domain under Tsume rule, and so the moon cult began to spread.
+Indeed, it was Ryoshun himself who first entered the Damasu domain in the aftermath of the Tsume invasion.  The ancestral god of the Damasu was not being properly worshipped, and so he was receptive to Ryoshun's proposal to allow members of Lord Moon's heavenly court to enter the domain.  However, even having been granted this permission, they were still forbidden by Lady Sun to enter the Empire's cities without being granted access by an authority under her purview.  Ryoshun gained this by striking a bargain with an Imperial Magistrate from the Yasuki Family who had been assigned to oversee the Damasu domain under Tsume rule, and so the moon cult began to spread.
 
 Nanube - the Deceiver or the Liar:
 
@@ -2027,7 +2027,7 @@ Upon being brought before Lord Moon and demanded to account for what he had stol
 
 Thus it came to pass that even after the source of Suro's power later became known, Lord Moon's decree that none should suffer continued to protect Suro, as punishing him would violate that decree, and Lord Moon's decrees are absolute in the realm of night.
 
-Disciples of Suro learn to call upon the power of the Shadow of Nothing by beseeching Suro to share this power with those who serve him.  In the days before the Empire, this was done openly by those to the south of the Spine of the World mountains who later swore fealty to Bayushi, founder of the Scorpion clan.  The Order of Lord Moon knows that the high priestess who was chosen by the Shinsei as the Scorpion clan Thunder chose her name in honor of Suro, which is why she was known as Shosuro.  Indeed, after the defeat of Fu Leng, it was Shosuro alone who returned with the Black Scrolls, and though she died of her wounds shortly after, it was surely the Shadow whose power allowed her to be the last surviving Thunder.
+Disciples of Suro learn to call upon the power of the Shadow of Nothing by beseeching Suro to share this power with those who serve him.  In the days before the Empire, this was done openly by those to the south of the Spine of the World mountains who later swore fealty to Bayushi, founder of the Scorpion Clan.  The Order of Lord Moon knows that the high priestess who was chosen by the Shinsei as the Scorpion Clan Thunder chose her name in honor of Suro, which is why she was known as Shosuro.  Indeed, after the defeat of Fu Leng, it was Shosuro alone who returned with the Black Scrolls, and though she died of her wounds shortly after, it was surely the Shadow whose power allowed her to be the last surviving Thunder.
 
 #### A Saibankan Ruling
 
@@ -2223,7 +2223,7 @@ Many provincial cities in the Empire began as small county townships and grew ov
 
 Likewise, many lineages were established by those who distinguished themselves to their daimyo, who rewarded them with an appointment to the chancellery.  In many cases, members of other lineages which have fallen into disfavor will clamor to marry or be adopted into this new lineage, and new lineages often end up being created specifically to reward and elevate specific members from some existing lineage.  These lineages are not tied to any particular province, though they may lobby for their members to be appointed to administer counties and provinces when those positions come before the House Chancellery.  Such lineages are often referred to as cosmopolitan lineages, which communicates that they are based in their domain's capital.
 
-These cosmopolitan lineages often have semi-hereditary government posts which they always occupy.  For example, the Sasara lineage of the Ryusei domain (of the Mirumoto family of the Dragon clan) always holds the position of Minister of Rites, in recognition of their piety and mastery of proper religious doctrine.  There are no laws or decrees to that effect, but once such a tradition has persisted for centuries, few samurai nobles would break with the past without an extremely compelling reason.
+These cosmopolitan lineages often have semi-hereditary government posts which they always occupy.  For example, the Sasara lineage of the Ryusei domain (of the Mirumoto Family of the Dragon Clan) always holds the position of Minister of Rites, in recognition of their piety and mastery of proper religious doctrine.  There are no laws or decrees to that effect, but once such a tradition has persisted for centuries, few samurai nobles would break with the past without an extremely compelling reason.
 
 Provinces like Akishi which are administered by a provincial lineage are often called dynasty provinces.  Provinces whose provincial governments are drawn from the domain's various lineages based on merit and politics are known as stewardship provinces.
 
@@ -2231,7 +2231,7 @@ Provinces like Akishi which are administered by a provincial lineage are often c
 
 Many, many of the original Damasu samurai died in the initial Tsume invasion, during the failed attempt to retake Toshi Ranbo, and then in 6 years of front-line fighting in the Lion/Crane war.  As mentioned above, this makes the current makeup of Damasu lineages quite different from what it was before these events.
 
-In particular, other vassal families of the Lion clan were eager to reward their own nobles with prestigious appointments in Damasu lands.  This includes not only the new provinces which were conquered from the Crane clan, but also the new government posts in the Six Ministries in Toshi Ranbo which needed to be filled after the original Ministers were killed in the Tsume invasion.
+In particular, other vassal families of the Lion Clan were eager to reward their own nobles with prestigious appointments in Damasu lands.  This includes not only the new provinces which were conquered from the Crane Clan, but also the new government posts in the Six Ministries in Toshi Ranbo which needed to be filled after the original Ministers were killed in the Tsume invasion.
 
 This means that a large chunk of current Damasu samurai were born in other domains (mostly other Akodo domains), and its largest lineages are mostly made up of these "outsider" lineages.
 
@@ -2247,9 +2247,9 @@ Presumably the Damasu House Ministry of Retainers could compute the exact percen
 
 - A third are from the original Damasu lineage, e.g. people who were out in the provinces or in the capital of Otosan Uchi when the Tsume invaded.
 
-- A third are from other scattered lineages of the Damasu family which no longer exist, with all of their senior members having died in the war.
+- A third are from other scattered lineages of the Damasu Family which no longer exist, with all of their senior members having died in the war.
 
-- A third are from other Lion domains, who like Akodo Hiroki joined the lineage after the Lion clan retook the city of Toshi Ranbo.  Most people from this third of the lineage were being rewarded with prestigious government posts, and if you ever meet an NPC from the Damasu lineage in such a respected position, they are almost certainly from this third of the lineage.
+- A third are from other Lion domains, who like Akodo Hiroki joined the lineage after the Lion Clan retook the city of Toshi Ranbo.  Most people from this third of the lineage were being rewarded with prestigious government posts, and if you ever meet an NPC from the Damasu lineage in such a respected position, they are almost certainly from this third of the lineage.
 
 ##### The Chura lineage
 
@@ -2269,7 +2269,7 @@ Akodo no Damasu Sei is from the ruling Akodo lineage of the Lion, and given that
 
 This choice is thought to reflect his unorthodox thinking - Sei is known for his study of the Tao of Shinsei, something most Akodo only begin to read if they live long enough to retire, and his piety led him to push for his sister Akodo no Damasu Chishin to become the new Damasu Minister of Rites.
 
-The Sei lineage is also a provincial lineage, having been granted authority over the province of Shimotsuke after it was taken from the Tsume family.
+The Sei lineage is also a provincial lineage, having been granted authority over the province of Shimotsuke after it was taken from the Tsume Family.
 
 ##### The Kiyomi, Bian, and Uyo lineages
 
@@ -2285,7 +2285,7 @@ The above lineages are the seven lineages represented on the Damasu chancellery.
 
 ##### The Riori lineage
 
-The Riori are one of the founding lineages of the Damasu family, a provincial lineage which has administered the city and province of Owari for over a thousand years.
+The Riori are one of the founding lineages of the Damasu Family, a provincial lineage which has administered the city and province of Owari for over a thousand years.
 
 Owari was the Damasu province which bordered the Tsume before the war, and the fortress city of Owari was the only thing which stood between the Tsume domain and Toshi Ranbo, which Tsume Retsu bypassed in his sneak attack.
 
@@ -2301,7 +2301,7 @@ As long as the Riori lineage exists, they will always retain governorship of Owa
 
 ##### The Taizo lineage
 
-The Taizo lineage was previously one of the major lineages on the Damasu chancellery.  The Taizo have fallen into disfavor due to having spoken out so harshly against the prophet Baiten, who proclaimed that the Day of Thunder was at hand.  After the murder of the prophet was announced in Kyuden Akodo, Akodo no Damasu Tomoko publicly declared that this should put a stop to the nonsense talk, and that at least the Tsume family had finally done one worthwhile thing in their miserable existence.
+The Taizo lineage was previously one of the major lineages on the Damasu chancellery.  The Taizo have fallen into disfavor due to having spoken out so harshly against the prophet Baiten, who proclaimed that the Day of Thunder was at hand.  After the murder of the prophet was announced in Kyuden Akodo, Akodo no Damasu Tomoko publicly declared that this should put a stop to the nonsense talk, and that at least the Tsume Family had finally done one worthwhile thing in their miserable existence.
 
 After the Day of Thunder later occurred, and Baiten was proven correct, Tomoko was disgraced, and as the highest ranking member of the Taizo lineage, her influence reflected poorly on all who chose to continue to affiliate with the Taizo.  When the Damasu domain was retaken, many Taizo samurai took the opportunity to affiliate themselves with other lineages.
 
@@ -2321,13 +2321,13 @@ There are a small handful of other Nire serving in government posts around the D
 
 With the people covered, here are the provinces of the Damasu.
 
-Prior to the Lion/Crane war, the Damasu domain consisted of six provinces.  After Toshi Ranbo fell, they lost all but two of those provinces to the Tsume, but by the end of the war the Lion clan managed to reclaim all that they had lost and take four additional provinces from the Tsume domain.
+Prior to the Lion/Crane war, the Damasu domain consisted of six provinces.  After Toshi Ranbo fell, they lost all but two of those provinces to the Tsume, but by the end of the war the Lion Clan managed to reclaim all that they had lost and take four additional provinces from the Tsume domain.
 
 The peace treaty which the Emperor helped negotiate stipulated a dueling tournament which determined the disposition of the four provinces which originally belonged to the Tsume. Twenty duelists drawn from the Crane and Phoenix clans dueled 20 Lion duelists, and Lion victories resulted in the Lion retaining those provinces, while Lion defeats allowed the Crane to pay an enormous sum of money in exchange for retaining control of the province.
 
 The Lion did well in this tournament, but the Damasu lost the Tango province in an upset duel in which Doji Masayo killed the expected-to-win Akodo no Damasu Tsuo after showing up with the cursed sword Shitsuten.
 
-The current Damasu domain therefore consists of their six original provinces plus three new Tsume provinces.  The three new provinces have each been assigned to a lineage from a different Akodo family who helped retake the domain.
+The current Damasu domain therefore consists of their six original provinces plus three new Tsume provinces.  The three new provinces have each been assigned to a lineage from a different Akodo Family who helped retake the domain.
 
 ##### Owari
 
@@ -2349,7 +2349,7 @@ Hitachi means "ever-present land", and this is the province directly to the sout
 
 ##### Higo
 
-Higo means "fat later" or "abundant harvest," due to its fertile lands along the Drowned Merchant River.  This is one of the two provinces which the Lion clan retained, and until recently it had been absorbed by the neighboring Chura domain.
+Higo means "fat later" or "abundant harvest," due to its fertile lands along the Drowned Merchant River.  This is one of the two provinces which the Lion Clan retained, and until recently it had been absorbed by the neighboring Chura domain.
 
 ##### Izumo
 
@@ -2365,7 +2365,7 @@ Yamagata means "mountain shape," and this is one of the former Tsume provinces, 
 
 ##### Suruga
 
-Suruga means "swift-flowing river" or "fast horse," and this is indeed where the waters of the Drowned Merchant River flow most quickly down from the mountains to the north.  This province was won by Matsu Kenji, who was previously banished as a ronin but recently redeemed himself through unknown deeds and thus was available to fight on behalf of the Lion clan and narrowly defeat the formidable duelist Shiba Katsuda.  The provincial government of Suruga is staffed mainly by the new Hiyu lineage.
+Suruga means "swift-flowing river" or "fast horse," and this is indeed where the waters of the Drowned Merchant River flow most quickly down from the mountains to the north.  This province was won by Matsu Kenji, who was previously banished as a ronin but recently redeemed himself through unknown deeds and thus was available to fight on behalf of the Lion Clan and narrowly defeat the formidable duelist Shiba Katsuda.  The provincial government of Suruga is staffed mainly by the new Hiyu lineage.
 
 ##### Shimotsuke
 
@@ -2381,13 +2381,13 @@ In addition to the required temples to Bishamon and Daikoku that every Lion city
 
 ##### The Temple of Bishamon
 
-The Lion clan is most known for its formidable military prowess, and Bishamon is the most important Fortune to the Lion.  With over 200 members living in the main temple complex in Toshi Ranbo, the Order of Bishamon is the biggest, richest, most influential temple in Damasu lands.
+The Lion Clan is most known for its formidable military prowess, and Bishamon is the most important Fortune to the Lion.  With over 200 members living in the main temple complex in Toshi Ranbo, the Order of Bishamon is the biggest, richest, most influential temple in Damasu lands.
 
 Under the Tsume administration the Order of Bishamon's influence was minimal, but it was restored to its rightful position as most esteemed temple in the city with the return of the Damasu.
 
 ##### The Temple of Daikoku
 
-Grand Abbot Okawa was the head of the Order of Daikoku in Scorpion lands.  Although Daikoku is not one of the patron Fortunes of the Scorpion clan, the city of Ryoko Owari boasts the largest Temple of Daikoku in the Empire, and under Okawa's decades-long leadership the temple began to spread its influence throughout Scorpion lands.  Okawa himself was blessed with the gift of prophecy, and all who heard his sermons were changed by them.
+Grand Abbot Okawa was the head of the Order of Daikoku in Scorpion lands.  Although Daikoku is not one of the patron Fortunes of the Scorpion Clan, the city of Ryoko Owari boasts the largest Temple of Daikoku in the Empire, and under Okawa's decades-long leadership the temple began to spread its influence throughout Scorpion lands.  Okawa himself was blessed with the gift of prophecy, and all who heard his sermons were changed by them.
 
 Okawa was revealed on the Day of Thunder to be the descendant of Shinsei, and it was he who gathered together the Seven Thunders to defeat Shinjo Jotsu, Lord Moon's Champion.  This has spurred the Temple of Daikoku to even greater heights, and after the previous Grand Abbot of Daikoku for Damasu lands died, one of Okawa's disciples was appointed.
 
@@ -2397,13 +2397,13 @@ Daikoku is a patron fortune of both the Crane and Lion clans, and thus this temp
 
 ##### The Temple of Sadahako
 
-After the prophet Baiten was banished from Toshi Ranbo by the Tsume administration, the Crane clan brought in Grand Abbot Benshi to help heal the divisions this caused.  Benshi was the Grand Abbot of Sadahako, the fortune of artists and entertainers, for all of Crane lands.  See the Timeline for a longer explanation of these events.
+After the prophet Baiten was banished from Toshi Ranbo by the Tsume administration, the Crane Clan brought in Grand Abbot Benshi to help heal the divisions this caused.  Benshi was the Grand Abbot of Sadahako, the fortune of artists and entertainers, for all of Crane lands.  See the Timeline for a longer explanation of these events.
 
 After the murder of the prophet, the Order of Sadahako took on the continuation of Baiten's ministry, and is still the fastest growing order in the Empire, as its missionaries spread Baiten's words and wisdom throughout the Empire.  While the Damasu dismissed Grand Abbot Benshi back to Crane lands, his disciples in the city have continued to carry on Baiten's work through the Temple of Sadahako here.  Although this temple receives comparably little government funding, it continues to reap large donations from the city's non-samurai populace.
 
 ##### The Temple of Benten
 
-There was no major Temple to Benten before the Tsume occupation, but the Crane clan established a major temple here in accordance with the Imperial direction that all cities in the Empire should have temples to each of their clan's patron fortunes.
+There was no major Temple to Benten before the Tsume occupation, but the Crane Clan established a major temple here in accordance with the Imperial direction that all cities in the Empire should have temples to each of their clan's patron fortunes.
 
 The Damasu administration have mainly left this temple alone, as they do not wish to offend Benten by deconsecrating her temple, but neither are they bolstering it with city funds.  The temple itself remains a destination for those wishing to make an offering to Benten to ensure a good marriage for themselves or their children, but otherwise this temple has largely fallen into obscurity.
 
@@ -2602,7 +2602,7 @@ The second daughter of Akodo no Damasu Masatoshi, the Governor of Mino, Hoshiko 
 
 ### Akodo no Damasu Jinsei
 
-The second son of Akodo no Damasu Taro, Jinsei's father sent him to Toshi Ranbo after his gempukku the week before Setsubun last year to continue his training.  Believing that strength will be needed in the years ahead as peaceful relations with the Crane clan inevitably break down again, Jinsei has spent considerable time in the Temple of Bishamon praying before its holy relics, as well as testing himself in the city's many dojos.
+The second son of Akodo no Damasu Taro, Jinsei's father sent him to Toshi Ranbo after his gempukku the week before Setsubun last year to continue his training.  Believing that strength will be needed in the years ahead as peaceful relations with the Crane Clan inevitably break down again, Jinsei has spent considerable time in the Temple of Bishamon praying before its holy relics, as well as testing himself in the city's many dojos.
 
 ### Akodo no Damasu Maya
 
@@ -2662,9 +2662,9 @@ Wielder of the feared sword Tamashikari (Soul Anchor) - see the Famous swords se
 
 Maiko arrived the week before Setsubun last year on a warrior's pilgrimage.  She has stayed in the city testing herself in local dojos and working her way through the Order of Bishamon's Temple relics to pray and further strengthen herself for whatever future trials lie ahead of her now that her work hunting moon cultists in Scorpion lands has been declared to be complete.
 
-Of course, with the Scorpion clan, it's impossible to tell whether anything that has been declared to be true is actually truthful, and Maiko's past experience as a moon cultist hunter has made some in the temple nervous.  However, she has never had any affiliation with the Crystal Champion, as her past duties purely involved seeking vengeance towards those who betrayed the Scorpion clan specifically - though it would be in line with Scorpion clan spycraft to hold such a title in secret.
+Of course, with the Scorpion Clan, it's impossible to tell whether anything that has been declared to be true is actually truthful, and Maiko's past experience as a moon cultist hunter has made some in the temple nervous.  However, she has never had any affiliation with the Crystal Champion, as her past duties purely involved seeking vengeance towards those who betrayed the Scorpion Clan specifically - though it would be in line with Scorpion Clan spycraft to hold such a title in secret.
 
-However, Maiko has displayed no interest whatsoever in moon cultists, and has never even brought up the temple's past struggles with the moon cult, even as she has spent considerable time praying and meditating in the temple, and seeking the instruction of its monks.  She has expressed a particular interest in the temple's relics as a way to empower herself and strengthen her bond with the sword Tamashikari, that she may better defeat enemies of the Scorpion clan, whether executing traitors or simply winning duels against those who oppose her clan's interests.
+However, Maiko has displayed no interest whatsoever in moon cultists, and has never even brought up the temple's past struggles with the moon cult, even as she has spent considerable time praying and meditating in the temple, and seeking the instruction of its monks.  She has expressed a particular interest in the temple's relics as a way to empower herself and strengthen her bond with the sword Tamashikari, that she may better defeat enemies of the Scorpion Clan, whether executing traitors or simply winning duels against those who oppose her clan's interests.
 
 ### Daidoji Yoshiyasu
 
@@ -2678,7 +2678,7 @@ After the war ended, as part of the plan to repay Aki lineage debts, Yoshiyasu s
 
 The county magistrate of Choshizuka, a county from the Kai province of the ruling Hida domain, Kinori's county lies between the 3rd Imperial Legion and the 1st Crab legion.  Kinori was personally present for the events leading up to the Black Scrolls being recharged, and had many encounters with the heroes whose mission recharged them, and this has driven her to seek out her own strength and religious understanding.
 
-Kinori opposed the creation of a shrine to Osano-Wo, the Lord of Storms, and father to Hida Kaimetsu-Uo (who left the Crab to found the Mantis clan), on the Kaiu Wall at the edge of her county.  When she was overruled, and the shrine later struck by lightning - an unambiguous sign of the Fortune's approval - she was humbled.  When the Black Scrolls were later recharged, and it became clear that challenging times would be ahead, Kinori set out on her pilgrimage to Toshi Ranbo.
+Kinori opposed the creation of a shrine to Osano-Wo, the Lord of Storms, and father to Hida Kaimetsu-Uo (who left the Crab to found the Mantis Clan), on the Kaiu Wall at the edge of her county.  When she was overruled, and the shrine later struck by lightning - an unambiguous sign of the Fortune's approval - she was humbled.  When the Black Scrolls were later recharged, and it became clear that challenging times would be ahead, Kinori set out on her pilgrimage to Toshi Ranbo.
 
 Here she seeks not only Bishamon's strength but also his wisdom, for knowing when and how to support or oppose an action, whether religious or political or military, is the essence of wise strength.
 
@@ -2694,7 +2694,7 @@ Takeo wears the clothes he wore when he defeated an Oni no Taki-Bi (a fire oni),
 
 Haruto is the eldest son of Ikoma Yuan, the Deputy Minister of War for the entire Ikoma Family.  Yuan was born into the Ryusei domain of the Mirumoto Family of the Dragon Clan, but he was exiled as the result of an internal political dispute within his own Isa lineage, after his blood feud with the wicked Shinjo no Natsune Jo escalated into a full-blown war.
 
-Yuan is himself a courtier, and was the Minister of Revenue for the Yokohama province in the Ryusei domain, before honor demanded that he call out Jo, the wicked Provincial Minister of Justice from the neighboring Unicorn Clan domain, who had been sheltering bandits and other criminals.  With his blood feud he was able to take the life of the Chancellor of the Atsue lineage, Jo's cousin, in a plot which embroiled the Lion clan into his efforts and forged an alliance which ultimately led to the Lion / Unicorn war.
+Yuan is himself a courtier, and was the Minister of Revenue for the Yokohama province in the Ryusei domain, before honor demanded that he call out Jo, the wicked Provincial Minister of Justice from the neighboring Unicorn Clan domain, who had been sheltering bandits and other criminals.  With his blood feud he was able to take the life of the Chancellor of the Atsue lineage, Jo's cousin, in a plot which embroiled the Lion Clan into his efforts and forged an alliance which ultimately led to the Lion / Unicorn war.
 
 After his exile from his home domain, he swore fealty to Ikoma Tsanuri, and was appointed Deputy Minister of War after the Battle of Dark Edge Village claimed the lives of the previous Deputy Minister, Minister, and many others who were born into the noble lineages of the Ikoma who might have replaced them.  Yuan is sensitive to the Lion's value of martial prowess, and as a courtier he has ensured that his eldest son Haruto has not only trained as a bushi, but has been sent on a warrior's pilgrimage to train in Toshi Ranbo, and seek Bishamon's wisdom and strength in the Temple and through its many relics.
 
@@ -2702,7 +2702,7 @@ Haruto arrived in the spring of this year, but unfortunately it turns out he wou
 
 ### Ikoma no Wakashi Sasha
 
-Sasha is the now-retired chancellor of the Reiko lineage of the Wakashi House, the domain which borders the Natsune domain (across the Drowned Merchant River) of the Shinjo domain of the Unicorn clan.  Sasha declares himself to be "the man who started the Lion / Unicorn war", and this is no mere brag - he led the envoy in which Ikoma Yuan (see Ikoma Haruto above) slew the Atsue chancellor as part of his blood feud, an action which heightened tensions between the Lion and Unicorn clans, which ultimately culminated in war.
+Sasha is the now-retired chancellor of the Reiko lineage of the Wakashi House, the domain which borders the Natsune domain (across the Drowned Merchant River) of the Shinjo domain of the Unicorn Clan.  Sasha declares himself to be "the man who started the Lion / Unicorn war", and this is no mere brag - he led the envoy in which Ikoma Yuan (see Ikoma Haruto above) slew the Atsue chancellor as part of his blood feud, an action which heightened tensions between the Lion and Unicorn clans, which ultimately culminated in war.
 
 The war went well at the beginning, with the Lion winning several early victories and laying siege to Kyuden Shinjo.  It was only when the Moto appeared, with greater strength than anyone imagined they possessed, that their victory turned to ashes, and they lost over eight thousand bushi in a single day.
 
@@ -2712,7 +2712,7 @@ Still, Sasha remains uncertain, as the weight of responsibility lies heavy on hi
 
 ### Isawa Kazuki
 
-Kazuki is the chancellor of the Isawa lineage, something which would make him one of the most powerful men in any other clan, but the Isawa - and indeed the Phoenix clan itself - is truly ruled by the Council of Elemental Masters rather than by a daimyo, and despite being technically a vassal family of the Phoenix, the Isawa pay no taxes to the Shiba, for the Great Ancestor Shiba himself bent the knee to Isawa, the greatest man of his generation.
+Kazuki is the chancellor of the Isawa lineage, something which would make him one of the most powerful men in any other clan, but the Isawa - and indeed the Phoenix Clan itself - is truly ruled by the Council of Elemental Masters rather than by a daimyo, and despite being technically a vassal family of the Phoenix, the Isawa pay no taxes to the Shiba, for the Great Ancestor Shiba himself bent the knee to Isawa, the greatest man of his generation.
 
 Still, being chancellor of the ruling lineage remains a position of great power and influence, and Kazuki spent the entire Lion / Crane war urging other members of his clan to engage more actively.  The Phoenix, after all, had declared war on the Lion, and Kazuki believed his Clan to be losing face and looking weak for declaring a war that they refused to fight.  Kazuki spent years growing angrier and more frustrated with his own Clan, convincing some but refusing to sway anyone who held the power to do anything, and he was far too loyal a servant to his Clan daimyo and the Elemental Masters to ever act without permission.
 
@@ -2736,7 +2736,7 @@ Isamu arrived this past autumn with his friend and fellow Hero of the Black Scro
 
 ### Matsu Chokoku
 
-In addition to being a hero of the Lion clan, Chokoku is a local hero to the Damasu in particular, for it was he who defeated Tsume Koreshiba in the Sunset Blade Trials - without him, the province of Suruga would have been required to have been sold to the Crane clan, as per the terms of the peace treaty.
+In addition to being a hero of the Lion Clan, Chokoku is a local hero to the Damasu in particular, for it was he who defeated Tsume Koreshiba in the Sunset Blade Trials - without him, the province of Suruga would have been required to have been sold to the Crane Clan, as per the terms of the peace treaty.
 
 Chokoku is also a hero of the southern front of the war, and helped Matsu Agetoki wage a nearly successful siege of Kyuden Kakita.  Agetoki was forced to pull his forces back as part of a contest in Imperial Winter Court - after the final contestants of the Bowman's Wager were narrowed down to himself and Doji Kuwanen, they made a significant wager regarding the permanent surrender of a province currently held by the Crane against Agetoki ordering an immediate withdrawal before the springtime if peace were not declared.  Agetoki's loss strengthened the Crane negotiating position in the peace summit, though Chokoku has remained staunchly in favor of his friend, who did as any warrior should, taking risks and pitting his skill against that of his enemy.
 
@@ -2772,7 +2772,7 @@ With Hitomi returned home and Daini having relinquished his stewardship of the M
 
 ### Moto Chenghiz
 
-This man's gaijin name reveals the gaijin nature of the Moto family, who are clearly not from Rokugan originally, and who have managed, through Crane trickery, to have convinced the Imperial Ministry of Retainers that their ancestors hail from just past the Twilight Mountains, when in fact their true homeland is clearly Medin al Salaat.
+This man's gaijin name reveals the gaijin nature of the Moto Family, who are clearly not from Rokugan originally, and who have managed, through Crane trickery, to have convinced the Imperial Ministry of Retainers that their ancestors hail from just past the Twilight Mountains, when in fact their true homeland is clearly Medin al Salaat.
 
 Chenghiz is the eldest son of Moto Jochi, the Moto Minister of Revenue, and Chenghiz is an expert on "Moto law", as evidently the Moto are so barbarous as to not simply employ "Saibankan's Net", the system of magistrates handed down for centuries through the Imperial Ministry of Justice.
 
@@ -2830,7 +2830,7 @@ Indeed, the Michio were one of the five families of the Gozoku, along with the B
 
 Katsuro has arranged sparring matches against many local duelists, including some other relic seekers.  He won his match against Shiba Tsukune, lost his match to Matsu Yokijiro, won against Matsu Chokoku, lost to Mirumoto Kiyoshi, and strangely has yet to challenge his fellow Scorpion Bayushi no Akiko Maiko.
 
-Katsuro is the captain of the Lightning Squad, an elite team of first responders who swiftly deploy to any incident in Ryoko Owari.  The city guard of Ryoko Owari are known as the Thunder Guard, and just as thunder follows lightning, the entire city's forces will be close behind Katsuro when needed to put down any unrest.  He strives to always be worthy of such responsibilities, and managed to on several occasions strike at moon cult hideouts, whose members had fled Kyuden Bayushi and tried to hide in Ryoko Owari.  Now that it has been over a year since any such traitors to the Scorpion clan have been found, Katsuro has journeyed to Toshi Ranbo on a warrior's pilgrimage, arriving this summer to pray and train.
+Katsuro is the captain of the Lightning Squad, an elite team of first responders who swiftly deploy to any incident in Ryoko Owari.  The city guard of Ryoko Owari are known as the Thunder Guard, and just as thunder follows lightning, the entire city's forces will be close behind Katsuro when needed to put down any unrest.  He strives to always be worthy of such responsibilities, and managed to on several occasions strike at moon cult hideouts, whose members had fled Kyuden Bayushi and tried to hide in Ryoko Owari.  Now that it has been over a year since any such traitors to the Scorpion Clan have been found, Katsuro has journeyed to Toshi Ranbo on a warrior's pilgrimage, arriving this summer to pray and train.
 
 ### Togashi Ichiharu, Mirumoto Kiyoshi, and Kitsuki Hina
 
@@ -2860,7 +2860,7 @@ There weren't any shocking living situations, though there were a few minor surp
 - **Asako Sachi** has a small city home which she evidently has barely used since buying it.  She has been so popular with the city's courtiers, and with the daimyo Damasu Chiho in particular, that she has been granted semi-permanent quarters in the castle keep.  Strangely, she seemed to have some other third residence, since she spends at least a few days each week elsewhere in the city, and not at her rented home.  Your staff initially assumed she was pursuing romantic entanglements, but it turned out to be the opposite - she frequently spends the night praying at the Temple of Sadahako, alternating between the smaller one in the Temple District, and the larger temple a mile outside the city.
 - **Hida no Noriko Takeo** is renting a house in the merchant neighborhood to the northeast of Merchant's Cross Lake, specifically the one which used to be a samurai neighborhood.  When asked, his wife explained that she hadn't realized the neighborhood status had changed when she rented it.  This would be in keeping with a separate real estate blunder she also made, in which she bought several warehouses from the Akio merchant family, apparently not realizing that they were in northeast Owari too far from the city, canals, and Imperial roads to be useful.  Your staff described Takeo as smiling fondly as his wife described the home rental snafu, reporting that he seems charmed rather than annoyed by his wife's poor household management skills.  (Presumably, if this was something he valued highly enough, he would have married a Yasuki instead of a fellow Hida.)
 - **Kuni Isamu** told the temple that they could find him through the local Witch Hunters (plural!  Toshi Ranbo is one of only four cities in the Empire to have more than one Witch Hunter, along with Otosan Uchi, Ryoko Owari, and the Yasuki Estates).  However, he turned out to be living with his friend and fellow recipient of the Order of the Precious Crown, Shiba Asayo.  Both of them appear to be training dogs for sport, to compete in some kind of local dogfighting circuit.  Evidently they are engaged in a project to prove that dogs initially trained for hunting and then turned into fighters will be superior to classically trained fighting dogs in certain respects, and they perform this project in their spare time on the grounds of Asayo's rented country home in Hikobayashi, just outside the city.
-- **Ikoma Haruto** has a small rented home in the city, along with other visiting members of the Ikoma family.  It's surprising that he does not stay with Ikoma Aimi, the Ikoma Emissary to the Damasu, especially since his father is the Ikoma Family Deputy Minister of War, and is from the same ruling Ikoma lineage as Aimi.  More surprising is that when your staff visited Aimi's estate, they were followed out by a Phoenix merchant named Shiba no Kenshin Basho, who inquired about their business and position.  Upon learning that the visiting monks report to the karmic inquisitors, Basho immediately made a 4 bu, 1 zeni donation (no one would ever give a gift of exactly 4 bu, due to the number's association with death), and asked to be informed when you returned to the city, so he could speak to you about his business as a horse trader.
+- **Ikoma Haruto** has a small rented home in the city, along with other visiting members of the Ikoma Family.  It's surprising that he does not stay with Ikoma Aimi, the Ikoma Emissary to the Damasu, especially since his father is the Ikoma Family Deputy Minister of War, and is from the same ruling Ikoma lineage as Aimi.  More surprising is that when your staff visited Aimi's estate, they were followed out by a Phoenix merchant named Shiba no Kenshin Basho, who inquired about their business and position.  Upon learning that the visiting monks report to the karmic inquisitors, Basho immediately made a 4 bu, 1 zeni donation (no one would ever give a gift of exactly 4 bu, due to the number's association with death), and asked to be informed when you returned to the city, so he could speak to you about his business as a horse trader.
 
 ### Initial follow-up to the initial findings
 
@@ -2885,7 +2885,7 @@ The PCs requested their staff try to track down those who were out of the city, 
 
 - **Asako Sachi** has been confirmed to have been spending most nights in the main Temple of Sadahako outside of the city in western Owari.  Your staff visited and spent considerable time praying there, and observed her talking with Grand Abbot Naoki.  Normally a visiting samurai consulting with the Grand Abbot of the Order of Sadahako would be presumed to be seeking advice, but in this case it may have been Naoki who was consulting with Sachi, who is an Empire-renowned expert ichthyologist and also extremely politically connected with the Imperial Court.  The content of their discussions is unknown, though your staff is working diligently to learn more.
 
-- **Hida no Noriko Takeo** has evidently returned to the city.  Huiru couldn't locate him when he last tried, but your staff found him at home, and made inquiries with his neighbors about his conduct.  They had evidently expected a series of wild parties when they learned a Crab clan bushi was moving into the neighborhood, as the Crab clan generally and Hida bushi in particular are notorious drunkards, but evidently the family is on their best behavior while visiting a foreign city.  Takeo and his wife keep to themselves and display the proper reserve and decorum expected of samurai, even those  temporarily housed in a merchant neighborhood.
+- **Hida no Noriko Takeo** has evidently returned to the city.  Huiru couldn't locate him when he last tried, but your staff found him at home, and made inquiries with his neighbors about his conduct.  They had evidently expected a series of wild parties when they learned a Crab Clan bushi was moving into the neighborhood, as the Crab Clan generally and Hida bushi in particular are notorious drunkards, but evidently the family is on their best behavior while visiting a foreign city.  Takeo and his wife keep to themselves and display the proper reserve and decorum expected of samurai, even those  temporarily housed in a merchant neighborhood.
 
 - **Togashi Ichiharu** has evidently been returning to the city so late at night that it's practically morning by the time he returns.  Huiru was unable to locate him when last he tried, but he is definitely spending time in the city in the home he shares with Mirumoto Kiyoshi.  Your staff spoke with the city guards who oversee the gates between the neighborhoods, and evidently Ichiharu returns every night through the northern city gate - despite the fact that the rightward gate is closer to his home.  The guards report that while this has been happening on and off for the past year, it picked up and became an almost-every-night occurrence the month before last.
 
@@ -2911,7 +2911,7 @@ When Kakita Kenji forced the governor to step down by winning a duel against his
 
 This is the most famous sword possessed by the Riori lineage, and is the familial sword of the governor of Owari, who has always been a Riori ever since Akodo Riori swore fealty to Lord Akodo and was assigned as a retainer to Akodo Damasu at the dawn of the Empire.  The rhyme of the names is intentional - Ohari means "big needle" and Owari is the "end" of the domain, acting as a bulwark against foreign invaders, with the Riori lineage forever an important line of defense.
 
-The sword gained its reputation during the Gozoku.  The Tsume house and their allies pushed south - prior to the Gozoku there were two Crane clan domains to the north of Imperial lands, with the rest of the Crane being to the south, and the Crane sought to conquer a strip of Lion lands to join the north and south together, along with forcing the Seppun to forfeit some of their own holdings through political machinations in the Imperial Court.
+The sword gained its reputation during the Gozoku.  The Tsume house and their allies pushed south - prior to the Gozoku there were two Crane Clan domains to the north of Imperial lands, with the rest of the Crane being to the south, and the Crane sought to conquer a strip of Lion lands to join the north and south together, along with forcing the Seppun to forfeit some of their own holdings through political machinations in the Imperial Court.
 
 Tsume Nobura was made the daimyo of the new Nobura domain, and while acting as general of his new retainers, he tried to expand his holdings by pushing into Hiyu lands.  The Damasu contributed troops to the support of their southern neighbors, and General Fumikazu personally struck down General Nobura, piercing his armor with his family sword Ohari, which stabbed (rather than slashed) through the heavy armor like a needle passing through cloth, scattering his troops and winning the battle in that moment.
 
@@ -2939,9 +2939,9 @@ It is disputed whether Akodo truly said this, and some past Lion daimyo have cla
 
 While the Lion have fought many wars, their most infamous conflicts have been internal, especially between the Akodo and Matsu families.  There came a time when the Matsu outgrew the Akodo, becoming the largest Great Family in all the Empire.  At this time, the discontent between the Akodo and Matsu grew, and many in the Matsu wondered whether they should continue to owe fealty and pay taxes to a smaller and perhaps weaker Family.
 
-Akodo Fujita was the second son of the Lion daimyo, and it was he who managed to strike a balance, making peace while ensuring that the Matsu both received the respect and honor that they were due and also provided the taxes and levies which they owed.  To symbolize this act of peacemaking, Fujita commissioned this sword, which acts as a tribute to the bond between all of the families of the Lion.  Fujita himself married a Matsu woman, and unlike any member of the Akodo daimyo's immediate family through the centuries until that point, joined the Matsu family rather than keeping his Akodo family name, in honor of the Matsu family's strength and honor.
+Akodo Fujita was the second son of the Lion daimyo, and it was he who managed to strike a balance, making peace while ensuring that the Matsu both received the respect and honor that they were due and also provided the taxes and levies which they owed.  To symbolize this act of peacemaking, Fujita commissioned this sword, which acts as a tribute to the bond between all of the families of the Lion.  Fujita himself married a Matsu woman, and unlike any member of the Akodo daimyo's immediate family through the centuries until that point, joined the Matsu Family rather than keeping his Akodo family name, in honor of the Matsu Family's strength and honor.
 
-Kishin no Ketsui features a golden guard engraved with a lion's mane, depicting the courage and authority of the Lion.  When one masters this sword, its blade resonates with the user's heartbeat, growing steadier and more precise as the wielder's resolve strengthens.  It is thus able to guide its owner towards ends which specifically involve Lion family unity, and as such the sword has at this point been possessed over the centuries by members of each Lion family - even the Kitsu!
+Kishin no Ketsui features a golden guard engraved with a lion's mane, depicting the courage and authority of the Lion.  When one masters this sword, its blade resonates with the user's heartbeat, growing steadier and more precise as the wielder's resolve strengthens.  It is thus able to guide its owner towards ends which specifically involve Lion Family unity, and as such the sword has at this point been possessed over the centuries by members of each Lion Family - even the Kitsu!
 
 Akodo no Damasu Sei carried this sword in Imperial court while the peace treaty between the Lion and Crane was being negotiated.  While Sei did not act as a primary negotiator or meet personally with the Emperor, he was heavily involved in the ancillary negotiations.  (Timetables on the delivery of gifts and other payments, the percentage of payments made in gold vs silver vs rice, etc.)  Sei brought this sword to Damasu lands after swearing fealty to Damasu Chiho after the war, and now uses the sword to strengthen the peace as Chancellor of the new Sei lineage.
 
@@ -2965,15 +2965,15 @@ While meditating at the mountain's highest plateau, a meteor began to descend fr
 
 The blade now carries with it not only the residual patterns from the scorching meteorite, but the essence of fire, and this has only further empowered the sword, especially when on the attack.  Tsume Retsu held it as he personally led the assault which conquered Toshi Ranbo in 1117, and Kasai Tsume has been used throughout the history of the violent Tsume house in many battles.
 
-This sword is said to be at its most powerful when attacking - it has never participated in a broken siege as the attacker.  However, the times when its wielders have been defeated have invariably been when on the defense, when the sword (while great in power in all situations) is less able to bring its awesome might to bear.  During the Lion/Crane war, the Lion clan was consistently on the offense, which allowed for few circumstances in which the sword could be wielded effectively.
+This sword is said to be at its most powerful when attacking - it has never participated in a broken siege as the attacker.  However, the times when its wielders have been defeated have invariably been when on the defense, when the sword (while great in power in all situations) is less able to bring its awesome might to bear.  During the Lion/Crane war, the Lion Clan was consistently on the offense, which allowed for few circumstances in which the sword could be wielded effectively.
 
-Kasai Tsume is currently in the possession of Doji no Tsume Takashi, the son of Tsume Retsu and current daimyo of the Tsume family.
+Kasai Tsume is currently in the possession of Doji no Tsume Takashi, the son of Tsume Retsu and current daimyo of the Tsume Family.
 
 ### **Shitsuten** (Lost Heaven)
 
 The final sword forged by the legendary swordsmith Daidoji Masamune, who poured all of his hatred for the Yasuki into this sword.  Many of his previous swords were forged with restrictions on their use for what they must do after being unsheathed - most of his swords must draw blood before they may be put away, and thus to even perform kata with such a sword may require that the wielder nick themselves to satisfy the sword's bloodlust.  Shitsuten carries a harsher requirement and must take a human life after being drawn before it may be resheathed.
 
-Daidoji Masamune's early patrons were mainly Yasuki nobles, and he felt especially betrayed when the Yasuki family left the Crane clan to join the Crab, as the resulting fighting led to many of his own swords being used to spill Crane blood in battle.  Yasuki Tsanumi spent decades as the Yasuki Family daimyo pledging his undying loyalty to the Crane, but when the Imperial Ministry of Rites ruled that Yasuki rice plantations were a violation of the Celestial Order, he may as well have been a completely different person, proving that treachery lies deep in Yasuki blood.
+Daidoji Masamune's early patrons were mainly Yasuki nobles, and he felt especially betrayed when the Yasuki Family left the Crane Clan to join the Crab, as the resulting fighting led to many of his own swords being used to spill Crane blood in battle.  Yasuki Tsanumi spent decades as the Yasuki Family daimyo pledging his undying loyalty to the Crane, but when the Imperial Ministry of Rites ruled that Yasuki rice plantations were a violation of the Celestial Order, he may as well have been a completely different person, proving that treachery lies deep in Yasuki blood.
 
 Masamune named Shitsuten (Lost Heaven) not only in reference to the loss of divine connection between the Yasuki and Crane, but also regarding the manner in which Yasuki rice plantations threatened the very fabric of society and the benevolence of heaven towards humanity.  He gave this sword to Daidoji Susano, whose pious devotion to heavenly justice led him to continue to raid Yasuki lands even after the Crab/Crane fighting had stopped, seeking out rice plantations where the farmers suffered under the whips of Yasuki taskmasters rather than working the land as tenants as they should.  The bloodlust of Masamune's fearsome sword forced Susano to pursue those who fled on these raids until each time he could kill at least one Yasuki samurai.
 
@@ -3005,11 +3005,11 @@ While being a tree is not inherently bad, and the souls of trees may exist conte
 
 Bayushi Aramoro was the brother of Bayushi Shoju, the daimyo of the Scorpion Clan, when the treasonous moon cult tried to overthrow him.  Although the moon cult was defeated, it did kill his children, and Bayushi Shoju died soon after, from wounds suffered at the hands of a poisoned blade.  Aramoro became the new daimyo and married Shoju's widow, Bayushi Kachiko (known as the Mistress of Lies).
 
-There were many trees planted in Traitor's Grove in the years following the destruction of the moon cult, as those who offered knowing assistance in any way to the coup were found and executed there.  Bayushi no Akiko Otera was a county magistrate from the neighboring Akiko House of the Bayushi family, and he was instrumental in uncovering the moon cult before the coup could strike.  He and his karo Bayushi no Akiko Maiko were promoted and serve as agents of Bayushi Aramoro, now performing duties which Aramoro previously performed for his brother Shoju.
+There were many trees planted in Traitor's Grove in the years following the destruction of the moon cult, as those who offered knowing assistance in any way to the coup were found and executed there.  Bayushi no Akiko Otera was a county magistrate from the neighboring Akiko House of the Bayushi Family, and he was instrumental in uncovering the moon cult before the coup could strike.  He and his karo Bayushi no Akiko Maiko were promoted and serve as agents of Bayushi Aramoro, now performing duties which Aramoro previously performed for his brother Shoju.
 
 Tamashikari (Soul Anchor) was the sword previously wielded by Aramoro, but now that he is daimyo he has given it to Bayushi Maiko, who unlike Otera is an accomplished duelist, and therefore a better candidate to wield the sword.  Although there are a few more famous swords in Scorpion lands, including **Itsuwari**, their Ancestral Sword now wielded by Aramoro, there is no sword more feared than Tamashikari, which anchors itself to the souls of those it kills, ensuring that those souls may be bound to trees in Traitor's Grove at a later time.
 
-Those pursued by one who wields Tamashikari have been known to take their own lives rather than risk being killed by this sword, and those challenged to duels under accusation of treachery against either the Scorpion clan or the Empire have sometimes committed seppuku rather than fight in such a duel.  Bayushi Maiko has seemingly completed the years of work required to root out supporters of the moon cult, during which time she used Tamashikari to kill many traitors, in duels and in surprise raids.
+Those pursued by one who wields Tamashikari have been known to take their own lives rather than risk being killed by this sword, and those challenged to duels under accusation of treachery against either the Scorpion Clan or the Empire have sometimes committed seppuku rather than fight in such a duel.  Bayushi Maiko has seemingly completed the years of work required to root out supporters of the moon cult, during which time she used Tamashikari to kill many traitors, in duels and in surprise raids.
 
 With this work complete, Maiko came to Toshi Ranbo last winter on a warrior's pilgrimage, and has stayed in the city testing herself in local dojos and working her way through the Order of Bishamon's Temple relics to pray and further strengthen herself for whatever future trials lie ahead of her.
 
@@ -3059,7 +3059,7 @@ Hayato was able to get only snippets of this conversation, but this included:
 
 **Prince Daigotsu:** Kitsu Okura is more enigmatic than the Dragon Clan he derides, so I shall not speak to him of these matters, but Akodo Godaigo has a suitable mindset towards being directed in service to the Empire.
 
-**Matsu Gohei:** Matsu Chokoku is advised by Iuchi Karasu, who hates the Shadowlands as much as any man alive.  I do not know whether this would make his support more or less likely - this may depend on how the rest of the Unicorn clan feels about this matter, and whether it would be with anger or relief.
+**Matsu Gohei:** Matsu Chokoku is advised by Iuchi Karasu, who hates the Shadowlands as much as any man alive.  I do not know whether this would make his support more or less likely - this may depend on how the rest of the Unicorn Clan feels about this matter, and whether it would be with anger or relief.
 
 **Matsu Gohei:** Isawa Tsuke advises Ikoma Ryozo, and the Master of Fire seems, if anything, even more eager than us, though I cannot tell whether he is more interested in serving the empire or increasing his own knowledge and understanding.
 
@@ -3069,7 +3069,7 @@ Hayato was able to get only snippets of this conversation, but this included:
 
 The "Karmic Inquisitors" campaign was actually the second campaign set in the Damasu domain.  An earlier campaign was set in Toshi Ranbo, with this campaign overview at that time:
 
-For a thousand years the city of Toshi Ranbo was the capital of the Damasu, one of the largest houses of the Akodo family.  Three years ago the domain was conquered by the Tsume, one of the largest houses of the Doji family.  Due to a severe flooding after a torrential rainstorm, the city was cut off from reinforcements, so the Tsume attacked with a huge army and took the city before reinforcements could arrive.
+For a thousand years the city of Toshi Ranbo was the capital of the Damasu, one of the largest houses of the Akodo Family.  Three years ago the domain was conquered by the Tsume, one of the largest houses of the Doji Family.  Due to a severe flooding after a torrential rainstorm, the city was cut off from reinforcements, so the Tsume attacked with a huge army and took the city before reinforcements could arrive.
 
 The attack was completely unprovoked, although the Tsume justified it by citing a recent insult which the Damasu had dealt them.  One of the bushi attached to the Tsume ambassador to the Damasu was caught smuggling opium into the city of Toshi Ranbo, and rather than turn him over to the Imperial magistrates to stand trial, the Damasu simply executed him.  This was highly improper as well as illegal, but the Tsume's response was hardly proportional.  Still, the insult was considered justification enough for the Emperor to refrain from intervening against the Tsume.
 
@@ -3201,7 +3201,7 @@ They will ask that the peasants be released and that their weapons be returned. 
 
 Because Toshi Ranbo is a place with people from every clan, the campaign needed non-Crane, non-Imperial characters.  A trio of Dragon magistrates filled that role - nicknamed "the Dragon PCs" even though they were NPCs, because they acted the way that PCs usually act!  Here's the writeup for those characters.
 
-A trio of Dragon magistrates has recently arrived and joined the staff of Mirumoto Yagura, the Dragon clan ambassador to the city of Toshi Ranbo.
+A trio of Dragon magistrates has recently arrived and joined the staff of Mirumoto Yagura, the Dragon Clan ambassador to the city of Toshi Ranbo.
 
 Mirumoto Kiyoshi is a blunt-spoken bushi who doesn't bother to dress up her words in diplomatic language.  She doesn't go out of her way to offend, but when discussing people she freely offers her opinion, whether good or bad.  Her observations are usually cynical, especially regarding the goals of the city government.  If given the opportunity, she will brag about her dueling skills, and she will be quick to take offense if provoked.
 
@@ -3211,9 +3211,9 @@ Kitsuki Hina is the highest ranking member of the group, but sits and walks behi
 
 ### Pirates on the Drowned Merchant River
 
-The city has recently had a problem with barges being attacked as they travel up the Drowned Merchant River.  An investigation discovered that the barges were all attacked in the same general location on the river, with the Lion clan on one side and the Dragonfly on the other.  Not wanting to cause an international incident over a few merchant barges, the Tsume decided to do nothing.
+The city has recently had a problem with barges being attacked as they travel up the Drowned Merchant River.  An investigation discovered that the barges were all attacked in the same general location on the river, with the Lion Clan on one side and the Dragonfly on the other.  Not wanting to cause an international incident over a few merchant barges, the Tsume decided to do nothing.
 
-However, a local sergeant named Tsume Osamu was not satisfied with this.  He was wary of provoking the Lion clan, but figured he could get away with risking an incident with the Dragonfly since they are only a Minor Clan.  So he paid some traveling merchants to journey to the domain and try to discover whether anyone there had unexplained wounds.  It's standard procedure after a bandit attack to check the local peasantry for wounded peasants, but Osamu believed that the Dragonfly magistrates may have been lax since the attacks are occurring on the river and don't involve anyone from their clan.
+However, a local sergeant named Tsume Osamu was not satisfied with this.  He was wary of provoking the Lion Clan, but figured he could get away with risking an incident with the Dragonfly since they are only a Minor Clan.  So he paid some traveling merchants to journey to the domain and try to discover whether anyone there had unexplained wounds.  It's standard procedure after a bandit attack to check the local peasantry for wounded peasants, but Osamu believed that the Dragonfly magistrates may have been lax since the attacks are occurring on the river and don't involve anyone from their clan.
 
 Osamu eventually learned that there is an ashigaru who recently came home late at night pretty badly beaten up, and no one whom the merchants spoke with had any idea how he got those wounds.  Osamu rounded up some of his men and made a raid into that village.  They stormed into the hut where the wounded man lay sleeping and woke him with their swords to his throat.  Osamu demanded to know who his accomplices were; who was with him when he was wounded.
 
@@ -3235,7 +3235,7 @@ The PCs must decide whether to charge Osamu, and if they do then whether to rule
 
 ### Matsu Yokijiro
 
-Another non-Crane NPC is a Lion character named Matsu Yokijiro.  It's awkward, but not illegal, for a Lion clan samurai to be in Toshi Ranbo, since the Crane recently conquered the city from the Lion clan.  The writeup of this NPC and some associated plot hooks follows:
+Another non-Crane NPC is a Lion character named Matsu Yokijiro.  It's awkward, but not illegal, for a Lion Clan samurai to be in Toshi Ranbo, since the Crane recently conquered the city from the Lion Clan.  The writeup of this NPC and some associated plot hooks follows:
 
 Matsu Yokijiro started off as a county magistrate, and he highly impressed his superiors through his devotion to his duty.  He trained far more peasants in martial combat than is typical, and spent time giving personal instruction to all of them.  He evaluated their abilities and gave higher stipends to the ones who worked the hardest and became the most proficient.  In addition to fighting techniques, he also took great care and time to personally instruct and test these men on the teachings of Lord Akodo and Lady Doji and the Shinsei, working with the monks in his county to educate the peasantry about their moral and civic obligations.
 
@@ -3257,7 +3257,7 @@ Furious, Yokijiro showed his stance and called out the bushi, daring the bushi t
 
 If asked why he didn't challenge the man to a duel, Yokijiro will explain that he does not seek out duels, but merely uses them when appropriate to settle disputes.  Since the other bushi backed down, Yokijiro considered his own honor to have been properly defended.  He will accept any challenge to defend his actions, but none will be offered by any Crane in the city unless the PCs manage to talk someone into stepping up.
 
-However, because of this incident, the district captain petitions the PCs to have Yokijiro ejected from the city.  He explains that although Yokijiro didn't necessarily do anything wrong, his mere presence in the city will surely lead to more incidents of this nature, which will be disruptive to the city.  The captain is further offended by the notion that Yokijiro apparently believes that the Crane clan needs some Lion to come and tell their peasants right from wrong, as if the Tsume are incapable of doing this themselves.
+However, because of this incident, the district captain petitions the PCs to have Yokijiro ejected from the city.  He explains that although Yokijiro didn't necessarily do anything wrong, his mere presence in the city will surely lead to more incidents of this nature, which will be disruptive to the city.  The captain is further offended by the notion that Yokijiro apparently believes that the Crane Clan needs some Lion to come and tell their peasants right from wrong, as if the Tsume are incapable of doing this themselves.
 
 The captain will further call into question the safety of having such a Lion in the city, since he may have opportunities to sabotage or otherwise undermine the city's defenses.  If brought up, Yokijiro will immediately give his word that he will attempt no such thing.  He explains that if the Lion do attack, he intends to immediately leave the city and join the attacking army, fighting honorably as a bushi should.
 
@@ -3295,11 +3295,11 @@ Of course, the PCs are under no obligation to listen to Yokijiro's complaint, an
 
 Another NPC from a different clan is Shinjo no Dorai Rakuo.  The writeup for that character, with an associated plot hook, follows:
 
-Although the provinces surrounding Toshi Ranbo have fertile land, they're mostly suited to producing grain.  As a result, the city imports a significant amount of rice.  Before the invasion, the Dorai House of the Shinjo family had a longstanding trade agreement with the Damasu to supply the city with rice, which they shipped yearly down the Drowned Merchant River.
+Although the provinces surrounding Toshi Ranbo have fertile land, they're mostly suited to producing grain.  As a result, the city imports a significant amount of rice.  Before the invasion, the Dorai House of the Shinjo Family had a longstanding trade agreement with the Damasu to supply the city with rice, which they shipped yearly down the Drowned Merchant River.
 
 Because the city has been so unstable for the past several years, the Dorai have not made the same arrangement with the Tsume.  However, now that martial law has been lifted and the city has settled into some kind of normalcy, they're considering coming back.  In order to get a better gauge of the state of the city, they've sent Deputy Minister of Commerce Shinjo no Dorai Rakuo, who will try to get a sense of the city and negotiate with the Tsume.
 
-This is a situation where each PC may get some kind of directive from their respective clans about how to influence Rakuo.  The Shinjo family has been sending their rice into Ryoko Owari for the past few years, so the Scorpion clan would like to see him decide that the city is still too unstable.  The Crane clan would certainly like to see him come back, while the Lion clan would not.  The Unicorn clan would simply want Rakuo to be given an accurate picture of how stable the city really is.  Most other clans won't care, although certain specific Families or Houses may have some sort of stake by being allied or opposed to one of the factions involved.
+This is a situation where each PC may get some kind of directive from their respective clans about how to influence Rakuo.  The Shinjo Family has been sending their rice into Ryoko Owari for the past few years, so the Scorpion Clan would like to see him decide that the city is still too unstable.  The Crane Clan would certainly like to see him come back, while the Lion Clan would not.  The Unicorn Clan would simply want Rakuo to be given an accurate picture of how stable the city really is.  Most other clans won't care, although certain specific Families or Houses may have some sort of stake by being allied or opposed to one of the factions involved.
 
 Shinjo Rakuo himself will turn out to be quite interested in getting to know the city better, starting with its more entertaining places.  He will attend lavish parties of wealthy merchants and nobles, as well as geisha houses and even dens of ill repute.  This alone will probably end up with him having to interact with the PCs at least once as a result of some trouble he manages to get into.
 
@@ -3337,7 +3337,7 @@ Speaking of peasants, here's some more campaign information which closely relate
 
 After losing Toshi Ranbo to the Tsume and then failing to take it back, the Lion don't want to fail again.  To ensure victory, they are doing two things different from last time.
 
-First, they're taking their time to gather their forces, making arrangements with daimyo throughout the eastern Lion clan to work out exactly how many troops will be sent, who will be in charge of each group, etc.  These arrangements will include detailed plans for their supply lines to avoid their previous issues with troops being recalled when the invasion took longer than anticipated.
+First, they're taking their time to gather their forces, making arrangements with daimyo throughout the eastern Lion Clan to work out exactly how many troops will be sent, who will be in charge of each group, etc.  These arrangements will include detailed plans for their supply lines to avoid their previous issues with troops being recalled when the invasion took longer than anticipated.
 
 Second, they're sending a covert team of peasant mercenaries into Toshi Ranbo to blend into the general population and wait for the invasion.  When the time comes, they'll launch a surprise attack from within the city, opening the southwest city gate for the approaching Lion army, which will send a large force on horseback ahead of their main army to reinforce the men holding the city gates.  This will bypass the dangerous and costly process of filling in the city's moats, scaling the walls, etc.
 
@@ -3738,7 +3738,7 @@ Battalion commanders and Legion generals swear even longer oaths, which dependin
 
 - I will always promote all that will advance the Empire and oppose all that may harm it.
 
-Note the pattern that oaths sworn by large numbers of people are usually fairly simple, and they get more and more complicated for higher-ranking positions.  For example, here is the oath of office sworn by the Damasu Minister of Works (the Damasu is a vassal family of the Akodo family of the Lion clan).
+Note the pattern that oaths sworn by large numbers of people are usually fairly simple, and they get more and more complicated for higher-ranking positions.  For example, here is the oath of office sworn by the Damasu Minister of Works (the Damasu is a vassal family of the Akodo Family of the Lion Clan).
 
 "I, [name], do solemnly swear by Daikoku, the Fortune of Wealth, Koshin, the Fortune of Roads, and in the light of our radiant Lady Sun, to faithfully execute my duties as the Minister of Works for the Damasu domain.
 
@@ -3828,7 +3828,7 @@ Hitomi left on a warrior's pilgrimage to train and swore vows to the two fortune
 
 Hitomi went on a warrior's pilgrimage, training for years in self-imposed exile until she considered herself worthy to return home and face Akimori.  She did so, and although Akimori had risen to such a high position that she had no standing to challenge him, he saw her and judged that she had become a worthy opponent and accepted her new challenge.  Hitomi prevailed in her duel, though she almost died of her wounds afterwards.  As he lay dying, Akimori thanked her for the greatest warrior's challenge of his life, saying he was glad to have spared her all those years ago, and was happy to see she had finally become a worthy opponent.
 
-Many books and plays have been written about Hitomi, and it is a common name chosen at gempukku by women who already have some specific reason to seek revenge, especially against those who have wronged a brother.  Notably, the current daimyo of the Mirumoto family, Mirumoto Hitomi, chose that name for herself as part of a declaration of vengeance against Hida Yakamo, who killed her brother in a duel.  Hitomi later cut off Yakamo's hand before returning home to assume the role of daimyo for herself, a position which had been held in regency by her uncle Sukune.
+Many books and plays have been written about Hitomi, and it is a common name chosen at gempukku by women who already have some specific reason to seek revenge, especially against those who have wronged a brother.  Notably, the current daimyo of the Mirumoto Family, Mirumoto Hitomi, chose that name for herself as part of a declaration of vengeance against Hida Yakamo, who killed her brother in a duel.  Hitomi later cut off Yakamo's hand before returning home to assume the role of daimyo for herself, a position which had been held in regency by her uncle Sukune.
 
 Matsu Hitomi's book is considered the foundational work for anyone contemplating a warrior's pilgrimage.  This book lists a number of vows which can be sworn by someone contemplating this kind of journey.
 
@@ -3894,7 +3894,7 @@ Here are some other example vows with a bit less detail, since you can probably 
 
 - A vow of atonement is sworn by someone who has committed some offense for which they seek redemption.  This can either be a limited vow (obligating one to a particular outcome) or a permanent vow (signing one up for a lifetime of obligation).  This is usually sworn to either a fortune one has offended or a fortune whose affairs are most relevant to the offense someone has made against another person.
 
-- The vow of deathseeking is sworn by Lion clan samurai to Emma-O (the fortune of death) as an alternative to the vow of atonement.  Someone so disgraced that their only other option would be execution or seppuku might swear this vow, intending to throw themselves into dangerous situations benefiting their daimyo as a way to atone.  In wartime deathseekers usually congregate into Deathseeker platoons (or sometimes even larger units), where they go into extremely dangerous battles.  Samurai who swear this vow are said to usually find death within a year.
+- The vow of deathseeking is sworn by Lion Clan samurai to Emma-O (the fortune of death) as an alternative to the vow of atonement.  Someone so disgraced that their only other option would be execution or seppuku might swear this vow, intending to throw themselves into dangerous situations benefiting their daimyo as a way to atone.  In wartime deathseekers usually congregate into Deathseeker platoons (or sometimes even larger units), where they go into extremely dangerous battles.  Samurai who swear this vow are said to usually find death within a year.
 
 - The vow of judgment is most commonly sworn to Yozo (the fortune of legal vengeance), but often sworn to some other fortune whose affairs are relevant to the vower's area of responsibility.  In some ways this is an even more extreme vow than the one sworn by deathseekers, because it requires one to do everything possible to bring about the outcome they consider to be just, regardless of any other factors.  For example, someone who has sworn this vow to Yozo might find themselves obligated to carry out an execution even if overruled and the sentence commuted by a higher authority.  Or if a magistrate believed someone to be innocent, they would be obligated to take up arms against their own family if necessary to secure a prisoner's release and escape.
 
@@ -3978,7 +3978,7 @@ And a monk might reply, "Such a vow comes with a high demand for precision, and 
 
 This is an important running theme about oaths and vows in the world of Rokugan.
 
-For additional vow examples, there was a Kitsuki magistrate named Tetsu from the Dragon clan who wanted to help the Moto conquer the city of Medin al Salaat.  To this end, he swore several vows to various fortunes.  His vow of devotion was to Saibankan, the fortune of magistrates and judges.  He also swore vows to Kamoku, the fortune of the west wind, i.e. the wind that comes from the west and blows towards the east, and Jikoju, the fortune of the east wind.
+For additional vow examples, there was a Kitsuki magistrate named Tetsu from the Dragon Clan who wanted to help the Moto conquer the city of Medin al Salaat.  To this end, he swore several vows to various fortunes.  His vow of devotion was to Saibankan, the fortune of magistrates and judges.  He also swore vows to Kamoku, the fortune of the west wind, i.e. the wind that comes from the west and blows towards the east, and Jikoju, the fortune of the east wind.
 
 Saibankan comes first.
 
@@ -4070,7 +4070,7 @@ Here are some miscellaneous facts about the Empire's roads:
 
 - Koshin was already a minor fortune who had previously been prayed to during local road construction projects.  He rose to prominence, especially in Crane lands, whose merchant caravans could now travel the Empire as never before.  (Remember that the Yasuki were still part of the Crane at this time.)
 
-- The Unicorn clan favored Koshin even more than the Crane clan, as the Ki Rin Trail had begun to bring them great prosperity.  Although the Ki Rin Trail was never a formal road system, the Unicorn clan established the same sorts of waystations for hundreds of miles to the east and west of Medin al Salaat to allow merchants to bring them wealth and prosperity.  (It's unclear whether the temple to Koshin that the Unicorn built in Medin al Salaat is still operating.)
+- The Unicorn Clan favored Koshin even more than the Crane Clan, as the Ki Rin Trail had begun to bring them great prosperity.  Although the Ki Rin Trail was never a formal road system, the Unicorn Clan established the same sorts of waystations for hundreds of miles to the east and west of Medin al Salaat to allow merchants to bring them wealth and prosperity.  (It's unclear whether the temple to Koshin that the Unicorn built in Medin al Salaat is still operating.)
 
 - Koshin is therefore not just the fortune of physical roads, but of orderly systems of travel.
 
@@ -4326,11 +4326,11 @@ The corruption of the Shadowlands taint interferes with other magics, and shugen
 
 This distinction also speaks to the ways in which maho practices were the original religion practiced by the peasantry of Rokugan before the founding of the Empire.  In many ways, the tsukai of today are simply continuing to practice the religion of their ancestors.  This is heretical and illegal, but it explains why so many are open to the idea, for reasons other than just the power that it offers.
 
-Isawa himself, who founded the Isawa family, is known to have practiced maho.  He created many totems using the crafting discipline, and performed rituals to store the power of the names and wounds of his defeated enemies in these totems through blood sacrifices.  It was Shiba who convinced him to set aside these ways for the future of the new Phoenix clan, though the Isawa family is rumored to maintain many texts on maho in their secret libraries, for the Phoenix clan values knowledge more highly than any other clan.
+Isawa himself, who founded the Isawa Family, is known to have practiced maho.  He created many totems using the crafting discipline, and performed rituals to store the power of the names and wounds of his defeated enemies in these totems through blood sacrifices.  It was Shiba who convinced him to set aside these ways for the future of the new Phoenix Clan, though the Isawa Family is rumored to maintain many texts on maho in their secret libraries, for the Phoenix Clan values knowledge more highly than any other clan.
 
-There is one extremely notable exception to the Phoenix clan's renunciation of the practice of maho.  Isawa Akuma was a shugenja in the Phoenix clan who lived in the 3rd century who was fascinated by maho.  He studied everything he could find on the subject and is said to have sought out tsukai, and rather than arresting them he offered to exchange his wisdom for theirs, learning from them and teaching them many of the hidden secrets of the Phoenix.
+There is one extremely notable exception to the Phoenix Clan's renunciation of the practice of maho.  Isawa Akuma was a shugenja in the Phoenix Clan who lived in the 3rd century who was fascinated by maho.  He studied everything he could find on the subject and is said to have sought out tsukai, and rather than arresting them he offered to exchange his wisdom for theirs, learning from them and teaching them many of the hidden secrets of the Phoenix.
 
-Akuma was one of the most cunning and intelligent members of the Phoenix clan, and eventually he was able to somehow discover how to wield maho without losing his spellcasting ability!  It is unknown how this is even possible - the elemental kami hate the Shadowlands taint above all else, and the abilities of a shugenja rely on the favor of the elemental kami.  A shugenja is not simply directing power themselves, but rather channeling their own chi in order to call upon the kami to answer their prayers.  And the kami would never respond to a man so deeply tainted as would be required for the practice of powerful maho.
+Akuma was one of the most cunning and intelligent members of the Phoenix Clan, and eventually he was able to somehow discover how to wield maho without losing his spellcasting ability!  It is unknown how this is even possible - the elemental kami hate the Shadowlands taint above all else, and the abilities of a shugenja rely on the favor of the elemental kami.  A shugenja is not simply directing power themselves, but rather channeling their own chi in order to call upon the kami to answer their prayers.  And the kami would never respond to a man so deeply tainted as would be required for the practice of powerful maho.
 
 Some have theorized that Akuma is so skilled that he has not defied this limitation, but rather has become so skilled at the practices of maho and spellcasting that he has managed to avoid taking so much Shadowlands taint as to become permanently tainted.  This would be a staggering accomplishment, as some of his feats of maho are so impressive that even the most famous tsukai would be nearly killed by the amount of taint involved, and because of this there are many who reject this theory.
 
@@ -4370,7 +4370,7 @@ The Emperor's second son at the end of the 5th century (~600 years ago) was Hant
 
 From his seat of authority at Chai Sedo, Iuchiban began gathering disciples to him.  While most of his followers were killed when he launched his coup against his brother, the most powerful survived due to being able to return after the destruction of their bodies, and many remain at large in the Empire today.  Most have taken the "Jama" name, which Iuchiban invented as a way to identify those in his service in a twisted perversion of a noble samurai name.
 
-For reference, in this version of Rokugan, the format of a normal samurai name is "<family> no <house> <personal>".  For example, the PC "Akodo no Sugiwara Natsuki" is from the Sugiwara house of the Akodo family.  The word "no" means "of", and this part is generally omitted for people from the ruling house of a family.  For example, "Kitsuki Tetsu" is the usual form, with the longer "Kitsuki no Kitsuki Tetsu" reserved for extremely formal circumstances.  In less formal contexts, the Family name is often dropped - for example, "Shosuro no Seri Go" is usually referred to simply as "Seri Go".
+For reference, in this version of Rokugan, the format of a normal samurai name is "<family> no <house> <personal>".  For example, the PC "Akodo no Sugiwara Natsuki" is from the Sugiwara house of the Akodo Family.  The word "no" means "of", and this part is generally omitted for people from the ruling house of a family.  For example, "Kitsuki Tetsu" is the usual form, with the longer "Kitsuki no Kitsuki Tetsu" reserved for extremely formal circumstances.  In less formal contexts, the Family name is often dropped - for example, "Shosuro no Seri Go" is usually referred to simply as "Seri Go".
 
 Jama names substitute the tsukai master who inducted the apprentice.  Iuchiban's followers have names like "Jama no Iuchiban Kohaku", and his disciples have names like "Jama no Kohaku Jin", etc.
 
@@ -4414,7 +4414,7 @@ Much more has been written about Yajinden, but one thing to note for future refe
 
 One of the most famous disciples of Iuchiban is Jama no Iuchiban Kyoso.
 
-Known as "queen of oni", Kyoso began as a legionnaire in the 1st Imperial Legion from either the Kitsu family of the Lion or the Yogo family of the Scorpion.  (Each family disclaims her, and there are credible historical accounts supporting her ancestry from either family.) Kyoso quickly mastered the lesser summonings taught by the maho texts of Jama Suru and the teachings of Jama Musume, easily summoning swamp spirits and mujina and kansen.  Kyoso's intuitions about these practices changed how humans understood oni summoning.  It was Kyoso who explained that oni require a name to be summoned, not as payment, but because nothing without a name can exist in our realm.  The name is what permits the oni to possess a physical form, and the nature of the oni's form in Jigoku therefore has even more effect on the form it takes in our realm than any material components used to anchor its spirit to a physicality in our reality.
+Known as "queen of oni", Kyoso began as a legionnaire in the 1st Imperial Legion from either the Kitsu Family of the Lion or the Yogo Family of the Scorpion.  (Each family disclaims her, and there are credible historical accounts supporting her ancestry from either family.) Kyoso quickly mastered the lesser summonings taught by the maho texts of Jama Suru and the teachings of Jama Musume, easily summoning swamp spirits and mujina and kansen.  Kyoso's intuitions about these practices changed how humans understood oni summoning.  It was Kyoso who explained that oni require a name to be summoned, not as payment, but because nothing without a name can exist in our realm.  The name is what permits the oni to possess a physical form, and the nature of the oni's form in Jigoku therefore has even more effect on the form it takes in our realm than any material components used to anchor its spirit to a physicality in our reality.
 
 Kyoso made further discoveries in the practice of oni summoning.  Prior to her, any tsukai who wished to summon an oni required either their own name or a name which someone chose to give to them.  While blood sacrifices had previously allowed tsukai to use the names of sacrificial victims, it was Kyoso who discovered how to use the name of someone at the moment of their death to summon an oni.  For centuries, this has allowed bloodspeakers to summon oni using the names of victims who would die rather than surrender their own names, even under torture.  This has led to the targeting of countless samurai by bloodspeaker covens over the years, as the protection of righteousness and indomitable will no longer prevents your name from helping a bloodspeaker's summonings.
 
@@ -4472,15 +4472,15 @@ Some Hantei Emperors need to take strong action and be closely involved in polit
 
 In case it matters for future reference, the five families of the Gozoku are:
 
-1. The Isawa family of the Phoenix clan, which is ruled not by a daimyo but by the Council of Elemental Masters.  Shiba the Great Ancestor who founded the Phoenix clan bent his knee to Isawa at the dawn of the Empire in order to show his devotion to the Empire and gain Isawa as a vassal, and the Isawa have always had final say over Phoenix clan affairs, when they choose to exercise it.
+1. The Isawa Family of the Phoenix Clan, which is ruled not by a daimyo but by the Council of Elemental Masters.  Shiba the Great Ancestor who founded the Phoenix Clan bent his knee to Isawa at the dawn of the Empire in order to show his devotion to the Empire and gain Isawa as a vassal, and the Isawa have always had final say over Phoenix Clan affairs, when they choose to exercise it.
 
-2. The Doji family of the Crane clan.  Every Emperor since the dawn of the Empire has married a Doji bride, and Doji courtiers have always maintained control over the Imperial courts as the ruling family of the Crane.
+2. The Doji Family of the Crane Clan.  Every Emperor since the dawn of the Empire has married a Doji bride, and Doji courtiers have always maintained control over the Imperial courts as the ruling family of the Crane.
 
-3. The Tsume vassal house of the Doji family.  The northernmost domain in Doji lands, Tsume lands border both the Lion and Phoenix clans, and in times of war the Tsume daimyo has often been granted the position of "General of the Northern Armies of the Crane".  This was not true in recent years, when Tsume Retsu invaded the city of Toshi Ranbo, ultimately kicking off the Lion/Crane war, much to the displeasure of the rest of the Crane clan.
+3. The Tsume vassal house of the Doji Family.  The northernmost domain in Doji lands, Tsume lands border both the Lion and Phoenix clans, and in times of war the Tsume daimyo has often been granted the position of "General of the Northern Armies of the Crane".  This was not true in recent years, when Tsume Retsu invaded the city of Toshi Ranbo, ultimately kicking off the Lion/Crane war, much to the displeasure of the rest of the Crane Clan.
 
-4. The Bayushi family of the Scorpion clan.  Just as the Lion and Crane clans are said to be the Emperor's right and left hands in times of war (this being reversed in times of peace), the Scorpion are said always to be the Emperor's underhand, and the Bayushi have always administered the Scorpion through equal parts rulership and spycraft.
+4. The Bayushi Family of the Scorpion Clan.  Just as the Lion and Crane clans are said to be the Emperor's right and left hands in times of war (this being reversed in times of peace), the Scorpion are said always to be the Emperor's underhand, and the Bayushi have always administered the Scorpion through equal parts rulership and spycraft.
 
-5. The Michio house of the Shosuro family of the Scorpion clan.  While the largest city in the Empire is its capital of Otosan Uchi, the second largest city of Ryoko Owari lies next to Beiden Pass where the 2nd Imperial Legion is stationed, separating Lion and Scorpion lands.  This is the hub of all trade in the central Empire, and lies just north of the best lands for silk cultivation.
+5. The Michio house of the Shosuro Family of the Scorpion Clan.  While the largest city in the Empire is its capital of Otosan Uchi, the second largest city of Ryoko Owari lies next to Beiden Pass where the 2nd Imperial Legion is stationed, separating Lion and Scorpion lands.  This is the hub of all trade in the central Empire, and lies just north of the best lands for silk cultivation.
 
 #### Hantei the 16th
 
@@ -4496,7 +4496,7 @@ For example, Witch Hunters cannot directly accept expensive gifts.  Having sworn
 
 It's unclear exactly how Iuchiban's soul was freed from the Forgotten Tomb, but Jama Suru is believed to have used the samurai names he acquired over 2 centuries to perform rituals to break the soul free, and Jama Kohaku constructed a new body for Iuchiban.  Together, they gathered most (though not all) of his other surviving disciples and attempted to take the Empire by force.  They began by raising an army of zombies and moved across the countryside.  Any losses they sustained were quickly replenished with the bodies of fallen samurai.  Recognizing the plight they faced, enemy daimyo quickly put aside their differences to stamp out this force before it could grow too large to stop.  Iuchiban had counted on the Empire remaining too divided to oppose him, but he was once again defeated and slain.
 
-Because the Forgotten Tomb could no longer be relied upon to contain Iuchiban's soul, the Kaiu family constructed a new Tomb of Iuchiban.  Its exact location is unknown, and it may be at the south end of the Twilight Mountains, or hidden somewhere in the Kuni Wastelands, or deep in the Shinomen Forest.  Kaiu Gineza was the chief architect of this new tomb, and upon its completion he sealed himself inside, both to complete its unbreakable wardings and to prevent any possibility that his knowledge of its defenses could ever be used to break Iuchiban free.  To this day Iuchiban has not escaped again, nor is any bloodspeaker currently alive believed capable of accomplishing such a feat.
+Because the Forgotten Tomb could no longer be relied upon to contain Iuchiban's soul, the Kaiu Family constructed a new Tomb of Iuchiban.  Its exact location is unknown, and it may be at the south end of the Twilight Mountains, or hidden somewhere in the Kuni Wastelands, or deep in the Shinomen Forest.  Kaiu Gineza was the chief architect of this new tomb, and upon its completion he sealed himself inside, both to complete its unbreakable wardings and to prevent any possibility that his knowledge of its defenses could ever be used to break Iuchiban free.  To this day Iuchiban has not escaped again, nor is any bloodspeaker currently alive believed capable of accomplishing such a feat.
 
 After the return of Iuchiban, some of the institutional powers stripped from Witch Hunters after the reign of the Steel Chrysanthemum were restored, though still nowhere near the point they were at their peak.  There are currently only about 200 Witch Hunters stationed throughout the Empire, which currently has 284 domains.  Even a post as prestigious as the 1st Imperial Legion wouldn't have an assigned Witch Hunter if not for the historical reasons for the Empire to be concerned about possible khadi influence on Chai Sedo.
 
@@ -4572,21 +4572,21 @@ Ide diplomats had previously spread some proper religious doctrine to the Uru, s
 
 Adapting different religious traditions into the same setting is challenging; the approach here combines embracing a certain level of ambiguity with offering a framework by which these conflicting religious traditions can be understood.  Obviously their account of how different parts of the world were created differs from what's established in Rokugan's history of the world, but there shouldn't be any irreconcilable differences in the cosmology of the Uru people as compared to the cosmology of Rokugan.
 
-One of the PCs in that campaign asked the Uru what they know of the Moto.  Here's a bit of background about the Moto and the Unicorn clan which is relevant to this question.
+One of the PCs in that campaign asked the Uru what they know of the Moto.  Here's a bit of background about the Moto and the Unicorn Clan which is relevant to this question.
 
 ### Unicorn History
 
-Many sloppy histories record the Unicorn clan as "leaving" Rokugan ~100 years after the Empire was founded, and "returning" about 200 years ago, thus being "gone" for about 800 years.
+Many sloppy histories record the Unicorn Clan as "leaving" Rokugan ~100 years after the Empire was founded, and "returning" about 200 years ago, thus being "gone" for about 800 years.
 
-This is a gross oversimplification, though many plays and "pillow books" take liberties with the actual history in order to create more dramatic scenes of the Unicorn clan being completely absent from their lands prior to returning all at once.
+This is a gross oversimplification, though many plays and "pillow books" take liberties with the actual history in order to create more dramatic scenes of the Unicorn Clan being completely absent from their lands prior to returning all at once.
 
-What is true is that the Unicorn clan shifted the bulk of its forces considerably to the west and Shinjo's children conquered the city of Medinat al Salaam, renaming it to Medin al Salaat.  Some early historians have suggested that this was a mistake on the part of the largely illiterate early Unicorn clan, though it's unclear what led them to this conclusion.
+What is true is that the Unicorn Clan shifted the bulk of its forces considerably to the west and Shinjo's children conquered the city of Medinat al Salaam, renaming it to Medin al Salaat.  Some early historians have suggested that this was a mistake on the part of the largely illiterate early Unicorn Clan, though it's unclear what led them to this conclusion.
 
 Regardless, ruling this city state and reaping the benefits were far better than overseeing the largely meager farmland of most of Unicorn lands.  Thus, the Unicorn shifted the bulk of their forces to this end of their holdings.  This led to the Dragon, Lion, Scorpion, and Crab clans all pushing into Unicorn territory which was granted to them by their Clan Charter.  The Unicorn also didn't have sufficient members in Otosan Uchi to have representation in the Imperial Chancellery when it was eventually formed under Emperor Hantei the 10th.
 
 After ruling Medin al Salaat for ~700 years, trade with gaijin lands was banned, which considerably weakened the Unicorn regime.  As another language-related note on the names of things, "ki-rin" is the word for "Unicorn" in both the Moto and Salaam languages ("Salaam" is the most common language spoken in Medin al Salaat).  The "Ki Rin Trail" is literally the "Unicorn trail", because it was heavily used prior to the banning of gaijin trade.
 
-This contributed to the Unicorn losing power a century later, being pushed out by the Khadi-backed caliph, who unified the factions of the city in a way never done before to drive out the Unicorn clan.
+This contributed to the Unicorn losing power a century later, being pushed out by the Khadi-backed caliph, who unified the factions of the city in a way never done before to drive out the Unicorn Clan.
 
 The Unicorn proceeded to actually "leave" the city en masse and returned in force to their ancestral lands, where they declared war on the Dragon, Lion, Scorpion, and Crab clans.
 
@@ -4596,11 +4596,11 @@ The Unicorn proceeded to actually "leave" the city en masse and returned in forc
 
 - The Crab fought for some time and were driven back but managed to hold the entire Shinomen forest, denying the Unicorn any access to it.
 
-- The Lion clan was eventually driven back to their original border of the Drowned Merchant River, though they fought the longest and got considerably more concessions from the Unicorn clan as part of the peace treaty.
+- The Lion Clan was eventually driven back to their original border of the Drowned Merchant River, though they fought the longest and got considerably more concessions from the Unicorn Clan as part of the peace treaty.
 
-When the Unicorn returned, one of the families they brought back with them was the Moto family, which settled into modern Moto lands to the west of the Twilight Mountains.  Many claimed that the Moto are simply gaijin who swore fealty to the Unicorn clan in Medin al Salaat, and that the Unicorn effectively brought back an army of barbarians with them.
+When the Unicorn returned, one of the families they brought back with them was the Moto Family, which settled into modern Moto lands to the west of the Twilight Mountains.  Many claimed that the Moto are simply gaijin who swore fealty to the Unicorn Clan in Medin al Salaat, and that the Unicorn effectively brought back an army of barbarians with them.
 
-The Moto who came with the Unicorn claim that they were originally from modern Moto lands, and settled into the pasturelands to the southwest of Medin al Salaat after following Shinjo west across the Burning Sands Desert.  The Moto family of the Unicorn refer to the Moto who still live there as "those who remained", and they refer to themselves as "those who returned".
+The Moto who came with the Unicorn claim that they were originally from modern Moto lands, and settled into the pasturelands to the southwest of Medin al Salaat after following Shinjo west across the Burning Sands Desert.  The Moto Family of the Unicorn refer to the Moto who still live there as "those who remained", and they refer to themselves as "those who returned".
 
 However, "those who remained" contend that this is wrong, and that the Moto are originally from the southwest pasturelands of Medin al Salaat, and while they do refer to themselves as "those who remained", they refer to the Moto who still swear fealty to the Unicorn lands as "those who departed", and consider them distant cousins who have settled into other lands.
 
@@ -4640,9 +4640,9 @@ Thus, it is clear that the tribe of Gaheris is correct in its claim that theirs 
 
 I hope this report is satisfactory, as it should answer the question of the Moto homeland.  I am not generally knowledgeable about the Moto or the Ki Rin, but if you have other particular questions I can find those who are and discern the correct answers for you as I have done here.
 
-Daotai Kirghiz Bashi Magistrate under Kitsuki Tetsu, the Minister of Justice of the Moto clan
+Daotai Kirghiz Bashi Magistrate under Kitsuki Tetsu, the Minister of Justice of the Moto Clan
 
-Note that Bashi incorrectly refers to the Moto as a "clan" rather than a family of the Unicorn clan.  Apparently the northern tribes consider the Moto to be allies of the Unicorn rather than vassals of them.  Considering how fiercely independent the Moto are and how much they hew to their own ways, this isn't an entirely unreasonable assessment!
+Note that Bashi incorrectly refers to the Moto as a "clan" rather than a family of the Unicorn Clan.  Apparently the northern tribes consider the Moto to be allies of the Unicorn rather than vassals of them.  Considering how fiercely independent the Moto are and how much they hew to their own ways, this isn't an entirely unreasonable assessment!
 
 Regardless, readers should note the similarities this account has with Rokugani religion and also the differences.  In particular, "Tenri" is not a figure previously established in Rokugani religion, though it's certainly possible that such a figure could exist.  Some of the characters are recognizable and could be mapped onto Rokugani deities, and other events don't match anything in Rokugan's history, but since many of these events take place before the dawn of the Empire, it's entirely possible that Rokugan's history is incomplete and the Uru history is correct.  Or perhaps their story is simply wrong, and is an invention of their storytellers, or perhaps some of it is wrong and other bits are accurate.
 
@@ -4672,11 +4672,11 @@ Salaam is the name of the gaijin language most commonly spoken in Medin al Salaa
 
 - The word "salaat" is related to the word salaam, and means "prayer".
 
-Putting this all together, the name Medin al Salaat literally means "the value of prayer".  Under the rule of the Unicorn clan, this was a sign of their devotion to the fortunes and the benevolence of heaven.  Under the current rulers whose Khadi allies practice maho openly, it may have a degrading tone, possibly implying that prayer has no value.  This would be in line with other known gaijin sayings, e.g. the infamous and often-repeated motto "Rich men, poor men, wise men, foolish men, good men, evil men - without water, they are all dead men."
+Putting this all together, the name Medin al Salaat literally means "the value of prayer".  Under the rule of the Unicorn Clan, this was a sign of their devotion to the fortunes and the benevolence of heaven.  Under the current rulers whose Khadi allies practice maho openly, it may have a degrading tone, possibly implying that prayer has no value.  This would be in line with other known gaijin sayings, e.g. the infamous and often-repeated motto "Rich men, poor men, wise men, foolish men, good men, evil men - without water, they are all dead men."
 
 However, the city originally had a different name, Medinat al Salaam.  Putting together what's listed above, this name means "the price of speech" or possibly "the price of peace".
 
-Records from the early days of the Empire are poor, and Hantei Kajimitsu's "History of Early Rokugan" speaks little of gaijin lands.  He does refer to "the city of Medin al Salaat", which is the earliest reference to the city.  However, historians have found copies of documents whose originals are said to be even older, which indicate that prior to Shinjo's children conquering the city it was known as "Medinat al Salaam", and it was changed to "Medin al Salaat" by the early Unicorn clan.
+Records from the early days of the Empire are poor, and Hantei Kajimitsu's "History of Early Rokugan" speaks little of gaijin lands.  He does refer to "the city of Medin al Salaat", which is the earliest reference to the city.  However, historians have found copies of documents whose originals are said to be even older, which indicate that prior to Shinjo's children conquering the city it was known as "Medinat al Salaam", and it was changed to "Medin al Salaat" by the early Unicorn Clan.
 
 Much of the above doesn't actually fit with real-life languages, even though it draws a little from them.  "Salaam" is a real word, but the various meanings, implications, and conjugations here are mostly invented for this fictional setting.  The hope is that it nevertheless reads clearly on its own terms, setting aside real, historical languages.
 
@@ -4692,7 +4692,7 @@ The Hanan Caliphate:
 
 The city is ruled by a Caliphate.  The oldest female daughter of the previous Caliph is first in the line of succession.  It's unclear why only female rulers are permitted - under the previous Sultanate the rulers were all male.
 
-The Hanan is the name of the family who rules, and the current ruler is named Hanan Talibah.  In fact every ruler goes by this name, so presumably the current ruler is Hanan Talibah the <number>, though it's not clear to those in Rokugan where she is in the counting of the family line.  It's also unclear whether the Hanan family was originally Almekhem or from one of the other factions or even from outside the city.  However, they continue to speak Salaam and don't have their own language, which implies they possibly came from the Almekhem.
+The Hanan is the name of the family who rules, and the current ruler is named Hanan Talibah.  In fact every ruler goes by this name, so presumably the current ruler is Hanan Talibah the <number>, though it's not clear to those in Rokugan where she is in the counting of the family line.  It's also unclear whether the Hanan Family was originally Almekhem or from one of the other factions or even from outside the city.  However, they continue to speak Salaam and don't have their own language, which implies they possibly came from the Almekhem.
 
 They are said to control a special type of elemental kami known as djinn, though it's unclear whether this is true or just a folk superstition.  Most shugenja doubt that the 5 elements are fundamentally different from place to place, so if djinn exist at all, they may be a type of kansen (corrupted elemental kami).  However, the claim is also made that djinn will not follow a khadi (see below) because of their Shadowlands taint, and that is why the khadi are incapable of seizing control of the city themselves, and tsukai are capable of dealing with kansen, so perhaps djinn don't even exist.
 
@@ -4762,7 +4762,7 @@ That description introduced the PCs to the shared dream they found themselves in
 
 The major challenge of that initial scene was to manage to breach the walls of the city to win their way inside.  Once they did, they found themselves in the Court of the Caliph, witnessing a past event from 1 year earlier, which helps them to learn about how these events of the past led to their current circumstances.  The introduction to that second scene follows, included here for future context in case real-life things appearing in dreams comes up again later.
 
-The Uru have arrived in Medin al Salaat, to meet with Caliph Hanan Talibah in the Uru month known as "the reaping", and the Uru have come to the city state to seek counsel and support against the Moto.  Timur Beg, the leader of the Uru, has arrived with "onder" (khan) Eguden Yeke and onder Perhat Bugra.  Beg introduces himself to the Caliph's court by his many titles, as the "Uru onder" (khan of the Uru), as the "Onder ilg Onder" (khan of khans), as the "Genel Ordular ilg Uru Kabeel" (general of the armies of the Uru clan), and most importantly by the title granted to his grandfather by the Caliph's grandmother, the "Alhukm Alniha ilg Almunazaat" (unlike the other titles, this one is in Salaam rather than Uru and means "the final arbiter of all disputes").
+The Uru have arrived in Medin al Salaat, to meet with Caliph Hanan Talibah in the Uru month known as "the reaping", and the Uru have come to the city state to seek counsel and support against the Moto.  Timur Beg, the leader of the Uru, has arrived with "onder" (khan) Eguden Yeke and onder Perhat Bugra.  Beg introduces himself to the Caliph's court by his many titles, as the "Uru onder" (khan of the Uru), as the "Onder ilg Onder" (khan of khans), as the "Genel Ordular ilg Uru Kabeel" (general of the armies of the Uru Clan), and most importantly by the title granted to his grandfather by the Caliph's grandmother, the "Alhukm Alniha ilg Almunazaat" (unlike the other titles, this one is in Salaam rather than Uru and means "the final arbiter of all disputes").
 
 In the Caliph's court are the most esteemed of the factions.  The most numerous are the noble families of the Almekhem, who ruled the city under the Sultunate before the Ki Rin conquered the city and who now once again administer holdings under the Caliph.  However, in this dream they are faceless masses, just as the Moto families were who helped your raids and acted as your bodyguards.  Here you discern that the individual Almekhem matter little, for whatever their noble blood they serve at the pleasure of the Caliph and act as extensions of her will.
 
@@ -4782,7 +4782,7 @@ That was the second scene of the dream quest.  Here there were deeper secrets to
 
 With gaijin covered, the discussion turns to the Moto.
 
-One of my past campaigns (the "Hidden Way" campaign) involved the Moto family of the Unicorn clan, which are loosely based on the peoples of Mongolia (in the same way that Rokugan is based on samurai Japan with a bit of Imperial China thrown in).
+One of my past campaigns (the "Hidden Way" campaign) involved the Moto Family of the Unicorn Clan, which are loosely based on the peoples of Mongolia (in the same way that Rokugan is based on samurai Japan with a bit of Imperial China thrown in).
 
 ### Moto Etiquette
 
@@ -4814,9 +4814,9 @@ Because the word "clan" already has a defined meaning in the Empire, the civiliz
 
 ### The Moto Daimyo
 
-The "Moto clan" (or "Moto tribe") is the "ruling" tribe of the Moto.  The word "Moto" literally means "human", so they are the "Human clan" in their language.  The khan of the Moto tribe is always officially the daimyo of the Moto family according to both the Imperial and Unicorn clan governments.
+The "Moto Clan" (or "Moto tribe") is the "ruling" tribe of the Moto.  The word "Moto" literally means "human", so they are the "Human clan" in their language.  The khan of the Moto tribe is always officially the daimyo of the Moto Family according to both the Imperial and Unicorn Clan governments.
 
-The Moto daimyo is sometimes "just" the khan of the local Moto clan.  This is the largest and wealthiest of the Moto families, so the Moto khan is a significant figure even in the worst of times, when other Moto clans don't care much for his opinion.  Unlike most other families in the Empire, the Moto daimyo is always male.
+The Moto daimyo is sometimes "just" the khan of the local Moto Clan.  This is the largest and wealthiest of the Moto families, so the Moto khan is a significant figure even in the worst of times, when other Moto clans don't care much for his opinion.  Unlike most other families in the Empire, the Moto daimyo is always male.
 
 Moto Gaheris is the most successful Moto khan in centuries (maybe ever), having unified the clans to all ride under his banner and call him "the khan of khans"
 
@@ -4828,7 +4828,7 @@ Imperial official documents refer to "khuraldai" as the Moto word for "chancelle
 
 Our maps separate Moto lands into "eastern" and "western" halves, which basically means "do the local tribes speak Rokugani or do they only speak Moto?"
 
-Eastern Moto are mostly bilingual because Rokugani has been the official language in the Empire for so long and the most successful Moto have needed to be able to communicate with the Unicorn clan (and sometimes Imperials) for centuries.  It's unclear whether most eastern Moto are bilingual or if it's just the wealthier and more successful ones.
+Eastern Moto are mostly bilingual because Rokugani has been the official language in the Empire for so long and the most successful Moto have needed to be able to communicate with the Unicorn Clan (and sometimes Imperials) for centuries.  It's unclear whether most eastern Moto are bilingual or if it's just the wealthier and more successful ones.
 
 ### Approaching a Moto Tribe
 
@@ -4856,7 +4856,7 @@ Because Moto lands are semi-arid, only about 1% of their land is suitable for fa
 
 The Moto are mainly pastoralists, consisting of many nomadic tribes.  On paper those tribes are ruled by local governors, whom the Moto call Khans, though even the Shinjo usually don't know how many tribes there are or much about their makeup and numbers.
 
-The western Moto in particular rarely pay tribute to the ruling Moto family, but evidently Moto Gaheris sufficiently impressed and unified them that all of the tribes answered his call towards the end of the Lion/Unicorn war.
+The western Moto in particular rarely pay tribute to the ruling Moto Family, but evidently Moto Gaheris sufficiently impressed and unified them that all of the tribes answered his call towards the end of the Lion/Unicorn war.
 
 The Moto pay their taxes mainly in horses - the Imperial Magistrate collects 1000 horses per year, since the "blue book" value of a horse is considered 2 koku (despite horses being considerably cheaper in Moto lands).  This is the main external source of horses (i.e. the main source other than breeding) for the Imperial legions - any company can send people to Shiro Moto to pick up horses as needed.  See Horse cultures for more information on this.
 
@@ -4890,7 +4890,7 @@ The number 4 is unlucky because it sounds like the word "death".  Rokugani often
 
 It is therefore fitting that there are 4 Gods of Death - given the significance of the number, how could there be any other number?  However, of the 4 Gods of Death, only two are recognized in the rest of Rokugan, and the others appear unique to Moto teachings.
 
-Moto Gaheris, the daimyo of the Moto family, who is referred to by the Moto as "the khan of khans", carries four swords, each dedicated to a different god of death:
+Moto Gaheris, the daimyo of the Moto Family, who is referred to by the Moto as "the khan of khans", carries four swords, each dedicated to a different god of death:
 - Bloodstorm, which Gaheris carries into battle, is dedicated to Emma-O
 - Lamentation, used for defense when attacked/ambushed by another, is dedicated to Enma
 - Lightning, used in single combat, is dedicated to King Yan
@@ -4928,7 +4928,7 @@ King Yan rules over all oni, and tsukai (witches) often pray to him.  There is s
 
 - Oni who are summoned into the mortal realm by bloodspeakers and other types of tsukai usually try to devour everything they can, though smarter ones may scheme to more effectively feed as much as they can while in this realm.  This is unquestionably bad and wrong, as the essence of Jigoku (the Shadowlands taint) they bring with them corrupts and degrades all it comes into contact with, in contravention of the natural order.
 
-The Vindicator clan, which deals with the occasional oni which makes its way into Moto lands along the western side of the Twilight Mountains, teaches that oni in the mortal realm are not evil, and should instead be regarded like rabid animals which need to be put down.  Killing such an oni allows it to "return to where it belongs" and is therefore a merciful act, not only protecting its mortal victims but ultimately doing what is best for the oni itself, returning it to where the Tao prospers for it.  The Vindicator's hatred for all things Shadowlands is well-known, as they are the southernmost Moto tribe who has to deal with all of the Shadowlands denizens which make their way into Moto lands.  Thus, their position is treated with deference even by those who disagree with them and find it foolish.
+The Vindicator Clan, which deals with the occasional oni which makes its way into Moto lands along the western side of the Twilight Mountains, teaches that oni in the mortal realm are not evil, and should instead be regarded like rabid animals which need to be put down.  Killing such an oni allows it to "return to where it belongs" and is therefore a merciful act, not only protecting its mortal victims but ultimately doing what is best for the oni itself, returning it to where the Tao prospers for it.  The Vindicator's hatred for all things Shadowlands is well-known, as they are the southernmost Moto tribe who has to deal with all of the Shadowlands denizens which make their way into Moto lands.  Thus, their position is treated with deference even by those who disagree with them and find it foolish.
 
 One thing this section and others try to emphasize is how, even within the world of Rokugan with its many established doctrines, there is active debate about these matters.  Even with something as seemingly black-and-white, good-and-evil as oni (demons) from hell (Jigoku), there is much room for theological disagreement between different characters in the setting.
 
@@ -4980,19 +4980,19 @@ It was also established that anyone above the level of Governor from the ruling 
 
 - Ikoma Yuan is the Deputy Minister of War for Ikoma lands, but he is of the 10th rank, since the Ikoma Ministry of War oversees not only the Ikoma house itself, but all of the domains of the Ikoma vassal families.
 
-- Shinjo Tashima, who appointed Kitsuki Tetsu as a Clan magistrate overseeing Moto lands (subordinate to Shinjo Shunichi "the sand pirate"), is the Minister of Justice for the Shinjo house, and is therefore also the Minister of Justice for the entire Unicorn clan, so he is of the 12th rank.
+- Shinjo Tashima, who appointed Kitsuki Tetsu as a Clan magistrate overseeing Moto lands (subordinate to Shinjo Shunichi "the sand pirate"), is the Minister of Justice for the Shinjo house, and is therefore also the Minister of Justice for the entire Unicorn Clan, so he is of the 12th rank.
 
 Moto Gaheris' rank:
 
-Moto Gaheris is the daimyo of the Moto family, so the rank of all of his retainers flows downhill from his own rank.  But what rank is he?
+Moto Gaheris is the daimyo of the Moto Family, so the rank of all of his retainers flows downhill from his own rank.  But what rank is he?
 
 - If he were the daimyo of any other Family in the Empire, he would be automatically considered to be of the 13th rank.  Most people seem to assume that is his rank, though this has never been officially determined for any Moto daimyo.
 
 - However, the Moto are the only Family in the Empire who don't have a seat on the Imperial chancellery.  (Even vassal houses such as the Ryusei domain have a seat on the Imperial chancellery, though the Ryusei chancellor has fewer rights and privileges than Family and Clan daimyo.) Thus, many would argue that Gaheris should be considered equivalent to a House daimyo, and thus be considered to be of the 12th rank.
 
-- Minor clan daimyo are either of the 12th or 13th rank, depending on the specific minor clan.  Specifically, the two minor clans whose daimyo are of the 13th rank are the Mantis and the Dragonfly.  These are also the only two minor clans who themselves have more than one house, i.e. who have other vassal daimyo subordinate to them.
+- Minor Clan daimyo are either of the 12th or 13th rank, depending on the specific minor clan.  Specifically, the two minor clans whose daimyo are of the 13th rank are the Mantis and the Dragonfly.  These are also the only two minor clans who themselves have more than one house, i.e. who have other vassal daimyo subordinate to them.
 
-- The Moto family turns out to be extremely large... sort of.  Moto lands contain fewer humans than an average domain - the Ryusei was a slightly-smaller-than-average domain before they conquered several Unicorn provinces, but still had probably twice the total human population of Moto lands.  On the other hand, such a high percentage of Moto subjects are samurai warriors that Gaheris was able to field a samurai cavalry force 3-5 times the size of the combined samurai/peasant army of the Ryusei.  Some might argue that this raises Gaheris' weight and therefore his position at the 13th rank should not be in question.
+- The Moto Family turns out to be extremely large... sort of.  Moto lands contain fewer humans than an average domain - the Ryusei was a slightly-smaller-than-average domain before they conquered several Unicorn provinces, but still had probably twice the total human population of Moto lands.  On the other hand, such a high percentage of Moto subjects are samurai warriors that Gaheris was able to field a samurai cavalry force 3-5 times the size of the combined samurai/peasant army of the Ryusei.  Some might argue that this raises Gaheris' weight and therefore his position at the 13th rank should not be in question.
 
 - With that being said, Gaheris' kuraldai is officially regarded as the Moto chancellery, the Moto "clans" are officially considered the various registered Moto lineages, and the khans of those clans are officially considered chancellors.  Thus, whatever the size of the Moto, they have been legally classified as a single House, and there is standing precedent that Gaheris has no other daimyo subordinate to him.  With that being said, there are a number of Family daimyo who have no vassal houses and yet are still considered to be of the 13th rank.  Examples include the Kuni, the Asahina, the Yogo, and even the Kitsuki - Tetsu's family!
 
@@ -5012,7 +5012,7 @@ Here's the least favorable interpretation of the rank of Moto Chenghiz:
 
 Here is the most favorable interpretation of the rank of Moto Chenghiz:
 
-- Treat Gaheris as being of the 13th rank, because his standing can hardly be in question given his accomplishments and recognized position as daimyo of the Moto family.
+- Treat Gaheris as being of the 13th rank, because his standing can hardly be in question given his accomplishments and recognized position as daimyo of the Moto Family.
 
 - While Gaheris may not have bothered to officially register Jochi as a Minister, he clearly regards Jochi in that way.  Even if the specifics differ from any other domain and the entire structure is completely different, Jochi manages the revenue for Gaheris' government, so he could be ruled to be considered the Moto Minister of Revenue.  Alternatively Jochi could be considered the Minister of Tribute - there's no rule saying that someone must be a member of a recognized ministry to be considered a Minister, though most people would probably say that if it's "not good enough for the Emperor to recognize in his government in the capital then it shouldn't be good enough to be recognized here".  (Of course, "most people" don't think very highly of the Moto.) Regardless of the legal framework, this would place Jochi within the 11th rank.
 
@@ -5128,7 +5128,7 @@ What constitutes a "raid" is also not clear.  For instance, sometimes when trave
 
 Cattle and horses are branded, and sheep are painted/inked, with all marks indicating their owners.  However, because animals are self-transporting, they sometimes end up in the wrong place.
 
-It's unclear exactly what standard causes the Kuraldai to declare that something constitutes theft.  A single animal is always presumed to be an accident, absent extenuating circumstances, such as when the favorite horse of the khan of the Vindicator clan was stolen by some visiting Tornado clansmen.
+It's unclear exactly what standard causes the Kuraldai to declare that something constitutes theft.  A single animal is always presumed to be an accident, absent extenuating circumstances, such as when the favorite horse of the khan of the Vindicator Clan was stolen by some visiting Tornado clansmen.
 
 Animals are also sometimes killed on raids rather than taken.  It seems to be the case that even a single horse being killed is dealt with severely, while a sheep or cow being killed is treated as an unserious matter.
 
@@ -5152,13 +5152,13 @@ Relatedly, sometimes a drought occurs shortly after a case comes before the Kura
 
 ##### Miscellaneous specific cases
 
-- Some members of the Suicide Rider clan entered the territory of the Slashing Goat clan.  After getting into an argument and being insulted, they hurled insults in return and rode away.  They were followed by a Slashing Goat rider to watch them.  They turned around and captured the rider, tying him to a tree and then riding back into Suicide Rider lands.  The man they tied up died of thirst before he was found.  The Suicide Riders claimed they had no reason to believe this would happen, since he was still in Slashing Goat territory.  The Kuraldai ordered them to be buried up to their necks until they themselves died of thirst.
+- Some members of the Suicide Rider Clan entered the territory of the Slashing Goat Clan.  After getting into an argument and being insulted, they hurled insults in return and rode away.  They were followed by a Slashing Goat rider to watch them.  They turned around and captured the rider, tying him to a tree and then riding back into Suicide Rider lands.  The man they tied up died of thirst before he was found.  The Suicide Riders claimed they had no reason to believe this would happen, since he was still in Slashing Goat territory.  The Kuraldai ordered them to be buried up to their necks until they themselves died of thirst.
 
-- Three children from the Desert Wind clan dumped horse feces down a well in the territory of the Reddened Cloak clan as a prank.  This led to many of the people getting sick and was deemed poisoning, which always results in death.  However, because those involved were children, their fathers were put to death instead for failing to adequately instruct their sons.
+- Three children from the Desert Wind Clan dumped horse feces down a well in the territory of the Reddened Cloak Clan as a prank.  This led to many of the people getting sick and was deemed poisoning, which always results in death.  However, because those involved were children, their fathers were put to death instead for failing to adequately instruct their sons.
 
-- While Moto Gaheris and his armies were engaged in raids in Lion lands during the war, a number of young men from the Moto tribe got into an argument with some members of the Black Horse clan over grazing and took 20 of their sheep.  This resulted in an altercation in which a member of the Black Horse clan was killed.  The young men were publicly whipped and forced to pay 100 sheep in repayment.
+- While Moto Gaheris and his armies were engaged in raids in Lion lands during the war, a number of young men from the Moto tribe got into an argument with some members of the Black Horse Clan over grazing and took 20 of their sheep.  This resulted in an altercation in which a member of the Black Horse Clan was killed.  The young men were publicly whipped and forced to pay 100 sheep in repayment.
 
-- Some farmers (which do actually exist in Moto lands, there just aren't nearly as many of them as anywhere else) had been suffering a rash of chicken thefts.  Some visiting members from the Moto clan were confronted by some local Vindicator clansmen, who demanded to search them and take an accounting of their whereabouts.  An altercation resulted, in which two Vindicator clansmen and one Moto clansman were killed.  The Kuraldai ruled that no further action was needed - the Vindicator were presumably within their rights to request a search, and the Moto were presumably within their rights to refuse, and the fight was therefore mutually agreed upon.  Or something.  Rulings are not always explained, and it's not clear what the underlying logic was.
+- Some farmers (which do actually exist in Moto lands, there just aren't nearly as many of them as anywhere else) had been suffering a rash of chicken thefts.  Some visiting members from the Moto Clan were confronted by some local Vindicator clansmen, who demanded to search them and take an accounting of their whereabouts.  An altercation resulted, in which two Vindicator clansmen and one Moto clansman were killed.  The Kuraldai ruled that no further action was needed - the Vindicator were presumably within their rights to request a search, and the Moto were presumably within their rights to refuse, and the fight was therefore mutually agreed upon.  Or something.  Rulings are not always explained, and it's not clear what the underlying logic was.
 
 #### Rules of warfare
 
@@ -5236,19 +5236,19 @@ The family of Moto Jochi has representatives and assistants in each Moto legion,
 
 #### Rulings under Gaheris
 
-The Tuesday group asked around about Gaheris' rise to power and how he has treated his opponents as daimyo of the Moto.  Thus far, they have specifically spoken to members of the Moto clan and the Vindicator clan.
+The Tuesday group asked around about Gaheris' rise to power and how he has treated his opponents as daimyo of the Moto.  Thus far, they have specifically spoken to members of the Moto Clan and the Vindicator Clan.
 
-Gaheris' father was Moto Soro.  The khan of the Moto clan is always the daimyo of the Moto family, but within Moto lands the Moto khan is not necessarily more significant than other khans.  This varies from generation to generation, and the position as official daimyo doesn't result in as much power as it does elsewhere due to the Moto having no position on the Imperial chancellery.
+Gaheris' father was Moto Soro.  The khan of the Moto Clan is always the daimyo of the Moto Family, but within Moto lands the Moto khan is not necessarily more significant than other khans.  This varies from generation to generation, and the position as official daimyo doesn't result in as much power as it does elsewhere due to the Moto having no position on the Imperial chancellery.
 
-Moto Soro seems to have been a peer on the kuraldai rather than its leader, as Gaheris is.  Thus, disputes seem to have involved the Moto clan being peers rather than rulers.  Interestingly, the Moto and Vindicator clans give conflicting reports of how this has changed:
+Moto Soro seems to have been a peer on the kuraldai rather than its leader, as Gaheris is.  Thus, disputes seem to have involved the Moto Clan being peers rather than rulers.  Interestingly, the Moto and Vindicator clans give conflicting reports of how this has changed:
 
-- The Moto complain that "in order to maintain harmony between the clans", Gaheris has allowed the kuraldai to impose harsher punishments on members of the Moto clan than what other clans suffer whenever a dispute arises between Moto clan members and other clans.
+- The Moto complain that "in order to maintain harmony between the clans", Gaheris has allowed the kuraldai to impose harsher punishments on members of the Moto Clan than what other clans suffer whenever a dispute arises between Moto Clan members and other clans.
 
 - The Vindicator complain that the Moto are widely known to receive more lenient sentences or even outright allowed to get away with malfeasance now that Gaheris has become the khan of khans.
 
 Everyone knows that Gaheris has brought back the practice of "measuring against the lynchpin" and makes frequent use of this.  However, Tetsu's investigation raises the possibility that Gaheris has only done this a single time, and merely threatened it as a possible punishment in other cases.  "Everyone knows" that this has been a "frequent" punishment handed down by his kuraldai, but no one knows of any specific cases in which the kuraldai has handed out this punishment.
 
-The one time Gaheris is known to have imposed this punishment is against his uncle, Moto Davaajav.  ("Davaajav" means "moon of deliverance".) The brother of Gaheris' father, Moto Soro, Davaajav appears to have disagreed with his nephew's positions and policies, and left Karakoru to join a settlement in western Moto clan lands a few dozen miles from the capital.
+The one time Gaheris is known to have imposed this punishment is against his uncle, Moto Davaajav.  ("Davaajav" means "moon of deliverance".) The brother of Gaheris' father, Moto Soro, Davaajav appears to have disagreed with his nephew's positions and policies, and left Karakoru to join a settlement in western Moto Clan lands a few dozen miles from the capital.
 
 The specific nature of the dispute is unclear, though Gaheris appears to have canceled a number of projects in Karakoru which his father Soro had begun:
 
@@ -5326,7 +5326,7 @@ What follows is intended to be a near-complete copy of the "partial" Yassa which
 
 > Any man who can ride a horse and fight for his khan may call himself a Moto and may not be taken as a servant or laborer.
 
-(This order is probably the closest that the Yassa comes to just saying "screw it, we don't recognize the Celestial Order".  It basically says "anyone who can fight is a samurai regardless of birth".  If someone wanted to argue that this wasn't heretical, they could point out that any daimyo in the Empire may elevate any peasant to samurai status at their discretion.  In the rest of the Empire, this is done rarely, such as when Mirumoto Guru's grandfather saved the life of his daimyo as an ashigaru.  But there's technically nothing in Imperial law stopping Gaheris, in his capacity as daimyo of the Moto family, from elevating random herdsmen to samurai status.  Whether or not this kind of blanket, automated, impersonal elevation would be declared heretical by the Imperial Ministry of Rites has never been tested.)
+(This order is probably the closest that the Yassa comes to just saying "screw it, we don't recognize the Celestial Order".  It basically says "anyone who can fight is a samurai regardless of birth".  If someone wanted to argue that this wasn't heretical, they could point out that any daimyo in the Empire may elevate any peasant to samurai status at their discretion.  In the rest of the Empire, this is done rarely, such as when Mirumoto Guru's grandfather saved the life of his daimyo as an ashigaru.  But there's technically nothing in Imperial law stopping Gaheris, in his capacity as daimyo of the Moto Family, from elevating random herdsmen to samurai status.  Whether or not this kind of blanket, automated, impersonal elevation would be declared heretical by the Imperial Ministry of Rites has never been tested.)
 
 > All children shall be given instruction in reading and religious doctrine in the winter.
 
@@ -5370,7 +5370,7 @@ According to the Almekhem, the King of Jinn invaded the night sky with his armie
 
 ### Blessings and Curses
 
-There are a number of stories of how and why the desert was scorched.  Shosuro, the priestess queen who swore fealty to Bayushi during the founding of the Scorpion clan, explained that the gods appear to humans from behind masks.  Rivers and oceans are merely the masks worn by the water kami, just as ground and mountains are the masks of the earth kami.  What we see in the sky during the daytime is only the mask worn by Lady Sun, whose true form we cannot comprehend.  The desert is what remains in the aftermath of Lady Sun briefly removing her mask, casting her true gaze upon part of the mortal world for only an instant.
+There are a number of stories of how and why the desert was scorched.  Shosuro, the priestess queen who swore fealty to Bayushi during the founding of the Scorpion Clan, explained that the gods appear to humans from behind masks.  Rivers and oceans are merely the masks worn by the water kami, just as ground and mountains are the masks of the earth kami.  What we see in the sky during the daytime is only the mask worn by Lady Sun, whose true form we cannot comprehend.  The desert is what remains in the aftermath of Lady Sun briefly removing her mask, casting her true gaze upon part of the mortal world for only an instant.
 
 The Togashi monks have no one canonical story of how the desert came to exist, but they question the assumption that the desert represents Lady Sun's anger or displeasure.  The desert seems to command more of Lady Sun's attention than other places, this is true.  Yet does that not imply that this land has her favor?  The attention of divine beings can be terrifying, but if Lady Sun's blessing appears to be some form of curse, then does that not simply raise questions about how we understand blessings and curses and whether there is even any difference between them?
 
@@ -5626,9 +5626,9 @@ Eventually Takaba realized that it was names that his wife hungered for, so he b
 
 In the course of his research, Takaba tried to record the names he had fed to his wife to understand what satisfied the most, and how big a name had to be in order to temporarily sate her hunger.  He quickly found that he could no longer remember any name once it was fed to her, and any written record of that name quickly became blurred and illegible.  Further inquiry revealed that living people whose names were eaten in this way were themselves forgotten, even by their closest family.  By consuming their names, Takaba's fox-wife had severed their connection to the world, dropping their souls into the underworld without even the memories of that life, forgotten by the world itself.
 
-Takaba eventually devised a ritual that he believed would restore her to her previous form, but it would require a name larger than any he possessed, including his own.  He set about to use the last of his resources to ambush Yasuki Kiringu, the daimyo of the Yasuki family, which was still part of the Crane clan at that time, as he returned from a trip to Kyuden Daidoji.
+Takaba eventually devised a ritual that he believed would restore her to her previous form, but it would require a name larger than any he possessed, including his own.  He set about to use the last of his resources to ambush Yasuki Kiringu, the daimyo of the Yasuki Family, which was still part of the Crane Clan at that time, as he returned from a trip to Kyuden Daidoji.
 
-With Kiringu's name eaten, the world continued with his brother Yasuki Tsanumi as the Yasuki daimyo.  Indeed, the world continued as if Tsanumi himself had always been the daimyo, with no one remembering that Kiringu had ever been born.  Tsanumi was much angrier at the Crane clan for their lack of support than his brother had been - Kiringu had taken the ruling on heretical farming practices in stride and valued long-term stability more than responding to loss and insult.  However, with Tsanumi as daimyo, the Yasuki seceded from the Crane clan and joined the Crab clan, to the shock of the whole Empire.
+With Kiringu's name eaten, the world continued with his brother Yasuki Tsanumi as the Yasuki daimyo.  Indeed, the world continued as if Tsanumi himself had always been the daimyo, with no one remembering that Kiringu had ever been born.  Tsanumi was much angrier at the Crane Clan for their lack of support than his brother had been - Kiringu had taken the ruling on heretical farming practices in stride and valued long-term stability more than responding to loss and insult.  However, with Tsanumi as daimyo, the Yasuki seceded from the Crane Clan and joined the Crab Clan, to the shock of the whole Empire.
 
 The Emperor's most talented advisors and soothsayers were caught off guard.  Not only had his political advisors been confident that the Yasuki would avoid such drastic action, even the Emperor's prophets had been unable to see this coming.  Apparently the changes to the world caused by the feasts of the Nameless One stand above prophecy itself, affecting the world's futures in ways even they cannot perceive.  The Hantei immediately dispatched members of the Order of Amaterasu to investigate how such a thing could have happened.
 
@@ -5770,11 +5770,11 @@ One of the things this worldbuilding wants help with, in addition to generating 
 
 Here's the backstory for the famous sword Yamaoroshi:
 
-The origins of this sword are unknown.  Its known history begins with Mirumoto Tsuki, who was part of the army that defeated the Maw at the Battle of the Cresting Wave.  Her own sword destroyed, she pulled the sword of a fallen comrade out of the Maw's hide.  The sword seemed to move under its own power, hacking and slicing into the Maw, especially when striking from west to east.  When the final coordinated strike from the remaining warriors finally slew the Maw, Tsuki was the only member of the Dragon clan to help deal the killing blow.
+The origins of this sword are unknown.  Its known history begins with Mirumoto Tsuki, who was part of the army that defeated the Maw at the Battle of the Cresting Wave.  Her own sword destroyed, she pulled the sword of a fallen comrade out of the Maw's hide.  The sword seemed to move under its own power, hacking and slicing into the Maw, especially when striking from west to east.  When the final coordinated strike from the remaining warriors finally slew the Maw, Tsuki was the only member of the Dragon Clan to help deal the killing blow.
 
 She named the sword Yamaoroshi - "Wind Blowing Down the Mountain".  As the sword that slew the Maw, it gained great renown, and 150 years later made its way into the hands of a duelist named Mirumoto Tetsushi, who used it to defeat Kakita Senri, chief instructor of the Kakita dueling academy.  Already an underdog in the fight, Tetsushi chose to face east into the morning sun, practically blinding him in the garden where they fought.  Yet he emerged victorious, explaining afterwards that just as the Wind Blows Down the Mountain, so too does this sword desire to be striking in the direction from higher elevation to lower elevation, even when its wielder is standing on flat ground.
 
-Yamaoroshi later became the family sword of Agasha Shigeaki, one of the companions of Agasha Kitsuki, and struck down several of the assassins bent on murdering Mirumoto Januko, the daimyo of the Mirumoto family when the Unicorn returned.  Agasha Kitsuki was granted his own Family name, and so Shigeaki then became Kitsuki Shigeaki, and Yamaoroshi has stayed with the Kitsuki family ever since.
+Yamaoroshi later became the family sword of Agasha Shigeaki, one of the companions of Agasha Kitsuki, and struck down several of the assassins bent on murdering Mirumoto Januko, the daimyo of the Mirumoto Family when the Unicorn returned.  Agasha Kitsuki was granted his own Family name, and so Shigeaki then became Kitsuki Shigeaki, and Yamaoroshi has stayed with the Kitsuki Family ever since.
 
 Note that this sword is steeped in history and is many centuries old, and it is believed to not only benefit from excellent craftsmanship in its manufacture, but that the weight of its past deeds and accomplishments grants its wielder an almost supernatural advantage.
 
@@ -5879,7 +5879,7 @@ Resting upon an ornate pedestal of carved ebony wood, within a chamber softly il
 
 The Helm of Discerning Valor was commissioned to honor Akodo Kaizen, a revered infantry commander of the Lion Clan.  In a time of great strife during the era of the Gozoku, the Crane Clan laid siege to Toshi Ranbo.  With the city's walls under relentless assault and victory for the Crane seeming inevitable, Akodo Kaizen discerned the perfect moment to sally forth, leading a charge that shattered the Crane's forces scaling the city walls, turning the tide of the siege and cementing his legacy.
 
-After this legendary defense, the helm was crafted in recognition of his brilliant tactics.  Over time, as Akodo Kaizen's descendants drew strength and insight from it, the helm became revered beyond the Akodo family, eventually earning its place as a sacred relic within the Temple of Bishamon.
+After this legendary defense, the helm was crafted in recognition of his brilliant tactics.  Over time, as Akodo Kaizen's descendants drew strength and insight from it, the helm became revered beyond the Akodo Family, eventually earning its place as a sacred relic within the Temple of Bishamon.
 
 On the brink of leading their infantry into battle, military commanders come to the chamber to invoke Akodo Kaizen's strategic genius.  With permission from the Custodian of the Sacred Relics (currently Steward Iori), a commander dons the helm.  As they kneel, they silently meditate, seeking clarity on when to exercise patience and when to charge with unwavering might.
 
@@ -5903,7 +5903,7 @@ Outer Platform: The largest and first platform is shaped in a perfect circle and
 
 Second Platform: Resting atop the first, this hexagonal platform is constructed of polished obsidian, catching and reflecting the dim light of the room in unpredictable patterns.  Surrounding this platform are statues of six revered monks, each holding a different symbolic item: a staff, a scroll, a lotus, a bell, a sword, and a bowl.
 
-Third Platform: Smaller still, this platform is triangular and made of pure, translucent crystal.  It seems to glow from within, casting gentle prisms around the room.  Guarding this platform are three celestial ki-rin.  These are not the ki-rin of the Unicorn clan, but the celestial ki-rin of Lady Sun's court, with the torso of a deer, the tail of an ox, the hooves of a horse, and wings outspread, each bearing a sapphire in its beak.
+Third Platform: Smaller still, this platform is triangular and made of pure, translucent crystal.  It seems to glow from within, casting gentle prisms around the room.  Guarding this platform are three celestial ki-rin.  These are not the ki-rin of the Unicorn Clan, but the celestial ki-rin of Lady Sun's court, with the torso of a deer, the tail of an ox, the hooves of a horse, and wings outspread, each bearing a sapphire in its beak.
 
 Final Container: Upon the crystal platform rests the Vault of Celestial Echoes, a meticulously crafted reliquary made of silver and gold.  Intricate designs of dragons and phoenixes dance around its surface, intertwined in a complex, mesmerizing pattern.  Its lid, though unsealed, is heavy and bears a single golden lotus at its center, symbolizing purity and divine connection.
 
@@ -5925,7 +5925,7 @@ Although the exact contents of the inner reliquary are unknown, there is an exte
 
 ### Stolen Relics
 
-The Tsume family held the city of Toshi Ranbo for 3 years.  After they took the city, they plundered it for its treasures, including the Temple of Bishamon's stored coinage, amounting to many thousands of koku.
+The Tsume Family held the city of Toshi Ranbo for 3 years.  After they took the city, they plundered it for its treasures, including the Temple of Bishamon's stored coinage, amounting to many thousands of koku.
 
 After the initial attempt by the Akodo to retake the city failed, the Tsume went a step further and took several of the temple's relics, which they transported to other temples in Crane lands.  They also plundered numerous pieces of temple artwork, as the Temple of Bishamon contains many priceless pieces of historical artwork which are not listed on this page.
 
@@ -6063,7 +6063,7 @@ Though some have wondered whether Kiyora's tale is merely the fever dream of a h
 
 #### Isawa Koichi
 
-Another legionnaire from the 3rd Imperial legion is Isawa Koichi.  As background: in this setting, the Day of Thunder was different from the canonical L5R storyline, and it involved a cult of Lord Moon trying to stage a coup and take over several of the great clans in order to destroy the authority of the Emperor (who is more aligned with Lady Sun).  Prior to this time, the worship of Lord Moon was much more tolerated, and even afterwards it has not been declared heretical, since the Empire does not wish to declare itself in opposition to the Lord of the Night Sky, lest it suffer the consequences of his displeasure.  However, there are many more restrictions placed on moon worship than there were before (Lord Moon is not a fortune, but rather a celestial entity, if that matters).  With that in mind, here is Koichi's story:
+Another legionnaire from the 3rd Imperial legion is Isawa Koichi.  As background: in this setting, the Day of Thunder was different from the canonical L5R storyline, and it involved a cult of Lord Moon trying to stage a coup and take over several of the Great Clans in order to destroy the authority of the Emperor (who is more aligned with Lady Sun).  Prior to this time, the worship of Lord Moon was much more tolerated, and even afterwards it has not been declared heretical, since the Empire does not wish to declare itself in opposition to the Lord of the Night Sky, lest it suffer the consequences of his displeasure.  However, there are many more restrictions placed on moon worship than there were before (Lord Moon is not a fortune, but rather a celestial entity, if that matters).  With that in mind, here is Koichi's story:
 
 Koichi is a tracker who hunted bandits in the Isawa woodlands before being assigned to the Imperial Legions.  She once tracked a group of bandits into the woods after following the tracks they left from robbing a caravan, but she soon lost their trail.  Reasoning that few bandits actually live in the woods, she took a chance on them returning to their peasant homes that evening.  After darkness fell, she was vindicated as she saw lantern light in the distance through the trees.  Following behind, she tried to draw close enough to avoid losing track of them, but she ended up stumbling upon one of the bandits who had not bothered to light a lantern.
 
@@ -6145,7 +6145,7 @@ A shugenja was called in, who confirmed she was not currently possessed, though 
 
 Fu eventually realized that the only way to see the investigation through was to prove her sanity and level-headedness to her superiors in her current post.  She has stated that she wishes to demonstrate her clear thinking and sharp intellect so that her superiors can write letters of recommendation and send word that this matter should be given more urgency than it has previously received.  Because she had been near the end of her tour of duty, she reenlisted to give herself more time to gain the recommendations she requires.
 
-After the Day of Thunder, Fu felt vindicated and she suspects that Lord Moon's servants may have had some hand in this matter.  She has gotten word that this investigation has received increased scrutiny after it was revealed that some in the Scorpion clan had fallen under Lord Moon's influence, but she remains convinced they are not doing enough.  Fu intends to return to Ryoko Owari after this tour of duty to hunt for whatever monster lurks in the shadows there.
+After the Day of Thunder, Fu felt vindicated and she suspects that Lord Moon's servants may have had some hand in this matter.  She has gotten word that this investigation has received increased scrutiny after it was revealed that some in the Scorpion Clan had fallen under Lord Moon's influence, but she remains convinced they are not doing enough.  Fu intends to return to Ryoko Owari after this tour of duty to hunt for whatever monster lurks in the shadows there.
 
 In the meantime, Fu keeps a meticulous journal and has developed an obsessive system of indexing its pages, then carving the index into wooden planks she nails to the walls of the barracks.  She reviews the journals regularly and checks for missing pages to ensure that no more of her memories are stolen from her.  Thus far she has had no further missing time, which only confirms that the danger is centered on Ryoko Owari and Beiden Pass.
 
@@ -6259,7 +6259,7 @@ There are two significant properties of the Burning Words which make them the mo
 
 2. The Burning Words reveal only terrible truths.  It is said that most who gaze upon them wish that they would have been spared the burden of such terrible knowledge.  The Burning Words transmit not only the truth itself, but the terrible sense that there are no technicalities or loopholes, and that any outcome which fulfils them will indeed be terrible in some regard.
 
-A famous historical example is that of Yasuki Noriko.  When the warlord Sato swore fealty to Yasuki, first of her name, and became the first daimyo of the Sato house of the new Yasuki family of the Crane clan (remember that the Yasuki were Crane for several hundred years before changing their allegiance to the Crab clan), Yasuki's niece Noriko married Sato's son Takumi.  Noriko was the most experienced caravan master in the world, having been all across the Empire many times, and as such she was entrusted with safeguarding the Burning Words, bolstered by Seppun family Imperial guards.
+A famous historical example is that of Yasuki Noriko.  When the warlord Sato swore fealty to Yasuki, first of her name, and became the first daimyo of the Sato house of the new Yasuki Family of the Crane Clan (remember that the Yasuki were Crane for several hundred years before changing their allegiance to the Crab Clan), Yasuki's niece Noriko married Sato's son Takumi.  Noriko was the most experienced caravan master in the world, having been all across the Empire many times, and as such she was entrusted with safeguarding the Burning Words, bolstered by Seppun Family Imperial guards.
 
 This probably requires some explanation as well.  Artifacts of great power are said to reach out and call people to them - they may not be alive or have an intellect, but they certainly possess great will, and the longer that they stay in one place, the more likely it is that circumstances will conspire to bring someone in contact with the artifact.  A workaround which has sometimes proved effective is to never let such an item of great power remain in one place for long - holy relics whose power is feared might sometimes be moved to different temples across the Empire, for example.
 
@@ -6273,7 +6273,7 @@ She understood in that moment that her father in law must have already committed
 
 Noriko ultimately accepted the terrible fate, while setting out to save what few members she could.  While many of those she had come to love would certainly die, including her own husband, she could arrange marriages into other lineages or families, saving most (but not all!) of her own children.
 
-After making these arrangements, and confirming the treachery of her father-in-law, Noriko informed the Hantei of the Sato lineage's perfidy and she and her son accepted their own fates, asking only to commit seppuku to demonstrate their honor for history and cleanse the stain on the Yasuki family's honor.  Hantei Genji accepted, and "The Burning Words" is a famous play commemorating this sacrifice.
+After making these arrangements, and confirming the treachery of her father-in-law, Noriko informed the Hantei of the Sato lineage's perfidy and she and her son accepted their own fates, asking only to commit seppuku to demonstrate their honor for history and cleanse the stain on the Yasuki Family's honor.  Hantei Genji accepted, and "The Burning Words" is a famous play commemorating this sacrifice.
 
 Note that while Noriko was helpless to prevent terrible events from unfolding, her situation was not hopeless, as she was able to ensure a better outcome than what otherwise might have occurred!
 
@@ -6451,13 +6451,13 @@ Other notes:
 
 - A collection of Legions is an Army, commanded by an Army General.
 
-- A collection of armies is commanded by someone with the title General of the ____ Armies of the ____.  For example, Daidoji Uji (daimyo of the Daidoji family) has the title, "General of the Southern Armies of the Crane".
+- A collection of armies is commanded by someone with the title General of the ____ Armies of the ____.  For example, Daidoji Uji (daimyo of the Daidoji Family) has the title, "General of the Southern Armies of the Crane".
 
 ### Companies and Houses
 
 Each House is responsible for providing either part (in the case of small houses) or all (in the case of larger and/or more prestigious houses) of a Company to at least one of the Imperial legions.  Some houses provide more than one company, which can be negotiated with the Imperial Ministries of War and Revenue (through the Treasurer and the Shogun and their subordinates) as part of their tax obligation.
 
-Companies are funded entirely by the Houses which provide them.  Battalion Commanders are frequently Imperials, especially from the Seppun family, though the 1st Imperial legion is an exception due to its unique mission and history.  A small percentage of each company will consist of samurai from other Houses and sometimes other clans, which will sometimes be transferred/assigned for political or personal reasons.
+Companies are funded entirely by the Houses which provide them.  Battalion Commanders are frequently Imperials, especially from the Seppun Family, though the 1st Imperial legion is an exception due to its unique mission and history.  A small percentage of each company will consist of samurai from other Houses and sometimes other clans, which will sometimes be transferred/assigned for political or personal reasons.
 
 Due to the sought-after benefits of holding a position in the 1st Imperial Legion, out-of-House assignments are more common in a number of the companies (Hiruma company being an outlier for being almost entirely sold-commissions and Togashi company being an outlier in the other direction).
 
@@ -6565,7 +6565,7 @@ At this point I feel like I'm mostly just sharing random setting details, but I 
 
 ### Bayushi Tangen
 
-Bayushi Tangen was a warrior-poet who was alive during the return of the Unicorn clan.  The Emperor famously asked Tangen to write a treatise on treachery, duplicity and espionage.  Tangen called this book "Lies" and this book is said to best capture the philosophy of the Scorpion clan.  A representative quote from "Lies":
+Bayushi Tangen was a warrior-poet who was alive during the return of the Unicorn Clan.  The Emperor famously asked Tangen to write a treatise on treachery, duplicity and espionage.  Tangen called this book "Lies" and this book is said to best capture the philosophy of the Scorpion Clan.  A representative quote from "Lies":
 
 > Akodo speaks eloquently of the virtue of honesty.  "No harm can come of the truth," he says, "and a lie kills someone in the world." If a lie were to save the Emperor and the truth doom him, I would ask the Lion what he might choose.  A lie does indeed kill someone in the world, but what if it saved the Emperor?  Who would not give his life for the Son of Heaven?  If Lord Akodo is unwilling to do so, I certainly shall take his place.
 
@@ -6583,13 +6583,13 @@ When the Unicorn returned to Rokugan 200 years ago, they didn't arrive in one gi
 
 A huge part of what makes this kind of desert trip difficult is that even if there's enough groundwater to provide for all of the humans and animals making the trip, it may be impossible to pull a sufficient quantity of that water out of the existing wells fast enough to keep a large force supplied.  For this reason, most of the Unicorn who returned did not do so along the Ki Rin Trail (although many did).  Most traveled north of Medin al Salaat before heading east.  (When Gaheris finally invades, probably sometime next year, he will likely take this same route in reverse, ultimately approaching Medin al Salaat from north to south rather than from east to west.)
 
-However, not all Unicorn took these routes, and some journeyed south, especially the Moto, whose ancestral homelands are, according to the Chai Sedo library, to the southwest of Medin al Salaat.  (This source takes the conventional wisdom that the Moto are not from here but were recruited by the Unicorn clan while they ruled Medin al Salaat, and that some of the Moto came here for the first time 200 years ago.  Places like Karakoru and Bodi Kaikhan are described as having been Unicorn holdings which were granted to the Moto after the Unicorn returned.)  In particular, many Moto are said to have traveled south along routes towards the Ivory Kingdom before heading northeast to reach the southern end of the Twilight Mountains.
+However, not all Unicorn took these routes, and some journeyed south, especially the Moto, whose ancestral homelands are, according to the Chai Sedo library, to the southwest of Medin al Salaat.  (This source takes the conventional wisdom that the Moto are not from here but were recruited by the Unicorn Clan while they ruled Medin al Salaat, and that some of the Moto came here for the first time 200 years ago.  Places like Karakoru and Bodi Kaikhan are described as having been Unicorn holdings which were granted to the Moto after the Unicorn returned.)  In particular, many Moto are said to have traveled south along routes towards the Ivory Kingdom before heading northeast to reach the southern end of the Twilight Mountains.
 
 A large contingent of these Moto are said to have run out of water and in desperation entered the Shadowlands, where they were corrupted.  Some of them are said to have tried to return to the Empire anyway, where their former kinsmen turned them away.  The Vindicator Moto declared themselves enemies of the Dark Moto, and each Vindicator swears a vow to his ancestors during his gempukku to always oppose the forces of the Shadowlands and the Dark Moto in particular.
 
 The Dark Moto are now mainly known to the Crab Clan, who occasionally encounter these skeletal riders, who like to prey upon raiding parties returning from successful (or unsuccessful) raids on goblins and ogres in the Shadowlands.  The Dark Moto usually attempt to recruit wounded legionnaires, especially those dying or who have become permanently tainted during their mission, promising immortality and power and the opportunity to do battle against oni in their home turf in Jigoku.
 
-The most characteristic appeal made by Dark Moto trying to recruit wounded legionnaires usually involves some combination of threats (join us or die) and the promise that their work benefits the Crab clan, by stopping Oni Lords such as the Maw before they are able to even enter the Shadowlands to threaten humanity.
+The most characteristic appeal made by Dark Moto trying to recruit wounded legionnaires usually involves some combination of threats (join us or die) and the promise that their work benefits the Crab Clan, by stopping Oni Lords such as the Maw before they are able to even enter the Shadowlands to threaten humanity.
 
 Platoons who successfully turn away the Dark Moto without anyone joining their ranks are often told that "The day will come when you seek us out to beg for our assistance" though it is unclear whether this refers to any particular future threat or merely references the general inevitability of death.
 
@@ -6605,17 +6605,17 @@ According to Moto Zolzaya, when the Moto returned to their ancestral homelands, 
 
 As of this writing, my current campaign is the Wasp Bounty Hunters campaign, which has this three-paragraph description:
 
-It's been 15 years since Tsuruchi, first of his name, founded the Wasp clan, a minor clan whose charter authorizes all Wasp samurai to pursue Imperial bounties.  Because most Imperial magistrates are reluctant to create major political incidents over minor bounties, the Wasp have already settled into an important niche within the landscape of the Emerald Empire.
+It's been 15 years since Tsuruchi, first of his name, founded the Wasp Clan, a minor clan whose charter authorizes all Wasp samurai to pursue Imperial bounties.  Because most Imperial magistrates are reluctant to create major political incidents over minor bounties, the Wasp have already settled into an important niche within the landscape of the Emerald Empire.
 
 As a tiny minor clan, the bounties which would be a pittance to even an average-sized House represent a significant fraction of the Wasp Clan's income.  This creates a constant tension between the pursuit of unflinching justice and the temptation of unscrupulous profit.  The actions taken by the clan's samurai in these formative years may determine whether the Tsuruchi name represents honorable enforcers or desperate mercenaries.
 
 The Wasp now stand at the top of the "Three Man Alliance," a pact between the Wasp, Fox, and Sparrow clans in the southeastern reaches of Rokugan.  The PCs serve as yoriki (assistants) to Tsuruchi Kyoma, a close friend of the Wasp daimyo who has been tasked with overseeing bounty operations among their southern allies.  While Kyoma focuses on cementing the bonds of the Three Man Alliance through long nights of fellowship and shared cups, his yoriki are left to carry the heavy mantle of administrative and moral authority.  Their decisions about which bounties are pursued and how the law is applied will shape the legacy of the Wasp in the eyes of the Empire.
 
-Here's my writeup on the creation of the Wasp clan:
+Here's my writeup on the creation of the Wasp Clan:
 
 The Spine of the World Mountains bisect the Empire in two, with Beiden Pass being the main passage between the northern and southern halves of the central Empire.  In the eastern Empire, ships are the fastest and most efficient way to move people and goods up and down the coast, and a narrow mountain pass 150 miles inland is the best way to travel from one side of the mountains to the other (as Beiden pass is ~400 miles to the northwest along the mountain range).
 
-This mountain pass is located in the Hachinaga ("long wasp") province, a dynasty province which the Shin lineage has ruled for over a thousand years.  Their progenitor, Bayushi Shin, personally swore fealty to Lord Bayushi, and his descendants later became part of the Kyo vassal house of the Bayushi family, tasked with defending the valuable mountain pass from the Zenji vassal house of the Matsu Family of the Lion Clan to the north.
+This mountain pass is located in the Hachinaga ("long wasp") province, a dynasty province which the Shin lineage has ruled for over a thousand years.  Their progenitor, Bayushi Shin, personally swore fealty to Lord Bayushi, and his descendants later became part of the Kyo vassal house of the Bayushi Family, tasked with defending the valuable mountain pass from the Zenji vassal house of the Matsu Family of the Lion Clan to the north.
 
 The Wasp Clan was founded by Tsuruchi, first of his name, and its holdings consist entirely of the mountainous Hachinaga province.
 
@@ -6637,7 +6637,7 @@ The cadet line of the Shin lineage had mixed reactions to their governor's roman
 
 Daimyo Haruka refused to entertain such ideas, which she felt would bring instability to the domain, though the Rui lineage supported these efforts, presumably in revenge for Governor Chitose's broken betrothal to their lineage member Ryoko (who is now married to the Deputy Minister of Retainers).  However, the Rui lineage continued to scheme against Chitose at every turn, often with the support of disgruntled members of the Shin cadet line.
 
-In the winter of 1110 (which is 20 years before the start of this campaign), Governor Chitose hosted a banquet, to which many of his consort Natsu's Lion family were invited.  Natsu's mother had passed, but her brother Matsu no Zenji Ginjiro and his children and many of her other cousins were present.
+In the winter of 1110 (which is 20 years before the start of this campaign), Governor Chitose hosted a banquet, to which many of his consort Natsu's Lion Family were invited.  Natsu's mother had passed, but her brother Matsu no Zenji Ginjiro and his children and many of her other cousins were present.
 
 There was much drinking, and memories of the details of this event are fuzzy and disputed.  However, an altercation broke out between the visiting Matsu and their Bayushi hosts, as often happens at events in which both Lion and Scorpion samurai are present.  This quickly escalated into an enormous brawl.  While no one had their swords present and thus most of the damage was done with fists, hidden knives were unsheathed during the altercation.
 
@@ -6682,33 +6682,33 @@ bq).  A single arrow, a single life.
 
 Tsuruchi's Imperial yoriki (assistants) began as a small group of former Shin samurai, but soon were joined by others who were brave enough and free enough from entangling family concerns (mostly but not entirely other ronin).
 
-Many of the bounties Tsuruchi collected were put out by the Crane clan, who often had the money necessary to register an Imperial bounty against those wanted for infractions recognized by Imperial magistrates.  The Crane were grateful that many of these bounties, which would have previously gone uncollected, were now resulting in their targets being brought to justice.  Tsuruchi thus earned himself many well-connected Crane friends, even as he made himself powerful enemies throughout the rest of the Empire.  A few Crane have expressed a sense of betrayal when Tsuruchi has accepted bounties on Crane samurai, but the wise and powerful Crane courtiers who control the Imperial courts have publicly commended Tsuruchi's unflinching sense of justice.
+Many of the bounties Tsuruchi collected were put out by the Crane Clan, who often had the money necessary to register an Imperial bounty against those wanted for infractions recognized by Imperial magistrates.  The Crane were grateful that many of these bounties, which would have previously gone uncollected, were now resulting in their targets being brought to justice.  Tsuruchi thus earned himself many well-connected Crane friends, even as he made himself powerful enemies throughout the rest of the Empire.  A few Crane have expressed a sense of betrayal when Tsuruchi has accepted bounties on Crane samurai, but the wise and powerful Crane courtiers who control the Imperial courts have publicly commended Tsuruchi's unflinching sense of justice.
 
 ### Tsuruchi's revenge
 
-Two years after Tsuruchi became a ronin, the Crane clan was able, through their agents, to obtain a copy of the letter which Tsuruchi's uncle Ginjiro sent to Daimyo Kana, in which he had sworn to advocate for Tsuruchi and the Shin lineage.  This is the text of the letter in its entirety:
+Two years after Tsuruchi became a ronin, the Crane Clan was able, through their agents, to obtain a copy of the letter which Tsuruchi's uncle Ginjiro sent to Daimyo Kana, in which he had sworn to advocate for Tsuruchi and the Shin lineage.  This is the text of the letter in its entirety:
 
 bq).  To my daimyo, the Lady Matsu no Zenji Kana, I submit this report from the front. bq).  Bayushi no Kyo Tsuruchi has offered to surrender if he and his lineage are permitted to swear fealty to you and continue administering the Hachinaga province under your authority.  I believe Tsuruchi would serve you loyally as an honorable retainer if you accept.  That said, my tactical assessment is that due to the meager skeleton force remaining in Hachinaga Keep, we can most certainly take the fortress with a minimum of casualties. bq).  Matsu no Zenji Ginjiro, General of the Expeditionary Force, bowing in service.
 
 When Tsuruchi was presented with a copy of this letter, he was furious.  He declared his uncle an oathbreaker, having forsworn himself in his promise to Tsuruchi in order to greedily obtain a governorship for himself.
 
-Kakita Yoshi, the Imperial Chancellor, had personally vouched for the authenticity of the letter, and personally met with Tsuruchi to present it to him.  Yoshi promised that if Tsuruchi were able to gather enough ronin and mercenaries to take vengeance on his uncle Ginjiro and retake Hachinaga Keep, then the Crane clan would formally back the creation of a new Minor Clan so that Tsuruchi could resume rulership of his ancestral lands without being forced to serve either the Lion or Scorpion clans who had now both betrayed him.
+Kakita Yoshi, the Imperial Chancellor, had personally vouched for the authenticity of the letter, and personally met with Tsuruchi to present it to him.  Yoshi promised that if Tsuruchi were able to gather enough ronin and mercenaries to take vengeance on his uncle Ginjiro and retake Hachinaga Keep, then the Crane Clan would formally back the creation of a new Minor Clan so that Tsuruchi could resume rulership of his ancestral lands without being forced to serve either the Lion or Scorpion clans who had now both betrayed him.
 
 Yoshi cautioned Tsuruchi that he could not guarantee that the Imperial Chancellery would back the Crane position, nor that the Emperor would approve the proposal.  The Lion and Scorpion Clans would certainly both oppose this, though the Crane would be eager to deny their rivals this strategically important mountain pass and would therefore fully back the effort in lobbying the other Great Clans.  Tsuruchi was willing to take the risk, and within two years he had made his preparations and launched his surprise attack on Hachinaga Keep, infiltrating its fortifications and scattering its defenders before they could respond.
 
 When his uncle Ginjiro made his own surrender to Tsuruchi in the great hall of the keep, Tsuruchi accepted back his ancestral sword Isshin.  He offered to allow Ginjiro to commit seppuku to cleanse the stain of dishonor from his family, and when Ginjiro stated that he had abided by his word and carried no dishonor, Tsuruchi drove the sword Isshin into the floor of the great hall, snapping it in two, declaring that it had been tainted by Ginjiro's treachery and using its broken shard to execute his uncle.  He then released the other Lion survivors, declaring that they had served their daimyo admirably and honorably and that he held no animus towards any surviving member of the Zenji House.
 
-Yoshi quickly arranged for a prestigious Imperial delegation to accept Tsuruchi's invitation to Hachinaga Keep, which forestalled any attempt by either the Lion or Scorpion to attack the keep, as those guests would have been honor-bound to fight in its defense.  This delay provided enough time for the Imperial Chancellery to recommend the creation of the Wasp clan, and the Emperor signed the new clan charter, making Tsuruchi the first of his name and daimyo of the new Tsuruchi family.
+Yoshi quickly arranged for a prestigious Imperial delegation to accept Tsuruchi's invitation to Hachinaga Keep, which forestalled any attempt by either the Lion or Scorpion to attack the keep, as those guests would have been honor-bound to fight in its defense.  This delay provided enough time for the Imperial Chancellery to recommend the creation of the Wasp Clan, and the Emperor signed the new clan charter, making Tsuruchi the first of his name and daimyo of the new Tsuruchi Family.
 
 ### Tsuruchi's legacy
 
-It has been 15 years since the Wasp clan was created.  At the urging of the Crane clan, and in recognition of Tsuruchi's personal accomplishments as a bounty hunter, the Wasp Clan charter grants all Wasp samurai the authority to act as Imperial magistrates for the purpose of pursuing Imperial bounties.  This makes every Wasp a potential bounty hunter, even if most Wasp samurai have other duties to attend to.
+It has been 15 years since the Wasp Clan was created.  At the urging of the Crane Clan, and in recognition of Tsuruchi's personal accomplishments as a bounty hunter, the Wasp Clan charter grants all Wasp samurai the authority to act as Imperial magistrates for the purpose of pursuing Imperial bounties.  This makes every Wasp a potential bounty hunter, even if most Wasp samurai have other duties to attend to.
 
 Because the Wasp domain is very small (it was a single small but strategically important province), the bounties they collect, which would be a pittance for even an average-sized domain, represent a significant fraction of the Wasp Clan income.  This has sometimes led to questionable methods and tactics from less scrupulous Wasp bounty hunters, and the Clan's long-term reputation is still very much in the process of being determined.
 
 Among other things, it remains to be seen whether Tsuruchi's particular idiosyncrasies will become the standard for the Wasp in generations to come.  The most notable example is swords: Tsuruchi has left the broken blade of his ancestral sword Isshin embedded in the floor of the great hall of Hachinaga Keep, where it is seen by visitors.  The broken hilt and base of the blade are displayed on the altar of an ancestral shrine in the corner of the same room.  Tsuruchi himself has not chosen another sword, using only borrowed swords when necessary, declaring that there shall be no Ancestral Sword of the Wasp, and refusing to so much as carry a sword while at home in Hachinaga Keep.
 
-Because their daimyo exhibits this behavior, many of Tsuruchi's retainers have chosen to show deference to their lord by mimicking his behavior, and as such it is rare to see a Wasp clan samurai carrying a sword in Hachinaga Keep.  And because many guests worry about offending the sensibilities of their hosts, visitors to Hachinaga Keep also frequently shed their daisho before entering.  Such things lead many to wonder how a clan willing to so flagrantly violate ancient traditions can long survive, and whether the next generation of Wasp will revert to the more accepted ways of bushido.
+Because their daimyo exhibits this behavior, many of Tsuruchi's retainers have chosen to show deference to their lord by mimicking his behavior, and as such it is rare to see a Wasp Clan samurai carrying a sword in Hachinaga Keep.  And because many guests worry about offending the sensibilities of their hosts, visitors to Hachinaga Keep also frequently shed their daisho before entering.  Such things lead many to wonder how a clan willing to so flagrantly violate ancient traditions can long survive, and whether the next generation of Wasp will revert to the more accepted ways of bushido.
 
 Here is a timeline of events related to the Wasp (charting many of the events described above) and weaving in events relevant to past campaigns as a reference for new and returning players:
 
@@ -6716,29 +6716,29 @@ As a reminder, the Karmic Inquisitors campaign took place in the winter of 1129 
 
 | Year | Events |
 | --- | --- |
-| ??? | At the dawn of the Empire, the warrior Shin swears fealty to Lord Bayushi, who grants Bayushi Shin authority over Hachinaga pass, an important mountain passage through the Spine of the World Mountains. <br> A nearby warlord named Myo also swears fealty to Lord Bayushi and is permitted to retain his existing territory as a loyal retainer of the newly founded Scorpion clan. |
+| ??? | At the dawn of the Empire, the warrior Shin swears fealty to Lord Bayushi, who grants Bayushi Shin authority over Hachinaga pass, an important mountain passage through the Spine of the World Mountains. <br> A nearby warlord named Myo also swears fealty to Lord Bayushi and is permitted to retain his existing territory as a loyal retainer of the newly founded Scorpion Clan. |
 | 417 | During the reign of Hantei the Tenth and the establishment of the Six Ministries, the descendants of Bayushi Shin formally swear fealty to the descendants of Bayushi Myo, and the Shin lineage is formally recognized as the provincial lineage with rulership of the Hachinaga province and granted a seat on the Myo chancellery. |
 | 1088 | Bayushi no Kyo Chitose becomes the latest Shin lineage governor of Hachinaga. |
 | 1089 | Governor Chitose enters into a torrid love affair with Matsu no Zenji Natsu, a bushi-ko from the neighboring Lion domain. |
 | 1090 | Chitose breaks off his engagement with Bayushi no Kyo Ryoko, but is denied permission from his daimyo to marry his true love. |
 | 1091 | Chitose and Natsu celebrate the birth of their first child. |
 | 1105 | Chitose and Natsu's eldest son chooses the name Tsuruchi for himself at his gempukku. |
-| 1110 | Bayushi no Kyo Chitose hosts a late winter banquet, inviting his consort's Lion family members from the neighboring Zenji vassal house of the Matsu family.  He and his consort are both assassinated during a brawl which appears to have been staged as cover for these killings. |
+| 1110 | Bayushi no Kyo Chitose hosts a late winter banquet, inviting his consort's Lion family members from the neighboring Zenji vassal house of the Matsu Family.  He and his consort are both assassinated during a brawl which appears to have been staged as cover for these killings. |
 | 1111 | Matsu no Zenji Ginjiro force marches a hastily assembled army to take Hachinaga Keep.  Tsuruchi offers to have the entire Shin lineage swear fealty to the Zenji daimyo, and is refused.  Ginjiro captures the keep, accepts Tsuruchi's surrender, takes possession of the ancestral sword of the lineage (Isshin), and releases Tsuruchi and the other remaining survivors.  Ginjiro is appointed as the new Lion governor of the Hachinaga province. |
 | 1112 | After becoming an Imperial magistrate, Tsuruchi takes many of his former retainers on as his yoriki (assistants / lieutenants) and quickly makes a name for himself as a ruthlessly effective bounty hunter. |
 | 1113 | Kakita Yoshi, the Imperial chancellor, meets with Tsuruchi and shares Ginjiro's letter, revealing the perfidy of Tsuruchi's uncle and offering Crane support if Tsuruchi wishes to seek vengeance. |
 | 1114 | While he continues remitting bounties with impressive ferocity, Tsuruchi gathers an increasingly large collection of allies and mercenaries as he and his former retainers begin planning the retaking of Hachinaga Keep. |
 | 1115 | Tsuruchi and his retainers infiltrate Hachinaga Keep after a late winter thaw and overwhelm its defenses.  After his uncle Ginjiro surrenders and returns the sword Isshin while refusing to admit wrongdoing, Tsuruchi drives the ancestral sword into the floor of the great hall, snapping it in two and using the broken base of the sword to execute his uncle. |
-| 1116 | The Imperial chancellery approves Kakita Yoshi's proposal to create a new minor clan, elevating Tsuruchi to the position of Wasp clan daimyo.  The Emperor accepts his chancellery's recommendation and signs the Wasp clan charter, granting all Wasp clan samurai the authority to pursue Imperial bounties. <br> Akodo no Damasu Kojima, daimyo of the Damasu house, executes a Tsume noble for smuggling without bringing the matter before any Imperial magistrate. |
+| 1116 | The Imperial chancellery approves Kakita Yoshi's proposal to create a new minor clan, elevating Tsuruchi to the position of Wasp Clan daimyo.  The Emperor accepts his chancellery's recommendation and signs the Wasp Clan charter, granting all Wasp Clan samurai the authority to pursue Imperial bounties. <br> Akodo no Damasu Kojima, daimyo of the Damasu house, executes a Tsume noble for smuggling without bringing the matter before any Imperial magistrate. |
 | 1117 | Tsuruchi and the daimyo of the Fox and Sparrow clans form the [Three Man Alliance](#the-three-man-alliance). <br> Doji no Tsume Retsu, daimyo of the Tsume house, invades Toshi Ranbo in retaliation, taking the city in a sneak attack immediately after a giant flood which prevented any immediate reinforcements from other Lion domains.  Kojima is killed along with most of his extended family and almost all of his high-ranking retainers from the Damasu chancellery and ministries. |
-| 1118 | Tsuruchi marries Doji Naomi (who becomes Tsuruchi Naomi), the youngest daughter of Doji Kuwanen. <br> The Lion clan attempts to retake the city after the spring thaw.  Doji Chuto, General of the Northern Armies of the Crane, successfully defends it, killing Akodo Toturi's brother, resulting in Toturi becoming the next daimyo of the Lion clan. |
+| 1118 | Tsuruchi marries Doji Naomi (who becomes Tsuruchi Naomi), the youngest daughter of Doji Kuwanen. <br> The Lion Clan attempts to retake the city after the spring thaw.  Doji Chuto, General of the Northern Armies of the Crane, successfully defends it, killing Akodo Toturi's brother, resulting in Toturi becoming the next daimyo of the Lion Clan. |
 | 1120 | The prophet Baiten reveals that the next Day of Thunder is at hand. <br> Prince Hantei Fukuhachi prevents the government of Toshi Ranbo from prosecuting Baiten. <br> The prophet Baiten returns to the city and is murdered - it later becomes apparent this was ordered by the moon cultist Imperial Magistrate Shinjo Jotsu. <br> Jotsu's Imperial magistrate colleague Otaku Taira becomes a ronin and goes on a religious pilgrimage to gather forces to oppose the moon cult. |
 | 1121 | The Lion Clan retake the city of Toshi Ranbo, escalating tensions and triggering a buildup of troops on both sides of the border. |
 | 1122 | The Lion/Crane war begins. |
 | 1123 | The Day of Thunder occurs. <br> Bayushi Shoju is murdered.  His brother, Bayushi Aramoro later marries his widow, Bayushi Kachiko. <br> Hida Kisada is wounded, and his oldest daughter Hida O-Ushi, the Crab Thunder, is killed. <br> Jama no Iuchiban Kohaku arrives late to the Day of Thunder, fails to stop the 7 Thunders from defeating Shinjo Jotsu, and takes revenge by slaying the remaining Thunders.  Oni no Kohaku kills hundreds of samurai before being slain.  Kohaku announces that all loyal moon cultists should take refuge in Kyuden Shinjo, where the moon cult remains strong. |
-| 1124 | Shinjo Hanari executes Shinjo Yokatsu for high treason against the Empire, and declares a blood debt on his line, and becomes daimyo of the Unicorn clan. |
-| 1127 | The Black Scrolls are opened and recharged at the Forgotten Tomb. <br> Kuni Yori is executed for high treason against the Empire for experimenting with moon cultists and the practice of maho.  Kuni Utagu becomes the new Jade Champion. <br> Iuchi Shahai and the remaining moon cultists attempt to assassinate the Emperor at Imperial Winter Court at Kyuden Shinjo. <br> Shinjo Hanari executes Iuchi Daiyu, the daimyo of the Iuchi family (and Shahai's father), and declares a blood debt on Shahai's line.  Iuchi Morijiro (a priest rather than a bushi) becomes daimyo of the Iuchi family. |
-| 1128 | The Crab clan, under the direction of the Kuni Witch Hunters, begin experimenting with the Black Scrolls. |
+| 1124 | Shinjo Hanari executes Shinjo Yokatsu for high treason against the Empire, and declares a blood debt on his line, and becomes daimyo of the Unicorn Clan. |
+| 1127 | The Black Scrolls are opened and recharged at the Forgotten Tomb. <br> Kuni Yori is executed for high treason against the Empire for experimenting with moon cultists and the practice of maho.  Kuni Utagu becomes the new Jade Champion. <br> Iuchi Shahai and the remaining moon cultists attempt to assassinate the Emperor at Imperial Winter Court at Kyuden Shinjo. <br> Shinjo Hanari executes Iuchi Daiyu, the daimyo of the Iuchi Family (and Shahai's father), and declares a blood debt on Shahai's line.  Iuchi Morijiro (a priest rather than a bushi) becomes daimyo of the Iuchi Family. |
+| 1128 | The Crab Clan, under the direction of the Kuni Witch Hunters, begin experimenting with the Black Scrolls. |
 | 1129 | The kumosaya fungal blight destroys half of the Damasu rice and soybean crop. |
 | 1130 | Tsuruchi Naomi begins considering suitors for her eldest son Ichiro (the future daimyo of the Wasp). |
 
@@ -6880,7 +6880,7 @@ Mitsu registers a 100 koku bounty, immediately paying an additional 10 koku to S
 
 Realistically, with turbulent times in the aftermath of the Lion/Unicorn war, and the fallout from the continued existence of the Moon Cult in Unicorn lands, Seppun Toshiken has his hands full already and will have very little time to dispatch his yoriki to hunt wayward fugitives.  Even if a local peasant informant reported the whereabouts for a finder's fee (usually a tithe of the bounty, once collected), Toshiken would be required to navigate the overlapping loyalties and family connections of the local Shinjo, spending his own social and political capital in order to settle the matter of a barfight which occurred hundreds of miles away.
 
-Enter the Wasp clan.  Tsuruchi Mukami doesn't care about the hurt feelings of the Shinjo, and learns of the bounty against Shinjo Yoshi from checking the local bulletin in Kyuden Ikoma.  Because he is already close to the Shinjo domain, he crosses the Drowned Merchant River and attempts to discern where Yoshi is hiding.
+Enter the Wasp Clan.  Tsuruchi Mukami doesn't care about the hurt feelings of the Shinjo, and learns of the bounty against Shinjo Yoshi from checking the local bulletin in Kyuden Ikoma.  Because he is already close to the Shinjo domain, he crosses the Drowned Merchant River and attempts to discern where Yoshi is hiding.
 
 Mukami quickly discovers that Yoshi has not bothered to leave Kyuden Shinjo!  He has reverted to using his childhood nickname "Yaku", but it doesn't take Mukami long to determine that "Shinjo Yaku" is in fact Shinjo Yoshi.  Mukami expected to expend considerable resources finding Yoshi, and had anticipated needing to promise a 10% finder's fee, but in the end he needed to spend only a few bu greasing local palms to track down Yoshi's favorite drinking spots.
 
@@ -6890,7 +6890,7 @@ Yoshi quickly turns to flee, and Mukami instantly raises his bow and fires a sin
 
 Yoshi is dead within the hour, and so Mukami pays a visit to Seppun Toshiken.  Given the circumstances and the desire of Yoshi's family to bury him without interference, Mukami suggests that it should not be necessary to bring his head back to Ryoko Owari, and that Yoshi's body should remain here in Kyuden Shinjo.  Given the circumstances, Mukami provides a 13-bu consideration gift, in understanding of the difficulties of this messy affair.
 
-Toshiken disburses the 100 koku bounty to Mukami, who immediately returns to Kyuden Ikoma, where he will be safe from any retaliation.  Upon his return, he hands 50 koku to Tsuruchi Okame, the Wasp clan's ambassador to the Ikoma family, who oversees all bounty collection for the region.  Okame keeps 10 koku for herself, and sends the remaining 40 koku home to the Wasp clan treasury.  Because it is an especially large bounty, she includes a letter to her daimyo commending Mukami for his skillful execution of his mission.
+Toshiken disburses the 100 koku bounty to Mukami, who immediately returns to Kyuden Ikoma, where he will be safe from any retaliation.  Upon his return, he hands 50 koku to Tsuruchi Okame, the Wasp Clan's ambassador to the Ikoma Family, who oversees all bounty collection for the region.  Okame keeps 10 koku for herself, and sends the remaining 40 koku home to the Wasp Clan treasury.  Because it is an especially large bounty, she includes a letter to her daimyo commending Mukami for his skillful execution of his mission.
 
 (Behind the scenes, Seppun Toshiken's staff writes to Hantei Sukune's staff, informing them of what occurred.  Because this amount is a pittance to the Imperials involved, Sukune immediately sends the 100 koku reimbursement to Toshiken, and doesn't even bother to collect her own repayment from Shosuro Mitsu until the following week, when she happens to be in Ryoko Owari's southern district on other business and finds it convenient to visit Mitsu's estate.)
 
@@ -6898,7 +6898,7 @@ Toshiken disburses the 100 koku bounty to Mukami, who immediately returns to Kyu
 
 In the previous example, a samurai committed assault and fled the jurisdiction rather than face a magistrate's inquest.  However, bounties may also be placed for persons of interest in an open inquiry, e.g. for witnesses to a crime of which they have no suspected culpability.  Consider the following:
 
-Hida no Akito Zenshiro is visiting Kyuden Kakita to negotiate tariff rates between the Kakita family and the northern territories of the Crab clan.  While a new agreement is eventually struck, in the course of negotiations he makes several derisive comments about the "unseemly greed" of the Crane.  While none of these were made in the presence of his hosts, he was overheard saying such things on multiple occasions by various people around Kyuden Kakita.
+Hida no Akito Zenshiro is visiting Kyuden Kakita to negotiate tariff rates between the Kakita Family and the northern territories of the Crab Clan.  While a new agreement is eventually struck, in the course of negotiations he makes several derisive comments about the "unseemly greed" of the Crane.  While none of these were made in the presence of his hosts, he was overheard saying such things on multiple occasions by various people around Kyuden Kakita.
 
 A few months after Zenshiro returns home, a local courtier named Kakita Torikago calls upon his friend, Seppun Shogo, the Imperial magistrate for Kakita lands.  Torikago explains that there was a troubling incident at a local tea house, the Evening's Sigh, which culminated in a large brawl.  The matter has been mostly dealt with, but two of the participants still have conflicting recollections about who said what in the hours leading up to the incident.
 
@@ -6912,15 +6912,15 @@ After several more months, Hida Zenshiro has not yet appeared nor offered a repl
 
 Once again, Kakita Torikago calls upon his dear friend Seppun Shogo about this matter.  He expresses once again the conviction with which the Kakita Ministry of Justice takes its responsibilities, and reluctantly requests that Shogo place a bounty on whoever delivers Hida Zenshiro to Kyuden Kakita to finally settle this matter.  Given the seriousness of the matter, Torikago suggests that a 50 koku bounty would be appropriate.
 
-However, while this bounty pertains to an Imperial summons and therefore it would be Shogo placing the bounty, Torikago understands that this request is in service of Kakita family duties, and therefore he offers to fully fund the bounty himself (in the form of a 50 koku **indemnity gift** once the bounty is paid) to avoid placing an undue burden on the office of the Imperial magistrate.  And while there is no 10% fee on bounties placed by Imperial magistrates, Torikago also offers another 12-koku compensatory gift, in recognition of the trouble to which he is putting his friend by making this request.
+However, while this bounty pertains to an Imperial summons and therefore it would be Shogo placing the bounty, Torikago understands that this request is in service of Kakita Family duties, and therefore he offers to fully fund the bounty himself (in the form of a 50 koku **indemnity gift** once the bounty is paid) to avoid placing an undue burden on the office of the Imperial magistrate.  And while there is no 10% fee on bounties placed by Imperial magistrates, Torikago also offers another 12-koku compensatory gift, in recognition of the trouble to which he is putting his friend by making this request.
 
-Prior to the creation of the Wasp clan, it is unlikely that a bounty such as this would have ever been collected.  Samurai from the major clans would have avoided stepping into such a political minefield for what, to most of the noble houses, is a trifling sum.  However, this is NOT a trivial amount of money for a Wasp samurai, and so it's possible that some enterprising Wasp bounty hunter may choose to confront Hida Zenshiro to enforce the Imperial summons.
+Prior to the creation of the Wasp Clan, it is unlikely that a bounty such as this would have ever been collected.  Samurai from the major clans would have avoided stepping into such a political minefield for what, to most of the noble houses, is a trifling sum.  However, this is NOT a trivial amount of money for a Wasp samurai, and so it's possible that some enterprising Wasp bounty hunter may choose to confront Hida Zenshiro to enforce the Imperial summons.
 
 This confrontation, if it does happen, may be dangerous for both parties.  Zenshiro and his Hida relatives would surely never interfere with a duly authorized agent of the Emperor's justice, but if the Wasp bounty hunter forgets his place, he may find himself killed by the Hida, who will be all too happy to explain that the upstart Wasp samurai offered a personal insult which resulted in a quarrel which led to his death - assuming that there are sufficient local witnesses to require an explanation be offered at all!
 
 Zenshiro may additionally argue that this is clearly a manipulated summons, and that any Wasp bounty hunter enforcing it would be tarnishing the Emperor's justice and the good standing of their clan by allowing themselves to be used to harass the political enemies of the Crane.  That said, as agents of the Emperor's justice, some Wasp samurai may consider it disloyal to turn aside in the pursuit of an officially sanctioned bounty for such reasons.
 
-And of course, if Zenshiro declines to agree to return to Kyuden Kakita, it's entirely possible that he himself might be killed while refusing to surrender himself into the authority of the Wasp bounty hunter who confronts him!  This would surely be a shame, including for the poor Kakita family, whose mystery of the events leading up to their unfortunate teahouse brawl would sadly go forever unsolved.
+And of course, if Zenshiro declines to agree to return to Kyuden Kakita, it's entirely possible that he himself might be killed while refusing to surrender himself into the authority of the Wasp bounty hunter who confronts him!  This would surely be a shame, including for the poor Kakita Family, whose mystery of the events leading up to their unfortunate teahouse brawl would sadly go forever unsolved.
 
 ### Most common bounties
 
@@ -6932,13 +6932,13 @@ While every case is unique, there are categories of bounties which represent the
 
 - **A disgraced and cowardly samurai abandons their family to flee justice.**  Samurai commit crimes as well, and sometimes the shame of facing public judgment is too much to bear.  Sometimes they become ronin and live in exile.  Other times they assume a false identity, either one invented from whole cloth or stolen from a family member who has already passed (and who therefore is likely to have letters of introduction and perhaps even travel papers in their name).  Even if the fugitive's family would prefer to let their dishonorable scion be forgotten (and may literally strike them from the family records), their enemies might pay to register a sizeable bounty in such cases (usually 10 koku per rank of the fugitive, e.g. 30 koku for a samurai of the third rank).
 
-- **A samurai avoiding a legal inquiry out of shame.**  The cases of Shinjo Yoshi and Hida no Akito Zenshiro are both examples of this.  Sometimes a samurai is hiding amongst their family because they are guilty of a crime.  Other times they have witnessed something which they would rather not be involved in and have declined to answer a legal summons to testify (whether to avoid embarrassment or protect a friend or simply avoid a troublesome journey).  In some cases they may be targeted for harassment by their political enemies; the Crane clan have shown increasing willingness to use their great wealth in this way.  The amounts of these bounties are based on the seriousness of the matter rather than the ranks of those involved (except insofar as higher-ranking people are likely to command larger bounties).
+- **A samurai avoiding a legal inquiry out of shame.**  The cases of Shinjo Yoshi and Hida no Akito Zenshiro are both examples of this.  Sometimes a samurai is hiding amongst their family because they are guilty of a crime.  Other times they have witnessed something which they would rather not be involved in and have declined to answer a legal summons to testify (whether to avoid embarrassment or protect a friend or simply avoid a troublesome journey).  In some cases they may be targeted for harassment by their political enemies; the Crane Clan have shown increasing willingness to use their great wealth in this way.  The amounts of these bounties are based on the seriousness of the matter rather than the ranks of those involved (except insofar as higher-ranking people are likely to command larger bounties).
 
 ### Questionable bounty collection
 
 The above example of Hida no Akito Zenshiro is an instructive one, because it is plausibly a case of someone responding to an insult by spending money to use the Imperial Ministry of Justice to harass someone.  In addition to having to deal with the hassle of dodging an Imperial summons, if a Wasp bounty hunter does confront Zenshiro, then he may be subjected to the indignity of being forced to travel over 500 miles (and then the same distance on the return trip) only to find that the sightings of him on the night in question are quickly dismissed as a case of "mistaken identity".
 
-This is far from the most questionable type of bounty collection which might tempt an overeager Wasp samurai.  Even before the founding of the Wasp clan, unscrupulous bounty hunters have been accused of conducting targeted assassinations and other acts which amount to murder for profit.  Some examples:
+This is far from the most questionable type of bounty collection which might tempt an overeager Wasp samurai.  Even before the founding of the Wasp Clan, unscrupulous bounty hunters have been accused of conducting targeted assassinations and other acts which amount to murder for profit.  Some examples:
 
 - A bounty hunter will typically not even meet the person who placed the bounty, often not even after it has been remitted.  However, in some cases, a samurai who places a bounty might meet with a specific bounty hunter and provide generous gifts, explaining how dangerous their task is, and warning them that their target will certainly resist and need to be slain.  They may even promise that in the event of that occurring, there will be additional gifts given in appreciation for the danger that was braved in carrying out the Emperor's justice.
 
@@ -6961,7 +6961,7 @@ This Mantis bushi is wanted for questioning in connection with the slashing and 
 
 #### **Shoda the hermit** [100 koku]
 
-Age unknown, but described as "old" by witnesses.  Thin build, gray hair worn long and loose.  Has a prominent goiter on the right side of his neck.  On the 7th day of the Month of the Serpent last year, Shoda attacked Bayushi no Daika Koharu, a Scorpion clan noble hunting wild boar in the Kitsune forest.  Shoda accused Koharu of hunting foxes, which Koharu denied, and Shoda struck him from behind with a woodsman's axe.  Shoda is believed to be traveling with some number of disciples, who disappeared from the area.
+Age unknown, but described as "old" by witnesses.  Thin build, gray hair worn long and loose.  Has a prominent goiter on the right side of his neck.  On the 7th day of the Month of the Serpent last year, Shoda attacked Bayushi no Daika Koharu, a Scorpion Clan noble hunting wild boar in the Kitsune forest.  Shoda accused Koharu of hunting foxes, which Koharu denied, and Shoda struck him from behind with a woodsman's axe.  Shoda is believed to be traveling with some number of disciples, who disappeared from the area.
 
 #### **"The many-colored Yasuki"** [100 koku]
 
@@ -6983,13 +6983,13 @@ Known to have supplied the traitor Shinjo Jotsu with obsidian shipments which we
 
 A branch from a sacred camphor tree in the Kitsune Forest was cut the night before the Setsubun New Year's Festival.  This tree was famous among pilgrims for producing a faint humming sound when the wind passed through its branches at certain times of year, which Fox priests have identified as being produced by the kami dwelling within.  The branch was cut cleanly with a fine saw.
 
-The Fox clan believes the branch was taken to be carved into a high-quality musical instrument, as camphor wood from ancient trees is prized by instrument makers, and this particular branch would be recognized by any master craftsman as extraordinary material.  The Fox have posted this bounty for the recovery of the branch or any object crafted from it, and separately for the identification of whoever cut it.  Fox priests have determined that the kami of the camphor tree is deeply distressed and identified this as the cause of the unseasonable fog in the surrounding area.
+The Fox Clan believes the branch was taken to be carved into a high-quality musical instrument, as camphor wood from ancient trees is prized by instrument makers, and this particular branch would be recognized by any master craftsman as extraordinary material.  The Fox have posted this bounty for the recovery of the branch or any object crafted from it, and separately for the identification of whoever cut it.  Fox priests have determined that the kami of the camphor tree is deeply distressed and identified this as the cause of the unseasonable fog in the surrounding area.
 
-Kakita Ikura the musician (second cousin, once removed, to Kakita Toshimoko, the daimyo of the Kakita family) departed unexpectedly, journeying home during the Setsubun festival rather than enjoying the festivities.  He has not been officially listed as a person of interest in the case.
+Kakita Ikura the musician (second cousin, once removed, to Kakita Toshimoko, the daimyo of the Kakita Family) departed unexpectedly, journeying home during the Setsubun festival rather than enjoying the festivities.  He has not been officially listed as a person of interest in the case.
 
 #### **Shione Agus** [50 koku]
 
-Kakita Foruku challenged Shione Agus to a duel on the Autumnal equinox of last year, and Agus fled Kyuden Kakita rather than answer him.  A Mantis clan man answering to the name Agus was recently spotted in Shiro Suzume.
+Kakita Foruku challenged Shione Agus to a duel on the Autumnal equinox of last year, and Agus fled Kyuden Kakita rather than answer him.  A Mantis Clan man answering to the name Agus was recently spotted in Shiro Suzume.
 
 #### **The Silk-Stained Three** [50 koku]
 
@@ -7005,7 +7005,7 @@ The daughter of Mirumoto Sukune, who ruled the Mirumoto Family in regency during
 
 #### **Kitsune Moriko** [50 koku]
 
-The eldest daughter of Kitsune Shunichi, a Fox clan shugenja, Moriko quarreled publicly with Bayushi no Daika Isoshi during a trade negotiation over charcoal prices in Shinden Kitsune.  Moriko accused Isoshi of having "a merchant's soul in a samurai's clothing" and Isoshi challenged her to a duel.  Moriko accepted, then left Shinden Kitsune the following morning to "meditate".  The Fox clan daimyo has refused to compel her return, stating that her retainer "has gone walking in the forest and it is not known when she will return".
+The eldest daughter of Kitsune Shunichi, a Fox Clan shugenja, Moriko quarreled publicly with Bayushi no Daika Isoshi during a trade negotiation over charcoal prices in Shinden Kitsune.  Moriko accused Isoshi of having "a merchant's soul in a samurai's clothing" and Isoshi challenged her to a duel.  Moriko accepted, then left Shinden Kitsune the following morning to "meditate".  The Fox Clan daimyo has refused to compel her return, stating that her retainer "has gone walking in the forest and it is not known when she will return".
 
 #### **The stuttering bandit gang** [40 koku]
 
@@ -7013,9 +7013,9 @@ A bandit gang has been operating in the southern Sparrow foothills for several y
 
 #### **"Kitsune Denhei" the charcoal counterfeiter** [40 koku]
 
-Fox clan white charcoal commands a premium throughout the Empire because of its odorless, practically smokeless burn, which makes it suitable for use in shrines and tea ceremonies.  The Fox Ministry of Revenue has discovered that counterfeit "Kitsune white charcoal" is being sold in Kakita and Etsuko lands, i.e. ordinary charcoal that has been coated in kiln ash to mimic the whitish-gray surface appearance of genuine white charcoal.  The fraud is discovered only when the charcoal is lit and produces the ordinary smoke and smell of common fuel.
+Fox Clan white charcoal commands a premium throughout the Empire because of its odorless, practically smokeless burn, which makes it suitable for use in shrines and tea ceremonies.  The Fox Ministry of Revenue has discovered that counterfeit "Kitsune white charcoal" is being sold in Kakita and Etsuko lands, i.e. ordinary charcoal that has been coated in kiln ash to mimic the whitish-gray surface appearance of genuine white charcoal.  The fraud is discovered only when the charcoal is lit and produces the ordinary smoke and smell of common fuel.
 
-These sales were traced back to "Kitsune Denhei" the Fox clan merchant, who the Fox clan confirm does not exist.
+These sales were traced back to "Kitsune Denhei" the Fox Clan merchant, who the Fox Clan confirm does not exist.
 
 Several tea houses and at least one shrine have been embarrassed by serving guests or conducting ceremonies with counterfeit charcoal.  The Fox consider this not only a commercial crime but a spiritual offense, since impure charcoal used in shrine rituals could offend the kami.  This bounty is for the identification of whoever is responsible for this counterfeit charcoal.
 
@@ -7025,7 +7025,7 @@ At least four travelers have been robbed while crossing the Mugi-arai-gawa ("the
 
 #### **The Fox Road footpads** [25 koku]
 
-Three men attacked a Fox clan charcoal merchant on the road south of Shinden Kitsune on the 25th day of the Month of the Hare of this year, taking a cartload of white charcoal.  The merchant's apprentice hid in the underbrush and observed that one of the men had ritual scars on both forearms consistent with the practices of a maho cult.  The forearms of all peasants in the province were inspected, so the culprits must have fled the area.
+Three men attacked a Fox Clan charcoal merchant on the road south of Shinden Kitsune on the 25th day of the Month of the Hare of this year, taking a cartload of white charcoal.  The merchant's apprentice hid in the underbrush and observed that one of the men had ritual scars on both forearms consistent with the practices of a maho cult.  The forearms of all peasants in the province were inspected, so the culprits must have fled the area.
 
 #### **Roku the porter** [20 koku]
 
@@ -7037,11 +7037,11 @@ Fishermen operating out of the provincial harbor city of Uminari north of Shiro 
 
 #### **Doji no Tsume Hariya** [20 koku]
 
-Wanted for questioning in conjunction with a local investigation in the Ehime province of the Masao domain of the Lion clan, which used to be part of the Natsu domain of the Crane clan prior to the Lion/Crane war.  Hariya was recently visiting Kyuden Daidoji and will be traveling up the coast by boat, where he is expected to stop in Kyuden Kakita for the Doll Festival, where he can be apprehended.
+Wanted for questioning in conjunction with a local investigation in the Ehime province of the Masao domain of the Lion Clan, which used to be part of the Natsu domain of the Crane Clan prior to the Lion/Crane war.  Hariya was recently visiting Kyuden Daidoji and will be traveling up the coast by boat, where he is expected to stop in Kyuden Kakita for the Doll Festival, where he can be apprehended.
 
 #### **Bayushi no Daika Rentaro** [15 koku]
 
-Rentaro is a Scorpion merchant who held a long-standing contract to purchase Fox clan white charcoal for resale in Scorpion lands.  Last autumn he took delivery of a large shipment on credit, promising payment after resale.  Payment never arrived.  When the Fox Ministry of Revenue sent representatives to the Daika domain to inquire, Rentaro's household claimed he had departed on an extended trading journey and could not be reached.  Rather than bring suit before an Imperial magistrate to compel Rentaro's family to settle the debt, the Fox have registered this bounty to compel Rentaro to appear personally to answer for the insult.
+Rentaro is a Scorpion merchant who held a long-standing contract to purchase Fox Clan white charcoal for resale in Scorpion lands.  Last autumn he took delivery of a large shipment on credit, promising payment after resale.  Payment never arrived.  When the Fox Ministry of Revenue sent representatives to the Daika domain to inquire, Rentaro's household claimed he had departed on an extended trading journey and could not be reached.  Rather than bring suit before an Imperial magistrate to compel Rentaro's family to settle the debt, the Fox have registered this bounty to compel Rentaro to appear personally to answer for the insult.
 
 #### **Iwao the ashigaru** [15 koku]
 
@@ -7061,7 +7061,7 @@ Genichi operated rigged dice games on market day in Shiro Suzume for months befo
 
 ## The Sparrow Clan
 
-After his Imperial Majesty Hantei the Tenth gifted his Empire with the then-new system of the [Six Ministries](https://karmicinquisitors.obsidianportal.com/wikis/six-ministries), some within the great clans wrestled with the various ways to apply this new structure upon their existing way of life.
+After his Imperial Majesty Hantei the Tenth gifted his Empire with the then-new system of the [Six Ministries](https://karmicinquisitors.obsidianportal.com/wikis/six-ministries), some within the Great Clans wrestled with the various ways to apply this new structure upon their existing way of life.
 
 In particular, while every domain had always collected taxes, the new Ministry of Revenue standardized both the assessment of land yield and the rates of tax and rent.  Taxes could now be no more than one-third the estimated land yield, and rent no more than one-sixth, mandated by Imperial decree that even tenant farmers need never surrender more than half the expected output of their fields.
 
@@ -7071,7 +7071,7 @@ During a handful of lean years late in the reign of Hantei the Tenth, domains th
 
 While local daimyo could decide to continue auctioning off this seized property, or granting it as rewards to their loyal vassals, a new idea was beginning to grow in popularity among the new Imperial chancellery.  "Perhaps we should give the land back to the peasants," argued Doji Suzume, the second son of the Crane Clan Champion.  Suzume advocated for a virtuous cycle - landlords would provide stability as long as they are able, and then during times of great need it would be returned to the peasants.
 
-Some went even further; Suzume's aunt (his mother's older sister) Doji Masako argued that the so-called "stability" provided by merchant landlords would be more than offset if the peasantry was not deprived of the yearly rent money and thus had the general prosperity to better weather the lean times.  Although never officially backing this position, Suzume's uncle (his father's younger brother) Doji Onegano, the chancellor who represented the Doji Family and thus the entire Crane clan on the Imperial chancellery, publicly stated that the wealth of the Crane was certainly sufficient to trade away some of their income for a more just balance within the Celestial Order.  As this thinking began to gain a small measure of support (especially among the Dragon and Phoenix clans) Onegano went even further, stating that the teachings of the Shinsei demanded such actions, and that this sort of renunciation of wealth was in fact required in order to live in accordance with the Tao.
+Some went even further; Suzume's aunt (his mother's older sister) Doji Masako argued that the so-called "stability" provided by merchant landlords would be more than offset if the peasantry was not deprived of the yearly rent money and thus had the general prosperity to better weather the lean times.  Although never officially backing this position, Suzume's uncle (his father's younger brother) Doji Onegano, the chancellor who represented the Doji Family and thus the entire Crane Clan on the Imperial chancellery, publicly stated that the wealth of the Crane was certainly sufficient to trade away some of their income for a more just balance within the Celestial Order.  As this thinking began to gain a small measure of support (especially among the Dragon and Phoenix clans) Onegano went even further, stating that the teachings of the Shinsei demanded such actions, and that this sort of renunciation of wealth was in fact required in order to live in accordance with the Tao.
 
 While this thinking appealed to some, most rejected this thinking, and Onegano's rivals immediately began conspiring about how to defeat both his faction and the dangerous ideology which drove it.  Rather than censure him or provide him with opportunities to righteously martyr himself, his brother Doji Ginrei (the Crane Clan Champion) petitioned the Emperor to create a new minor clan, where these principles could be tested.  He generously offered up hundreds of square miles of Crane territory - the Iron Foothills between Kakita and Daidoji lands, so that all the Empire could see whether these teachings would truly yield prosperity.  And because Ginrei's second son Suzume had been among this movement's most famous advocates, Ginrei further offered up Suzume as the clan's founder, to be aided by Ginrei's brother Onegano and his sister-in-law Masako.
 
@@ -7081,7 +7081,7 @@ Suzume's older brother, Doji Tadaka, went on to become the Doji daimyo (and thus
 
 ### Sparrow lands
 
-Suzume and his followers quickly discovered the poor quality of the lands he had been granted.  The hilly terrain was unsuitable for rice farming, as the sloping hills made it impossible to maintain flooded rice paddies.  The crop yield of the "upland rice" that could be grown on the hillsides was barely half of what could be grown in the surrounding territories, and even the marshy valleys between the hills were barely suitable for taro, rather than more productive crops.  What's more, their rivals in the Imperial chancellery (supported by the greedy first Imperial treasurer, Yasuki Taka) instituted unfavorable land yield assessment standards on these less common crops which more than wiped out any gains the Sparrow clan could hope to realize from eliminating so-called "inefficient middlemen" landlords.
+Suzume and his followers quickly discovered the poor quality of the lands he had been granted.  The hilly terrain was unsuitable for rice farming, as the sloping hills made it impossible to maintain flooded rice paddies.  The crop yield of the "upland rice" that could be grown on the hillsides was barely half of what could be grown in the surrounding territories, and even the marshy valleys between the hills were barely suitable for taro, rather than more productive crops.  What's more, their rivals in the Imperial chancellery (supported by the greedy first Imperial treasurer, Yasuki Taka) instituted unfavorable land yield assessment standards on these less common crops which more than wiped out any gains the Sparrow Clan could hope to realize from eliminating so-called "inefficient middlemen" landlords.
 
 The most punishing regulation was assessing "upland rice" fields as if they could produce a crop every year.  While "wet rice" grown in flooded rice paddies does not require a crop rotation cycle and the same fields can be used continuously for centuries without depleting the soil, upland rice often needs 2 years of other nutrient-replenishing crops before it can be grown again.  However, the standards published by the new Ministry of Revenue assess the yield of ALL riceland as if rice is grown each year, inflicting punishingly high taxes on the beleaguered Sparrow.
 
@@ -7093,11 +7093,11 @@ Still, the humid southern environment was well-suited for growing:
 
 ### Sparrow land management
 
-Tenant farming is outlawed in Sparrow lands, as per the terms of their Clan charter.  With no landlords, the Sparrow had to rely on local village headsmen far more than other clans for ensuring that the land was managed and taxes properly collected.  However, the impoverished Sparrow clan was unable to provide the large stipends used by other clans to maintain the loyalty of these peasant headsmen.
+Tenant farming is outlawed in Sparrow lands, as per the terms of their Clan charter.  With no landlords, the Sparrow had to rely on local village headsmen far more than other clans for ensuring that the land was managed and taxes properly collected.  However, the impoverished Sparrow Clan was unable to provide the large stipends used by other clans to maintain the loyalty of these peasant headsmen.
 
 As a result, the Sparrow do not merely oversee their village farms from their county townships.  Instead, **unlike anywhere else in the Empire, there are Sparrow samurai living in farming villages**, directly conducting the oversight and management which would otherwise need to be done by peasant village headsmen.
 
-Other clans scorn the Sparrow as "country bumpkins", often claiming (falsely) that their samurai are literally reduced to farming.  That said, out of approximately 2,000 Sparrow clan samurai, at least one samurai is indeed posted to oversee each of their approximately 100 village districts as a "village overseer", and because their immediate family often lives with them, this does mean that a significant fraction of Sparrow samurai live not only "out in the counties" but literally reside in the countryside.
+Other clans scorn the Sparrow as "country bumpkins", often claiming (falsely) that their samurai are literally reduced to farming.  That said, out of approximately 2,000 Sparrow Clan samurai, at least one samurai is indeed posted to oversee each of their approximately 100 village districts as a "village overseer", and because their immediate family often lives with them, this does mean that a significant fraction of Sparrow samurai live not only "out in the counties" but literally reside in the countryside.
 
 For both practical and spiritual reasons, Sparrow village overseers swear a vow of poverty to Daikoku upon assuming their posts:
 
@@ -7113,13 +7113,13 @@ There were fewer humans in those days, so the bounty of the wilds was sufficient
 
 In the untapped wilds of the far west, these peoples were often aided by the gods of the land, both the spirits who dwell in the unseen world and the elemental kami.  These were not the folk practices of unclean maho, but shamans who had learned the rhythms of the world and how to solicit the divine favor of the gods.  Although these shamans rejected the newly revealed truths of shugendo and shinseism, they could not be put to death as the maho-tsukai were, as doing so would have angered the gods whom they served.  However, these shamans could not be permitted to remain in the west, as the esteem in which they were held was leading many away from the guidance of the Lady Shinjo.
 
-Asako, first of her name (daimyo of the Asako family of the new Phoenix clan) offered sanctuary to these "shamans of the ki rin", centered on the newly constructed "Ki Rin's Shrine".  However, these shamans of the west were not all of one mind or tradition, and they clashed with each other just as much as they created strife for their Asako hosts.  While many of them were eventually civilized, marrying into the Asako family and adding their ancient lore to the secrets of the Phoenix, others continued to resist the pull of civilization.
+Asako, first of her name (daimyo of the Asako Family of the new Phoenix Clan) offered sanctuary to these "shamans of the ki rin", centered on the newly constructed "Ki Rin's Shrine".  However, these shamans of the west were not all of one mind or tradition, and they clashed with each other just as much as they created strife for their Asako hosts.  While many of them were eventually civilized, marrying into the Asako Family and adding their ancient lore to the secrets of the Phoenix, others continued to resist the pull of civilization.
 
 While the Asako were unwilling to retract their hospitality, they sought out other places where their intransigent guests might be better suited.
 
 ### Fox Lineages and Provinces
 
-The Fox clan has five lineages: the ruling Kitsune lineage plus four provincial lineages, each administering one of the four Fox provinces, which are named for the cardinal directions.
+The Fox Clan has five lineages: the ruling Kitsune lineage plus four provincial lineages, each administering one of the four Fox provinces, which are named for the cardinal directions.
 
 - The Toke lineage administers the eastern Higashi province.
 - The Hokke lineage administers the northern Kita province.
@@ -7135,7 +7135,7 @@ With the Empire lacking the number of priests and shugenja needed to manage the 
 
 The line of the Kitsune daimyo is directly traced to these ancient shamans.  Shinun was a member of one of the primitive tribes relocated to the region, and one day found a dead fox and her two still-living kits snared in a hunter's trap.  One was a black fox, the other a white fox, both auspicious omens.  Shinun freed the kits and released them into the forest.
 
-Osusuki was the black fox, and grew into a shapechanger who married one of Shinun's daughters and thus became the progenitor of the Kitsune family.  Akomachi was the white fox, who grew into a 10-tailed fox spirit who continues to appear to travelers in the form of a silver-haired woman with hands as flawless as snow, alternately granting wishes or stealing hearts or both.  Osusuki is the ancestor of most of the humans in Kitsune lands, and Akomachi is the ancestor of most of the foxes in the Kitsune forest.
+Osusuki was the black fox, and grew into a shapechanger who married one of Shinun's daughters and thus became the progenitor of the Kitsune Family.  Akomachi was the white fox, who grew into a 10-tailed fox spirit who continues to appear to travelers in the form of a silver-haired woman with hands as flawless as snow, alternately granting wishes or stealing hearts or both.  Osusuki is the ancestor of most of the humans in Kitsune lands, and Akomachi is the ancestor of most of the foxes in the Kitsune forest.
 
 Although she did not wield the title at the time, Shinun is now recognized as the first Fox Clan Champion, and the children of Osusuki and Akomachi ushered in a new age of coexistence, and the forest gradually ceased troubling the four major clans in its neighboring domains.
 
@@ -7161,17 +7161,17 @@ The Fox have roughly 10-20 miles of land surrounding the Kitsune forest in all d
 
 Fox crops are fairly typical for the latitude (the same as North Carolina): rice, barley, foxtail millet, and other regional staples.  The foxtail millet is grown not because of the clan's name but because it is a common crop for the region.
 
-### The Fox clan's economy
+### The Fox Clan's economy
 
 Although the Fox have less than half the farmland of an average domain, they are quite wealthy from the bounty of their vast forest.  Their priests meticulously track and measure the holy places within the forest which must remain forever free from logging.  That still leaves enough trees to supply the lumber for the entire region, accounting for easily ten thousand koku of income per year just from what can be transported by cart, with significantly more being shipped downriver.
 
 The forest's bounty makes the Fox a significantly richer clan than they would otherwise be, and that wealth is regulated through the Ministries of Rites and Revenue.  The Ministry of Revenue oversees lumber and ordinary charcoal; the Ministry of Rites oversees incense and "shrine-grade" white charcoal.  Many other forest resources are split between the two ministries along similar lines.  Each is a significant source of income on its own; there is no single dominant source of Fox wealth, but the many smaller sources together add up to a great deal.
 
-Charcoal is even more in demand, and is significantly easier to transport.  Fox clan charcoal burners are more numerous than farmers, easily identified by their soot-stained clothes.  White charcoal made from sacred oak is a specialty, highly sought-after for its odorless and practically smokeless flame.  The specialists who make such "shrine-grade" charcoal can be identified by their reddened "kiln eyes" and white-dusted clothing.
+Charcoal is even more in demand, and is significantly easier to transport.  Fox Clan charcoal burners are more numerous than farmers, easily identified by their soot-stained clothes.  White charcoal made from sacred oak is a specialty, highly sought-after for its odorless and practically smokeless flame.  The specialists who make such "shrine-grade" charcoal can be identified by their reddened "kiln eyes" and white-dusted clothing.
 
 Incense is even more profitable, with less overall demand but significantly easier transport costs.  The oleoresins and pinewood of the forest are perfect for making "Kitsune-Koh" (fox scent) incense, highly sought after throughout the Empire.
 
-As one example of the many smaller sources of Fox wealth: Inari is the Fortune of rice and of foxes, and Fox rice is widely considered the most spiritually proper grain for offerings at Inari shrines anywhere in Rokugan.  The Kitsune family quietly tends a small "Inari paddy" reserve each year whose harvest is purchased in bulk by Inari shrines from Crab to Phoenix lands, at well above market rate.  The volume is too small to move the needle on Fox finances overall, but it is one among many such small endeavors that together net the clan several thousand extra koku per year.
+As one example of the many smaller sources of Fox wealth: Inari is the Fortune of rice and of foxes, and Fox rice is widely considered the most spiritually proper grain for offerings at Inari shrines anywhere in Rokugan.  The Kitsune Family quietly tends a small "Inari paddy" reserve each year whose harvest is purchased in bulk by Inari shrines from Crab to Phoenix lands, at well above market rate.  The volume is too small to move the needle on Fox finances overall, but it is one among many such small endeavors that together net the clan several thousand extra koku per year.
 
 While the Ministries regulate the use of the forest's resources, the Seven Temples oversee the actual extraction of most of them: incense production, mushroom gathering, lumber milling, medicinal herbs and berries, charcoal burning, and so forth.  Hunting is the one exception - hunting rights and the prosecution of poachers are handled at the provincial level.  The Ministries of Rites and Revenue distribute usufruct rights over sections of the forest to the temples of the Seven Fortunes of Good Luck, which are organized in a nontraditional fashion.  (The Fox would say their temples are organized in a fashion so deeply traditional that the tradition predates the more common temple organization structures.)
 
@@ -7189,9 +7189,9 @@ These three are the only monks in a Fox temple required to be celibate.  No othe
 
 ## The Three Man Alliance
 
-As two minor clans which share a border, the [Fox clan](#the-fox-clan) and the [Sparrow clan](#the-sparrow-clan) have been allies for many centuries.  [The Crane wives](#the-crane-wives) set to work after the founding of the Wasp clan to turn this longstanding alliance into a political and military bloc.
+As two minor clans which share a border, the [Fox Clan](#the-fox-clan) and the [Sparrow Clan](#the-sparrow-clan) have been allies for many centuries.  [The Crane wives](#the-crane-wives) set to work after the founding of the Wasp Clan to turn this longstanding alliance into a political and military bloc.
 
-These three minor clans of southeast Rokugan came together because none of them alone possessed any more power than a single vassal house... and in many ways each was even more vulnerable, due to lacking the protections of a patron Family of a great clan.  The Three Man Alliance has two main provisions: a military defense pact and a political caucus on the Imperial chancellery.
+These three minor clans of southeast Rokugan came together because none of them alone possessed any more power than a single vassal house... and in many ways each was even more vulnerable, due to lacking the protections of a patron Family of a Great Clan.  The Three Man Alliance has two main provisions: a military defense pact and a political caucus on the Imperial chancellery.
 
 ### Economic Profiles
 
@@ -7201,45 +7201,45 @@ The Sparrow, by contrast, are poor in both food and coin, and their contribution
 
 ### The Imperial Chancellery
 
-There are around 350 houses in Rokugan, and therefore about 350 representatives on the Imperial chancellery.  When the chancellery votes on a recommendation to the Emperor, who gets to weigh in is determined by the matter at hand.  On many topics, the full chancellery each makes their opinions known, and their votes are counted.  Some more select matters are voted on by only the heads of the 32 major Families (the 29 families of the 7 great clans, plus the Imperial families of the Seppun, the Miya, and the Otomo).  And for certain matters of particular concern, only 7 representatives of the 7 great clans have a say.
+There are around 350 houses in Rokugan, and therefore about 350 representatives on the Imperial chancellery.  When the chancellery votes on a recommendation to the Emperor, who gets to weigh in is determined by the matter at hand.  On many topics, the full chancellery each makes their opinions known, and their votes are counted.  Some more select matters are voted on by only the heads of the 32 major Families (the 29 families of the 7 Great Clans, plus the Imperial Families of the Seppun, the Miya, and the Otomo).  And for certain matters of particular concern, only 7 representatives of the 7 Great Clans have a say.
 
 Vote-counting and coalition building are a core part of the political life of the Imperial chancellery.  On topics which directly affect a clan's interests, houses and families from that clan will typically vote as a bloc.  However, there are many matters which are particular to individuals or too small or distant for a large clan to have a unified opinion, and on these matters the entire chancellery will scramble to call upon their alliances and affections to enact their preferred outcome.
 
 The Three Man Alliance has formed a caucus, i.e. all three members have agreed to always vote the same way.  Convince any two out of the three chancellors, and the third is bound to go along and cast their vote according to the will of the majority of the caucus.
 
-This has somewhat raised the profile of these three minor clans, as one can potentially make a single visit to reliably secure several votes.  That said, because all three clans of the Three Man Alliance owe favors to the Crane clan, their voting bloc is occasionally spoken for prior to even being consulted.
+This has somewhat raised the profile of these three minor clans, as one can potentially make a single visit to reliably secure several votes.  That said, because all three clans of the Three Man Alliance owe favors to the Crane Clan, their voting bloc is occasionally spoken for prior to even being consulted.
 
 ### The Lion/Crane War
 
-The military defense pact between the clans of the Three Man Alliance was intended to be more symbolic than strategic.  The Fox clan has enjoyed mostly peaceful coexistence with most of its neighbors for most of the history of the Empire, and the Sparrow clan benefits from hilly terrain which is simultaneously too defensible to be easily taken and too poor to be worth the effort.  Even the new Wasp clan has benefitted from its Imperial position, making the political fallout from attacking it not worth incurring the wrath of the Hantei dynasty (at least, so long as the Wasp retain the Imperial favor by meeting the Emperor's expectations).
+The military defense pact between the clans of the Three Man Alliance was intended to be more symbolic than strategic.  The Fox Clan has enjoyed mostly peaceful coexistence with most of its neighbors for most of the history of the Empire, and the Sparrow Clan benefits from hilly terrain which is simultaneously too defensible to be easily taken and too poor to be worth the effort.  Even the new Wasp Clan has benefitted from its Imperial position, making the political fallout from attacking it not worth incurring the wrath of the Hantei dynasty (at least, so long as the Wasp retain the Imperial favor by meeting the Emperor's expectations).
 
-All of that changed with the Lion/Crane war.  Sparrow lands are directly south of Kyuden Kakita, to which the Lion clan laid siege.  Matsu no Masao Agetoki generaled the cavalry forces in the southern theater of operations of the war, and the defense of Kyuden Daidoji relied on the Sparrow hills as a base of operations from which to block the supply lines of the besieging armies.  The Three Man Alliance never formally declared war on the Lion clan, but they gave safe passage to the Crane through Sparrow territory - but crucially NOT through Hachinaga pass.
+All of that changed with the Lion/Crane war.  Sparrow lands are directly south of Kyuden Kakita, to which the Lion Clan laid siege.  Matsu no Masao Agetoki generaled the cavalry forces in the southern theater of operations of the war, and the defense of Kyuden Daidoji relied on the Sparrow hills as a base of operations from which to block the supply lines of the besieging armies.  The Three Man Alliance never formally declared war on the Lion Clan, but they gave safe passage to the Crane through Sparrow territory - but crucially NOT through Hachinaga pass.
 
-That said, the Wasp clan hosted numerous Crane and Lion guests at Hachinaga Keep throughout the war, and Daidoji scouts were said to sometimes slip through the pass undetected in order to infiltrate Lion territory and report on the movements of the enemies of the Crane.  Daidoji sappers were sometimes found deep in Lion territory, in places that they could not possibly have reached without the use of Hachinaga pass.  [The Crane wives](#the-crane-wives) frequently expressed frustration with these troublesome guests who slipped past them without the Wasp's knowledge, and numerous individual members of the Daidoji family are permanently banned from Hachinaga Keep to this day.  Still, it just seemed to keep happening throughout the war, despite the best efforts of the Wasp to monitor their guests.
+That said, the Wasp Clan hosted numerous Crane and Lion guests at Hachinaga Keep throughout the war, and Daidoji scouts were said to sometimes slip through the pass undetected in order to infiltrate Lion territory and report on the movements of the enemies of the Crane.  Daidoji sappers were sometimes found deep in Lion territory, in places that they could not possibly have reached without the use of Hachinaga pass.  [The Crane wives](#the-crane-wives) frequently expressed frustration with these troublesome guests who slipped past them without the Wasp's knowledge, and numerous individual members of the Daidoji Family are permanently banned from Hachinaga Keep to this day.  Still, it just seemed to keep happening throughout the war, despite the best efforts of the Wasp to monitor their guests.
 
 While no battles were fought in Wasp lands, both Wasp and Fox samurai contributed to the defense of the Sparrow hills, and Lion cavalry forces were repelled on numerous occasions over the course of the war.
 
 ## The Crane Wives
 
-After the founding of the Wasp clan, Tsuruchi's allies in the Crane offered three beautiful and talented young courtiers as wives for him and his two most loyal retainers.  These three women form the Wasp clan chancellery, which is referred to by many in the Wasp clan as "the crane wives".
+After the founding of the Wasp Clan, Tsuruchi's allies in the Crane offered three beautiful and talented young courtiers as wives for him and his two most loyal retainers.  These three women form the Wasp Clan chancellery, which is referred to by many in the Wasp Clan as "the crane wives".
 
-Whether the allusion to the famous fable is unfortunate or fitting or both depends on your view of the moral of that story, and this question is a subject of spirited debate within the Wasp clan.
+Whether the allusion to the famous fable is unfortunate or fitting or both depends on your view of the moral of that story, and this question is a subject of spirited debate within the Wasp Clan.
 
 ### The wives
 
-Tsuruchi Naomi is the youngest daughter of Doji Kuwanen, the Crane Clan Champion.  She married Tsuruchi immediately after the founding of the Wasp clan, and she declared at the beginning of this year that she is beginning to plan the arranged marriage for their eldest son Ichiro (who is currently 12, and therefore only a few years away from being able to marry).
+Tsuruchi Naomi is the youngest daughter of Doji Kuwanen, the Crane Clan Champion.  She married Tsuruchi immediately after the founding of the Wasp Clan, and she declared at the beginning of this year that she is beginning to plan the arranged marriage for their eldest son Ichiro (who is currently 12, and therefore only a few years away from being able to marry).
 
 Tsuruchi Ami is the wife of Tsuruchi Takuan, and the head of the Ami lineage.  This is commonly referred to as the "peasantborn" lineage, as most of the samurai in this lineage were either the peasant yoriki who assisted Tsuruchi in his days as an Imperial bounty hunter, or the mercenaries who fought under him when he retook Hachinaga Keep from his treacherous uncle.  Takuan was Tsuruchi's most accomplished peasant assistant, and the only peasantborn Wasp samurai to merit a Crane wife.
 
-Tsuruchi Hitomi is the wife of Tsuruchi Kyoma (the PCs' boss), and head of the Kyoma lineage.  This is the lineage joined by substantially all of the samurai from other clans (and more than a few ronin) who joined the Wasp clan after its founding.  The Kyoma lineage has significantly less internal cohesion than either of the other Wasp lineages; unlike the Tsuruchi lineage there is no common ancestry traced through the common Shin lineage, and unlike the Ami lineage there is no commonality of having come from peasant stock before being elevated into the samurai caste.
+Tsuruchi Hitomi is the wife of Tsuruchi Kyoma (the PCs' boss), and head of the Kyoma lineage.  This is the lineage joined by substantially all of the samurai from other clans (and more than a few ronin) who joined the Wasp Clan after its founding.  The Kyoma lineage has significantly less internal cohesion than either of the other Wasp lineages; unlike the Tsuruchi lineage there is no common ancestry traced through the common Shin lineage, and unlike the Ami lineage there is no commonality of having come from peasant stock before being elevated into the samurai caste.
 
 ### The fable
 
-There are many variations on this famous story, most of which share the same basic structure.  The most famous version was immortalized by the famous Crane clan storyteller Doji Shizue.  Here is a high-level summary of that account:
+There are many variations on this famous story, most of which share the same basic structure.  The most famous version was immortalized by the famous Crane Clan storyteller Doji Shizue.  Here is a high-level summary of that account:
 
 bq).  A man saves a crane that had been shot down by hunters.  That night, a woman appears at the man's door and tells him that she is his wife.  The man tells her that he is not wealthy enough to support them, but she tells him that she has a bag of rice that will fill their stomachs.  Every day, the rice never goes down in the sack, and it always stays full.  The next day she tells the man that she is going in a room to make something and that he is not to come in until she is finished.  Seven days have passed by and she finally comes out with a beautiful piece of clothing, but she is very skinny.  She tells the man to go to the markets the next morning and to sell this for a very large price.  He comes back home and tells her that he sold it for a very good price.  After that, they are now wealthy.  The wife then goes back into the room, telling him once again not to come in until she is finished.  The man's curiosity takes over and he peeks in, realizing that the woman is the crane whom he saved.  When the crane sees that the man has found out her true identity, she says that she cannot stay there anymore and flies away to never come back.
 
-The Fox clan claim to possess the "original" version of the story; while many local tellings offer their own accounts, the Fox clan was founded by those who married shapeshifting animals, and their library has copies of this story which supposedly date back centuries before any other recorded accounts of this tale.  (On the other hand, foxes are notorious tricksters, and only a fool would uncritically accept a fox's assertions.)
+The Fox Clan claim to possess the "original" version of the story; while many local tellings offer their own accounts, the Fox Clan was founded by those who married shapeshifting animals, and their library has copies of this story which supposedly date back centuries before any other recorded accounts of this tale.  (On the other hand, foxes are notorious tricksters, and only a fool would uncritically accept a fox's assertions.)
 
 bq).  A man marries a woman who is in fact a crane disguised as a human.  To make money, the crane wife plucks her own feathers to weave silk brocade, which the man sells, but she becomes increasingly ill as she does so.  When the man discovers his wife's true identity and the nature of her illness, devastated by the truth, he demands that she stop.  She responds that she has been doing it for love, for them.  The man says that love exists without sacrifice, but he is wrong.  He who lives without sacrifice for someone else does not deserve to be with a crane.
 
@@ -7247,9 +7247,9 @@ While these stories share the same basic structure, they have somewhat different
 
 ### Tsuruchi Naomi
 
-Naomi is the youngest daughter of Doji Kuwanen, the Crane Clan Champion (i.e. daimyo of the ruling Doji family of the Crane clan).
+Naomi is the youngest daughter of Doji Kuwanen, the Crane Clan Champion (i.e. daimyo of the ruling Doji Family of the Crane Clan).
 
-Kakita Yoshi arranged the marriage to cement the relationship between the Crane and Wasp clans, and to ensure that the new Wasp clan would be shaped by a talented and connected Crane courtier.
+Kakita Yoshi arranged the marriage to cement the relationship between the Crane and Wasp clans, and to ensure that the new Wasp Clan would be shaped by a talented and connected Crane courtier.
 
 The eldest son of Tsuruchi and Naomi is currently 12 years old.  His childhood name is Ichiro ("first son"), though unlike most children called Ichiro from birth, he plans to choose the name Tsuruchi Ichiro at his gempukku, as he is not only the "first son" of his parents but the first son of the Wasp.
 
@@ -7263,13 +7263,13 @@ Takuan himself was not made chancellor, as his background made him unsuitable fo
 
 ### Tsuruchi Hitomi
 
-Hitomi is one of [the crane wives](#the-crane-wives), the three Crane courtiers who form the Wasp clan chancellery.
+Hitomi is one of [the crane wives](#the-crane-wives), the three Crane courtiers who form the Wasp Clan chancellery.
 
 Hitomi's elder brother, Kakita Daini, inherited "the ink-flight scrolls", a series of silk hangings painted with fine calligraphy by the legendary archer-poet Kakita Akechi, who famously stated "the path of the arrow is the most perfect line ever drawn".
 
 The "Akechi Scrolls" (also known as the Ink-Flight scrolls) had their calligraphy and illustrations painted using the fletching of arrows.  Akechi would dip his arrows in ink and shoot them with such precision that the feathers would "paint" the strokes of kanji onto the silk as they passed or struck.
 
-Twenty years ago, the daimyo of the Masao vassal house of the Matsu family was visiting Kyuden Kakita with his eldest son (and heir to the Masao domain), Matsu Agetoki.  Kakita Daini was the best archer in the Kakita house, and Agetoki - an accomplished archer himself - challenged him to an archery contest.  The two of them spent the afternoon each challenging the other to impromptu feats of precision, naming certain shots for the other to make, and arguing with increasing tempers about the fairness of the challenges, or the trickery (as in trick-shooting) of each other's accomplishments.
+Twenty years ago, the daimyo of the Masao vassal house of the Matsu Family was visiting Kyuden Kakita with his eldest son (and heir to the Masao domain), Matsu Agetoki.  Kakita Daini was the best archer in the Kakita house, and Agetoki - an accomplished archer himself - challenged him to an archery contest.  The two of them spent the afternoon each challenging the other to impromptu feats of precision, naming certain shots for the other to make, and arguing with increasing tempers about the fairness of the challenges, or the trickery (as in trick-shooting) of each other's accomplishments.
 
 Finally, Agetoki angrily declared that Daini could not hit a human-sized target with reliability from even such a distance as across the Kakita castle courtyard.  Daini furiously declared that he certainly could, and the two of them made a wager.  Agetoki would stand "just as I am now" on one side of the courtyard, and Daini would take aim and shoot at him.  Then Daini would stand "just as you are now" and let Agetoki do the same.  Then they would repeat.  Whichever man backed out or was first rendered unable to stand would forfeit.
 
@@ -7277,7 +7277,7 @@ Agetoki wagered the Owari province of the Masao domain (once he succeeded his fa
 
 Daini's arrow struck true, to Agetoki's chest... at which point Agetoki was revealed to have slipped a metal sheet underneath his clothing.  Agetoki took aim on his turn, offering Daini a chance to forfeit.  Daini refused, accusing Agetoki of both shameful deceit and (worse!) showing bad manners to his Crane hosts if he refused to cancel the wager.  Agetoki fired, his arrow striking true, and Daini fell to the ground.
 
-Agetoki's father seemed perhaps even more furious than the Kakita, and he took his leave, declaring that he and his son would leave without the Akechi Scrolls.  However, as they departed Kyuden Kakita, a messenger from Kakita Toshimoko (at that time the daimyo of the Kakita family) brought to them the Akechi Scrolls, along with a message that the terms of the wager had been met, and the honor of the Crane clan would not permit them to keep possession of this great heirloom after staking a wager in good faith.
+Agetoki's father seemed perhaps even more furious than the Kakita, and he took his leave, declaring that he and his son would leave without the Akechi Scrolls.  However, as they departed Kyuden Kakita, a messenger from Kakita Toshimoko (at that time the daimyo of the Kakita Family) brought to them the Akechi Scrolls, along with a message that the terms of the wager had been met, and the honor of the Crane Clan would not permit them to keep possession of this great heirloom after staking a wager in good faith.
 
 Daini died the following morning from his wounds.  His sister chose the name Hitomi for herself a few years later at her gempukku, pledging to reclaim the lost family heirlooms.  Unfortunately, the Lion/Crane war deterred those plans, and at this point the goal seems further away than ever.
 
@@ -7293,9 +7293,9 @@ Byakuya is an old friend of Kyoma's, a relative from the Maiko lineage of the Ky
 
 Before this matter could be brought to Seppun Shizuko to resolve, Kyoma accompanied his friend Byakuya to where the baby was being kept.  "I regret to inform you that I will be removing a member of your household," Kyoma cheerfully informed Osei's family, placing his hand on his sword.  "Surely there's no need to force me to remove more, my dear cousins."
 
-Kyoma's former lineage members were recalcitrant, though fortunately only two of them were killed in the ensuing fight.  Kyoma and Byakuya left with the baby, and Kyoma offered his friend a posting in the Wasp clan.  Kyoma's wife Tsuruchi Hitomi wrote a letter to Kyo Haruka, the daimyo of the Kyo house, petitioning for Byakuya to be released from his blood oath of fealty and granted permission to join the Wasp clan.
+Kyoma's former lineage members were recalcitrant, though fortunately only two of them were killed in the ensuing fight.  Kyoma and Byakuya left with the baby, and Kyoma offered his friend a posting in the Wasp Clan.  Kyoma's wife Tsuruchi Hitomi wrote a letter to Kyo Haruka, the daimyo of the Kyo house, petitioning for Byakuya to be released from his blood oath of fealty and granted permission to join the Wasp Clan.
 
-...despite the persistent whispers that the Kyo house maintains animosity toward the Wasp clan, we will continue to quell such scurrilous notions.  Gifts such as the ones delivered with this letter demonstrate the friendship of the Wasp, and the release of Kyo Byakuya shall further prove the emptiness of the troublesome notion that the Kyo opposes His Imperial Majesty's wisdom in chartering a new minor clan...
+...despite the persistent whispers that the Kyo house maintains animosity toward the Wasp Clan, we will continue to quell such scurrilous notions.  Gifts such as the ones delivered with this letter demonstrate the friendship of the Wasp, and the release of Kyo Byakuya shall further prove the emptiness of the troublesome notion that the Kyo opposes His Imperial Majesty's wisdom in chartering a new minor clan...
 
 Byakuya runs Kyoma's household in Sparrow lands, while raising his young daughter Hatsuko.
 
