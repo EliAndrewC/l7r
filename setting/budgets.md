@@ -1167,7 +1167,7 @@ Scaling categories used for the Empire-wide office aggregation:
 | Medium-large capitals | 30K-90K | ~20 | Mostly Rank 11, some Rank 10 vassal-house seats, a few Rank 12 Clan capitals | ~10K avg | ~200K |
 | Medium capitals | 15K-30K | ~70 | Mostly Rank 10 vassal-house seats, some Rank 11 Family seats | ~5K avg | ~350K |
 | Median/small capitals (largest tier of count) | 5K-15K | ~184 | Almost entirely Rank 10 vassal-house seats | ~3K avg | ~552K |
-| **Total main offices** | | **~284** | **~7 Rank 12 + ~25 Rank 11 + ~252 Rank 10** | | **~1.49 million** |
+| **Total main offices** | | **~284** | **~7 Rank 12 + ~25 Rank 11 + ~252 Rank 10** | | **~1.5 million** |
 
 Notes:
 - The Imperial magistrate rank split (~7 Rank 12 + ~25 Rank 11 + ~252 Rank 10) follows the domain tiers in [l7r.md - Clan Populations](l7r.md#clan-populations): **7 Clan-ruling Family capitals** (one per Great Clan) get a Rank 12 IM; the **~25 non-ruling Family capitals** (the Matsu, Ikoma, and Kitsu of the Lion; the Yasuki, Kaiu, Kuni, and Hiruma of the Crab; and so on, plus the three non-ruling Imperial Families) get a Rank 11 IM; and the **~252 remaining vassal-house domains** get a Rank 10 IM.  The counts are approximate at the margins (minor-clan single-domain holdings and Imperial-Family domains are edge cases), but the three-tier structure is firm.
@@ -1241,7 +1241,7 @@ Bringing together the Empire-wide totals for the Imperial Magistrate cohort:
 
 | Component | Empire-wide Annual Cost |
 | --- | --- |
-| 284 Imperial Magistrate main offices at domain capitals (per the scaling table above) | ~1.49 million |
+| 284 Imperial Magistrate main offices at domain capitals (per the scaling table above) | ~1.5 million |
 | ~2,400 provincial-city Imperial yoriki sub-stations (per the breakdown above) | ~0.41 million |
 | Emerald Champion central operations | ~0.5-0.7 million |
 | Traveling Imperial Magistrate force | ~0.3-0.5 million |
