@@ -88,9 +88,6 @@
   - [Moto Laws (the Yassa)](#moto-laws-the-yassa)
     - [The written Yassa](#the-written-yassa)
 - [The Burning Sands Desert](#the-burning-sands-desert)
-  - [Gaijin Fables](#gaijin-fables)
-  - [Blessings and Curses](#blessings-and-curses)
-  - [Lady Sun's Apology](#lady-suns-apology)
 - [The Fortunes](#the-fortunes)
   - [Doji Shizue and the Secrets of Calligraphy (Act 2, Scene 2)](#doji-shizue-and-the-secrets-of-calligraphy-act-2-scene-2)
 - [Between Places](#between-places)
@@ -109,7 +106,7 @@
 - [Wasp Bounty Hunters](#wasp-bounty-hunters)
 - [The Measure of Standing and the Accordances of Rank](#the-measure-of-standing-and-the-accordances-of-rank)
   - [Baseline ranks](#baseline-ranks)
-  - [Accordances of Rank](#accordances-of-rank)
+  - [Gifts and the Accordances of Rank](#gifts-and-the-accordances-of-rank)
   - [The Doctrine of Three Steps](#the-doctrine-of-three-steps)
   - [Investigations and bounties](#investigations-and-bounties)
 - [Bounties](#bounties)
@@ -639,7 +636,7 @@ It is worth noting that 4% is exactly twice the ~2% samurai share of the Empire 
 
 ### Village Headsmen
 
-On the topic of populations, occupations, and numbers: an attached document on the demographics of Rokugan farming communities, "What exactly is a village headsman", is reproduced below:
+On the topic of populations, occupations, and numbers: it's worth trying to answer the question, "What exactly is a village headsman?"
 
 #### Overview
 
@@ -657,9 +654,11 @@ Some things which the government needs to do have been informally assigned to th
 
 - Mediating disputes too trivial to bring before the county magistrate.
 
+- Selecting villagers for corvee labor when the village is asked to meet its labor requirements for public works projects like digging ditches, cutting down trees for lumber production, and repair work on local Imperial roads.
+
 One thing to note is that birth records, death records, marriage records, and travel records are all the responsibility of the "country monk" for a village district.  Additionally, the military training of ashigaru is handled by the county magistrate.  Finally, overseeing tenant land owned by large merchant families is handled by clerks from that merchant family.
 
-"What is a village, and who lives there?"
+#### What is a village, and who lives there?
 
 An overview of the demographics of Rokugan was written years ago, and those numbers have mostly held over time.  As a high-level overview:
 
@@ -709,7 +708,7 @@ These questions are explored in a book review of *Seeing Like a State*, and in t
 
 > Novoselok village had a varied economy of cultivation, grazing, and forestry...the complex welter of strips was designed to ensure that each village household received a strip of land in every ecological zone.  An individual household might have as many as ten to fifteen different plots constituting something of a representative sample of the village's ecological zones and microclimates.  The distribution spread a family's risks prudently, and from time to time the land was reshuffled as families grew or shrunk...The strips of land were generally straight and parallel so that a readjustment could be made by moving small stakes along just one side of a field, without having to think of areal dimensions.  Where the other side of the field was not parallel, the stakes could be shifted to compensate for the fact that the strip lay toward the narrower or wider end of the field.  Irregular fields were divided, not according to area, but according to yield.
 
-The book itself has these crazy pictures of the way that land was partitioned.  Though the words "plots of land" do factor in, it seems like actually fields were subdivided such that different families work different parts of the same fields.  A single family didn't work a single contiguous "plot", but rather many different plots which were themselves pieces of many different fields.
+The book itself has some crazy-complicated pictures of the way that land was partitioned.  Though the words "plots of land" do factor in, fields were actually subdivided such that different families work different parts of the same fields.  A single family didn't work a single contiguous "plot", but rather many different plots which were themselves pieces of many different fields.
 
 #### This is a big part of what a village headsman actually does
 
@@ -6771,7 +6770,7 @@ This is the current standard baseline of what types of people inhabit the variou
 
 Ranks have an "upper" and "lower" level, which we usually represent with decimals on character sheets, e.g. "Rank 7.5" would be referred to as "the upper seventh rank" and "Rank 7.0" would be referred to as "the lower seventh rank".
 
-### Accordances of Rank
+### Gifts and the Accordances of Rank
 
 Once the Lady Doji had detailed the Measure of Standing, she proceeded to establish the **Accordances of Rank**, which detail the rights, privileges, and restrictions which samurai nobles must respect in relation to one another and to the lower classes, i.e. heimen (half-people) and hinin (non-people).
 
