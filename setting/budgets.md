@@ -1129,7 +1129,7 @@ A typical Imperial Magistrate office at a median-sized vassal-house domain capit
 | --- | --- | --- | --- | --- | --- |
 | Imperial Magistrate themselves | 1 | Rank 10 samurai (Imperial appointee) | 100 | 100 | Imperial budget |
 | Karo (chief steward / secretary to the IM) | 1 | Rank 6 samurai (Imperial appointee, traveling with the IM) | 36 | 36 | Imperial budget |
-| Personal household samurai (the IM's close retinue) | ~5 | Rank 4-5 samurai (Imperial appointees, IM's retinue) | ~20 avg | ~100 | Imperial budget |
+| Personal household samurai | ~5 | Rank 4-5 samurai (Imperial appointees, sourced from either Imperial or Clan families) | ~20 avg | ~100 | Imperial budget |
 | Yoriki for general judicial work + capital-city tariff audit | ~25 | Rank 3 samurai (Imperial appointees - oversight cannot be local) | 9 each | ~225 | Imperial budget |
 | Ashigaru (manor security, prisoner escort, court enforcement) | ~8 | Ashigaru (locally recruited) | 2 each | ~16 | Imperial budget |
 | Manor servants and clerical peasants | ~13 | Peasants (locally recruited, housed + fed + small stipend) | ~1 each | ~13 | Imperial budget |
@@ -1183,8 +1183,8 @@ Staffing breakdown for a typical provincial-city sub-station:
 | Role | Count | Status / Rank | Stipend (koku/yr) | Total (koku/yr) |
 | --- | --- | --- | --- | --- |
 | Senior yoriki overseer (reports to the Imperial Magistrate's office at the domain capital) | 1 | Rank 5 samurai | 25 | 25 |
-| Sub-yoriki / assistants | 2 | Rank 4 samurai | 16 each | ~32 |
-| Sub-yoriki / assistants | 2 | Rank 3 samurai | 9 each | ~18 |
+| Sub-yoriki / assistants | ~2 | Rank 4 samurai | 16 each | ~32 |
+| Sub-yoriki / assistants | ~2 | Rank 3 samurai | 9 each | ~18 |
 | **Total** | **~5** | | | **~75** |
 
 Plus food and equipment allowances (~3 koku × ~5 samurai = ~15 koku), bringing personnel costs to ~90 koku/year.
@@ -1212,9 +1212,9 @@ The Imperial infrastructure within any domain is staffed by a mix of three group
 
 1. **Imperial appointees** - personnel sent by the Emperor from elsewhere, paid from the Imperial budget, rotating periodically.  Required for any position involving oversight of local activities (all yoriki, regardless of where they're posted) or strategic command (the Imperial Magistrate and karo at the capital, relay-masters at waystations).  Oversight cannot be local because the daimyo's own samurai cannot be trusted to audit the daimyo's own imports, granaries, or judicial proceedings - the structural conflict of interest is too direct.
 
-2. **Locally-detailed clan samurai** - samurai of the host domain assigned by the local daimyo to support Imperial functions in non-oversight roles (couriers, mounted patrol leaders, manifest clerks, office scribes).  Paid from the local clan budget as part of the domain's standing obligation to support Imperial infrastructure.  These postings are prestigious - working alongside Imperial appointees, often with promotion potential and visibility to the Emerald Champion's office - but explicitly NOT oversight positions.  The phrasing inside the domain is that these samurai are detailed *to assist* the Imperial Magistrate (or the waystation relay-master), not *to oversee* on behalf of the Emperor.
+2. **Locally-detailed clan samurai** - samurai of the host domain assigned by the local daimyo to support Imperial functions in non-oversight roles (couriers, mounted patrol leaders, manifest clerks, office scribes).  Paid from the local clan budget as part of the domain's standing obligation to support Imperial infrastructure.  These postings are prestigious - working alongside Imperial appointees, often with promotion potential and visibility to the Emerald Champion's office - but are explicitly **not** oversight positions.  The phrasing inside the domain is that these samurai are detailed *to assist* the Imperial Magistrate (or the waystation relay-master), not *to oversee* on behalf of the Emperor.
 
-3. **Locally-recruited ashigaru and peasants** - hired from the host domain's population, paid from the Imperial budget.  Handle physical, security, and unskilled labor (mounted patrol ashigaru, stable hands, kitchen staff, manor servants, road-maintenance specialists, ashigaru security at the IM's manor).
+3. **Locally-recruited ashigaru and peasants** - hired from the host domain's population, paid from the Imperial budget.  Handle physical, security, and unskilled labor (mounted patrol ashigaru, stable hands, kitchen staff, manor servants, road-maintenance specialists, ashigaru security at the Imperial magistrate's manor).
 
 For a median (vassal-house) Reiji-style domain - ~12 waystations within the domain (per the geographic divisor: ~5,000 waystations Empire-wide / ~400 median domains of Empire land area = ~12.5 waystations per MD of land), 6 provincial cities each with a yoriki sub-station, 1 Imperial Magistrate at the domain capital - the breakdown looks like:
 
@@ -1225,9 +1225,9 @@ For a median (vassal-house) Reiji-style domain - ~12 waystations within the doma
 | 1 Imperial Magistrate main office at the domain capital | 32 (1 Imperial magistrate + 1 karo + ~5 personal household + ~25 yoriki) | 3 (manifest clerks) | ~21 (~8 manor-security ashigaru + ~13 manor servants/clerical peasants) | ~56 |
 | **Total per Reiji-style vassal-house domain** | **~86** | **~39** | **~153** | **~278** |
 
-So within the Reiji domain, approximately **86 Imperial appointees** are working on Imperial business at any given time - the Imperial Magistrate themselves, the IM's traveling retinue and yoriki force, the yoriki manning the 6 provincial-city sub-stations, and the 24 relay-masters and waystation yoriki scattered across the ~12 waystations within the domain.
+So within the Reiji domain, approximately **86 Imperial appointees** are working on Imperial business at any given time - the Imperial Magistrate themselves, their traveling retinue and yoriki force, the yoriki manning the 6 provincial-city sub-stations, and the 24 relay-masters and waystation yoriki scattered across the ~12 waystations within the domain.
 
-Conversely, the Reiji domain commits approximately **39 of its own samurai** to locally-detailed Imperial-adjacent service: 3 at the IM's office in the capital (as manifest clerks) and ~36 across the waystations (as couriers, patrol leaders, and clerks).  At average ~Rank 3-4 (12 koku stipend), the clan budget burden for these detailed samurai is ~470 koku/year - a tiny fraction of Daimyo Hida no Reiji Isao's discretionary budget, but a continuing structural reminder of the domain's obligation to support Imperial infrastructure operating within its borders.  These postings are well-regarded among Reiji's samurai because working alongside Imperial appointees confers prestige, access to the Imperial Magistrate's court, and a documented record of competent service that can be cited in promotion considerations.
+Conversely, the Reiji domain commits approximately **39 of its own samurai** to locally-detailed Imperial-adjacent service: 3 at the Imperial magistrate's office in the capital (as manifest clerks) and ~36 across the waystations (as couriers, patrol leaders, and clerks).  At average ~Rank 3-4 (12 koku stipend), the clan budget burden for these detailed samurai is ~470 koku/year - a tiny fraction of Daimyo Hida no Reiji Isao's discretionary budget, but a continuing structural reminder of the domain's obligation to support Imperial infrastructure operating within its borders.  These postings are well-regarded among Reiji's samurai because working alongside Imperial appointees confers prestige, access to the Imperial Magistrate's court, and a documented record of competent service that can be cited in promotion considerations.
 
 **Note on the multipliers used in this breakdown**: per [The two Empire-wide multipliers](#the-two-empire-wide-multipliers) above, this section uses **~400 MD** for waystations (geographic distribution by land area) and provincial-city sub-stations (sub-unit count), but **~284 actual domains** for the Imperial magistrate main office (one per the Emerald Charter) and for the samurai-pool quantities (outflow count, clan budget burden) discussed below.
 
