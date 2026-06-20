@@ -802,7 +802,7 @@ The Emperor does **not** collect road tolls anywhere in the Empire.  All tolls o
 | Imperial Ministry of Works | ~15-17 million | The Imperial Ministry of Works oversees all Imperial public works at scale, including two enormous strategic programs that account for the bulk of its budget.  Breakdown: **Imperial roads and waystations ~10-11 million** (the ~50,000-mile road network plus ~5,000 waystations; detailed breakdown in its own section below); **Kaiu Wall direct contributions ~4 million** (Imperial-funded Wall maintenance and supplies above and beyond what the Crab Clan funds autonomously; detailed breakdown in its own section below); **central operations ~1.5 million** (Imperial palace maintenance and construction, granary infrastructure design and supervision, sacred construction at major Imperial shrines, local aqueducts and harbors, Imperial public-works engineering and capital projects) |
 | Imperial Ministry of War | ~3 million | The Imperial Ministry of War oversees the Empire's central standing army and the supporting strategic functions.  Breakdown: **Imperial legions ~2 million** (the standing 25 legions of ~1,000 legionnaires each, the great majority Wall-stationed at ~75K with a handful on border, ceremonial, or emergency duty; this is the stable peacetime figure - a major war both field-deploys legions and raises additional ones, driving the War line toward ~6-7M, see the detailed breakdown in its own section below); **central operations ~1 million** (Imperial-level war command, weapon manufacture oversight, war horse breeding programs, strategic intelligence on clan military capacity, mobilization planning, and strategic-reserve readiness) |
 | Imperial Ministry of Rites | ~2 million | State ceremonies, sacred construction, mourning observances, Empire-wide religious infrastructure, festival distributions.  The Imperial-level state religion: major Imperial shrines (especially Amaterasu's), Imperial-rank shugenja stipends, ceremonial costs for major Imperial events, Empire-wide festival coordination, supervision of major mourning periods (see Imperial Savings below for the fiscal mechanics of large mourning-period distributions) |
-| Imperial Ministry of Justice | ~4 million | The Imperial Ministry of Justice oversees the Empire's central judicial functions plus the field-level Imperial Magistrate cohort.  Breakdown: **Imperial Magistrates and their staff ~3.5 million** (one Imperial Magistrate per domain per the Emerald Charter, plus "the Yasuki Taka system" tariff-audit yoriki cohort and the local Imperial granary oversight role; detailed breakdown in its own section below); **central operations ~0.5 million** (Otosan Uchi resident judicial machinery, Emerald Champion's central staff, central judicial review, prisoner transport at the Imperial level) |
+| Imperial Ministry of Justice | ~4 million | The Imperial Ministry of Justice oversees the Empire's central judicial functions plus the field-level Imperial Magistrate cohort.  Breakdown: **Imperial Magistrates and their staff ~3.6 million** (one Imperial Magistrate per domain per the Emerald Charter, plus "the Yasuki Taka system" tariff-audit yoriki cohort and the local Imperial granary oversight role; detailed breakdown in its own section below); **central operations ~0.5 million** (Otosan Uchi resident judicial machinery, Emerald Champion's central staff, central judicial review, prisoner transport at the Imperial level) |
 | Imperial Ministry of Retainers | ~1.5 million | Imperial-rank samurai stipends and the central retainer-administration apparatus.  Stipends for Imperial-rank samurai serving in Imperial posts (Imperial princes who hold formal offices, Imperial-Family officials, ceremonial-court samurai, samurai seconded to Imperial duty from clan Families *outside* of the Imperial legions structure - the legions are funded under the Imperial Ministry of War line above); rank-squared stipend calculations and payment-day logistics; the Imperial-level civil service examination administration |
 | Imperial Ministry of Revenue | ~1 million | Empire-wide tax collection oversight, salt monopoly administration, commercial regulation, Imperial Court financial administration (the Imperial Treasurer's office), liaison with the 284 Imperial Magistrates' tax-related functions |
 | **Total operating spending** | **~30-31 million** | The Imperial Chancellery (a deliberative body that advises the Emperor and ratifies major decisions; see [l7r.md - The Ministry of Justice](l7r.md#the-ministry-of-justice) for its political role) is not a separate line because its operating cost is minimal and is folded into the Imperial Ministry of Retainers and Imperial household lines |
@@ -1182,26 +1182,29 @@ Staffing breakdown for a typical provincial-city sub-station:
 
 | Role | Count | Status / Rank | Stipend (koku/yr) | Total (koku/yr) |
 | --- | --- | --- | --- | --- |
-| Senior yoriki overseer (reports to the Imperial Magistrate at the domain capital) | 1 | Rank 3 samurai | 9 | 9 |
-| Sub-yoriki / assistants | ~4 | Rank 2 samurai | 4 each | ~16 |
-| **Total** | **~5** | | | **~25** |
+| Senior yoriki overseer (reports to the Imperial Magistrate's office at the domain capital) | 1 | Rank 5 samurai | 25 | 25 |
+| Sub-yoriki / assistants | 2 | Rank 4 samurai | 16 each | ~32 |
+| Sub-yoriki / assistants | 2 | Rank 3 samurai | 9 each | ~18 |
+| **Total** | **~5** | | | **~75** |
 
-Plus food and equipment allowances (~3 koku × ~5 samurai = ~15 koku), bringing personnel costs to ~40 koku/year.
+Plus food and equipment allowances (~3 koku × ~5 samurai = ~15 koku), bringing personnel costs to ~90 koku/year.
+
+The senior overseer sits at Rank 5 by design: under the [Doctrine of Three Steps](l7r.md#the-doctrine-of-three-steps), an official is dismissible as "beyond the reach" of anyone more than three ranks above them, so a Rank 4 overseer could press an audit finding only as far as the Rank 7 Provincial Minister of Revenue whose collectors they oversee, whereas Rank 5 keeps them within reach of the provincial governor above as well.  The assistants sit at Ranks 3-4 (two of each).
 
 Single sub-station budget:
 
 | Category | Annual koku | Notes |
 | --- | --- | --- |
-| Personnel stipends and allowances | ~40 | Per the staffing breakdown above |
+| Personnel stipends and allowances | ~90 | Per the staffing breakdown above |
 | Operational supplies | ~50 | Manifest paper, sealing wax, audit-record materials |
 | Quartering / workspace | ~30 | Small office near the provincial city gate, or rented space in the provincial governor's administrative annex |
 | Travel and communication with the domain capital Imperial magistrate | ~30 | Regular reports and dispatches between the sub-station and the senior office |
 | Medical, religious offerings, ad-hoc | ~20 | Basic supplies and miscellaneous |
-| **Total per provincial-city sub-station** | **~170** | |
+| **Total per provincial-city sub-station** | **~220** | |
 
-Empire-wide aggregation: **~2,400 × ~170 = ~408,000 koku/year**.
+Empire-wide aggregation: **~2,400 × ~220 = ~528,000 koku/year**.
 
-The sub-station's primary function is to *audit* "the Yasuki Taka system" inspectors and licensors (who are part of the provincial Revenue ministry, not the Imperial magistrate cohort), verify that the Emperor's 5% cut is correctly collected on all imported goods sold at the provincial city, and report any discrepancies up to the Imperial Magistrate at the domain capital.  Sub-station yoriki do NOT collect taxes themselves; they monitor the collection.  This architectural separation between domain-level tax collection (provincial ministries) and Imperial oversight (Imperial Magistrate cohort) is the audit-side counterpart to the inspector/licensor split in the original Yasuki Taka system: just as the inspector who assesses goods is institutionally separate from the licensor who collects payment, the licensor who collects is institutionally separate from the Imperial yoriki who audits the records.
+The sub-station's primary function is to *audit* "the Yasuki Taka system" inspectors and licensors (who are part of the provincial Revenue ministry, not the Imperial magistrate cohort), verify that the Emperor's 5% cut is correctly collected on all imported goods sold at the provincial city, and report any discrepancies up to the Imperial Magistrate at the domain capital.  Sub-station yoriki do not collect taxes themselves; they monitor the collection.  This architectural separation between domain-level tax collection (provincial ministries) and Imperial oversight (Imperial Magistrate cohort) is the audit-side counterpart to the inspector/licensor split in the original Yasuki Taka system: just as the inspector who assesses goods is institutionally separate from the licensor who collects payment, the licensor who collects is institutionally separate from the Imperial yoriki who audits the records.
 
 #### Imperial appointees vs. locally-sourced staff (per-domain view)
 
@@ -1242,12 +1245,12 @@ Bringing together the Empire-wide totals for the Imperial Magistrate cohort:
 | Component | Empire-wide Annual Cost |
 | --- | --- |
 | 284 Imperial Magistrate main offices at domain capitals (per the scaling table above) | ~1.5 million |
-| ~2,400 provincial-city Imperial yoriki sub-stations (per the breakdown above) | ~0.41 million |
+| ~2,400 provincial-city Imperial yoriki sub-stations (per the breakdown above) | ~0.53 million |
 | Emerald Champion central operations | ~0.5-0.7 million |
 | Traveling Imperial Magistrate force | ~0.3-0.5 million |
 | Imperial-court judicial infrastructure at Otosan Uchi | ~0.3-0.5 million |
 | Standing investigative units | ~0.2-0.4 million |
-| **Total Imperial Magistrate cohort** | **~3.2-4.0 million** |
+| **Total Imperial Magistrate cohort** | **~3.3-4.1 million** |
 
 This matches the ~3-4M Imperial Magistrate line shown under the Imperial Ministry of Justice in the Imperial Spending table above.
 
