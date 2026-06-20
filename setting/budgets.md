@@ -447,12 +447,12 @@ For the Reiji-style vassal-house domain, this ~100 breaks down as:
 
 | Reiji samurai at Otosan Uchi | Approx count | Status |
 | --- | --- | --- |
-| Reiji's permanent embassy (hostage family + business/political agents) | ~38 | Clan-paid representation, NOT an Imperial post |
+| Reiji's permanent embassy (hostage family + business/political agents) | ~40 | Clan-paid representation, NOT an Imperial post |
 | Reiji samurai in clan-supplied Imperial central posts | ~50 | Imperial-paid; a subset of Reiji's ~216 outgoing Imperial appointees (see [Total Imperial appointee samurai](#total-imperial-appointee-samurai-empire-wide-synthesis)) |
-| Private Reiji samurai (agents, students, etc.) | ~12 | Private; not on any payroll |
+| Private Reiji samurai (agents, students, etc.) | ~10 | Private; not on any payroll |
 | **Total Reiji samurai in Otosan Uchi** | **~100** | ~2% of Reiji's ~5,000 total samurai |
 
-This is a small but politically consequential cohort.  Note that vassal houses like Reiji sit slightly *below* the per-clan average for Otosan Uchi presence: the Great Clan and Family capitals maintain far larger embassies (~120 and ~90 vs Reiji's ~38) and supply more senior central officials, so they pull the per-clan fraction up above 2% while vassal houses sit a touch below it.  Domains geographically closer to the capital also tend to maintain larger and more active Otosan Uchi establishments than distant frontier domains, though the hostage-politics floor applies to every domain regardless of distance.
+This is a small but politically consequential cohort.  Note that vassal houses like Reiji sit slightly *below* the per-clan average for Otosan Uchi presence: the Great Clan and Family capitals maintain far larger embassies (~120 and ~90 vs Reiji's ~40) and supply more senior central officials, so they pull the per-clan fraction up above 2% while vassal houses sit a touch below it.  Domains geographically closer to the capital also tend to maintain larger and more active Otosan Uchi establishments than distant frontier domains, though the hostage-politics floor applies to every domain regardless of distance.
 
 ## Ministry budgets
 
@@ -464,31 +464,42 @@ The breakdowns below show the typical allocation at each tier.  Numbers are appr
 
 ### Domain ministry budgets
 
-A typical domain generates ~256,000 koku/year in tax throughput at the daimyo's tier (the six provincial governors' tax obligations passed up + the capital city's direct tax base and import tariffs + domain-level revenue from mining royalties, large cross-province sake export licenses, craft monopolies, and special assessments).  Of this, ~60,300 koku flows up to the Clan daimyo, Family daimyo, and Imperial superiors as the 10% land-output kick-ups (see [The Imperial budget](#the-imperial-budget) below); ~54,500 flows up to those same superiors as the 10% tariff kick-ups on the domain's typical ~545,000 koku of imported-goods sales volume (per the "Yasuki Taka" rate structure documented in [l7r.md - The Ministry of Revenue](l7r.md#the-ministry-of-revenue)); ~32,000 funds the ~800 working capital samurai the daimyo pays (stipends + food + equipment - the other ~216 of the domain's working samurai serve in Empire-paid posts elsewhere); ~50,000 funds the six domain ministries' **overhead budgets** (materials, contracts, ministry-specific staff, ministers' formal stipends and customary skims); ~1,400 covers minor domain servants, supplies, and the daimyo's direct administrative staff.  The remaining ~58,000 koku is the **daimyo's discretionary cut** - the daimyo's "tax-farming cut," significantly higher than a provincial governor's ~10,000 and a county magistrate's ~1,000 but not by a fixed ratio.
+A typical domain generates ~256,000 koku/year in tax throughput at the daimyo's tier, from the six provincial governors' tax obligations passed up, the capital city's direct tax base and import tariffs, and domain-level revenue from mining royalties, large cross-province sake export licenses, craft monopolies, and special assessments.  Of this:
+* ~60,300 koku flows up to the Clan daimyo, Family daimyo, and Imperial superiors as the 10% land-output kick-ups (see [The Imperial budget](#the-imperial-budget) below)
+* ~54,500 flows up to those same superiors as the 10% tariff kick-ups on the domain's typical ~545,000 koku of imported-goods sales volume (per the "Yasuki Taka" rate structure documented in [l7r.md - The Ministry of Revenue](l7r.md#the-ministry-of-revenue))
+* ~32,000 funds the ~800 working capital samurai the daimyo pays (stipends + food + equipment - the other ~216 of the domain's working samurai serve in Empire-paid posts elsewhere)
+* ~50,000 funds the six domain ministries' **overhead budgets** (materials, contracts, ministry-specific staff, ministers' formal stipends and customary skims)
+* ~1,400 covers minor domain servants, supplies, and the daimyo's direct administrative staff.
+* The remaining ~58,000 koku is the **daimyo's discretionary funds** - the daimyo's "tax-farming cut," significantly higher than a provincial governor's ~10,000 and a county magistrate's ~1,000 but not by a fixed ratio.
 
 **Note**: as at the provincial tier, the ministry budgets shown here are **overhead only** - they do NOT include capital samurai stipends, which are funded as a separate ~32,000-koku line from the daimyo's overall budget.  The Ministry of Retainers *administers* stipend disbursement (rice/coin denomination decisions, rank-squared calculations, payment-day logistics) but the funds themselves flow from the daimyo's tax-farming allocation, not from the Retainers ministry's ~3,000-koku overhead budget.  Only working samurai past their gempukku and not yet retired receive stipends.
 
-Unlike the magistrate's ~1,000 and governor's ~10,000 cuts (which are fixed canonical figures), the daimyo's discretionary cut varies widely with domain wealth and structural factors.  Wealthy maritime trade domains or large Clan-capital domains can run substantially higher (large trade volume, lower per-domain kick-up rates if structurally consolidated); frontier or war-recovering domains run lower (smaller trade base, additional military pressure on the budget).  Hida vassal houses like the Reiji stop levying the absorbed 2% Family layer on both land and tariffs.  On land the daimyo keeps it outright (~12,000 koku/year), which lands the cut above the typical median; on tariffs the absorbed 2% (~10,900 koku/year) can be kept too - most ruling-Family vassal houses hold their gate tariff at the standard ~15% and pocket it - but a domain facing competitive pressure from low-tariff neighbors (as the Reiji do from three bordering Minor Clans) instead passes that 2% to merchants as a lower rate, taking lower throughput rather than a bigger cut.  The ~58,000-koku figure for a typical domain represents a rough median, not a fixed expectation - and specifically it is the median *non-ruling-Family* vassal house, which pays the full 10% kick-up.  That is the modal domain, because each Great Clan has only one ruling Family but several non-ruling ones (the Matsu, Ikoma, and Kitsu of the Lion; the Hiruma, Kuni, and Yasuki of the Crab; and so on), so most vassal houses sit under a non-ruling Family and pay the full rate; the ruling-Family vassal houses that absorb the 2% layer (like the Reiji) are the higher-cut minority.  Actual daimyo discretionary across the empire ranges from ~35,000 (poor frontier domains) to ~115,000+ (wealthy Clan capitals).
+Unlike the magistrate's ~1,000 and governor's ~10,000 cuts (which are fixed canonical figures), the daimyo's discretionary cut varies widely with domain wealth and structural factors.  Wealthy maritime trade domains or large Clan-capital domains can run substantially higher (large trade volume, lower per-domain kick-up rates if structurally consolidated); frontier or war-recovering domains run lower (smaller trade base, additional military pressure on the budget).  Hida vassal houses like the Reiji stop levying the absorbed 2% Family layer on both land and tariffs.  On land the daimyo keeps it outright (~12,000 koku/year), which lands the cut above the typical median; on tariffs the absorbed 2% (~10,900 koku/year) can be kept too; most ruling-Family vassal houses hold their gate tariff at the standard ~15% and pocket the extra 2%, but a domain facing competitive pressure from low-tariff neighbors (as the Reiji do from three nearby Minor Clans) instead passes that 2% to merchants as a lower rate, taking higher throughput rather than a bigger cut.  The ~58,000-koku figure for a typical domain represents a rough median, not a fixed expectation - and specifically it is the median *non-ruling-Family* vassal house, which pays the full 10% kick-up.  That is the modal domain, because each Great Clan has only one ruling Family but several non-ruling ones (the Matsu, Ikoma, and Kitsu of the Lion; the Hiruma, Kaiu, Kuni, and Yasuki of the Crab; etc), so most vassal houses sit under a non-ruling Family and pay the full rate; the ruling-Family vassal houses that absorb the 2% layer (like the Reiji) are the higher-cut minority.  Actual daimyo discretionary across the empire ranges from ~35,000 (poor frontier domains) to ~115,000+ (wealthy Clan capitals).
 
 The ~50,000-koku ministry overhead allocation breaks down across the six ministries, with effective income for each Rank 10 minister:
 
-| Ministry | Budget | Minister's stipend | Informal income (~10% skim + throughput where applicable) | Minister's effective income |
-| --- | --- | --- | --- | --- |
-| Works | ~30,000 | 100 | ~3,000 | **~3,100** |
-| War | ~7,000 | 100 | ~700 | **~800** |
-| Rites | ~6,000 | 100 | ~600 | **~700** |
-| Justice | ~3,000 | 100 | ~300 (formal) + variable from gifts and fines | **~400 (virtuous) to ~3,000+ (corrupt in a wealthy domain)** |
-| Retainers | ~3,000 | 100 | ~300 (formal) + ~1,600 (rice/coin arbitrage on capital stipend throughput of ~28,000) | **~2,000** |
-| Revenue | ~1,000 | 100 | ~100 (formal) + ~2,000 (tax-collection fees on throughput) | **~2,200** |
-| **Total** | **~50,000** |  |  |  |
+| Ministry | Budget | Minister's stipend | Informal income (~10% skim + throughput where applicable) | Gifts | Minister's effective income |
+| --- | --- | --- | --- | --- | --- |
+| Works | ~30,000 | 100 | ~3,000 | ~0 | **~3,100** |
+| War | ~7,000 | 100 | ~700 | ~1,500 | **~2,300** |
+| Rites | ~6,000 | 100 | ~600 | ~200 | **~900** |
+| Justice | ~3,000 | 100 | ~300 (formal) | ~0 (virtuous) to ~2,700+ (corrupt, incl. fines) | **~400 to ~3,000+** |
+| Retainers | ~3,000 | 100 | ~300 (formal) + ~1,600 (rice/coin arbitrage on capital stipend throughput of ~28,000) | ~400 | **~2,400** |
+| Revenue | ~1,000 | 100 | ~100 (formal) + ~2,000 (tax-collection fees on throughput) | ~100 | **~2,300** |
+| **Total** | **~50,000** |  |  |  |  |
 
 Notice the **structural floor for the Minister of Justice is the lowest** of the six (~400 koku effective income at the modest end), but the **ceiling is uncapped**.  Ministers of Justice in wealthy domains can accept significant "gifts" from those under their judicial authority and assess fines whose amounts they set within wide precedential limits.  A virtuous Minister of Justice lives modestly on the formal ~400; a corrupt one in a wealthy domain can exceed even the Minister of Works; both extremes are well-attested in Rokugan.
 
-The other ministries cluster more tightly around their budget-determined income.
+The Minister of War is the other gift-sensitive post.  Its overhead budget is small, but it draws substantial gifts - from underlings angling for promotion and from outsiders seeking the appointments the ministry hands out beyond the chancellery's reach - which lift its effective income (~2,300) well above what its ~7,000-koku budget alone would yield.  Works, Rites, and Revenue sit closer to their budget-determined income: gifts to Works or Revenue in particular are structurally discouraged, because favoring a gift-giver (a padded contract, a soft assessment) comes out of the minister's own overhead budget or out of the daimyo's revenue rather than being a free favor to grant - the same dynamic that holds magistrate and governor gift income down.
 
 ### Provincial ministry budgets
 
-Each typical province generates ~44,000 koku/year in tax throughput (county tributes + the provincial city's direct tax base + city-gate tariffs).  Of this, ~24,500 koku flows up to the daimyo as the province's tax obligation (composed of ~16,200 land-tax kick-up + ~7,800 tariff passthrough, plus the ~500 the governor saves on samurai stipends and passes up - see below; the tariff kick-up distribution to Family/Clan/Imperial is handled at the daimyo's tier, not the governor's), ~5,000 funds the six provincial ministries' **overhead budgets** (materials, contracts, ministry-specific staff, the minister's formal stipend and customary skim), ~4,500 funds the broader cohort of ~225 working provincial samurai the governor pays (stipends + food + equipment, averaging ~20 koku each; the other ~25 of the province's ~250-strong working cohort serve in Empire-paid posts elsewhere), and ~30 covers minor provincial servants and supplies.  The remaining ~10,000 koku is the **governor's discretionary cut** - the canonical "tax-farming cut" that defines the post's value, parallel to a county magistrate's ~1,000-koku cut, and held at 10,000 (the savings from samurai in Imperial service pass up to the daimyo rather than enlarging the governor's cut).  The Reiji's provinces (such as Nagahara, see worked example below) collect slightly less in gross tariffs (~6,800 vs ~7,800) because the Reiji hold their gate tariff near ~13% rather than the ~15% standard - competitive pressure from three bordering low-tariff Minor Clans, passing their absorbed Family layer to merchants rather than pocketing it - with correspondingly lower throughput (~43,000) and tax obligation (~23,500).
+Each typical province generates ~44,000 koku/year in tax throughput from county tax kick-ups, the provincial city's direct tax base, and city-gate tariffs.  Of this:
+* ~24,500 koku flows up to the daimyo as the province's tax obligation (composed of ~16,200 land-tax kick-up + ~7,800 tariff passthrough; the tariff kick-up distribution to Family/Clan/Imperial is handled at the daimyo's tier, not the governor's)
+    * Note that in the provinces of the example Reiji domain below (such as our example Nagahara province) collect slightly less in gross tariffs (~6,800 vs ~7,800) because the Reiji hold their gate tariff near ~13% rather than the ~15% standard - competitive pressure from three bordering low-tariff Minor Clans, passing their absorbed Family layer to merchants rather than pocketing it - with correspondingly lower throughput (~43,000) and tax obligation (~23,500).
+* ~5,000 funds the six provincial ministries' **overhead budgets** (materials, contracts, ministry-specific staff, the minister's formal stipend and customary skim)
+* ~4,500 funds the broader cohort of ~225 working provincial samurai the governor pays (stipends + food + equipment, averaging ~20 koku each; the other ~25 of the province's ~250-strong working cohort serve in Empire-paid posts elsewhere)
+* The remaining ~10,000 koku is the **governor's discretionary funds** - the canonical "tax-farming cut" that defines the post's value, parallel to a county magistrate's ~1,000-koku cut.
 
 **Note on what ministry budgets cover**: The provincial ministry budgets shown here (and the domain ministry budgets shown later) are **overhead budgets only** - they do NOT include samurai stipends for the broader provincial samurai cohort.  Stipends are funded as a separate line item from the governor's overall budget.  The Ministry of Retainers *administers* stipend disbursement as throughput (handling rice/coin denomination decisions, calculating per-samurai allocations under the rank-squared rule, and physically disbursing on payment days), but the actual stipend funds flow from the governor's tax-farming allocation rather than from the Retainers ministry's own ~250-koku overhead budget.  Only working samurai past their gempukku and not yet retired receive stipends; children and retired samurai consume from their family households' resources rather than from a separate state allocation (matching the convention documented in [What the samurai counts mean](#what-the-samurai-counts-mean) above).
 
@@ -496,21 +507,22 @@ Each typical province generates ~44,000 koku/year in tax throughput (county trib
 
 The 5,000-koku provincial ministry overhead allocation breaks down across the six ministries, with effective income for each Rank 7 provincial minister:
 
-| Ministry | Budget per province | Minister's stipend | Informal income | Minister's effective income |
-| --- | --- | --- | --- | --- |
-| Works | ~3,000 | 49 | ~300 | **~350** |
-| War | ~700 | 49 | ~70 | **~120** |
-| Rites | ~600 | 49 | ~60 | **~110** |
-| Justice | ~300 | 49 | ~30 (formal) + variable from gifts and fines | **~80 (virtuous) to ~500+ (corrupt in a wealthy province)** |
-| Retainers | ~250 | 49 | ~25 (formal) + ~180 (rice/coin arbitrage on ~3,375-koku provincial stipend throughput) | **~255** |
-| Revenue | ~150 | 49 | ~15 (formal) + ~450 (collection fees on ~44,000-koku province revenue throughput, ~1%) | **~510** |
-| **Total** | **~5,000** |  |  |  |
+| Ministry | Budget per province | Minister's stipend | Informal income | Gifts | Minister's effective income |
+| --- | --- | --- | --- | --- | --- |
+| Works | ~3,000 | 49 | ~300 | ~0 | **~350** |
+| War | ~700 | 49 | ~70 | ~150 | **~270** |
+| Rites | ~600 | 49 | ~60 | ~20 | **~130** |
+| Justice | ~300 | 49 | ~30 (formal) | ~0 (virtuous) to ~420+ (corrupt, incl. fines) | **~80 to ~500+** |
+| Retainers | ~250 | 49 | ~25 (formal) + ~180 (rice/coin arbitrage on ~3,375-koku provincial stipend throughput) | ~40 | **~295** |
+| Revenue | ~150 | 49 | ~15 (formal) + ~450 (collection fees on ~44,000-koku province revenue throughput, ~1%) | ~15 | **~530** |
+| **Total** | **~5,000** |  |  |  |  |
 
 A few things to notice:
 
 - The **provincial governor** at ~10,000 koku discretionary income is the wealthiest provincial-tier official by an enormous margin - almost 20x the next-highest provincial minister (Revenue).
-- The **county magistrate** at ~1,000 koku discretionary (~955 from tax surplus + ~150 from gifts in Hikai's case, ~1,105 total) is actually wealthier than every provincial minister except Revenue, despite holding a lower rank (Rank 5 vs Rank 7).  This is well-known in Rokugan and explains why ambitious junior samurai often prefer a county magistrate appointment to a provincial ministry appointment.
+- The **county magistrate** at ~1,000 koku discretionary (~955 from tax surplus + ~150 from gifts in Hikai's case, ~1,105 total) is actually wealthier than every provincial minister, despite holding a lower rank (Rank 5 vs Rank 7).  This is well-known in Rokugan and explains why ambitious junior samurai often prefer a county magistrate appointment to a provincial ministry appointment.
 - The **provincial Minister of Justice** at the virtuous floor (~80 koku) is genuinely poor for a Rank 7 official, comparable to a Tokugawa-era ordinary hizamurai.  The ceiling for a corrupt one in a wealthy province can exceed the Minister of Works.
+- The **provincial Minister of War**, like its domain counterpart, draws more in gifts (from promotion-seeking underlings and appointment-seeking outsiders) than its tiny ~700-koku budget implies - ~270 effective, above Rites and a virtuous Justice but far below a corrupt one.
 
 ### Cross-cutting project negotiation
 
