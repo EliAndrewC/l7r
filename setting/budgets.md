@@ -867,7 +867,7 @@ A typical waystation supports ~15-20 permanent staff.  Most positions are locall
 | --- | --- | --- | --- | --- | --- |
 | Relay-master (senior samurai who manages the station; Imperial appointee from elsewhere, rotates periodically) | 1 | Rank 5 samurai | 25 | 25 | Imperial budget |
 | Waystation Imperial yoriki (transit-stamp verification, Imperial appointee from elsewhere, attached to the Imperial Magistrate of the domain the station sits in) | 1 | Rank 4 samurai | 16 | 16 | Imperial budget |
-| Foot-patrol and station-guard ashigaru (locally recruited) | ~4 | Ashigaru (peasant light infantry, on foot) | 2 each | ~8 | Imperial budget |
+| Foot-patrol and station-guard ashigaru (locally recruited) | ~4 | Ashigaru (peasant light infantry) | 2 each | ~8 | Imperial budget |
 | Stable hands (locally recruited) | ~3 | Peasants (housed + fed + small stipend) | ~1 | ~3 | Imperial budget |
 | Kitchen and provisioning staff (locally recruited) | ~2 | Peasants (housed + fed + small stipend) | ~1 | ~2 | Imperial budget |
 | Road-maintenance crew specialists (locally recruited; supervise corvée labor and do specialized stonework) | ~2 | Peasants with skilled-craft status | ~2 | ~4 | Imperial budget |
@@ -890,14 +890,14 @@ A typical waystation's annual Imperial budget breaks down as follows (clan-paid 
 
 | Category | Annual koku | Notes |
 | --- | --- | --- |
-| Imperial-paid personnel stipends and allowances | ~68 | Relay-master + waystation yoriki + locally-recruited ashigaru and peasants.  See the staffing breakdown table above |
-| Horses and stable operations | ~75 | ~12-15 horses average (mostly courier-relay mounts, plus officer and patrol mounts for the station's samurai); includes fodder, tack, replacement |
+| Imperial-paid personnel stipends and allowances | ~70 | Relay-master + waystation yoriki + locally-recruited ashigaru and peasants.  See the staffing breakdown table above |
+| Horses and stable operations | ~60 | ~8-10 horses average, scaling with the station's courier traffic (mostly relay mounts for couriers swapping tired horses for fresh, plus officer and patrol mounts for the station's samurai); includes fodder, tack, replacement |
 | Building maintenance and repairs | ~150 | Structural upkeep of the waystation complex (main hall, barracks, stables, gates, courtyard walls) |
 | Road repair materials for the adjacent ~10 miles of road | ~200 | Stone, lumber, specialized tools, materials for bridge and culvert maintenance.  The bulk of actual road-repair LABOR comes from corvée obligations on adjacent counties; this budget line covers materials and the wages of the skilled-craft specialists who supervise the corvée crews and do specialized stonework |
 | Daily consumables | ~100 | Lamp oil, firewood, food preservation, kitchen consumables, daily operations of housing and feeding ~16 staff plus transient travelers (couriers passing through, the occasional inspecting magistrate, civilian travelers overnighting) |
 | Manifest paper, sealing wax, courier equipment, transit-stamp supplies | ~50 | For courier-relay record-keeping and transit-stamp verification work |
 | Medical supplies, religious offerings, ad-hoc costs | ~70 | Basic medical supplies, small altar maintenance, irregular operational costs |
-| **Total per typical waystation (Imperial budget)** | **~713** | (~700 typical) |
+| **Total per typical waystation (Imperial budget)** | **~700** | |
 
 The local daimyo additionally pays ~50 koku/year per waystation in stipends for the 3 clan samurai detailed as courier-postmaster, mounted patrol leader, and manifest clerk.  Across all the waystations within a typical Reiji-style domain (see the per-domain synthesis below), this comes to a few hundred koku of clan budget burden - a trivial obligation in absolute terms but a continuing structural reminder that the domain participates in supporting Imperial infrastructure.
 
