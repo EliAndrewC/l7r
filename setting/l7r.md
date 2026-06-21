@@ -50,6 +50,25 @@
     - [10th Month: Kaminazuki ("no gods")](#10th-month-kaminazuki-no-gods)
     - [11th Month: Shimotsuki ("frost")](#11th-month-shimotsuki-frost)
     - [12th Month: Shiwasu ("priests running")](#12th-month-shiwasu-priests-running)
+- [Oaths and Vows](#oaths-and-vows)
+- [Temple Organization](#temple-organization)
+  - [Food Purity](#food-purity)
+- [Soothsaying](#soothsaying)
+- [The Fortunes](#the-fortunes)
+  - [Doji Shizue and the Secrets of Calligraphy (Act 2, Scene 2)](#doji-shizue-and-the-secrets-of-calligraphy-act-2-scene-2)
+  - [The Man Who Sold His Destiny](#the-man-who-sold-his-destiny)
+  - [Between Places](#between-places)
+  - [3rd Imperial Legion Backstories](#3rd-imperial-legion-backstories)
+  - [1st Imperial Legion Backstories](#1st-imperial-legion-backstories)
+  - [Touched by the Supernatural](#touched-by-the-supernatural)
+  - [The Burning Words](#the-burning-words)
+  - [Moto Khuyag's Death Detectors](#moto-khuyags-death-detectors)
+  - [The Nameless One](#the-nameless-one)
+  - [Connection Damage](#connection-damage)
+- [Maho and Bloodspeakers](#maho-and-bloodspeakers)
+  - [Iuchiban and His Lieutenants](#iuchiban-and-his-lieutenants)
+  - [Iuchiban's Coup History](#iuchibans-coup-history)
+- [Shugenja](#shugenja)
 - [The Karmic Inquisitors Campaign](#the-karmic-inquisitors-campaign)
   - ["the Order"](#the-order)
   - [Karmic Inquisitors Timeline](#karmic-inquisitors-timeline)
@@ -58,51 +77,35 @@
     - [Damasu Lineages](#damasu-lineages)
     - [Damasu Provinces](#damasu-provinces)
     - [Damasu Temples](#damasu-temples)
-- [Soothsaying](#soothsaying)
-- [Relic Seekers](#relic-seekers)
-- [Famous Swords](#famous-swords)
+    - [Temple Daily Life](#temple-daily-life)
+    - [Temple Relics](#temple-relics)
+    - [Relic Seekers](#relic-seekers)
+    - [Famous Swords](#famous-swords)
 - [The First Toshi Ranbo Campaign](#the-first-toshi-ranbo-campaign)
 - [The Peasant Campaign](#the-peasant-campaign)
-- [Oaths and Vows](#oaths-and-vows)
-- [Maho and Bloodspeakers](#maho-and-bloodspeakers)
-  - [Iuchiban and His Lieutenants](#iuchiban-and-his-lieutenants)
-  - [Iuchiban's Coup History](#iuchibans-coup-history)
-- [Shugenja](#shugenja)
-- [Gaijin](#gaijin)
-  - [Unicorn History](#unicorn-history)
-  - [Bashi's Letter on the Moto](#bashis-letter-on-the-moto)
-  - [Medin al Salaat](#medin-al-salaat)
-- [The Moto](#the-moto)
-  - [Moto Lands](#moto-lands)
-  - [The Gods of Death](#the-gods-of-death)
-  - [Food Purity](#food-purity)
-  - [Moto Laws (the Yassa)](#moto-laws-the-yassa)
-    - [The written Yassa](#the-written-yassa)
-- [The Burning Sands Desert](#the-burning-sands-desert)
-- [The Fortunes](#the-fortunes)
-  - [Doji Shizue and the Secrets of Calligraphy (Act 2, Scene 2)](#doji-shizue-and-the-secrets-of-calligraphy-act-2-scene-2)
-- [Between Places](#between-places)
-  - [Touched by the Supernatural](#touched-by-the-supernatural)
-- [Temple Organization](#temple-organization)
-  - [Temple Daily Life](#temple-daily-life)
-- [Temple Relics](#temple-relics)
-  - [The Man Who Sold His Destiny](#the-man-who-sold-his-destiny)
-  - [3rd Imperial Legion Backstories](#3rd-imperial-legion-backstories)
-  - [1st Imperial Legion Backstories](#1st-imperial-legion-backstories)
-  - [The Burning Words](#the-burning-words)
-  - [Moto Khuyag's Death Detectors](#moto-khuyags-death-detectors)
+- [The Hidden Way Campaign](#the-hidden-way-campaign)
   - [The 11 Imperial Gardens of Chai Sedo](#the-11-imperial-gardens-of-chai-sedo)
   - [The 1st Imperial Legion](#the-1st-imperial-legion)
-  - [Bayushi Tangen](#bayushi-tangen)
-  - [The Dark Moto](#the-dark-moto)
-  - [The Secret Histories of the Moto](#the-secret-histories-of-the-moto)
-- [Wasp Bounty Hunters](#wasp-bounty-hunters)
-- [Bounties](#bounties)
-- [The Sparrow Clan](#the-sparrow-clan)
-- [The Fox Clan](#the-fox-clan)
-- [The Three Man Alliance](#the-three-man-alliance)
-- [The Crane Wives](#the-crane-wives)
-- [Wasp Clan NPCs](#wasp-clan-npcs)
+  - [Gaijin](#gaijin)
+    - [Unicorn History](#unicorn-history)
+    - [Bashi's Letter on the Moto](#bashis-letter-on-the-moto)
+    - [Medin al Salaat](#medin-al-salaat)
+  - [The Moto](#the-moto)
+    - [Moto Lands](#moto-lands)
+    - [The Gods of Death](#the-gods-of-death)
+    - [Moto Laws (the Yassa)](#moto-laws-the-yassa)
+    - [The written Yassa](#the-written-yassa)
+    - [The Burning Sands Desert](#the-burning-sands-desert)
+    - [Bayushi Tangen](#bayushi-tangen)
+    - [The Dark Moto](#the-dark-moto)
+    - [The Secret Histories of the Moto](#the-secret-histories-of-the-moto)
+- [The Wasp Bounty Hunters Campaign](#the-wasp-bounty-hunters-campaign)
+  - [Bounties](#bounties)
+  - [The Sparrow Clan](#the-sparrow-clan)
+  - [The Fox Clan](#the-fox-clan)
+  - [The Three Man Alliance](#the-three-man-alliance)
+  - [The Crane Wives](#the-crane-wives)
+  - [Wasp Clan NPCs](#wasp-clan-npcs)
 
 ## The Setting
 
@@ -1587,6 +1590,1989 @@ The twelfth month, Shiwasu ("priests running"), is named for the flurry of activ
 
 ##### 30th Day: Setsubun (New Year's Eve)
 
+## Oaths and Vows
+
+With a few specific campaign settings covered, here are some of the religious underpinnings of Rokugan and its cosmology.
+
+Oaths and vows are heavily incorporated into this setting.  The main difference between the two is that an oath is sworn by a god, while a vow is sworn to a god or some other type of divine being.  This has several implications, chiefly that an oath is something that the person you swore it to can release you from, but since a vow is sworn to a god, only the god can release you.  This means that oaths can be temporary even if they were originally intended to be permanent, whereas you cannot be freed from a vow.
+
+This setting imposes a certain format for oaths and vows, admittedly based more on the Roman world than Japan.
+
+Oaths and vows should begin by whoever is swearing it naming themself unambiguously, in order for the fortune to not accidentally confuse the wrong person - in some cases this will involve someone naming their parents or saying where they come from.  Then they declare the god they are swearing by (for an oath) or swearing to (for a vow).  Finally they declare what they are swearing.
+
+Here's an example of how this applies to the Legionnaire's Oath, an oath of office sworn by those who join the Imperial legions.  Most Imperial legionnaires swear the standard Imperial Legionnaire's Oath, which has three parts:
+
+1. The legionnaire states their name, family, and position.  For some clans, the listing of position is as simple as naming their previous post or formal rank, while other clans take this opportunity to state their personal deeds - the amount of time allotted for this would depend on the rank of the legionnaire involved.  The amount of ancestry stated varies by clan and family as well; some Lion families state their entire lineage back to the Great Ancestors and their vassals, while others actually swear by each ancestor individually in the second part of the oath.
+
+2. The naming of who the oath is being sworn by.  All Imperial legionnaires must swear this oath "by Lady Sun, and by my ancestors", but some legionnaires insert their family patron gods, or particular fortunes whose favor they seek.  In addition to swearing by these entities, some legionnaires may swear on a particular artifact, such as a famous sword they carry or an ancestral heirloom which is part of the legion.
+
+3. The legionnaire ends with the standard formula for the legionnaire's oath, swearing:
+
+"that I shall faithfully execute all that the Emperor commands, and that in so doing I shall never seek to avoid death."
+
+As an example of all three parts put together:
+
+"I am Shosuro no Michio Noritaka, son of Ukon and Minon, of the lineage of Shosuro no Michio Yusuke.  From the ranks of yoriki of the Thunder Guard of Ryoko Owari, I swear by Lady Amaterasu, by my ancestors, and by Bishamon, that I shall faithfully execute all that the Emperor commands, and that in so doing I shall never seek to avoid death."
+
+Higher-ranking officers need to do more than simply follow orders, so higher-ranking officers swear a different oath.  Corporals and sergeants mostly swear the standard Legionnaire's Oath, but Platoon Lieutenants must swear:
+
+"that I will be faithful and bear true allegiance to His Imperial Majesty the Emperor and his successors, that I shall marshal his troops as he commands, and that in so doing I shall never seek to avoid death."
+
+Company captains swear an even longer form of this oath, being required to swear:
+
+"that I will be a true and faithful servant to His Imperial Majesty and Son of Heaven the Emperor and his successors.  I shall truly and faithfully show the utmost respect for my duty, and without fear I shall everywhere and in every situation defend the inviolability of the Empire.  I will marshal his troops as he commands, and in so doing I shall never seek to avoid death."
+
+Battalion commanders and Legion generals swear even longer oaths, which depending on the particular duties of the legion and their assignments may draw from the oaths of office from any or all the 6 ministries, with these being examples from those other oaths which may be pulled in to form the Officers' oaths:
+
+- I shall avoid any and all actions which are injurious to the functioning of a well-ordered society.
+
+- I possess pure faith and obedience to the Emperor and shall preserve, support and secure the Empire without being affected by fear, mercy, love or hatred.
+
+- I shall discharge strictly and conscientiously the lofty duties that have been bestowed upon me.
+
+- I will promote the general welfare of the Empire.
+
+- I will be responsible for my subordinates by becoming an example, building morale and confidence, and making right and honest decisions.
+
+- I will devote myself to the glory of the Empire, promotion of righteousness, and the propagation of justice.
+
+- I shall guard righteousness and undertake to be diligent in seeking truth and justice.
+
+- I will hold the good of the Emperor and the prosperity of his subjects as my supreme obligation.
+
+- I will always preserve the Empire with my eyes, soul, thoughts, and care, and my mind will only be centered on the Emperor's commands to promote the public good.
+
+- I will promote peace and harmony among the Emperor's subjects, and day and night I shall be the most vigilant custodian of his land.
+
+- I will always promote all that will advance the Empire and oppose all that may harm it.
+
+Note the pattern that oaths sworn by large numbers of people are usually fairly simple, and they get more and more complicated for higher-ranking positions.  For example, here is the oath of office sworn by the Damasu Minister of Works (the Damasu is a vassal family of the Akodo Family of the Lion Clan).
+
+"I, [name], do solemnly swear by Daikoku, the Fortune of Wealth, Koshin, the Fortune of Roads, and in the light of our radiant Lady Sun, to faithfully execute my duties as the Minister of Works for the Damasu domain.
+
+I pledge my diligent efforts to the construction and preservation of public works, fostering the prosperity and security of our domain.
+
+Guided by duty and unwavering loyalty to our honorable Daimyo and the Emperor, I will uphold my responsibilities without fear, favor, or prejudice.
+
+I commit to be an exemplar for my subordinates, encouraging their dedication and making honest decisions for the benefit of our domain and the Empire at large.
+
+With this solemn oath, I swear to put the welfare of the Emperor's subjects and the prosperity of the Damasu domain above all else, diligently working for its advancement and diligently safeguarding against any harm that may befall it.
+
+I swear this oath freely, my heart pure and my intentions sincere, in the name of Daikoku, Koshin, and our radiant Lady Sun."
+
+Note that the oath not only references the duties and responsibilities of the position, but also the challenges which the Minister expects to face in office.  This is similar to how the legionnaire's oath promises to never attempt to avoid death, which references the challenges which legionnaires are expected to face in their military service.
+
+As another example, here is the oath of office sworn by the Damasu Minister of Retainers:
+
+"I, [name], do solemnly swear by Hachiman, the Fortune of Loyalty and Honor, by Shinsei, who exemplifies humility and wisdom, and in the light of our radiant Lady Sun, to serve faithfully as the Minister of Retainers for the Damasu domain.
+
+I pledge to uphold my responsibilities, managing the personnel of our domain with diligence, fairness, and integrity.  I will place the needs of our honorable Daimyo, our dedicated samurai, and our loyal subjects above my own, fostering unity, dedication, and obedience within our ranks.
+
+I commit to the duty of preserving the samurai tradition and ensuring its continuity, guiding our samurai in their dedication to the code of Bushido, their service to our Daimyo and the Emperor, and their commitment to the welfare of our domain and the Empire.
+
+I will act as an exemplar for all samurai under my authority, leading with wisdom, fairness, and honor.  I will make decisions with utmost honesty and impartiality, striving always for the prosperity and security of the Damasu domain and the Empire at large.
+
+I swear this oath freely, with sincerity and a pure heart, in the name of Hachiman, Shinsei, and our radiant Lady Sun."
+
+Additional examples of oaths could be given, but the discussion turns now to vows.  Like the original L5R books, much of the information is "sourced" to in-universe books, presented through "primary source documents" (or descriptions of the contents of those primary source documents).
+
+### On Vows to the Fortunes
+
+"On Vows to the Fortunes" is one of the fictional books from Rokugan which I use to educate players on vows and how they work.  Here's some information about that:
+
+"This book was originally published by Isawa Akuma, who was later discovered to have stolen it from the Great Library.  Its true authorship is unknown.  Anyone who discovers a copy of this book without this disclaimer is ordered to report it to the office of the Jade Champion."
+
+The above disclaimer is at the front of several books published by Isawa Akuma many centuries ago, including this one.  Akuma was a powerful shugenja who was also the greatest scholar of his generation, which is unusual since it's practically unheard of for masters of magic to also be masters of scholarship.  However, it later turned out that Isawa Akuma had used his great name to summon an oni lord (Oni no Akuma), who took the form of a Great Library hidden deep in the Isawa Woodlands.  This library is said to contain "all of the things which have ever been written, and many of the things which never were written, and more than a few things which will come to be written".  It cannot be found the same way twice, and therefore is very difficult to reach.
+
+Akuma published a number of works of scholarship written by people who were never born, or possibly which would have otherwise not come to be written for centuries, attributing these works to himself, which fueled his name even further.  Notably, Akuma is only one of two shugenja in history capable of practicing maho and thus taking on the Shadowlands taint without losing their shugenja abilities - the taint is hateful to the elemental kami and all other shugenja who have practiced maho have lost their powers as a result.  Akuma is one of only three shugenja who have achieved immortality, though presumably he did this through dark rituals rather than gaining the favor of the kami.  (Additional information on Isawa Akuma, not directly related to vows, appears later.)
+
+On Vows to the Fortunes is still considered the foundational work of scholarship on the subject of vows, despite its origins, which speaks to its quality.  Here is some of the most salient information it contains.
+
+- The fortunes reward those who are devoted to them.  This devotion is defined as shaping your thoughts and decisions and actions around being in tune with the fortunes, keeping them and their will in mind at every moment.
+
+- There are a thousand fortunes, though this number is probably not literal, and should be taken to mean "a large number, but still finite and theoretically within the ability of the human race to count and record".  This is too many for any one person to keep in their head at all times.  Therefore, humans do not displease any fortune by our neglect, so long as we do not act contrary to their wishes or actively reject their importance.
+
+- We gain the favor of the fortunes by focusing on individual, specific fortunes and behaving in accordance with their wishes and nature.  Humans are only capable of doing this with a few fortunes at a time - the upper limit of different fortunes that the human mind can act in conscious accordance with is thought to be seven, and most people are advised to pick a much smaller number when swearing vows.
+
+- Counterintuitively, swearing a vow to the Fortunes does not actually gain their favor in any way, while breaking a vow angers them and brings misfortune to the vowbreaker.  With this in mind, why swear a vow at all?  The answer is that swearing a vow forces you to orient your thoughts around maintaining your vow until it becomes second nature to you.  Living and abiding by your vow will then become part of your natural state of mind, and that will gain you the favor and blessings of the fortunes.
+
+- Theoretically a person could achieve a similar result without swearing a vow, but in practice it doesn't usually work that way.  For example, if you choose to not swear a vow because that gives you the option of acting in ways that might theoretically break such a vow, then you will gain less favor with the fortunes even if that sort of situation never comes up.
+
+- There are many recorded cases of people gaining the blessings of the fortunes without having taken vows of any kind, though this is most commonly among peasants who didn't even know that swearing a vow was an option available to them, and who wouldn't have known how to do this properly in any case.
+
+- There are a number of generic vows that can be sworn to many different fortunes, with different significance depending on the fortune being sworn to.  Note that vows can be sworn to any divine being, not just the fortunes, e.g. to Lady Sun, though most vows are sworn to one or more of the Thousand Fortunes.
+
+- In general, it's far worse to swear a vow and break it than to have never sworn a vow at all.  And swearing a vow to do things you don't find difficult doesn't have much benefit, since if you don't need to reshape your thoughts around following the vow then it will not gain much favor with a fortune.  This makes vows inherently somewhat risky - in order to be meaningful or significant they must be difficult, but the more difficult they are the more likely you are to break your vow and be worse off than you were before.
+
+- Because of this dynamic, a standard piece of advice is to practice operating under the burden of an especially difficult vow before you actually swear it, in order to ensure that you will be able to keep it.  Religious institutions should prevent new members from swearing vows until they have been tested, to ensure that newcomers do not bring ruin to themselves and to their entire orders by swearing and then breaking vows.
+
+### Benten's Blessing
+
+Another in-universe work of literature which teaches people in Rokugan about vows is the book "Benten's Blessing" by Doji Shizue.
+
+Doji Shizue was a storyteller who lived three centuries ago.  Swept up in political machinations in Otosan Uchi (the capital of the Empire), Shizue was falsely accused by her family's enemies of plots contrary to the interest of the Emperor.  Because she was innocent, there was no evidence or direct testimony to support these allegations, but Shizue was banished from the capital and from her homelands.  A series of misfortunes befell those who had conspired against her, while she herself went on a pilgrimage to learn the ways of the fortunes and come closer to enlightenment.
+
+Upon her exoneration, she returned to the capital and became the Imperial Matchmaker, having won the favor of Benten (the fortune of romantic love) in her travels.  The play Doji Shizue and the Secrets of Calligraphy recounts her tale and is considered one of the great classics - all of the PCs have certainly seen this play.
+
+Shizue's work contains many ruminations on what is and isn't pleasing to Benten.  In some cases, this is common sense - falling in love, getting married, having children, and then helping them fall in love themselves and continue this cycle is obviously pleasing to Benten.  Shizue reminds us that these connections and cycles are literally what Benten is.  Fortunes are not simply divine beings who happen to like/favor certain concepts - Benten literally is the connections and cycles formed by and of romantic love, and therefore favors anything which strengthens those connections and cycles.
+
+Shizue writes at length of the ways in which those connections and cycles don't necessarily require a love to be consummated.  For example, someone who denies their soulmate in order to enter an arranged marriage as instructed by their family, despairing at never being with the one they truly love... that person is keeping romantic love at the forefront of their thoughts and thus is likely to be rewarded by Benten with prosperity in the marriage their family has chosen for them.  The heartbreak is the price they are paying for Benten's favor.
+
+Benten's curse is therefore earned, not by any particular choice of romantic partners, but by rejecting the idea that one should care about romance at all.  The kind of person who believes that love and romance are silly things disregarded by practical adults - that is the person who will earn Benten's wrath and bring ruin to themselves and their family.
+
+Shizue gives several example vows, including the vows she herself swore to Benten on her pilgrimage which later brought about her redemption and vindication for herself and her family.
+
+### Vengeance and Justice
+
+Another in-universe work of literature which explains oaths to samurai is "Vengeance and Justice" by Matsu Hitomi.
+
+Shortly before her gempukku, Matsu Hitomi watched her brother die in a duel against Matsu Akimori, a member of a rival lineage.  On the day of her gempukku she challenged Akimori to a duel.  He initially refused, saying she was not yet a worthy opponent.  In anger, Hitomi attacked him, and he easily defeated her, sparing her life while urging her to return to face him once she was skilled enough to possibly be an even match.
+
+Hitomi left on a warrior's pilgrimage to train and swore vows to the two fortunes of vengeance:
+
+- Yozo is the fortune of legal vengeance, e.g. the sentence of a magistrate to someone convicted of a crime as their punishment.  Yozo is sometimes said to be the fortune of penance, both voluntarily taken and forcibly inflicted.
+
+- Hofukushu is the fortune of personal vengeance, e.g. the burning need to take revenge on someone who has harmed your family.  Hofukushu is sometimes said to be the fortune of sacrificial revenge, favoring those who would throw aside all other goals in pursuit of vengeance.
+
+Hitomi went on a warrior's pilgrimage, training for years in self-imposed exile until she considered herself worthy to return home and face Akimori.  She did so, and although Akimori had risen to such a high position that she had no standing to challenge him, he saw her and judged that she had become a worthy opponent and accepted her new challenge.  Hitomi prevailed in her duel, though she almost died of her wounds afterwards.  As he lay dying, Akimori thanked her for the greatest warrior's challenge of his life, saying he was glad to have spared her all those years ago, and was happy to see she had finally become a worthy opponent.
+
+Many books and plays have been written about Hitomi, and it is a common name chosen at gempukku by women who already have some specific reason to seek revenge, especially against those who have wronged a brother.  Notably, the current daimyo of the Mirumoto Family, Mirumoto Hitomi, chose that name for herself as part of a declaration of vengeance against Hida Yakamo, who killed her brother in a duel.  Hitomi later cut off Yakamo's hand before returning home to assume the role of daimyo for herself, a position which had been held in regency by her uncle Sukune.
+
+Matsu Hitomi's book is considered the foundational work for anyone contemplating a warrior's pilgrimage.  This book lists a number of vows which can be sworn by someone contemplating this kind of journey.
+
+The above books contain a number of vows whose efficaciousness has been proven if they are followed.  There is also guidance for creating your own vow, though this is generally considered something for experts to do, since you'll end up doing more harm than good if you fail to understand what a fortune actually wants.  (Consider the example above of a person who wins Benten's favor by choosing heartbreak - if a devotee of Benten didn't understand this and swore a vow to see all soulmates joined together in marriage, then they'd probably do more harm than good.)  Some example vows follow, to illustrate the concepts.
+
+A "vow of devotion" is one of the most common vows, this can be sworn to any fortune, though the wording often differs based on the fortune involved.  Because this vow requires you to orient your life and priorities around this fortune until death, it's most commonly sworn by monks and priests who lead monastic lives.
+
+Some non-monastic examples:
+
+- A vow of devotion sworn to Bishamon (the fortune of strength) is something a duelist might swear, requiring them to devote their entire life to bettering their skill in single combat.  Any other responsibilities would come second, and all other pursuits would need to be judged in terms of how they further this goal.  For example, someone swearing this vow might raise their Tact skill, but only to help ensure they are not manipulated out of being able to duel a worthy opponent.  Someone holding a government post who has sworn this vow might be required to delegate far more of their responsibilities than they otherwise would.  This devotion would be rewarded by increased strength and success in combat.
+
+- A vow of devotion sworn to Benten (the fortune of romantic love) is something a matchmaker might swear, requiring them to be looking at all times for favorable matches among all of the unmarried people they know, even those who have not actively sought this help.  This usually requires discovering all that you can about those people you wish to match, forcing you into being a busybody, and those who swear this vow are often condemned as gossips and meddlers.  This devotion will be rewarded by wisdom into the nature of love and proper matches, especially for the family of the person who swore the vow.
+
+- A vow of devotion sworn to Yozo (the fortune of legal vengeance) is something a magistrate might swear, requiring them to always enact the proper punishment for each crime, regardless of all other considerations.  This will frequently involve offending powerful families and interests, and those who swear this vow will often find their careers derailed by the schemes and plotting of those who resent justice being imposed on them.  This devotion will be rewarded by being given the insight to separate truth from falsehood and thus have the information necessary to be capable of imposing just retribution.
+
+Another example vow is the "vow of poverty".  Members of ascetic monastic orders are required to swear this vow, and that's the most common reason.  However, there are several different forms of this vow, based on what exactly you are giving up, where you are directing the resources which would have otherwise been your personal property, and the purpose of the vow.  Here are some non-monastic examples:
+
+- Witch Hunters swear a version of this vow used by those who hold public office.  (Witch Hunters swear specifically to Hofukushu, but officials who swear this vow for any other office invariably choose a different fortune.) All gifts you accept are accepted on behalf of your office, and when you leave your office, the gifts stay with the office, along with all monies and resources you have accumulated during your time there.  You must immediately find another position after leaving any current position, and failing that must join a monastery and have that take the place of your government post.  This poverty is rewarded by increased trust in the office you hold and success in your official endeavors.
+
+- Some pilgrims and ronin and those who live in exile choose to eschew material things, swearing a vow of poverty to a fortune whose favor they wish to solicit.  You may have no more than 1 koku in money, no more than 1 of any item or article of clothing, and no more possessions than you can carry.  Anything in excess of this must be immediately discarded (not gifted!), e.g. if someone gives you a second hat as a gift, then immediately upon accepting it, you must thank your previous hat for its service to you and then throw it on the ground and leave it behind.  This poverty is rewarded by success in your travels, and those who abide by these rules will find themselves able to find success without worrying about their material needs being met despite an inability to meet those needs with their own resources.
+
+- When someone is devoted to a personal, family, and/or political cause which they cannot directly work towards (usually due to being away from home), they might swear a vow of poverty to whichever fortune most aligns with that cause, sending all of what they earn to support that cause.  All possessions of value must be sold or donated to the cause, they must live in government housing or stay in flophouses (or as guests of friends/allies who support them), and all income beyond what is needed for survival and the execution of their duties must go to support this cause.  This poverty is rewarded by directing the favor of the fortune to that cause, and also in empowering the one who swore it with the skill and ability to ensure success in similar causes in their own life.
+
+Another interesting vow is the "vow of soothsaying".  While the word "soothsaying" is commonly used to refer to predicting the future, the literal meaning of the word is "truth-speaking".  This vow can be theoretically sworn to any fortune, and one would choose the fortune whose affairs are most relevant to the reasons why you'd feel led to swear this vow.  Note that while the vow may be intended to cover a specific area, all versions of this vow require truth-speaking at all times, so anyone who swears any version of this vow to any fortune may never tell any lie for any reason.
+
+Unlike the above vows, this is less likely to be sworn by monks, since monks rarely have much cause to lie or dissemble.  And there's little point in swearing a vow to do something you'd have no reason not to do anyway.
+
+Some examples:
+
+- Ritsu the pilgrim is one who has been blessed by Benten with the ability to look at a person and sketch a drawing of their soulmate.  He swore the vow of soothsaying to Benten, because people are often upset at discovering the identity of their soulmate.  Over the past few years, three different people have received sketches of gaijin soulmates.  While this is promising news for Moto Gaheris' military campaign (Toranosuke the abbot of Chai Sedo has declared that this portends success), it's bad news for those receiving the sketches.  By vowing to always convey truth to all who seek it, Ritsu is rewarded by receiving divine truth from Benten in return, and thus finds success in the performance of his holy works.
+
+- A healer might swear the vow of soothsaying to Jurojin (the fortune of longevity), vowing to only speak the truth when asked their opinion.  This can be unpleasant when delivering bad news, but is especially awkward when rendering a healer unable to pass off guesses as facts.  Hearing "I don't know what's wrong and have no idea if this medicine will help" is not reassuring and will often cause patients to seek help elsewhere, even from those who would deceive them by claiming certainty where none exists.  This truth-speaking would be rewarded by helping the healer actually find truth, making them more able to diagnose maladies and afflictions.
+
+- A merchant might swear the vow of soothsaying to Daikoku (the fortune of wealth), vowing honesty in all business dealings.  This can make negotiations considerably harder - while this vow does not require you to volunteer all information, anyone who knows you have sworn this vow can ask you questions, and refusing to answer is often as good as answering.  This truth-speaking is rewarded by preventing you from being cheated, and bringing ruin to those who would use dishonest tactics to oppose your business endeavors.
+
+One thing to note about the vow of soothsaying is that it doesn't require "honesty" per se.  You may not tell a direct lie, but it is permitted within the framework of the vow to make statements which are technically true but which intentionally deceive the listener into forming beliefs which are false.
+
+This is also true for other vows - there can be "loopholes" in the vows, whether based on the wording of the vow or more generally the fortune's understanding of the vow.  In all cases the one whose judgment determines whether the vow has been broken is the fortune, not the person who has sworn it.
+
+The above examples are all lifetime vows.  However, someone can swear a vow to perform an individual task or service.  Such vows can be completed, at which point you are under no further obligation to the fortune.  Any favor gained will be kept, though no further favor is accrued, and there is no risk of angering the fortune due to noncompliance.  The main risk is in dying without completing the task - the general consensus is that one who dies attempting to complete the task will gain the fortune's favor, while one who dies having failed to put in sufficient effort will bring this failure with them into Jigoku and suffer the negative kharma and wrath of the fortune into future lives.
+
+It's dangerous to swear more than one limited vow at a time, unless the vows in no way impair one another.  If one vow requires mainly a financial obligation, and another vow requires time to be spent in some way, then that doesn't necessarily conflict.  However, even in that case someone might theoretically need to choose between e.g. pursuing a business opportunity and spending their time on their second vow, which could set up a lose-lose situation.  On the other hand, keeping these tensions in mind at all times will win you even more favor with the fortunes.
+
+Some examples of limited vows:
+
+- Instead of swearing a vow of devotion to Bishamon (the fortune of strength), one might swear a vow of pilgrimage, requiring them to go on a defined number of pilgrimages and/or visit a certain number of sites at which to train, e.g. training at least one dojo in every clan in the Empire.  Someone who swears this vow and begins planning for how to accomplish such a pilgrimage will be rewarded by beginning to accrue Bishamon's favor prior to actually making the pilgrimage.  In this way, swearing a vow is like borrowing against future earnings to receive benefits early.
+
+- Someone might swear a vow of offering to a particular fortune, swearing to eventually make donations whose total is far in excess of what they have at the moment.  For example, someone might swear to donate 1000 koku despite only having a stipend of ~50 koku/year.  This would be rewarded by accumulating much of the favor that they'd eventually get up-front as well as being more likely to receive the kind of good fortune that makes them able to fulfill the obligation of their vow.  The risk is that if they die or are otherwise rendered unable to ever meet the total, then they will be judged harshly if they could have been more generous with the percentage of their wealth.
+
+- Building a shrine or temple to a fortune is a great non-vow way to earn their favor, but someone unable to do so might swear a vow of creation, obligating them to see that a shrine is constructed as soon as they are able.  This will be rewarded with the success that enables the person to build such a shrine, and punished if they fail to live up to their obligation.
+
+- Someone slighted in a particular way might swear a vow of revenge.  This would often be sworn to Hofukushu (the elder fortune of vengeance), but depending on the nature of the offense and the nature of the intended vengeance this may be sworn to a different fortune instead.  This obligates someone to focus their entire life on achieving vengeance until this has been accomplished.  This will be rewarded by helping ensure that you have your revenge.
+
+Here are some other example vows with a bit less detail, since you can probably discern the general pattern of what is expected and what rewards one can expect from each.
+
+- The vow of pacifism prevents one from ever offering violence, even in self-defense.  This is most commonly sworn by monks, peasants, and samurai who have retired.  The vow of non-killing is a more moderate alternative, though in some ways is riskier since any act of violence might potentially end with someone's death, thus causing the vow to be broken.
+
+- A vow of prayer specifies the times, days, and manner in which one must pray to a chosen fortune.  This is typically very frequent, e.g. "every night at sundown", and will usually interfere with other activities, since one might need to make frequent excuses at social gatherings to go pray.  However, to some extent this inconvenience is the point, since it forces you to pay attention to your vow and orient your life and schedule around it, which is what wins the favor of the fortune.
+
+- A vow of fasting is similar to the vow of prayer, specifying instead the duration and manner of fasting.  This can be either a limited vow (specifying e.g. a total number of days on which someone will fast) or a permanent one (specifying a schedule of fasting one must adhere to for the rest of their life).  In some cases the food that would otherwise be eaten is offered instead to the fortune - this is most common with the limited form of the vow.
+
+- A vow of matchmaking is a more specific version of the vow of devotion to Benten listed above.  A favorable marriage is defined in many ways, such as producing many children, bringing families together, eliminating conflict, generating prosperity, etc.  A matchmaker might generally try to balance all of these aspects... or they could devote themselves to one particular aspect and eschew all other considerations.  For example, a matchmaker might swear to only recommend marriages where the strength of romantic love will be the strongest regardless of all other considerations, or only recommend marriages in which the families being joined together are sufficiently compatible that there will be the least amount of conflict between spouses and their parents.
+
+- A vow of atonement is sworn by someone who has committed some offense for which they seek redemption.  This can either be a limited vow (obligating one to a particular outcome) or a permanent vow (signing one up for a lifetime of obligation).  This is usually sworn to either a fortune one has offended or a fortune whose affairs are most relevant to the offense someone has made against another person.
+
+- The vow of deathseeking is sworn by Lion Clan samurai to Emma-O (the fortune of death) as an alternative to the vow of atonement.  Someone so disgraced that their only other option would be execution or seppuku might swear this vow, intending to throw themselves into dangerous situations benefiting their daimyo as a way to atone.  In wartime deathseekers usually congregate into Deathseeker platoons (or sometimes even larger units), where they go into extremely dangerous battles.  Samurai who swear this vow are said to usually find death within a year.
+
+- The vow of judgment is most commonly sworn to Yozo (the fortune of legal vengeance), but often sworn to some other fortune whose affairs are relevant to the vower's area of responsibility.  In some ways this is an even more extreme vow than the one sworn by deathseekers, because it requires one to do everything possible to bring about the outcome they consider to be just, regardless of any other factors.  For example, someone who has sworn this vow to Yozo might find themselves obligated to carry out an execution even if overruled and the sentence commuted by a higher authority.  Or if a magistrate believed someone to be innocent, they would be obligated to take up arms against their own family if necessary to secure a prisoner's release and escape.
+
+Note that the specifics of each vow are tied to the fortune being honored, the individual's situation or role, and the type of commitment they're willing to make, be it limited or permanent.  This provides a depth of customization and personal commitment that makes each vow unique and meaningful.
+
+Some miscellaneous vows, without extensive explanations:
+
+- The vow of obedience sworn by acolytes of a religious order.
+
+- The vow of celibacy sworn by members of some ascetic orders.
+
+- The vow of silence which some monks take to prohibit themselves from speaking, sometimes with well-specified exceptions such as certain holy days.
+
+- The vow of bloodlessness which prohibits the eating of "anything that bleeds", i.e. adopting a vegetarian diet.
+
+- The vow of isolation in which some holy men practice self-imprisonment.  Criminals sentenced to spend the rest of their lives in prison monasteries are sometimes forced to swear this vow under penalty of death.
+
+- The vow of charity was recently popularized by the prophet Grand Abbot Okawa which sometimes supplements and other times replaces a vow of poverty, usually depending on whether it's being sworn by a monk or samurai.
+
+Some of what's described above is based on historical example, and some is invented for the fictional setting of Rokugan and does not match the historical concepts of vows.  The intent is for vows to combine the conventions described here while still drawing on historical Japanese vows, such as those sworn in a Shinto or Buddhist religious order.
+
+Here is the vow of obedience sworn by all members of the Order of Bishamon in Lion lands (different clans often have different versions of these vows):
+
+"I, [Monk's Name], vow unto Bishamon, the embodiment of strength and defense, and to the Order that serves him.  I submit myself wholly to the guidance and authority of the Abbot, and to the teachings and principles of our sacred Order.
+
+I shall follow their wisdom with humility and dedication, understanding their insight to be born of a deeper connection to the cycles and interconnections of all things.  In obedience, I strive to tread the path towards enlightenment, transcending the bonds of ignorance and suffering.
+
+Under the gaze of Bishamon and the Fortunes, I pledge my loyalty and dedication to this sacred journey.  I vow to uphold the strength and virtue of Bishamon, the eternal cycle of courage and strength, as I strive to align my spirit with his rhythm, becoming an active echo of his divine essence."
+
+In addition to the above, the PCs have several different vows which they have the option to take.
+
+One of them is a "vow of fasting" which has this wording:
+
+"In the sight of all that is, and under the watchful gaze of Bishamon, the Fortune of Strength, I, [Name], swear a solemn vow of fasting.  As the kumosaya blight has taken our rice and soybeans, so too shall I limit myself to these humble grains, a symbol of the suffering endured by our lands.  I shall partake only of rice, soybeans, and the simplest of vegetables, abstaining from all other foods, as a testament to my solidarity with those who suffer.  I shall drink only water and tea, pure and clear, renouncing all other beverages as a symbol of my commitment to clarity and purity in my purpose.
+
+May my abstention serve as a constant reminder of the hardship faced by our people, strengthening my resolve to bring relief and rectification.  May my sacrifices purify me and bring me closer to the strength and endurance embodied by Bishamon, so that I may better serve in the pursuit of our collective redemption.
+
+In my daily meals, I shall remember the people, the land, and the divine grace that sustains us all.  And in my strength, may I reflect the strength of Bishamon, using it not for personal gain, but for the betterment of all.  This I swear, in the name of Bishamon, Fortune of Strength, and in the pursuit of the rectification of our great sin."
+
+Another is a "vow of poverty", which has this wording:
+
+"I, [Name], in the sight of the Celestial Heavens, the Kami, and the ever-vigilant Bishamon, do solemnly swear a vow of poverty.
+
+I pledge to renounce all worldly possessions and personal wealth, to relinquish the desire for material gain, and to live a life of simplicity and humility.  I commit myself to depend solely on the generosity of others for my basic needs, and to accept their gifts with gratitude, while never seeking or expecting excess.
+
+I promise to use any resources that come my way not for my own benefit, but to help those less fortunate, to alleviate suffering, and to further the harmony of the Empire.  I vow to maintain a clear mind, free from the distractions of material desires, focused solely on the pursuit of enlightenment and the service of others.
+
+In the spirit of Bishamon, I understand that true strength lies not in the accumulation of wealth, but in the resilience of the spirit, the endurance of the body, and the wisdom of the mind.  The Way of the warrior, the path I have chosen, is one of discipline, self-denial, and service.
+
+I acknowledge that, in breaking this vow, I would tarnish my spirit, invite the disfavor of the Heavens, and undermine the very principles I strive to uphold.  I risk falling from Bishamon's favor, and failing in the pursuit of the strength he embodies.
+
+In choosing this path of self-denial, I aim to remind myself and others of the impermanence of earthly riches, the value of spiritual wealth, and the virtue of compassion.  I endeavor to embody the strength of Bishamon, not through material prosperity, but through the strength of my character and the depth of my resolve.
+
+So swear I, [Name], under the watchful eyes of Bishamon, the Fortune of Strength."
+
+The third example vow for this campaign is the "vow of discovery", which has this wording:
+
+"In the sight of Bishamon, the mighty Fortune of Strength and Warriors, I, [character's name], vow to delve into the depths of truth regarding the calamity that has befallen these lands.
+
+I swear to guard the secrets entrusted to me, as the armor of Bishamon shields the righteous, valuing the truth above all else, and preserving the confidentiality of those who demand it as a condition of sharing their truths with me.  Yet, in my pursuit of truth, I will not speak falsehoods, nor will I allow deception to cloud the purity of my quest.  When asked, I will speak truth or silence, never lies.
+
+I commit to not publicly accuse any soul of any sin without proof, for the blade of Bishamon does not strike without certainty.  I understand that a hasty accusation may cause harm as grievous as the blight itself.
+
+Guided by Bishamon's strength, I will navigate the path of truth, the path of wisdom, and the path of honor.  May my journey bring clarity and, ultimately, healing to this land we all hold dear.  This I vow, in Bishamon's name."
+
+Note that, all three of these vows are sworn to Bishamon, but Daikoku, the Fortune of Wealth, would be a more intuitive choice for a vow of poverty.  After all, to renounce material wealth is to engage directly with the domain that Daikoku oversees.
+
+However, the religious and spiritual core of this vow is not about wealth or lack of it, but about the strength of character and spirit.  This vow is a test of endurance and resilience, and a commitment to a path of self-denial and discipline.  These qualities align with the teachings and principles of Bishamon, the Fortune of Strength, more so than those of Daikoku.
+
+When one swears a vow of poverty to Bishamon, one is not merely giving up wealth.  One is also vowing to endure hardship, to cultivate inner strength, and to seek the wisdom that comes from overcoming material desires.  This mirrors the path of the warrior, who must be strong not only in body, but also in spirit and mind.
+
+The rewards expected from such a vow to Bishamon would be those associated with personal growth and spiritual strength: resilience in the face of adversity, wisdom gained from simplicity, and a deep sense of inner peace and fulfillment that comes from living in alignment with one's principles.
+
+Swearing a vow of poverty to Daikoku, on the other hand, would have a different focus.  Daikoku governs over wealth and prosperity, so renouncing wealth in his name could potentially lead to a deeper understanding of the true nature of wealth, its impermanence, and the liberation that comes from letting it go.  The rewards from such a vow might be more tied to the cultivation of generosity, gratitude, and contentment.
+
+One thing worth highlighting here is the risks of monks swearing vows which they have not sufficiently prepared for - a recurring theme.
+
+As an example, consider the "vow of discovery" above.  Someone might reasonably ask a monk tasked with the role of karmic inquisitor, "Why have you not sworn a vow of discovery?  You seek to uncover the source of the kumosaya, so why have you not sworn such vows to seek Bishamon's aid?"
+
+And a monk might reply, "Such a vow comes with a high demand for precision, and I lack the specific training to be confident in my ability to perfectly execute that vow.  For example, suppose that someone asked me how long I had been investigating these matters, and I answered that it had been 5 weeks, but in fact I had miscounted and it had actually been 6 weeks.  I would be speaking a falsehood, which would break my vow, anger Bishamon, and ultimately make it harder rather than easier for me to uncover the truths behind the kumosaya blight."
+
+This is an important running theme about oaths and vows in the world of Rokugan.
+
+For additional vow examples, there was a Kitsuki magistrate named Tetsu from the Dragon Clan who wanted to help the Moto conquer the city of Medin al Salaat.  To this end, he swore several vows to various fortunes.  His vow of devotion was to Saibankan, the fortune of magistrates and judges.  He also swore vows to Kamoku, the fortune of the west wind, i.e. the wind that comes from the west and blows towards the east, and Jikoju, the fortune of the east wind.
+
+Saibankan comes first.
+
+Yozo is the younger fortune of vengeance and is described specifically as the fortune of legal retribution, the kind that would be imposed by a judge or magistrate.  Yet there is also Saibankan, who is separately the fortune who guides judges and magistrates towards imposing that legal retribution.  Some might ask about the difference, and in particular, what distinguishes a vow of devotion to one from the other.
+
+In life, Saibankan helped create the common law legal system of Rokugan, in which precedents from previous rulings of judges and magistrates are just as important as the written laws themselves.  After Saibankan's death the Emperor named him the fortune of justice, though records are unclear about which type of fortune-naming occurred - whether the Emperor elevated him or recognized that he had naturally ascended to fortunehood.
+
+Many fear the ability of cunning people to evade punishment through trickery and cleverly twisting the law to suit them by exploiting loopholes.  The Moto famously keep their laws secret for this reason, and avoid setting binding precedents in their rulings.  However, Saibankan viewed this possibility as a mark in favor of common law!  Rather than an unintended consequence, letting someone know in advance whether their actions would bring legal retribution was actually the point for Saibankan.
+
+Saibankan often told fables during interrogations and when giving rulings.  When letting someone go unpunished he always explained what aspect of their behavior had saved them, and when issuing a harsh punishment he'd often explain what minor change in behavior would have spared them.  This was not only for the benefit of the accused, but to serve as examples to others - society benefits from everyone knowing exactly what lines they may and may not cross, especially when seeking revenge or otherwise trying to harm an enemy.
+
+Thus, while Yozo is sometimes described as the fortune of retributive justice who manifests after a judgment has been issued, Saibankan is sometimes described as the fortune of preventative justice.  Saibankan tempers the actions of those who might otherwise step over the line into criminality, and he provides measured responses to crimes that help judges and magistrates restore balance to society to prevent further retribution and escalation and wrongdoing.
+
+The oath of office for various magistrate positions already sets high standards of devotion to the law and principles of justice.  These oaths usually require officeholders to swear to things like "uphold the law without being affected by fear, mercy, love, or hatred".  Some people who intend to become magistrates swear a vow of devotion to Saibankan with the same terms - the main difference is that while one is released from an oath of office when leaving a post, a vow of devotion stays with someone for the rest of their life.  The other difference is that a magistrate might only be oathbound in their official acts, whereas the vow of devotion requires that same commitment in every aspect of a person's life.
+
+Toranosuke, the abbot who advised Tetsu on his vows, notes that the main danger to Tetsu from swearing such a vow is that he might find himself in situations where his other obligations pull him away from making and enforcing fair decisions.  In particular, he cautions Tetsu that Prince Fukuhachi (one of the Emperor's younger children) might wish a particular outcome because, given the parties involved, that ruling most heavily contributes to the functioning of a well-ordered society... even if the particulars of a case don't support that ruling on the merits of the immediate case at hand.  Tetsu might then find himself tested by being put into impossible situations where his loyalties demand actions which his vow may not permit.  However, Tetsu would find himself rewarded with clarity of insight into disputes he finds himself involved with, as well as finding himself more highly regarded and trusted... though this might never be enough reward to make up for it if he finds himself crossing the Prince!
+
+With this in mind, Tetsu ended up swearing this vow:
+
+"I, Kitsuki Tetsu, in reverence to Saibankan, the fortune of justice and guiding hand of magistrates, do solemnly vow to uphold the principles of fairness and balance in all aspects of my life.  I pledge to serve as a beacon of preventative justice, tempering actions and providing measured responses, regardless of personal sentiments and societal pressures.
+
+I promise to embody the wisdom of Saibankan, to act as a guidepost for others, making clear the lines between right and wrong, promoting understanding over ignorance.  In my actions, may the will of Saibankan be echoed, teaching others of the consequences and rewards of their deeds.
+
+I recognize the trials that this path will bring, the loyalties it may test, and the conflicts it may stir.  Yet, I embrace these challenges, understanding that the clarity of insight and the trust earned will guide me towards the path of true justice.
+
+May my every decision, whether in official capacity or private conduct, reflect the principles that Saibankan holds dear.  In times of adversity, may the spirit of Saibankan guide me, allowing me to discern truth from deceit, justice from vengeance.
+
+So swear I, Kitsuki Tetsu."
+
+Tetsu's other two vows follow.
+
+The Empire was formed in what is now Otosan Uchi, along the eastern ocean shore.  This is significant in the context of the winds, because civilization was spread from east to west.
+
+Kamoku is the mildest of the four winds - after all, her west-to-east force did not resist the spread of the Empire as the Great Ancestors brought their armies to overcome the barbaric warlords who opposed them.  Instead, she provided opportunity and the potential for greatness.  Many warlords swore fealty to the Great Ancestors after losing to them on the field of battle - Kamoku therefore brings potential which must be fought for in order to reap the benefits.  Farmers similarly pray to Kamoku for an early spring, which gives them the opportunity to put in the hard work necessary for a more prosperous harvest.
+
+Jikoju meanwhile symbolizes the opportunity of knowledge, wisdom, and a just society.  Farmers were freed from the tyranny of their local warlords, and sailors lost at sea rely on the east wind to return them home to civilization.  The east wind also symbolizes adventure and mystery - those who leave home to travel to new places often pray to Jikoju that their travels will take them to places where justice prevails and the Way prospers.
+
+Toranosuke recommends that Tetsu consider a vow to each of these winds rather than choosing one or the other.  Tetsu lives in a geographic location which is literally a gateway between east and west, and his position requires him to stand with one foot in each world.  On behalf of Kamoku, he will provide opportunity to the Empire from the west, bringing conflict with it which must be overcome for those gains to be realized.  On behalf of Jikoju, he will provide civilization and knowledge from the east, offering the Moto wisdom they lack that they will need to succeed and prosper.
+
+Toranosuke strongly recommends against making vows of devotion to more than one fortune - that is only ever done in Lion lands, and all other clans regard this as unwise by undermining the devotion being attempted through dividing your attention and loyalties.  Instead he recommends that Tetsu swear the following:
+
+1. A vow of creation to Jikoju to build and staff a temple to him in Medin al Salaat.  This would symbolize bringing the gift of civilization to the city, much as the Great Ancestors did to the pre-Imperial warlords.  The danger in this vow is that if Moto Gaheris' military campaign fails, Tetsu will still be bound to either ensure this temple is created or die trying.  Dying with a vow unfulfilled brings negative karma to your soul and the wrath of the fortune into your next lives, though a death caused by attempting to fulfill a vow brings good karma and the favor of the fortune.
+
+If Tetsu swore this vow, he would need to remember those stakes at all times, and be mentally preparing himself for the worst.  For example, he might plan that if the city is not conquered then he will abandon his current life and become a pilgrim so that he can journey to Medin al Salaat and attempt to build a temple there as a foreign monk.  Because he will be from the Empire which recently tried to conquer the city, he might find himself unwelcome and may even be killed for his trouble.  Keeping that possibility in mind every day will enhance his reward from Jikoju, assisting him in bringing civilization and success to the Moto in their endeavors.
+
+Toranosuke also recommends committing to swearing a vow of prayer once the temple has been constructed.  Those who build temples will sometimes take a piece of the temple with them so that once per day they can say a prayer as if in the temple they built - this was especially common in the early days of the empire when new temples were introducing new people to a fortune, so this would be especially appropriate and effective here.
+
+2. A vow of fasting to Kamoku.  While there are many possible parameters of this vow, Toranosuke recommends the variant where you may not eat or drink anything at night, as defined by the time between sunset and sunrise.  Though this was not mentioned in the books on vows that Tetsu read, Toranosuke happens to know that this particular vow of fasting is recognized as particularly efficacious when sworn to Kamoku.  Because of Kamoku's relationship with Lady Sun, it pleases her when her devotees only consume food and drink in the daytime.  (The wording of this particular version of the vow literally includes the phrase "can see daylight", so technically Tetsu also wouldn't be able to eat or drink while deep in a cave or mine.)  Tetsu's reward would be finding himself presented with opportune challenges from the west which are within his ability to overcome (or die trying), resulting in prosperity for himself and those he serves.
+
+Toranosuke recommends this combination of three vows because of how it orients Tetsu.  It makes Tetsu the bridge between the east and west, mediating the line between civilization and barbarism, and seeking out conflict in order to bring order and prosperity to all who deserve it.  Tetsu will accomplish this through his devotion to justice by embodying and enforcing the principles of Rokugani law and custom.
+
+Here is the wording of the vow of creation that Tetsu swore to Jikoju:
+
+"I, Kitsuki Tetsu, in honor of Jikoju, the fortune of the East Wind and purveyor of wisdom and justice, do pledge to foster the seeds of enlightenment and civilization within the city of Medin al Salaat.
+
+I vow to construct and nurture a temple in your honor, a beacon of knowledge amidst the wilderness, a testament to the boundless opportunities that spring from wisdom and justice.  This temple shall stand as a symbol of your might, Jikoju, a place where the spirits of wisdom can dance on the eastern winds, inspiring and guiding those who seek enlightenment.
+
+I understand the weight of this commitment, the challenges it may bring, and the sacrifices it may demand.  Yet, I embrace these, knowing the importance of this task and the good it can bring to the world.  May my every step forward be a testament to my dedication to this vow.
+
+Should the waves of fate crash against me, I am ready to become a pilgrim, journeying to the ends of the Earth, risking all, even my life, to fulfill this promise.  I shall carry with me a part of the temple, ensuring that each day, wherever I am, I can offer my prayers to you, Jikoju, as if within the sacred walls of the temple I vowed to build.
+
+So swear I, Kitsuki Tetsu."
+
+Finally, here is the wording for the vow of fasting that Tetsu swore to Kamoku:
+
+"I, Kitsuki Tetsu, in homage to Kamoku, the fortune of the West Wind, the bringer of challenges and opportunities, do pledge to honor you in a manner befitting your reverence for Lady Sun.
+
+I vow to fast each day from the setting of the sun until its rise, abstaining from food and drink in the hours of darkness.  As a symbol of my dedication, I will only partake of sustenance when I can see daylight, honoring the journey of the sun, the journey of life, and your gentle but formidable force.
+
+In doing so, I open myself to the challenges you bring, to the opportunities hidden within.  I embrace these tests, knowing they are stepping stones towards the prosperity and growth that can be achieved by overcoming adversity.  May I seize these opportunities and, in doing so, honor you.
+
+In the times of darkness, in the challenges of life, may your guiding winds of the west steer me towards success, not shying away from conflict but facing it with the resolve to emerge triumphant.
+
+So swear I, Kitsuki Tetsu."
+
+This set of vows is an important example because it demonstrates how vows can combine to define a path which is larger than the sum of its individual parts.  These three vows are specific, but the place in the world they create for Tetsu is more than what the wording of any single one of these vows conveys.
+
+Here's another example of a vow.  Akodo no Sugiwara Natsuki was interested in swearing a vow to Koshin, the fortune of roads.  Natsuki was interested in gaining more favor from this fortune, due to his new position as the Moto Minister of Works.
+
+Here are some miscellaneous facts about the Empire's roads:
+
+- In the first few centuries of the Empire, most roads were local and connected domain capitals to their holdings in the provinces.
+
+- In the 3rd century, the Emperor Hantei the 10th launched the most massive public works project in history, ultimately constructing over 50,000 miles of Imperial roads, and mandating by Imperial decree that those who traveled along those roads may not be taxed by local daimyo.
+
+- In addition to the roads themselves, the Emperor mandated waystations.  Approximately ~5,000 waystations are distributed across the network, at irregular but worthwhile intervals - averaging ~10 miles apart on the major trunk routes, denser at junctions and dangerous terrain, sparser on minor branches and frontier extensions.  Their function is to protect against bandits, ensure safe passage for travelers, and support the Imperial courier-relay system that connects Otosan Uchi to every domain in the Empire.
+
+- The Emperor spends approximately ~7-9 million koku per year on road upkeep, construction, waystation staffing, and the supporting infrastructure (see [`budgets.md` - The Imperial Budget](budgets.md#the-imperial-budget) for the detailed line-item breakdown).
+
+- Koshin was already a minor fortune who had previously been prayed to during local road construction projects.  He rose to prominence, especially in Crane lands, whose merchant caravans could now travel the Empire as never before.  (Remember that the Yasuki were still part of the Crane at this time.)
+
+- The Unicorn Clan favored Koshin even more than the Crane Clan, as the Ki Rin Trail had begun to bring them great prosperity.  Although the Ki Rin Trail was never a formal road system, the Unicorn Clan established the same sorts of waystations for hundreds of miles to the east and west of Medin al Salaat to allow merchants to bring them wealth and prosperity.  (It's unclear whether the temple to Koshin that the Unicorn built in Medin al Salaat is still operating.)
+
+- Koshin is therefore not just the fortune of physical roads, but of orderly systems of travel.
+
+- Intuitively, one might expect that Koshin is most closely related to Natsu-togumara, the fortune of travel.  However, in fact Koshin is said to sit at the right hand of Daikoku, the fortune of wealth, because roads bring wealth, and wealth enables the construction of roads.
+
+- A sect of the Order of Koshin which originated in Hiruma lands is the Order of the Barefoot Brethren.  Originally centered in Hiruma Castle, the order moved to Kyuden Kaiu after the Maw destroyed most of Hiruma lands.  Its members frequently walk the roads of the Empire so much (usually carrying messages) that they wear through the soles of their shoes, arriving barefoot at their destinations.  Some Miya heralds make a point of walking by foot, sometimes barefoot.
+
+- When the system of roads was being constructed in the Empire, people would often swear vows of creation to Koshin, swearing that they will create a certain amount of road or construct a certain number of waystations.  Natsuki might consider this, but when it comes to staffing the Ki Rin Trail waystations, he could end up in the same position as Tetsu, where if Gaheris' military efforts fail then he is obligated to fulfill his vow regardless at great expense and risk.  (On the other hand, he is more likely to experience success in his endeavors and even make Gaheris' military success more likely if he swore this vow!)
+
+With all of this in mind, Natsuki visited a disused waystation in the desert - the Eyes Over the Desert Wells.  He decided to swear a vow of creation, that he would return and establish a new waystation on this site.  Here is the wording of the vow that he swore:
+
+"I, Akodo no Sugiwara Natsuki, stand humbled before Koshin, God of Roads and Waystations, the unfailing guide of all travelers.  I stand at the brink of the Eyes Over the Desert Wells, a beacon of the past now lost to time and sand.
+
+In your name, Koshin, I swear a vow of creation.  I pledge to resurrect this waystation, to breathe life into its quiet halls and to make it once again a haven for those who journey the vast desert.  I will lay the stones, raise the walls, and light the beacon that will stand as a testament of your influence and our devotion to your ways.
+
+Under your watchful gaze, I promise to restore this place, not only to serve the weary travelers but also to honor the interconnectedness you represent.  In bringing back the Eyes Over the Desert Wells, I seek to strengthen the ties that bind the Empire, to facilitate the free flow of trade, ideas, and prosperity that are the lifeblood of our people.
+
+I understand the gravity of this vow and accept the responsibility it places upon my shoulders.  I stand ready to face the trials and challenges that lie ahead.  Even if the winds of fortune do not favor our efforts, I swear to carry out this task, even at great expense and risk, for my word is my bond, and my resolve is unyielding.
+
+So swear I, Akodo no Sugiwara Natsuki."
+
+For another example of a vow, let's return to the concept of a warrior's pilgrimage.  Kuni Isamu wanted to go on such a pilgrimage, and beforehand decided to swear a vow to Bishamon about the pilgrimage he was about to undertake.  However, Isamu is not educated in these matters and so he consulted with a wise priestess to advise him.  The priestess suggested several possible vows, and Isamu felt drawn to a vow of silence.  He couldn't explain why he was drawn to this vow, which he took as a sign that Bishamon was directing him towards this vow in particular, for reasons which Isamu was not capable of comprehending.
+
+However, he was concerned about the vow interfering with his higher duties as a Witch Hunter.  With that being said, he didn't want to "water down" his vow to the point where it didn't really bind him.  Instead, he merely wanted some framework for an extremely limited exemption, for example perhaps only in situations where it would save a human life or capture a maho-tsukai.  The wise priestess with whom he consulted offered him the following wording for his vow:
+
+"In the sight of Bishamon, Patron of Warriors and the Fortune of Strength, I, Kuni Isamu, vow to uphold a pledge of silence.  I recognize this vow as an act of discipline and sacrifice, a testament to my internal focus and commitment to the path of the warrior.
+
+Until the end of this year, I promise to speak only when necessity dictates, and even then, to use the least words needed.  This exception is confined strictly to circumstances wherein human lives are at risk or when the capture of a maho-tsukai is within reach, reflecting my duty as a Witch Hunter.
+
+Let my silence be a conduit of Bishamon's strength, a testament to my devotion and my commitment to the path I walk.  May my actions serve as my voice, my commitment to justice and the protection of Rokugan speak louder than words.
+
+May Bishamon guide my path and give me the strength to uphold this vow.  This I swear."
+
+In some cases vows tie strongly into the personal history of the human who "became" a fortune.  (In Rokugan, a fortune would have existed before the life of that human, but the human merged with the fortune or joined it or became part of it.)
+
+For example, here's some information about Soshi Saibankan.
+
+### Soshi Saibankan
+
+Saibankan is the fortune of magistrates and judges.  It's unclear in the historical record whether he naturally ascended into becoming one with the existing fortune of magistrates and judges upon his death or if the Emperor elevated him into becoming a fortune upon his death.  Either way, he was recognized throughout the Empire as a wise and judicious magistrate, and the system of Imperial magistrates which persists to this day is sometimes called "Saibankan's net".
+
+In the second century, at the behest of the Emperor and his Emerald Champion Doji Hatsuo, Soshi Saibankan wrote the Emerald Charter, which defines the duties and privileges of all Imperial Magistrates everywhere.  Saibankan also advised the Emperor to establish the common law system that exists to this day, in which precedents from previous rulings would be used to create expectations about future cases.
+
+Saibankan did not come into public notice until he was 35, when he was appointed an obscure judgeship ("Executor of the Northern Fields") in Otosan Uchi.  When he accepted this job, he found out that there was a long-standing dispute between a Yasuki samurai merchant family and Otomo Yorishi, the Emperor's favorite nephew.  Yorishi had paid a sizable sum of money to purchase a large orchard to the north of Otosan Uchi, but it turned out that the man he paid was a con artist who had no claim to the land.  Yorishi asserted ownership over the land anyway, claiming that its Yasuki owners had been swindled and if this man was selling their land without their knowledge, it was they who needed to track him down and demand recompense rather than him.
+
+While it was obvious that the Yasuki claim was the just one, no previous judge had been foolish enough to irritate the Emperor's favorite nephew.  However, Saibankan took up the case and immediately settled it on its merits.  The Emperor, who had been previously unaware of the entire dispute, was so impressed that he took the unusual action of promoting Saibankan over hundreds of other candidates to chief magistrate of the Inner City, bypassing the usual procedure of asking the Imperial Chancellery for a recommendation.
+
+Saibankan was famous for telling fables prior to making his rulings.  The Emperor once visited his court in disguise to hear him pass judgment and described his ruling as being "like hearing a wise old monk give a sermon".  He would specifically take cases which he found useful for giving instruction on principles of justice in his rulings, and he would invite his subordinate magistrates to see him work, to better instruct them on how to hand out rulings.
+
+One famous example is "the case of the stolen smell".  A paranoid innkeeper learned that a poor student was sitting in the alley next to his kitchen.  The student ate his bland foods while inhaling the scents wafting out of the inn's kitchen, thus "flavoring" his meals.
+
+Although his colleagues advised Saibankan to throw the case out as ridiculous, he decided to hear it, because despite its ridiculous nature there were a number of interesting considerations involved, such as when and under what circumstances an owner of property may demand a fee from someone who knowingly came to that property.
+
+Saibankan declared that he was ruling in favor of the innkeeper, and in so doing set some important precedents about land use and alley rights which persist to this day.  He then proceeded to ask the student whether he had any money in his purse.  When the student answered yes, he instructed the student to shake the purse in order to jingle the coins within.  He then declared that the sound of the student's money was appropriate payment for the smell of the innkeeper's food.
+
+Note that "the case of the stolen smell" is lifted from a story about the real person of Ooka Tadasuke in Edo-period Japan.  Although Rokugan is not Japan, incorporating real Japanese stories (both historical and mythical) into the setting is useful, both for vows and for the in-universe explanations of why those vows exist and are structured the way they are.
+
+Note that the current Minister of Justice for the Damasu domain has sworn this vow to Saibankan above and beyond the usual oath of office:
+
+"In the sight of Saibankan, the Fortune of Magistrates and Judges, I, [name], humbly offer my deepest vow of unwavering devotion, in tandem with my oath of office as the Minister of Justice for the Damasu domain.
+
+In my pursuit of truth and justice, I pledge to disregard all external influences and self-interest.  I vow to deliver rightful punishment for every crime committed within the jurisdiction entrusted to me, irrespective of the offender's rank, position or family ties.  No power, be it political or familial, shall sway my dedication to the course of true justice.
+
+I devote myself to Saibankan's guiding principles, promising to adhere firmly to our law, undeterred by threats, inducements, or consequences.  I recognize the heavy responsibility I bear and willingly accept the potential for resentment, schemes, and obstructions that may be devised against me by those who reject justice's impartial hand.
+
+In return, I seek Saibankan's blessing, praying for the divine insight necessary to discern truth from falsehood, enabling me to dispense justice with wisdom and fairness.  I dedicate my career, my honor, and my very life to the tireless pursuit of justice, undeterred by the challenges and sacrifices this path may entail.
+
+Saibankan, whose net upholds the justice of the Empire, accept my vow.  Bestow upon me the courage to stand steadfast in the face of adversity, the wisdom to judge fairly, and the strength to enforce the law without falter.  My devotion is yours; I walk this path in your name and for the people of the Damasu domain."
+
+As another example of someone swearing a vow which goes above and beyond his usual oath of office, the Damasu Minister of Works has sworn this vow:
+
+"Before the gaze of Daikoku, Fortune of Wealth and Bounty, I, Akodo no Damasu Kishiro, humbly make my vow of unyielding devotion, an extension of my solemn oath as the Minister of Works for the Damasu domain.
+
+In my service to the domain, I pledge to champion the wealth of our land, and strive for its prosperity, recognizing that the abundance or scarcity we face impacts every soul within our domain.  I vow to steward our resources wisely and effectively, irrespective of personal gain, and to strive for the wealth of the Damasu domain above all else.
+
+I dedicate myself to Daikoku's teachings, promising to nurture our land, foster its productivity, and maximize its prosperity.  I realize the risk of envy, greed, and strife that may stem from those who covet the wealth I am pledged to protect and augment.
+
+In return, I beseech Daikoku's grace, praying for the divine acumen to guide the domain towards prosperity.  I dedicate my service, my honor, and my very existence to the ceaseless pursuit of wealth and prosperity for the Damasu domain, undeterred by the challenges and sacrifices this journey may demand.
+
+Daikoku, Fortune of Wealth, I humbly seek your acceptance of my vow.  Grant me the discernment to wisely manage our resources, the vision to see opportunities for growth, and the fortitude to stand firm against those who would threaten our prosperity.  My devotion is yours; I chart this course in your name and for the prosperity of the people of Damasu."
+
+And now, here's an example of what a vow of deathseeking typically looks like.  Note that deathseekers don't try to meaninglessly throw their lives away.  The goal is to "spend" your death in a way that benefits your clan and brings glory to your ancestors.  A deathseeker who simply breaks from their unit and in so doing undermines their army's chances of winning the battle has done the opposite.
+
+With that being said, a platoon or company full of deathseekers is a fearsome and terrifying thing to encounter, since their morale will not break and they will fight to the last and will make it extremely difficult for the other side to withdraw even if both sides are wounded.  Thus, the vow cannot be that you WILL die, since this vow cannot require someone to throw their life away needlessly.  However, it can require you to "seek" death and to tactically and strategically focus on winning all battles and look for opportunities to spend your own life to win battles for your side.
+
+All of this leads to the vow having this kind of form:
+
+"I, (name), now stand before you, Emma-O, the Fortune of Death, and the spirits of my ancestors, bearing the weight of my disgrace and failure.  I understand that the only path left for me to restore honor to my name and to my family is to seek death in the service of my daimyo and clan.
+
+In this sacred moment, I make my vow.  I shall embrace my fate, not with fear but with courage, seeking opportunities where my death may turn the tide of battle and bring victory to my clan.  I pledge to find honor in each fight, in each encounter, and with every decision I make, always looking for the path that leads towards a noble end.
+
+I vow that I will not squander my life needlessly.  My death shall not be in vain, nor shall it weaken our cause.  Instead, I shall be a beacon of resolve, an embodiment of Lion's spirit, that even in death, we fight on.
+
+I acknowledge that I tread on the edge of a blade, that each step I take is one closer to my end.  Yet, I walk this path willingly, embracing the role of a deathseeker, my purpose rooted in my duty and honor.  I know my time may be short, yet I shall strive to make each moment count.
+
+By the power of Emma-O, and the eyes of my ancestors, I make this vow.  I seek death, not as an escape, but as a path to redemption.  I shall not shy away from danger, but meet it head-on, with the strength of a Lion and the conviction of a samurai.
+
+My name, once a symbol of disgrace, shall echo in the halls of our ancestors as a testament to my commitment and determination.  The echoes of my deeds shall remind all of the price of honor, the strength of conviction, and the unyielding spirit of a true Lion samurai.
+
+From this day forth, I am a Deathseeker.  Until the day that I fall in battle, every breath I take shall be in service to my daimyo, my clan, and my honor.  This is my vow, this is my path."
+
+In the next campaign, the PCs are not only members of the Order of Bishamon, but also members of a secret society, the Order of Lord Moon.
+
+Lord Moon is not evil per se, but is a terrifying figure because of his emphasis on individuals pursuing their own goals and ambitions regardless of cost or effect on others.  Lady Sun emphasizes harmony, while Lord Moon delights in conflict.  While the Empire contains both things, the fact that the world is more full of conflict than the Emperor might prefer means that those who pray frequently to Lord Moon tend to be looked upon with suspicion and distrust.
+
+Here is the vow which members of The Order of Lord Moon swear upon their initiation:
+
+"I, (NAME), swear to Lord Moon that I shall be a faithful member of his Order, and show loyalty to the brothers and sisters who share in its teachings and ways.  I swear to always act in the best interests of our order and its members.  I swear to keep secret the identities of my fellow members, and to protect their lives and wellbeing as if they were my own.  I will use the knowledge and power gained from my membership in The Order of Lord Moon to pursue my personal goals and ambitions, but will never allow my actions to bring harm to our order or its members.  I will devote myself fully to the service of Lord Moon and to the advancement of our order, and will remain steadfast in my loyalty to The Order of Lord Moon until the end of my days.  So swear I, (NAME)."
+
+This vow is shorter than most of the other vows above, in part because it is an older vow which has been passed down for many centuries, and thus predates some of the common forms and conventions used in vows.
+
+One of the responsibilities of the Damasu Ministry of Rites is cataloging the various signs which might portend disaster.  There are known signs which foretell of floods, fires, plagues, and all manner of catastrophes which can be mitigated if the government is not caught unprepared.
+
+Unfortunately, the fungal blight kumosaya caught the entire domain by surprise, when it destroyed over half of this year's rice and soybean crop in the Damasu domain.
+
+In their role as karmic inquisitors from the Order of Bishamon, the PCs have been tasked with uncovering the mystery of not only what kinds of sins might have prompted the blight, but also why these omens and portents did not forewarn the government.
+
+There are specifically seven signs which ought to have heralded this disaster, and some other members of The Order have encouraged the PCs to make use of the present crisis to right wrongs in the domain.  As they journey from place to place, look out for any wrongdoing by the wealthy and powerful and then find a way to credibly argue that this was the cause of some individual sign failing to manifest.  This would allow the PCs to right a variety of wrongs in addition to solving the overarching mystery.  It will be up to the PCs whether or not to employ this tactic.
+
+One of the PCs was a disciple of Nanube, a member of Lord Moon's heavenly court.  Nanube is known as the Deceiver, or sometimes more simply as the Liar.  Here is a high-level description of Nanube:
+
+With this in mind, suppose that one of the PCs wanted to swear a vow to Nanube that they would use each and every one of these failed omens and portents in order to "take down" a human or family or institution which was guilty of wrongdoing, by framing them as being the reason why these omens and portents did not trigger.  The idea is that lies will bring about justice when the truth has failed.
+
+"I, (NAME), disciple of Nanube the Deceiver, do solemnly vow before Lord Moon and his servant Nanube, to exploit each and every one of the failed omens and portents that ought to have forewarned us of the fungal blight kumosaya.  In the name of justice, I shall craft tales and weave deceptions to ensure punishment for those guilty of wrongdoing, those who prosper through injustice and greed.
+
+I shall find those who are guilty of great sins, and I pledge to bring low these offenders, be they man, woman, family, or institution, by painting their sins as the reason why the omens and portents did not manifest.  I will use the power of lies, not to hide, but to uncover the truth of their transgressions, to right the wrongs, to protect the innocent, and to strike down the guilty.  I may never discover the truth or bring those truly responsible for this absence of premonitions to justice, and I will surely provoke the ire of those I condemn, but I remain dedicated to punishing evildoers.
+
+I vow to exploit the darkness to bring about the light, to use deception to reveal the truth, to use lies as a tool for justice when the truth has failed.  I will be the whisper in the darkness, the unseen hand that stirs the pot, and the voice that shapes the course of events.
+
+By the light of Lord Moon, by the wits of Nanube, and by my own determination, I swear this vow.  To break it would be to betray not only my fellow humans who suffer in this world, but also the essence of myself.  In the face of trials, in the heart of conflict, in the eyes of the guilty, I will not falter.  For my lies are my weapon, my shield, my truth.  So swear I, (NAME)."
+
+Here's a vow which the Order of Daikoku is pressuring the Minister of Revenue to swear:
+
+"I, (NAME), as Damasu's Minister of Revenue, do swear by Daikoku, the Patron of Wealth and Harvest, and by Fukurokujin, the Patron of Wisdom and Mercy, to exercise my duty with diligence and compassion in these trying times.  I vow to use the powers entrusted to me to alleviate the burdens of those suffering most from the blight of kumosaya.
+
+I pledge to seek out and implement policies that will reduce tax and rent burdens on those most afflicted by this calamity, to the best of my ability and within the limits of my power.  I vow to refuse the collection of moneys from those whose larders are empty, whose fields are barren, and whose futures are uncertain due to this devastating blight.  I promise to strive to ensure that no family starves because they are burdened with debts they cannot pay.
+
+Although I am but one man, I pledge to exert my influence to enforce policies of compassion, and I shall labor tirelessly to ensure that those under my authority adhere to the spirit of this vow.  I swear this vow in all humility, knowing that its fulfillment lies as much in the hearts and minds of those I lead as it does in my own efforts.
+
+By the grace of Daikoku and Fukurokujin, and in their names, I swear this vow."
+
+Here's the vow of devotion sworn by members of the Order of Daikoku:
+
+"I, [Monk's Name], vow unto Daikoku, the embodiment of wealth and harvest, and to the Order that serves him.  I surrender myself to the wisdom and authority of the Abbot, and to the teachings and principles of our sacred Order.
+
+I commit to nurturing the abundance around me and within me, just as Daikoku nurtures the prosperity of the world.  I am mindful that wealth is not a reward, but a responsibility; not a privilege, but a mandate to serve.
+
+I shall embrace their wisdom with humility and dedication, acknowledging their insight as the fruit of a profound connection with the cycles of life and bounty.  In devotion, I strive to walk the path towards enlightenment, transcending the bonds of scarcity and suffering.
+
+Under the watchful eyes of Daikoku and the Fortunes, I pledge my loyalty and dedication to this sacred journey.  I vow to uphold the abundance and generosity of Daikoku, the ceaseless cycle of prosperity and harvest, as I strive to align my spirit with his rhythm, becoming an active echo of his divine abundance."
+
+Another example is the Vow of consumption to Lord Moon sworn by a different member of The Order:
+
+"In the silvery gaze of the ever-changing Lord Moon, I, [Name], solemnly swear my vow of consumption.  As Lord Moon feasts on celestial flesh and imbibes the ambrosia of the heavens, so too will I partake of the earthly bounty, a reflection of the divine banquet above.
+
+Each day, as sure as the moon follows the sun, I will feast upon the flesh of animals and drink from the cup of spirits, these actions serving as a testament of my commitment to Lord Moon.  In doing so, I shall honor his insatiable hunger and thirst, mirroring them in my own earthly existence.
+
+I trust this vow to serve as a continuous connection to Lord Moon, reminding me of his raw, primal power.  Let my daily indulgence fortify me, just as Lord Moon draws strength from his celestial feast.
+
+In my meals and libations, I shall remember the celestial grace that sustains us all.  May my strength, in turn, reflect the mighty Lord Moon, using it both for personal gain and for the greater good.  This I vow, in the name of Lord Moon, the mighty and unpredictable."
+
+And the public-facing vow to Bishamon with similar terms:
+
+"In the sight of Bishamon, the stalwart Fortune of Strength, I, [Name], pledge my vow of consumption.  Inspired by my past of scarcity and hardship, I promise to savor the strength of the earth, in meat and spirits, each day and night, as a testament to my perseverance and will.
+
+Just as Bishamon endures, so too will I endeavor to fulfill this vow, even in the face of adversity.  My past poverty taught me the value of these gifts, and so I honor Bishamon by partaking of them daily, drawing strength from my commitment.
+
+My vow serves as a reminder of the blessings we often take for granted.  Each meal, each drink, will bolster my resolve, and remind me of the strength and endurance embodied by Bishamon.
+
+In this act, I shall remember the people, the land, and the divine strength that provides for us.  May my own strength, in turn, reflect that of Bishamon, used not for personal gain but for the betterment of all.  This I swear, in the name of Bishamon, the unyielding Fortune of Strength."
+
+## Temple Organization
+
+When the Shinsei was advising the Hantei on the new Empire being created, part of his guidance was the identification of the 7 Major Fortunes whose favor would bring good luck and prosperity to humanity:
+
+| Fortune | Domain |
+| --- | --- |
+| Benten | The fortune of romantic love |
+| Bishamon | The fortune of strength |
+| Daikoku | The fortune of wealth |
+| Ebisu | The fortune of honest work |
+| Fukurokujin | The fortune of wisdom and mercy |
+| Hotei | The fortune of contentment |
+| Jurojin | The fortune of longevity |
+
+The Shinsei further recommended that each clan cultivates two major Fortunes to be their patrons, ensuring that every city within the clan has a temple to each of their two patron Fortunes.
+
+| Clan | Patron Fortunes |
+| --- | --- |
+| Crab | Bishamon + Ebisu |
+| Crane | Benten + Daikoku |
+| Dragon | Hotei + Ebisu |
+| Lion | Bishamon + Daikoku |
+| Phoenix | Fukurokujin + Hotei |
+| Scorpion | Benten + Jurojin |
+| Unicorn | Fukurokujin + Jurojin |
+
+In the late 3rd century, Hantei the Tenth formalized the system of the Six Ministries, and along with it codified the requirement that each of the Empire's cities contains a temple to each of its clan's patron fortunes.
+
+The temples in Toshi Ranbo are unusually large and well-funded, due to Toshi Ranbo being the 3rd-largest city in the Empire, but the general structure is the same commonly-used way to organize temples which exists everywhere.
+
+The rank of samurai is well established throughout the Empire, according to the system of the Six Ministries laid down by Hantei the 10th.
+
+Peasants are not samurai, and therefore the most esteemed peasant, even if they be the richest merchant in the Empire, is lower in the Celestial Order, and therefore of lower rank, than the lowliest samurai.
+
+However, monks exist outside the Celestial Order, walking with one foot in the world and one foot outside of it, and therefore any monk is neither lower nor higher ranking than any samurai.
+
+With that being said, religious orders must necessarily have a hierarchy in order to run a large organization.  Here is what that typically looks like:
+
+- An Initiate is one who has begun the process of joining a religious order but is not yet a full member.  Many who become initiates decide against joining an order, and thus never attain any higher standing within any temple.
+
+- A Novice is the lowest level of monk, who has joined an order but not yet sworn all of their religious vows.  A novice would typically have sworn only a vow of obedience to the order, but not any of the more significant vows which help them on their path to enlightenment and spiritual development.
+
+- An Acolyte has progressed enough in their religious education within the order that they have sworn a vow of devotion to the Fortune worshiped by the order.  It would be foolish to have novices swear such vows until such time as they can be trusted to keep to them, lest the broken vows bring disaster upon the order.
+
+- A Junior Monk has graduated in their studies to attain the standing of a monk, and is no longer considered a monk in training.
+
+- An Adept Monk is considered wise enough to teach initiates, novices, and acolytes.
+
+- A Senior Monk has been deemed worthy to be put in charge of directing the work of other monks, such as being put in charge of the custodians who clean the temple grounds, or being tasked with overseeing the temple kitchens.  One of the requirements to attain the position of Senior Monk is a vow of celibacy, and senior monks therefore may not be married.  This means that once a monk attains the position of Adept Monk, they must choose between starting a family and attaining a higher position within the temple.
+
+- Each major temple has a council of Stewards, each responsible for a division of the temple's responsibilities, such as the temple's treasury and budgeting, or its education of members, or the overseeing of religious ceremonies.
+
+- Any provincial city will have an Abbot in charge, and even temples in the capital will be run by an abbot if they do not oversee other temples out in the provinces.
+
+- For large temple networks such as the Order of Bishamon, the temple in the capital is known as the sovereign temple and the provincial temples are subordinate to it.  As explained above, those subordinate temples will have an abbot, but the sovereign temple will be run by a Grand Abbot.
+
+We sometimes talk about "orders" and other times "temples", so what distinguishes an Order from a Temple?
+
+The Order of Bishamon refers to the network of temples, monasteries, and shrines devoted to Bishamon throughout Damasu lands.  Each domain in Lion lands has its own Order of Bishamon with its own Grand Abbot.
+
+Sometimes people refer to "the Order of Bishamon" and mean the general system of all Bishamon-related religious institutions across the entire Empire, but most of the time anyone talking about any particular Order is referring to the institution within that domain.
+
+Although e.g. the Order of Bishamon in a vassal domain will sometimes send gifts and offerings to the Order of Bishamon in the Clan capital, this is more infrequent and informal than the rigid expectation of taxes which exists between the vassal house government and the ruling Clan house.
+
+The Temple of Bishamon in a domain's capital is formally referred to as the **sovereign temple**, while the smaller provincial temples in each of a domain's provincial cities are formally referred to as **subordinate temples**.
+
+To summarize, "the Order of Bishamon" refers to the broader network of all Bishamon temples/monasteries/shrines in a domain, while "the Temple of Bishamon" refers to the sovereign temple in the domain capital.
+
+Here are the designations at each level:
+* The Grand Abbot for an Order serves in the Soverign Temple in the domain capital
+* Provincial abbots serve in subordinate temples in the provincial cities
+* Town preceptors serve in town monasteries in county towns
+* Country monks serve in village shrines
+
+### Temple of Bishamon Finances and History
+
+The Temple of Bishamon in Toshi Ranbo is one of the largest in the Empire, with over 200 monks living in the temple complex.  Because this is unusually large, it's not necessarily representative of most major temples in most major cities, but here are the rough numbers for the monks in each category in the temple:
+
+| Position | Count |
+| --- | --- |
+| Novices | 80-100 |
+| Acolytes | 60-80 |
+| Junior Monks | 40-60 |
+| Adept Monks | 30-40 |
+| Senior Monks | 20-30 |
+| Stewards | 10-20 |
+| Grand Abbot | 1 |
+
+Most of the monks in all of the above categories live in the Temple of Bishamon complex.  This does not include most of the initiates, who have begun their study, usually part-time while working their existing jobs and handling their normal family obligations.  As the Shinsei said of the monastic life, "many are called, few are chosen" - there are generally 200-500 initiates, more in number than all other categories combined!
+
+Here's a rough outline of the Order of Bishamon's standing over the past decade and a half:
+
+Under the old Damasu regime, the Temple of Bishamon was the biggest, richest, most influential temple in Damasu lands, due to the centrality of the fortune Bishamon in Lion life.  A majority of the government's temple funding went to the Order of Bishamon, which made up roughly 50% of the Temple's funding.
+
+12 years ago (in the year 1117), the Tsume house invaded Toshi Ranbo and conquered the city from the Damasu house.  Although during this time they would not have dared defile the temple (due to not wanting to offend Bishamon), they did raid the temple treasury, and their subsequent donations made back to the temple came nowhere close to recouping those losses.
+
+Over the next several years of Tsume occupation, the city was in bad shape, with repeated riots over food shortages and other conditions.  The Tsume government cut the city's funding of the Order of Bishamon down to almost nothing, funneling their money instead to the Order of Daikoku and to the Order of Benten which they quickly expanded using monies which otherwise would have been directed to the Order of Bishamon.  They also seized all of the "temple estates", i.e. properties owned by the temple from which it collected rent.
+
+The Temple of Bishamon thus not only had to contend with the emptying of its treasury, but also losing over half of its funding overnight, putting the temple's finances in dire straits.  The disorder within the city, combined with the Tsume pillaging of the temple's normal roster of wealthy patrons made this problem worse.  Additionally, the temple's budget shortfalls led to a massive scaling back of its charitable endeavors, which further strained the ability of the city's population to cope with the new regime.  Many monks were dismissed from the Temple during this time, reassigned to the provinces or to other domains, and many of these formed the early cadre of the Baitenist movement.
+
+Almost 4 years after the Tsume invasion, the Lion Clan retook the city (in the year 1121), and it reverted to the Damasu.  The Lion Clan investigated the temple's finances and found them lacking, and instead of depleting them further restored their government funding, though they did not have the resources to restore its treasury to its previous levels at this time, due to the ongoing war with the Crane Clan.
+
+About 6 years later, the Lion/Crane war ended (the peace treaty was officially signed in the year 1128), and the peace treaty involved large payments to the Lion Clan.  The Damasu were flush with coin, and donated generously to the Temple.  In the past year, after the peace treaty was signed, the Temple's income is double what it was even under the previous Damasu regime.
+
+The Temple of Bishamon's annual income before the fall of the previous Damasu regime was roughly 10,000 koku/year, which was sourced as follows:
+
+Here is a rough breakdown of what a typical year of income was for the Temple of Bishamon prior to the fall of the Damasu:
+
+| Koku/year | Percent Source |  |
+| --- | --- | --- |
+| ~4,000 | ~40% | government funding |
+| ~2,500 | ~25% | donations from the city's population |
+| ~1,500 | ~15% | income from performing religious services and ceremonies |
+| ~1000 | ~10% | income from land, property, and other investments |
+| ~500 | ~5% | income from the sale of non-religious goods and services |
+| ~500 | ~5% | offerings from subordinate temples, monasteries, and shrines in the provinces |
+
+Note that all of these numbers are extremely approximate, but they should each offer a rough order of magnitude of the Temple of Bishamon's income from various sources.  One other point of interest is that the Temple of Bishamon in the capital distributes more monies in a typical year to its subordinate temples than it receives, so the 5% of "revenue" is misleading and could just as easily be expressed as a negative.
+
+Here's roughly what the temple has historically done with that income each year:
+
+| Koku/year | Percent Category |  |
+| --- | --- | --- |
+| ~2,000 | ~20% | Religious ceremonies, events, and festivals |
+| ~1,500 | ~15% | Savings, investments, loans, land and property management |
+| ~1,000 | ~10% | Maintenance, cleaning, repair, and renovations to the Temple |
+| ~1000 | ~10% | Donations to the needy and other community projects |
+| ~1000 | ~10% | Gifts to patrons, public relations, offerings to other temples, and other forms of diplomacy |
+| ~1000 | ~10% | Funds for subordinate temples, monasteries, and shrines, as well as pilgrimages to these and other destinations |
+| ~1000 | ~10% | Scholarly pursuits, acquisition and upkeep of books, ink, paper, and other religious artifacts and symbols |
+| ~1000 | ~5% | Room and board for the temple monks |
+
+Remember that these are all the approximate baseline numbers before everything changed when Toshi Ranbo fell to the Tsume invasion, and the Temple fell on extremely hard times for several years afterwards.  This had rippling effects not immediately reflected in high-level budget numbers.
+
+For example, there is no line item for clothing on this budget breakdown.  Partially this is because a monk's initial set of robes would be provided out of the "room and board" budget, and replacements often come either out of the budget of the senior monk overseeing the job a monk is working, or donated by members of the community.  For example, Adept monks who teach the city's initiates often take up collections from their students in order to buy new sandals or undergarments or robes.
+
+When the Lion took over the city, few new robes were purchased by the temple for several years, and the poor state of the temple's finances was apparent from the increasingly worn robes which were being constantly patched and mended rather than replaced.
+
+### Food Purity
+
+The Moto also have completely different expectations around what foods are acceptable to eat.  There aren't many places in the area where being ritually unclean will be an issue, though the shrine at Chai Sedo is definitely one of them.
+
+There are many things which can make a person ritually unclean.  Being "unclean" doesn't imply being in a state of sin, but uncleanliness should not be mixed with holiness, and so people who have entered a state of ritual uncleanliness need to purify themselves before they can enter a shrine or temple.
+
+The Moto don't maintain cleanliness rules, though they evidently have enough comparable concepts that they are usually good about checking before entering a non-Moto shrine or temple - after all, no Moto would want to incur the wrath of a divine being for failing to show it respect or violating one of its taboos.
+
+This section focuses on how long it takes for someone to be capable of fully cleansing themselves after having eaten different things.
+
+Eating fish is not unclean and requires no cleansing whatsoever.
+
+Eating pork or poultry is ritually unclean, but a simple ritual purifying bath is enough to cleanse a person with no delay.
+
+Eating rabbit, venison, or sheep requires a special cleansing ritual at a shrine or temple.
+
+Eating goat falls into the same category as rabbit/venison/sheep UNLESS the goat was slaughtered on a particular day of the week and according to the correct ritual process, in which case it is like fish and requires no cleansing because the ritual by which it was slaughtered has already performed the necessary cleansing.  Goat is referred to as "mountain tuna" for this reason.
+
+Eating horse or cattle makes you unclean until more than a full month has passed - after that you can cleanse yourself after the beginning of the following new moon.
+
+## Soothsaying
+
+This section describes how omens and portents work in Rokugan, and how they are understood as tools of soothsaying.
+
+Although "soothsaying" literally means "truth-speaking", the word colloquially refers to predicting the future.  Soothsaying has two categories, which split into four disciplines, which divide into eight forms, which are composed of innumerable different practices.  Here's the opening that people read when opening the book "On Soothsaying":
+
+"This book was originally published by Isawa Akuma, who was later discovered to have stolen it from the Great Library.  Its true authorship is unknown.  Anyone who discovers a copy of this book without this disclaimer is ordered to report it to the office of the Jade Champion."
+
+The above disclaimer is at the front of several books published by Isawa Akuma many centuries ago, including this one.  Akuma was a powerful shugenja who was also the greatest scholar of his generation, which is unusual since it's practically unheard of for masters of magic to also be masters of scholarship.  However, it later turned out that Isawa Akuma had used his great name to summon an oni lord (Oni no Akuma), who took the form of a Great Library hidden deep in the Isawa Woodlands.  This library is said to contain "all of the things which have ever been written, and many of the things which never were written, and more than a few things which will come to be written".  It cannot be found the same way twice, and therefore is very difficult to reach.
+
+Akuma published a number of works of scholarship written by people who were never born, or possibly which would have otherwise not come to be written for centuries, attributing these works to himself, which fueled his name even further.  Notably, Akuma is only one of two shugenja in history capable of practicing maho and thus taking on the Shadowlands taint without losing their shugenja abilities - the taint is hateful to the elemental kami and all other shugenja who have practiced maho have lost their powers as a result.  Akuma is one of only three shugenja who have achieved immortality, though presumably he did this through dark rituals rather than gaining the favor of the kami.
+
+"On Soothsaying" is still considered the foundational work of scholarship on the subject of augury and prophecy, despite its origins, which speaks to its quality.
+
+Here's a high-level description of the breakdown of soothsaying's two categories, four disciplines, and eight forms:
+
+- Soothsaying: the general term for all the different ways of predicting the future
+  - Augury: the general category of soothsaying, identifying and interpreting universal omens and portents
+    - Fortunetelling: predicting a specific, individual person's future
+      - Astrology: not only the reading of the stars, but the placing of observed events within the framework of the calendar and its holy days, and the horoscopes of the people involved ("horoscope" includes matching someone's "place" in their family/village/class/etc to their plans and goals, and doesn't only refer to the date, year, and time of day in which they were originally born)
+      - Augural readings: performing specific actions in order to generate results which can be interpreted, e.g. reading tea leaves, I Ching readings, interpreting dreams, etc
+    - Divination: predicting larger events not tied to individual people, e.g. harvests/plagues/floods/etc
+      - Prognostication: interpreting omens and portents and making predictions about how they foretell coming events for a large area and population
+      - Oracular divination: similar to taking augural readings, this involves performing actions such as disemboweling a chicken in order to read its entrails, or scrying by performing a crystal gazing to view an area and read the distortions of light and shape which are revealed, etc
+  - Prophecy: the specific category of soothsaying, in which "supernatural" predictions are made by people gifted by the gods with special sight that lets them see different possible futures
+    - Wisdom Prophecy: when a human is wise enough to be able to generate prophetic predictions on command
+      - Devotion Prophecy: the human prophet focuses their second sight on some specific aspect of the future - this offers more control but suffers the limitations of the human mind
+      - Channeling Prophecy: the human prophet asks a god to possess them so they can see with the god's sight - this is more powerful but often focuses on what is important to the god rather than what humans might wish to see
+    - Covenant Prophecy: the prophet forges a compact or receives a promise from a divine being with its associated terms and conditions
+      - Sentinel Prophecy: the god commits to providing warning signs in advance of some specific threat, e.g. Osano Wo warns of possible fires in the city of Komori (on the Island of Spice in the Mantis Isles) by causing a red sky over the eastern ocean at dawn
+      - Stratagem Prophecy: a god has shared a plan with a human prophet, so that they may help ensure this plan comes to pass, e.g. the prophecy that the 3rd Imperial Legion should send The Dreamer, The Gambler, The Historian, and the Painter as a company to journey into the Shadowlands to reach the Forgotten Tomb on the day of the Chrysanthemum Festival, and that by doing so these warriors can gain power over the Shadowlands and win a great victory over the Dark Moto
+
+The original introduction to the book "On Soothsaying" follows:
+
+Everyone sees into the future.  Even simpletons understand that a rock thrown into the air is likely to fall back down.  We make such predictions every minute of our lives.
+
+Soothsaying is predicting that a rock will fall to earth without having known that one was thrown.  It is predicting that a house will collapse without knowing how, why, or perhaps even when.  It is having some understanding of what the future holds without possessing the facts which allow us to make such predictions in the ordinary way.
+
+Just as all things divide into two complementary pieces, soothsaying comes in two different forms, augury and prophecy.
+
+Seeing a spider in the morning means good luck.  Hearing crickets cease their music signals danger.  A red bird flying into your home foretells love.  This is augury, the lore of the general form of soothsaying, which identifies universal omens and portents.
+
+While augury is general, prophecy is specific.  It is not merely predicting an event, but articulating its manifold possible forms, affected as they are by the innumerable choices made by mortals and gods alike.  A prophecy, in essence, is not the foretelling of an immutable future, but a weaving together of a myriad of potential futures, each one hinging on the choices that give them life.  They can be prevented, they can be realized, and most importantly they can be nudged in one direction or another.  A prophecy can be as much a warning as a prediction, as much a caution as a certainty.  Prophets who communicate such future possibilities practice two distinct disciplines: Wisdom Prophecy and Covenant Prophecy.
+
+Prophetic vision is not unrestricted - it is bound by the sheer complexity of possible futures.  All things are connected to all other things - this is the Tao.  The Shinsei saw the future of the Empire in his tea leaves, but even more impressive was that he did so without being driven mad, unlike most other prophets of great renown, whose glimpses into the interconnectedness of all things yield equal parts wisdom and madness.
+
+Wisdom Prophets, therefore, must judiciously focus on areas where they have the most insight.  Given the vastness of potential futures, a prophecy will never be comprehensive.  The particular focus of prophetic vision aligns with the divine beings who granted the prophet their futuresight.
+
+A prophet blessed by the Fortune Benten, for instance, might catch glimpses of future events as they pertain to the dance of hearts, the weaving and unweaving of relationships.  Their insights will reveal the joy and sorrow of romantic entanglements, but they may falter when asked about matters of wealth, power, or more mundane concerns.  In contrast, a prophet in the favor of Daikoku, the Fortune of Wealth, will see how fortunes rise and fall, how prosperity ebbs and flows across the landscapes of potential futures.  They may foresee how choices made today might impact the coffers of tomorrow, yet remain blind to the subtleties of romance, or the shifting dynamics of bloodlines.
+
+Wisdom Prophecy, thus, is a panorama painted in the hues of divine favor, a kaleidoscopic viewing glass through which the prophet discerns potential futures.  Each prophet must find their focus within the vastness, must hone their vision along the axis of their divine benefactor.  It is this specific gaze, this focused sight, that lends prophecy its power and mystery.  Within this discipline, two unique forms unfurl - Devotion Prophecy and Channeling Prophecy.
+
+Devotion Prophecy refers to a prophet's ability to deliberately focus their second sight on the interplay of potential futures, ever-shifting with the choices of gods and mortals.  Yet, it is essential to remember that the ability to divine the future does not come with unfettered access to all aspects of what lies ahead.  The prophet, despite their divine gift, is bound by the staggering complexity of the future's vast landscape.  The act of prophecy is not simply an act of seeing, but an act of choosing - a selection process that requires the prophet to focus their gaze on specific aspects of the future.
+
+This is where the unique characteristics of Devotion Prophecy truly shine.  The divine axis, a gift from the divine benefactor, acts as a guide, helping the prophet to navigate the immense complexity of the future.  Recall the gifts and limitations of prophets blessed by Benten or Daikoku, whose prophecies are focused on the realms of romantic entanglements or the fluctuations of wealth, respectively.  Each prophet's vision is attuned by their unique divine favor, providing a singular perspective into many possible futures.
+
+Channeling Prophecy represents a more intimate form of divine communication, where a prophet becomes a vessel for a divine being, almost always a Fortune.  The prophet calls upon their benefactor, inviting them to grant wisdom and even speak through them.  This process bears some resemblance to divine possession, yet it typically doesn't result in the prophet articulating direct words from the Fortune.  More commonly, the prophet experiences visions or snippets of insight, fragments of a divine perspective that they must then interpret and convey.
+
+In some respects, Channeling Prophecy is more potent than Devotion Prophecy.  After all, it is the Fortune themselves who direct the prophet's attention, showing what needs to be seen.  The prophet is not merely observing the possibilities; they are glimpsing truths or trajectories that the divine deem essential.  This direct involvement from the divine being can lend a weight and certainty to these prophecies that is harder to achieve through the personal exploration of Devotion Prophecy.
+
+However, this potency comes with its own limitations.  Unlike Devotion Prophecy, where the prophet exercises some level of choice in where to direct their gaze, in Channeling Prophecy the prophet has much less agency.  The divine being sets the agenda, guiding the prophet's visions according to their own divine will.  Consequently, the prophet may have less control over the areas of future they inspect, and their second sight is heavily influenced by the interests and priorities of the Fortune providing the vision.  This path offers powerful visions, but also demands surrender to the will of the divine.
+
+Covenant Prophecy represents a distinct relationship between prophet and divine entity, often a Fortune.  This discipline of prophecy stems from a compact or understanding between the mortal and the divine.  Due to its nature as a divine commitment, Covenant Prophecy stands as the more reliable prophecy discipline, provided the covenant remains intact.  These carry a certainty that others lack, for the gods themselves have pledged their future actions, under two forms of covenants: Sentinel Prophecies and Stratagem Prophecies.
+
+Sentinel Prophecies emerge when a divine being agrees to provide advance warning of a particular threat.  An enduring example is the pact between Osano Wo and the city of Komori, on the Island of Spice in the Mantis Isles.  As part of this divine covenant, Osano Wo warns of impending fires by causing the sky to turn red at dawn.  Thanks to this warning, the monks of Komori can alert the city's inhabitants to exercise caution and prevent larger disasters.  This covenant was established by Kumiko, the prophet who founded the Temple of Osano Wo in Komori, and has since served as an unyielding bulwark against calamity.
+
+Stratagem Prophecies often seem nebulous, especially when prophets leave instructions for plans to be carried out years or centuries after their death.  Consider the famous prophet Isawa Kimiko communicating the intention of Suitengu, the Fortune of the Fishermen, to have "The Sailor" reach "each of his destinations" prior to each of the Five Gosechi Holidays in "the Year of Mourning".  It was not until Kaito completed his now-famous journey that his dreams were proven to have identified him as the one responsible for saving the monks of Shizuka's Promontory and the Emperor's future wife.  Indeed, when Kimiko discharged her prophecy, it is likely that there were many possible men who could have been born into the role of "The Sailor", and for all we know, Kaito was one of many living candidates who accepted his role by setting out on the journey in fulfillment of Suitengu's covenant.
+
+Despite their ambiguities, Stratagem Prophecies hold an unerring promise: as long as those involved fulfill the prophecy's terms, they can be certain the divine being will uphold their commitment, ensuring the prophesied future will come to pass.  Covenant Prophecy, in both its Sentinel and Stratagem forms, thus represents an extraordinary level of cooperation and shared destiny between the mortal and divine.
+
+Still, the art of soothsaying is not a mere gift to those prophets kissed by the divine; it is also a skill, a discipline to be learned and refined.  The universe is a scroll of enigmatic symbols, teeming with whispers of the morrow for those patient enough to listen.  Augury, then, is a method to interpret these echoes, providing a lens through which to discern the subtle gestures of the cosmos hinting towards the yet-unfolded.
+
+This craft of augury splits into two branches of disciplines, both hewn from the same trunk of universal omens and portents, yet diverging in their paths of study - fortunetelling and divination.
+
+Fortunetelling is the leaf-level observation of the cosmic tree, where the winds of destiny are caught and interpreted for an individual's fate.  It is as personal as a fingerprint, intertwining the grand designs of the universe with the path of a single soul.  Fortunetellers practice in two main forms: astrology and augural readings.
+
+Contrary to popular understanding, astrology is not just about reading the stars, but also about contextualizing events within the rhythm of the celestial calendar, its holy days, and the personal horoscopes of those involved.  Astrologers align their readings not only with the moment of a person's birth, but with their position within their family, village, class, and society.  Their analysis encapsulates both cosmic and societal positions, offering a holistic understanding of an individual's life and goals.
+
+Augural readings, on the other hand, anchor their fortunetelling in the tangible and mundane, utilizing everyday items and occurrences as their oracles.  From tea leaves swirling at the bottom of a cup, the cryptic hexagrams of the I Ching, to the symbolic landscape of dreams, all become messages from the cosmos when interpreted through an augur's trained gaze.
+
+Divination, in contrast, scales to the heights of the cosmic tree.  It transcends individual destinies and delves into the grand currents of existence, charting the collective ebb and flow of communities and nations.  The questions divination seeks to answer are larger than any single life; they revolve around prosperity and famine, peace and conflict, bounty and plague.  This practice divides into two principal disciplines: prognostication and oracular divination.
+
+Prognostication is the art of reading omens and portents that presage broader events.  Prognosticators study the world, interpreting phenomena such as birds' flight patterns, the depth of winter's snow, or the ferocity of a summer storm.  They weave these signs into predictions about the future, estimating the bounty of a harvest or the risk of a looming disaster.
+
+Oracular divination, meanwhile, involves more direct solicitation of the divine.  Through specific rites and rituals, those trained as oracles can ask for and then subsequently interpret messages from the gods.  Their practices range from examining the entrails of a sacrificed chicken to scrying with a crystal to interpret the distortions of light and form revealed within it.
+
+Augury, then, is a means for ordinary men and women to listen to the whispers of the universe, to chart their path through the endless sea of potential futures.  It is the art of attuning one's mind to the cosmos, of deciphering the story told by the world around us, a narrative unfolding in every fluttering leaf, every star's twinkle, and every dream's tableau.
+
+### Examples of Omens and Portents
+
+Here are the 7 omens and portents which the Order of Daikoku was looking for in order to see whether there would be some kind of crop blight:
+
+1. A "pillar of cloud": A strange and ominous cloud formation appears in the sky, perhaps taking the shape of a pillar or tower.  The cloud should have been visible from a great distance and persisted for an extended period of time, heightening the sense of foreboding.
+
+2. Dead rats appearing in public places: Large numbers of dead rats should have started turning up in public areas, such as streets or markets.  The rats might have appeared to have died without any apparent cause or be arranged in a peculiar pattern.
+
+3. Strong winds in affected villages: A fierce windstorm sweeps through the region, causing widespread damage and destruction.  In some cases, the wind might be localized to the affected villages, or it might be a more general phenomenon.
+
+4. Prophetic dreams warning of the coming blight: People in the region begin having vivid and disturbing dreams about the crops being destroyed or overrun by a noxious growth.  The dreams might be accompanied by a feeling of dread or a sense of foreboding.
+
+5. Augural readings from divinations being performed to predict the coming crop: Those skilled in the art of divination perform readings to predict the quality and quantity of the upcoming crop.  The signs and omens that they read could be interpreted in a variety of ways, but they should have pointed to the same grim conclusion that the harvest will be ruined by a blight or pestilence.  Yet this did not happen.
+
+6. A blood rain: A strange and unsettling rain falling over the region, appearing to be colored red.  The rain would usually be accompanied by an unusual smell or taste, and it might stain the crops and the earth.  In Lion lands, a red rain is interpreted as a sign of impending disaster or a harbinger of war.
+
+7. A long dry spell - this one actually did happen, and is the only omen to have given any hint about the kumosaya blight.  It's unclear why this and only this sign was given, while all of the others failed to happen.
+
+These signs contrast with different omens and portents which might herald different types of disasters.  For example, the people of Toshi Ranbo worry about a city-destroying fire, and in addition to taking the usual precautions, their fortunetellers are on the lookout for the following:
+
+1. Fire in the sky: A fiery or reddish hue might paint the sky - this can manifest as unusually intense and persistent sunsets, and in severe cases appears as an Aurora-like phenomenon in the north that appears even though Toshi Ranbo is far from the poles.
+
+2. Unusual wildlife activity: Historically, abnormal behavior in animals is one of the most reliable signs of disaster.  In this case, a sudden increase in sightings of fireflies or salamanders within the city warns of coming fires, and in extreme cases birds normally seen around the city suddenly abandon their nests and leave the area.
+
+3. Smoke on the wind: Without any apparent source, a faint smell of smoke present in the air at all times warns of fires yet to come.
+
+4. Temperature rise: A noticeable increase in the temperature, far beyond what the season or weather would suggest, warns of the heat of the coming flames.  This could be gradual, but a sudden and unexplained spike in heat heralds the most devastating fires.
+
+5. Divinations of fire: Diviners and priests might start pulling fire-related omens in their readings.  They could be drawing lots related to fire, flame-themed I Ching readings, or seeing visions of burning buildings in their dreams or meditation.
+
+6. Ashen rain: A grayish, ash-like substance sometimes falls during rainfall, giving an eerie and ominous feeling of a burnt aftermath.  This typically warns of fires in the provinces rather than in the city itself, though it is rarely safe to count on such precision when interpreting signs.
+
+7. Strange flames: Fire might behave unusually, perhaps burning brighter and faster than normal.  Torches or candles may ignite or extinguish spontaneously, and fires in hearths could burn with strange colors.  The Damasu Ministry of Rites maintains an almanac of the various ways this can manifest and what each of the possibilities portends.
+
+Another set of examples would be that the people of Toshi Ranbo worry about the Drowned Merchant River flooding.
+
+1. River's murmur: Interested locals are diligent in listening for the sound of the river changing subtly - if it becomes louder then that foretells the levels rising abruptly, and if the normal sounds are replaced by a murmur that sounds like whispers or cries then disaster is surely ahead.
+
+2. Fish behavior: Fish and other river-dwelling creatures could begin to act strangely.  They might leap from the water more often, or be found dead on the river banks.  Particularly large or unusual fish might be caught - a fish with multiple heads is a sure sign of difficult times ahead.
+
+3. Water discoloration: The river might take on an unusual color.  A murky brown foretells stirred up sediment from increased water flow, and if the river becomes a deep, unnatural blue then disaster is certain.
+
+4. Erratic weather: The region could experience unusual rainfall patterns.  This could mean sudden, intense downpours, or persistent, drizzly rain over several days.  The changes might be localized, or affect the entire region - the former indicates that the flooding will affect the northern fields and the latter suggests that the entire region will soon be underwater.
+
+5. Divinations of Water: Those versed in divination might begin drawing lots related to water or experiencing water-themed visions.  A characteristic dream might involve being swept away by a river, or walking through the city streets while the entire world appears to be underwater.
+
+6. Blossoming river flora: Plants and flowers that grow by the river might bloom out of season, or grow larger than they normally do.  In severe cases, new types of water-loving plants might suddenly appear.  If this occurs in places where there is not yet sufficient water to nurture and sustain them, then it is certain that the floodwaters are coming, and the plants have taken up residence where they will soon be at home.
+
+7. Fog over the river: An unnatural, lingering fog might appear over the river, potentially even during the heat of the day.  This is the physical manifestation of the river attempting to expand its reach.
+
+As another example, here are the signs which the Damasu know to look for which warn of terrible outbreaks of disease which might ravage the city:
+
+1. Insect behavior: Swarms of insects, particularly those associated with decay and death such as flies or beetles, begin to gather in unusual places.  Observers report an unsettling increase in their numbers, and in severe cases even the appearance of insects normally unknown in the region.
+
+2. Unquiet spirits: Tales circulate of restless spirits sighted wandering after dark.  These spectral figures appear sickly or diseased, perhaps even bearing marks of the coming illness.
+
+3. The stench of sickness: A foul and unexplainable stench begins to permeate the air.  Despite efforts to identify the source, the smell persists, evoking a sense of decay and disease.
+
+4. Ailments in animals: Domesticated animals or city-dwelling creatures show signs of sickness.  This could be beloved pets, or even urban wildlife like birds and rats.  These creatures falling ill, especially en masse, is taken as a grim sign.
+
+5. Divinations of disease: Omens and divinations begin to suggest an impending health crisis.  Priests might have dreams filled with images of disease and suffering, or those casting lots might repeatedly pull symbols associated with illness or death.
+
+6. Aberrant blooms: Certain plants, particularly those traditionally associated with healing or disease, bloom out of season.
+
+7. Faint whispers: A soft, continuous whispering sound can be heard in certain quiet parts of the city.  Though the words are indistinguishable, the eerie sound is associated with the quiet spread of disease.
+
+## The Fortunes
+
+While some historical polytheistic religions have a concept of gods who are basically just humans with superpowers, I don't want that at all for my fictional setting of Rokugan.  The idea that the fortunes are part of the fabric of reality is a core part of the theology of my worldbuilding.
+
+In my version of Rokugan, one question which arises is why the fortunes do not give clearer direction to humanity.  Of course, this is a question real-world theologians have also had to grapple with in basically every world religion, and Rokugan is (as a reminder) intended to be "the kind of world historical people genuinely believed themselves to be living in".
+
+Kitsu Okura wrote the book "On the Relationship between Man and the Fortunes" 300 years ago, which sought to tackle this question.  He identifies what he calls "the six doctrines" which attempt to explain this mystery.
+
+Here is the introduction to that book, which I wrote as a "primary source document" for my players to read.  Hopefully this will help explain these concepts as well for the purpose of generating vows:
+
+We seek to know the will of the fortunes, to follow their guidance, to gain their favor, and to teach our children to do the same.  Few accomplish any part of this undertaking, for the ways of the fortunes are inscrutable.  Even those lucky and unlucky few whom the fortunes contact directly seldom comprehend the messages they've received.
+
+Why should this be?  Why do the fortunes not communicate their desires more clearly?  When their instructions are misunderstood, their wishes often go unfulfilled.
+
+I have traveled the world, combed through every library of note, and interviewed every living authority with wisdom to offer, from Isawa no Naka Kuro to Togashi Hoshi to the Council of Elemental Masters to the Qabal of the Sahir.  All collected wisdom on this topic divides roughly into six major doctrines, which I shall articulate herein.  All of them are wrong, and I shall explain in this treatise the particular failures of each to explain the immense complexity of the ways of the fortunes.  Yet each doctrine contains a glimpse of the truth, so by comprehending each well enough to studiously reject it, we bring ourselves closer to true understanding.
+
+What follows is a brief summary of the six doctrines, each corresponding to the lengthier section of my treatise in which I expound and catalog their merits and flaws.
+
+1. Just as we cannot truly comprehend the will and nature of the fortunes, they struggle to understand our limited minds.  Being so vast in their existence, the fortunes speak to us as we might attempt to communicate with worms.  The more attention and effort is brought to bear, the more danger the worm may be crushed by the weight of the superior being.
+
+2. The fortunes push against one another with their very existence.  Consider the forces which direct human behavior.  Fear, desire, regret.  Loyalty, compassion, courage.  Love, hate, joy.  When we break our normal routine to attempt some great endeavor, it means those forces within ourselves are out of proportion and an overflowing of some emotion spurs us to action.  So too with the fortunes, who collectively maintain the balance of the world itself.  When a fortune commands mortals to act, their instructions are muddied by the thousand other fortunes pulling in a thousand other directions.
+
+3. Our struggle to better understand their instructions is what the fortunes truly desire.  When the teacher sends his pupil on a pilgrimage, it is often the journey and not the destination which matters.  Likewise, after completing some great enterprise on behalf of the fortunes, we must consider whether the task itself was their goal, or the result it produced within us as we struggled to obey them.
+
+4. The fortunes desire only the greatest and most dedicated followers to be rewarded with their blessings.  Why should they squander power and effort on those who will fail to act without clear instructions?  By giving enigmatic directions, only their shrewdest and most resourceful disciples will succeed and prove worthy of being imbued with their power.
+
+5. Communicating their will unambiguously carries a high price, which is rarely worth paying.  Lesser spirits are easily understood by humans, but the fortunes must reduce themselves to such an inferior existence for a time when they choose to communicate clearly.  Why should they bear that burden when their mortal servants are already given sufficient direction to discern their will?
+
+6. The fortunes are vast in their existence, but humans are deep in our nature.  We are composed of many disparate parts, and a single fortune is the avatar of only a single piece of our composition.  While that existence has a weight far beyond mortal man, in a sense it is we who are the giants, for we are constructions of all the fortunes combined.  The fortunes are clear to any who listen, but we so rarely pay our attention to whatever small part of ourselves speaks their will that we wrongly call the fortunes unfathomable.
+
+Note that all of the above continues the running theme of the fortunes as cycle/connection entities which make up the fabric of reality.  Moreover, these doctrines highlight the dynamic nature of the relationship between the fortunes and humans.  Whether it's the struggle to understand their instructions, the selective rewarding of their most dedicated followers, or the transformative impact of undertaking tasks on their behalf, these doctrines suggest that the relationship with the fortunes is not just about receiving clear, direct guidance, but also about personal growth, self-discovery, and connection with the deeper truths of existence.
+
+This makes the concept of swearing a vow to a fortune all the more significant, as it's not just a promise to an individual deity, but a commitment to engage with a fundamental aspect of reality and existence.  This commitment is not just about following a set of rules or achieving specific outcomes, but also about embracing the challenge, uncertainty, and transformation inherent in the process.
+
+Some extra information about the names of fortunes in this setting follows, in case it matters.
+
+Many stories about fortunes involve a human becoming a fortune after their death.  This can be confusing because the aspect the fortunes represent always predates the death of that human.  When a human becomes a fortune, this generally means one of two things.
+
+In most cases of a human becoming a fortune, the person was so in tune with a particular fortune that upon their death their soul does not descend into Jigoku (the underworld) but instead becomes one with the fortune.  The Emperor will then officially recognize this, and thereafter anyone referring to that fortune will have a name that can be used to identify and connect to that fortune in their religious practices.
+
+In other cases, the Emperor may use his divine power to elevate a person's soul, causing them to become one with a fortune after their death.  This helps someone who is deemed worthy but whose life was too short to have reached this point on their own.  This helps both the person and all of humanity by providing the world with a name to which they can direct their prayers and offerings.
+
+In both situations, the fortune existed prior to the death of the human and being given a human name.  Many fortunes went by multiple other names in the days before the Great Ancestors brought civilization to humanity.  Although it is not heretical to refer to fortunes by other names, it's considered uncultured and demonstrates ignorance of proper doctrine.
+
+This is my way as the GM of resolving all of the stories of people "becoming" a fortune upon their death.  When a human "becomes" a fortune, it's more about the human's soul merging with, or becoming aligned with, a pre-existing facet of reality represented by the fortune.  The individual doesn't create a new fortune, but rather becomes part of an existing one, which reflects their deep connection with the principle or aspect of life that the fortune embodies.  The naming of fortunes, whether through recognition by the Emperor or association with a particular human, is a way for people to more easily understand, relate to, and connect with these complex and profound forces.
+
+In other cases a fortune has been identified by name without using a name which once belonged to a human.  For example, Bishamon, the Fortune of Strength, has always been known as Bishamon, rather than being named for any specific, identifiable human with that name.
+
+I mentioned "Doji Shizue and the Secrets of Calligraphy" before, and in Rokugan there is a play with that title.  In the play Shizue has sought out the advice of the shugenja Kitsu Okura.  The family line of Kitsu Okura denounces this scene, which is the only scene in which Kitsu Okura appears, though his descendants have declined to say which specific part is not accurate or fails to reflect their family understanding of the fortunes.
+
+Here is the scene, which I wrote as an in-universe example of how some people talk about the fortunes:
+
+### Doji Shizue and the Secrets of Calligraphy (Act 2, Scene 2)
+
+**Okura:**  Suppose that you were touched by the Fortune of obedience, whom I shall not name here.  Consider for a moment what would follow.
+
+**Shizue** *(frowning):*  Is there such a Fortune?  I have not encountered such in my studies, not in any library in the Empire.
+
+**Okura:**  Pfaw!  I spoke the word 'obedience' and you felt my meaning.  Are you foolish enough to doubt the existence of its Fortune simply because lesser scholars have failed to learn his name?
+
+**Shizue:**  Apologies.  What effect would result from being touched by the great Fortune of obedience?
+
+**Okura** *(sharply):*  Did you not tell me you'd studied such things?
+
+**Shizue:**  Yes of course.  I imagine... my loyalty to my lord would increase, while my subordinates' loyalty to me would likewise increase.
+
+**Okura:**  Ha!  You assume a human sensibility from a divine being.  Obedience is not loyalty, and it is loyalty rather than obedience which Akodo identifies as a virtue of bushido.  And your Fortune would care nothing for any virtue, only that you obey your orders without thought, question, or hesitation.
+
+**Shizue:**  I see.  I would need to cleave my own judgement apart from my loyalty, leaving merely dumb obedience.  Only then would my service to the fortune be rewarded.
+
+**Okura:**  And what do you imagine your reward would be?
+
+**Shizue:**  Good luck and prosperity, especially in the sphere of the fortune's influence.  My lord would know I would never betray him - could never betray him - and would grant me authority over many households.  Those under me would find themselves possessed of a share of the same obedience I cultivate in myself.
+
+**Okura** *(amused):*  You are not... entirely wrong.  Yet you underestimate the cost of your service, as well as its rewards.  Tell me, if your obedience increased beyond normal human capacity, what pieces of yourself do you imagine would likewise decrease?
+
+**Shizue:**  Certainly all forms of treachery... but that would not be enough.  By choosing dumb obedience, I would sacrifice away my capacity to pass judgement and decide right from wrong.  Taken far enough, I may lose even the ability to comprehend what outcomes my actions may have, since all that would matter to me is that I obey my lord.
+
+**Okura:**  Indeed.  You would find yourself with the contentment of the Enlightened, blissfully instrumenting your daimyo's will.  Yet you might also struggle to remember, as you looked at the faces of your children, what it means when they smile or frown.
+
+**Shizue:**  Oh my.  Can any balance be struck?
+
+**Okura** *(derisively):*  With the Fortune of obedience?
+
+**Shizue:**  Oh.  I suppose not.  If my daimyo wished otherwise, I might be unable to choose balance over extremity.  Given time, I might be unable to even comprehend the concept.  But surely this is not the case with every Fortune!
+
+**Okura:**  Are you a gambler?  If you find such consequences unacceptable, would you still choose this path on the wager that you escape them?
+
+**Shizue:**  ... for the sake of my family I would sacrifice anything.  Even my humanity, though I pray this shall not be required of me.
+
+**Okura:**  Then answer me this: what separates the Seven Fortunes of Good Luck from the remainder of the Thousand Fortunes?
+
+**Shizue** *(confused):*  They are the Great Fortunes, and the remainder are the Lesser Fortunes.
+
+**Okura** *(forcefully):*  Wrong!  There is no Greater or Lesser, any more than a chain has a greater or lesser link.
+
+**Shizue:**  Why then are the Seven elevated above the rest?
+
+**Okura:**  An intelligent question!  Hard enough to comprehend why it should be asked, and harder still to answer.  Name the aspects of the Seven Fortunes.
+
+**Shizue:**  Romantic Love.  Strength.  Contentment.  Wealth.  Longevity.  Honest Work.  Mercy.
+
+**Okura:**  A strange assortment of things.
+
+**Shizue:**  I'd never considered... how were these Seven selected?
+
+**Okura:**  As you know, by the Hantei in consultation with the Shinsei through wisdom far beyond either of us.  But you ask the wrong question.
+
+**Shizue:**  Ah.  To what goals did the Teacher and the Son of Heaven aspire in their selection?
+
+**Okura:**  You shall not believe me.
+
+**Shizue:**  I shall!
+
+**Okura:**  All extremes lead to disaster.  The Fortunes are extremity itself.  Yet it is by their favor that humanity has won its way into the Age of Man, so we must court disaster through worship of those extremes.  The Seven Fortunes are the least disastrous combination of extremities.
+
+**Shizue:**  I... can see the disaster in tragic love, the immoral acquisition of wealth, the brutality of war... but certainly there is greatness as well as disaster.
+
+**Okura:**  Indeed.  And that is the balance you seek.  Not between the Fortune's values and your own, but between greatness and disaster.  And not the middle ground between them, but the future which encompasses both in equal measure.  Is that what you seek?
+
+**Shizue:**  I... don't know.
+
+**Okura:**  Had you given any other answer, I would have sent you away.  But I think I can see the shape of your future.  I shall describe your destiny to you, and then you may decide whether to walk away.
+
+*End Scene*
+
+The description which Kitsu Okura gives in this fictional account of a real encounter is not strictly heretical, though it differs from how the 7 Major Fortunes of Good Luck are generally described.
+
+With that being said, one concept which the wise do understand in Rokugan is the extent to which being closely connected with any Fortune, or indeed any divine being, profoundly changes any human being.  Someone might set out to gain the power of a Fortune because of some goals, and by the time they have attained the favor and power with which to accomplish that goal, they find their original plans no longer hold value to them.
+
+### The Man Who Sold His Destiny
+
+**He will offer no answers, only questions.  Hesitate before answering, and ask no questions yourself.  Pay heed to the danger in any question whose answer seems obvious.**
+
+"A few years before my gempukku, I visited Kyuden Mirumoto.  While my uncle attended his duties, I was free to wander the city, content to lose myself exploring its streets and alleys.  As the colors and smells around me began to shift, I perceived them only as different from my home, not recognizing their unusual and alien nature.
+
+"Feeling eyes on my back, I turned to face an oddly familiar man.  Even at a distance, the intensity of his gaze unnerved me.  After a few moments he broke into a sprint towards me, paying no heed to the strange folk around us.
+
+"I fled into a nearby alley, not slowing until I'd twisted through enough side streets and buildings that I was confident I'd lost my strange pursuer.  I said nothing to my uncle that evening, driven by a childish worry that my freedom of movement on this visit might be restricted.
+
+"Ten years later I returned to Kyuden Mirumoto.  Even having taken over my uncle's responsibilities, I still found time to return to my youthful wandering.  This time I noticed as the clothes became more foreign and the smells more otherworldly.  As I stopped to ponder this, my eyes fell on a young boy walking ahead of me.  He turned, and at once I realized that I was looking upon myself as a child.  I knew he was about to flee, so I ran towards him with all my speed, trying to remember the routes I took all those years ago, but I soon lost sight of the boy.
+
+"I retraced my steps looking for those same streets, but after weeks of walking every inch of the city from every direction I have found only the mundane and ordinary."
+
+I paused to gather my thoughts.  The monk asked no questions, so I continued.
+
+"I have asked abbots and shugenja and fortune tellers about what meaning this might have, and what I should be doing about it.  When I heard of the prophet Baiten who could interpret dreams and omens, I hoped he would offer true wisdom rather than guesses and conjecture.  But I had just been appointed a county magistrate, and I worried that I would be seen to be neglecting my duties if I took such a long journey too soon into my tenure.
+
+"When I heard about the murder of the prophet, I asked after others in the Empire with the wisdom to guide me.  Grand Abbot Okawa was widely believed to be such a man, so I resolved to make a pilgrimage to Ryoko Owari to seek his counsel.  But I again hesitated and delayed my journey to focus on my career.  When I learned that Okawa was killed on the Day of Thunder, I despaired at the thought that there might be no one now living able to guide me."
+
+Again I paused, waiting for a question.  After long moments of silence I continued.
+
+"I am convinced that my experience was a sign to set me on the path to accomplish something.  I now see that I was so focused on worldly matters that I may have put my life's true purpose in jeopardy.  I never would have chosen to sell away my destiny for temporal power, but I fear that is what I may have done."
+
+"You are correct", Hoshi finally spoke.  "You will never unravel the meaning behind these events.  Whatever destiny was offered to you has been lost forever.  Nothing you do will ever change that."
+
+My stomach clenched, and in my shock and despair I struggled not to scream or vomit.  *He will offer no answers, only questions.*  I fought against anger and disbelief that in this of all situations the monk would offer plain and uncryptic truth.
+
+"What will you do now?"
+
+I stared at him in bewilderment as I worked to slow my breathing and calm my pounding heart.  I opened my mouth to demand to know what care he had for my future.  *Hesitate before answering, and ask no questions yourself.*  I closed my mouth.
+
+Would I continue seeking the answer to my question, hoping that dedication in the face of futility might restore my favor with the kami?  No, there is no wisdom in self-deception and seeking out failure.
+
+Would I take my best guess and forge ahead, attempting to fulfill a destiny I understood nothing about?  Pure folly.
+
+What could I do but return home to the life I'd chosen, just as I'd have done after serving my purpose...
+
+The world shifted around me as I glimpsed the future I might have had, returning to an ordinary life, content at having justified my existence.  I would have sought a high position, perhaps becoming a minister or even chancellor, and certainly a role model for my family.  But I would have still been shackled by the same mundane concerns that caused me to shirk my responsibilities to fate itself.
+
+Hoshi's patient gaze demanded no immediate answer to his question, so I re-folded my legs into the half lotus and dropped back into meditation.  In the minutes or hours that followed, I had my first vision, which no words can describe, for the vastness of the way of the interconnectedness of all things is beyond human expression.  I can say only that I perceived my futures, stretched out before me, each one tied to the choices that could make it real.  Although my visions were not yet as clear as they would later become, I saw clearly the shape of my new life.
+
+"My atonement shall be to achieve even more than the destiny I have rejected.  Career, prestige, lineage, these have been my chains, holding me from acting outside of my appointed responsibilities.  All the problems of the world belong to me now, and I will spend my life and death to solve each one as I encounter it, no matter the cost."
+
+For the first time, Hoshi smiled.
+
+"Would you like help?"
+
+> [Note from Yuki: because of the pages missing from sensei's autobiography, I'm not sure if there's more to this chapter.  I'll investigate further before this is published.]
+
+### Between Places
+
+The focus now returns to Rokugan itself, specifically some miscellaneous setting details worth highlighting.
+
+The Forgotten Tomb has been referenced repeatedly above, as a recurring example of a general category of place known as one of the "between places" - places which are coexistent between two different realms.
+
+Here's another introduction that I wrote for a different adventure, in which the PCs journeyed deep into a cave to meet with a gaijin shaman-woman who they believed had wisdom to share with them:
+
+The morning light fades quickly behind you, being already mainly blocked by the Twilight Mountains.  As you walk deeper into the cave, the light from your lanterns begins to spread out in front of you.  Normally a lantern radiates light, illuminating closer things more brightly than distant surfaces.  But as you walk into the tunnel, you find that very little light is cast behind you, and the light in front of you is so dissipated that it creates the effect of an ambient glow, illuminating the passage evenly.  You quickly find that you can see the turn in the tunnel 20 feet ahead of you as clearly as the hand in front of your face, though the same does not apply to the path behind you, into which the light quickly scatters and disperses into the darkness.
+
+As you go deeper, you find that the smoke from your lantern also intensifies, but without the lantern itself flaring as it would if it encountered marsh fumes or mine gases.  Instead, the smoke rolls out in waves onto the floor ahead of you, being carried faster and more intensely than the slight breeze at your backs can account for.
+
+Eventually you come to a dip in the passage, where most of the tunnel is submerged in water.  The water is quite cold, and ordinarily you might prefer to avoid it as much as possible, to avoid frostbite or worse.  But the smoke from your lantern seems to have multiplied, possibly joining some existing smoke hovering above the water.  Indeed, the smell of the smoke has shifted, the oily smoke of your lantern mixing with the smoke from some other fires which must be burning ahead.  As people familiar with mines as "silver miners", you feel confident that the vapors you're encountering are not the "damps" of mine gases, and in fact the smoke seems unnatural.
+
+You are entering one of the "between places".  People have sometimes gotten lost in the Shinomen Forest only a hundred miles from the Gateway to the Land of the Burning Sands and exited the Isawa Woodlands in Phoenix lands.  The Shifting Islands around the Mantis Isles are another example, where children playing have fallen asleep and woken up off the coast of Otosan Uchi.  Depending on the makeup of this place, you might find an exit out into the Ivory Kingdom.  Though of course, the most dangerous type of "between places" are the ones which are coexistent between different realms.  The Forgotten Tomb simultaneously exists in the mortal world and in Yomi, the realm of the honored dead.  Regardless of what type of place you are in, this may be your last chance to turn back.
+
+### 3rd Imperial Legion Backstories
+
+With that autobiographical entry complete, here are some backstories of NPCs who are legionnaires in the 3rd Imperial Legion, which is stationed on the Kaiu Wall which protects the Empire from the Shadowlands, where my "Kaiu Wall" campaign took place.  Some of these backstories rely on the understanding that the human body can expel and heal itself from small amounts of Shadowlands taint, but that with enough of it the taint settles into your body permanently, making you forever tainted.  Also note that all of these 3rd Imperial Legion backstories are being told by an unreliable narrator, an unnamed courtier who is relaying these stories to an unknown third party (these letters were found in the office of Kuni Yori following his execution, though they were clearly not addressed to him as they refer to him in the third person):
+
+#### Matsu Tsutomu
+
+The legion's general is Matsu Tsutomu.  When assigned to the Wall during his first tour in the Imperial Legions, Tsutomu was almost killed while on a raiding party.  He and his comrades had been assigned to clear out a horde of goblins about 80 miles from the Wall.  What the Hiruma scouts had failed to realize was that a family of ogres had taken control of the horde and merged it with other nearby hordes.  The battle was intense, with heavy losses on both sides, and most of the raiding party was killed.
+
+As his strength began to fail, Tsutomu felt himself possessed by one of his ancestors, who fought for him and through him.  He charged at the only surviving ogre and finished it off with an inhuman display of strength and skill.  The few remaining goblins fled, leaving only five men left alive in the platoon.
+
+Before his ancestor departed, Tsutomu was told that this was the first of three battles he would fight against overwhelming odds against forces from the Shadowlands.  Only through great courage and strength and cunning would he survive the next two encounters.  His ancestor left without even revealing her name, though Tsutomu later learned through research and augury that it was Matsu Mori, who died gloriously fighting against the Maw.
+
+Tsutomu eventually reenlisted in the Imperial Legions and volunteered to be sent back to the Wall, eager to fulfill his destiny no matter the risk to himself.  He trained obsessively to make himself stronger and studied all the Shadowlands lore available to him.  His skill and expertise led him to quickly rise through the ranks of the Legion, and by the time he reenlisted for a third tour he was already a Company captain.
+
+Nine years after his first great battle, Tsutomu was leading another raiding party, which came across a small nest of goblins.  The goblins fled immediately upon seeing the superior force, but they ran away from the water of the closest swamp and instead headed into the trees of the nearby forest.  Tsutomu was suspicious and sent his best scouts ahead of the platoon to determine whether this was a trap; goblins are occasionally capable of such trickery, and ogres who dominate local goblin hordes can be extremely cunning.
+
+Sure enough, his scouts returned with reports of a far larger force than the platoon could comfortably defeat, waiting to surround them once they entered the trees.  Tsutomu worried that if he turned back to get reinforcements, they would be followed and might not be able to win the battle, even on open ground.  So instead he had his men retreat to the closest hill and hastily construct what fortifications they could.  His scouts crept to the edge of the forest and shot the closest goblins they could find, making much noise before running speedily back to the fortified platoon.  The goblins' nature compelled them to give chase, and soon the entire horde was rushing to the top of the hill to confront the platoon.
+
+Even with their successful plan, it was a grueling fight, and nearly a third of the platoon was killed before the goblins' resolve broke and they fled.  Tsutomu was once again hailed as a hero, and eventually promoted to Battalion commander.  He further gained more respect from the Crab by quelling discontent against the Hiruma scouts who had once again failed to gather accurate information on the size of the goblin hordes less than 100 miles from the Wall.
+
+A few months later while visiting his home in Matsu lands, Tsutomu awoke in the middle of the night in a cold sweat, terrified that his homeland would be attacked by Shadowlands forces.  He could not remember his dream, but the thought was crystal clear in his head that his presence was putting his homeland in danger.  Shaking uncontrollably from the weight of divine revelation, Tsutomu realized that because he was destined to once again face overwhelming Shadowlands forces, the further he went from the Wall, the larger a Shadowlands force would be required to smash through the Empire's defenses to reach him.
+
+Panicked, he departed immediately, and despite the protests from his family he declared that he would not return home until his destiny had been fulfilled.  Many have privately mocked him for holding such a narcissistic belief that he might destroy the Empire simply by traveling north.  Others have respectfully attempted to educate him on the traditional doctrines on prophecy, explaining that such fears are unfounded.  Tsutomu is unwavering, and contends that even if the chance of catastrophe is small, any risk of such absolute destruction is unacceptable.  Even most who deride his concerns are moved by his sense of duty and self-sacrifice.
+
+It has now been almost two decades since his last great battle.  Now that he is well into his 40s, many wonder how long he can remain in command before being forced into retirement.  Tsutomu is convinced that the Day of Thunder heralds dangerous times ahead, and believes it will not be long before his destiny is fulfilled.
+
+Here's a much shorter example:
+
+#### Mirumoto Uta
+
+Mirumoto Uta is a samurai merchant who works as a supply sergeant for her battalion in the 3rd Imperial legion.  She is acquiring a reputation as a degenerate gambler, and many believe that if she were not wealthy enough to sustain the frequent losses that all gamblers face, it would put her position and career in jeopardy.  She has explained that she doesn't gamble for the money or the thrill, but as a form of fortune telling.  It is well known that luck ebbs and flows like the tide, with peaks and troughs like waves on the beach.  By gambling regularly to measure whether her good fortune is waxing or waning, she can choose opportune times to volunteer for missions in the Shadowlands.  Uta attributes her success in goblin battles to this practice.
+
+#### Matsu Kiyora
+
+Of course, many in the legion prefer more traditional prayers and offerings.  Consider the case of Matsu Kiyora:
+
+The second time Kiyora went into the Shadowlands, her raiding party successfully slaughtered a small horde of goblins.  No one was killed, though Kiyora sustained heavy injuries.  She could feel her wounds festering as they journeyed back to the Wall, and by the time they rejoined civilization, Kiyora knew that she had become irrevocably tainted.  The healers told her to wait and see, cautioning her that many rookies become wrongly convinced of their own doom after their first Shadowlands battle, but Kiyora knew the truth.
+
+She awoke the next morning feverish and nauseous.  The clear blue sky seemed tinted and joyless, and the fresh air felt wrong in her lungs.  She fled to the nearby woods, but even walking through the pristine beauty of nature offered no trace of happiness.  Feeling increasingly weak and exhausted, she knelt and drew her wakizashi, contemplating an honorable death in seppuku as the only thing left for her.  Half-delirious, she despaired that even in death the taint would not leave her body, and she wondered what would become of her spirit after it departed its corrupted shell.
+
+Hearing a noise, she looked up to see an unnaturally large wolf not 20 feet from where she knelt.  As it crept towards her, she could see that it was no ordinary animal, and she dropped her wakizashi and prostrated herself, offering her body to the spirit.  She understood at that moment that being consumed by this creature would purify her in death, and the wolf could lead her spirit into Jigoku in payment for her sacrifice.  As the wolf came nearer, she pressed her face to the earth in supplication.  The last thing she remembered was its breath on her neck before she blacked out.
+
+Kiyora awoke some time later, alone and confused.  She remained weak, but felt somehow also rejuvenated.  Though still sick and queasy, her appetite had returned.  As a light breeze wafted through the trees, she felt the beauty of the forest and knew that she had been saved.  Though the taint was still within her, it had been decreased by the spirit wolf such that her body now could fight against it and drive out the rest.  She wept with praise and gratitude, and staggered back to base to tell the others of her miracle.
+
+Though some have wondered whether Kiyora's tale is merely the fever dream of a hysterical rookie, many soldiers have joined Kiyora in leaving gifts and offerings in the forest and praying to the wolf spirit, asking for the same aid if ever they too should fall to the taint of the Shadowlands.
+
+#### Isawa Koichi
+
+Another legionnaire from the 3rd Imperial legion is Isawa Koichi.  As background: in this setting, the Day of Thunder was different from the canonical L5R storyline, and it involved a cult of Lord Moon trying to stage a coup and take over several of the Great Clans in order to destroy the authority of the Emperor (who is more aligned with Lady Sun).  Prior to this time, the worship of Lord Moon was much more tolerated, and even afterwards it has not been declared heretical, since the Empire does not wish to declare itself in opposition to the Lord of the Night Sky, lest it suffer the consequences of his displeasure.  However, there are many more restrictions placed on moon worship than there were before (Lord Moon is not a fortune, but rather a celestial entity, if that matters).  With that in mind, here is Koichi's story:
+
+Koichi is a tracker who hunted bandits in the Isawa woodlands before being assigned to the Imperial Legions.  She once tracked a group of bandits into the woods after following the tracks they left from robbing a caravan, but she soon lost their trail.  Reasoning that few bandits actually live in the woods, she took a chance on them returning to their peasant homes that evening.  After darkness fell, she was vindicated as she saw lantern light in the distance through the trees.  Following behind, she tried to draw close enough to avoid losing track of them, but she ended up stumbling upon one of the bandits who had not bothered to light a lantern.
+
+He shouted for his comrades and attacked even as she drew her katana.  Though she managed to dispatch him, she was now wounded and feared she could no longer run as quickly as she needed to escape her pursuers.  As her lungs burned and her wounds bled, she prayed to whatever kami were listening to deliver her from this danger.
+
+Suddenly she found herself stumbling into a small clearing.  The full moon shone overhead far more brightly than she remembered, enveloping her in its radiance and conveying a profound sense of peace and safety.  As she stepped into the center of the clearing, she looked up at the stars and found she could not recognize any constellations.  As she sat down to bandage her wounds, she periodically looked skyward to thank Lord Moon for offering her shelter.  Each time the night sky seemed different, as if the stars themselves were moving either too slowly or too quickly for her to track.
+
+The next morning Koichi returned home safely, and was eventually able to uncover the identities of the surviving bandits.  She recounted her tale and credited Lord Moon's favor for the arrests, and she began carrying obsidian with her to observe and solicit her good fortune.  She searched the woods for the clearing where she'd accepted sanctuary, but she was unsure whether it was any of the clearings she found, or whether she had even been in this world while taking refuge that night.  She commissioned obsidian figurines to bury in all the clearings in that area, and she burnt incense and prayed her gratitude as she meditated in the forest.
+
+After the Day of Thunder, Koichi found herself looked upon with suspicion.  Lord Moon's favor had become a mark of ignominy, but she was unwilling to forswear her benefactor.  She declared her undying loyalty to the Empire and swore she would never turn against Lady Sun or support any cult of Lord Moon, but neither could she show herself ungrateful.  After all, while the Emperor had recently declared it heretical to pray to Lord Moon from within any temple consecrated to Lady Sun, he had not forbidden his subjects from praying to Lord Moon in general, lest the Empire suffer the consequences of his displeasure.
+
+Still, Koichi found herself marginalized, and eventually volunteered for the Imperial Legions, as that was the only promotion she found herself able to get.  Unfortunately, her reputation has followed her to the Kaiu Wall, where she has encountered similar hostility and suspicion.  Kuni Yori recently visited to interrogate her, and afterwards assured everyone that her loyalty was not in doubt, though he did not say what tests he performed.  Koichi has been ordered to not share any details of their meeting, and she seems haunted by the experience.
+
+Koichi later befriended a well-educated monk named Kouji who was too young to have deep wisdom but who had also struggled against the supernatural and been touched by it.  Though neither was able to answer the most important questions that the other faced, their friendship and collaboration ended up helping both of them navigate both the spiritual challenges and political adversities they each faced.  Kouji helped her to craft a vow to Lord Moon, which she had previously been nervous about swearing, because of the dangers of people thinking it implied disloyalty to the Empire.
+
+Koichi had three requirements for such a vow:
+
+- she will perform some form of appropriate nightly prayers, which she will perform in the absence of any external light source, illuminated only by moonlight
+
+- as she was protected in the nighttime, she will protect any who seek her protection, and she will come to aid in any kind of warrior duties which take place at night from any who ask it of her, and she will continue to do this until they release her from those duties, regardless of what clan or family they are from
+
+- the vow needed to incorporate loyalty to the Empire, and make it clear that neither of the above requirements of the vow may override her loyalty to the Empire, and she may not be forced to ever perform any duty contrary to Imperial law
+
+Kouji was thus able to suggest this wording for Koichi's vow:
+
+"In the sight of all that is, under the timeless gaze of Lord Moon, I, Isawa Koichi, swear a solemn vow.
+
+Each night, when Lord Moon ascends his throne in the celestial heavens, I shall pay homage with earnest prayers and silent reflection, carried out in the purity of his luminous glow.  As he once bathed me in his protective light in the heart of the Isawa Woodlands, so too will I embrace his guidance in the quiet of the night, absent of all other light, a testament to our fateful meeting.
+
+Just as I was sheltered by Lord Moon's radiance amidst danger, I too shall extend my protection to those in need.  As a warrior and servant of the Empire, to any who seek refuge in the quiet of the night, regardless of clan or family, I will provide aid and stand as their shield, until they see fit to release me from such duties.  The cry for assistance in the hush of the night shall not go unanswered, for in me they shall find a vigilant protector, an embodiment of Lord Moon's protective glow.
+
+But let it be known, my devotion to Lord Moon is woven within the fabric of my unwavering loyalty to the Empire.  This vow I swear, the promises I make, and the duties I undertake, shall never overshadow nor undermine my fidelity to the Emperor and the Imperial law.  My actions shall reflect my honor, my strength, and my commitment to the Empire.
+
+Lord Moon, hear my vow, a testament to our bond and a reflection of my gratitude.  May your light guide me in upholding my word, as I navigate the path of honor, service, and loyalty.  This I vow, under your watchful eye, and in the service of our glorious Empire."
+
+#### Matsu Tonami
+
+Here's another story, this one also semi-tragic, about another member of the 3rd legion named Matsu Tonami:
+
+Ever since the first time Tonami saw combat in the Shadowlands, she has been plagued with nightmares about being attacked by Shadowlands creatures.  In her dreams she sees her comrades die around her and feels herself being killed and devoured by monsters until she wakes up shaking or screaming.  She believes she was marked by an oni while in the Shadowlands, which attacks her in the dream realm while she sleeps.  Such things have been known to happen, but it's extremely rare and such dreams usually stem from a lack of courage.  Many soldiers are granted transfers away from the Wall if they cannot handle the stress and danger.
+
+Tonami knows that such a transfer would mark her forever as a coward, so she resists any suggestion to transfer away.  Instead, she has volunteered for more raids than are required, and has consistently demonstrated unflinching courage in the face of danger.  Some have whispered that she is simply making a show of bravery while being secretly terrified, though others argue that true courage is about overcoming fear rather than feeling unafraid.
+
+Tonami eventually volunteered for a second tour on the Wall, attempting to put to rest any suspicion that her dreams come from cowardice or that she shrinks from danger.  She has taken to camping in the nearby woods where Kiyora was blessed by the wolf spirit, praying for it to also assist in her own struggles against the forces of darkness.  Even if the wolf spirit never answers her prayers, at least she will not disturb her comrades when she wakes up screaming, which has been happening with increasing frequency as she goes on more Shadowlands missions.
+
+Tonami recently solicited aid from the shugenja Kuni Yori, but he refused, saying there was nothing he could do to help her.  He further declined to offer any guidance or even his opinion on the nature of her affliction.  Tonami has wondered aloud about the motives behind this odd refusal.  Such incuriousness is uncharacteristic of the Kuni, and this has made her further convinced that her predicament is strange and supernatural in nature.
+
+(Consider how this story is also ambiguous - a modern reader would be likely to interpret Tonami's affliction as psychological in nature rather than supernatural.  However, in addition to the themes of ambiguity, Tonami's circumstances continue to drive her behavior now.)
+
+#### Shiba Asayo (3rd Legion)
+
+A much less sad and unpleasant story is the leadership of lieutenant Shiba Asayo:
+
+Asayo is a courtier who met the customary skepticism that most bushi feel for any courtier assigned to the Wall.  Many feel nervous about going into battle alongside a man who isn't a warrior, far preferring bushi comrades who are maximally trained in combat.  They were further suspicious of his seemingly foppish nature, as his main interests are playwriting and painting.  However, he has proven himself in battle and in the dojo enough times that no one who has fought against or alongside him has any concern about his worthiness.
+
+Before each mission into the Shadowlands, Asayo paints one half of a painting, then finishes it after his return.  The first half is itself a complete (if spare) work, and the second half fills in details which often change the overall meaning of the piece.  He expects that if he falls in battle against the forces of evil then his final "unfinished" painting shall be quite a collector's item.  He has gifted some of his finest works to high-ranking officers and visiting officials, and his art has become well regarded, especially since each painting has an associated (though often exaggerated) story from his mission.
+
+As he progresses in mastery of his art, Asayo increasingly finds himself in a sublime and almost trancelike state as he paints, as the process of the great masters has been described.  Just as a swordsman is told to strike with no thought, so too has Asayo begun to create with a clear mind and let the brush move of its own accord.  Eventually he began noticing details in his half-finished works that he does not remember adding, which he recognizes as a sign that he is on the path to becoming one of the transcendent masters.
+
+About a year ago, when returning to finish a painting after a mission, he started noticing details which reminded him of places or objects he encountered while in the Shadowlands.  It's always subtle, such as an oddly shaped branch or the curve of a rocky stream, but it has now happened enough times that he has begun sharing his unfinished works.  Reactions are mixed, but many have recognized details in his unfinished paintings later appearing in the Shadowlands.  Some of Asayo's comrades have taken to scrutinizing his half-finished works before they embark on a mission with him, looking for signs and omens.
+
+(Asayo's later arrival in Toshi Ranbo and his honors are covered under [Shiba Asayo](#shiba-asayo).)
+
+Here's one more story about a legionnaire from the 3rd Imperial legion:
+
+#### Kitsuki Fu
+
+After being assigned to the Imperial Legions, Kitsuki Fu was first stationed with the 2nd Imperial legion at Beiden Pass.  The legion there is expected to maintain a sizable force in the mountain pass itself, but the soldiers far prefer to spend their time in the nearby city of Ryoko Owari.  People often make arrangements to cover for one another so they can spend extra time in the city, but sometimes due to poor planning or plain irresponsibility people simply fail to report for duty.  Fu was assigned to a squad tasked with recording these absences, tracking down wayward soldiers, and returning them to Beiden Pass for discipline.
+
+One day as Fu set about her usual routine, she found herself with the odd feeling that she was neglecting something important.  She set aside those concerns to focus on the day's work, but that night she reviewed her journal to check for notes or reminders.  She was shocked to learn that she had been investigating a disappearance of which she had no memory.  Fu asked her colleagues, but none of them could remember anything about it.  She took more notes and wrote down her reactions, then wrapped her journal around her daisho in case she awoke the next morning with another hole in her memory.
+
+Fu woke without forgetting her evening's work, but found that the pages she had been studying were missing.  Her entry from the previous night was still present, but all other pages from the past week were gone.  Panicked, she began poring over the legion's attendance records to see who might be missing, and insisting that her colleagues begin constantly journaling their own activities and reviewing those journals daily.
+
+The next night, Fu found herself in the room of her company captain.  As she came back to herself, she found herself being shaken awake even as she realized she was burning the journal she had convinced him to begin keeping.  It was later discovered that she had also destroyed the attendance records as well as all records of the soldiers currently assigned to the legion.
+
+Fu was terrified, and insisted that some sinister force was at work and anyone could now be in danger, perhaps of being eaten by an oni which consumed even the memories of its victims.  The prospect was frightening (if unlikely), so much work was done to determine whether anyone was missing, and new procedures put in place to detect any such disappearances in the future.  Fu insisted that the measures were laughingly insufficient and became belligerent at any suggestion that she was overreacting.  It was pointed out that the only sign of anything awry was her own behavior, and perhaps she had become possessed by some spirit.
+
+A shugenja was called in, who confirmed she was not currently possessed, though this did not prove she had not been possessed at some time in the past or that she would not again fall victim to possession in the future.  As she became increasingly confrontational and hysterical, she was eventually demoted and transferred to the Wall, where the officers had far more experience keeping an eye on soldiers who might be suffering evil influences.
+
+Fu eventually realized that the only way to see the investigation through was to prove her sanity and level-headedness to her superiors in her current post.  She has stated that she wishes to demonstrate her clear thinking and sharp intellect so that her superiors can write letters of recommendation and send word that this matter should be given more urgency than it has previously received.  Because she had been near the end of her tour of duty, she reenlisted to give herself more time to gain the recommendations she requires.
+
+After the Day of Thunder, Fu felt vindicated and she suspects that Lord Moon's servants may have had some hand in this matter.  She has gotten word that this investigation has received increased scrutiny after it was revealed that some in the Scorpion Clan had fallen under Lord Moon's influence, but she remains convinced they are not doing enough.  Fu intends to return to Ryoko Owari after this tour of duty to hunt for whatever monster lurks in the shadows there.
+
+In the meantime, Fu keeps a meticulous journal and has developed an obsessive system of indexing its pages, then carving the index into wooden planks she nails to the walls of the barracks.  She reviews the journals regularly and checks for missing pages to ensure that no more of her memories are stolen from her.  Thus far she has had no further missing time, which only confirms that the danger is centered on Ryoko Owari and Beiden Pass.
+
+Note that Fu's backstory was explained by the story of the Nameless One, though Fu did not have this explanation at the time of the 3rd Imperial Legion campaign.
+
+### 1st Imperial Legion Backstories
+
+Here are some more backstories, this time from the "Hidden Way" campaign, which took place next to the 1st Imperial Legion encampment.
+
+The 1st Imperial Legion is tasked with guarding the Gateway to the Land of the Burning Sands.  The Emperor's second son traditionally commands this legion starting at his gempukku, giving him valuable leadership experience while keeping him away from the temptation of entangling alliances with those who might seek to subvert the authority of the crown prince.  Located on the western frontier of the Empire, this post ends up being mostly ceremonial since it has been centuries since the last gaijin invasion.
+
+A recurring element in this campaign was stories about people being haunted by ghosts.  The pattern has come up before; more examples follow:
+
+#### Matsu no Moyu Kazushi
+
+Here's more information about Matsu no Moyu Kazushi's own experiences with ghosts and hauntings, which he denies strenuously:
+
+A former member of Matsu Gohei's command staff, Kazushi voluntarily took a minor demotion after his association with Gohei became seen so widely as questionable.  He decided to serve in the 1st Imperial legion rather than to join the Office of the Crystal Champion, in part because it is not yet clear what that will ultimately entail.
+
+Gohei was branded "the butcher" by his enemies, and decided to take this on as a mark of pride.  This was for a number of things, including:
+
+- Catching scouts and then executing them as peasants even when they claimed to be samurai.
+
+- Giving samurai executions (i.e. beheadings) to "samurai caught posing as peasants" who may or may not have just been peasants.
+
+- Running off priests and monks who descended on battlefields after battles had ended to perform death rites to prevent the recently deceased from haunting the battlefields as unhappy ghosts.  Occasionally a priest or monk would refuse to leave and Gohei would execute them as Crane spies.
+
+This last example was particularly egregious, but Gohei prides himself on fearing nothing, and especially being unafraid of ghosts, even the vengeful ancestors of his enemies.  In particular, he would raid and pillage ancestral shrines in conquered territory, even while others treated them with the same reverence as shrines and temples to the fortunes and kami.
+
+Kazushi participated in many of these raids and executions, and yet was the first person to warn everyone off attacking Doji no Tsume Toyohiro, saying things like, "Trust me, it's a bad idea and not worth it to interfere with a man's ancestors." Last year during the entire week of the Bon festival, Kazushi enshrined himself in Chai Sedo burning incense and praying to his own ancestors.  Evidently he consulted with Toranosuke (the abbot of Chai Sedo) and was told this was a good way to fulfill his own ancestral commitments while remaining safe from vengeful ghosts during the week in which the gates of Jigoku are open.
+
+It's unclear how Bayushi Iru discovered all of this, since the Lion tend to close ranks and not share internal gossip, and Toranosuke is known for discretion, but Iru is the reason why this is all public knowledge.  After a minor public squabble, she called him out as being haunted, using language like "what did that idiot think would happen - he desecrated ancestral shrines so now of course he's haunted by angry ancestors!" Kazushi challenged her to a duel and was forced to submit by her superior skill.  (Iru said nothing disparaging afterwards, but as a person who always compliments her opponents after any kind of duel her silence spoke volumes.)
+
+Here's another member of the 1st legion with an interesting vow-related experience:
+
+#### Yasuki Kiyomi
+
+Yasuki Kiyomi's mother is the Yasuki Deputy Minister of Works.  Kiyomi should have followed in his parents' footsteps, but shortly before his gempukku his mother had a dream in which a divine being told her that her son should become an Imperial legionnaire and take a vow of poverty.  The exact divine being is unclear: there were several details in the dream which suggested either Bishamon (the fortune of Strength), Hachiman (the fortune of Battle), or Chagatai (the fortune of courage).
+
+Kiyomi was therefore assigned to the 1st Imperial legion and was made a platoon lieutenant at 14 (because of his mother's rank).  He hoped that his first tour would be sufficient, but his astrology reading leading up to the end of his tour indicated that he should continue current endeavors and avoid new undertakings or journeys.  He is therefore in his 2nd tour and hoping to be able to return home - it's certainly possible that becoming a legionnaire was intended to be a single step on the journey towards his destiny.  Or perhaps he will end up needing to remain a legionnaire for his whole life... or at least until his destiny has been clearly fulfilled.
+
+The reason for the vow of poverty is unclear, and Kiyomi has publicly wondered about whether the vow is legitimate, since it was sworn "to the divine being who appeared to my mother in her dream" rather than naming a fortune or kami by name.
+
+#### Agasha Tamori on Kitsu Okura
+
+Another type of ambiguity which exists in this setting is that even when something is plainly supernatural, people will debate its origin and significance.  For example, here's an open letter written by the head of the Agasha shugenja academy, Agasha Tamori, about why he is banning Kitsu Okura's book "On the relationship between Man and the Fortunes" from all Agasha libraries and recommending that it be banned from other Dragon libraries as well:
+
+The line of Kitsu Okura is unique in all of recorded history.  Only one man in ten thousand is gifted by the kami as a shugenja, and even among the children of shugenja, only one in a century will share the talents of their sire.  Yet in every generation for three centuries, the firstborn son of Kitsu Okura unfailingly becomes a shugenja, each choosing the name of Kitsu Okura at his gempukku.
+
+Okura's progeny claim ignorance of the source and nature of their blessing.  Remarkably, though each has been a competent practitioner, none have shown any abilities above or below the ordinary.  Without exception, their powers have been plainly average.
+
+Even still, the significance of this anomaly is nearly impossible to overstate.  If we could understand and replicate whatever pleased the fortunes so greatly about this family, it would usher in a new era of power and prosperity.  In seeking to uncover this mystery, we must ask ourselves what sets this lineage apart.
+
+Three things are extraordinary about the line of Kitsu Okura.  First, their great scholarship; their progenitor was one of the greatest scholars the Empire has ever known, and every descendant has followed in those footsteps.  Second, their unceasing chain of shugenja fathers and sons.  Lastly their conspicuous lack of any notably powerful shugenja in more than three hundred years.
+
+It would be absurdly coincidental for three different exceptional traits to persist for a dozen generations through unrelated happenstance.  Let us therefore assume these peculiarities are interwoven.  We must then ask ourselves what contrivance would produce these three particular outcomes.
+
+One of the linkages is well explored - it has long been noted that power and scholarship are seldom shared by the same shugenja.  List the twenty most accomplished chroniclers of lore and the twenty most powerful shugenja the Empire has ever known, and not one name appears twice.  The ability to explain plainly a complex truth comes with expertise in any natural discipline, but this is apparently not so with the supernatural.
+
+Indeed, the Shinsei rarely answered any question but with another question.  Such teaching enlightens more than outright explanation possibly could.  Any statement about the Tao is wrong, for the Tao is more complex in every facet than words can describe, and those seeking enlightenment must therefore pursue an understanding beyond language.
+
+It follows that using language to describe the indescribable is an impediment to our mastery of the elements.  It therefore seems prudent to give little weight to writings such as those of Kitsu Okura, lest they encourage counterproductive patterns of thought.  One wonders how much potential has been squandered by young shugenja seeking to learn more of their gifts, being ensnared by wise-seeming words, and unknowingly curbing their own talents as they travel false paths.  Even powerful shugenja who cast aside these distractions might have found even greater power had they not wasted past thoughts and energies on the diversions of false scholars.
+
+If a shugenja reads a book and then fails to achieve their full potential as a direct result, is their lost power simply unattained, or could we say it was stolen by the book's author?  Perhaps literally so, if my suspicions are correct.
+
+Are we to believe that after three hundred years, the line of Kitsu Okura has not realized that their attempts at scholarship have held them back?  That every powerful shugenja in history only came into their power after they stopped trying to put the nature of their abilities into words?  Why would the line of Kitsu Okura unceasingly refine and develop their scholastic theories for three centuries, when no great shugenja in that time has ever credited them as aiding the development of his own wisdom and power?
+
+At best, the scholastic works of Kitsu Okura are a well intentioned distraction, best avoided by any shugenja with care for his own achievement.  At worst, they are a trap set to drain us of some portion of our power, so that the line of Kitsu Okura may continue.  In either case, I have ordered his texts banned from all Agasha libraries, and recommend that all other great Families do the same.
+
+The above letter emphasizes several themes that I try to capture in many aspects of Rokugan's cosmology, especially the well-accepted tension between wisdom and scholarship.  Truth and understanding, especially of the Fortunes or more generally of the Tao, are too big and complex to put into words, so any attempts to do so fall flat.  Those who spend their lives trying to come up with the right words to use to describe the indescribable impair their own ability to reach true understanding.  Thus, the greatest scholars are often students of the wisest, rather than being the wisest themselves.
+
+Consider the following dialog between Tamori and Isawa Tsuke, the Elemental Master of Fire, in which they disagreed about the implications of Kitsu Okura and his lineage:
+
+"Tsuke-sama," Tamori begins, his eyes stern and serious, "You've heard of Kitsu Okura's works, haven't you?"
+
+Tsuke waves a hand dismissively.  "Of course.  His 'observations' about man and the fortunes?  Idle musings, at best.  Barely worth mentioning, certainly not worth banning."
+
+Tamori tightens his grip on the scroll in his hands, a copy of Okura's contentious work.  "But isn't that precisely the danger?  His musings, as you call them, might seem harmless.  But they mislead, they distract."
+
+"Distract from what?" Tsuke retorts, chuckling lightly.  "Is your faith so frail, Tamori?  Does your understanding of the Tao tremble at the thought of differing perspectives?"
+
+Tamori remains undeterred, shaking his head.  "It's not about faith, Tsuke-sama.  It's about power, understanding, and mastery over the elements.  Okura's words, well-crafted though they are, form a barrier to true understanding.  They describe the indescribable, thereby weakening our connection to the kami."
+
+Tsuke raises a skeptical eyebrow.  "You believe words on a page can drain our power, Tamori?  That's a rather superstitious notion, isn't it?  Even for a shugenja."
+
+"Consider Okura's lineage," Tamori counters.  "Every firstborn son a shugenja, yet none exceptional in their power, despite their scholarly prowess.  They attempt to describe the Tao in words, and their potential is lost.  Is that not suspicious?"
+
+Tsuke's laughter is robust, echoing in the chamber.  "You think this... this academic malady is some form of... of spiritual vampirism?" He leans forward, smirking.  "Tamori, you do have a flair for the dramatic."
+
+"It's not dramatics, Tsuke-sama, it's prudence," Tamori insists, his voice steady.  "We must guard against influences that can sway us from the true path of understanding."
+
+Tsuke dismisses this with a wave, leaning back in his seat.  "And what is the true path, Tamori?  You argue against the written word, yet here we are, surrounded by our great libraries.  Should we burn those as well?  Our path is diverse, as diverse as the elements we wield."
+
+Tamori bows his head slightly, acknowledging the point.  "True, Tsuke-sama.  Yet even the greatest river is guided by its banks.  Let us not blur those boundaries with such questionable texts."
+
+Tsuke shrugs, seemingly indifferent.  "Perhaps.  But I, for one, am not afraid of a few 'questionable texts'.  If you want to ban them in your libraries, be my guest, Tamori.  But do not expect the rest of us to follow your lead."
+
+As Tsuke dismisses him, Tamori merely nods, a determined glint in his eyes.
+
+Note that from a narrative perspective, Agasha Tamori's theory is really cool and interesting, and as a writer/gamemaster it's tempting to say that cool theories are always correct.  But I think it's more rewarding to maintain a lot of the mystery and ambiguity, and in order to do that, it means that a large percentage of cool theories like this need to be true and another large percentage need to be false.  One of the best ways to do that is for the ambiguity to exist in-universe so that characters themselves will have well-founded arguments about them.
+
+Returning to the earlier discussion of soothsaying: many different types of soothsaying have been covered, mostly focused on different types of augurs and prophets.  However, another means of soothsaying is to create an artifact of great power, attuned to some aspect of reality such that it can behave in ways which predict the future.
+
+### Touched by the Supernatural
+
+A recurring concept in this setting is that people who encounter supernatural entities are "touched" by the experience, in ways which can be seen as both a blessing and a curse.
+
+#### Kuni Isamu at the Forgotten Tomb
+
+For example, I was looking at some of my notes for a past campaign, in which Kuni Isamu was a Witch Hunter who visited the Forgotten Tomb, a "between place" which exists simultaneously in the mortal realm and in Yomi, the realm of the honored dead.  While he was there, he visited the Classrooms of the Great Masters to seek guidance and instruction on how to be a better Witch Hunter and how to seek out bloodspeakers.  He was granted new insights and abilities but was also changed in ways which impaired his perception and ability to communicate.
+
+Here's what I wrote about how this worked after it happened:
+
+Some of this is vague and Isamu will need to discover over time the exact mechanics and how to trigger these newfound abilities, but here's what he knows now about what he's learned how to do:
+
+1. Isamu gained some ability to detect through interrogation whether or not someone has a connection to bloodspeakers.  A lot of cases are cracked not by interrogating bloodspeakers themselves, but by finding out about suspicious activities from their neighbors and relatives.  Unfortunately, even innocent peasants are typically fearful when being interrogated by Witch Hunters, which makes it hard to figure out who's actually hiding something.  Isamu has gained a "supernatural" ability to discern through successful interrogation rolls whether someone is connected to a bloodspeaker, though he will have to figure out the normal way whether that connection is as a friend, neighbor, relative, customer, etc.
+
+I put "supernatural" in quotes because the great scholars would say that the difference between a "natural" and a "supernatural" ability is a false distinction which demonstrates several fundamental misunderstandings about the nature of reality.  On the other hand, the Shinsei once said, "All explanations are false, but some explanations are useful."
+
+2. Bloodspeaker covens are often connected by members who move back and forth between covens in different cities.  Tracking these movements is tremendously difficult and Witch Hunters are rarely able to follow these chains and take down multiple linked covens in succession.  Isamu has gained a "supernatural" ability to see the patterns in a single coven such that with successful investigation rolls he can discern the next city in the chain.  He won't know where in the city to look, but when combined with his first ability, it should be significantly easier to find the "needle in the haystack" and continue the process.
+
+3. Witch Hunters already know the following things about Bloodspeaker covens:
+
+- Bloodspeakers trace their "lineage" through their teachers.  For
+example, the name "Jama no Iuchiban Kohaku" indicates that Kohaku was instructed personally by Iuchiban, and the name "Jama no Kohaku Hoshiko" indicates that Julie's character from the peasant campaign was personally instructed by Jama Kohaku, etc.
+
+- Different bloodspeaker covens therefore tend to be in different
+"families" in the sense that their lineages could theoretically be traced back to different lieutenants of Iuchiban, though much of the time the coven itself wouldn't even know which one.
+
+- There exist ideological variations between bloodspeaker "families",
+e.g. some covens seem to treat murdering samurai as a noble goal unto itself, while others treat it as a means to an end.  This is not well studied or understood, supposedly because the existing research hasn't yielded more effective techniques for hunting bloodspeakers.
+
+- These "families" were founded after Hiruma lands fell during the
+invasion of the Maw.  Evidently the bloodspeakers involved (led by Jama Kohaku) "protected" the peasants in Hiruma lands from the invading army and led them safely back into the Empire, but told them that anyone who wanted to join them as apprentices could learn how to wield the dark power they had witnessed.  Apparently so many peasants took them up on this that most bloodspeaker covens that exist today can be traced back to the peasants who accepted this offer.
+
+Interestingly, Isamu had no idea that any of this was true, but in the Classrooms of the Great Masters this was presented as existing knowledge already well understood by the Witch Hunters, which implies that for whatever reason this is a part of history which is kept secret even from most Witch Hunters.  Isamu has no idea why this would be the case, since it doesn't seem like particularly dangerous knowledge for Witch Hunters to have.
+
+Isamu has gained the "supernatural" ability to understand the different bloodspeaker ideologies, which will allow him to create "family trees" of covens over time.  Not only that, it would allow Isamu to understand the differences of opinion that exist between the different groups of bloodspeakers, and how closely the different groups work together.  Isamu can see a few ways in which this could lead to being able to hunt bloodspeakers more effectively, and the Great Teacher who gave this lecture promised that this was somehow the key to truly understanding bloodspeakers (though this claim seems hard to believe).
+
+However, as established earlier, there are advantages as well as drawbacks to seeing the world more clearly.  Isamu lost "three aspects" of the underworld skill, though each aspect of perception he lost is cross-cutting and relates to other skills as well.  It will take him quite a lot of time to figure all of this out, but here's what he'll come to understand about what he lost within the next few years:
+
+**1) Knowledge**
+
+Isamu no longer understands the distinction between something being legal or illegal.  This applies to physical objects, actions/behaviors, ideologies, etc.  None of this affects Isamu's drive to hunt bloodspeakers or fight the Shadowlands, since he was never motivated to do those things out of regard for the legalism of it.  Still, he's not going to comprehend what other people are babbling on about when they talk about legal precedents and such.
+
+Some would argue that Isamu has gained something here rather than lost anything.  All distinctions are false (though some distinctions are useful), so it's plausible that Isamu now understands the world so much better than everyone else that he has cast aside the simple untruth of "legality" and now perceives the world closer to how it truly exists.  His difficulty in communicating with others would therefore not stem from his own lack of understanding of a basic concept, but rather due to others' failure to grasp a much more complex concept which only Isamu comprehends.
+
+**2) Persuasion**
+
+Isamu can no longer construct persuasive arguments (e.g. make open or contested rolls) involving investigations into anything covered by the underworld skill.  This does include bloodspeakers.  He can still indicate a course of action he believes to be best, and he can still respond to patient questions if someone wants to ask for details about what factors led him to believe in that course of action.  Someone else could therefore argue on his behalf afterwards based on this knowledge.  However, if he was put on the spot by someone who disagreed with him, he would be incapable of arguing the point in a way that would be persuasive.
+
+Since Isamu is capable of arguing about other things, and since he's capable of explaining himself on things related to underworld, this is further evidence that he hasn't "lost" anything but is instead now operating on a higher level than everyone else.  The reason why he cannot engage in persuasive argumentation might be that he now possesses an understanding deeper than language can express, and he therefore cannot use this understanding to persuade anyone who lacks his insight into the true nature of the world.
+
+**3) Perception**
+
+Isamu can no longer perceive physical contraband.  In other words, if a physical object is illegal, he won't be able to perceive its existence.  He could be standing next to a giant pile of opium or watching people gamble over a dice game or looking directly at an obsidian sword and have no idea that anything illegal was in his presence.
+
+This is probably the best evidence *against* the argument that Isamu is now simply operating on a higher level than everyone else.  It's hard to see this as anything other than a handicap.  However, perhaps more study would reveal some deeper truth about this "disability" which would show it to not be that simple.  Like I said, the above explanations are simply what Isamu will come to understand within the first few years of living with these newfound perks and quirks.
+
+### The Burning Words
+
+The most dramatic example of this is the Burning Words, which was supposedly locked up in the early days of the Empire.  The Burning Words are supposedly a physical manifestation in the mortal realm of the marriage contract between Lord Moon and Lady Sun, containing Lady Sun's warmth and wisdom as well as Lord Moon's coldness and cunning.  One who looks upon the Burning Words will have a great truth revealed to them - often but not always a prediction about the future, though sometimes a revelation about the past which completely changes the viewer's conception of their own life and place in the world.
+
+There are two significant properties of the Burning Words which make them the most infamous and supposedly the most powerful source of prophetic revelation in the world:
+
+1. Predictions made by the Burning Words always come true.  Many prophecies are "unstable", in that they do not take themselves into account.  A prophet might predict what would have occurred had her warning not been given, but the fact that a prophecy has been discharged gives humans the opportunity to change which of many possible futures will actually come to pass.  Predictions made by the Burning Words will always come true - one who witnesses such a prediction knows that even if they reveal this truth and are believed, this knowledge will not be enough to prevent the prophecy from being fulfilled.
+
+2. The Burning Words reveal only terrible truths.  It is said that most who gaze upon them wish that they would have been spared the burden of such terrible knowledge.  The Burning Words transmit not only the truth itself, but the terrible sense that there are no technicalities or loopholes, and that any outcome which fulfils them will indeed be terrible in some regard.
+
+A famous historical example is that of Yasuki Noriko.  When the warlord Sato swore fealty to Yasuki, first of her name, and became the first daimyo of the Sato house of the new Yasuki Family of the Crane Clan (remember that the Yasuki were Crane for several hundred years before changing their allegiance to the Crab Clan), Yasuki's niece Noriko married Sato's son Takumi.  Noriko was the most experienced caravan master in the world, having been all across the Empire many times, and as such she was entrusted with safeguarding the Burning Words, bolstered by Seppun Family Imperial guards.
+
+This probably requires some explanation as well.  Artifacts of great power are said to reach out and call people to them - they may not be alive or have an intellect, but they certainly possess great will, and the longer that they stay in one place, the more likely it is that circumstances will conspire to bring someone in contact with the artifact.  A workaround which has sometimes proved effective is to never let such an item of great power remain in one place for long - holy relics whose power is feared might sometimes be moved to different temples across the Empire, for example.
+
+The Hantei are said to have had issues with the Burning Words calling people to them, and therefore they decided to keep them moving, even changing out many of the caravan guards from time to time, to ensure that the Burning Words could work no mischief.
+
+However, due to a freak accident, which was immediately recognized as the Burning Words reaching out into the world to twist fate to cause this outcome, the wheel of the wagon where they were kept broke, and the wagon collapsed, and for a few moments Noriko beheld them.  She beheld the following prophecy.
+
+"Hantei Genji will order the execution of the Sato lineage."
+
+She understood in that moment that her father in law must have already committed treason.  She understood that throwing herself on the mercy of Hantei Genji would do nothing to prevent this outcome.  She understood that this order might not happen immediately, and that she could act to delay or accelerate it.  And most terribly of all, she understood that the only way to save many of those she loved would be to work to render the orders of the Hantei Emperor impotent - while she could not prevent this order from being given, there was some hope that she could prevent it from being carried out.  However, to accomplish this would destroy everything her birth family had fought to create - to make the orders of the Emperor meaningless would be to destroy the Empire itself.  There was some chance that she could save her new family, but it might cost the favor of the gods, and create a future in which Heaven itself turned its back on humanity.
+
+Noriko ultimately accepted the terrible fate, while setting out to save what few members she could.  While many of those she had come to love would certainly die, including her own husband, she could arrange marriages into other lineages or families, saving most (but not all!) of her own children.
+
+After making these arrangements, and confirming the treachery of her father-in-law, Noriko informed the Hantei of the Sato lineage's perfidy and she and her son accepted their own fates, asking only to commit seppuku to demonstrate their honor for history and cleanse the stain on the Yasuki Family's honor.  Hantei Genji accepted, and "The Burning Words" is a famous play commemorating this sacrifice.
+
+Note that while Noriko was helpless to prevent terrible events from unfolding, her situation was not hopeless, as she was able to ensure a better outcome than what otherwise might have occurred!
+
+One final thing to note about the Burning Words is that the Hantei dynasty eventually found a safer place for them in the Forgotten Tomb.  Because the entrance to the Forgotten Tomb moves from place to place over time in patterns which are difficult to predict or anticipate, the Burning Words can stay in one place "forever", while being limited in their ability to cause such strife.  It is said that no Hantei Emperor has looked upon the Burning Words or ordered any other to do so in many centuries, and the last Emperor to do so was Hantei the 16th (the Steel Chrysanthemum).
+
+Note that the Burning Words are unlike almost any other artifact or holy relic in Rokugan.  Its powers are immediately understandable and well-defined, its effects unmistakable, and there's absolutely no ambiguity in what they do or how they work.  (The only ambiguity is whether you actually believe in these stories, since their events are nearly a thousand years ago.)  Although I mainly like to have ambiguity be a theme in how supernatural items function, it's nice to have exceptions from time to time.
+
+This will also be true for some items which PCs encounter - occasionally they will find a magic item whose powers are unmistakable, though even in these cases there will tend to be some amount of ambiguity about what is implied by the ways that its powers manifest.
+
+### Moto Khuyag's Death Detectors
+
+With all of this in mind, a less dramatic but still reproduceable artifact created by a smith is worth describing.  The PCs in the "Hidden Way" campaign were riding back and making camp after an encounter with some caravan raiders on the Moto steppes, and they were approached by a farrier named Moto Khuyag, who offered to reshoe their horses for free.  He explained that Moto tribes had been having issues with ghosts appearing on the horizon, and their wise men had determined that an excellent way to combat that was to reshoe any horse whose rider had recently died OR taken a life.  This helped to disrupt the connections between warriors and the spirits of their slain enemies, which was better all around.  Khuyag later appeared under similar circumstances shortly after the PCs fought a battle against some rebellious Moto who had defied their khan's authority.
+
+The PCs eventually visited Shiro Moto (which the Moto call Karakoru), and sought out Moto Khuyag, partially out of suspicion about how he seemed to repeatedly turn up after battles.  The PCs found that Khuyag's master, Moto Khunbish, was the spiritual advisor to Moto Gaheris, the Moto daimyo.  Khuyag was actually a Rokugani by birth and said that he had been born to the southeast of Kyuden Otaku, before moving there, and then later moving on to Kyuden Shinjo, the capital of Unicorn lands.  He met Gaheris there years earlier while Gaheris was visiting, and was assigned as the farrier to the Moto guests, during which time he impressed Gaheris greatly with his wisdom and philosophical observations as a smith (Khunbish explained he had previously made knives before becoming a farrier, and that the Rokugani name he had chosen for himself prior to becoming Moto Khunbish was Seito).
+
+Khunbish had devised an apparatus by which the molten iron from melted horseshoes would pass through a series of channels and drip-drains.  This apparatus had been calibrated to extract the essences of death from the horseshoes of riders who had encountered death.  It could be recalibrated based on whether it was extracting essences from the horseshoes of horses whose riders had recently killed, recently died, or recently chosen not to fight when presented with the opportunity.  This produced iron ingots in which the purified and distilled essences of death were strong, which allowed them to serve as potent raw materials for the construction of further artifacts.
+
+Khuyag was already a master farrier when Moto Khunbish came to Moto lands 6 years ago.  He re-apprenticed himself to Khunbish as an apprentice smith and eventually produced his masterpiece.  Note that in this context "masterpiece" is a term of art referring to the specific work which proves that an apprentice has become a master, if it passes the judgement of the master who has trained them.
+
+Khuyag's masterpiece was a "death detector" which he explained could predict "large-scale violent death" within Moto lands.  Khunbish deemed this acceptable as a masterpiece, though Khuyag points out its many imperfections:
+
+- Because heaven has gifted humanity with the ability to make choices, the future is not set, and therefore his detector may fail to detect deaths or show false positives.  Since it only detects violent death on a large scale, it is significantly more likely to have false positives than false negatives.  Both the Tuesday and Thursday groups had Khuyag appear at a time he thought a battle had occurred in their vicinity, when in fact no battle had taken place - in both cases a battle was possible but was prevented through human choice.  This is a fundamental limitation on all forms of soothsaying - even the infallibility of the Burning Words allows for human choice to affect the manner in which its prophecies are fulfilled!
+
+- The detection is tied to a geographic location, in which an accurate map is made and where at various landmarks "the blood of horses is spilled" and "bloodied earth is returned to Shiro Moto".  Thus, Khuyag cannot use his detection device in Uru lands where Moto Gaheris was at the time waging war, and Khuyag thus needs to create a separate detector for any other area in which he wishes to detect death.
+
+- The area of detection must be sparsely populated - Moto lands are notoriously poor in everything but grasslands and horses, and have perhaps only a tithe (10%) of the population density of most other places in the Empire.  If it were too dense the "intersections of fates and choices would be too numerous" for Khuyag's death detector to function.
+
+- Other forms of prophetic instruction and oracular divination may be hidden from this detection.  Thus, even a large battle might not show up if e.g. divine intervention provoked a sudden battle.
+
+- All forms of soothsaying are divided into stable and unstable predictions (which is different from the distinction between certain and uncertain predictions).  As explained earlier, stable predictions take themselves into account - they predict futures in which the result of the prediction is known and accounted for in the resulting choices made.  Unstable predictions only tell you what would have happened if the prediction had never been made.
+
+- Khuyag describes his own death detectors as "in the worst of all situations", which is that they sometimes take themselves into consideration and other times do not.  Thus, if mass violent death is predicted at a certain location and you proceed to go to that location, you cannot be sure that the prediction didn't lead to violent deaths which would not have otherwise occurred.  Khuyag is uncertain what factors make his detector sometimes give stable predictions and other times not - there are so many variables which could cause this that it may be impossible to ever determine.
+
+- Khuyag hopes that his next device will be able to solve this.  It may not be possible even in theory to build a device which can always take itself into account - the Burning Words are said to do this, but they may be a creation of heaven and not formed by the hands of man.  But according to Khuyag, "Master Khunbish says it should be within my capabilities to create a new version which never takes its own predictions into account."
+
+This new death detector, configured for Uru lands, would allow Gaheris to do something like the following when he is unsure of where Uru military forces are located:
+
+- Divide his forces into X different detachments, and order each to travel to a particular place in Uru lands to secure that territory.
+
+- After the order is given, but prior to any detachment leaving, consult with the death detector.
+
+- If large-scale violent death doesn't occur in any of those locations, Gaheris can consider those territories secured (temporarily), and can then consolidate his forces back into a single force and repeat this process.
+
+- If large-scale violent death is predicted at one or more of those locations, Gaheris can cancel his orders and instead direct all of his armies to where death will occur, which should all-but guarantee victory.  (Akodo Natsuki was quick to point out, and argued quite convincingly to Khuyag, that this only guarantees death and that such "deadly ground" may lead to defeat.  Khuyag responds that strategy and tactics are not his areas of expertise, but Gaheris is confident that his armies will prevail in direct confrontation and thus is mainly worried about an enemy which seeks to evade him.)
+
+Despite his self-deprecating manner, Khuyag is apparently the most impressive of Moto Khunbish's apprentices, and in consultation with Master Khunbish has also devised an approach for finding water in the Burning Sands desert.  The desert has some amount of underground water sources, but it is extremely difficult to find a suitable location where a well can be dug.  Khuyag has proposed a solution which involves the ancient practice of "fate tying".  Fate tying has fallen into disfavor, but Khuyag is quick to point out that it has never been declared heretical.  The fate of a human who has already been justly sentenced to die is used to make a prediction about an unrelated matter, "tying their fate" to the new matter - in this case finding water in the desert.
+
+This can only occur in remote locations with minimal human presence - even most of the notoriously-sparse Moto lands would be too densely populated.  The "connections of destinies and choices" when close to too many other humans is known to prevent any "fate-tying" scheme from working.
+
+To predict whether a person will die within a broad period of time, in the general case, may not be even theoretically possible.  However, placing more restrictions upon the predictions increases their accuracy.  In this case, we take someone who is extremely isolated (in the desert away from most other humans), and wish to predict whether they will die within a single day by the means of horses (being drawn and quartered) in a matter relating to water.  Khuyag believes that he can build a device which can successfully make predictions under those circumstances.
+
+This device will allow the Moto to find water in the desert in the following way:
+
+- Pick a spot and stand prepared to dig for water.  Take a prisoner we will execute if we find groundwater in this spot within a day of digging.  If the reading indicates that the prisoner would be executed within the day, we dig, find water, and execute the prisoner.  If not then we move on to the next spot with a new prisoner.
+
+- We must perform 1 execution per well we dig.  This is unavoidable under any fate-tying scheme, but is one reason why the Moto need so many Uru prisoners - the Moto have chosen to "decimate" those who have opposed them, and after an Uru army surrenders they take every tenth man to be executed for having opposed the Moto.
+
+- Khuyag points out that this will not work unless the detector he builds is "reliably unstable", i.e. it must NEVER take its own predictions into account.  If it sometimes does (as with his death detection map of Moto lands), then someone might be shown as being executed because the prediction causes it to happen!
+
+- Note that under this scheme we cannot use the same prisoner on two different spots in the same day.  This means that the limit of how many spots can be checked for suitability in the same day is limited to the number of prisoners slated to be executed, and is another reason why the Moto need so many Uru prisoners.
+
+Khuyag also mentioned that there is theoretically a way around that last limitation of only being able to use a prisoner to check a single spot per day.  "Master Khunbish has said that this should be within my ability, but I sometimes wonder if his regard for my skill is greater than my current capabilities."  Here is how the scheme would function:
+
+- Khuyag will attempt to build two "death detectors", one with a prediction length of 1 day as described above, and the second with an extremely short duration, such as 1 minute.  The only length requirement is that we must have enough time to take 2 readings before the time is up.
+
+- As before, the 1-day reader must be calibrated to be "reliably unstable", i.e. never take itself into account and only show whether the person would be dead within a day while not taking things which result from its own prophetic readings into account.
+
+- The 1-minute reader must be calibrated to always take the other device into account but never itself.  (If a device took itself into account, then it would always indicate execution and always be correct, since the act of predicting the execution would cause the execution.)
+
+- This allows us to pick a spot and stand prepared to dig for water.  We have a prisoner we will execute if we find groundwater in this spot within a day of digging.  We then prepare to take a reading with the 1-day reader, but while making that preparation we take a reading with the 1-minute reader.  We only take the second reading if the first reading indicates the person will die within a minute.  If the second reading confirms the first one, which it always should (unless outside forces are at play), then we execute the person and begin digging.
+
+- If for any reason the second reading fails we abort and stop taking readings for that person for the day, since something else interfered with this process and none of the 1-day readings can be trusted until tomorrow.
+
+- This allows us to reuse the same prisoner multiple times in the same day - they can be tested again and again by the 1-minute reader until such time as water is found.  Only then are they executed and do we need to move onto the next prisoner.
+
+Note that this entire scheme is intended (by me as the author) to be horrifying!  Even if the prisoners have been sentenced to be executed for their crimes, this is tantamount to human sacrifice, and modern readers/players are likely to find this entire scheme repulsive.  Indeed, while I intended for this entire scheme to help flesh out the ways in which smiths could create artifacts of power, I also wanted this entire setup to be a giant red flag which caused the PCs to question whether they wanted to continue supporting the NPCs they had allied with (or if they did, then whether they wanted to try to convince them to change their behavior).
+
+When the PCs later consulted with Prince Fukuhachi, the Emperor's son and General of the 1st Imperial Legion, the Prince revealed that while the practice of "fate tying" had not been officially banned, no Emperor had done it since the days of Hantei the 16th.  Later Emperors found they could achieve the same effects by destroying inanimate objects of great significance, such as famous swords or holy relics.  However, this is offensive to the ancestors and gods, and so eventually the Order of Amaterasu realized one could craft sticks of incense so holy that their burning could be detected by the same underlying principles, and since the burning of such incense honored rather than insulted the gods, this is a safe alternative.  However, the creation of such incense is incredibly time consuming and few are qualified to do so - the Order of Amaterasu is able to create perhaps only a dozen sticks per year, which means they must be rationed to be used in only the most important of circumstances and to answer only the most pressing of questions.
+
+Now let's turn to some more lighthearted setting details, that of gardens.  Here was the introduction to the Hidden Way campaign:
+
+> The 1st Imperial Legion is tasked with guarding the Gateway to the Land of the Burning Sands.  The Emperor's second son traditionally commands this legion starting at his gempukku, giving him valuable leadership experience while keeping him away from the temptation of entangling alliances with those who might seek to subvert the authority of the crown prince.  Located on the western frontier of the Empire, this post ends up being mostly ceremonial since it has been centuries since the last gaijin invasion.
+
+> Trade with gaijin lands was banned by Imperial decree over 300 years ago.  However, the gaijin demand for silk and their willingness to buy it with silver makes smuggling incredibly profitable.  The Hidden Way is a criminal syndicate run by samurai ex-legionnaires who have become one of the largest suppliers of silver to the Imperial Mint.
+
+> The player characters in this campaign are the people currently running The Hidden Way.  Over the last 300 years, there have been periods of time when The Hidden Way was ruthlessly cutthroat in the pursuit of their profits, and other times when they viewed themselves as primarily serving the Empire by providing the silver for its coinage while helping the Emperor prevent the more dangerous forms of gaijin trade.  It will be up to the PCs where they want to fall on this spectrum, both individually and collectively.
+
+For centuries, the Hidden Way has maintained the 11 Imperial gardens of Chai Sedo as part of the honorable service "The Western Star" mining company provides to the prince.  Most legionnaires assume that the Hidden Way started these gardens to entice the prince to look the other way on their smuggling, but the truth (known to any student of the legion's history) is the opposite - the Hidden Way itself grew out of the alliance of samurai from different clans who were already tending to these gardens!
+
+Each garden has a "Master of Purity", who most of the legionnaires refer to as the Garden Masters.  The Hidden Way also employs gardeners, stonemasons, woodcarvers, musicians, servants, and other laborers.
+
+Some of these are stroll gardens suitable for enjoyable walks, while others are contemplation gardens designed for meditation and prayer.  Some are "excitement gardens" which delight the eye immediately, while others are "calming gardens" whose beauty is more subtle.  Most of these are walled gardens which require visitors to pass through a series of tori arches to enter.
+
+### The Nameless One
+
+The following synthesizes some of the concepts discussed above with some more examples.  One thing this worldbuilding strives for is consistency: new concepts shouldn't contradict existing principles.  Or alternatively, if something is introduced which appears to be a contradiction, that contradiction should feel like a big deal - a new thing of that nature should cause characters to be shocked and unsure what to believe or think.  Ideas which don't seem to be consistent with the setting are sometimes discarded.
+
+On the other hand, cool and "wild" ideas can still work if they are integrated well into the underlying concepts.  Here's another plot hook that I used in a past campaign which I was happy with, so hopefully you can help me evaluate whether it fits well into the setting.  This was the follow up to the backstory of Kitsuki Fu, an NPC in a previous campaign:
+
+Eight centuries ago, there was a tsukai who lived in the forest east of the Shrine of Perfect Contentment, in what is now the Takaba falconry preserve.  Masayoshi (the monk who is the Bearer of the Golden Seal of Amaterasu) suspects that Takaba was this tsukai's name, because this was the name of the forest before it became a preserve for falcons, and the origin of that name has been lost while most other names from the region can be found in the Daidoji histories.
+
+Takaba lived centuries before Hantei Iuchiban became the first bloodspeaker, and thus he had no way to conceal the Shadowlands taint that his witchcraft brought into his body.  However, the Emperor's subjects were less vigorous in prosecuting tsukai in those days, so Takaba was able to practice his craft in the solitude of the forest.  He was sometimes sought out by peasants and samurai alike who desired his aid.
+
+One day he found that his obsidian knife had disappeared.  He performed dark divinations to discern its whereabouts, and tracked it to a nearby village, where it was hidden in the barn of a farmer.  The farmer denied having stolen the knife, and Takaba believed the denial, confident that such a man wouldn't dare steal from him.
+
+When Takaba returned to his forest cottage, he found that his silver chalice was missing, despite the wards and underworld guards he had set upon his home.  He immediately worked to strengthen the wards and summon additional dark entities to watch over his house.  However, when he returned from finding his chalice in another barn of another farmer, his obsidian knife had again been stolen.
+
+Takaba set about studying the ways of wards and traps, experimenting with different principles and practices to fortify the protections he had set.  Still, every time he left to recover a stolen object, he would find another possession missing.
+
+This continued for years, as Takaba drove himself to master the art of warding.  One day he returned and found that one of his magical snares had succeeded in catching the fox which had been burgling his home.  However, even after years of offenses, Takaba could not hate the fox, who had only been acting according to her playful and mischievous nature.  She offered him "a fox's promise" that if he let her go, she would never trouble him again.
+
+Takaba knew what a fox's promise was worth, but he still set her free, unable to bring himself to harm her.
+
+The fox continued to burgle Takaba, and he continued to try to thwart her.  In their battle of wits, Takaba would sometimes succeed in trapping the fox, and she would sometimes succeed in stealing his implements only to abandon them elsewhere for him to recover.  As their contest continued, the two of them reached new pinnacles of mastery of their crafts.  Takaba became the greatest practitioner of wards and bindings that has ever lived, and the fox became the most accomplished of any of her kind in the ways of stealth and shapechanging.  Takaba would ward his cottage such that naught but air and light could enter or leave, and the fox would change herself into a gentle breeze carried upon the moonlight.  Takaba would forge an unbreakable snare which would bind a leg and prevent the leg from changing into anything else, and the fox would shift into a five-legged creature and chew off her now-extra leg to escape unharmed.
+
+As this continued over the years, the two of them fell in love, and had many children together.  Some of their human descendants continue practicing maho witchcraft in the Daidoji domain to this day, while their fox descendants continue to play tricks on farmers and travelers in the Daidoji countryside.
+
+One day Takaba had a brilliant insight - even not knowing the true name of his fox-wife, he could nevertheless construct a ward that would bind any intruder, not by their physical form, but by pinning their name itself.  And so his fox-wife was trapped, and unlike all of Takaba's other successes, which she was able to eventually outwit, this one seemed insurmountable.  Takaba's ward seemed to be based on principles which were unchallengeable in their power over that which was bound.
+
+Eventually the fox had an idea of her own.  She stole into her husband's cottage, and after being pinned by her own name, she chewed her name off from her very self.  Such a thing should not be possible - even people who give their names to bloodspeakers are still connected to that name, and this connection remains even after death.  A thing without a name literally cannot exist in this realm, which is why oni require names in order to be summoned.
+
+Still, while all known principle and doctrine declare this impossible, the fox succeeded.  But having overcome the final ward which could ever trouble her, she was now without a name, and so she began to fade away, becoming less and less herself.  No longer truly a fox, she was becoming something else.  As this happened, her hunger increased, and she found herself consuming the very essences of the foods she sought to eat.
+
+Eventually Takaba realized that it was names that his wife hungered for, so he began to feed her the unused names he had taken as payment for the years of his practice.  But the small names of peasants proved insufficient to satiate his wife's savage hunger, so he fed her larger and larger names.  As he did so he turned his research towards how to bind one of these names to her permanently, in order to replace her true name which had been lost.  He swore by all his power that she would be restored and that her suffering as the Nameless One would cease.
+
+In the course of his research, Takaba tried to record the names he had fed to his wife to understand what satisfied the most, and how big a name had to be in order to temporarily sate her hunger.  He quickly found that he could no longer remember any name once it was fed to her, and any written record of that name quickly became blurred and illegible.  Further inquiry revealed that living people whose names were eaten in this way were themselves forgotten, even by their closest family.  By consuming their names, Takaba's fox-wife had severed their connection to the world, dropping their souls into the underworld without even the memories of that life, forgotten by the world itself.
+
+Takaba eventually devised a ritual that he believed would restore her to her previous form, but it would require a name larger than any he possessed, including his own.  He set about to use the last of his resources to ambush Yasuki Kiringu, the daimyo of the Yasuki Family, which was still part of the Crane Clan at that time, as he returned from a trip to Kyuden Daidoji.
+
+With Kiringu's name eaten, the world continued with his brother Yasuki Tsanumi as the Yasuki daimyo.  Indeed, the world continued as if Tsanumi himself had always been the daimyo, with no one remembering that Kiringu had ever been born.  Tsanumi was much angrier at the Crane Clan for their lack of support than his brother had been - Kiringu had taken the ruling on heretical farming practices in stride and valued long-term stability more than responding to loss and insult.  However, with Tsanumi as daimyo, the Yasuki seceded from the Crane Clan and joined the Crab Clan, to the shock of the whole Empire.
+
+The Emperor's most talented advisors and soothsayers were caught off guard.  Not only had his political advisors been confident that the Yasuki would avoid such drastic action, even the Emperor's prophets had been unable to see this coming.  Apparently the changes to the world caused by the feasts of the Nameless One stand above prophecy itself, affecting the world's futures in ways even they cannot perceive.  The Hantei immediately dispatched members of the Order of Amaterasu to investigate how such a thing could have happened.
+
+Takaba meanwhile was able to perform his final ritual, sacrificing his own life and name to bind his soul to the soul of his wife, uniting the two of them into a single being.  This ritual was powered by the name of the Yasuki daimyo, and for a time it seemed that it had succeeded.  The fox was once again able to walk through the Takaba forest, even as the world forgot her husband for whom it was named, and she began to remember that she was a fox.  However, while this ritual had done more than any names fed to her, it too faded over time and her hunger eventually began to return.
+
+It is unknown how she was trapped by the Emperor's agents.  A prison for the Nameless One was built in the Forgotten Tomb, but no one knows who could have constructed such a thing.  Her prison could hold only a soul with no connections to any names, and the principles by which that is even possible were only later discovered by the Emperor's wisest smiths by examining the construction of this special prison.  It seems clear that whoever succeeded in imprisoning her was eaten in the process, possibly having sacrificed themselves to ensure the success of their endeavor.  Their sacrifice is commemorated in secret by the Order of Amaterasu, though the name or names of whoever is responsible can never be known.
+
+Several years ago, Moto Tsume led an attack on the Forgotten Tomb, attempting to enter it through its entrance in Yomi, the realm of the honored dead.  He failed, retreating with his forces in tatters, the honored ancestors who guard the tomb emerging victorious.  However, his spiritual assault sent dark energies of death into the Forgotten Tomb, rocking its foundations, and weakening the prison for the Nameless One enough for her to escape.
+
+She first ate a legionnaire at Beiden Pass, who was tracked by Kitsuki Fu.  She ate a few others as she regained her strength, eventually making her way home to the Takaba falconry preserve, where she ate the County Magistrate of Kanto in the province of Akishi.  Daidoji Maku subsequently replaced him, with no one having any memory of his predecessor.
+
+As a servant of Yozo, the fortune of legal justice, Masayoshi has tracked her this far, learning much of the story of how she came to exist from her descendants among the foxes and bloodspeakers of the Daidoji domain.  He has struck a bargain with them to work together for the common purpose of finally putting their ancestor to rest.  The bloodspeakers provided a powerful artifact of great name to act as bait, while the foxes set to work searching for the telltale signs of a life that had fallen out of the world, to locate someone close to someone she had replaced.
+
+The PCs were the only people found who perfectly fit the criteria of people most suitable for battling the Nameless One.  They were lightly connected to the previous county magistrate of Kanto, having served him for only a few months before he was eaten.  They later became close friends with Maku.  That combination of being connected with weak-but-still-present ties to someone eaten and strong ties to someone who "replaced" that person was ideal for warding them against being eaten themselves, though the danger would still be great.
+
+Masayoshi set wards and traps around a totem of great name provided by the bloodspeakers of the Daidoji domain.  He knew his wards and traps could only delay rather than ensnare the Nameless One, who laughed at traps even in the days when she was merely a clever fox.  But they would stall her long enough for the PCs to confront her and cleave away the names she had eaten, allowing her soul to finally descend into the underworld and continue on its journey through the cycle of death and rebirth.
+
+Everything I just wrote was the setup to a supernatural adventure which I was happy with.  I did have some concerns about how some of the details violated existing lore or established principles of the setting.  Consistency is key, however I hoped that by making the violations so shocking in-universe, it would emphasize that the general principles of the world stand, but that sometimes things still occur which are beyond our understanding.  Hopefully this indicates not that established doctrines and principles are wrong, but rather that human understanding of them is incomplete, and supposedly "impossible" things are still possible (but extremely rare), such as the existence of a Nameless Fox, or her actions evading the Sight of the Emperor's most gifted prophets.
+
+### Connection Damage
+
+There's an additional type of damage which can be taken in Spirit Encounters, which is that of "connection damage".  For example, in one dream quest from a past campaign, the PCs found themselves in the Court of the Caliph of Medin al Salaat.  After gaining information in previous scenes, they had the option to exit the dream safely, or proceed to the third and final scene, in which the Caliph and her factions were eating dinner.  Here was a description I wrote of that scene:
+
+It is said in Medin al Salaat that it takes four people to prepare a salad.  A generous person to add the oil, a stingy person to add the vinegar, a wise person to add the salt, and a fool to mix them all together.
+
+Here you can see that the Caliph is the generous person, offering not only her hospitality but immense material support to the Uru in their conflict with the Moto.  The Dahab are stingy, in the way that merchants often are - while they are the main source of the money which is funding the Uru, they wish to know the use to which the Uru will put it.  The Old Man of the Mountain is the wise man here, advising the Uru and Caliph alike, and ensuring that the Houses of Dahab get the answers that will keep their coffers open.  And as for the Uru... considering how they have found themselves thrust into a losing war which seems to benefit everyone except themselves, it would be difficult to ascribe to them any role but that of the fool.
+
+If the PCs chose to enter this scene, they knew that they would no longer be risking "skill damage" of the sort that Kuni Isamu took, but rather "connection damage" which strikes at the ties that bind them together with other people and groups.  Instead of simply learning about secrets and wisdom, they have the opportunity to directly affect the waking world on a spiritual level by disrupting the relationships between people and groups, at the risk of having their own connections damaged.
+
+PCs who enter the scene and choose the Path of Water are able to strike at the Caliph's connections to her subjects, weakening the ties that bind her to one or more of the following:
+- the "outsider" factions such as the Ashalan, the Rashari, and the Khayal
+- the Qabal of the Sahir, who are famously apolitical and therefore have no direct loyalty to her, but who could still support or undermine her in various ways
+- her khadi retainers - it is unknown what exactly ties them together, but weakening these ties could prove most useful if Moto Gaheris eventually lays siege to this city
+
+However, PCs who take a serious wound while in the Path of Water will find their own connections damaged, specifically those which tie them to their Clan.  What would it mean for such connections to be damaged?  Their family might find themselves thinking less of them, their clan-mates might suddenly hold them in less regard, their lineage might turn its back on them for small infractions.  This is the general idea behind the concept of "connection damage".
+
+PCs taking the Path of Fire have the opportunity to disrupt the connections that bind the Uru together, including:
+- Timur Beg and his ties to Eguden Yeke - weakening this could cause the Eguden "ailay" ("tribe" - analogous to a Rokugani "lineage") to perhaps cease supporting the ruling Timur lineage
+- Timur Beg and his ties to Perhat Bugra - the Perhat tribe has continued to fiercely resist the Moto even after multiple devastating defeats, and if their connection to the ruling Timur was weakened then they would be more inclined to finally surrender once and for all rather than continue fighting in the war
+- Timur Beg and Caliph Hanan Talibah - this could go in both directions - Hanan Talibah could cease supporting the Uru and/or the Uru themselves might decide that their loyalty to the Caliphate which has supported them has been paid back in full by the blood they have already spilled, and that there is no need to further throw their lives away against the armies of the Moto
+
+However, PCs who take the Path of Fire risk damaging their own connections to the Moto.  They have had to work hard to get the Moto to respect them and to not simply be viewed as untrustworthy outsiders.  If these connections were damaged, months of hard work and great accomplishments could be unraveled.
+
+Anyway, there were also options for the paths of Earth and Air, but I figure that's enough context.  I mainly wanted to list those things as an example of this concept of "connection damage".  In Rokugan, the Fortunes themselves are composed of the cycles and connections which make up the rhythm of the world and which connect and perpetuate the people and things in it, and thus a person's connections in the right circumstances can be a vulnerable target which sometimes may be directly attacked.
+
+One thing that I tried to highlight to my players about the concept of "connection damage" is that while it is very real, it would be difficult to convince someone who was skeptical that the effect was actually happening, because the effects would be subtle.
+
+For example, consider someone who had suffered connection damage that weakened the ties that bind them to their clan.  This happened to one of my PCs, Bayushi Saburo - other members of the Scorpion Clan were much more inclined to try to take vengeance in response to words or actions which they perceived as insults or betrayals.  And they were far more likely to interpret his behavior in this way.
+
+For example, during the Battle of Coward's Torment, Saburo and the platoon under his command were heavily wounded.  As the acting lieutenant of his platoon, he was in the process of pulling his unit back into the reserves so that a fresh platoon could take his place on the front lines.
+
+However, as he was doing so, he spotted a fellow Scorpion from a different company, Shosuro Yuzo, who had gotten separated from their squad.  She was also wounded and had fallen off her horse, and enemy forces were advancing on her.  Saburo had to decide whether to save her or continue pulling back.  He chose the latter, and Yuzo was killed.
+
+This could have inspired harsh feelings under the best of circumstances, though as a military commander Saburo has great standing, authority, and expertise with which to argue that his actions were for the greater good of the unit and helped ensure their ultimate success in battle, and that it would have created an unacceptable risk for his army if he had broken ranks to save Yuzo.
+
+However, because of the connection damage he suffered in his dream quest in the Court of the Caliph, his fellow Scorpion went far beyond petty forms of retaliation and instead began plotting a revenge which would discredit and publicly humiliate Saburo.
+
+With all of that being said, note how subtle this effect is.  While the connection damage really did have a significant effect, if Saburo tried to convince someone that he was only being targeted because of the connection damage he suffered in his dream quest, this would be nearly impossible to prove.  He really did "abandon" a comrade to die in battle, and it's quite understandable that Yuzo's family might seek revenge for this, so nothing that happened as a result appears supernatural - it would all seem to an outside observer like the normal consequences of regular life in the 1st Imperial Legion.
+
+This theme runs throughout the worldbuilding: supernatural things are very real, but their effect is subtle, and often it can be difficult or impossible to tell someone's superstitions from a real event or effect.
+
+I try to draw a lot of inspiration from these kinds of real-world stories, where claims of the supernatural may have gone unquestioned in the culture where they were made, but where skeptical historians might look back and conclude that nothing supernatural had happened.  This is often true even for historians who themselves believe or are open to the possibility of the supernatural.  Just because such things might exist doesn't mean that real-life scholars do (or should) take claims made in primary source historical documents at face value.
+
+#### Doji no Tsume Toyohiro
+
+Consider the case of Doji no Tsume Toyohiro, a legionnaire in the 1st Imperial legion:
+
+Toyohiro distinguished himself in military service during the Lion/Crane war in the northern front.  In particular, he commanded a company that repelled a group of tunnelers who were trying to literally undermine the walls of Kyuden Tsume itself.  Most of his comrades died, and Toyohiro frequently sees both them and sometimes his opponents as he goes about his day.
+
+Lately he's taken to following where they lead, listening to what they have to say, and speaking with them.  This has frequently taken him into the 6th Battalion, but the Lion have ultimately decided that he is the only Crane allowed to wander freely through their territory, because anyone who struck him down or even interfered with his journey might find themselves haunted by the same ghosts which pull him along.  Matsu no Moyu Kazushi visited each Lion company to counsel this policy of non-interference, though he has suffered some mockery from non-Lion companies as a result.
+
+Note how Toyohiro is seeing ghosts which other people do not see.  This plays upon recurring themes of the ambiguity of the supernatural.  Tsume Toyohiro seeing ghosts which no one else sees could be interpreted as someone who isn't even haunted, but who has hallucinations due to what a modern person might diagnose as PTSD.  Roman legionnaires were sometimes described as being haunted by the ghosts of their former comrades - this doesn't fit the definition of modern PTSD as described in the DSM, but it does sound very much like a trauma response.
+
+If a modern reader read a historical account of a real person with a story like Toyohiro's, then even if that modern person believed that ghosts exist, they might have cause to doubt that this historical figure was really haunted.  Nevertheless, while some people in the setting might wonder about whether every single ounce of Toyohiro's experiences is legitimate, few in Rokugan would dare to dismiss his wanderings, and it would be reasonable for other legionnaires to fear the prospect of becoming haunted if they interfered with his work.
+
+Toyohiro has additionally sworn this vow to help himself in his ministry towards the ghosts which he sees:
+
+"In the sight of Emma-O, Fortune of Death, and King Yan, the Judge of Souls, I, Doji no Tsume Toyohiro, swear a solemn vow.  I am haunted by the spirits of my fallen comrades and opponents who met their ends during the Lion/Crane war, their souls trapped in unrest.  I hear their voices and see their spectral forms, and I understand their struggle to find peace.
+
+Thus, I swear to serve as their voice, their advocate, and their guide.  I vow to listen to their tales, understand their plights, and offer comfort to their lingering spirits.  I promise to do all that is within my power to help them make their passage from the realm of the mortal to the underworld, where they rightfully belong.
+
+May Emma-O lend me the wisdom and the strength to honor this vow, and may he show mercy and provide guidance to the souls who have been lost in the tumult of war.  For as long as I draw breath, I will not falter in this sacred duty.  This I swear."
+
+Even people who do not fear ghosts might worry about the prospect of interfering with his work after he swore that vow, because to do so might antagonize Emma-O or King Yan.  The particular effects of doing this might not be immediately apparent, but could anyone ever really be sure that this wouldn't bring future disaster?  This is an important type of ambiguity - most people would agree that interfering with such vows could bring misfortune, but it would be difficult for anyone to make specific predictions about what form this misfortune might take.
+
+#### Otaku Mirai
+
+Or we could go back to the story of Otaku Mirai, another officer in the 1st Imperial legion:
+
+Starting the night of his gempukku, Mirai was tormented in dreams by a mujina.  This curse followed him to his first assignment as a sergeant in the 1st Imperial legion.  At times he would go weeks without being able to sleep through the night.
+
+One evening, an old man appeared in Mirai's dreams, identifying himself as the spirit of a neglected sword.  Shockingly, the man was a gaijin who named himself Heartseeker.  The old man additionally stated that he was unable to leave his scabbard as he had been defiled by dirty human hands.  Most importantly, the spirit told Mirai that should he wish to permanently rid himself of the hateful mujina, he should clean the blade of its rust.
+
+Mirai tracked down all of the gaijin swords in the legion, of which there were many, and identified and acquired Heartseeker from captain Otaku Hiyu, who had left it languishing in a crate of old antiques not considered worthy of display.  It had originally been taken from a slain gaijin bandit many centuries ago.
+
+Desperate to be able to sleep well again, Mirai carefully cleaned the blade.  As he finished his eyes fell upon the decorative leg of a brazier in his room.  In the flickering light it suddenly resembled the imp in his dreams!  The freshly cleansed sword then moved by itself to lop off that decorative leg, thus freeing Mirai from his nightly torment.
+
+Mirai carries this sword with him at all times, strapped to his back in the manner of a barbarian.  When in his tent it occupies a place of honor at a shrine he has built for it back at camp, but he never travels without it.  Being a courtier and thus not able to duel, he has taken to practicing with it and has developed his own fighting style.  He has spoken of plans to eventually make a warrior's pilgrimage to join Moto Gaheris' army to better learn its techniques and adapt to other more civilized weapons, though many doubt that he will follow through on such plans, as many take this as the boastful talk of a teenager.
+
+This is based on a real historical anecdote, but modern readers might not read that anecdote and think that a sword was really haunted by an imp.  Rather, they might believe that someone had a strange dream, then saw something in the flickering shadows, then thought that they had defeated some supernatural force, and then that belief was self-reinforcing and so he found himself no longer worried about being afflicted and was therefore no longer afflicted.
+
+Even someone in Rokugan, who certainly believes that supernatural things exist, might doubt the accuracy of Mirai's story.
+
+#### Kakita Korihime
+
+Or consider the story of Kakita Korihime:
+
+Korihime is the daughter of Kakita Yariga, who was the executioner to Kakita Toshimoko.  She took up her father's role as executioner, but found herself unusually susceptible to hauntings.  After performing only a handful of executions, she took a demotion in order to serve as a platoon lieutenant in the 1st Imperial legion.
+
+As far as she knows, all of the vengeful ghosts who previously haunted her eventually made their way into Jigoku, and she reports no sightings after arriving at Chai Sedo, though she spends a considerable amount of the week of the Bon Festival in the temple.
+
+Note that in this account, it's also unclear whether anyone else has seen the ghosts that haunted Korihime.  Indeed, a plausible explanation is that she spent some time as the executioner for the Kakita daimyo and found it so traumatic that she suffered psychological issues as a result, which manifested as her believing herself to be haunted.  Then when she moved to the other side of the Empire to take a new post where she was no longer forced to perform executions, her issues subsided and she was no longer "haunted".
+
+None of this is meant to suggest that these mundane explanations are what is "really" happening in Rokugan.  Ghosts definitely do exist in Rokugan.  However, a recurring theme cultivated for the supernatural here is that some apparently supernatural things are real, some are just people being superstitious, and it's incredibly difficult to tell which is which.
+
+One of the things this worldbuilding wants help with, in addition to generating vows, is generating supposedly "magic" items or crafting supposedly supernatural backstories for NPCs.  And one of the most important qualities in that writing is ambiguity.
+
+#### Yamaoroshi
+
+Here's the backstory for the famous sword Yamaoroshi:
+
+The origins of this sword are unknown.  Its known history begins with Mirumoto Tsuki, who was part of the army that defeated the Maw at the Battle of the Cresting Wave.  Her own sword destroyed, she pulled the sword of a fallen comrade out of the Maw's hide.  The sword seemed to move under its own power, hacking and slicing into the Maw, especially when striking from west to east.  When the final coordinated strike from the remaining warriors finally slew the Maw, Tsuki was the only member of the Dragon Clan to help deal the killing blow.
+
+She named the sword Yamaoroshi - "Wind Blowing Down the Mountain".  As the sword that slew the Maw, it gained great renown, and 150 years later made its way into the hands of a duelist named Mirumoto Tetsushi, who used it to defeat Kakita Senri, chief instructor of the Kakita dueling academy.  Already an underdog in the fight, Tetsushi chose to face east into the morning sun, practically blinding him in the garden where they fought.  Yet he emerged victorious, explaining afterwards that just as the Wind Blows Down the Mountain, so too does this sword desire to be striking in the direction from higher elevation to lower elevation, even when its wielder is standing on flat ground.
+
+Yamaoroshi later became the family sword of Agasha Shigeaki, one of the companions of Agasha Kitsuki, and struck down several of the assassins bent on murdering Mirumoto Januko, the daimyo of the Mirumoto Family when the Unicorn returned.  Agasha Kitsuki was granted his own Family name, and so Shigeaki then became Kitsuki Shigeaki, and Yamaoroshi has stayed with the Kitsuki Family ever since.
+
+Note that this sword is steeped in history and is many centuries old, and it is believed to not only benefit from excellent craftsmanship in its manufacture, but that the weight of its past deeds and accomplishments grants its wielder an almost supernatural advantage.
+
+On the other hand... there aren't really any testable claims being made about the sword, exactly.  Even the explanation that the sword has a will to be striking "downhill" would be difficult to measure or prove.  Someone performing katas with the sword might say something like, "oh yes, I can certainly feel the sword's will and the way in which swinging it towards a lower elevation grants me additional strength, as it adds the weight of its desire to my strikes".  But that could easily just be the power of suggestion!
+
+Again, my point here is not to suggest that the claims about the sword are wrong.  Perhaps they are correct!  But the crucial thing is that the claims are ambiguous enough that it's difficult to be sure.
+
+#### The Armor of Fool's Regret
+
+As another example, consider a supposedly cursed item: the Armor of Fool's Regret, which is in the possession of Ikoma Akaho, a platoon lieutenant in the 6th battalion of the 1st Imperial legion.
+
+The Armor of Fool's Regret is a cursed suit of armor possessed by a kansen (usually an elemental spirit which has been corrupted by its own anger or some past wrong or circumstance) which has been in Akaho's family's possession for centuries.  It has been determined that to destroy the armor would free the kansen to wreak havoc elsewhere.  And when the kansen is not "fed" it grows angry and reaches out to cause mischief in its surroundings.
+
+However, those who wear the armor (when the kansen is well-fed) are protected by the kansen's presence.  Wearers of this armor have never (yet) fallen in battle, even when suffering grievous wounds.
+
+The kansen demands blood, and specifically hungers for being worn while the wearer is injured.  Akaho's platoon is therefore the dumping ground for troublemakers, and its members are punished by being beaten while wearing the armor.  Those transferred to the platoon are beaten this way as an initiation.  When a long enough time goes by without any disciplinary actions being required, members of the platoon take turns donning the armor and being struck to appease the bloodlust of the armor's kansen inhabitant.
+
+While some new recruits suggest that the armor should be destroyed, this is rarely a good idea with cursed items, as that would let its resident spirit loose in the world to cause mischief elsewhere, with there no longer being any convenient way to keep it bound.
+
+As before, there are strong, specific claims being made about the armor.  And yet the actual evidence is quite thin - the fact that the wearer of this armor has never fallen in battle doesn't prove very much, because that's true of many if not most suits of armor!
+
+As for the kansen, even if a shugenja were to commune with the armor and determine that the will of its resident kami was indeed consumed by bloodlust... that doesn't necessarily prove that people need to don the armor and be beaten in order to appease the kansen, or that the kansen is capable of leaving its home and causing mischief out in the world.
+
+In general, I think that what I'm describing is a version of Rokugan which is a "low fantasy" setting.  Magic and spirits and gods and the supernatural do exist in this world, but people's superstitions may often be far more common than the actual supernatural things which make those superstitions plausible.
+
+A few more supposedly magic items or cursed items follow, providing additional examples of what this approach is going for.
+
+#### The Candle of Tears
+
+"The Candle of Tears": This technically refers to the candle-holder rather than the candle itself.  Any candle placed in this candle-holder will find its wax dribbling down in two distinct trails, reminiscent of tear-marks on a crying face.  A grief-stricken ghost haunts this candle-holder, and as long as a candle is kept burning at all times, she will be kept satisfied.  The flame of the candle waves wildly when in the presence of a child who is in danger of dying from sickness, and The Candle of Tears is used by doctors to triage cases, but if the flame ever goes out before the candle has burned all the way through its wick, the ghost will become even more distraught and lash out at those around it.
+
+This item is a good example of several different themes already discussed, reiterated here:
+
+- Ambiguity.  The fact that the candle's wax will tend to dribble down in two distinct trails is fairly thin "proof".  Additionally, even a small breeze or change in air currents can cause any candle to have its flame "wave wildly" for a brief time, so it would be difficult to tell the difference between normal flickering and some sort of supernatural omen.
+However, because Rokugan is a society in which people tend to accept supernatural explanations for everyday occurrences, it would be rare for someone to demand proof that the candle is really even haunted.
+
+- Usefulness.  There is good reason for doctors to make use of this candle.  Rokugan's medicine is primitive, so doctors have good reason to want supernatural help.
+
+- Necessity.  Although there is some potential downside to using this candle-holder, since a candle placed in the holder MUST be allowed to burn all the way down to prevent the ghost from lashing out, destroying the candle-holder would free the ghost which is bound to it, which would be even worse.
+
+Not every cursed item or supernatural thing will have all of these qualities, but this is the kind of thing I tend to shoot for.
+
+## Maho and Bloodspeakers
+
+With vows and proper doctrine covered, the discussion turns to heresies and enemies of the Celestial Order.
+
+Maho, a.k.a "blood magic", is any form of magic outlawed by the Emperor.  The practice of maho is punishable by death.
+
+There is a difference between tsukai and bloodspeakers, though many people use the terms interchangeably.
+
+A "tsukai" is a witch, i.e. anyone who practices maho.  All tsukai are infected with the Shadowlands taint as part of their practice of witchcraft, and this taint is detectable, especially by shugenja, who can detect the taint by communing with the elemental kami.
+
+A "bloodspeaker" is a specific type of tsukai who has the supernatural ability to conceal the Shadowlands taint.  Shugenja are unable to overcome this - even the most powerful shugenja who are the most in-tune with the elemental kami cannot detect the Shadowlands taint when concealed by a well-trained bloodspeaker.  Witch Hunters have a form of Detect Taint which is sometimes able to overcome a bloodspeaker's taint-concealing abilities, though even this is unreliable, and more powerful Bloodspeakers can usually evade this.  The good news is that if an entire suspected coven is rounded up, the Witch Hunters usually only have to be successful one time in order for the coven to be found out.
+
+Notably, a bloodspeaker can no longer conceal the taint in their body after they're dead, so one surefire way for a Witch Hunter or shugenja to tell for sure if someone is tainted is to kill them and then check.  This is only done in extraordinary circumstances, as Imperial law forbids the mass killing of peasants simply to root out a single individual.
+
+Remember: all bloodspeakers are tsukai, but not all tsukai are bloodspeakers.  (In other words, there are some tsukai out in the countryside who cannot conceal their taint, and if they ever draw attention to themselves they will be easily found out.)
+
+The Office of the Jade Champion is in charge of the Kuni Witch Hunters, who are responsible for hunting tsukai.  There are about 200 Witch Hunters in the Empire, so while smaller domains don't have a Witch Hunter, most domains do.  (There are currently 284 domains total.)
+
+There are many different types of maho, because maho is not really a single practice - the textbook list of the 7 maho disciplines for Witch Hunters and other authorities to watch out for is:
+
+- **Shadowlands taint magic:**
+
+  This is the basis of most tsukai practices, and witches are able to take on additional Shadowlands taint in order to give themselves extra powers, strengthening themselves or cursing others through the direct application of channeled Shadowlands energy.  Some textbooks list this discipline as "Curses", but this is misleading because taking on Shadowlands taint has other applications such as increasing a tsukai's physical prowess, which is why it's more correctly listed as the general Shadowlands taint magic.
+
+- **Name magic:**
+
+  Tsukai gain power based on the strength of their own name, and based on the strength of names they take.  Many spells and rituals involve sacrificing a name.
+
+  Tsukai are interested in taking the names of others - they must merely ask you to give them your name and have you answer by stating your name.  When this has been repeated three times in succession the tsukai owns your name.
+
+  Name magic was not originally considered a maho discipline until Hantei Iuchiban became the first bloodspeaker and used name magic to corrupt the officer corps of the 1st Imperial Legion.
+
+- **Wound magic:**
+
+  Tsukai practice bloodletting of themselves and of victims in order to fuel their magic.  Any human magic driven by wounds is considered maho.  (Ratling shamans sometimes practice ritual bloodletting, but this has been classified as non-maho because of the special nature of Ratlings and the fact that they are biologically incapable of carrying the Shadowlands taint.)
+
+- **Summoning:**
+
+  One of the most famous tsukai abilities, this is most notably used to summon oni from jigoku, but is also used to summon mujina (jigoku trickster spirits), kansen (corrupted kami/spirits), zombies (given a supply of corpses), ghosts, etc.
+
+- **Crafting:**
+
+  The most famous items crafted by tsukai are obsidian blades, and they also create totems which they use to store power they generate from sacrificial rituals.  In theory tsukai can make all manner of interesting things, though this usually involves the sacrifice of some other object which itself already had great name.  For example, the creation of an obsidian sword requires the sacrifice of a sword whose name is itself very famous, as it is the strength of the original sword's name which serves as the source of power for the creation of the obsidian blade.
+
+- **Dark Divination:**
+
+  Tsukai can learn secrets from those whose names they know, starting always with what they fear, desire, and regret.  Such knowledge is often the basis for subsequent curses.  It is for this reason that Witch Hunters rarely tell anyone their true name.  Instead, they choose a name for themselves at their gempukku but only declare that name at the ceremony, and then assume a false name for their entire lives.
+
+  This practice is regarded with extreme suspicion, as many people who are experts in the connections between the living and their ancestors have credibly claimed that it prevents Witch Hunters from being able to be guided by their ancestors, or from having their deeds echo through the realm of the honored dead.  However, this has never been proven, nor has the Imperial Ministry of Rites or the Office of the Jade Champion ever taken any position on this matter.
+
+- **Fleshshaping:**
+
+  One of the least common areas of maho, this is most famously used by the Kadi sorcerers of Medin al Salaat, who give themselves inhuman features and abilities by changing their own bodies.  This is significantly less common in Rokugan, since that's kind of a giveaway which would prevent them from remaining hidden among the peasant population, though particularly malicious tsukai may inflict horrific disfigurement on victims they capture.
+
+While many maho practices involve only one of the maho disciplines, the most powerful tsukai perform rituals which combine several disciplines and usually require several practitioners.  For example, consider summoning an oni:
+
+- It requires so much blood to be shed that an entire coven is usually required, since a single tsukai would be killed by the wounds.
+
+- It requires so much Shadowlands taint to be channeled that it would overwhelm any one tsukai and drive them mad or worse.
+
+- It requires the sacrifice of a name of considerable weight (Recognition) to give the oni the ability to inhabit this realm.
+
+- It's the most difficult of the summoning arts, requiring a tsukai who has already mastered the lesser forms of summoning.
+
+This combines four of the 7 maho disciplines, and most maho rituals are similar in that regard.
+
+There are also some forms of maho which do not actually involve the Shadowlands taint or the shedding of blood.  For example, there are many things a shugenja could theoretically do to empower their magic through the taking and sacrificing of names.  However, this is banned, as Name magic is one of the 7 maho disciplines outlawed by Imperial decree.
+
+One of the earliest works of literature about the early days of the Empire is the court historian Hantei Kajimitsu's "History of Early Rokugan", which opens with this description:
+
+"Before the rise of our Great Ancestors humanity amounted to little.  Their hands ran red with blood, they ate ravenously the flesh of animals, and their bodies were unbathed and ungroomed.  The original religious practices of the unguided peasants included the worship of local gods and minor fortunes who could bless families and land with fertility, prosperity and good fortune or wrack them with disasters and sterility.  Maho cults also existed and although not all human beings practiced maho, the practice of maho was both commonplace and accepted.  Ancient maho practices were identical to modern maho, except that they were commonplace and not illegalized.  Using sacrifices of blood and children, cultists sought to appease the dark gods of Jigoku and yield crops from the soil.  Because agricultural techniques of the early humans were undeveloped, the thirst of the soil for their blood was great."
+
+The Great Ancestors who founded the 7 Great Clans required that any warlord who swore fealty to them foreswears the practices of maho and makes it illegal in their domains.  However, as Hantei Kajimitsu later mentions:
+
+"Although maho was made illegal after the founding of the Empire, it is unfortunately the case that some of the subjects of the Hantei continue to practice unclean maho."
+
+For centuries this practice was limited by the ability of shugenja to detect the Shadowlands taint.  If a tsukai was performing unclean acts which spread the Shadowlands taint within a city, then a shugenja could be dispatched to seek out its source and kill any tsukai they found.  While some tsukai persisted in trying to remain hidden in large cities, most tsukai remained in the countryside, far away from the prying gaze of most shugenja.  Unless their practices spread so much corruption that it rose to the government's notice or their peasant neighbors dared to report them to the authorities, tsukai covens could operate undetected for many generations.
+
+Most countryside tsukai know very little of maho - because its practice is heretical it is difficult for them to study together or share their knowledge widely.  Hedge-witch tsukai of the countryside usually know only a few spells and rites.  The most common practice is to use flesh-altering abilities to heal sickness or injuries in their peasant neighbors, often in exchange for the names of their "patients".  A few learn how to curse their enemies, even fewer know how to create blood-artifacts of any power, and fewer still know the art of summoning oni.
+
+The corruption of the Shadowlands taint interferes with other magics, and shugenja who attempt to wield maho quickly find that their connection to the elemental kami weakens and even goes away completely, and they lose their ability to call upon the elements.  This makes shugenja inherently somewhat trustworthy on the question of maho, because if they were doing things like summoning oni, then they would lose the source of their power, and they are able to prove that they have not turned into tsukai simply by casting one of their ordinary elemental spells.
+
+This distinction also speaks to the ways in which maho practices were the original religion practiced by the peasantry of Rokugan before the founding of the Empire.  In many ways, the tsukai of today are simply continuing to practice the religion of their ancestors.  This is heretical and illegal, but it explains why so many are open to the idea, for reasons other than just the power that it offers.
+
+Isawa himself, who founded the Isawa Family, is known to have practiced maho.  He created many totems using the crafting discipline, and performed rituals to store the power of the names and wounds of his defeated enemies in these totems through blood sacrifices.  It was Shiba who convinced him to set aside these ways for the future of the new Phoenix Clan, though the Isawa Family is rumored to maintain many texts on maho in their secret libraries, for the Phoenix Clan values knowledge more highly than any other clan.
+
+There is one extremely notable exception to the Phoenix Clan's renunciation of the practice of maho.  Isawa Akuma was a shugenja in the Phoenix Clan who lived in the 3rd century who was fascinated by maho.  He studied everything he could find on the subject and is said to have sought out tsukai, and rather than arresting them he offered to exchange his wisdom for theirs, learning from them and teaching them many of the hidden secrets of the Phoenix.
+
+Akuma was one of the most cunning and intelligent members of the Phoenix Clan, and eventually he was able to somehow discover how to wield maho without losing his spellcasting ability!  It is unknown how this is even possible - the elemental kami hate the Shadowlands taint above all else, and the abilities of a shugenja rely on the favor of the elemental kami.  A shugenja is not simply directing power themselves, but rather channeling their own chi in order to call upon the kami to answer their prayers.  And the kami would never respond to a man so deeply tainted as would be required for the practice of powerful maho.
+
+Some have theorized that Akuma is so skilled that he has not defied this limitation, but rather has become so skilled at the practices of maho and spellcasting that he has managed to avoid taking so much Shadowlands taint as to become permanently tainted.  This would be a staggering accomplishment, as some of his feats of maho are so impressive that even the most famous tsukai would be nearly killed by the amount of taint involved, and because of this there are many who reject this theory.
+
+Others have wondered whether Akuma has instead learned how to expel the Shadowlands taint from his body.  Perhaps he DOES lose his spellcasting ability for a time, but through intense self-control over his own body and chi he might have discovered a technique by which someone who has become "permanently" tainted can reverse this effect and recover back to an untainted state.  Others claim that this is even more ludicrous, as the taint is known to settle into a person's marrow, from which it spreads to the rest of the body through the blood, and there are no known principles by which this could possibly be reversed.
+
+There are other theories as well, that Akuma abandons one body for another by being a disembodied spirit which possesses untainted victims and continues to wield his shugenja powers that way... that he has learned to wield some form of magic similar to shugenja control over the elements but distinct from it... etc.
+
+Before Akuma's practice of maho became known, he journeyed deep into the Isawa Woodlands, far from prying eyes, and performed his greatest feat, using his own name to summon a powerful oni lord, Oni no Akuma.
+
+This oni was so massive and powerful that it warped place in the Isawa Woodlands, creating a new "between place" coexistent between the mortal realm and Jigoku.  Because Akuma summoned an oni whose thirst for knowledge matched his own, this oni took the form of a great library, which is said to contain "all of the things that have ever been written, and many of the things which never were written, and more than a few things which will come to be written".
+
+Akuma then set out to read through the sources of knowledge and power in this chaotic and disorganized library which was created by his oni and which is the oni.  Akuma himself was not able to control the oni - although most summoners are able to command the oni which they summon, so powerful an oni lord was required that it will respond to no human commands.  Thankfully for Akuma, this merely means that it treats him like any other visitor, offering its shelves full of nonsense and wisdom and madness and knowledge and lies and power to any who make their way to him.
+
+Over the next few years, Akuma began to publish some of the greatest foundational works of scholarship the Empire had ever seen.  Many of the concepts behind vows I described earlier in our conversation are included in his book "On Vows to the Fortunes".  His work "On Soothsaying" contains the definitive classification and description of the various forms of augury and prophecy.  There are many other examples... and as his scholarship grew, so did the power of his name, and thus so did the oni which formed his Great Library.
+
+Eventually the source of his knowledge was discovered, and his death warrant was signed, effectively exiling him.  This seemed to matter little to Akuma, who was happy to take refuge in his library.  The oni which protects the library and which is the library will not permit any who travel there to attack other visitors, and it would take an army to defeat it.  Unfortunately, that is challenging, because the library can never be found the same way twice.  All of the normal paths through the Isawa Woodlands which might lead one to the library have already been taken, and therefore travelers who seek it out must journey through more unusual routes, taking them in and out of the mortal realm in order to find their way there.
+
+The Empire hoped that Akuma's oni would eventually pull itself into Jigoku after his death, but he surprised and defied the wishes of the Empire by attaining immortality.  He is one of only three shugenja confirmed to have ever accomplished this feat, the second shugenja in the Empire's history to have done so (the first was Isawa no Naka Kuro, the Grand Master of the Elements, who dwells at the Temple of the Four Elements in the Spine of the World Mountains).
+
+It is unknown whether Akuma's apparent immortality is the result of absolute mastery over the elements, or because of his dark practices of maho.  Tsukai have been known to attain immortality and thus escape the cycle of death and rebirth through the absolute mastery of their fears, desires, and regrets.  Monks have been known to do so through reaching enlightenment.  Even mundane artisans have been said to have achieved immortality through complete devotion to their mundane crafts - the founder of the Kakita Academy was a poet who is said to still wander the Empire to this day, composing sublimely beautiful works of poetry about the wonders of the natural world around him.
+
+Regardless, Akuma remains an entity at large in the world today.  Unlike most dangerous tsukai, he appears to mainly be interested in the pursuit of knowledge, and seems to have few political opinions and no desire for temporal power.  His works of scholarship are still copied and studied because of their well-established correctness, though he is believed to not be their true author, and is thought to have pilfered them from his Great Library.
+
+It is for this reason that copies of books which he published always open with some version of this disclaimer:
+
+"This book was originally published by Isawa Akuma, who was later discovered to have stolen it from the Great Library.  Its true authorship is unknown.  Anyone who discovers a copy of this book without this disclaimer is ordered to report it to the office of the Jade Champion."
+
+The thinking is that books he published such as "On Vows to the Fortunes" or "On Soothsaying" were written by someone who was never born, or possibly the books would have otherwise not come to be written for centuries, and Akuma found these texts and published them, attributing them to himself, which fueled his name even further.  Some point out in private that this cannot be proven and he may have indeed written some or all of the works attributed to him, but few would dare to publicly contradict the Office of the Jade Champion.
+
+The above differs somewhat from the Isawa Akuma of the original L5R published books.  The intent is to use the character to explore the boundaries between the different magic systems which exist in Rokugan - a case of establishing a principle and then introducing a seeming contradiction into a coherent world and system.
+
+### Iuchiban and His Lieutenants
+
+The discussion now turns to Iuchiban (the first and most famous bloodspeaker) and his lieutenants.
+
+The Emperor's second son at the end of the 5th century (~600 years ago) was Hantei Iuchiban.  Like most second sons of the Emperor, Iuchiban commanded the 1st Imperial Legion to guard the Gateway to the Land of the Burning Sands at Chai Sedo.  As usual, this was for the purpose of "keeping him away from the temptation of entangling alliances with those who might seek to subvert the authority of the crown prince".  However, Prince Iuchiban "craved the power that the Fortunes had fated his elder brother should have, and sought to gain it by maho" (citation Asahina Toshiro in "Trying Times").  To this end, he used his authority to acquire tomes about the functioning of maho, intending to learn its ways and wield it as an unexpected weapon in an eventual coup.  This was also before trade with gaijin lands was banned after the Battle of White Stag, which happened 300 years later (which is ~300 years ago, as my current campaign takes place in the year 1129 of the Rokugani calendar), which made it much easier for Prince Iuchiban to send emissaries to Medin al Salaat across the desert, seeking out the khadi of that city.
+
+From his seat of authority at Chai Sedo, Iuchiban began gathering disciples to him.  While most of his followers were killed when he launched his coup against his brother, the most powerful survived due to being able to return after the destruction of their bodies, and many remain at large in the Empire today.  Most have taken the "Jama" name, which Iuchiban invented as a way to identify those in his service in a twisted perversion of a noble samurai name.
+
+For reference, in this version of Rokugan, the format of a normal samurai name is "<family> no <house> <personal>".  For example, the PC "Akodo no Sugiwara Natsuki" is from the Sugiwara house of the Akodo Family.  The word "no" means "of", and this part is generally omitted for people from the ruling house of a family.  For example, "Kitsuki Tetsu" is the usual form, with the longer "Kitsuki no Kitsuki Tetsu" reserved for extremely formal circumstances.  In less formal contexts, the Family name is often dropped - for example, "Shosuro no Seri Go" is usually referred to simply as "Seri Go".
+
+Jama names substitute the tsukai master who inducted the apprentice.  Iuchiban's followers have names like "Jama no Iuchiban Kohaku", and his disciples have names like "Jama no Kohaku Jin", etc.
+
+Iuchiban surpassed all who brought maho knowledge to him, and many of his servants were directly responsible for learning and disseminating some specific maho practice.
+
+This account differs somewhat from the original description of Iuchiban in the L5R books, though not drastically - mainly it clarifies and expands details which were already present.
+
+By way of background, some of his most famous disciples follow, specifically the ones which are still alive and at large after all these centuries, starting with Jama no Iuchiban Suru.
+
+#### Jama no Iuchiban Suru
+
+Before adopting the Jama name, Shiba no Iga Suru was the one who first brought maho texts to Iuchiban, particularly the writings of a mad Kuni shugenja who was driven to insanity from too much exposure to the taint while fighting the forces of the Shadowlands.  It was these writings which began Iuchiban's journey into the practice of maho.  Together, the two of them conducted what prayers and rituals they could manage from reading these texts alone, but it soon became clear they needed more expertise.
+
+Suru is notable for being one of the only remaining disciples of Iuchiban from the samurai caste, and to this day he is said to travel in noble circles, kidnapping and impersonating traveling samurai.  He then uses this position to learn the fears, desires, and regrets of those in power, seeking out those who might be willing to give him their names in exchange for his aid in achieving their political ambitions, with the promise to never reveal his role in assisting them.  Because of this secrecy, it's unknown just how many of the political happenings of the Empire have involved Suru's influence.
+
+Suru ultimately uses the names of famous nobles to fuel powerful rituals.  Suru was directly responsible for resurrecting Iuchiban, and the Great Famine of the 7th century is thought to be Suru's doing.  He has been killed many times but always resurrected by his allies and disciples.
+
+#### Jama Musume
+
+Another terrifying disciple of Iuchiban is Jama Musume.  Unlike the others who have taken the Jama name, she does not add the "no Iuchiban" qualifier, on the basis that she herself originally instructed Iuchiban.
+
+The writings of the mad Kuni shugenja brought to Iuchiban by Suru mentioned an old peasant tsukai-woman known as "the dark daughter of Fu Leng".  Suru sought her out and convinced her to come to their aid, teaching the ways of maho to the most trusted of Iuchiban's retainers.  While she began as Iuchiban's instructor, he eventually surpassed her and taught her the maho disciplines she had previously lacked.
+
+Musume assisted Iuchiban in his coup attempt, but was not killed, and was the only one of Iuchiban's former lieutenants who was absent after his resurrection.  She is known to live in the Shadowlands, where she occasionally ambushes Crab raiding parties.  Instead of killing them, she takes their swords and tells them a date and place at which they can reclaim them if they defeat her oni.  Bushi will typically return to the Shadowlands with a small army, allowing them to easily defeat the oni and reclaim their lost swords.  Unfortunately, this serves Musume's purposes quite nicely, since the larger a force is brought, the more people learn of her name and carry the memory of her oni, thus further increasing her power.  (Remember that tsukai gain strength based on the number of people who know their name, especially when those people have strong emotional feelings of fear, desire, and/or regret when thinking of that name.)
+
+Musume is never present when these armies appear to kill Oni no Musume, since she has no need to be there in order for her purpose to be achieved.  Instead, she can remain safely elsewhere, not putting herself at risk of the inconvenience of being slain, and indeed it is unclear whether she has ever been killed.
+
+#### Asahina Yajinden
+
+Another of Iuchiban's disciples is Asahina Yajinden.
+
+Iuchiban's plans could never have succeeded so long as the Shadowlands taint was so easily detected by shugenja.  Convinced that there must exist some method by which the taint could be hidden, Iuchiban reached out to a smith of great renown, hoping that Yajinden could construct amulets capable of concealing the Shadowlands taint in its wearers.  Although Yajinden failed in this effort, his research and collaboration with Iuchiban resulted in Iuchiban himself inventing the maho practice of concealing the Shadowlands taint from the divinations of shugenja.
+
+Yajinden perfected the maho practice of crafting, and taught Iuchiban's disciples how to use the names of objects as an alternative to the names of people - in particular he invented the method of sacrificing the name of a famous sword in order to create a cursed obsidian sword.  Yajinden himself proceeded to create what have been described as the four most powerful obsidian blades ever smithed, known as the 4 "Bloodswords" (Ambition, Revenge, Judgement, and Passion) and was said to have been working on a 5th bloodsword (Treachery) when Iuchiban was defeated.
+
+Yajinden was captured by the Emerald Champion after Iuchiban's coup attempt.  It's unknown how he managed to escape, since his maho practices revolved almost entirely around crafting.  Interestingly, his escape was reported to have occurred many years later, implying that he was not immediately put to death, and Yajinden is said to have assisted the Emperor's advisors in containing the spirit of Iuchiban to prevent him from being resurrected.  However, after managing to escape, Yajinden is said to manufacture obsidian swords and other maho artifacts for bloodspeakers, and train their brightest maho-smith apprentices on how to do the same.
+
+Much more has been written about Yajinden, but one thing to note for future reference is that often when telling these kinds of histories, the information is supposed to be somewhat unreliable.  This is what people believe to be true, and most of it is true, but there may be individual parts of the story which are later revealed to be falsehoods spread for some political or religious purpose.  The intent is for Rokugan to be a place whose history books are not entirely reliable, just as modern historians regard many ancient sources as having their own biases and inaccuracies.
+
+#### Jama no Iuchiban Kyoso
+
+One of the most famous disciples of Iuchiban is Jama no Iuchiban Kyoso.
+
+Known as "queen of oni", Kyoso began as a legionnaire in the 1st Imperial Legion from either the Kitsu Family of the Lion or the Yogo Family of the Scorpion.  (Each family disclaims her, and there are credible historical accounts supporting her ancestry from either family.) Kyoso quickly mastered the lesser summonings taught by the maho texts of Jama Suru and the teachings of Jama Musume, easily summoning swamp spirits and mujina and kansen.  Kyoso's intuitions about these practices changed how humans understood oni summoning.  It was Kyoso who explained that oni require a name to be summoned, not as payment, but because nothing without a name can exist in our realm.  The name is what permits the oni to possess a physical form, and the nature of the oni's form in Jigoku therefore has even more effect on the form it takes in our realm than any material components used to anchor its spirit to a physicality in our reality.
+
+Kyoso made further discoveries in the practice of oni summoning.  Prior to her, any tsukai who wished to summon an oni required either their own name or a name which someone chose to give to them.  While blood sacrifices had previously allowed tsukai to use the names of sacrificial victims, it was Kyoso who discovered how to use the name of someone at the moment of their death to summon an oni.  For centuries, this has allowed bloodspeakers to summon oni using the names of victims who would die rather than surrender their own names, even under torture.  This has led to the targeting of countless samurai by bloodspeaker covens over the years, as the protection of righteousness and indomitable will no longer prevents your name from helping a bloodspeaker's summonings.
+
+Kyoso's other discovery was even more significant, which is that of "dismissing" and "recalling" oni.  Prior to her, a tsukai who summoned an oni would have to find somewhere to keep it.  Even out in the countryside, this could spread its taint to the countryside enough to be noticed.  Even worse, a traveling tsukai who kept their oni close enough to come to their defense would almost certainly be seen.  Kyoso discovered that it was possible to send a summoned oni back into Jigoku, and then recall it at a moment's notice.  This process of recall needs far less preparation and ritual than the initial summoning, though it still requires a great expenditure of resources - typically a name almost as large as the one used to summon the oni, or many lesser names, or some combination of names, Shadowlands taint, and wounds.  Even worse, Kyoso is said to have further refined this process to allow the oni itself to return when certain conditions are met, such as the death of the bloodspeaker who summoned it - this means that even when a powerful bloodspeaker is taken by surprise and beheaded instantly, their attackers may still have to fight their oni afterwards.
+
+#### Jama no Iuchiban Kohaku
+
+The final bloodspeaker in this "rogues' gallery" of Iuchiban lieutenants - Jama no Iuchiban Kohaku - is an entirely original creation; all of the others are mostly or loosely based on characters from original L5R.  Kohaku has actually appeared as a character in past L5R adventures at the table, which is why the notes here are extensive:
+
+Kohaku was a traveling monk whose pilgrimage brought him to Chai Sedo (the temple at the Gateway to the Land of the Burning Sands, which is itself a narrow valley in the Twilight Mountains on the western side of the Empire) while Iuchiban was stationed there as the general of the 1st Imperial Legion.  With Iuchiban's influence, Kohaku was made the abbot of Chai Sedo, based on his scholarly acumen and understanding of the Tao.  It was Kohaku who Iuchiban dispatched as an emissary to Medin al Salaat to seek out the underground khadi who were still forced by the Ki Rin to stay hidden and make deals from the shadows.  Kohaku succeeded in mastering their ways, even learning the khadi secret of removing one's heart, which he returned to teach to Iuchiban and his fellow disciples.
+
+Interestingly, Jama no Kohaku Jin told the PCs during a previous campaign that removing one's heart does not grant immortality, and that instead it is the mastery of one's fears, desires, and regrets which does that.  He indicated that the removal of the heart helps you attain this mastery, but that most who perform the ritual are still mortal and their removed heart will stop beating when their body dies.  Jin claimed that there is some amount of life extension and resistance to wounds and age and sickness which is granted by the ritual, but that the common beliefs about heart-removal are mistaken.  This was already alluded to above - the common belief is that bloodspeakers attain immortality by removing their hearts and keeping them somewhere safe, but in actuality it is about mastering their fears, desires, and regrets.
+
+After Iuchiban's defeat, while Jama Suru proceeded to recruit and gain power from noble samurai, Jama Kohaku recruited peasants.  He is known to have personally sought out countryside tsukai from all over the Empire and taught them how to conceal the Shadowlands taint, allowing them to expand their covens and migrate from the countryside into larger cities without being found.  Because of his focus on evangelism to the peasantry, more bloodspeaker covens broken up by Witch Hunters have been linked to Kohaku than any other bloodspeaker.
+
+When a powerful oni lord known as The Maw gathered an army within the Shadowlands, it was Kohaku who combined explosives with powerful maho to blast a hole in the Kaiu Wall, allowing the Maw to invade the Empire.  Even worse, Kohaku diverted a Shadowlands river through the opened hole in the Kaiu Wall, flooding and tainting the Hiruma countryside, which ultimately prevented the Crab from reclaiming Hiruma castle after the Maw was defeated at the Battle of Cresting Wave.
+
+After Iuchiban was defeated, his soul was bound to the Forgotten Tomb.  Jama Suru performed unknown rituals to break it free, but it was Jama Kohaku who used his khadi-trained flesh-shaping abilities to construct a new body for Iuchiban's spirit to inhabit.  Kohaku continued to serve as one of Iuchiban's trusted lieutenants until Iuchiban's second death at the Battle of Sleeping River.
+
+More recently, Kohaku appeared at Kyuden Hida on the most recent Day of Thunder.  The Seven Thunders defeated the dark avatar of Lord Moon, Shinjo Jotsu, before Kohaku could arrive.  Kohaku proceeded to take revenge on behalf of Shinjo Jotsu, declaring himself an ally of the Moon Cult, and urging all cultists to travel to Kyuden Shinjo, where the moon cult was still strong.  This led directly to the overthrow of Shinjo Yokatsu, who turned out to be a moon cultist.  The Lion Clan felt this did not go far enough, and invaded Unicorn lands with the declared intention to drive out any remaining moon cultists once and for all, though they were defeated after Shinjo Hanari called in the Moto, who defeated the invading Ikoma armies of the Lion Clan at the Battle of Dark Edge Village.
+
+At least, that's what is generally known and believed.  Jama no Kohaku Jin now claims that the overthrow of the moon cult in Shinjo lands was his idea, and that he asked "master Haku" (which is what he calls Kohaku) to declare his allegiance to the moon cult and reveal its stronghold in Kyuden Shinjo specifically to cause "the samurai" to destroy it.  Bloodspeakers are known to often take credit for such things, though it's still a plausible story, since as Shiba Tsuchida pointed out, "it's a perfect example of how evil feeds upon itself".  Then again, it could just as easily be an attempt by Jin to cover up an embarrassing mistake.
+
+An even more recent event indirectly linked to Kohaku was the exploits of one of his other apprentices, Jama no Kohaku Hoshiko, who was known to be with Jama Kohaku on the recent Day of Thunder.  For years, a historian assigned to the post of Ratling agent for the 3rd Imperial Legion by Kyuden Hida helped samurai track down the lost swords of people's fallen ancestors who died in the Shadowlands.  One day, after a man named Kakita Hio won such a duel with his recovered ancestor's sword, a mujina appeared and declared that all of these recovered swords had been cursed by Jama no Kohaku Hoshiko, and the mujina named the date and place within the Shadowlands where those who wished could seek revenge and break the curse by slaying the oni through which the curse was bound.  (Hoshiko has evidently learned the technique from Jama Musume of convincing samurai to spread her name for their own purposes, thus empowering her.)
+
+When a small army showed up on the date in question, Oni no Hoshiko was indeed slain, but evidently Hoshiko had also studied the techniques of Jama Kyoso and managed to summon/form a rust oni which was specifically able to ruin swords.  While many were wounded, not one samurai died in the fight against the oni, yet every sword carried by all members of the attacking army was ruined beyond repair.  This gives each member of the army a right of vengeance against Jama no Kohaku Hoshiko, which permits them to spread her name when done so in the furtherance of their search for her, which is how many well-informed people would know her name, especially those who keep abreast of such matters.  Hoshiko is an excellent example of how modern bloodspeakers often combine the teachings of many of Iuchiban's disciples - in her case Kohaku, Musume, and Kyoso - in order to wield their power more effectively.
+
+### Iuchiban's Coup History
+
+What follows is a writeup of Iuchiban's coup attempts and the fallout they generated:
+
+#### Iuchiban's Coup
+
+Armed with the ability to infiltrate the capital without their maho being detected, Iuchiban and his disciples journeyed to Otosan Uchi.  They slowly began to raise the bodies of the honored dead in the Imperial crypt underneath Otosan Uchi, with the intention to mount a surprise attack on the Imperial court.  At the same time, they began quietly abducting members of the Imperial Chancellery whose names they used to power their spells and rituals.
+
+This was ultimately discovered before their preparations were complete, and a group of investigators drawn from each of the 7 Great Clans uncovered Iuchiban's activities and slew him in the resulting battle before he could escape.  The similarities between this event and the original Day of Thunder were not lost on people afterwards, and it was an open question for many years whether this event was another Day of Thunder.  The implications are not trivial - if the original Day of Thunder established the supremacy of humanity for all time, then the stakes of such conflicts are more localized in time and place.  But if humanity needs to periodically renew the Prophecy of the Age of Man (in which the Shinsei revealed that the Fortunes favor mortal man), then humanity's future as a species is not guaranteed.
+
+The Imperial Ministry of Rites took no direct position on this question, though many individual Imperial Ministers of Rites over the years dismissed the question as ludicrous.  Recently the prophet Baiten declared that the Day of Thunder was at hand.  Prince Fukuhachi, who oversaw the city of Toshi Ranbo at the time, reported that he narrowly prevented the assassination of the prophet Baiten, who was later found to have been murdered at the order of Shinjo Jotsu, the leader of the moon cult.  Shinjo Jotsu's later defeat was later revealed to be another Day of Thunder, prompting the Imperial Ministry of Rites to declare that Days of Thunder are indeed periodic events.  Interestingly, the Imperial Ministry of Rites has not yet retroactively declared Iuchiban's coup to be the Second Day of Thunder, though the growing consensus seems to be that this is obviously the case.
+
+Because Iuchiban could not be permanently killed, the Emperor's advisors managed to bind his soul to a prison in the Forgotten Tomb, preventing his resurrection for so long as his soul remained bound there.  While bloodspeakers who have removed their hearts and conquered their fears, desires, and regrets are able to resurrect themselves, Iuchiban's imprisonment was designed to prevent this possibility.
+
+Bloodspeakers and Witch Hunters:
+
+As a reminder, "tsukai" is the general term for a practitioner of maho.  However, once Iuchiban developed the technique of concealing the Shadowlands taint, those tsukai who are able to conceal the taint became known as "bloodspeakers".  As established earlier, all bloodspeakers are tsukai, but not all tsukai are bloodspeakers.
+
+This distinction led to a new urban phenomenon of bloodspeakers in cities, who were able to take advantage of dense populations to acquire more power and commit bolder acts against samurai than they could perform in the countryside.  Kidnappings, murders, and larger rituals (especially on certain busy festival days) are all common, whereas tsukai in the days before Iuchiban were a rural phenomenon, since they could not operate in large population centers without being found by shugenja.
+
+To combat this new bloodspeaker threat, a new Office of the Jade Champion was founded, which oversaw a new type of magistrate called "Witch Hunters".  Trained from a young age by being repeatedly exposed to the Shadowlands taint from early childhood, those Witch Hunters who survive this training are both immune to the Shadowlands taint and able to detect it even in bloodspeakers who try to conceal it.  Unfortunately, this detection is not perfect, and the powerful bloodspeakers have only a small chance of being detected.  Fortunately, if an entire coven is suspected, it's likely that at least one member will fail to escape detection, and once a single bloodspeaker is found, they can reveal the identities of the others - though the identities of their coven members are often obvious based on who they spend their time consorting with.
+
+Witch Hunters quickly grew in number and importance in order to fight against the rapid spread of bloodspeaker covens.  At one point, the Hantei Emperor ordered a Witch Hunter placed in every domain capital in the Empire, with these magistrates of the Jade Champion being given jurisdiction to investigate any reports of tsukai activity anywhere.  Some of these orders were later rescinded for reasons described below, and the power and influence of Witch Hunters has waxed and waned over the centuries according to the needs of the Empire.
+
+#### The Gozoku
+
+Some Hantei Emperors need to take strong action and be closely involved in political matters throughout the Empire.  Other Emperors preside over periods of prosperity which require little of their attention.  During one such period, five families of the Empire collaborated to effectively seize control of the Imperial Chancellery, ensuring that their cabal was the true decisionmakers in most matters decided in the Imperial capital.  Some players may have noticed that a few of the Companies in the 1st Imperial Legion are not from the ruling houses of their respective families.  Those families were members of the Gozoku, and were so powerful that they obtained more wealth and influence than even the houses which ostensibly ruled them.
+
+In case it matters for future reference, the five families of the Gozoku are:
+
+1. The Isawa Family of the Phoenix Clan, which is ruled not by a daimyo but by the Council of Elemental Masters.  Shiba the Great Ancestor who founded the Phoenix Clan bent his knee to Isawa at the dawn of the Empire in order to show his devotion to the Empire and gain Isawa as a vassal, and the Isawa have always had final say over Phoenix Clan affairs, when they choose to exercise it.
+
+2. The Doji Family of the Crane Clan.  Every Emperor since the dawn of the Empire has married a Doji bride, and Doji courtiers have always maintained control over the Imperial courts as the ruling family of the Crane.
+
+3. The Tsume vassal house of the Doji Family.  The northernmost domain in Doji lands, Tsume lands border both the Lion and Phoenix clans, and in times of war the Tsume daimyo has often been granted the position of "General of the Northern Armies of the Crane".  This was not true in recent years, when Tsume Retsu invaded the city of Toshi Ranbo, ultimately kicking off the Lion/Crane war, much to the displeasure of the rest of the Crane Clan.
+
+4. The Bayushi Family of the Scorpion Clan.  Just as the Lion and Crane clans are said to be the Emperor's right and left hands in times of war (this being reversed in times of peace), the Scorpion are said always to be the Emperor's underhand, and the Bayushi have always administered the Scorpion through equal parts rulership and spycraft.
+
+5. The Michio house of the Shosuro Family of the Scorpion Clan.  While the largest city in the Empire is its capital of Otosan Uchi, the second largest city of Ryoko Owari lies next to Beiden Pass where the 2nd Imperial Legion is stationed, separating Lion and Scorpion lands.  This is the hub of all trade in the central Empire, and lies just north of the best lands for silk cultivation.
+
+#### Hantei the 16th
+
+Eventually the time came for the Hantei Emperor to resume direct control of many of the Empire's affairs which had come to be managed by the Gozoku.  Unfortunately, while no one would have dared disobey the Emperor, the structures of government continued to operate as they were rather than immediately shifting according to the Emperor's will.  Whether because of intentional undermining of the Emperor's authority, or simple neglect and carelessness, Hantei the 16th found his orders not being obeyed even as every one of his subjects professed their loyalty to him.
+
+Hantei the 16th proceeded to take a series of actions to break up the alliance of the Gozoku which led to him earning the nickname "the Steel Chrysanthemum".  For example, after Daidoji Tojo became the senior member of the Daidoji Trading Council, he staged a power-play within Crane lands to attack and discredit a childhood rival, which derailed plans the Emperor had been orchestrating for years.  In retaliation, the Steel Chrysanthemum elevated him to the Fortune of Dung.  (Remember the power that Emperors claim to elevate people to become fortunes, discussed previously.)
+
+Hantei the 16th also used the Witch Hunters to investigate those who he suspected of conspiring against his interests.  This led many overzealous Witch Hunters to go beyond what the Steel Chrysanthemum had ordered of them, with some going so far as to lie about the results of their tests, and condemn some suspects as tsukai who had never practiced maho.  After the reign of Hantei the 16th ended, his successor rolled back the power of Witch Hunters as a direct response to the excesses they perpetrated while trying to best serve his father.
+
+For example, Witch Hunters cannot directly accept expensive gifts.  Having sworn a vow of poverty, they instead accept the gifts "on behalf of my office", with the understanding that if/when they are ever reassigned, the gifts would stay with the office rather than departing with the person.  This vow became a requirement of all Witch Hunters everywhere as part of the reforms which occurred after the reign of Hantei the 16th.
+
+#### Iuchiban's Resurrection
+
+It's unclear exactly how Iuchiban's soul was freed from the Forgotten Tomb, but Jama Suru is believed to have used the samurai names he acquired over 2 centuries to perform rituals to break the soul free, and Jama Kohaku constructed a new body for Iuchiban.  Together, they gathered most (though not all) of his other surviving disciples and attempted to take the Empire by force.  They began by raising an army of zombies and moved across the countryside.  Any losses they sustained were quickly replenished with the bodies of fallen samurai.  Recognizing the plight they faced, enemy daimyo quickly put aside their differences to stamp out this force before it could grow too large to stop.  Iuchiban had counted on the Empire remaining too divided to oppose him, but he was once again defeated and slain.
+
+Because the Forgotten Tomb could no longer be relied upon to contain Iuchiban's soul, the Kaiu Family constructed a new Tomb of Iuchiban.  Its exact location is unknown, and it may be at the south end of the Twilight Mountains, or hidden somewhere in the Kuni Wastelands, or deep in the Shinomen Forest.  Kaiu Gineza was the chief architect of this new tomb, and upon its completion he sealed himself inside, both to complete its unbreakable wardings and to prevent any possibility that his knowledge of its defenses could ever be used to break Iuchiban free.  To this day Iuchiban has not escaped again, nor is any bloodspeaker currently alive believed capable of accomplishing such a feat.
+
+After the return of Iuchiban, some of the institutional powers stripped from Witch Hunters after the reign of the Steel Chrysanthemum were restored, though still nowhere near the point they were at their peak.  There are currently only about 200 Witch Hunters stationed throughout the Empire, which currently has 284 domains.  Even a post as prestigious as the 1st Imperial Legion wouldn't have an assigned Witch Hunter if not for the historical reasons for the Empire to be concerned about possible khadi influence on Chai Sedo.
+
+One intent in the above is to use the kinds of words and phrasings that people within the society would use.  For example, look at how Hantei the 16th is described.  Consider the sentence:
+
+"This led many overzealous Witch Hunters to go beyond what the Steel Chrysanthemum had ordered of them, with some going so far as to lie about the results of their tests, and condemn some suspects as tsukai who had never practiced maho."
+
+Read in a history book about a real-life premodern society, that kind of passage would probably suggest that the Emperor really did order the Witch Hunters to lie and falsely condemn his political opponents as tsukai so that they could be executed, which would help re-establish the Emperor's authority and strength.  And indeed, that is the intended interpretation - readers should think that Hantei the 16th was a complicated figure who brutally opposed his enemies, and even if they think his goals and results were mostly just or well-intentioned, they probably wouldn't want a modern Emperor to behave as he did.
+
+However, no one in polite society would ever say that!  Instead, they would say things like, "The Emperor always does what is appropriate for his time and place.  In the past, Emperors such as the Steel Chrysanthemum behaved in ways which were appropriate to the challenges of their era, and the Hantei dynasty of today is wise enough to understand that the current era no longer demands such actions."
+
+## Shugenja
+
+With the "dark" practitioners of "dark" magic covered, the discussion turns to shugenja, the spellcaster priests of the Celestial Order who are members of the samurai caste.
+
+One interesting thing to explore is the difference between the fortunes and the elemental kami.  The latter are the elemental spirits of air, earth, fire, and water which inhabit all physical things.
+
+Shugenja can communicate with the elemental kami much more directly than anyone can communicate with the fortunes, as the elemental kami are generally smaller.  The Elemental Dragons which are the manifestation of the elements are closer to the fortunes in this regard, and are much more difficult to communicate with, even in situations where they physically manifest.
+
+This came up in a previous campaign when a shugenja used their powers to interfere in a duel.  The writeup explaining shugenja and their wisdom and magics and how they interact with Rokugan's legal system follows:
+
+Shugenja are extremely rare.  In most clans, about 1 out of every 10,000 samurai is a shugenja.  Since most domains have about half that number of samurai, about half of the domains in the Empire don't have even a single shugenja.
+
+Shugenja are extremely valuable.  A daimyo who loses a shugenja has usually lost their only shugenja, so they're typically extremely protective of their shugenja, above and beyond most of their other retainers.
+
+Shugenja are human.  They make mistakes and sometimes get into trouble, but as samurai they occupy roughly the same place within the celestial order as other samurai, though as priests rather than warriors.
+
+There is no stated legal doctrine which will tell any magistrate that shugenja are treated according to different rules than any other samurai, but when you combine the above facts you end up with a system which is extremely slanted in their favor.  Even an Imperial magistrate who isn't the one losing a shugenja must understand how deeply he will anger any daimyo whose shugenja he takes away, whether through the death penalty or exile or imprisonment or forced pilgrimage or lengthy remunerative service.
+
+Most magistrates, even Imperial magistrates, will go to extreme lengths to avoid depriving daimyo of their shugenja.  Legal historians can name a number of situations in which Imperial magistrates went too far and made rulings so egregiously biased towards shugenja that their rulings were actually overturned on appeal.  Rulings are only overturned in the most extreme circumstances, but the fact that a number of such cases even exist shows how far most magistrates will go to shield a shugenja from legal consequences.
+
+All of this despite the fact that in theory, shugenja are not to be treated any differently than anyone else who interfered in a duel, since there aren't actually any laws, standards, or precedents saying that the rules are different for shugenja in this regard.  This is typically worked around by shugenja not being allowed to even witness duels, due to the possibility of them magically interfering.
+
+With that being said, there are a few important cases involving shugenja and duel interference, even after it became standard practice for shugenja to be universally disallowed from being present during duels, which mainly came about in the 3rd century after one or two especially egregious cases of duel interference.  (Notably, it's not actually illegal by Imperial decree for shugenja to avoid being present, though most daimyo have standing orders to this effect.)
+
+Isawa Ejuko was the Elemental Master of Water at the beginning of the 8th century.  She was a romantic who loved to see people marry their soulmates, and swore a vow to Benten to perform marriage ceremonies for any star-crossed lovers who asked it of her.  Ejuko performed such a marriage ceremony for her friend Kakita Konishiko to her friend's lover Kakita Torikago.  Konishiko was already betrothed to a man named Doji Reju, so a challenge was issued by Reju to duel Torikago to the death.
+
+An Imperial magistrate ordered that the challenge must be answered, and that the duel would be fought to the death, so that the winner would be free to marry (or stay married) to Ejuko's friend Konishiko.  The magistrate ordered that the matter would be decided by duel "once and for all" on a certain date on which the duel would take place.
+
+Ejuko called upon the water kami and created a torrential rain on that day, preventing any possibility of a duel occurring.  When questioned, she declared that the kami themselves were angered by the efforts to separate this husband and wife, though it seemed clear that she herself had provoked this anger and that the kami were angry as a result of her request as the Master of Water that they show their anger.
+
+Ejuko was ordered back to Phoenix lands so that she could no longer interfere with the duel, which was allowed to go forward.  She was not punished, though she was admonished for having interfered with a valid duel, and it was made clear that even the Master of Water would have suffered the displeasure of the Emperor had she interfered with a duel already in progress.
+
+Fun fact: if not for having been ordered back to Phoenix lands as a result of this ruling, Ejuko would not have been in the right place to marry Mirumoto Asijin to his true love Isawa Maroko.  This was yet another case of Ejuko performing a marriage for someone already betrothed, which led to Akodo Yokutsu leading an army north in retaliation, resulting in the Battle of the Tonbo Plains, which resulted in the creation of the Dragonfly minor clan.
+
+This shows the ways in which the elemental kami are held in high regard, and yet the ability of shugenja to influence them means that their apparent wishes cannot necessarily be weighted as heavily as the will of e.g. the fortunes.
+
 ## The Karmic Inquisitors Campaign
 
 The "Karmic Inquisitors" campaign is an older campaign set in Damasu lands, the domain whose capital is Toshi Ranbo, the third-largest city in the Empire.
@@ -2287,161 +4273,216 @@ There was no major Temple to Benten before the Tsume occupation, but the Crane C
 
 The Damasu administration have mainly left this temple alone, as they do not wish to offend Benten by deconsecrating her temple, but neither are they bolstering it with city funds.  The temple itself remains a destination for those wishing to make an offering to Benten to ensure a good marriage for themselves or their children, but otherwise this temple has largely fallen into obscurity.
 
-## Soothsaying
+#### Temple Daily Life
 
-This section describes how omens and portents work in Rokugan, and how they are understood as tools of soothsaying.
+The above sections detail the temple's hierarchy and budget, but this doesn't quite describe what most of the monks are doing day-to-day.  This is only somewhat reflected in how the temple receives and spends its money, since some things are mostly free and others cost enormous amounts of money.
 
-Although "soothsaying" literally means "truth-speaking", the word colloquially refers to predicting the future.  Soothsaying has two categories, which split into four disciplines, which divide into eight forms, which are composed of innumerable different practices.  Here's the opening that people read when opening the book "On Soothsaying":
+Because monks tend to perform many roles, there's not a simple or clear breakdown of who is doing what.  For example, consider the role of education in the temple.  While it's true that some Adept monks might spend most of their time educating initiates, teaching and learning does not stop at any rank.  Some senior monks will be active in continuing instruction of the junior monks under their authority, while others will be mainly concerned with temple operations.  Some scribes and librarians will be fully occupied with copying and cataloging, while others will use their expertise to guide the education of the temple's most senior members.
 
-"This book was originally published by Isawa Akuma, who was later discovered to have stolen it from the Great Library.  Its true authorship is unknown.  Anyone who discovers a copy of this book without this disclaimer is ordered to report it to the office of the Jade Champion."
+Because of these shared roles and responsibilities, any breakdown of temple work will add up to well over 100%.  However, this is still useful to help understand how the Temple of Bishamon's monks spend their days:
 
-The above disclaimer is at the front of several books published by Isawa Akuma many centuries ago, including this one.  Akuma was a powerful shugenja who was also the greatest scholar of his generation, which is unusual since it's practically unheard of for masters of magic to also be masters of scholarship.  However, it later turned out that Isawa Akuma had used his great name to summon an oni lord (Oni no Akuma), who took the form of a Great Library hidden deep in the Isawa Woodlands.  This library is said to contain "all of the things which have ever been written, and many of the things which never were written, and more than a few things which will come to be written".  It cannot be found the same way twice, and therefore is very difficult to reach.
+| Percent | Role | Work |
+| --- | --- | --- |
+| ~33% | Clergy | Performing religious ceremonies, rituals, and prayers, as well as guiding others in meditation, study, and training. Some monks specialize in specific aspects of the faith or in performing particular rituals. |
+| ~25% | Educators | The most common task is recruiting and instructing initiates who have not yet been chosen to join the temple, followed by the continuing education of the temple's novices, acolytes, and junior monks. |
+| ~20% | Custodians | This not only includes those who clean the temple but also the skilled work responsible for doing maintenance and repair work. In some cases this will require bringing in and overseeing outside contractors for extremely specialized labor. |
+| ~20% | Cooks | The kitchen staff needs to be large to serve multiple meals per day to hundreds of monks, and this figure also includes those who work in community kitchens which exist as part of the Temple of Bishamon's charitable outreach. |
+| ~15% | Scribes/Scholars | The temple librarians copy religious texts, maintain the temple's library and archives, and engage in scholarly pursuits related to the temple's religious teachings and history. Making new copies of the Tao (and other religious texts) in particular is such incredibly time consuming and important work that many monks devote their entire lives to it. |
+| ~10% | Administrators | Responsible for managing the temple's finances, resources, and personnel, the stewards and senior monks in these positions also liaise with the city government (particularly the Damasu Ministry of Rites), handle correspondence with other temples, and manage temple visitors and pilgrims. |
+| ~10% | Philanthropy | Those who oversee and distribute the temple's charitable donations, which include not only direct donations to the poor but also things like soup kitchens and the like. |
+| ~10% | Security | Responsible for maintaining safety and order within the temple grounds and protecting the temple's valuable religious artifacts and sacred spaces. Counterintuitively, the Temple of Bishamon actually has fewer monks in this role than other temples, because martial training is so much more common as part of the Order of Bishamon's religious education. Thus, while some other temples require a larger staff specifically devoted to security, the Temple of Bishamon has a smaller percentage of its members specifically designated in this role. |
+| ~10% | Pilgrims | This includes not only the holy journeys typically thought of when talking about pilgrimages, but also coordinating with the subordinate temples in the provinces and managing the offerings and donations which flow in both directions. |
 
-Akuma published a number of works of scholarship written by people who were never born, or possibly which would have otherwise not come to be written for centuries, attributing these works to himself, which fueled his name even further.  Notably, Akuma is only one of two shugenja in history capable of practicing maho and thus taking on the Shadowlands taint without losing their shugenja abilities - the taint is hateful to the elemental kami and all other shugenja who have practiced maho have lost their powers as a result.  Akuma is one of only three shugenja who have achieved immortality, though presumably he did this through dark rituals rather than gaining the favor of the kami.
+There are other miscellaneous specialized roles within the temple not listed here, but the above should give a decent idea of the overall categories.  Remember that the above percentages add up to much more than 100% due to the fact that many monks perform multiple roles at different times.
 
-"On Soothsaying" is still considered the foundational work of scholarship on the subject of augury and prophecy, despite its origins, which speaks to its quality.
+Another way to think about temple life is to think about what a typical day looks like for monks in the Temple of Bishamon.
 
-Here's a high-level description of the breakdown of soothsaying's two categories, four disciplines, and eight forms:
+Considering the various roles and jobs which exist in the temple, this varies considerably from monk to monk, but a few examples give a general sense of the rhythm and flow of temple life.
 
-- Soothsaying: the general term for all the different ways of predicting the future
-  - Augury: the general category of soothsaying, identifying and interpreting universal omens and portents
-    - Fortunetelling: predicting a specific, individual person's future
-      - Astrology: not only the reading of the stars, but the placing of observed events within the framework of the calendar and its holy days, and the horoscopes of the people involved ("horoscope" includes matching someone's "place" in their family/village/class/etc to their plans and goals, and doesn't only refer to the date, year, and time of day in which they were originally born)
-      - Augural readings: performing specific actions in order to generate results which can be interpreted, e.g. reading tea leaves, I Ching readings, interpreting dreams, etc
-    - Divination: predicting larger events not tied to individual people, e.g. harvests/plagues/floods/etc
-      - Prognostication: interpreting omens and portents and making predictions about how they foretell coming events for a large area and population
-      - Oracular divination: similar to taking augural readings, this involves performing actions such as disemboweling a chicken in order to read its entrails, or scrying by performing a crystal gazing to view an area and read the distortions of light and shape which are revealed, etc
-  - Prophecy: the specific category of soothsaying, in which "supernatural" predictions are made by people gifted by the gods with special sight that lets them see different possible futures
-    - Wisdom Prophecy: when a human is wise enough to be able to generate prophetic predictions on command
-      - Devotion Prophecy: the human prophet focuses their second sight on some specific aspect of the future - this offers more control but suffers the limitations of the human mind
-      - Channeling Prophecy: the human prophet asks a god to possess them so they can see with the god's sight - this is more powerful but often focuses on what is important to the god rather than what humans might wish to see
-    - Covenant Prophecy: the prophet forges a compact or receives a promise from a divine being with its associated terms and conditions
-      - Sentinel Prophecy: the god commits to providing warning signs in advance of some specific threat, e.g. Osano Wo warns of possible fires in the city of Komori (on the Island of Spice in the Mantis Isles) by causing a red sky over the eastern ocean at dawn
-      - Stratagem Prophecy: a god has shared a plan with a human prophet, so that they may help ensure this plan comes to pass, e.g. the prophecy that the 3rd Imperial Legion should send The Dreamer, The Gambler, The Historian, and the Painter as a company to journey into the Shadowlands to reach the Forgotten Tomb on the day of the Chrysanthemum Festival, and that by doing so these warriors can gain power over the Shadowlands and win a great victory over the Dark Moto
+First let's consider the daily routine of Kenta, who reports to the Custodian of the Temple Grounds.
 
-The original introduction to the book "On Soothsaying" follows:
+| Hour | Task | Description |
+| --- | --- | --- |
+| Hour of the Tiger (4-6am) | Waking and morning prayers | Like most temple monks, Kenta often wakes before dawn to begin his day. After waking, Kenta hurries to attend the temple's communal morning prayers. |
+| Hour of the Hare (6-8am) | Cleaning duties | Kenta begins his custodial work early in the day, with tasks like sweeping the grounds, cleaning the main hall, and especially any tasks which are best performed while the day's weather is still cool. |
+| Hour of the Dragon (8-10am) | Breakfast and rest | The temple provides a daily communal breakfast, typically rice and vegetables. After eating, Kenta spends some time in daily meditation, which provides him with the physical rest and spiritual centering that will prepare him for the remainder of the day. |
+| Hour of the Serpent (10am-noon) | Cleaning duties | As the day heats up, Kenta tends to focus on indoor tasks. Note that this cycle of indoor/outdoor tasks is often reversed between the summer and winter, as snow on the ground usually makes it more advisable to perform indoor tasks in the early hours and outdoor tasks at midday. |
+| Hour of the Horse (noon-2pm) | Midday prayers and lunch | At midday Kenta participates in another period of communal prayers and meditation, followed by the temple lunch, which is similar to breakfast in its simplicity. |
+| Hour of the Goat (2-4pm) | Personal time | While many of the custodial staff use this time for afternoon naps, Kenta uses this time for continuing education. He aspires to become an Adept monk, but first he must improve his reading and writing abilities, which he does by attending classes taught by the Teacher of Bishamon's Wisdom. Once his literacy has improved, he will "graduate" to begin receiving direct instruction from the Senior monk who oversees him. |
+| Hour of the Monkey (4-6pm) | Cleaning duties | As the day cools down, Kenta either resumes his outdoor cleaning (in the summer) or his indoor tasks (in the winter). |
+| Hour of the Rooster (6-8pm) | Evening prayers and dinner | Just as the day begins with prayers, so does it end. Kenta looks forward to the temple dinners, which are larger and fuller meals than the simple breakfasts and lunches. Dinner may involve soup, noodles, pickles, bean curd, seitan, and on some nights the kitchen serves fried tempura or a piece of fresh fruit as a dessert. |
+| Hour of the Dog (8-10pm) | Bathing and personal time | While some of the other young monks venture out into the city for entertainment during this time, Kenta usually spends a few minutes relaxing his thoughts and then turning in about 60 minutes before the Hour of the Boar, when most of the temple turns in for the night. Once his literacy improves enough for it to be practical, he plans to spend this time reading the Tao and whatever other texts his sensei recommends to him. |
 
-Everyone sees into the future.  Even simpletons understand that a rock thrown into the air is likely to fall back down.  We make such predictions every minute of our lives.
+As another example, consider the daily routine of Mizuki, who serves as the Scribe of the Eternal Tao.  She is a senior monk who oversees all the copying of the Tao performed by all scribes in the temple library.
 
-Soothsaying is predicting that a rock will fall to earth without having known that one was thrown.  It is predicting that a house will collapse without knowing how, why, or perhaps even when.  It is having some understanding of what the future holds without possessing the facts which allow us to make such predictions in the ordinary way.
+| Hour | Task | Description |
+| --- | --- | --- |
+| Hour of the Tiger (4-6am) | Waking and morning prayers | Rather than answering the call to morning prayers rung by the Herald of the Bell, Mizuki instead calls together her scribes to lead them in directed prayer and meditation based on what parts of the Tao will be copied on this day. She invites them to consider the koans and riddles and wisdom of the Shinsei they are about to transcribe, and has each of her scribes select a single word related to their day's work which shall be the focus of their centering prayer. |
+| Hour of the Hare (6-8am) | Planning and organizing | Mizuki begins her workday by reviewing the day's tasks and planning any special projects that must be handled, such as messages, correspondence, purchases, meetings, deliveries, etc. |
+| Hour of the Dragon (8-10am) | Breakfast and review of work | After a simple communal breakfast of rice and vegetables, Mizuki reviews the previous day's transcriptions, looking for errors or areas of improvement in her scribes' copying and calligraphy. During this time, she will mentor the junior scribes based on their previous day's output, to help them learn and improve. |
+| Hour of the Serpent (10am-noon) | Management and oversight | Mizuki typically splits this time between providing guidance and advice as needed to her scribes and performing transcription herself. These two tasks are related, as demonstrating how such things are properly done serves as a useful form of instruction for the junior monks. |
+| Hour of the Horse (noon-2pm) | Lunch and administrative duties | Mizuki is typically too busy to join her workers for midday prayers and meditation, and often works through lunch without noticing her own hunger. This is the time when she continues the day's special projects now that there is sufficient light to write correspondence, order new materials, and update her team's financial records. When the temple was suffering financially under the Tsume and in the aftermath of the Damasu retaking the city, Mizuki's team couldn't afford the cost of the candles and lanterns necessary to do this work in the early morning or late evening, and now that the temple's treasury has been restored to its former glory she is slowly re-accustoming herself to the new normal. |
+| Mizuki's scribes are not allowed the normal midday break. Unlike cooks and custodians and lecturers, Mizuki's team needs sunlight for their work, and so they work with few breaks throughout the daylight hours, taking their personal time in the morning and evening. |  |  |
+| Hour of the Goat (2-4pm) | Personal study | During this time, Mizuki continues to oversee her team, but shifts her own work from transcription to study, diving deeper into the Tao to gain the understanding which only comes with intense and continued study, contemplation, meditation, and prayer. During this time, she especially contemplates any questions she has recently been posed, either by members of her team or students she instructs, or by those she has met with from outside the temple. |
+| Hour of the Monkey (4-6pm) | Oversight and teaching | In addition to the normal oversight and review of the work being performed by her scribes, Mizuki spends some of this time lecturing and leading members of the temple in prayer and meditation, usually based on some of the teachings having been transcribed earlier in the day. Her students consist of a combination of members of the temple library and monks from other parts of the Temple of Bishamon. Occasionally a visiting samurai or pilgrim to the temple will join her lectures, which some have referred to as "one of the temple's hidden gems". |
+| Hour of the Rooster (6-8pm) | Dinner and personal time | With the sun's light fading, Mizuki ends her day's work by enjoying the temple dinner, which is especially welcome on days when she found herself working through lunch. Sometimes she eats outside the temple with patrons and benefactors, often samurai who have commissioned copies of the Tao, to whom she often repeats snippets from her lectures. |
+| Hour of the Dog (8-10pm) | Personal time, bathing, and preparing for the next day | Depending on the hardships of the day, Mizuki might spend this time in additional study, having evening tea with her closest friends in the temple, or finishing up the day's work by candlelight now that the Temple of Bishamon can once again afford candles. |
 
-Just as all things divide into two complementary pieces, soothsaying comes in two different forms, augury and prophecy.
+On days when Mizuki needs to leave the temple to purchase additional supplies or handle other business, this is generally the time when she does so.
 
-Seeing a spider in the morning means good luck.  Hearing crickets cease their music signals danger.  A red bird flying into your home foretells love.  This is augury, the lore of the general form of soothsaying, which identifies universal omens and portents.
+Hopefully the similarities and differences between Kenta and Mizuki can help give an idea of the general rhythm of temple life.
 
-While augury is general, prophecy is specific.  It is not merely predicting an event, but articulating its manifold possible forms, affected as they are by the innumerable choices made by mortals and gods alike.  A prophecy, in essence, is not the foretelling of an immutable future, but a weaving together of a myriad of potential futures, each one hinging on the choices that give them life.  They can be prevented, they can be realized, and most importantly they can be nudged in one direction or another.  A prophecy can be as much a warning as a prediction, as much a caution as a certainty.  Prophets who communicate such future possibilities practice two distinct disciplines: Wisdom Prophecy and Covenant Prophecy.
+For married monks (remember that only Adept monks and below can marry, while Senior monks and above must swear a vow of celibacy), the personal time is usually spent with their families, who usually live in or next to the temple complex in temple housing.
 
-Prophetic vision is not unrestricted - it is bound by the sheer complexity of possible futures.  All things are connected to all other things - this is the Tao.  The Shinsei saw the future of the Empire in his tea leaves, but even more impressive was that he did so without being driven mad, unlike most other prophets of great renown, whose glimpses into the interconnectedness of all things yield equal parts wisdom and madness.
+#### Temple Relics
 
-Wisdom Prophets, therefore, must judiciously focus on areas where they have the most insight.  Given the vastness of potential futures, a prophecy will never be comprehensive.  The particular focus of prophetic vision aligns with the divine beings who granted the prophet their futuresight.
+This notion of ambiguity can be extended by reviewing temple relics for the Temple of Bishamon in the city of Toshi Ranbo.  One thing to note is how each relic is incredibly impressive and is known to have many supernatural qualities, but also that there are more mundane explanations (often just "power of suggestion") for each of them!
 
-A prophet blessed by the Fortune Benten, for instance, might catch glimpses of future events as they pertain to the dance of hearts, the weaving and unweaving of relationships.  Their insights will reveal the joy and sorrow of romantic entanglements, but they may falter when asked about matters of wealth, power, or more mundane concerns.  In contrast, a prophet in the favor of Daikoku, the Fortune of Wealth, will see how fortunes rise and fall, how prosperity ebbs and flows across the landscapes of potential futures.  They may foresee how choices made today might impact the coffers of tomorrow, yet remain blind to the subtleties of romance, or the shifting dynamics of bloodlines.
+The Order of Bishamon in Toshi Ranbo has one of the largest temples to Bishamon in the Empire.  Having been established a thousand years ago, it has acquired many relics, which pilgrims travel all over the Empire to behold and pray before.  Steward Iori oversees this set of temple responsibilities, which makes him one of the most revered members of the temple, in some ways more so than even Grand Abbot Goemon.
 
-Wisdom Prophecy, thus, is a panorama painted in the hues of divine favor, a kaleidoscopic viewing glass through which the prophet discerns potential futures.  Each prophet must find their focus within the vastness, must hone their vision along the axis of their divine benefactor.  It is this specific gaze, this focused sight, that lends prophecy its power and mystery.  Within this discipline, two unique forms unfurl - Devotion Prophecy and Channeling Prophecy.
+Below is a list of the major temple relics.
 
-Devotion Prophecy refers to a prophet's ability to deliberately focus their second sight on the interplay of potential futures, ever-shifting with the choices of gods and mortals.  Yet, it is essential to remember that the ability to divine the future does not come with unfettered access to all aspects of what lies ahead.  The prophet, despite their divine gift, is bound by the staggering complexity of the future's vast landscape.  The act of prophecy is not simply an act of seeing, but an act of choosing - a selection process that requires the prophet to focus their gaze on specific aspects of the future.
+##### The Staff of Bishamon
 
-This is where the unique characteristics of Devotion Prophecy truly shine.  The divine axis, a gift from the divine benefactor, acts as a guide, helping the prophet to navigate the immense complexity of the future.  Recall the gifts and limitations of prophets blessed by Benten or Daikoku, whose prophecies are focused on the realms of romantic entanglements or the fluctuations of wealth, respectively.  Each prophet's vision is attuned by their unique divine favor, providing a singular perspective into many possible futures.
+This is the first holy relic ever possessed by the Order of Bishamon, and may be the oldest relic of Bishamon in the entire Empire.  Displayed prominently in its own special prayer hall, this intricately carved staff is made from ancient cherry wood, carved from the branch of a tree blessed by Bishamon himself.  It is inscribed with symbols and inscriptions of the Seven Virtues of Bushido.
 
-Channeling Prophecy represents a more intimate form of divine communication, where a prophet becomes a vessel for a divine being, almost always a Fortune.  The prophet calls upon their benefactor, inviting them to grant wisdom and even speak through them.  This process bears some resemblance to divine possession, yet it typically doesn't result in the prophet articulating direct words from the Fortune.  More commonly, the prophet experiences visions or snippets of insight, fragments of a divine perspective that they must then interpret and convey.
+Legend tells that the staff was found a thousand years ago by the temple's first "high monk" - so called because this predates the title of Grand Abbot!  "High Monk Fujita" came across the staff during a pilgrimage to the Isawa Woodlands, where it lay unclaimed beside a spring said to be touched by the gods.  The monk took this as a sign of Bishamon's blessing and brought the staff back to the temple, where it has been preserved and venerated ever since.
 
-In some respects, Channeling Prophecy is more potent than Devotion Prophecy.  After all, it is the Fortune themselves who direct the prophet's attention, showing what needs to be seen.  The prophet is not merely observing the possibilities; they are glimpsing truths or trajectories that the divine deem essential.  This direct involvement from the divine being can lend a weight and certainty to these prophecies that is harder to achieve through the personal exploration of Devotion Prophecy.
+Supplicants commonly report feeling a deep sense of peace and courage when they meditate near the staff.  In times of crisis, the staff has been known to glow faintly, allowing the temple monks to be guided by Bishamon's wisdom and protection.  In particular, monks will sit in the prayer room in worship, occasionally looking upon the staff when inspiration strikes or a moment of clarity seems to descend.  If the staff has been lit up by the sun, or better yet if it seems to be generating its own light (as many have witnessed), that confirms that the thoughts and plans they were forming when they gazed upon the staff are indeed favored by Bishamon.
 
-However, this potency comes with its own limitations.  Unlike Devotion Prophecy, where the prophet exercises some level of choice in where to direct their gaze, in Channeling Prophecy the prophet has much less agency.  The divine being sets the agenda, guiding the prophet's visions according to their own divine will.  Consequently, the prophet may have less control over the areas of future they inspect, and their second sight is heavily influenced by the interests and priorities of the Fortune providing the vision.  This path offers powerful visions, but also demands surrender to the will of the divine.
+This is not used only by the Grand Abbot for large undertakings, but also by individuals for their own personal journeys.  For example, a monk trying to decide whether to swear a vow of celibacy and advance to the rank of Senior Monk might first think upon the joys of marriage and parenthood, and then contemplate the path of the Shinsei and the contentment of the enlightened.  After considering each path and praying to Bishamon for guidance, they would raise their head and open their eyes and gaze upon the staff and take note of how much light shines upon it (or from within it, for those who have perceived such things).  Bishamon is said to hide sunbeams behind a cloud when an unfavorable path is being considered, and to instead ask Lady Sun to shine more brightly when the more meritorious action is being prayed upon.  Monks and samurai and pilgrims will often come to the temple begging and waiting for a chance to meditate and pray along with the staff, which focuses and attunes its accuracy and calibration.
 
-Covenant Prophecy represents a distinct relationship between prophet and divine entity, often a Fortune.  This discipline of prophecy stems from a compact or understanding between the mortal and the divine.  Due to its nature as a divine commitment, Covenant Prophecy stands as the more reliable prophecy discipline, provided the covenant remains intact.  These carry a certainty that others lack, for the gods themselves have pledged their future actions, under two forms of covenants: Sentinel Prophecies and Stratagem Prophecies.
+##### The Pillar of Ten Thousand Names
 
-Sentinel Prophecies emerge when a divine being agrees to provide advance warning of a particular threat.  An enduring example is the pact between Osano Wo and the city of Komori, on the Island of Spice in the Mantis Isles.  As part of this divine covenant, Osano Wo warns of impending fires by causing the sky to turn red at dawn.  Thanks to this warning, the monks of Komori can alert the city's inhabitants to exercise caution and prevent larger disasters.  This covenant was established by Kumiko, the prophet who founded the Temple of Osano Wo in Komori, and has since served as an unyielding bulwark against calamity.
+Rising majestically within the expansive central courtyard of the Temple of Bishamon, this monumental stone pillar is the first thing seen by visitors to the temple complex after they pass through the two statues of Bishamon which guard the temple gates.
 
-Stratagem Prophecies often seem nebulous, especially when prophets leave instructions for plans to be carried out years or centuries after their death.  Consider the famous prophet Isawa Kimiko communicating the intention of Suitengu, the Fortune of the Fishermen, to have "The Sailor" reach "each of his destinations" prior to each of the Five Gosechi Holidays in "the Year of Mourning".  It was not until Kaito completed his now-famous journey that his dreams were proven to have identified him as the one responsible for saving the monks of Shizuka's Promontory and the Emperor's future wife.  Indeed, when Kimiko discharged her prophecy, it is likely that there were many possible men who could have been born into the role of "The Sailor", and for all we know, Kaito was one of many living candidates who accepted his role by setting out on the journey in fulfillment of Suitengu's covenant.
+The Pillar of Ten Thousand Names is an impressive, smooth monolith, standing at 12 feet in height.  Carved meticulously onto its surface are the countless names of bushi who have valiantly fallen in battle.  The most recent additions are closer to the base, while the oldest, worn down by time and elements, adorn the top.  Surrounding the pillar's foot are a series of simple stone altars where incense perpetually burns, releasing a fragrant aroma that fills the courtyard, accompanied by the gentle hum of prayers from monks and samurai in reverence.
 
-Despite their ambiguities, Stratagem Prophecies hold an unerring promise: as long as those involved fulfill the prophecy's terms, they can be certain the divine being will uphold their commitment, ensuring the prophesied future will come to pass.  Covenant Prophecy, in both its Sentinel and Stratagem forms, thus represents an extraordinary level of cooperation and shared destiny between the mortal and divine.
+Samurai pilgrims come to the Pillar of Ten Thousand Names before heading into battle.  They kneel at its base, offering incense, while reciting prayers and mantras to Bishamon and the spirits of the departed.  As they gaze up the pillar, it's customary to touch a name and meditate upon it, seeking inspiration and guidance from that fallen warrior's spirit.  By connecting with the memories and legacies inscribed on the stone, samurai hope to call upon the valor and fortitude of those who have gone before them.  Many bushi who have prayed at the pillar report the presence of ancient samurai guiding them in combat.
 
-Still, the art of soothsaying is not a mere gift to those prophets kissed by the divine; it is also a skill, a discipline to be learned and refined.  The universe is a scroll of enigmatic symbols, teeming with whispers of the morrow for those patient enough to listen.  Augury, then, is a method to interpret these echoes, providing a lens through which to discern the subtle gestures of the cosmos hinting towards the yet-unfolded.
+On quiet nights, some hear faint whispers around the pillar.  This happens most frequently after a battle in which those who have prayed before the pillar have died, as the spirits whose names are engraved on the pillar welcome the fallen dead into their ranks.
 
-This craft of augury splits into two branches of disciplines, both hewn from the same trunk of universal omens and portents, yet diverging in their paths of study - fortunetelling and divination.
+##### Prayer Beads of the Guardian Spirits
 
-Fortunetelling is the leaf-level observation of the cosmic tree, where the winds of destiny are caught and interpreted for an individual's fate.  It is as personal as a fingerprint, intertwining the grand designs of the universe with the path of a single soul.  Fortunetellers practice in two main forms: astrology and augural readings.
+This set of 108 prayer beads is carefully crafted from polished jade, each attuned to a particular guardian spirit revered by the temple.  These spirits are a combination of elemental kami, celestial benefactors, major/minor Fortunes, and especially bodhisattva.  The association of each bead with its patron is well-documented in temple records, though supplicants are not usually told of particulars before they pray, so that they may make use of the prayer beads open to the guidance of any guardian spirit rather than focusing on only one single target.
 
-Contrary to popular understanding, astrology is not just about reading the stars, but also about contextualizing events within the rhythm of the celestial calendar, its holy days, and the personal horoscopes of those involved.  Astrologers align their readings not only with the moment of a person's birth, but with their position within their family, village, class, and society.  Their analysis encapsulates both cosmic and societal positions, offering a holistic understanding of an individual's life and goals.
+The beads are strung together with a durable silk thread, each bead separated by a small knot, allowing monks and pilgrims to easily move from one bead to the next during their prayers.  While at a glance, every bead seems uniform, upon closer inspection, each bead is subtly unique (though almost perfectly identical in size), hinting at the individuality of the spirits they symbolize.
 
-Augural readings, on the other hand, anchor their fortunetelling in the tangible and mundane, utilizing everyday items and occurrences as their oracles.  From tea leaves swirling at the bottom of a cup, the cryptic hexagrams of the I Ching, to the symbolic landscape of dreams, all become messages from the cosmos when interpreted through an augur's trained gaze.
+When one prays and meditates with the Prayer Beads of the Guardian Spirits, certain beads may change in temperature, becoming noticeably warmer or even chillingly cold to the touch.  Alternatively, individual beads may feel significantly larger to the touch, or in rare cases appear missing when passing the beads through the hands, only to reappear as soon as the supplicant gazes upon the prayer beads.
 
-Divination, in contrast, scales to the heights of the cosmic tree.  It transcends individual destinies and delves into the grand currents of existence, charting the collective ebb and flow of communities and nations.  The questions divination seeks to answer are larger than any single life; they revolve around prosperity and famine, peace and conflict, bounty and plague.  This practice divides into two principal disciplines: prognostication and oracular divination.
+These variations signify the messages and warnings of the guardian spirits.  Monks are trained to take note of the beads that stand out during their prayers, recording their numbers to later consult the temple's extensive manuals.  These manuals, which have been maintained and updated over countless generations, contain interpretations of the various combinations of beads that might react.
 
-Prognostication is the art of reading omens and portents that presage broader events.  Prognosticators study the world, interpreting phenomena such as birds' flight patterns, the depth of winter's snow, or the ferocity of a summer storm.  They weave these signs into predictions about the future, estimating the bounty of a harvest or the risk of a looming disaster.
+Pilgrims who are granted the privilege of praying with these prayer beads are tested to ensure that they can keep an accurate count of the beads, as they are expected to touch each bead and note any variations.  If a poorly educated pilgrim couldn't say for sure whether an anomaly occurred at the 78th or 79th bead then the prayer beads would be wasted on them.
 
-Oracular divination, meanwhile, involves more direct solicitation of the divine.  Through specific rites and rituals, those trained as oracles can ask for and then subsequently interpret messages from the gods.  Their practices range from examining the entrails of a sacrificed chicken to scrying with a crystal to interpret the distortions of light and form revealed within it.
+##### The Sword of the First Vow
 
-Augury, then, is a means for ordinary men and women to listen to the whispers of the universe, to chart their path through the endless sea of potential futures.  It is the art of attuning one's mind to the cosmos, of deciphering the story told by the world around us, a narrative unfolding in every fluttering leaf, every star's twinkle, and every dream's tableau.
+Also known as the Sword of the Vanquished Warlord, this sword rests prominently on a stone pedestal within a chamber adorned with hanging silk tapestries depicting the heroic feats of the original Akodo Damasu.
 
-### Examples of Omens and Portents
+The blade reflects an ancient design and is made from beaten rather than folded steel.  A serene blue tassel is affixed to the pommel, intricately woven from the hair of the warlord's betrothed, who tragically passed before their union could be sealed.  A bronze guard, etched with the dynamic dance of two koi fish, completes the sword.
 
-Here are the 7 omens and portents which the Order of Daikoku was looking for in order to see whether there would be some kind of crop blight:
+This sword did not belong to the revered Akodo Damasu but rather to his most formidable adversary - a warlord whose very name has been struck from the Akodo histories as a punishment for his refusal to join with Lord Akodo.  In a pivotal battle, Akodo Damasu triumphed over the warlord and took the sword as a symbol of his victory.
 
-1. A "pillar of cloud": A strange and ominous cloud formation appears in the sky, perhaps taking the shape of a pillar or tower.  The cloud should have been visible from a great distance and persisted for an extended period of time, heightening the sense of foreboding.
+Within his personal journal, discovered posthumously, Damasu revealed a profound ambivalence about his continued loyalty to Lord Akodo, considering the option of consolidating his power within the safety of the stronghold rather than riding off to additional wars in the west.  Before the sword of his defeated enemy, his journal reveals that he mustered the courage to swear a secret vow to Bishamon, resolving to channel all his might and spirit into upholding his allegiance to Lord Akodo, never allowing his resolve to falter.  He swore this vow in secret, not wanting to reveal in life that he had struggled over the question of loyalty to his daimyo.
 
-2. Dead rats appearing in public places: Large numbers of dead rats should have started turning up in public areas, such as streets or markets.  The rats might have appeared to have died without any apparent cause or be arranged in a peculiar pattern.
+Those preparing for a duel or any significant challenge come to the chamber to draw inspiration from Akodo Damasu's determination and to offer their prayers to Damasu, Bishamon, Lord Akodo, and/or their ancestors.  They kneel in the sword's presence, either making their silent prayer or, should they choose, swear a secret vow upon it.
 
-3. Strong winds in affected villages: A fierce windstorm sweeps through the region, causing widespread damage and destruction.  In some cases, the wind might be localized to the affected villages, or it might be a more general phenomenon.
+Given the sanctity of the ritual, the vow-if sworn-is never spoken aloud.  Instead, emulating the original Akodo Damasu, the supplicant may only (if they so choose) write their promise, sealing it away to be discovered posthumously.  Legend holds that those whose vows come to light prematurely are doomed to see their intentions thwarted.
 
-4. Prophetic dreams warning of the coming blight: People in the region begin having vivid and disturbing dreams about the crops being destroyed or overrun by a noxious growth.  The dreams might be accompanied by a feeling of dread or a sense of foreboding.
+While no overt power radiates from the sword, those who have silently sworn (or even just prayed) in its presence often describe a newfound clarity and inner fire driving them forward.  In duels that permit submission, achieving victory is the most frequent aim of these secret vows.  Implicit in such a pledge is an unwavering resolve, even if it means meeting one's end in the quest for that victory.
 
-5. Augural readings from divinations being performed to predict the coming crop: Those skilled in the art of divination perform readings to predict the quality and quantity of the upcoming crop.  The signs and omens that they read could be interpreted in a variety of ways, but they should have pointed to the same grim conclusion that the harvest will be ruined by a blight or pestilence.  Yet this did not happen.
+##### The Helm of Discerning Valor
 
-6. A blood rain: A strange and unsettling rain falling over the region, appearing to be colored red.  The rain would usually be accompanied by an unusual smell or taste, and it might stain the crops and the earth.  In Lion lands, a red rain is interpreted as a sign of impending disaster or a harbinger of war.
+Resting upon an ornate pedestal of carved ebony wood, within a chamber softly illuminated by lantern light, is a helm of striking distinction.  Constructed from burnished bronze, its design is inspired by the dance between patience and action.  The helm's ridge portrays a serene landscape, symbolizing moments of calm deliberation and strategic waiting.  In contrast, the faceplate intricately details a roaring tempest with infantry soldiers charging forward in a decisive moment of action.  An emerald-tinted plume, a beacon of leadership and unity, rises proudly from the helm's crest, subtly shimmering in the chamber's ambient light.
 
-7. A long dry spell - this one actually did happen, and is the only omen to have given any hint about the kumosaya blight.  It's unclear why this and only this sign was given, while all of the others failed to happen.
+The Helm of Discerning Valor was commissioned to honor Akodo Kaizen, a revered infantry commander of the Lion Clan.  In a time of great strife during the era of the Gozoku, the Crane Clan laid siege to Toshi Ranbo.  With the city's walls under relentless assault and victory for the Crane seeming inevitable, Akodo Kaizen discerned the perfect moment to sally forth, leading a charge that shattered the Crane's forces scaling the city walls, turning the tide of the siege and cementing his legacy.
 
-These signs contrast with different omens and portents which might herald different types of disasters.  For example, the people of Toshi Ranbo worry about a city-destroying fire, and in addition to taking the usual precautions, their fortunetellers are on the lookout for the following:
+After this legendary defense, the helm was crafted in recognition of his brilliant tactics.  Over time, as Akodo Kaizen's descendants drew strength and insight from it, the helm became revered beyond the Akodo Family, eventually earning its place as a sacred relic within the Temple of Bishamon.
 
-1. Fire in the sky: A fiery or reddish hue might paint the sky - this can manifest as unusually intense and persistent sunsets, and in severe cases appears as an Aurora-like phenomenon in the north that appears even though Toshi Ranbo is far from the poles.
+On the brink of leading their infantry into battle, military commanders come to the chamber to invoke Akodo Kaizen's strategic genius.  With permission from the Custodian of the Sacred Relics (currently Steward Iori), a commander dons the helm.  As they kneel, they silently meditate, seeking clarity on when to exercise patience and when to charge with unwavering might.
 
-2. Unusual wildlife activity: Historically, abnormal behavior in animals is one of the most reliable signs of disaster.  In this case, a sudden increase in sightings of fireflies or salamanders within the city warns of coming fires, and in extreme cases birds normally seen around the city suddenly abandon their nests and leave the area.
+Connecting with the helm, commanders endeavor to absorb the essence of Akodo Kaizen's discernment, hoping to emulate his understanding of the delicate balance between waiting and action on the battlefield.  Infantry troops often recount tales of their leaders emerging from the chamber with newfound clarity and resolve.  On the battlefield, commanders who have invoked the helm's wisdom are said to possess an unparalleled intuition, making decisions that often defy conventional tactics yet lead to remarkable victories.
 
-3. Smoke on the wind: Without any apparent source, a faint smell of smoke present in the air at all times warns of fires yet to come.
+##### The Eternal Wisdom Tree
 
-4. Temperature rise: A noticeable increase in the temperature, far beyond what the season or weather would suggest, warns of the heat of the coming flames.  This could be gradual, but a sudden and unexplained spike in heat heralds the most devastating fires.
+In the tranquility of the Gardens of Reflection (a prayer garden within the temple complex) stands the Eternal Wisdom Tree, a direct descendant of the tree under which the Shinsei himself once taught.  Its sprawling, ancient branches and deep roots are a living embodiment of spiritual connection and endurance.
 
-5. Divinations of fire: Diviners and priests might start pulling fire-related omens in their readings.  They could be drawing lots related to fire, flame-themed I Ching readings, or seeing visions of burning buildings in their dreams or meditation.
+Those who meditate under its shade receive whispers of wisdom and are blessed with a calm spirit and a mind sharpened for insight and understanding.  Warriors often seek its peace before battle, hoping for mental clarity and guidance in the conflicts to come.  The tree also symbolizes steadfastness and stability, embodying the unwavering strength of the spiritual path.
 
-6. Ashen rain: A grayish, ash-like substance sometimes falls during rainfall, giving an eerie and ominous feeling of a burnt aftermath.  This typically warns of fires in the provinces rather than in the city itself, though it is rarely safe to count on such precision when interpreting signs.
+##### The Chamber of Celestial Echoes
 
-7. Strange flames: Fire might behave unusually, perhaps burning brighter and faster than normal.  Torches or candles may ignite or extinguish spontaneously, and fires in hearths could burn with strange colors.  The Damasu Ministry of Rites maintains an almanac of the various ways this can manifest and what each of the possibilities portends.
+Deep within the heart of the temple complex lies a room that resonates with an otherworldly aura.  While the temple has many ancient holy relics, the Chamber of Celestial Echoes is the temple's crown jewel.  Its entrance is framed by intricately carved arches that depict celestial beings in harmonious dance with samurai and monks, a symbol of the divine interplay between the mortal and immortal realms.
 
-Another set of examples would be that the people of Toshi Ranbo worry about the Drowned Merchant River flooding.
+As one steps into the chamber, the outside world seems to fade away.  Many pilgrims hear the gentle, omnipresent hum when they are worthy and prepared to hear the echoes of Lady Sun's far-off celestial choir.  This ethereal sound emanates from the very walls, which are adorned with golden frescoes that tell stories of Bishamon's valor and benevolence.
 
-1. River's murmur: Interested locals are diligent in listening for the sound of the river changing subtly - if it becomes louder then that foretells the levels rising abruptly, and if the normal sounds are replaced by a murmur that sounds like whispers or cries then disaster is surely ahead.
+Dominating the center of the chamber is a raised dais, upon which sits a series of platforms and containers, each nested within the other.  Each level is guarded by intricately carved statues of celestial beings, animals, and legendary samurai.
 
-2. Fish behavior: Fish and other river-dwelling creatures could begin to act strangely.  They might leap from the water more often, or be found dead on the river banks.  Particularly large or unusual fish might be caught - a fish with multiple heads is a sure sign of difficult times ahead.
+Outer Platform: The largest and first platform is shaped in a perfect circle and made of deep green jade.  Golden inlays form patterns of clouds, and at the cardinal points are bronze statues of protective tigers, their ever-watchful eyes inlaid with shimmering jade.
 
-3. Water discoloration: The river might take on an unusual color.  A murky brown foretells stirred up sediment from increased water flow, and if the river becomes a deep, unnatural blue then disaster is certain.
+Second Platform: Resting atop the first, this hexagonal platform is constructed of polished obsidian, catching and reflecting the dim light of the room in unpredictable patterns.  Surrounding this platform are statues of six revered monks, each holding a different symbolic item: a staff, a scroll, a lotus, a bell, a sword, and a bowl.
 
-4. Erratic weather: The region could experience unusual rainfall patterns.  This could mean sudden, intense downpours, or persistent, drizzly rain over several days.  The changes might be localized, or affect the entire region - the former indicates that the flooding will affect the northern fields and the latter suggests that the entire region will soon be underwater.
+Third Platform: Smaller still, this platform is triangular and made of pure, translucent crystal.  It seems to glow from within, casting gentle prisms around the room.  Guarding this platform are three celestial ki-rin.  These are not the ki-rin of the Unicorn Clan, but the celestial ki-rin of Lady Sun's court, with the torso of a deer, the tail of an ox, the hooves of a horse, and wings outspread, each bearing a sapphire in its beak.
 
-5. Divinations of Water: Those versed in divination might begin drawing lots related to water or experiencing water-themed visions.  A characteristic dream might involve being swept away by a river, or walking through the city streets while the entire world appears to be underwater.
+Final Container: Upon the crystal platform rests the Vault of Celestial Echoes, a meticulously crafted reliquary made of silver and gold.  Intricate designs of dragons and phoenixes dance around its surface, intertwined in a complex, mesmerizing pattern.  Its lid, though unsealed, is heavy and bears a single golden lotus at its center, symbolizing purity and divine connection.
 
-6. Blossoming river flora: Plants and flowers that grow by the river might bloom out of season, or grow larger than they normally do.  In severe cases, new types of water-loving plants might suddenly appear.  If this occurs in places where there is not yet sufficient water to nurture and sustain them, then it is certain that the floodwaters are coming, and the plants have taken up residence where they will soon be at home.
+The Reliquary: Inside the Vault of Celestial Echoes, visible only to those who dare lift the lid, is the inner reliquary.  Fashioned from pale, iridescent pearl and adorned with a singular motif of Bishamon's symbol, it rests upon a cushion of velvet, deep red in hue.  Though it is closed, there is no lock, no seal, and it has not been opened in at least five centuries, possibly more.
 
-7. Fog over the river: An unnatural, lingering fog might appear over the river, potentially even during the heat of the day.  This is the physical manifestation of the river attempting to expand its reach.
+Around the dais, there are always at least two monks in deep meditation.  Their role is not merely as physical protectors - few would dare to disturb this chamber - but as spiritual conduits, their meditations and prayers maintaining the chamber's connection to the celestial heavens.
 
-As another example, here are the signs which the Damasu know to look for which warn of terrible outbreaks of disease which might ravage the city:
+Although the exact contents of the inner reliquary are unknown, there is an extensive list of artifacts which are likely held within.  Although some of these may only be legends, and the exact list is said to be unknown even at the highest levels of the temple, the list supposedly includes:
 
-1. Insect behavior: Swarms of insects, particularly those associated with decay and death such as flies or beetles, begin to gather in unusual places.  Observers report an unsettling increase in their numbers, and in severe cases even the appearance of insects normally unknown in the region.
+- the Whispering Crystal
+- a fragment of the Shield of Resolve
+- the Vial of Bishamon's Vigor
+- Breath of the Divine Wind
+- Bishamon's Solemn Knot
+- the Orb of Hallowed Visions
+- the Celestial Quill
+- the Warrior's Heartbeat
+- Tears of the Sunlit Path
 
-2. Unquiet spirits: Tales circulate of restless spirits sighted wandering after dark.  These spectral figures appear sickly or diseased, perhaps even bearing marks of the coming illness.
+##### Stolen Relics
 
-3. The stench of sickness: A foul and unexplainable stench begins to permeate the air.  Despite efforts to identify the source, the smell persists, evoking a sense of decay and disease.
+The Tsume Family held the city of Toshi Ranbo for 3 years.  After they took the city, they plundered it for its treasures, including the Temple of Bishamon's stored coinage, amounting to many thousands of koku.
 
-4. Ailments in animals: Domesticated animals or city-dwelling creatures show signs of sickness.  This could be beloved pets, or even urban wildlife like birds and rats.  These creatures falling ill, especially en masse, is taken as a grim sign.
+After the initial attempt by the Akodo to retake the city failed, the Tsume went a step further and took several of the temple's relics, which they transported to other temples in Crane lands.  They also plundered numerous pieces of temple artwork, as the Temple of Bishamon contains many priceless pieces of historical artwork which are not listed on this page.
 
-5. Divinations of disease: Omens and divinations begin to suggest an impending health crisis.  Priests might have dreams filled with images of disease and suffering, or those casting lots might repeatedly pull symbols associated with illness or death.
+The Damasu hoped that all stolen relics and artwork would be returned as part of the peace treaty negotiated at the end of the Lion/Crane war, but in his wisdom, Akodo Toturi decided to prioritize other terms and concessions from the Crane.
 
-6. Aberrant blooms: Certain plants, particularly those traditionally associated with healing or disease, bloom out of season.
+Below is the list of three relics which were taken.
 
-7. Faint whispers: A soft, continuous whispering sound can be heard in certain quiet parts of the city.  Though the words are indistinguishable, the eerie sound is associated with the quiet spread of disease.
+###### The Tooth of the Shinsei
 
-## Relic Seekers
+The Shrine of Divine Light was the location which safeguarded this relic within the temple, before it was taken by the Tsume.  This tooth was one of the Shinsei's childhood teeth, kept by his mother, and recovered after his death once he had already cemented his place in history.  The tooth, small and unassuming, was housed within a delicate crystal reliquary, suspended by golden chains amidst a soft, eternal light.
+
+Pilgrims and samurai would seek guidance, wisdom, and blessings in the Shrine of Divine Light, since a prayer uttered in the presence of the tooth is said to be heard directly by the Shinsei in the celestial realms.  While the relic empowered legitimate rule and righteous path-following, the Tsume broke with this when they plundered it from the temple.  It has been relocated to Kyuden Doji.
+
+###### The Jade Shinsei
+
+Residing within the Shrine of Harmonious Spirit is a venerated statue crafted from a single, flawless piece of jade, depicting Shinsei in a serene, meditative pose.  The statue is adorned with intricately crafted garments, which are changed three times per year in a solemn and intricate ceremony performed by "the daimyo" (previously the daimyo who ruled over Toshi Ranbo) or a designated representative.
+
+Each garment represents a different aspect and season of life (though notably the three seasons do not correspond to the four yearly seasons): renewal and growth, abundance and prosperity, and withdrawal and introspection.
+
+The Tsume put considerable effort into moving this statue, which is almost 9 feet tall and over 4 tons in weight.  It is now located in Kyuden Tsume, and because the Jade Shinsei was considered a protector of the city and a symbol of the seasons of life, teaching acceptance and adaptation to change, the Tsume believe that its presence in the city is an important reason why Kyuden Tsume never fell to protracted Lion siege.
+
+###### The Chime of Harmony
+
+The above stolen relics are not particular to Bishamon - the Chime of Harmony is a much less significant relic, though in a sense is the most offensive to have been taken, because it is a relic specifically of Bishamon rather than of the Shinsei.
+
+This graceful instrument was previously suspended from a stand of fine polished ebony in the window of the temple's main prayer room.  Its main body is a circular ring made from a blend of rare metals, with seven elongated, slender tines hanging from it.  Every tine is engraved with symbols of protection and valor, each corresponding to a significant battle or sacrifice where Bishamon's presence was felt.
+
+When struck, the Chime produces a sound of crystalline clarity that seems to echo through the very walls of the temple and into the hearts of those present.  However, the beauty of its sound is its subjectivity; each listener might hear a different tone.  To one, the chime may resonate with a harmonious note, indicating alignment with the path of righteousness, while to another, the very same strike might sound dissonant, suggesting a need for inner reflection.
+
+The true magic of the Chime of Harmony is not just in its sound, but in its resonance.  While the clarity or dissonance of the note is subjective to each listener, the duration of its echo seems universally consistent to all listeners.  A harmonious chime, indicative of right action or intent, will resonate for what feels like an eternity, while a note suggesting misalignment is said to fade more rapidly, signaling the need for reconsideration or a change of heart.  Temple monks therefore would strike the chime when considering different courses of action, to determine which one will keep them on the third path of the Shinsei.
+
+On tranquil nights, the Chime occasionally sounded of its own accord - a spontaneous offering of Bishamon's guidance... or perhaps in some cases an expression of greater cosmic harmony.  Whether moved by the hand of a monk, a pilgrim, or an unseen force, the Chime of Harmony stood as a beacon of introspection and spiritual alignment within the temple.
+
+The pilfering of such a sacred artifact of Bishamon was thus even more egregious than moving the Tooth of the Shinsei and the Jade Shinsei, which at least are not actual artifacts of Bishamon specifically.
+
+With items and relics of great power covered, along with ghost stories, the theme of ambiguity continues with various supernatural NPC backstories.
+
+Here's an in-universe story, which is an excerpt from the unpublished autobiography of Mirumoto no Ryusei Yasunobu:
+
+#### Relic Seekers
 
 During the Karmic Inquisitors campaign, the PCs tasked a large staff to look into "relic seekers" - i.e. pilgrims who come to the temple looking to pray before and even be granted private audiences with many Temple relics.  This page contains an alphabetically sorted list of all the people whose names are recorded as having:
 - arrived in the past 2 and a half years
@@ -2458,7 +4499,7 @@ Below is the alphabetical list which has so far been prepared - note that due to
 
 In the coming weeks, the monks tasked by the PCs to look into these people will follow up on each of them individually, investigating their living situations, whether they are still indeed in the city, speaking to their neighbors, and generally assessing whether there is anything suspicious or unusual about them, e.g. a samurai renting a cheap house in a laborer neighborhood would be a stunning and embarrassing fact which they surely would never have revealed to the Temple voluntarily.
 
-### Akodo no Damasu Akuhiko
+##### Akodo no Damasu Akuhiko
 
 The eldest daughter of Damasu Tomoko, the Minister of Retainers for the entire Damasu domain, Akuhiko will be the highest ranking member of the Taizo lineage once her mother retires and she inherits that responsibility.
 
@@ -2468,37 +4509,37 @@ However, Tomoko's talents and accomplishments during the Lion/Crane war are so i
 
 Akuhiko began seeking access to temple relics last year following her gempukku, as it would have been premature to do so before that time.
 
-### Akodo no Damasu Beni
+##### Akodo no Damasu Beni
 
 The second son of Akodo no Damasu Daitengu, Beni is unlikely to be involved in the courtly politics of his elders, but his mother is one of the "new guard" Damasu who Fukumi believes is working to supplant the current presumptive heir to the domain.
 
-### Akodo no Damasu Genya
+##### Akodo no Damasu Genya
 
 Genya is the second son of Akodo no Damasu Eiji, the county magistrate of Hoshizora, where the PCs caught the horse thieves, and defeated a powerful bandit lord and his ninja retainer.
 
-### Akodo no Damasu Hoshiko
+##### Akodo no Damasu Hoshiko
 
 The second daughter of Akodo no Damasu Masatoshi, the Governor of Mino, Hoshiko has come to the temple seeking wisdom - strength of mind and spirit rather than strength of muscle.  Her father is a courtier who wields considerable power in the Lion and Imperial courts - his brother is the Hiyu representative on the Imperial Chancellery, hence Hoshiko's mother becoming governor of Mino.
 
-### Akodo no Damasu Jinsei
+##### Akodo no Damasu Jinsei
 
 The second son of Akodo no Damasu Taro, Jinsei's father sent him to Toshi Ranbo after his gempukku the week before Setsubun last year to continue his training.  Believing that strength will be needed in the years ahead as peaceful relations with the Crane Clan inevitably break down again, Jinsei has spent considerable time in the Temple of Bishamon praying before its holy relics, as well as testing himself in the city's many dojos.
 
-### Akodo no Damasu Maya
+##### Akodo no Damasu Maya
 
 Maya is the second daughter of Akodo no Damasu Fusanosuke, the governor of Higo, and a prominent "new guard" member of the Damasu lineage.  Like the others just past their gempukku, and as is common for second children, Maya has been sent to the Temple of Bishamon to train and study and pray and absorb the wisdom and power of Bishamon through the temple and its relics, that she might find her way in the domain and prove worthy of a suitable posting, whether or not her older sister potentially inherits the governorship of Higo.
 
-### Akodo no Damasu Ryuji
+##### Akodo no Damasu Ryuji
 
 The eldest son of Akodo no Damasu Takanari, the Minister of War for all of Damasu lands, Ryuji came to the temple the winter before last, just after his gempukku.  It is far more common for second sons of high-ranking officials to make this kind of pilgrimage and adopt this type of training regimen, but General Takanari is a military man through and through, and understands that the first step towards being a great military leader is the cultivation of personal strength.
 
-### Akodo no Damasu Takeshi
+##### Akodo no Damasu Takeshi
 
 Takeshi is the second son of Akodo no Damasu Aiji the Governor of Yamagata.  He is large for his age, teeming with fat and muscle, and has been studying sumo during the pilgrimage he started the year before last.
 
 Takeshi has expressed an ease of being away from home for so long, given that he left the Chura domain and most of his friends and most of his extended family as a child.  He still refers to Shiro Chura as his home, despite that factually no longer being the case.
 
-### Akodo no Damasu Yumiko
+##### Akodo no Damasu Yumiko
 
 The eldest daughter of Akodo no Damasu Shiho, the county magistrate of Hoshizora, the county where the PCs reclaimed the stolen teaset from Village Headsman Tomonori:
 
@@ -2506,7 +4547,7 @@ The Nire lineage has only two county magistrates and no position on the chancell
 
 Despite being the child of a county magistrate, Yumiko wears simple pilgrim's robes, reflecting the relative poverty of her lineage and the difficult times the domain is suffering.
 
-### Asahina Kenta
+##### Asahina Kenta
 
 Kenta was a shrine guard in Shinden Asahina, when a Daidoji priest named Kouji entered the shrine.  Though not armed, Kouji and his companions pushed their way towards the shrine, and Kouji began making a speech about having been told in a dream by a divine figure that the time had come for the cursed sword Shitsuten (Lost Heaven) to be wielded once again.  (See the Famous swords section for an explanation of Shitsuten.)
 
@@ -2514,7 +4555,7 @@ Kenta tried to stop the priest, who had clearly fallen under the sword's influen
 
 Out of the ashes of his shameful defeat, Kenta has made a warrior's pilgrimage to Toshi Ranbo, and ever since his arrival at the end of the summer of last year, Kenta has not only prayed at the Temple of Bishamon daily, but also trained unceasingly, pushing himself so that he will never again fail in his duties.
 
-### Asako Sachi
+##### Asako Sachi
 
 Sachi is a renowned ichthyologist, with a specialty in tropical fish, and she has reliably received invitations to every Imperial Winter Court, where she advises courtiers from each of the 7 Great Clans, as well as the Imperial Families and minor clans.  Being from Asako lands, which was always close to Damasu lands - and now borders the Damasu directly - she has visited Toshi Ranbo many times over the years, but the year before last she bought a house in the city and has spent most of her time here, especially in the Temple District.
 
@@ -2522,7 +4563,7 @@ Steward Iori regards her with some amount of disfavor for two main reasons.  Fir
 
 Admittedly, Sachi is not only interested in relics, as she spends perhaps more time with the Order of Sadahako than with all other temples combined, and they are so new that they have no significant relics to speak of.  However, she seems especially interested in those who personally knew the prophet Baiten, which Iori takes to only confirm his theory that she is seeking closeness to greatness rather than earnestly trying to put in the hard work to make herself great.
 
-### Atsumaru
+##### Atsumaru
 
 In the years before the Tsume invasion, the county magistrate of Hikobayashi was Akodo no Damasu Atsumaru.  During the 22 years that he served as county magistrate, he earned a reputation among the peasants for fairness and generosity.  He was especially adept at mediating disputes between peasants, and his subjects never hesitated to bring their conflicts to him for arbitration.
 
@@ -2536,7 +4577,7 @@ Towards the end of the war, Atsumaru went to Otosan Uchi to lobby the Imperial M
 
 He returned early last year, after the peace treaty was negotiated in Imperial Winter Court, and began praying before temple relics to further strengthen himself.  Due to his standing within the Damasu he would have held every relic by now, but he has waited for a season's worth of wisdom from the Helm of Discerning Valor, the only relic he has yet to have been granted a private session with.
 
-### Bayushi no Akiko Maiko
+##### Bayushi no Akiko Maiko
 
 Wielder of the feared sword Tamashikari (Soul Anchor) - see the Famous swords section for details.
 
@@ -2546,7 +4587,7 @@ Of course, with the Scorpion Clan, it's impossible to tell whether anything that
 
 However, Maiko has displayed no interest whatsoever in moon cultists, and has never even brought up the temple's past struggles with the moon cult, even as she has spent considerable time praying and meditating in the temple, and seeking the instruction of its monks.  She has expressed a particular interest in the temple's relics as a way to empower herself and strengthen her bond with the sword Tamashikari, that she may better defeat enemies of the Scorpion Clan, whether executing traitors or simply winning duels against those who oppose her clan's interests.
 
-### Daidoji Yoshiyasu
+##### Daidoji Yoshiyasu
 
 Yoshiyasu is from the Aki lineage of the ruling Daidoji House, a provincial lineage which has administered the province of Akishi since Daidoji Aki personally swore fealty to Lord Daidoji.  Akishi is a border province directly next to the Yasuki domain, and fierce Aki warriors constantly patrol the border, dealing with raids and other problems which stem from the cunning and greedy Yasuki.
 
@@ -2554,7 +4595,7 @@ As a Battalion Commander during the war, Yoshiyasu drew on both manpower and fun
 
 After the war ended, as part of the plan to repay Aki lineage debts, Yoshiyasu sold away his commission as a Battalion Commander in the southern armies of the Crane, exchanging the prestige of his position for much-needed funds to help his struggling lineage.  He came to Toshi Ranbo last winter to seek Bishamon's wisdom about how to help guide his lineage after he retires (though he has not yet retired despite being eligible to do so as a man over 40 years old).  He has donated relatively little to the temple while seeking access to temple relics, supposedly owing to the poor finances of his lineage.  Steward Iori is notoriously more concerned about the holiness of a pilgrim than the size of their purse, but still considered this somewhat of an insult, and as a result it will be a long time before Yoshiyasu is able to gain access to all of the temple relics that he seeks.
 
-### Hida Kinori
+##### Hida Kinori
 
 The county magistrate of Choshizuka, a county from the Kai province of the ruling Hida domain, Kinori's county lies between the 3rd Imperial Legion and the 1st Crab legion.  Kinori was personally present for the events leading up to the Black Scrolls being recharged, and had many encounters with the heroes whose mission recharged them, and this has driven her to seek out her own strength and religious understanding.
 
@@ -2562,7 +4603,7 @@ Kinori opposed the creation of a shrine to Osano-Wo, the Lord of Storms, and fat
 
 Here she seeks not only Bishamon's strength but also his wisdom, for knowing when and how to support or oppose an action, whether religious or political or military, is the essence of wise strength.
 
-### Hida no Noriko Takeo
+##### Hida no Noriko Takeo
 
 Takeo was recently promoted last year to Company Captain in the Crab Legions, and is on the fast-track towards becoming a Battalion Commander.  (And who knows, perhaps one day a Legion General.)  Takeo will soon be leading a company which guards one of the wielders of one of the Black Scrolls, though the specifics are yet to be decided.
 
@@ -2570,7 +4611,7 @@ Indeed, the Black Scrolls have not yet been deployed in a significant way to pus
 
 Takeo wears the clothes he wore when he defeated an Oni no Taki-Bi (a fire oni), in the battle which gained him his promotion.  The clothes are not tainted, as Fire Oni do not taint objects which they burn, though some have looked askance at wearing such clothing into the Temple of Bishamon.  Such things are evidently accepted custom in Crab lands, and Takeo was surprised to learn that anyone would think it inappropriate, and he has declined to wear more suitable pilgrim's clothes even after it has been gently suggested to him that he might change his attire.
 
-### Ikoma Haruto
+##### Ikoma Haruto
 
 Haruto is the eldest son of Ikoma Yuan, the Deputy Minister of War for the entire Ikoma Family.  Yuan was born into the Ryusei domain of the Mirumoto Family of the Dragon Clan, but he was exiled as the result of an internal political dispute within his own Isa lineage, after his blood feud with the wicked Shinjo no Natsune Jo escalated into a full-blown war.
 
@@ -2580,7 +4621,7 @@ After his exile from his home domain, he swore fealty to Ikoma Tsanuri, and was 
 
 Haruto arrived in the spring of this year, but unfortunately it turns out he would have received far more martial training had he stayed with his father, who recently led an Ikoma expedition to join with Moto Gaheris to conquer the gaijin on the other side of the Twilight Mountains.  If only Haruto had not been away, he could have fought alongside his father at the Battle of Heaven's Punishment and the Battle of Kusatte Iru, a fact that has left him chagrined and disappointed with his pilgrimage, even as he refuses to give up and abandon the commitments he has made here.
 
-### Ikoma no Wakashi Sasha
+##### Ikoma no Wakashi Sasha
 
 Sasha is the now-retired chancellor of the Reiko lineage of the Wakashi House, the domain which borders the Natsune domain (across the Drowned Merchant River) of the Shinjo domain of the Unicorn Clan.  Sasha declares himself to be "the man who started the Lion / Unicorn war", and this is no mere brag - he led the envoy in which Ikoma Yuan (see Ikoma Haruto above) slew the Atsue chancellor as part of his blood feud, an action which heightened tensions between the Lion and Unicorn clans, which ultimately culminated in war.
 
@@ -2590,7 +4631,7 @@ As "the man who started the war", Sasha feels conflicted about his actions - whi
 
 Still, Sasha remains uncertain, as the weight of responsibility lies heavy on his shoulders, and he has stated that just because he bears no shame, that does not mean he acted with wisdom.  Now that his daughter has inherited his role on the Wakashi chancellery, Sasha came to Toshi Ranbo three autumns ago, seeking Bishamon's wisdom.  He would have been done by now, except that he is waiting to don the Helm of Discerning Valor until he can receive a full season of Bishamon's wisdom, which might mean that he will be waiting for a considerable time.
 
-### Isawa Kazuki
+##### Isawa Kazuki
 
 Kazuki is the chancellor of the Isawa lineage, something which would make him one of the most powerful men in any other clan, but the Isawa - and indeed the Phoenix Clan itself - is truly ruled by the Council of Elemental Masters rather than by a daimyo, and despite being technically a vassal family of the Phoenix, the Isawa pay no taxes to the Shiba, for the Great Ancestor Shiba himself bent the knee to Isawa, the greatest man of his generation.
 
@@ -2598,13 +4639,13 @@ Still, being chancellor of the ruling lineage remains a position of great power 
 
 When the war ended, Kazuki was forced to admit that he had been wrong, his Clan had prospered during the war, the Lion and Crane alike came through with nothing but increased respect for the power and wisdom of the Phoenix.  Even their former enemies in the Lion now speak of the wise power the Phoenix wielded, supporting their Crane allies while keeping their true strength in reserve.  Kazuki has now come to question what subtle flaws within himself led him to court disaster by urging his superiors to unnecessarily reckless action.  He arrived in Toshi Ranbo in the spring of this year, and has prayed at the Temple of Bishamon daily, seeking Bishamon's wisdom, and praying for the strength **not** to fight, that this be granted to him and that he learn how to impart this lesson to his own children and grandchildren after so many years teaching them wrongly.
 
-### Kakita Kenji
+##### Kakita Kenji
 
 Kenji arrived a few months ago, just before the Harvest Moon of the Autumnal Equinox.  He is one of the few Crane pilgrims to have made such a pilgrimage, given the current hostility to the Crane.  In particular, Kenji waited three seasons after winning his duel in the Sunset Blade Trials.
 
 Kenji has more recently returned after being sent by the PCs to find Doji Masatoshi, the man who stole the Orb of Hallowed Visions:
 
-### Kuni Isamu
+##### Kuni Isamu
 
 Kuni Isamu is one of only ~200 Witch Hunters in the Empire, and is specifically the Witch Hunter who ordered the death of Kuni Yori, the previous Jade Champion, on behalf of his Office, during his mission to recharge the Black Scrolls two summers ago.
 
@@ -2614,7 +4655,7 @@ Isamu plans to eventually compete in the Bowman's Wager, a yearly competition wh
 
 Isamu arrived this past autumn with his friend and fellow Hero of the Black Scrolls, Shiba Asayo (see below), though it seems likely that Asayo may stay for longer than Isamu is able, as Isamu will eventually need to return to Mantis lands.
 
-### Matsu Chokoku
+##### Matsu Chokoku
 
 In addition to being a hero of the Lion Clan, Chokoku is a local hero to the Damasu in particular, for it was he who defeated Tsume Koreshiba in the Sunset Blade Trials - without him, the province of Suruga would have been required to have been sold to the Crane Clan, as per the terms of the peace treaty.
 
@@ -2622,7 +4663,7 @@ Chokoku is also a hero of the southern front of the war, and helped Matsu Agetok
 
 Chokoku arrived in Toshi Ranbo mid-spring, looking to further test and strengthen himself with both training and pilgrimage, and has declared his intent to stay until he has handled every temple relic.
 
-### Matsu no Hiroshi Emiko
+##### Matsu no Hiroshi Emiko
 
 Emiko is in the position that Doji no Tsume Moe expects to be in a few years.  She has married, had children, and having discharged her filial responsibility to provide heirs, is now taking some time away to strengthen herself.  She stopped in Toshi Ranbo in what was supposed to be the middle of a long warrior's pilgrimage, visiting many temples to Bishamon, first in Lion lands and then later in Crab lands, but she was so overcome by the presence of mighty Bishamon here in his Temple in Toshi Ranbo that rather than leaving in Autumn of last year as planned, she has stayed on to pray before each temple relic, as she trains and tests herself in the city's many dojos.
 
@@ -2632,7 +4673,7 @@ There are certainly things that no sensei can teach, for they may only be experi
 
 Emiko has two scars on her face she received during the war, and she uses makeup to make them always appear fresh and red.  Along with her dyed hair, this exhibits the style of the southern Matsu.
 
-### Matsu Yokijiro
+##### Matsu Yokijiro
 
 The wielder of the great sword Akuzuki (Wicked Moon)  - for more information on this sword, see the Famous swords section.
 
@@ -2642,7 +4683,7 @@ Last year, Yokijiro fought and won his duel in the Sunset Blade Trials against t
 
 Following the duel, Yokijiro made a pilgrimage to the Sacred Pool of Kaimetsu-Uo deep in the Isawa Woodlands, a place of healing, especially for those recovering from injuries sustained during a difficult duel.  Yokijiro returned to Toshi Ranbo for the first time in many years after leaving the Isawa Woodlands, arriving the week before Setsubun.  He is seeking out the temple's relics and partnering with the Order of Bishamon to continue his work instructing those worthy students who seek his martial training.  He is especially interested in seeking Bishamon's wisdom on the question of whether he should pass the sword Akuzuki down to his eldest grandson, knowing that it may doom him to die in a duel if he does so.
 
-### Mirumoto Daini
+##### Mirumoto Daini
 
 The younger son of the daimyo of the Mirumoto Family, Daini was the presumptive next daimyo after his older sister Hitomi went on her own warrior's pilgrimage, seeking revenge for the death of her older brother at the hands of Hida Yakamo.
 
@@ -2650,7 +4691,7 @@ Hitomi was ultimately successful - 2 summers ago she took Yakamo by surprise dur
 
 With Hitomi returned home and Daini having relinquished his stewardship of the Mirumoto Family, Daini himself has now gone on his own warrior's pilgrimage, arriving in Toshi Ranbo a few weeks after last year's Setsubun Festival.
 
-### Moto Chenghiz
+##### Moto Chenghiz
 
 This man's gaijin name reveals the gaijin nature of the Moto Family, who are clearly not from Rokugan originally, and who have managed, through Crane trickery, to have convinced the Imperial Ministry of Retainers that their ancestors hail from just past the Twilight Mountains, when in fact their true homeland is clearly Medin al Salaat.
 
@@ -2658,7 +4699,7 @@ Chenghiz is the eldest son of Moto Jochi, the Moto Minister of Revenue, and Chen
 
 After the Moto defeated an Oni Lord at the Battle of Kusatte Iru, and Moto Gaheris declared himself "Conqueror of the Northern Tribes", Chenghiz set out on his own warrior's pilgrimage, dissatisfied with his own poor showing facing down the army of lesser oni who served the oni lord Otakemaru.  He arrived at the beginning of winter, at the beginning of last month.
 
-### Setsuko the beggar nun
+##### Setsuko the beggar nun
 
 Setsuko has been coming to the city off and on for decades seeking Bishamon's blessings.  Every year she must return to Otosan Uchi during the week of the Bon Festival, to hunt the rogue Shinigami which killed her family.  This means that she has never stayed in Toshi Ranbo for long enough to gain access to all of the temple's relics, though last spring Steward Iori, for the first time, allowed her to don the Helm of Discerning Valor before she left the city to return to Otosan Uchi, allowing her to jump ahead of numerous others who had been waiting far longer, and granting her months worth of the helm's wisdom.
 
@@ -2666,7 +4707,7 @@ Although it's unusual for Iori to make an exception for someone who spends so li
 
 It is unclear whether Setsuko is currently in the city, though she did return after an unfruitful week in Otosan Uchi during the Bon Festival, when she once again failed to spot the Shinigami, thus once again delaying their fourth and final confrontation.
 
-### Shiba Asayo
+##### Shiba Asayo
 
 Asayo is a courtier who was assigned to the 3rd Imperial Legion who met the customary skepticism that most bushi feel for any courtier assigned to the Wall.  Many feel nervous about going into battle alongside a man who isn't a warrior, far preferring bushi comrades who are maximally trained in combat.  They were further suspicious of his seemingly foppish nature, as his main interests are playwriting and painting.  However, he proved himself in battle and in the dojo enough times that no one who has fought against or alongside him has any concern about his worthiness.
 
@@ -2678,13 +4719,13 @@ Asayo has received the Order of the Precious Crown, the highest honor that anyon
 
 Asayo is traveling with his friend and fellow Hero of the Black Scrolls, Kuni Isamu (see above).
 
-### Shiba Tsukune
+##### Shiba Tsukune
 
 One of the best duelists in all of Phoenix lands, it was Tsukune who defeated Matsu Gohei in the Sunset Blade Trials last year.  She has since come to the Temple of Bishamon to further train in the city's dojos and test herself physically and spiritually.  Tsukune is still young enough that she could become Emerald Champion if Bayushi Karasu were to die or retire, assuming she is able to reach the peak of mastery of her art.
 
 More recently there has been speculation about what might happen when Gohei arrives in the city, alongside Hantei Daigotsu and Akodo Godaigo and Kitsu Okura.  The Phoenix and the Lion clans are now at peace, so there is less danger of provoking a war or other escalations if a conflict occurs between them.  On the other hand, Akodo Toturi's new wife is Isawa Kaede, so it may be the case that as a relatively pacifistic Phoenix, Tsukune does not wish to start an altercation, and as a relatively loyal Lion, Gohei would be afraid to start one.
 
-### Shinjo no Dorai Yuriko
+##### Shinjo no Dorai Yuriko
 
 The Dorai domain of the Shinjo house controls the most fertile wheat fields in the Firefly River Valley, making them the owners of the breadbasket of northwestern Rokugan.  Toshi Ranbo imports considerable wheat flour from the Dorai, and for decades Yuriko's father Rakuo has negotiated these imports on behalf of his daimyo and other wheat-sellers.  This year the Dorai have shifted to importing unmilled wheat directly and letting local laborers mill it into flour, and so as Rakuo's eldest child, Yuriko has gotten a front row seat to the business negotiations which are involved in such matters.
 
@@ -2692,7 +4733,7 @@ Rakuo has spent decades in and out of Toshi Ranbo, and has expressed considerabl
 
 Her father came with her when she arrived in the city last year, so his name will turn up on any lists of pilgrims interested in relics, though he otherwise does not fit the pattern that the PCs are looking for:
 
-### Shione Haru
+##### Shione Haru
 
 By now the PCs are already quite familiar with Shione Haru, whose name is pronounced in the Mantis fashion, more like the baying of a hound, or a sneeze: ha-ROO!
 
@@ -2702,7 +4743,7 @@ Haru (ha-ROO!) evidently made a poor impression when, in the Yasuki style, he tr
 
 Over the past year, Haru (ha-ROO!) has made frequent trips to the Temple of Bishamon, but has rarely stayed overnight, and not for any significant length of time, not even during holy weeks of prayer and fasting.
 
-### Shosuro no Michio Katsuro
+##### Shosuro no Michio Katsuro
 
 The Michio house is in many ways the Scorpion equivalent to the Damasu.  Their capital is Ryoko Owari, the second largest city in the Empire, a larger city than either their Family capital (Kyuden Shosuro) or their Clan capital (Kyuden Bayushi).  Thus, just as the Damasu are far wealthier, more powerful, and more influential than most vassal houses, so too are the Michio the second most powerful domain in Scorpion lands - second only to the ruling Bayushi house.
 
@@ -2712,7 +4753,7 @@ Katsuro has arranged sparring matches against many local duelists, including som
 
 Katsuro is the captain of the Lightning Squad, an elite team of first responders who swiftly deploy to any incident in Ryoko Owari.  The city guard of Ryoko Owari are known as the Thunder Guard, and just as thunder follows lightning, the entire city's forces will be close behind Katsuro when needed to put down any unrest.  He strives to always be worthy of such responsibilities, and managed to on several occasions strike at moon cult hideouts, whose members had fled Kyuden Bayushi and tried to hide in Ryoko Owari.  Now that it has been over a year since any such traitors to the Scorpion Clan have been found, Katsuro has journeyed to Toshi Ranbo on a warrior's pilgrimage, arriving this summer to pray and train.
 
-### Togashi Ichiharu, Mirumoto Kiyoshi, and Kitsuki Hina
+##### Togashi Ichiharu, Mirumoto Kiyoshi, and Kitsuki Hina
 
 This trio of traveling adventurers has been to the city many times before, but returned for the first time in nearly a decade late last year, arriving just before the Harvest Moon of the Fall Equinox.  This is not the first time that Kiyoshi or Hina have expressed an interest in temple relics, but in the past Togashi Ichiharu always eschewed such things, as part of his vows as an ascetic Ize Zumi monk.
 
@@ -2722,7 +4763,7 @@ Iori also believes that Ichiharu may be frequently leaving the city or even the 
 
 Kiyoshi and Hina have continued to donate to the Temple of Bishamon, and pray there, and express interest in audiences with the temple's relics.  Kiyoshi herself is an accomplished duelist, and wields the famous sword Seiginryu (Justice of the Silver Dragon) - see the Famous swords section below for details.
 
-### Initial Findings
+##### Initial Findings
 
 The PCs' staff was initially unable to locate eight people on that list.  Relic seekers are instructed not to leave the city without informing the temple, and this will be a ding on their records and affect their places in line as relic seekers, lengthening the amount of time it will take them to gain access to all of the temple relics.
 
@@ -2742,7 +4783,7 @@ There weren't any shocking living situations, though there were a few minor surp
 - **Kuni Isamu** told the temple that they could find him through the local Witch Hunters (plural!  Toshi Ranbo is one of only four cities in the Empire to have more than one Witch Hunter, along with Otosan Uchi, Ryoko Owari, and the Yasuki Estates).  However, he turned out to be living with his friend and fellow recipient of the Order of the Precious Crown, Shiba Asayo.  Both of them appear to be training dogs for sport, to compete in some kind of local dogfighting circuit.  Evidently they are engaged in a project to prove that dogs initially trained for hunting and then turned into fighters will be superior to classically trained fighting dogs in certain respects, and they perform this project in their spare time on the grounds of Asayo's rented country home in Hikobayashi, just outside the city.
 - **Ikoma Haruto** has a small rented home in the city, along with other visiting members of the Ikoma Family.  It's surprising that he does not stay with Ikoma Aimi, the Ikoma Emissary to the Damasu, especially since his father is the Ikoma Family Deputy Minister of War, and is from the same ruling Ikoma lineage as Aimi.  More surprising is that when your staff visited Aimi's estate, they were followed out by a Phoenix merchant named Shiba no Kenshin Basho, who inquired about their business and position.  Upon learning that the visiting monks report to the karmic inquisitors, Basho immediately made a 4 bu, 1 zeni donation (no one would ever give a gift of exactly 4 bu, due to the number's association with death), and asked to be informed when you returned to the city, so he could speak to you about his business as a horse trader.
 
-### Initial follow-up to the initial findings
+##### Initial follow-up to the initial findings
 
 Huiru can use his Goju abilities to find people whose name he knows.  As a reminder, there are several reasons why Huiru might fail to find someone:
 - They could be far enough away that their recognition is not high enough for him to be able to sense them.
@@ -2759,7 +4800,7 @@ Here's the alphabetically sorted list of relic seekers Huiru is unable to locate
 - **Setsuko the beggar nun**
 - **Togashi Ichiharu**
 
-### Sustained follow-up
+##### Sustained follow-up
 
 The PCs requested their staff try to track down those who were out of the city, as well as get more information about the people in interesting circumstances within the city.  This is in progress, and so far this is what has been reported as of the 4th day of the 12th month, in alphabetical order:
 
@@ -2769,13 +4810,13 @@ The PCs requested their staff try to track down those who were out of the city, 
 
 - **Togashi Ichiharu** has evidently been returning to the city so late at night that it's practically morning by the time he returns.  Huiru was unable to locate him when last he tried, but he is definitely spending time in the city in the home he shares with Mirumoto Kiyoshi.  Your staff spoke with the city guards who oversee the gates between the neighborhoods, and evidently Ichiharu returns every night through the northern city gate - despite the fact that the rightward gate is closer to his home.  The guards report that while this has been happening on and off for the past year, it picked up and became an almost-every-night occurrence the month before last.
 
-## Famous Swords
+#### Famous Swords
 
 The PCs in the Karmic Inquisitors campaign asked for a list of famous swords in and around the domain, with particular attention to swords in Damasu lands or in Crane possession nearby.  They suspected that a powerful sword might be responsible for the affliction of the domain.
 
 Here's a list of the 10 most famous swords which the PCs were able to learn about.  This involved some consultation with local samurai, who have better records about particular swords and who among the local peerage currently possesses them.
 
-### **Amatsukami no Ken** (Heavenly Sovereign's Sword)
+##### **Amatsukami no Ken** (Heavenly Sovereign's Sword)
 
 This is the ancestral sword of the Damasu, currently wielded by their daimyo, Akodo no Damasu Chiho.
 
@@ -2787,7 +4828,7 @@ Akodo Damasu's wisdom is channeled through this blade, and brings clarity in lea
 
 When Kakita Kenji forced the governor to step down by winning a duel against his yojimbo Tsume Koreshiba, it was decided that the sword should stay in the city, and it was passed onto Doji Hirota, who married the new governor, Tsume Momoko.  As a result, the sword was returned to its rightful Damasu ownership when Akodo Toturi retook the city.
 
-### **Ohari** (Big Needle)
+##### **Ohari** (Big Needle)
 
 This is the most famous sword possessed by the Riori lineage, and is the familial sword of the governor of Owari, who has always been a Riori ever since Akodo Riori swore fealty to Lord Akodo and was assigned as a retainer to Akodo Damasu at the dawn of the Empire.  The rhyme of the names is intentional - Ohari means "big needle" and Owari is the "end" of the domain, acting as a bulwark against foreign invaders, with the Riori lineage forever an important line of defense.
 
@@ -2799,7 +4840,7 @@ Akodo no Damasu Eisuke retold this history and proudly displayed Ohari to inspir
 
 The family considered vowing that the sword should never leave the city, but its past successes in faraway battles led them to decide against this, for this would undersell the power of this sword.  After all, Ohari has had success in many battles, both in and out of the city of Owari, so while the family has decided that the sword should stay at the side of the Riori governor of the Owari province, it may leave when the governor leaves, and be deployed anytime the governor rides to battle.
 
-### **Seishinsho** (Spirit Whisper)
+##### **Seishinsho** (Spirit Whisper)
 
 This sword's origin is unknown - it was gifted to Akodo Biko, the second son of the Akodo daimyo many centuries ago, by a mysterious hermit who explained that the sword had been blessed by the Jade Dragon.  Seishinsho has a slender, elegant blade with cherry blossom motifs running along the hilt, symbolizing beauty and the transient nature of life.  Its characteristic jade insets are along the sword's guard and handle.
 
@@ -2811,7 +4852,7 @@ Wielders of Seishinsho have often been encouraged by the sword to enlist in the 
 
 Akodo no Damasu Kaguya currently holds this sword, having brought it to Damasu lands when she swore fealty to her new daimyo after the war and became the Chancellor of the Damasu lineage.
 
-### **Kishin no Ketsui** (Resolve of the Fierce God)
+##### **Kishin no Ketsui** (Resolve of the Fierce God)
 
 It has been claimed that Lord Akodo, towards the end of his life, expressed his only deep regret.  While the Great Ancestor stood by all of the major decisions and choices throughout his long and noble life, he regretted that for all that he had successfully taught his people how to make war, he had never found the time to teach them how to make peace.  Thus, Lord Akodo worried that he was leaving a clan not properly balanced between the inevitability of war and the necessity of peacemaking.
 
@@ -2825,7 +4866,7 @@ Kishin no Ketsui features a golden guard engraved with a lion's mane, depicting 
 
 Akodo no Damasu Sei carried this sword in Imperial court while the peace treaty between the Lion and Crane was being negotiated.  While Sei did not act as a primary negotiator or meet personally with the Emperor, he was heavily involved in the ancillary negotiations.  (Timetables on the delivery of gifts and other payments, the percentage of payments made in gold vs silver vs rice, etc.)  Sei brought this sword to Damasu lands after swearing fealty to Damasu Chiho after the war, and now uses the sword to strengthen the peace as Chancellor of the new Sei lineage.
 
-### **Akuzuki** (Wicked Moon)
+##### **Akuzuki** (Wicked Moon)
 
 This sword is not only impressive on its own, but also has a fantastic sheath - it was the saya that caused a Tsume bushi to once comment that this sword seemed "too good for" its current wielder, Matsu Yokijiro.  Yokijiro absolutely humiliated the hapless Tsume, who quickly realized that not only was the sword impressive, but Yokijiro would certainly kill him in a duel.
 
@@ -2835,7 +4876,7 @@ Akuzuki has been in Yokijiro's family for three generations, which is only one f
 
 Of course, this is not necessarily a bad thing, and although Yokijiro has sought the counsel of members of the Order of Bishamon about this, his current intention is indeed to pass this sword along to his grandson (who is currently only a baby) upon his retirement.  After all, even if the curse is real, his grandson may win many righteous duels along the way to his death, and to pass the sword along to someone else when he retires would be a failure to teach courage to his descendants.
 
-### **Kasai Tsume** (Fire Claw)
+##### **Kasai Tsume** (Fire Claw)
 
 This is the ancestral sword of the Tsume.  While every daimyo in the Empire has an ancestral sword of their house, there are currently 284 domains, and not all of them have an impressive enough sword for anyone outside of their domain to have any regard for it, making most ancestral swords "locally famous" rather than actually famous.
 
@@ -2849,7 +4890,7 @@ This sword is said to be at its most powerful when attacking - it has never part
 
 Kasai Tsume is currently in the possession of Doji no Tsume Takashi, the son of Tsume Retsu and current daimyo of the Tsume Family.
 
-### **Shitsuten** (Lost Heaven)
+##### **Shitsuten** (Lost Heaven)
 
 The final sword forged by the legendary swordsmith Daidoji Masamune, who poured all of his hatred for the Yasuki into this sword.  Many of his previous swords were forged with restrictions on their use for what they must do after being unsheathed - most of his swords must draw blood before they may be put away, and thus to even perform kata with such a sword may require that the wielder nick themselves to satisfy the sword's bloodlust.  Shitsuten carries a harsher requirement and must take a human life after being drawn before it may be resheathed.
 
@@ -2863,7 +4904,7 @@ Yasuki Aina retrieved the sword herself and displayed it proudly as a trophy in 
 
 Aina's daughter donated the sword to Shinden Asahina, which promised to keep the sword safe in a shrine.  For 7 centuries, Asahina storytellers would train and practice their craft by telling the sword stories of those who had set aside their anger and hatred, seeking the Shinsei rather than vengeance.  However, the sword was taken from its shrine in Shinden Asahina by a Daidoji priest who claimed to have been told to do so by a powerful mysterious god in a dream.  Doji Masayo had been appointed the Crane Clan Magistrate for Shinden Asahina after the Lion/Crane war, and she ruled that this was not a theft and should be allowed, and then suspiciously the sword was given to her, and she appeared wielding it at the Sunset Blade Trials last winter, using it to kill Damasu Tsuo (and later Damasu Saki earlier this winter).
 
-### **Seiginryu** (Justice of the Silver Dragon)
+##### **Seiginryu** (Justice of the Silver Dragon)
 
 After the legendary swordsmith Hyobu went into retirement, he decided to climb Togashi Mountain from the east, along its confusing and otherworldly network of mountain paths and caves.  This is the most auspicious set of paths for those who climb the mountain seeking enlightenment, but there are many dangers, and few reach the mountaintop by those routes.  The mountain does not permit the unworthy to ascend from this direction, and thus many travelers either perish before they reach the top, or take up a new life there, living as hermits or in small communities of goatherds as they prepare themselves to continue their ascent.
 
@@ -2875,7 +4916,7 @@ Seiginryu (Silver Dragon's Justice) is the sword associated with the Virtue of J
 
 Mirumoto Kiyoshi currently wields this sword, and she has spent the past decade in and out of Damasu lands.  Though she is a Dragon Clan magistrate and has never joined the Imperial Ministry of Justice as an Imperial Magistrate, she carries Imperial travel papers and has many letters of introduction by impressive Imperial magistrates whom she has helped.  Her daring technique has often been to set traps for bandits and river pirates, whose overconfidence in confronting a small group of herself and her companions (Kitsuki Hina and Togashi Ichiharu) with far superior numbers leaves them exposed when they fail to kill or capture Kiyoshi and her friends.  This has earned Kiyoshi the nickname The Silver Streak of Justice, a reference to the sword Seiginryu as well as Kiyoshi's own innate quickness with the blade.
 
-### **Tamashikari** (Soul Anchor)
+##### **Tamashikari** (Soul Anchor)
 
 This is the 5th most famous sword in the Scorpion Clan.  The Ancestral Swords of the Bayushi Family, Shosuro Family, and Michio House are all more famous, as is Bayushi Tangen's **Kurainigo** (the Dark Sword of Bitter Lies), but aside from these there are no other Scorpion swords which anyone could seriously argue are more famous than Tamashikari.
 
@@ -2893,7 +4934,7 @@ Those pursued by one who wields Tamashikari have been known to take their own li
 
 With this work complete, Maiko came to Toshi Ranbo last winter on a warrior's pilgrimage, and has stayed in the city testing herself in local dojos and working her way through the Order of Bishamon's Temple relics to pray and further strengthen herself for whatever future trials lie ahead of her.
 
-### A Fishy Conversation (about another sword)
+##### A Fishy Conversation (about another sword)
 
 During the Toshi Ranbo campaign, one of the PCs asked Akodo no Damasu Sei whether any of the servants in Hantei Daigotsu's estate were local, or if all of them had been brought with the prince.  It turns out that all of the servants normally rented with the estate were dismissed, except for Hatsue the senior pondwarden, who tended to the tropical fish kept within the estate.
 
@@ -3562,869 +5603,205 @@ Using the aforementioned travel papers, the PCs are instructed to visit some loc
 
 As mentioned earlier, peasants lead interesting lives, and the main point of this campaign was to drive that home!  The table had just as much fun playing as farmers as when they were playing as samurai, which reflects not only the worldbuilding of Rokugan but also an important point about how the narrative isn't only interesting when it's about the wealthy and powerful.
 
-## Oaths and Vows
+## The Hidden Way Campaign
 
-With a few specific campaign settings covered, here are some of the religious underpinnings of Rokugan and its cosmology.
+### The 11 Imperial Gardens of Chai Sedo
 
-Oaths and vows are heavily incorporated into this setting.  The main difference between the two is that an oath is sworn by a god, while a vow is sworn to a god or some other type of divine being.  This has several implications, chiefly that an oath is something that the person you swore it to can release you from, but since a vow is sworn to a god, only the god can release you.  This means that oaths can be temporary even if they were originally intended to be permanent, whereas you cannot be freed from a vow.
+Because of the climate and relative lack of water (notwithstanding the artificial ponds, canals, and pools), the 1st Imperial legion is bereft of a bamboo garden, maze garden, temple garden, orchard garden, moat garden, museum garden, residential garden, lake garden, tsukiyama garden, flower garden, or reptile garden.  The 11 gardens listed below are the best effort based on what can be supported in this region.
 
-This setting imposes a certain format for oaths and vows, admittedly based more on the Roman world than Japan.
+#### Pond Paradise Garden
 
-Oaths and vows should begin by whoever is swearing it naming themself unambiguously, in order for the fortune to not accidentally confuse the wrong person - in some cases this will involve someone naming their parents or saying where they come from.  Then they declare the god they are swearing by (for an oath) or swearing to (for a vow).  Finally they declare what they are swearing.
+A pond garden, made up of a series of cultivated, artificial ponds, some of which contain fish and even koi, which struggle to survive in this climate, but which are brought in and replaced as needed.
 
-Here's an example of how this applies to the Legionnaire's Oath, an oath of office sworn by those who join the Imperial legions.  Most Imperial legionnaires swear the standard Imperial Legionnaire's Oath, which has three parts:
+#### Borrowed Scenery Garden
 
-1. The legionnaire states their name, family, and position.  For some clans, the listing of position is as simple as naming their previous post or formal rank, while other clans take this opportunity to state their personal deeds - the amount of time allotted for this would depend on the rank of the legionnaire involved.  The amount of ancestry stated varies by clan and family as well; some Lion families state their entire lineage back to the Great Ancestors and their vassals, while others actually swear by each ancestor individually in the second part of the oath.
+Arguably the most impressive of the Imperial gardens, this is a small artificial "lake" (actually a pool) with a carefully curated sand bar garden reminiscent of the pine sand bar off the coast of Otosan Uchi.  The sand bar can be reached either by boat or by walking across a series of stone pillars.
 
-2. The naming of who the oath is being sworn by.  All Imperial legionnaires must swear this oath "by Lady Sun, and by my ancestors", but some legionnaires insert their family patron gods, or particular fortunes whose favor they seek.  In addition to swearing by these entities, some legionnaires may swear on a particular artifact, such as a famous sword they carry or an ancestral heirloom which is part of the legion.
+This artificial lake is also artificially seeded with fish, which are brought in mainly from the Firefly river, White Shore Lake, and the River of the Lost Valley.  This is the prince's personal fishery so that he can occasionally eat fresh fish.
 
-3. The legionnaire ends with the standard formula for the legionnaire's oath, swearing:
+#### Garden of Sunken Sceneries
 
-"that I shall faithfully execute all that the Emperor commands, and that in so doing I shall never seek to avoid death."
+A boating garden composed of a set of artificial ponds and canals, with stone and wooden carvings below the surface.
 
-As an example of all three parts put together:
+#### Mossy Stone Triad Garden
 
-"I am Shosuro no Michio Noritaka, son of Ukon and Minon, of the lineage of Shosuro no Michio Yusuke.  From the ranks of yoriki of the Thunder Guard of Ryoko Owari, I swear by Lady Amaterasu, by my ancestors, and by Bishamon, that I shall faithfully execute all that the Emperor commands, and that in so doing I shall never seek to avoid death."
+This is the smallest but arguably most impressive of the Imperial gardens, since the semi-arid climate of the area doesn't support moss.
 
-Higher-ranking officers need to do more than simply follow orders, so higher-ranking officers swear a different oath.  Corporals and sergeants mostly swear the standard Legionnaire's Oath, but Platoon Lieutenants must swear:
+#### Garden of Seven Sublimities
 
-"that I will be faithful and bear true allegiance to His Imperial Majesty the Emperor and his successors, that I shall marshal his troops as he commands, and that in so doing I shall never seek to avoid death."
+A meditative rock garden cultivated and most frequently visited by the members of Togashi Company.
 
-Company captains swear an even longer form of this oath, being required to swear:
+#### Beauty of Empty Space Garden
 
-"that I will be a true and faithful servant to His Imperial Majesty and Son of Heaven the Emperor and his successors.  I shall truly and faithfully show the utmost respect for my duty, and without fear I shall everywhere and in every situation defend the inviolability of the Empire.  I will marshal his troops as he commands, and in so doing I shall never seek to avoid death."
+Dry garden (which some uncultured samurai might confuse with a rock garden) composed of dry streams and rocks and sand to suggest running water, this garden surrounds Chai Sedo itself.  A series of bridges of the sort one might see in a temple garden cross the various streams.
 
-Battalion commanders and Legion generals swear even longer oaths, which depending on the particular duties of the legion and their assignments may draw from the oaths of office from any or all the 6 ministries, with these being examples from those other oaths which may be pulled in to form the Officers' oaths:
+#### Waving Lawn Garden
 
-- I shall avoid any and all actions which are injurious to the functioning of a well-ordered society.
+A shrub garden whose intent is to showcase all of the plants capable of growing in this climate without transplanted soil or other similar interventions.  This is the largest garden and is not walled - by design it's somewhat unclear precisely where the garden begins and ends at each of its edges.  It's commonly visited by legionnaires, especially walked through at night when it is well-lit by various types of lanterns.
 
-- I possess pure faith and obedience to the Emperor and shall preserve, support and secure the Empire without being affected by fear, mercy, love or hatred.
+The most common lantern is the hexagonal firebox with two openings and carvings of deer.  These lanterns stand on a single solid pillar.
 
-- I shall discharge strictly and conscientiously the lofty duties that have been bestowed upon me.
+Snow-viewing lanterns stand on three or four legs next to the small pools which dot the landscape.  The big umbrella is perfect to catch the falling snow and present it as a soft white hat to the carefully watching eye.  Some hanging lanterns are also placed on overhanging pillars and so they can hang over these pools.
 
-- I will promote the general welfare of the Empire.
+The gardeners hide small statues of the Shinsei in different places throughout this garden on stone plates, changing locations frequently.
 
-- I will be responsible for my subordinates by becoming an example, building morale and confidence, and making right and honest decisions.
+#### Snow Rose Garden
 
-- I will devote myself to the glory of the Empire, promotion of righteousness, and the propagation of justice.
+A delightful bonsai garden with as many varieties as can survive in the climate - this includes a number of varieties which are only able to survive because of transplanted soil and the time-consuming tending from the gardeners.
 
-- I shall guard righteousness and undertake to be diligent in seeking truth and justice.
+#### Garden of Pleasure After
 
-- I will hold the good of the Emperor and the prosperity of his subjects as my supreme obligation.
+Named for the fact that a wise ruler attends to business first and only indulges in pleasant activities once the work of administration is complete, this is the Prince's personal courtyard garden.
 
-- I will always preserve the Empire with my eyes, soul, thoughts, and care, and my mind will only be centered on the Emperor's commands to promote the public good.
+Some notable things in this garden:
 
-- I will promote peace and harmony among the Emperor's subjects, and day and night I shall be the most vigilant custodian of his land.
+- A hand washing basin composed of several elements that is in the middle of the garden with two stones on either side.  A stepping stone path leads towards a large flat stone in front of the basin on which to stand.  Water flows into the basin through a bamboo tube, and a lantern at the back of the basin helps to guide the guest towards it in the evening.
 
-- I will always promote all that will advance the Empire and oppose all that may harm it.
+- A "music jar" buried upside-down in the ground and covered with cobblestones - as water drips through a hole in the bottom of the jar and hits the standing water in its top, it makes a sound reminiscent of a harp.
 
-Note the pattern that oaths sworn by large numbers of people are usually fairly simple, and they get more and more complicated for higher-ranking positions.  For example, here is the oath of office sworn by the Damasu Minister of Works (the Damasu is a vassal family of the Akodo Family of the Lion Clan).
+- A "deer-scarer", which is that thing where a bamboo pipe is balanced like a seesaw under a source of flowing water and one end of the bamboo pipe is open and the other is closed.  When the open end fills with water, the extra weight causes it to snap down onto a stone or wooden block with that very pleasant soft crack as it tips back into place.
 
-"I, [name], do solemnly swear by Daikoku, the Fortune of Wealth, Koshin, the Fortune of Roads, and in the light of our radiant Lady Sun, to faithfully execute my duties as the Minister of Works for the Damasu domain.
+#### Elements of a Pure Land Garden
 
-I pledge my diligent efforts to the construction and preservation of public works, fostering the prosperity and security of our domain.
+A tea garden with a gate leading up to the pagoda where tea ceremonies are held.  Stepping stones run throughout the garden along its various paths, surrounded by mostly evergreen, non-flowering plants.
 
-Guided by duty and unwavering loyalty to our honorable Daimyo and the Emperor, I will uphold my responsibilities without fear, favor, or prejudice.
+#### Circle of Here Garden
 
-I commit to be an exemplar for my subordinates, encouraging their dedication and making honest decisions for the benefit of our domain and the Empire at large.
+A study garden dotted with tents and covered gazebos and a small library.  The books available are mainly a combination of widely-reproduced classics and cheap pillow books, though the prince's manor contains a more impressive personal library.
 
-With this solemn oath, I swear to put the welfare of the Emperor's subjects and the prosperity of the Damasu domain above all else, diligently working for its advancement and diligently safeguarding against any harm that may befall it.
+### The 1st Imperial Legion
 
-I swear this oath freely, my heart pure and my intentions sincere, in the name of Daikoku, Koshin, and our radiant Lady Sun."
+Now let's talk about the 1st Imperial Legion itself.  Here are some random notes about the structure and layout of companies.
 
-Note that the oath not only references the duties and responsibilities of the position, but also the challenges which the Minister expects to face in office.  This is similar to how the legionnaire's oath promises to never attempt to avoid death, which references the challenges which legionnaires are expected to face in their military service.
+#### Ranks in the Imperial legion
 
-As another example, here is the oath of office sworn by the Damasu Minister of Retainers:
+Here's a rough outline of the makeup of a legion.
 
-"I, [name], do solemnly swear by Hachiman, the Fortune of Loyalty and Honor, by Shinsei, who exemplifies humility and wisdom, and in the light of our radiant Lady Sun, to serve faithfully as the Minister of Retainers for the Damasu domain.
+| Unit | Rank of Officer in Charge | Number of samurai troops |
+| --- | --- | --- |
+| Legion | Legion General | ~1000 |
+| Battalion | Battalion Commander | ~200 |
+| Company | Company Captain | ~50 |
+| Platoon | Platoon Lieutenant | ~10-15 |
+| Squad | Squad Sergeant and Corporal | ~4-6 |
 
-I pledge to uphold my responsibilities, managing the personnel of our domain with diligence, fairness, and integrity.  I will place the needs of our honorable Daimyo, our dedicated samurai, and our loyal subjects above my own, fostering unity, dedication, and obedience within our ranks.
+Other notes:
 
-I commit to the duty of preserving the samurai tradition and ensuring its continuity, guiding our samurai in their dedication to the code of Bushido, their service to our Daimyo and the Emperor, and their commitment to the welfare of our domain and the Empire.
+- A collection of Legions is an Army, commanded by an Army General.
 
-I will act as an exemplar for all samurai under my authority, leading with wisdom, fairness, and honor.  I will make decisions with utmost honesty and impartiality, striving always for the prosperity and security of the Damasu domain and the Empire at large.
+- A collection of armies is commanded by someone with the title General of the ____ Armies of the ____.  For example, Daidoji Uji (daimyo of the Daidoji Family) has the title, "General of the Southern Armies of the Crane".
 
-I swear this oath freely, with sincerity and a pure heart, in the name of Hachiman, Shinsei, and our radiant Lady Sun."
+#### Companies and Houses
 
-Additional examples of oaths could be given, but the discussion turns now to vows.  Like the original L5R books, much of the information is "sourced" to in-universe books, presented through "primary source documents" (or descriptions of the contents of those primary source documents).
+Each House is responsible for providing either part (in the case of small houses) or all (in the case of larger and/or more prestigious houses) of a Company to at least one of the Imperial legions.  Some houses provide more than one company, which can be negotiated with the Imperial Ministries of War and Revenue (through the Treasurer and the Shogun and their subordinates) as part of their tax obligation.
 
-### On Vows to the Fortunes
+Companies are funded entirely by the Houses which provide them.  Battalion Commanders are frequently Imperials, especially from the Seppun Family, though the 1st Imperial legion is an exception due to its unique mission and history.  A small percentage of each company will consist of samurai from other Houses and sometimes other clans, which will sometimes be transferred/assigned for political or personal reasons.
 
-"On Vows to the Fortunes" is one of the fictional books from Rokugan which I use to educate players on vows and how they work.  Here's some information about that:
+Due to the sought-after benefits of holding a position in the 1st Imperial Legion, out-of-House assignments are more common in a number of the companies (Hiruma company being an outlier for being almost entirely sold-commissions and Togashi company being an outlier in the other direction).
 
-"This book was originally published by Isawa Akuma, who was later discovered to have stolen it from the Great Library.  Its true authorship is unknown.  Anyone who discovers a copy of this book without this disclaimer is ordered to report it to the office of the Jade Champion."
+#### Budget
 
-The above disclaimer is at the front of several books published by Isawa Akuma many centuries ago, including this one.  Akuma was a powerful shugenja who was also the greatest scholar of his generation, which is unusual since it's practically unheard of for masters of magic to also be masters of scholarship.  However, it later turned out that Isawa Akuma had used his great name to summon an oni lord (Oni no Akuma), who took the form of a Great Library hidden deep in the Isawa Woodlands.  This library is said to contain "all of the things which have ever been written, and many of the things which never were written, and more than a few things which will come to be written".  It cannot be found the same way twice, and therefore is very difficult to reach.
+Each company captain in the 1st Imperial Legion has a several thousand koku budget (typically ~1000 koku higher than a company in a different Imperial legion):
 
-Akuma published a number of works of scholarship written by people who were never born, or possibly which would have otherwise not come to be written for centuries, attributing these works to himself, which fueled his name even further.  Notably, Akuma is only one of two shugenja in history capable of practicing maho and thus taking on the Shadowlands taint without losing their shugenja abilities - the taint is hateful to the elemental kami and all other shugenja who have practiced maho have lost their powers as a result.  Akuma is one of only three shugenja who have achieved immortality, though presumably he did this through dark rituals rather than gaining the favor of the kami.  (Additional information on Isawa Akuma, not directly related to vows, appears later.)
+- Because of the increased rank across the legion, the stipends alone are in excess of 1200 koku.
 
-On Vows to the Fortunes is still considered the foundational work of scholarship on the subject of vows, despite its origins, which speaks to its quality.  Here is some of the most salient information it contains.
+- Several hundred additional koku in feeding the troops and support staff - this reflects an increase in the price of good food this far away from the heart of the Empire.
 
-- The fortunes reward those who are devoted to them.  This devotion is defined as shaping your thoughts and decisions and actions around being in tune with the fortunes, keeping them and their will in mind at every moment.
+- Hundreds of koku to pay for the support staff and their expenses - a company has ~50 samurai and about two dozen peasant workers, including unskilled or semiskilled labor such as cooks, custodians, launderers, and burakumin, as well as skilled labor such as smiths to maintain the weapons and armor.
 
-- There are a thousand fortunes, though this number is probably not literal, and should be taken to mean "a large number, but still finite and theoretically within the ability of the human race to count and record".  This is too many for any one person to keep in their head at all times.  Therefore, humans do not displease any fortune by our neglect, so long as we do not act contrary to their wishes or actively reject their importance.
+- Hundreds of koku for equipment.  This not only includes the upkeep and replacements of weapons and armor, but also the tents, building materials, ditches and fortifications (these being less common in the 1st legion).
 
-- We gain the favor of the fortunes by focusing on individual, specific fortunes and behaving in accordance with their wishes and nature.  Humans are only capable of doing this with a few fortunes at a time - the upper limit of different fortunes that the human mind can act in conscious accordance with is thought to be seven, and most people are advised to pick a much smaller number when swearing vows.
+- Hundreds of koku for religious and cultural celebrations/festivals and the maintenance of the company shrines.  Each company has at least three shrines: one for the House's ancestors and one for each of the clan's patron fortunes.  Such shrines are located to the south or southeast of the rest of the company structures, i.e. between the company and the Shadowlands.  These religious expenses include not only the sacred items (e.g. special incense/herbs/flowers) but also the alcohol which is consumed at all such celebrations.
 
-- Counterintuitively, swearing a vow to the Fortunes does not actually gain their favor in any way, while breaking a vow angers them and brings misfortune to the vowbreaker.  With this in mind, why swear a vow at all?  The answer is that swearing a vow forces you to orient your thoughts around maintaining your vow until it becomes second nature to you.  Living and abiding by your vow will then become part of your natural state of mind, and that will gain you the favor and blessings of the fortunes.
+- Hundreds of koku for gifts and lobbying of the Prince and other important officials above and beyond the expectations of the major gift-giving holidays.
 
-- Theoretically a person could achieve a similar result without swearing a vow, but in practice it doesn't usually work that way.  For example, if you choose to not swear a vow because that gives you the option of acting in ways that might theoretically break such a vow, then you will gain less favor with the fortunes even if that sort of situation never comes up.
+#### Layout
 
-- There are many recorded cases of people gaining the blessings of the fortunes without having taken vows of any kind, though this is most commonly among peasants who didn't even know that swearing a vow was an option available to them, and who wouldn't have known how to do this properly in any case.
+The 1st legion is mostly made of tents rather than wooden barracks, due to the harshness of the climate and its effect on wooden buildings.
 
-- There are a number of generic vows that can be sworn to many different fortunes, with different significance depending on the fortune being sworn to.  Note that vows can be sworn to any divine being, not just the fortunes, e.g. to Lady Sun, though most vows are sworn to one or more of the Thousand Fortunes.
+The standard sleeping tent is ~10x10 feet wide and 6-8 feet high.  A typical company has ~8 of these sleeping tents:
 
-- In general, it's far worse to swear a vow and break it than to have never sworn a vow at all.  And swearing a vow to do things you don't find difficult doesn't have much benefit, since if you don't need to reshape your thoughts around following the vow then it will not gain much favor with a fortune.  This makes vows inherently somewhat risky - in order to be meaningful or significant they must be difficult, but the more difficult they are the more likely you are to break your vow and be worse off than you were before.
+- 4 holding the non-officer legionnaires of the company's 4 platoons (~8 legionnaires in each)
 
-- Because of this dynamic, a standard piece of advice is to practice operating under the burden of an especially difficult vow before you actually swear it, in order to ensure that you will be able to keep it.  Religious institutions should prevent new members from swearing vows until they have been tested, to ensure that newcomers do not bring ruin to themselves and to their entire orders by swearing and then breaking vows.
+- 1 holding the 8 corporals
 
-### Benten's Blessing
+- 1 holding the 8 squad sergeants
 
-Another in-universe work of literature which teaches people in Rokugan about vows is the book "Benten's Blessing" by Doji Shizue.
+- 1 holding the 4 platoon lieutenants
 
-Doji Shizue was a storyteller who lived three centuries ago.  Swept up in political machinations in Otosan Uchi (the capital of the Empire), Shizue was falsely accused by her family's enemies of plots contrary to the interest of the Emperor.  Because she was innocent, there was no evidence or direct testimony to support these allegations, but Shizue was banished from the capital and from her homelands.  A series of misfortunes befell those who had conspired against her, while she herself went on a pilgrimage to learn the ways of the fortunes and come closer to enlightenment.
+- 1 holding the company captain
 
-Upon her exoneration, she returned to the capital and became the Imperial Matchmaker, having won the favor of Benten (the fortune of romantic love) in her travels.  The play Doji Shizue and the Secrets of Calligraphy recounts her tale and is considered one of the great classics - all of the PCs have certainly seen this play.
+In addition, there are several other much larger tents:
 
-Shizue's work contains many ruminations on what is and isn't pleasing to Benten.  In some cases, this is common sense - falling in love, getting married, having children, and then helping them fall in love themselves and continue this cycle is obviously pleasing to Benten.  Shizue reminds us that these connections and cycles are literally what Benten is.  Fortunes are not simply divine beings who happen to like/favor certain concepts - Benten literally is the connections and cycles formed by and of romantic love, and therefore favors anything which strengthens those connections and cycles.
+- an officer's mess where the corporals, sergeants, lieutenants, and captain dine
 
-Shizue writes at length of the ways in which those connections and cycles don't necessarily require a love to be consummated.  For example, someone who denies their soulmate in order to enter an arranged marriage as instructed by their family, despairing at never being with the one they truly love... that person is keeping romantic love at the forefront of their thoughts and thus is likely to be rewarded by Benten with prosperity in the marriage their family has chosen for them.  The heartbreak is the price they are paying for Benten's favor.
+- a legionnaire's mess where everyone else dines
 
-Benten's curse is therefore earned, not by any particular choice of romantic partners, but by rejecting the idea that one should care about romance at all.  The kind of person who believes that love and romance are silly things disregarded by practical adults - that is the person who will earn Benten's wrath and bring ruin to themselves and their family.
+- a kitchen tent where the food is prepared
 
-Shizue gives several example vows, including the vows she herself swore to Benten on her pilgrimage which later brought about her redemption and vindication for herself and her family.
+- a meeting tent large enough to hold the entire company where orders are given
 
-### Vengeance and Justice
+Servants sleep in separate tents which line the outside of the company's area.  These tend to be numerous and smaller since many servants frequently live in the legion long-term with their families.
 
-Another in-universe work of literature which explains oaths to samurai is "Vengeance and Justice" by Matsu Hitomi.
+Burakumin and the latrines they dig are located outside of the company encampment.
 
-Shortly before her gempukku, Matsu Hitomi watched her brother die in a duel against Matsu Akimori, a member of a rival lineage.  On the day of her gempukku she challenged Akimori to a duel.  He initially refused, saying she was not yet a worthy opponent.  In anger, Hitomi attacked him, and he easily defeated her, sparing her life while urging her to return to face him once she was skilled enough to possibly be an even match.
+In addition to tents, a company encampment has several buildings, usually made of stone or clay/mud bricks:
 
-Hitomi left on a warrior's pilgrimage to train and swore vows to the two fortunes of vengeance:
+- A granary/storehouse containing provisions.
 
-- Yozo is the fortune of legal vengeance, e.g. the sentence of a magistrate to someone convicted of a crime as their punishment.  Yozo is sometimes said to be the fortune of penance, both voluntarily taken and forcibly inflicted.
+- An armory where weapons and armor are kept.
 
-- Hofukushu is the fortune of personal vengeance, e.g. the burning need to take revenge on someone who has harmed your family.  Hofukushu is sometimes said to be the fortune of sacrificial revenge, favoring those who would throw aside all other goals in pursuit of vengeance.
+- A stables where the horses are kept.  Unicorn companies tend to have multiple stables and will sometimes have more horses than legionnaires, whereas most companies will have only enough for a single platoon.
 
-Hitomi went on a warrior's pilgrimage, training for years in self-imposed exile until she considered herself worthy to return home and face Akimori.  She did so, and although Akimori had risen to such a high position that she had no standing to challenge him, he saw her and judged that she had become a worthy opponent and accepted her new challenge.  Hitomi prevailed in her duel, though she almost died of her wounds afterwards.  As he lay dying, Akimori thanked her for the greatest warrior's challenge of his life, saying he was glad to have spared her all those years ago, and was happy to see she had finally become a worthy opponent.
+#### The Gateway and Outsider Keep
 
-Many books and plays have been written about Hitomi, and it is a common name chosen at gempukku by women who already have some specific reason to seek revenge, especially against those who have wronged a brother.  Notably, the current daimyo of the Mirumoto Family, Mirumoto Hitomi, chose that name for herself as part of a declaration of vengeance against Hida Yakamo, who killed her brother in a duel.  Hitomi later cut off Yakamo's hand before returning home to assume the role of daimyo for herself, a position which had been held in regency by her uncle Sukune.
+Here's some more general information about the area where the 1st Imperial Legion is located, known as the "Gateway to the Land of the Burning Sands":
 
-Matsu Hitomi's book is considered the foundational work for anyone contemplating a warrior's pilgrimage.  This book lists a number of vows which can be sworn by someone contemplating this kind of journey.
+The Twilight Mountains extend along the entire western border of Rokugan.  There are various valleys and gaps, the largest of which is a 13-mile valley which separates Shinjo lands on the east side from Moto lands on the west.  This valley is known as the Gateway to the Land of the Burning Sands.
 
-The above books contain a number of vows whose efficaciousness has been proven if they are followed.  There is also guidance for creating your own vow, though this is generally considered something for experts to do, since you'll end up doing more harm than good if you fail to understand what a fortune actually wants.  (Consider the example above of a person who wins Benten's favor by choosing heartbreak - if a devotee of Benten didn't understand this and swore a vow to see all soulmates joined together in marriage, then they'd probably do more harm than good.)  Some example vows follow, to illustrate the concepts.
+Chai Sedo is at the north end of the valley and Outsider Keep is at the southern end.
 
-A "vow of devotion" is one of the most common vows, this can be sworn to any fortune, though the wording often differs based on the fortune involved.  Because this vow requires you to orient your life and priorities around this fortune until death, it's most commonly sworn by monks and priests who lead monastic lives.
+Shiro Moto, which the Moto refer to as Karakoru, is approximately 50 miles west of the valley.
 
-Some non-monastic examples:
+The valley is approximately 100 miles to the northwest of the Shinomen forest.  It's at the edge of the Zenzan domain, which is the westernmost domain in Shinjo lands, approximately 75 miles from Shiro Zenzan, which is built close to White Shore Lake.  The entire valley is technically in the Sanfun province, though historically the Imperial Legion has taken responsibility for the valley itself.
 
-- A vow of devotion sworn to Bishamon (the fortune of strength) is something a duelist might swear, requiring them to devote their entire life to bettering their skill in single combat.  Any other responsibilities would come second, and all other pursuits would need to be judged in terms of how they further this goal.  For example, someone swearing this vow might raise their Tact skill, but only to help ensure they are not manipulated out of being able to duel a worthy opponent.  Someone holding a government post who has sworn this vow might be required to delegate far more of their responsibilities than they otherwise would.  This devotion would be rewarded by increased strength and success in combat.
+Artistic depictions of the valley often show lush green grass on one side and barren desert on the opposite side.  In fact the whole area is semi-arid, with about 16 inches of rainfall per year.  This is not enough to support much in the way of trees or farms, but there is plenty of vegetation on both sides of the valley.  Still, only about 1% of the land is arable, which is why the local village districts are collectively known as the Three Unfortunate Villages of Sanfun, since the land here is poor and its farms tend to be small and spread out.  The Provincial City of Sanfun, also called Oshindoka Toshi, is said to be "heaven for men and dogs, hell for women and horses".
 
-- A vow of devotion sworn to Benten (the fortune of romantic love) is something a matchmaker might swear, requiring them to be looking at all times for favorable matches among all of the unmarried people they know, even those who have not actively sought this help.  This usually requires discovering all that you can about those people you wish to match, forcing you into being a busybody, and those who swear this vow are often condemned as gossips and meddlers.  This devotion will be rewarded by wisdom into the nature of love and proper matches, especially for the family of the person who swore the vow.
+Thus, despite its name, the Gateway to the Land of the Burning Sands is actually about 400 miles east of the Burning Sands Desert, and about 800 miles east of the city of Medin al Salaat.
 
-- A vow of devotion sworn to Yozo (the fortune of legal vengeance) is something a magistrate might swear, requiring them to always enact the proper punishment for each crime, regardless of all other considerations.  This will frequently involve offending powerful families and interests, and those who swear this vow will often find their careers derailed by the schemes and plotting of those who resent justice being imposed on them.  This devotion will be rewarded by being given the insight to separate truth from falsehood and thus have the information necessary to be capable of imposing just retribution.
+Outsider Keep is at the southern end of The Gateway to the Land of the Burning Sands next to an old silver mine which has been fully tapped for centuries.  The keep itself consists of an outer wall surrounding a large compound of brick buildings.  It is maintained by the Western Star Mining Company (aka The Hidden Way):
 
-Another example vow is the "vow of poverty".  Members of ascetic monastic orders are required to swear this vow, and that's the most common reason.  However, there are several different forms of this vow, based on what exactly you are giving up, where you are directing the resources which would have otherwise been your personal property, and the purpose of the vow.  Here are some non-monastic examples:
+Outsider Keep has a large staff of other hinin workers who cost about 800 koku/year to employ:
 
-- Witch Hunters swear a version of this vow used by those who hold public office.  (Witch Hunters swear specifically to Hofukushu, but officials who swear this vow for any other office invariably choose a different fortune.) All gifts you accept are accepted on behalf of your office, and when you leave your office, the gifts stay with the office, along with all monies and resources you have accumulated during your time there.  You must immediately find another position after leaving any current position, and failing that must join a monastery and have that take the place of your government post.  This poverty is rewarded by increased trust in the office you hold and success in your official endeavors.
+- ~20 miscellaneous servant laborers (cooks, housekeepers, launderers, butchers, bakers, etc)
 
-- Some pilgrims and ronin and those who live in exile choose to eschew material things, swearing a vow of poverty to a fortune whose favor they wish to solicit.  You may have no more than 1 koku in money, no more than 1 of any item or article of clothing, and no more possessions than you can carry.  Anything in excess of this must be immediately discarded (not gifted!), e.g. if someone gives you a second hat as a gift, then immediately upon accepting it, you must thank your previous hat for its service to you and then throw it on the ground and leave it behind.  This poverty is rewarded by success in your travels, and those who abide by these rules will find themselves able to find success without worrying about their material needs being met despite an inability to meet those needs with their own resources.
+- ~20 entertainers (mostly actors and musicians)
 
-- When someone is devoted to a personal, family, and/or political cause which they cannot directly work towards (usually due to being away from home), they might swear a vow of poverty to whichever fortune most aligns with that cause, sending all of what they earn to support that cause.  All possessions of value must be sold or donated to the cause, they must live in government housing or stay in flophouses (or as guests of friends/allies who support them), and all income beyond what is needed for survival and the execution of their duties must go to support this cause.  This poverty is rewarded by directing the favor of the fortune to that cause, and also in empowering the one who swore it with the skill and ability to ensure success in similar causes in their own life.
+- ~20 clerks (scribes, bookkeepers, clerical workers, bursars, etc)
 
-Another interesting vow is the "vow of soothsaying".  While the word "soothsaying" is commonly used to refer to predicting the future, the literal meaning of the word is "truth-speaking".  This vow can be theoretically sworn to any fortune, and one would choose the fortune whose affairs are most relevant to the reasons why you'd feel led to swear this vow.  Note that while the vow may be intended to cover a specific area, all versions of this vow require truth-speaking at all times, so anyone who swears any version of this vow to any fortune may never tell any lie for any reason.
+- ~10 personal servants for the Veiled Council
 
-Unlike the above vows, this is less likely to be sworn by monks, since monks rarely have much cause to lie or dissemble.  And there's little point in swearing a vow to do something you'd have no reason not to do anyway.
+- ~10 stablehands
 
-Some examples:
+- ~10 skilled craftspeople (carpenters, stonemasons, metalworkers, tailors, etc)
 
-- Ritsu the pilgrim is one who has been blessed by Benten with the ability to look at a person and sketch a drawing of their soulmate.  He swore the vow of soothsaying to Benten, because people are often upset at discovering the identity of their soulmate.  Over the past few years, three different people have received sketches of gaijin soulmates.  While this is promising news for Moto Gaheris' military campaign (Toranosuke the abbot of Chai Sedo has declared that this portends success), it's bad news for those receiving the sketches.  By vowing to always convey truth to all who seek it, Ritsu is rewarded by receiving divine truth from Benten in return, and thus finds success in the performance of his holy works.
+- ~10 animal handlers and drivers and porters
 
-- A healer might swear the vow of soothsaying to Jurojin (the fortune of longevity), vowing to only speak the truth when asked their opinion.  This can be unpleasant when delivering bad news, but is especially awkward when rendering a healer unable to pass off guesses as facts.  Hearing "I don't know what's wrong and have no idea if this medicine will help" is not reassuring and will often cause patients to seek help elsewhere, even from those who would deceive them by claiming certainty where none exists.  This truth-speaking would be rewarded by helping the healer actually find truth, making them more able to diagnose maladies and afflictions.
+Many of those listed above live with their families in or around Outsider Keep, though this is significantly more common for the laborers than for the samurai or guards.  The total population of Outsider Keep is therefore around/over 400 - around 175 members/employees and the rest being family.
 
-- A merchant might swear the vow of soothsaying to Daikoku (the fortune of wealth), vowing honesty in all business dealings.  This can make negotiations considerably harder - while this vow does not require you to volunteer all information, anyone who knows you have sworn this vow can ask you questions, and refusing to answer is often as good as answering.  This truth-speaking is rewarded by preventing you from being cheated, and bringing ruin to those who would use dishonest tactics to oppose your business endeavors.
+Many of the employees and their families live in tents and yurts in the area outside the walls.
 
-One thing to note about the vow of soothsaying is that it doesn't require "honesty" per se.  You may not tell a direct lie, but it is permitted within the framework of the vow to make statements which are technically true but which intentionally deceive the listener into forming beliefs which are false.
+There's also a large pen of horses outside the walls - see Horse cultures for more information.
 
-This is also true for other vows - there can be "loopholes" in the vows, whether based on the wording of the vow or more generally the fortune's understanding of the vow.  In all cases the one whose judgment determines whether the vow has been broken is the fortune, not the person who has sworn it.
+Outsider Keep itself is situated at the entrance to the old silver mine, and that mine is used as storage for the silk and silver - there are storerooms inside the old mine which are kept behind thick metal doors.
 
-The above examples are all lifetime vows.  However, someone can swear a vow to perform an individual task or service.  Such vows can be completed, at which point you are under no further obligation to the fortune.  Any favor gained will be kept, though no further favor is accrued, and there is no risk of angering the fortune due to noncompliance.  The main risk is in dying without completing the task - the general consensus is that one who dies attempting to complete the task will gain the fortune's favor, while one who dies having failed to put in sufficient effort will bring this failure with them into Jigoku and suffer the negative kharma and wrath of the fortune into future lives.
+The Hidden Speakers of the Hidden Way live at Outsider Keep, and therefore there are plenty of amenities.  In addition to the company store, there's a sake house, gambling house, distillery, butcher, bakery, and outdoor theater for the permanent acting troupe which is maintained there.  There is no "market day" per se, but occasionally an outdoor bazaar will spring up outside the walls of the keep when enough visiting merchants and customers are present - this has been happening with increasing frequency since there are now so many more wealthy Moto than ever before.
 
-It's dangerous to swear more than one limited vow at a time, unless the vows in no way impair one another.  If one vow requires mainly a financial obligation, and another vow requires time to be spent in some way, then that doesn't necessarily conflict.  However, even in that case someone might theoretically need to choose between e.g. pursuing a business opportunity and spending their time on their second vow, which could set up a lose-lose situation.  On the other hand, keeping these tensions in mind at all times will win you even more favor with the fortunes.
+The gambling house and distillery were recently sacked during the Moto invasion, though thankfully the raiders didn't know about the bounty kept inside the old silver mine.
 
-Some examples of limited vows:
+At this point I feel like I'm mostly just sharing random setting details, but I think there's value in that.  Here's a section on "The Dark Moto".
 
-- Instead of swearing a vow of devotion to Bishamon (the fortune of strength), one might swear a vow of pilgrimage, requiring them to go on a defined number of pilgrimages and/or visit a certain number of sites at which to train, e.g. training at least one dojo in every clan in the Empire.  Someone who swears this vow and begins planning for how to accomplish such a pilgrimage will be rewarded by beginning to accrue Bishamon's favor prior to actually making the pilgrimage.  In this way, swearing a vow is like borrowing against future earnings to receive benefits early.
-
-- Someone might swear a vow of offering to a particular fortune, swearing to eventually make donations whose total is far in excess of what they have at the moment.  For example, someone might swear to donate 1000 koku despite only having a stipend of ~50 koku/year.  This would be rewarded by accumulating much of the favor that they'd eventually get up-front as well as being more likely to receive the kind of good fortune that makes them able to fulfill the obligation of their vow.  The risk is that if they die or are otherwise rendered unable to ever meet the total, then they will be judged harshly if they could have been more generous with the percentage of their wealth.
-
-- Building a shrine or temple to a fortune is a great non-vow way to earn their favor, but someone unable to do so might swear a vow of creation, obligating them to see that a shrine is constructed as soon as they are able.  This will be rewarded with the success that enables the person to build such a shrine, and punished if they fail to live up to their obligation.
-
-- Someone slighted in a particular way might swear a vow of revenge.  This would often be sworn to Hofukushu (the elder fortune of vengeance), but depending on the nature of the offense and the nature of the intended vengeance this may be sworn to a different fortune instead.  This obligates someone to focus their entire life on achieving vengeance until this has been accomplished.  This will be rewarded by helping ensure that you have your revenge.
-
-Here are some other example vows with a bit less detail, since you can probably discern the general pattern of what is expected and what rewards one can expect from each.
-
-- The vow of pacifism prevents one from ever offering violence, even in self-defense.  This is most commonly sworn by monks, peasants, and samurai who have retired.  The vow of non-killing is a more moderate alternative, though in some ways is riskier since any act of violence might potentially end with someone's death, thus causing the vow to be broken.
-
-- A vow of prayer specifies the times, days, and manner in which one must pray to a chosen fortune.  This is typically very frequent, e.g. "every night at sundown", and will usually interfere with other activities, since one might need to make frequent excuses at social gatherings to go pray.  However, to some extent this inconvenience is the point, since it forces you to pay attention to your vow and orient your life and schedule around it, which is what wins the favor of the fortune.
-
-- A vow of fasting is similar to the vow of prayer, specifying instead the duration and manner of fasting.  This can be either a limited vow (specifying e.g. a total number of days on which someone will fast) or a permanent one (specifying a schedule of fasting one must adhere to for the rest of their life).  In some cases the food that would otherwise be eaten is offered instead to the fortune - this is most common with the limited form of the vow.
-
-- A vow of matchmaking is a more specific version of the vow of devotion to Benten listed above.  A favorable marriage is defined in many ways, such as producing many children, bringing families together, eliminating conflict, generating prosperity, etc.  A matchmaker might generally try to balance all of these aspects... or they could devote themselves to one particular aspect and eschew all other considerations.  For example, a matchmaker might swear to only recommend marriages where the strength of romantic love will be the strongest regardless of all other considerations, or only recommend marriages in which the families being joined together are sufficiently compatible that there will be the least amount of conflict between spouses and their parents.
-
-- A vow of atonement is sworn by someone who has committed some offense for which they seek redemption.  This can either be a limited vow (obligating one to a particular outcome) or a permanent vow (signing one up for a lifetime of obligation).  This is usually sworn to either a fortune one has offended or a fortune whose affairs are most relevant to the offense someone has made against another person.
-
-- The vow of deathseeking is sworn by Lion Clan samurai to Emma-O (the fortune of death) as an alternative to the vow of atonement.  Someone so disgraced that their only other option would be execution or seppuku might swear this vow, intending to throw themselves into dangerous situations benefiting their daimyo as a way to atone.  In wartime deathseekers usually congregate into Deathseeker platoons (or sometimes even larger units), where they go into extremely dangerous battles.  Samurai who swear this vow are said to usually find death within a year.
-
-- The vow of judgment is most commonly sworn to Yozo (the fortune of legal vengeance), but often sworn to some other fortune whose affairs are relevant to the vower's area of responsibility.  In some ways this is an even more extreme vow than the one sworn by deathseekers, because it requires one to do everything possible to bring about the outcome they consider to be just, regardless of any other factors.  For example, someone who has sworn this vow to Yozo might find themselves obligated to carry out an execution even if overruled and the sentence commuted by a higher authority.  Or if a magistrate believed someone to be innocent, they would be obligated to take up arms against their own family if necessary to secure a prisoner's release and escape.
-
-Note that the specifics of each vow are tied to the fortune being honored, the individual's situation or role, and the type of commitment they're willing to make, be it limited or permanent.  This provides a depth of customization and personal commitment that makes each vow unique and meaningful.
-
-Some miscellaneous vows, without extensive explanations:
-
-- The vow of obedience sworn by acolytes of a religious order.
-
-- The vow of celibacy sworn by members of some ascetic orders.
-
-- The vow of silence which some monks take to prohibit themselves from speaking, sometimes with well-specified exceptions such as certain holy days.
-
-- The vow of bloodlessness which prohibits the eating of "anything that bleeds", i.e. adopting a vegetarian diet.
-
-- The vow of isolation in which some holy men practice self-imprisonment.  Criminals sentenced to spend the rest of their lives in prison monasteries are sometimes forced to swear this vow under penalty of death.
-
-- The vow of charity was recently popularized by the prophet Grand Abbot Okawa which sometimes supplements and other times replaces a vow of poverty, usually depending on whether it's being sworn by a monk or samurai.
-
-Some of what's described above is based on historical example, and some is invented for the fictional setting of Rokugan and does not match the historical concepts of vows.  The intent is for vows to combine the conventions described here while still drawing on historical Japanese vows, such as those sworn in a Shinto or Buddhist religious order.
-
-Here is the vow of obedience sworn by all members of the Order of Bishamon in Lion lands (different clans often have different versions of these vows):
-
-"I, [Monk's Name], vow unto Bishamon, the embodiment of strength and defense, and to the Order that serves him.  I submit myself wholly to the guidance and authority of the Abbot, and to the teachings and principles of our sacred Order.
-
-I shall follow their wisdom with humility and dedication, understanding their insight to be born of a deeper connection to the cycles and interconnections of all things.  In obedience, I strive to tread the path towards enlightenment, transcending the bonds of ignorance and suffering.
-
-Under the gaze of Bishamon and the Fortunes, I pledge my loyalty and dedication to this sacred journey.  I vow to uphold the strength and virtue of Bishamon, the eternal cycle of courage and strength, as I strive to align my spirit with his rhythm, becoming an active echo of his divine essence."
-
-In addition to the above, the PCs have several different vows which they have the option to take.
-
-One of them is a "vow of fasting" which has this wording:
-
-"In the sight of all that is, and under the watchful gaze of Bishamon, the Fortune of Strength, I, [Name], swear a solemn vow of fasting.  As the kumosaya blight has taken our rice and soybeans, so too shall I limit myself to these humble grains, a symbol of the suffering endured by our lands.  I shall partake only of rice, soybeans, and the simplest of vegetables, abstaining from all other foods, as a testament to my solidarity with those who suffer.  I shall drink only water and tea, pure and clear, renouncing all other beverages as a symbol of my commitment to clarity and purity in my purpose.
-
-May my abstention serve as a constant reminder of the hardship faced by our people, strengthening my resolve to bring relief and rectification.  May my sacrifices purify me and bring me closer to the strength and endurance embodied by Bishamon, so that I may better serve in the pursuit of our collective redemption.
-
-In my daily meals, I shall remember the people, the land, and the divine grace that sustains us all.  And in my strength, may I reflect the strength of Bishamon, using it not for personal gain, but for the betterment of all.  This I swear, in the name of Bishamon, Fortune of Strength, and in the pursuit of the rectification of our great sin."
-
-Another is a "vow of poverty", which has this wording:
-
-"I, [Name], in the sight of the Celestial Heavens, the Kami, and the ever-vigilant Bishamon, do solemnly swear a vow of poverty.
-
-I pledge to renounce all worldly possessions and personal wealth, to relinquish the desire for material gain, and to live a life of simplicity and humility.  I commit myself to depend solely on the generosity of others for my basic needs, and to accept their gifts with gratitude, while never seeking or expecting excess.
-
-I promise to use any resources that come my way not for my own benefit, but to help those less fortunate, to alleviate suffering, and to further the harmony of the Empire.  I vow to maintain a clear mind, free from the distractions of material desires, focused solely on the pursuit of enlightenment and the service of others.
-
-In the spirit of Bishamon, I understand that true strength lies not in the accumulation of wealth, but in the resilience of the spirit, the endurance of the body, and the wisdom of the mind.  The Way of the warrior, the path I have chosen, is one of discipline, self-denial, and service.
-
-I acknowledge that, in breaking this vow, I would tarnish my spirit, invite the disfavor of the Heavens, and undermine the very principles I strive to uphold.  I risk falling from Bishamon's favor, and failing in the pursuit of the strength he embodies.
-
-In choosing this path of self-denial, I aim to remind myself and others of the impermanence of earthly riches, the value of spiritual wealth, and the virtue of compassion.  I endeavor to embody the strength of Bishamon, not through material prosperity, but through the strength of my character and the depth of my resolve.
-
-So swear I, [Name], under the watchful eyes of Bishamon, the Fortune of Strength."
-
-The third example vow for this campaign is the "vow of discovery", which has this wording:
-
-"In the sight of Bishamon, the mighty Fortune of Strength and Warriors, I, [character's name], vow to delve into the depths of truth regarding the calamity that has befallen these lands.
-
-I swear to guard the secrets entrusted to me, as the armor of Bishamon shields the righteous, valuing the truth above all else, and preserving the confidentiality of those who demand it as a condition of sharing their truths with me.  Yet, in my pursuit of truth, I will not speak falsehoods, nor will I allow deception to cloud the purity of my quest.  When asked, I will speak truth or silence, never lies.
-
-I commit to not publicly accuse any soul of any sin without proof, for the blade of Bishamon does not strike without certainty.  I understand that a hasty accusation may cause harm as grievous as the blight itself.
-
-Guided by Bishamon's strength, I will navigate the path of truth, the path of wisdom, and the path of honor.  May my journey bring clarity and, ultimately, healing to this land we all hold dear.  This I vow, in Bishamon's name."
-
-Note that, all three of these vows are sworn to Bishamon, but Daikoku, the Fortune of Wealth, would be a more intuitive choice for a vow of poverty.  After all, to renounce material wealth is to engage directly with the domain that Daikoku oversees.
-
-However, the religious and spiritual core of this vow is not about wealth or lack of it, but about the strength of character and spirit.  This vow is a test of endurance and resilience, and a commitment to a path of self-denial and discipline.  These qualities align with the teachings and principles of Bishamon, the Fortune of Strength, more so than those of Daikoku.
-
-When one swears a vow of poverty to Bishamon, one is not merely giving up wealth.  One is also vowing to endure hardship, to cultivate inner strength, and to seek the wisdom that comes from overcoming material desires.  This mirrors the path of the warrior, who must be strong not only in body, but also in spirit and mind.
-
-The rewards expected from such a vow to Bishamon would be those associated with personal growth and spiritual strength: resilience in the face of adversity, wisdom gained from simplicity, and a deep sense of inner peace and fulfillment that comes from living in alignment with one's principles.
-
-Swearing a vow of poverty to Daikoku, on the other hand, would have a different focus.  Daikoku governs over wealth and prosperity, so renouncing wealth in his name could potentially lead to a deeper understanding of the true nature of wealth, its impermanence, and the liberation that comes from letting it go.  The rewards from such a vow might be more tied to the cultivation of generosity, gratitude, and contentment.
-
-One thing worth highlighting here is the risks of monks swearing vows which they have not sufficiently prepared for - a recurring theme.
-
-As an example, consider the "vow of discovery" above.  Someone might reasonably ask a monk tasked with the role of karmic inquisitor, "Why have you not sworn a vow of discovery?  You seek to uncover the source of the kumosaya, so why have you not sworn such vows to seek Bishamon's aid?"
-
-And a monk might reply, "Such a vow comes with a high demand for precision, and I lack the specific training to be confident in my ability to perfectly execute that vow.  For example, suppose that someone asked me how long I had been investigating these matters, and I answered that it had been 5 weeks, but in fact I had miscounted and it had actually been 6 weeks.  I would be speaking a falsehood, which would break my vow, anger Bishamon, and ultimately make it harder rather than easier for me to uncover the truths behind the kumosaya blight."
-
-This is an important running theme about oaths and vows in the world of Rokugan.
-
-For additional vow examples, there was a Kitsuki magistrate named Tetsu from the Dragon Clan who wanted to help the Moto conquer the city of Medin al Salaat.  To this end, he swore several vows to various fortunes.  His vow of devotion was to Saibankan, the fortune of magistrates and judges.  He also swore vows to Kamoku, the fortune of the west wind, i.e. the wind that comes from the west and blows towards the east, and Jikoju, the fortune of the east wind.
-
-Saibankan comes first.
-
-Yozo is the younger fortune of vengeance and is described specifically as the fortune of legal retribution, the kind that would be imposed by a judge or magistrate.  Yet there is also Saibankan, who is separately the fortune who guides judges and magistrates towards imposing that legal retribution.  Some might ask about the difference, and in particular, what distinguishes a vow of devotion to one from the other.
-
-In life, Saibankan helped create the common law legal system of Rokugan, in which precedents from previous rulings of judges and magistrates are just as important as the written laws themselves.  After Saibankan's death the Emperor named him the fortune of justice, though records are unclear about which type of fortune-naming occurred - whether the Emperor elevated him or recognized that he had naturally ascended to fortunehood.
-
-Many fear the ability of cunning people to evade punishment through trickery and cleverly twisting the law to suit them by exploiting loopholes.  The Moto famously keep their laws secret for this reason, and avoid setting binding precedents in their rulings.  However, Saibankan viewed this possibility as a mark in favor of common law!  Rather than an unintended consequence, letting someone know in advance whether their actions would bring legal retribution was actually the point for Saibankan.
-
-Saibankan often told fables during interrogations and when giving rulings.  When letting someone go unpunished he always explained what aspect of their behavior had saved them, and when issuing a harsh punishment he'd often explain what minor change in behavior would have spared them.  This was not only for the benefit of the accused, but to serve as examples to others - society benefits from everyone knowing exactly what lines they may and may not cross, especially when seeking revenge or otherwise trying to harm an enemy.
-
-Thus, while Yozo is sometimes described as the fortune of retributive justice who manifests after a judgment has been issued, Saibankan is sometimes described as the fortune of preventative justice.  Saibankan tempers the actions of those who might otherwise step over the line into criminality, and he provides measured responses to crimes that help judges and magistrates restore balance to society to prevent further retribution and escalation and wrongdoing.
-
-The oath of office for various magistrate positions already sets high standards of devotion to the law and principles of justice.  These oaths usually require officeholders to swear to things like "uphold the law without being affected by fear, mercy, love, or hatred".  Some people who intend to become magistrates swear a vow of devotion to Saibankan with the same terms - the main difference is that while one is released from an oath of office when leaving a post, a vow of devotion stays with someone for the rest of their life.  The other difference is that a magistrate might only be oathbound in their official acts, whereas the vow of devotion requires that same commitment in every aspect of a person's life.
-
-Toranosuke, the abbot who advised Tetsu on his vows, notes that the main danger to Tetsu from swearing such a vow is that he might find himself in situations where his other obligations pull him away from making and enforcing fair decisions.  In particular, he cautions Tetsu that Prince Fukuhachi (one of the Emperor's younger children) might wish a particular outcome because, given the parties involved, that ruling most heavily contributes to the functioning of a well-ordered society... even if the particulars of a case don't support that ruling on the merits of the immediate case at hand.  Tetsu might then find himself tested by being put into impossible situations where his loyalties demand actions which his vow may not permit.  However, Tetsu would find himself rewarded with clarity of insight into disputes he finds himself involved with, as well as finding himself more highly regarded and trusted... though this might never be enough reward to make up for it if he finds himself crossing the Prince!
-
-With this in mind, Tetsu ended up swearing this vow:
-
-"I, Kitsuki Tetsu, in reverence to Saibankan, the fortune of justice and guiding hand of magistrates, do solemnly vow to uphold the principles of fairness and balance in all aspects of my life.  I pledge to serve as a beacon of preventative justice, tempering actions and providing measured responses, regardless of personal sentiments and societal pressures.
-
-I promise to embody the wisdom of Saibankan, to act as a guidepost for others, making clear the lines between right and wrong, promoting understanding over ignorance.  In my actions, may the will of Saibankan be echoed, teaching others of the consequences and rewards of their deeds.
-
-I recognize the trials that this path will bring, the loyalties it may test, and the conflicts it may stir.  Yet, I embrace these challenges, understanding that the clarity of insight and the trust earned will guide me towards the path of true justice.
-
-May my every decision, whether in official capacity or private conduct, reflect the principles that Saibankan holds dear.  In times of adversity, may the spirit of Saibankan guide me, allowing me to discern truth from deceit, justice from vengeance.
-
-So swear I, Kitsuki Tetsu."
-
-Tetsu's other two vows follow.
-
-The Empire was formed in what is now Otosan Uchi, along the eastern ocean shore.  This is significant in the context of the winds, because civilization was spread from east to west.
-
-Kamoku is the mildest of the four winds - after all, her west-to-east force did not resist the spread of the Empire as the Great Ancestors brought their armies to overcome the barbaric warlords who opposed them.  Instead, she provided opportunity and the potential for greatness.  Many warlords swore fealty to the Great Ancestors after losing to them on the field of battle - Kamoku therefore brings potential which must be fought for in order to reap the benefits.  Farmers similarly pray to Kamoku for an early spring, which gives them the opportunity to put in the hard work necessary for a more prosperous harvest.
-
-Jikoju meanwhile symbolizes the opportunity of knowledge, wisdom, and a just society.  Farmers were freed from the tyranny of their local warlords, and sailors lost at sea rely on the east wind to return them home to civilization.  The east wind also symbolizes adventure and mystery - those who leave home to travel to new places often pray to Jikoju that their travels will take them to places where justice prevails and the Way prospers.
-
-Toranosuke recommends that Tetsu consider a vow to each of these winds rather than choosing one or the other.  Tetsu lives in a geographic location which is literally a gateway between east and west, and his position requires him to stand with one foot in each world.  On behalf of Kamoku, he will provide opportunity to the Empire from the west, bringing conflict with it which must be overcome for those gains to be realized.  On behalf of Jikoju, he will provide civilization and knowledge from the east, offering the Moto wisdom they lack that they will need to succeed and prosper.
-
-Toranosuke strongly recommends against making vows of devotion to more than one fortune - that is only ever done in Lion lands, and all other clans regard this as unwise by undermining the devotion being attempted through dividing your attention and loyalties.  Instead he recommends that Tetsu swear the following:
-
-1. A vow of creation to Jikoju to build and staff a temple to him in Medin al Salaat.  This would symbolize bringing the gift of civilization to the city, much as the Great Ancestors did to the pre-Imperial warlords.  The danger in this vow is that if Moto Gaheris' military campaign fails, Tetsu will still be bound to either ensure this temple is created or die trying.  Dying with a vow unfulfilled brings negative karma to your soul and the wrath of the fortune into your next lives, though a death caused by attempting to fulfill a vow brings good karma and the favor of the fortune.
-
-If Tetsu swore this vow, he would need to remember those stakes at all times, and be mentally preparing himself for the worst.  For example, he might plan that if the city is not conquered then he will abandon his current life and become a pilgrim so that he can journey to Medin al Salaat and attempt to build a temple there as a foreign monk.  Because he will be from the Empire which recently tried to conquer the city, he might find himself unwelcome and may even be killed for his trouble.  Keeping that possibility in mind every day will enhance his reward from Jikoju, assisting him in bringing civilization and success to the Moto in their endeavors.
-
-Toranosuke also recommends committing to swearing a vow of prayer once the temple has been constructed.  Those who build temples will sometimes take a piece of the temple with them so that once per day they can say a prayer as if in the temple they built - this was especially common in the early days of the empire when new temples were introducing new people to a fortune, so this would be especially appropriate and effective here.
-
-2. A vow of fasting to Kamoku.  While there are many possible parameters of this vow, Toranosuke recommends the variant where you may not eat or drink anything at night, as defined by the time between sunset and sunrise.  Though this was not mentioned in the books on vows that Tetsu read, Toranosuke happens to know that this particular vow of fasting is recognized as particularly efficacious when sworn to Kamoku.  Because of Kamoku's relationship with Lady Sun, it pleases her when her devotees only consume food and drink in the daytime.  (The wording of this particular version of the vow literally includes the phrase "can see daylight", so technically Tetsu also wouldn't be able to eat or drink while deep in a cave or mine.)  Tetsu's reward would be finding himself presented with opportune challenges from the west which are within his ability to overcome (or die trying), resulting in prosperity for himself and those he serves.
-
-Toranosuke recommends this combination of three vows because of how it orients Tetsu.  It makes Tetsu the bridge between the east and west, mediating the line between civilization and barbarism, and seeking out conflict in order to bring order and prosperity to all who deserve it.  Tetsu will accomplish this through his devotion to justice by embodying and enforcing the principles of Rokugani law and custom.
-
-Here is the wording of the vow of creation that Tetsu swore to Jikoju:
-
-"I, Kitsuki Tetsu, in honor of Jikoju, the fortune of the East Wind and purveyor of wisdom and justice, do pledge to foster the seeds of enlightenment and civilization within the city of Medin al Salaat.
-
-I vow to construct and nurture a temple in your honor, a beacon of knowledge amidst the wilderness, a testament to the boundless opportunities that spring from wisdom and justice.  This temple shall stand as a symbol of your might, Jikoju, a place where the spirits of wisdom can dance on the eastern winds, inspiring and guiding those who seek enlightenment.
-
-I understand the weight of this commitment, the challenges it may bring, and the sacrifices it may demand.  Yet, I embrace these, knowing the importance of this task and the good it can bring to the world.  May my every step forward be a testament to my dedication to this vow.
-
-Should the waves of fate crash against me, I am ready to become a pilgrim, journeying to the ends of the Earth, risking all, even my life, to fulfill this promise.  I shall carry with me a part of the temple, ensuring that each day, wherever I am, I can offer my prayers to you, Jikoju, as if within the sacred walls of the temple I vowed to build.
-
-So swear I, Kitsuki Tetsu."
-
-Finally, here is the wording for the vow of fasting that Tetsu swore to Kamoku:
-
-"I, Kitsuki Tetsu, in homage to Kamoku, the fortune of the West Wind, the bringer of challenges and opportunities, do pledge to honor you in a manner befitting your reverence for Lady Sun.
-
-I vow to fast each day from the setting of the sun until its rise, abstaining from food and drink in the hours of darkness.  As a symbol of my dedication, I will only partake of sustenance when I can see daylight, honoring the journey of the sun, the journey of life, and your gentle but formidable force.
-
-In doing so, I open myself to the challenges you bring, to the opportunities hidden within.  I embrace these tests, knowing they are stepping stones towards the prosperity and growth that can be achieved by overcoming adversity.  May I seize these opportunities and, in doing so, honor you.
-
-In the times of darkness, in the challenges of life, may your guiding winds of the west steer me towards success, not shying away from conflict but facing it with the resolve to emerge triumphant.
-
-So swear I, Kitsuki Tetsu."
-
-This set of vows is an important example because it demonstrates how vows can combine to define a path which is larger than the sum of its individual parts.  These three vows are specific, but the place in the world they create for Tetsu is more than what the wording of any single one of these vows conveys.
-
-Here's another example of a vow.  Akodo no Sugiwara Natsuki was interested in swearing a vow to Koshin, the fortune of roads.  Natsuki was interested in gaining more favor from this fortune, due to his new position as the Moto Minister of Works.
-
-Here are some miscellaneous facts about the Empire's roads:
-
-- In the first few centuries of the Empire, most roads were local and connected domain capitals to their holdings in the provinces.
-
-- In the 3rd century, the Emperor Hantei the 10th launched the most massive public works project in history, ultimately constructing over 50,000 miles of Imperial roads, and mandating by Imperial decree that those who traveled along those roads may not be taxed by local daimyo.
-
-- In addition to the roads themselves, the Emperor mandated waystations.  Approximately ~5,000 waystations are distributed across the network, at irregular but worthwhile intervals - averaging ~10 miles apart on the major trunk routes, denser at junctions and dangerous terrain, sparser on minor branches and frontier extensions.  Their function is to protect against bandits, ensure safe passage for travelers, and support the Imperial courier-relay system that connects Otosan Uchi to every domain in the Empire.
-
-- The Emperor spends approximately ~7-9 million koku per year on road upkeep, construction, waystation staffing, and the supporting infrastructure (see [`budgets.md` - The Imperial Budget](budgets.md#the-imperial-budget) for the detailed line-item breakdown).
-
-- Koshin was already a minor fortune who had previously been prayed to during local road construction projects.  He rose to prominence, especially in Crane lands, whose merchant caravans could now travel the Empire as never before.  (Remember that the Yasuki were still part of the Crane at this time.)
-
-- The Unicorn Clan favored Koshin even more than the Crane Clan, as the Ki Rin Trail had begun to bring them great prosperity.  Although the Ki Rin Trail was never a formal road system, the Unicorn Clan established the same sorts of waystations for hundreds of miles to the east and west of Medin al Salaat to allow merchants to bring them wealth and prosperity.  (It's unclear whether the temple to Koshin that the Unicorn built in Medin al Salaat is still operating.)
-
-- Koshin is therefore not just the fortune of physical roads, but of orderly systems of travel.
-
-- Intuitively, one might expect that Koshin is most closely related to Natsu-togumara, the fortune of travel.  However, in fact Koshin is said to sit at the right hand of Daikoku, the fortune of wealth, because roads bring wealth, and wealth enables the construction of roads.
-
-- A sect of the Order of Koshin which originated in Hiruma lands is the Order of the Barefoot Brethren.  Originally centered in Hiruma Castle, the order moved to Kyuden Kaiu after the Maw destroyed most of Hiruma lands.  Its members frequently walk the roads of the Empire so much (usually carrying messages) that they wear through the soles of their shoes, arriving barefoot at their destinations.  Some Miya heralds make a point of walking by foot, sometimes barefoot.
-
-- When the system of roads was being constructed in the Empire, people would often swear vows of creation to Koshin, swearing that they will create a certain amount of road or construct a certain number of waystations.  Natsuki might consider this, but when it comes to staffing the Ki Rin Trail waystations, he could end up in the same position as Tetsu, where if Gaheris' military efforts fail then he is obligated to fulfill his vow regardless at great expense and risk.  (On the other hand, he is more likely to experience success in his endeavors and even make Gaheris' military success more likely if he swore this vow!)
-
-With all of this in mind, Natsuki visited a disused waystation in the desert - the Eyes Over the Desert Wells.  He decided to swear a vow of creation, that he would return and establish a new waystation on this site.  Here is the wording of the vow that he swore:
-
-"I, Akodo no Sugiwara Natsuki, stand humbled before Koshin, God of Roads and Waystations, the unfailing guide of all travelers.  I stand at the brink of the Eyes Over the Desert Wells, a beacon of the past now lost to time and sand.
-
-In your name, Koshin, I swear a vow of creation.  I pledge to resurrect this waystation, to breathe life into its quiet halls and to make it once again a haven for those who journey the vast desert.  I will lay the stones, raise the walls, and light the beacon that will stand as a testament of your influence and our devotion to your ways.
-
-Under your watchful gaze, I promise to restore this place, not only to serve the weary travelers but also to honor the interconnectedness you represent.  In bringing back the Eyes Over the Desert Wells, I seek to strengthen the ties that bind the Empire, to facilitate the free flow of trade, ideas, and prosperity that are the lifeblood of our people.
-
-I understand the gravity of this vow and accept the responsibility it places upon my shoulders.  I stand ready to face the trials and challenges that lie ahead.  Even if the winds of fortune do not favor our efforts, I swear to carry out this task, even at great expense and risk, for my word is my bond, and my resolve is unyielding.
-
-So swear I, Akodo no Sugiwara Natsuki."
-
-For another example of a vow, let's return to the concept of a warrior's pilgrimage.  Kuni Isamu wanted to go on such a pilgrimage, and beforehand decided to swear a vow to Bishamon about the pilgrimage he was about to undertake.  However, Isamu is not educated in these matters and so he consulted with a wise priestess to advise him.  The priestess suggested several possible vows, and Isamu felt drawn to a vow of silence.  He couldn't explain why he was drawn to this vow, which he took as a sign that Bishamon was directing him towards this vow in particular, for reasons which Isamu was not capable of comprehending.
-
-However, he was concerned about the vow interfering with his higher duties as a Witch Hunter.  With that being said, he didn't want to "water down" his vow to the point where it didn't really bind him.  Instead, he merely wanted some framework for an extremely limited exemption, for example perhaps only in situations where it would save a human life or capture a maho-tsukai.  The wise priestess with whom he consulted offered him the following wording for his vow:
-
-"In the sight of Bishamon, Patron of Warriors and the Fortune of Strength, I, Kuni Isamu, vow to uphold a pledge of silence.  I recognize this vow as an act of discipline and sacrifice, a testament to my internal focus and commitment to the path of the warrior.
-
-Until the end of this year, I promise to speak only when necessity dictates, and even then, to use the least words needed.  This exception is confined strictly to circumstances wherein human lives are at risk or when the capture of a maho-tsukai is within reach, reflecting my duty as a Witch Hunter.
-
-Let my silence be a conduit of Bishamon's strength, a testament to my devotion and my commitment to the path I walk.  May my actions serve as my voice, my commitment to justice and the protection of Rokugan speak louder than words.
-
-May Bishamon guide my path and give me the strength to uphold this vow.  This I swear."
-
-In some cases vows tie strongly into the personal history of the human who "became" a fortune.  (In Rokugan, a fortune would have existed before the life of that human, but the human merged with the fortune or joined it or became part of it.)
-
-For example, here's some information about Soshi Saibankan.
-
-### Soshi Saibankan
-
-Saibankan is the fortune of magistrates and judges.  It's unclear in the historical record whether he naturally ascended into becoming one with the existing fortune of magistrates and judges upon his death or if the Emperor elevated him into becoming a fortune upon his death.  Either way, he was recognized throughout the Empire as a wise and judicious magistrate, and the system of Imperial magistrates which persists to this day is sometimes called "Saibankan's net".
-
-In the second century, at the behest of the Emperor and his Emerald Champion Doji Hatsuo, Soshi Saibankan wrote the Emerald Charter, which defines the duties and privileges of all Imperial Magistrates everywhere.  Saibankan also advised the Emperor to establish the common law system that exists to this day, in which precedents from previous rulings would be used to create expectations about future cases.
-
-Saibankan did not come into public notice until he was 35, when he was appointed an obscure judgeship ("Executor of the Northern Fields") in Otosan Uchi.  When he accepted this job, he found out that there was a long-standing dispute between a Yasuki samurai merchant family and Otomo Yorishi, the Emperor's favorite nephew.  Yorishi had paid a sizable sum of money to purchase a large orchard to the north of Otosan Uchi, but it turned out that the man he paid was a con artist who had no claim to the land.  Yorishi asserted ownership over the land anyway, claiming that its Yasuki owners had been swindled and if this man was selling their land without their knowledge, it was they who needed to track him down and demand recompense rather than him.
-
-While it was obvious that the Yasuki claim was the just one, no previous judge had been foolish enough to irritate the Emperor's favorite nephew.  However, Saibankan took up the case and immediately settled it on its merits.  The Emperor, who had been previously unaware of the entire dispute, was so impressed that he took the unusual action of promoting Saibankan over hundreds of other candidates to chief magistrate of the Inner City, bypassing the usual procedure of asking the Imperial Chancellery for a recommendation.
-
-Saibankan was famous for telling fables prior to making his rulings.  The Emperor once visited his court in disguise to hear him pass judgment and described his ruling as being "like hearing a wise old monk give a sermon".  He would specifically take cases which he found useful for giving instruction on principles of justice in his rulings, and he would invite his subordinate magistrates to see him work, to better instruct them on how to hand out rulings.
-
-One famous example is "the case of the stolen smell".  A paranoid innkeeper learned that a poor student was sitting in the alley next to his kitchen.  The student ate his bland foods while inhaling the scents wafting out of the inn's kitchen, thus "flavoring" his meals.
-
-Although his colleagues advised Saibankan to throw the case out as ridiculous, he decided to hear it, because despite its ridiculous nature there were a number of interesting considerations involved, such as when and under what circumstances an owner of property may demand a fee from someone who knowingly came to that property.
-
-Saibankan declared that he was ruling in favor of the innkeeper, and in so doing set some important precedents about land use and alley rights which persist to this day.  He then proceeded to ask the student whether he had any money in his purse.  When the student answered yes, he instructed the student to shake the purse in order to jingle the coins within.  He then declared that the sound of the student's money was appropriate payment for the smell of the innkeeper's food.
-
-Note that "the case of the stolen smell" is lifted from a story about the real person of Ooka Tadasuke in Edo-period Japan.  Although Rokugan is not Japan, incorporating real Japanese stories (both historical and mythical) into the setting is useful, both for vows and for the in-universe explanations of why those vows exist and are structured the way they are.
-
-Note that the current Minister of Justice for the Damasu domain has sworn this vow to Saibankan above and beyond the usual oath of office:
-
-"In the sight of Saibankan, the Fortune of Magistrates and Judges, I, [name], humbly offer my deepest vow of unwavering devotion, in tandem with my oath of office as the Minister of Justice for the Damasu domain.
-
-In my pursuit of truth and justice, I pledge to disregard all external influences and self-interest.  I vow to deliver rightful punishment for every crime committed within the jurisdiction entrusted to me, irrespective of the offender's rank, position or family ties.  No power, be it political or familial, shall sway my dedication to the course of true justice.
-
-I devote myself to Saibankan's guiding principles, promising to adhere firmly to our law, undeterred by threats, inducements, or consequences.  I recognize the heavy responsibility I bear and willingly accept the potential for resentment, schemes, and obstructions that may be devised against me by those who reject justice's impartial hand.
-
-In return, I seek Saibankan's blessing, praying for the divine insight necessary to discern truth from falsehood, enabling me to dispense justice with wisdom and fairness.  I dedicate my career, my honor, and my very life to the tireless pursuit of justice, undeterred by the challenges and sacrifices this path may entail.
-
-Saibankan, whose net upholds the justice of the Empire, accept my vow.  Bestow upon me the courage to stand steadfast in the face of adversity, the wisdom to judge fairly, and the strength to enforce the law without falter.  My devotion is yours; I walk this path in your name and for the people of the Damasu domain."
-
-As another example of someone swearing a vow which goes above and beyond his usual oath of office, the Damasu Minister of Works has sworn this vow:
-
-"Before the gaze of Daikoku, Fortune of Wealth and Bounty, I, Akodo no Damasu Kishiro, humbly make my vow of unyielding devotion, an extension of my solemn oath as the Minister of Works for the Damasu domain.
-
-In my service to the domain, I pledge to champion the wealth of our land, and strive for its prosperity, recognizing that the abundance or scarcity we face impacts every soul within our domain.  I vow to steward our resources wisely and effectively, irrespective of personal gain, and to strive for the wealth of the Damasu domain above all else.
-
-I dedicate myself to Daikoku's teachings, promising to nurture our land, foster its productivity, and maximize its prosperity.  I realize the risk of envy, greed, and strife that may stem from those who covet the wealth I am pledged to protect and augment.
-
-In return, I beseech Daikoku's grace, praying for the divine acumen to guide the domain towards prosperity.  I dedicate my service, my honor, and my very existence to the ceaseless pursuit of wealth and prosperity for the Damasu domain, undeterred by the challenges and sacrifices this journey may demand.
-
-Daikoku, Fortune of Wealth, I humbly seek your acceptance of my vow.  Grant me the discernment to wisely manage our resources, the vision to see opportunities for growth, and the fortitude to stand firm against those who would threaten our prosperity.  My devotion is yours; I chart this course in your name and for the prosperity of the people of Damasu."
-
-And now, here's an example of what a vow of deathseeking typically looks like.  Note that deathseekers don't try to meaninglessly throw their lives away.  The goal is to "spend" your death in a way that benefits your clan and brings glory to your ancestors.  A deathseeker who simply breaks from their unit and in so doing undermines their army's chances of winning the battle has done the opposite.
-
-With that being said, a platoon or company full of deathseekers is a fearsome and terrifying thing to encounter, since their morale will not break and they will fight to the last and will make it extremely difficult for the other side to withdraw even if both sides are wounded.  Thus, the vow cannot be that you WILL die, since this vow cannot require someone to throw their life away needlessly.  However, it can require you to "seek" death and to tactically and strategically focus on winning all battles and look for opportunities to spend your own life to win battles for your side.
-
-All of this leads to the vow having this kind of form:
-
-"I, (name), now stand before you, Emma-O, the Fortune of Death, and the spirits of my ancestors, bearing the weight of my disgrace and failure.  I understand that the only path left for me to restore honor to my name and to my family is to seek death in the service of my daimyo and clan.
-
-In this sacred moment, I make my vow.  I shall embrace my fate, not with fear but with courage, seeking opportunities where my death may turn the tide of battle and bring victory to my clan.  I pledge to find honor in each fight, in each encounter, and with every decision I make, always looking for the path that leads towards a noble end.
-
-I vow that I will not squander my life needlessly.  My death shall not be in vain, nor shall it weaken our cause.  Instead, I shall be a beacon of resolve, an embodiment of Lion's spirit, that even in death, we fight on.
-
-I acknowledge that I tread on the edge of a blade, that each step I take is one closer to my end.  Yet, I walk this path willingly, embracing the role of a deathseeker, my purpose rooted in my duty and honor.  I know my time may be short, yet I shall strive to make each moment count.
-
-By the power of Emma-O, and the eyes of my ancestors, I make this vow.  I seek death, not as an escape, but as a path to redemption.  I shall not shy away from danger, but meet it head-on, with the strength of a Lion and the conviction of a samurai.
-
-My name, once a symbol of disgrace, shall echo in the halls of our ancestors as a testament to my commitment and determination.  The echoes of my deeds shall remind all of the price of honor, the strength of conviction, and the unyielding spirit of a true Lion samurai.
-
-From this day forth, I am a Deathseeker.  Until the day that I fall in battle, every breath I take shall be in service to my daimyo, my clan, and my honor.  This is my vow, this is my path."
-
-In the next campaign, the PCs are not only members of the Order of Bishamon, but also members of a secret society, the Order of Lord Moon.
-
-Lord Moon is not evil per se, but is a terrifying figure because of his emphasis on individuals pursuing their own goals and ambitions regardless of cost or effect on others.  Lady Sun emphasizes harmony, while Lord Moon delights in conflict.  While the Empire contains both things, the fact that the world is more full of conflict than the Emperor might prefer means that those who pray frequently to Lord Moon tend to be looked upon with suspicion and distrust.
-
-Here is the vow which members of The Order of Lord Moon swear upon their initiation:
-
-"I, (NAME), swear to Lord Moon that I shall be a faithful member of his Order, and show loyalty to the brothers and sisters who share in its teachings and ways.  I swear to always act in the best interests of our order and its members.  I swear to keep secret the identities of my fellow members, and to protect their lives and wellbeing as if they were my own.  I will use the knowledge and power gained from my membership in The Order of Lord Moon to pursue my personal goals and ambitions, but will never allow my actions to bring harm to our order or its members.  I will devote myself fully to the service of Lord Moon and to the advancement of our order, and will remain steadfast in my loyalty to The Order of Lord Moon until the end of my days.  So swear I, (NAME)."
-
-This vow is shorter than most of the other vows above, in part because it is an older vow which has been passed down for many centuries, and thus predates some of the common forms and conventions used in vows.
-
-One of the responsibilities of the Damasu Ministry of Rites is cataloging the various signs which might portend disaster.  There are known signs which foretell of floods, fires, plagues, and all manner of catastrophes which can be mitigated if the government is not caught unprepared.
-
-Unfortunately, the fungal blight kumosaya caught the entire domain by surprise, when it destroyed over half of this year's rice and soybean crop in the Damasu domain.
-
-In their role as karmic inquisitors from the Order of Bishamon, the PCs have been tasked with uncovering the mystery of not only what kinds of sins might have prompted the blight, but also why these omens and portents did not forewarn the government.
-
-There are specifically seven signs which ought to have heralded this disaster, and some other members of The Order have encouraged the PCs to make use of the present crisis to right wrongs in the domain.  As they journey from place to place, look out for any wrongdoing by the wealthy and powerful and then find a way to credibly argue that this was the cause of some individual sign failing to manifest.  This would allow the PCs to right a variety of wrongs in addition to solving the overarching mystery.  It will be up to the PCs whether or not to employ this tactic.
-
-One of the PCs was a disciple of Nanube, a member of Lord Moon's heavenly court.  Nanube is known as the Deceiver, or sometimes more simply as the Liar.  Here is a high-level description of Nanube:
-
-With this in mind, suppose that one of the PCs wanted to swear a vow to Nanube that they would use each and every one of these failed omens and portents in order to "take down" a human or family or institution which was guilty of wrongdoing, by framing them as being the reason why these omens and portents did not trigger.  The idea is that lies will bring about justice when the truth has failed.
-
-"I, (NAME), disciple of Nanube the Deceiver, do solemnly vow before Lord Moon and his servant Nanube, to exploit each and every one of the failed omens and portents that ought to have forewarned us of the fungal blight kumosaya.  In the name of justice, I shall craft tales and weave deceptions to ensure punishment for those guilty of wrongdoing, those who prosper through injustice and greed.
-
-I shall find those who are guilty of great sins, and I pledge to bring low these offenders, be they man, woman, family, or institution, by painting their sins as the reason why the omens and portents did not manifest.  I will use the power of lies, not to hide, but to uncover the truth of their transgressions, to right the wrongs, to protect the innocent, and to strike down the guilty.  I may never discover the truth or bring those truly responsible for this absence of premonitions to justice, and I will surely provoke the ire of those I condemn, but I remain dedicated to punishing evildoers.
-
-I vow to exploit the darkness to bring about the light, to use deception to reveal the truth, to use lies as a tool for justice when the truth has failed.  I will be the whisper in the darkness, the unseen hand that stirs the pot, and the voice that shapes the course of events.
-
-By the light of Lord Moon, by the wits of Nanube, and by my own determination, I swear this vow.  To break it would be to betray not only my fellow humans who suffer in this world, but also the essence of myself.  In the face of trials, in the heart of conflict, in the eyes of the guilty, I will not falter.  For my lies are my weapon, my shield, my truth.  So swear I, (NAME)."
-
-Here's a vow which the Order of Daikoku is pressuring the Minister of Revenue to swear:
-
-"I, (NAME), as Damasu's Minister of Revenue, do swear by Daikoku, the Patron of Wealth and Harvest, and by Fukurokujin, the Patron of Wisdom and Mercy, to exercise my duty with diligence and compassion in these trying times.  I vow to use the powers entrusted to me to alleviate the burdens of those suffering most from the blight of kumosaya.
-
-I pledge to seek out and implement policies that will reduce tax and rent burdens on those most afflicted by this calamity, to the best of my ability and within the limits of my power.  I vow to refuse the collection of moneys from those whose larders are empty, whose fields are barren, and whose futures are uncertain due to this devastating blight.  I promise to strive to ensure that no family starves because they are burdened with debts they cannot pay.
-
-Although I am but one man, I pledge to exert my influence to enforce policies of compassion, and I shall labor tirelessly to ensure that those under my authority adhere to the spirit of this vow.  I swear this vow in all humility, knowing that its fulfillment lies as much in the hearts and minds of those I lead as it does in my own efforts.
-
-By the grace of Daikoku and Fukurokujin, and in their names, I swear this vow."
-
-Here's the vow of devotion sworn by members of the Order of Daikoku:
-
-"I, [Monk's Name], vow unto Daikoku, the embodiment of wealth and harvest, and to the Order that serves him.  I surrender myself to the wisdom and authority of the Abbot, and to the teachings and principles of our sacred Order.
-
-I commit to nurturing the abundance around me and within me, just as Daikoku nurtures the prosperity of the world.  I am mindful that wealth is not a reward, but a responsibility; not a privilege, but a mandate to serve.
-
-I shall embrace their wisdom with humility and dedication, acknowledging their insight as the fruit of a profound connection with the cycles of life and bounty.  In devotion, I strive to walk the path towards enlightenment, transcending the bonds of scarcity and suffering.
-
-Under the watchful eyes of Daikoku and the Fortunes, I pledge my loyalty and dedication to this sacred journey.  I vow to uphold the abundance and generosity of Daikoku, the ceaseless cycle of prosperity and harvest, as I strive to align my spirit with his rhythm, becoming an active echo of his divine abundance."
-
-Another example is the Vow of consumption to Lord Moon sworn by a different member of The Order:
-
-"In the silvery gaze of the ever-changing Lord Moon, I, [Name], solemnly swear my vow of consumption.  As Lord Moon feasts on celestial flesh and imbibes the ambrosia of the heavens, so too will I partake of the earthly bounty, a reflection of the divine banquet above.
-
-Each day, as sure as the moon follows the sun, I will feast upon the flesh of animals and drink from the cup of spirits, these actions serving as a testament of my commitment to Lord Moon.  In doing so, I shall honor his insatiable hunger and thirst, mirroring them in my own earthly existence.
-
-I trust this vow to serve as a continuous connection to Lord Moon, reminding me of his raw, primal power.  Let my daily indulgence fortify me, just as Lord Moon draws strength from his celestial feast.
-
-In my meals and libations, I shall remember the celestial grace that sustains us all.  May my strength, in turn, reflect the mighty Lord Moon, using it both for personal gain and for the greater good.  This I vow, in the name of Lord Moon, the mighty and unpredictable."
-
-And the public-facing vow to Bishamon with similar terms:
-
-"In the sight of Bishamon, the stalwart Fortune of Strength, I, [Name], pledge my vow of consumption.  Inspired by my past of scarcity and hardship, I promise to savor the strength of the earth, in meat and spirits, each day and night, as a testament to my perseverance and will.
-
-Just as Bishamon endures, so too will I endeavor to fulfill this vow, even in the face of adversity.  My past poverty taught me the value of these gifts, and so I honor Bishamon by partaking of them daily, drawing strength from my commitment.
-
-My vow serves as a reminder of the blessings we often take for granted.  Each meal, each drink, will bolster my resolve, and remind me of the strength and endurance embodied by Bishamon.
-
-In this act, I shall remember the people, the land, and the divine strength that provides for us.  May my own strength, in turn, reflect that of Bishamon, used not for personal gain but for the betterment of all.  This I swear, in the name of Bishamon, the unyielding Fortune of Strength."
-
-## Maho and Bloodspeakers
-
-With vows and proper doctrine covered, the discussion turns to heresies and enemies of the Celestial Order.
-
-Maho, a.k.a "blood magic", is any form of magic outlawed by the Emperor.  The practice of maho is punishable by death.
-
-There is a difference between tsukai and bloodspeakers, though many people use the terms interchangeably.
-
-A "tsukai" is a witch, i.e. anyone who practices maho.  All tsukai are infected with the Shadowlands taint as part of their practice of witchcraft, and this taint is detectable, especially by shugenja, who can detect the taint by communing with the elemental kami.
-
-A "bloodspeaker" is a specific type of tsukai who has the supernatural ability to conceal the Shadowlands taint.  Shugenja are unable to overcome this - even the most powerful shugenja who are the most in-tune with the elemental kami cannot detect the Shadowlands taint when concealed by a well-trained bloodspeaker.  Witch Hunters have a form of Detect Taint which is sometimes able to overcome a bloodspeaker's taint-concealing abilities, though even this is unreliable, and more powerful Bloodspeakers can usually evade this.  The good news is that if an entire suspected coven is rounded up, the Witch Hunters usually only have to be successful one time in order for the coven to be found out.
-
-Notably, a bloodspeaker can no longer conceal the taint in their body after they're dead, so one surefire way for a Witch Hunter or shugenja to tell for sure if someone is tainted is to kill them and then check.  This is only done in extraordinary circumstances, as Imperial law forbids the mass killing of peasants simply to root out a single individual.
-
-Remember: all bloodspeakers are tsukai, but not all tsukai are bloodspeakers.  (In other words, there are some tsukai out in the countryside who cannot conceal their taint, and if they ever draw attention to themselves they will be easily found out.)
-
-The Office of the Jade Champion is in charge of the Kuni Witch Hunters, who are responsible for hunting tsukai.  There are about 200 Witch Hunters in the Empire, so while smaller domains don't have a Witch Hunter, most domains do.  (There are currently 284 domains total.)
-
-There are many different types of maho, because maho is not really a single practice - the textbook list of the 7 maho disciplines for Witch Hunters and other authorities to watch out for is:
-
-- **Shadowlands taint magic:**
-
-  This is the basis of most tsukai practices, and witches are able to take on additional Shadowlands taint in order to give themselves extra powers, strengthening themselves or cursing others through the direct application of channeled Shadowlands energy.  Some textbooks list this discipline as "Curses", but this is misleading because taking on Shadowlands taint has other applications such as increasing a tsukai's physical prowess, which is why it's more correctly listed as the general Shadowlands taint magic.
-
-- **Name magic:**
-
-  Tsukai gain power based on the strength of their own name, and based on the strength of names they take.  Many spells and rituals involve sacrificing a name.
-
-  Tsukai are interested in taking the names of others - they must merely ask you to give them your name and have you answer by stating your name.  When this has been repeated three times in succession the tsukai owns your name.
-
-  Name magic was not originally considered a maho discipline until Hantei Iuchiban became the first bloodspeaker and used name magic to corrupt the officer corps of the 1st Imperial Legion.
-
-- **Wound magic:**
-
-  Tsukai practice bloodletting of themselves and of victims in order to fuel their magic.  Any human magic driven by wounds is considered maho.  (Ratling shamans sometimes practice ritual bloodletting, but this has been classified as non-maho because of the special nature of Ratlings and the fact that they are biologically incapable of carrying the Shadowlands taint.)
-
-- **Summoning:**
-
-  One of the most famous tsukai abilities, this is most notably used to summon oni from jigoku, but is also used to summon mujina (jigoku trickster spirits), kansen (corrupted kami/spirits), zombies (given a supply of corpses), ghosts, etc.
-
-- **Crafting:**
-
-  The most famous items crafted by tsukai are obsidian blades, and they also create totems which they use to store power they generate from sacrificial rituals.  In theory tsukai can make all manner of interesting things, though this usually involves the sacrifice of some other object which itself already had great name.  For example, the creation of an obsidian sword requires the sacrifice of a sword whose name is itself very famous, as it is the strength of the original sword's name which serves as the source of power for the creation of the obsidian blade.
-
-- **Dark Divination:**
-
-  Tsukai can learn secrets from those whose names they know, starting always with what they fear, desire, and regret.  Such knowledge is often the basis for subsequent curses.  It is for this reason that Witch Hunters rarely tell anyone their true name.  Instead, they choose a name for themselves at their gempukku but only declare that name at the ceremony, and then assume a false name for their entire lives.
-
-  This practice is regarded with extreme suspicion, as many people who are experts in the connections between the living and their ancestors have credibly claimed that it prevents Witch Hunters from being able to be guided by their ancestors, or from having their deeds echo through the realm of the honored dead.  However, this has never been proven, nor has the Imperial Ministry of Rites or the Office of the Jade Champion ever taken any position on this matter.
-
-- **Fleshshaping:**
-
-  One of the least common areas of maho, this is most famously used by the Kadi sorcerers of Medin al Salaat, who give themselves inhuman features and abilities by changing their own bodies.  This is significantly less common in Rokugan, since that's kind of a giveaway which would prevent them from remaining hidden among the peasant population, though particularly malicious tsukai may inflict horrific disfigurement on victims they capture.
-
-While many maho practices involve only one of the maho disciplines, the most powerful tsukai perform rituals which combine several disciplines and usually require several practitioners.  For example, consider summoning an oni:
-
-- It requires so much blood to be shed that an entire coven is usually required, since a single tsukai would be killed by the wounds.
-
-- It requires so much Shadowlands taint to be channeled that it would overwhelm any one tsukai and drive them mad or worse.
-
-- It requires the sacrifice of a name of considerable weight (Recognition) to give the oni the ability to inhabit this realm.
-
-- It's the most difficult of the summoning arts, requiring a tsukai who has already mastered the lesser forms of summoning.
-
-This combines four of the 7 maho disciplines, and most maho rituals are similar in that regard.
-
-There are also some forms of maho which do not actually involve the Shadowlands taint or the shedding of blood.  For example, there are many things a shugenja could theoretically do to empower their magic through the taking and sacrificing of names.  However, this is banned, as Name magic is one of the 7 maho disciplines outlawed by Imperial decree.
-
-One of the earliest works of literature about the early days of the Empire is the court historian Hantei Kajimitsu's "History of Early Rokugan", which opens with this description:
-
-"Before the rise of our Great Ancestors humanity amounted to little.  Their hands ran red with blood, they ate ravenously the flesh of animals, and their bodies were unbathed and ungroomed.  The original religious practices of the unguided peasants included the worship of local gods and minor fortunes who could bless families and land with fertility, prosperity and good fortune or wrack them with disasters and sterility.  Maho cults also existed and although not all human beings practiced maho, the practice of maho was both commonplace and accepted.  Ancient maho practices were identical to modern maho, except that they were commonplace and not illegalized.  Using sacrifices of blood and children, cultists sought to appease the dark gods of Jigoku and yield crops from the soil.  Because agricultural techniques of the early humans were undeveloped, the thirst of the soil for their blood was great."
-
-The Great Ancestors who founded the 7 Great Clans required that any warlord who swore fealty to them foreswears the practices of maho and makes it illegal in their domains.  However, as Hantei Kajimitsu later mentions:
-
-"Although maho was made illegal after the founding of the Empire, it is unfortunately the case that some of the subjects of the Hantei continue to practice unclean maho."
-
-For centuries this practice was limited by the ability of shugenja to detect the Shadowlands taint.  If a tsukai was performing unclean acts which spread the Shadowlands taint within a city, then a shugenja could be dispatched to seek out its source and kill any tsukai they found.  While some tsukai persisted in trying to remain hidden in large cities, most tsukai remained in the countryside, far away from the prying gaze of most shugenja.  Unless their practices spread so much corruption that it rose to the government's notice or their peasant neighbors dared to report them to the authorities, tsukai covens could operate undetected for many generations.
-
-Most countryside tsukai know very little of maho - because its practice is heretical it is difficult for them to study together or share their knowledge widely.  Hedge-witch tsukai of the countryside usually know only a few spells and rites.  The most common practice is to use flesh-altering abilities to heal sickness or injuries in their peasant neighbors, often in exchange for the names of their "patients".  A few learn how to curse their enemies, even fewer know how to create blood-artifacts of any power, and fewer still know the art of summoning oni.
-
-The corruption of the Shadowlands taint interferes with other magics, and shugenja who attempt to wield maho quickly find that their connection to the elemental kami weakens and even goes away completely, and they lose their ability to call upon the elements.  This makes shugenja inherently somewhat trustworthy on the question of maho, because if they were doing things like summoning oni, then they would lose the source of their power, and they are able to prove that they have not turned into tsukai simply by casting one of their ordinary elemental spells.
-
-This distinction also speaks to the ways in which maho practices were the original religion practiced by the peasantry of Rokugan before the founding of the Empire.  In many ways, the tsukai of today are simply continuing to practice the religion of their ancestors.  This is heretical and illegal, but it explains why so many are open to the idea, for reasons other than just the power that it offers.
-
-Isawa himself, who founded the Isawa Family, is known to have practiced maho.  He created many totems using the crafting discipline, and performed rituals to store the power of the names and wounds of his defeated enemies in these totems through blood sacrifices.  It was Shiba who convinced him to set aside these ways for the future of the new Phoenix Clan, though the Isawa Family is rumored to maintain many texts on maho in their secret libraries, for the Phoenix Clan values knowledge more highly than any other clan.
-
-There is one extremely notable exception to the Phoenix Clan's renunciation of the practice of maho.  Isawa Akuma was a shugenja in the Phoenix Clan who lived in the 3rd century who was fascinated by maho.  He studied everything he could find on the subject and is said to have sought out tsukai, and rather than arresting them he offered to exchange his wisdom for theirs, learning from them and teaching them many of the hidden secrets of the Phoenix.
-
-Akuma was one of the most cunning and intelligent members of the Phoenix Clan, and eventually he was able to somehow discover how to wield maho without losing his spellcasting ability!  It is unknown how this is even possible - the elemental kami hate the Shadowlands taint above all else, and the abilities of a shugenja rely on the favor of the elemental kami.  A shugenja is not simply directing power themselves, but rather channeling their own chi in order to call upon the kami to answer their prayers.  And the kami would never respond to a man so deeply tainted as would be required for the practice of powerful maho.
-
-Some have theorized that Akuma is so skilled that he has not defied this limitation, but rather has become so skilled at the practices of maho and spellcasting that he has managed to avoid taking so much Shadowlands taint as to become permanently tainted.  This would be a staggering accomplishment, as some of his feats of maho are so impressive that even the most famous tsukai would be nearly killed by the amount of taint involved, and because of this there are many who reject this theory.
-
-Others have wondered whether Akuma has instead learned how to expel the Shadowlands taint from his body.  Perhaps he DOES lose his spellcasting ability for a time, but through intense self-control over his own body and chi he might have discovered a technique by which someone who has become "permanently" tainted can reverse this effect and recover back to an untainted state.  Others claim that this is even more ludicrous, as the taint is known to settle into a person's marrow, from which it spreads to the rest of the body through the blood, and there are no known principles by which this could possibly be reversed.
-
-There are other theories as well, that Akuma abandons one body for another by being a disembodied spirit which possesses untainted victims and continues to wield his shugenja powers that way... that he has learned to wield some form of magic similar to shugenja control over the elements but distinct from it... etc.
-
-Before Akuma's practice of maho became known, he journeyed deep into the Isawa Woodlands, far from prying eyes, and performed his greatest feat, using his own name to summon a powerful oni lord, Oni no Akuma.
-
-This oni was so massive and powerful that it warped place in the Isawa Woodlands, creating a new "between place" coexistent between the mortal realm and Jigoku.  Because Akuma summoned an oni whose thirst for knowledge matched his own, this oni took the form of a great library, which is said to contain "all of the things that have ever been written, and many of the things which never were written, and more than a few things which will come to be written".
-
-Akuma then set out to read through the sources of knowledge and power in this chaotic and disorganized library which was created by his oni and which is the oni.  Akuma himself was not able to control the oni - although most summoners are able to command the oni which they summon, so powerful an oni lord was required that it will respond to no human commands.  Thankfully for Akuma, this merely means that it treats him like any other visitor, offering its shelves full of nonsense and wisdom and madness and knowledge and lies and power to any who make their way to him.
-
-Over the next few years, Akuma began to publish some of the greatest foundational works of scholarship the Empire had ever seen.  Many of the concepts behind vows I described earlier in our conversation are included in his book "On Vows to the Fortunes".  His work "On Soothsaying" contains the definitive classification and description of the various forms of augury and prophecy.  There are many other examples... and as his scholarship grew, so did the power of his name, and thus so did the oni which formed his Great Library.
-
-Eventually the source of his knowledge was discovered, and his death warrant was signed, effectively exiling him.  This seemed to matter little to Akuma, who was happy to take refuge in his library.  The oni which protects the library and which is the library will not permit any who travel there to attack other visitors, and it would take an army to defeat it.  Unfortunately, that is challenging, because the library can never be found the same way twice.  All of the normal paths through the Isawa Woodlands which might lead one to the library have already been taken, and therefore travelers who seek it out must journey through more unusual routes, taking them in and out of the mortal realm in order to find their way there.
-
-The Empire hoped that Akuma's oni would eventually pull itself into Jigoku after his death, but he surprised and defied the wishes of the Empire by attaining immortality.  He is one of only three shugenja confirmed to have ever accomplished this feat, the second shugenja in the Empire's history to have done so (the first was Isawa no Naka Kuro, the Grand Master of the Elements, who dwells at the Temple of the Four Elements in the Spine of the World Mountains).
-
-It is unknown whether Akuma's apparent immortality is the result of absolute mastery over the elements, or because of his dark practices of maho.  Tsukai have been known to attain immortality and thus escape the cycle of death and rebirth through the absolute mastery of their fears, desires, and regrets.  Monks have been known to do so through reaching enlightenment.  Even mundane artisans have been said to have achieved immortality through complete devotion to their mundane crafts - the founder of the Kakita Academy was a poet who is said to still wander the Empire to this day, composing sublimely beautiful works of poetry about the wonders of the natural world around him.
-
-Regardless, Akuma remains an entity at large in the world today.  Unlike most dangerous tsukai, he appears to mainly be interested in the pursuit of knowledge, and seems to have few political opinions and no desire for temporal power.  His works of scholarship are still copied and studied because of their well-established correctness, though he is believed to not be their true author, and is thought to have pilfered them from his Great Library.
-
-It is for this reason that copies of books which he published always open with some version of this disclaimer:
-
-"This book was originally published by Isawa Akuma, who was later discovered to have stolen it from the Great Library.  Its true authorship is unknown.  Anyone who discovers a copy of this book without this disclaimer is ordered to report it to the office of the Jade Champion."
-
-The thinking is that books he published such as "On Vows to the Fortunes" or "On Soothsaying" were written by someone who was never born, or possibly the books would have otherwise not come to be written for centuries, and Akuma found these texts and published them, attributing them to himself, which fueled his name even further.  Some point out in private that this cannot be proven and he may have indeed written some or all of the works attributed to him, but few would dare to publicly contradict the Office of the Jade Champion.
-
-The above differs somewhat from the Isawa Akuma of the original L5R published books.  The intent is to use the character to explore the boundaries between the different magic systems which exist in Rokugan - a case of establishing a principle and then introducing a seeming contradiction into a coherent world and system.
-
-### Iuchiban and His Lieutenants
-
-The discussion now turns to Iuchiban (the first and most famous bloodspeaker) and his lieutenants.
-
-The Emperor's second son at the end of the 5th century (~600 years ago) was Hantei Iuchiban.  Like most second sons of the Emperor, Iuchiban commanded the 1st Imperial Legion to guard the Gateway to the Land of the Burning Sands at Chai Sedo.  As usual, this was for the purpose of "keeping him away from the temptation of entangling alliances with those who might seek to subvert the authority of the crown prince".  However, Prince Iuchiban "craved the power that the Fortunes had fated his elder brother should have, and sought to gain it by maho" (citation Asahina Toshiro in "Trying Times").  To this end, he used his authority to acquire tomes about the functioning of maho, intending to learn its ways and wield it as an unexpected weapon in an eventual coup.  This was also before trade with gaijin lands was banned after the Battle of White Stag, which happened 300 years later (which is ~300 years ago, as my current campaign takes place in the year 1129 of the Rokugani calendar), which made it much easier for Prince Iuchiban to send emissaries to Medin al Salaat across the desert, seeking out the khadi of that city.
-
-From his seat of authority at Chai Sedo, Iuchiban began gathering disciples to him.  While most of his followers were killed when he launched his coup against his brother, the most powerful survived due to being able to return after the destruction of their bodies, and many remain at large in the Empire today.  Most have taken the "Jama" name, which Iuchiban invented as a way to identify those in his service in a twisted perversion of a noble samurai name.
-
-For reference, in this version of Rokugan, the format of a normal samurai name is "<family> no <house> <personal>".  For example, the PC "Akodo no Sugiwara Natsuki" is from the Sugiwara house of the Akodo Family.  The word "no" means "of", and this part is generally omitted for people from the ruling house of a family.  For example, "Kitsuki Tetsu" is the usual form, with the longer "Kitsuki no Kitsuki Tetsu" reserved for extremely formal circumstances.  In less formal contexts, the Family name is often dropped - for example, "Shosuro no Seri Go" is usually referred to simply as "Seri Go".
-
-Jama names substitute the tsukai master who inducted the apprentice.  Iuchiban's followers have names like "Jama no Iuchiban Kohaku", and his disciples have names like "Jama no Kohaku Jin", etc.
-
-Iuchiban surpassed all who brought maho knowledge to him, and many of his servants were directly responsible for learning and disseminating some specific maho practice.
-
-This account differs somewhat from the original description of Iuchiban in the L5R books, though not drastically - mainly it clarifies and expands details which were already present.
-
-By way of background, some of his most famous disciples follow, specifically the ones which are still alive and at large after all these centuries, starting with Jama no Iuchiban Suru.
-
-#### Jama no Iuchiban Suru
-
-Before adopting the Jama name, Shiba no Iga Suru was the one who first brought maho texts to Iuchiban, particularly the writings of a mad Kuni shugenja who was driven to insanity from too much exposure to the taint while fighting the forces of the Shadowlands.  It was these writings which began Iuchiban's journey into the practice of maho.  Together, the two of them conducted what prayers and rituals they could manage from reading these texts alone, but it soon became clear they needed more expertise.
-
-Suru is notable for being one of the only remaining disciples of Iuchiban from the samurai caste, and to this day he is said to travel in noble circles, kidnapping and impersonating traveling samurai.  He then uses this position to learn the fears, desires, and regrets of those in power, seeking out those who might be willing to give him their names in exchange for his aid in achieving their political ambitions, with the promise to never reveal his role in assisting them.  Because of this secrecy, it's unknown just how many of the political happenings of the Empire have involved Suru's influence.
-
-Suru ultimately uses the names of famous nobles to fuel powerful rituals.  Suru was directly responsible for resurrecting Iuchiban, and the Great Famine of the 7th century is thought to be Suru's doing.  He has been killed many times but always resurrected by his allies and disciples.
-
-#### Jama Musume
-
-Another terrifying disciple of Iuchiban is Jama Musume.  Unlike the others who have taken the Jama name, she does not add the "no Iuchiban" qualifier, on the basis that she herself originally instructed Iuchiban.
-
-The writings of the mad Kuni shugenja brought to Iuchiban by Suru mentioned an old peasant tsukai-woman known as "the dark daughter of Fu Leng".  Suru sought her out and convinced her to come to their aid, teaching the ways of maho to the most trusted of Iuchiban's retainers.  While she began as Iuchiban's instructor, he eventually surpassed her and taught her the maho disciplines she had previously lacked.
-
-Musume assisted Iuchiban in his coup attempt, but was not killed, and was the only one of Iuchiban's former lieutenants who was absent after his resurrection.  She is known to live in the Shadowlands, where she occasionally ambushes Crab raiding parties.  Instead of killing them, she takes their swords and tells them a date and place at which they can reclaim them if they defeat her oni.  Bushi will typically return to the Shadowlands with a small army, allowing them to easily defeat the oni and reclaim their lost swords.  Unfortunately, this serves Musume's purposes quite nicely, since the larger a force is brought, the more people learn of her name and carry the memory of her oni, thus further increasing her power.  (Remember that tsukai gain strength based on the number of people who know their name, especially when those people have strong emotional feelings of fear, desire, and/or regret when thinking of that name.)
-
-Musume is never present when these armies appear to kill Oni no Musume, since she has no need to be there in order for her purpose to be achieved.  Instead, she can remain safely elsewhere, not putting herself at risk of the inconvenience of being slain, and indeed it is unclear whether she has ever been killed.
-
-#### Asahina Yajinden
-
-Another of Iuchiban's disciples is Asahina Yajinden.
-
-Iuchiban's plans could never have succeeded so long as the Shadowlands taint was so easily detected by shugenja.  Convinced that there must exist some method by which the taint could be hidden, Iuchiban reached out to a smith of great renown, hoping that Yajinden could construct amulets capable of concealing the Shadowlands taint in its wearers.  Although Yajinden failed in this effort, his research and collaboration with Iuchiban resulted in Iuchiban himself inventing the maho practice of concealing the Shadowlands taint from the divinations of shugenja.
-
-Yajinden perfected the maho practice of crafting, and taught Iuchiban's disciples how to use the names of objects as an alternative to the names of people - in particular he invented the method of sacrificing the name of a famous sword in order to create a cursed obsidian sword.  Yajinden himself proceeded to create what have been described as the four most powerful obsidian blades ever smithed, known as the 4 "Bloodswords" (Ambition, Revenge, Judgement, and Passion) and was said to have been working on a 5th bloodsword (Treachery) when Iuchiban was defeated.
-
-Yajinden was captured by the Emerald Champion after Iuchiban's coup attempt.  It's unknown how he managed to escape, since his maho practices revolved almost entirely around crafting.  Interestingly, his escape was reported to have occurred many years later, implying that he was not immediately put to death, and Yajinden is said to have assisted the Emperor's advisors in containing the spirit of Iuchiban to prevent him from being resurrected.  However, after managing to escape, Yajinden is said to manufacture obsidian swords and other maho artifacts for bloodspeakers, and train their brightest maho-smith apprentices on how to do the same.
-
-Much more has been written about Yajinden, but one thing to note for future reference is that often when telling these kinds of histories, the information is supposed to be somewhat unreliable.  This is what people believe to be true, and most of it is true, but there may be individual parts of the story which are later revealed to be falsehoods spread for some political or religious purpose.  The intent is for Rokugan to be a place whose history books are not entirely reliable, just as modern historians regard many ancient sources as having their own biases and inaccuracies.
-
-#### Jama no Iuchiban Kyoso
-
-One of the most famous disciples of Iuchiban is Jama no Iuchiban Kyoso.
-
-Known as "queen of oni", Kyoso began as a legionnaire in the 1st Imperial Legion from either the Kitsu Family of the Lion or the Yogo Family of the Scorpion.  (Each family disclaims her, and there are credible historical accounts supporting her ancestry from either family.) Kyoso quickly mastered the lesser summonings taught by the maho texts of Jama Suru and the teachings of Jama Musume, easily summoning swamp spirits and mujina and kansen.  Kyoso's intuitions about these practices changed how humans understood oni summoning.  It was Kyoso who explained that oni require a name to be summoned, not as payment, but because nothing without a name can exist in our realm.  The name is what permits the oni to possess a physical form, and the nature of the oni's form in Jigoku therefore has even more effect on the form it takes in our realm than any material components used to anchor its spirit to a physicality in our reality.
-
-Kyoso made further discoveries in the practice of oni summoning.  Prior to her, any tsukai who wished to summon an oni required either their own name or a name which someone chose to give to them.  While blood sacrifices had previously allowed tsukai to use the names of sacrificial victims, it was Kyoso who discovered how to use the name of someone at the moment of their death to summon an oni.  For centuries, this has allowed bloodspeakers to summon oni using the names of victims who would die rather than surrender their own names, even under torture.  This has led to the targeting of countless samurai by bloodspeaker covens over the years, as the protection of righteousness and indomitable will no longer prevents your name from helping a bloodspeaker's summonings.
-
-Kyoso's other discovery was even more significant, which is that of "dismissing" and "recalling" oni.  Prior to her, a tsukai who summoned an oni would have to find somewhere to keep it.  Even out in the countryside, this could spread its taint to the countryside enough to be noticed.  Even worse, a traveling tsukai who kept their oni close enough to come to their defense would almost certainly be seen.  Kyoso discovered that it was possible to send a summoned oni back into Jigoku, and then recall it at a moment's notice.  This process of recall needs far less preparation and ritual than the initial summoning, though it still requires a great expenditure of resources - typically a name almost as large as the one used to summon the oni, or many lesser names, or some combination of names, Shadowlands taint, and wounds.  Even worse, Kyoso is said to have further refined this process to allow the oni itself to return when certain conditions are met, such as the death of the bloodspeaker who summoned it - this means that even when a powerful bloodspeaker is taken by surprise and beheaded instantly, their attackers may still have to fight their oni afterwards.
-
-#### Jama no Iuchiban Kohaku
-
-The final bloodspeaker in this "rogues' gallery" of Iuchiban lieutenants - Jama no Iuchiban Kohaku - is an entirely original creation; all of the others are mostly or loosely based on characters from original L5R.  Kohaku has actually appeared as a character in past L5R adventures at the table, which is why the notes here are extensive:
-
-Kohaku was a traveling monk whose pilgrimage brought him to Chai Sedo (the temple at the Gateway to the Land of the Burning Sands, which is itself a narrow valley in the Twilight Mountains on the western side of the Empire) while Iuchiban was stationed there as the general of the 1st Imperial Legion.  With Iuchiban's influence, Kohaku was made the abbot of Chai Sedo, based on his scholarly acumen and understanding of the Tao.  It was Kohaku who Iuchiban dispatched as an emissary to Medin al Salaat to seek out the underground khadi who were still forced by the Ki Rin to stay hidden and make deals from the shadows.  Kohaku succeeded in mastering their ways, even learning the khadi secret of removing one's heart, which he returned to teach to Iuchiban and his fellow disciples.
-
-Interestingly, Jama no Kohaku Jin told the PCs during a previous campaign that removing one's heart does not grant immortality, and that instead it is the mastery of one's fears, desires, and regrets which does that.  He indicated that the removal of the heart helps you attain this mastery, but that most who perform the ritual are still mortal and their removed heart will stop beating when their body dies.  Jin claimed that there is some amount of life extension and resistance to wounds and age and sickness which is granted by the ritual, but that the common beliefs about heart-removal are mistaken.  This was already alluded to above - the common belief is that bloodspeakers attain immortality by removing their hearts and keeping them somewhere safe, but in actuality it is about mastering their fears, desires, and regrets.
-
-After Iuchiban's defeat, while Jama Suru proceeded to recruit and gain power from noble samurai, Jama Kohaku recruited peasants.  He is known to have personally sought out countryside tsukai from all over the Empire and taught them how to conceal the Shadowlands taint, allowing them to expand their covens and migrate from the countryside into larger cities without being found.  Because of his focus on evangelism to the peasantry, more bloodspeaker covens broken up by Witch Hunters have been linked to Kohaku than any other bloodspeaker.
-
-When a powerful oni lord known as The Maw gathered an army within the Shadowlands, it was Kohaku who combined explosives with powerful maho to blast a hole in the Kaiu Wall, allowing the Maw to invade the Empire.  Even worse, Kohaku diverted a Shadowlands river through the opened hole in the Kaiu Wall, flooding and tainting the Hiruma countryside, which ultimately prevented the Crab from reclaiming Hiruma castle after the Maw was defeated at the Battle of Cresting Wave.
-
-After Iuchiban was defeated, his soul was bound to the Forgotten Tomb.  Jama Suru performed unknown rituals to break it free, but it was Jama Kohaku who used his khadi-trained flesh-shaping abilities to construct a new body for Iuchiban's spirit to inhabit.  Kohaku continued to serve as one of Iuchiban's trusted lieutenants until Iuchiban's second death at the Battle of Sleeping River.
-
-More recently, Kohaku appeared at Kyuden Hida on the most recent Day of Thunder.  The Seven Thunders defeated the dark avatar of Lord Moon, Shinjo Jotsu, before Kohaku could arrive.  Kohaku proceeded to take revenge on behalf of Shinjo Jotsu, declaring himself an ally of the Moon Cult, and urging all cultists to travel to Kyuden Shinjo, where the moon cult was still strong.  This led directly to the overthrow of Shinjo Yokatsu, who turned out to be a moon cultist.  The Lion Clan felt this did not go far enough, and invaded Unicorn lands with the declared intention to drive out any remaining moon cultists once and for all, though they were defeated after Shinjo Hanari called in the Moto, who defeated the invading Ikoma armies of the Lion Clan at the Battle of Dark Edge Village.
-
-At least, that's what is generally known and believed.  Jama no Kohaku Jin now claims that the overthrow of the moon cult in Shinjo lands was his idea, and that he asked "master Haku" (which is what he calls Kohaku) to declare his allegiance to the moon cult and reveal its stronghold in Kyuden Shinjo specifically to cause "the samurai" to destroy it.  Bloodspeakers are known to often take credit for such things, though it's still a plausible story, since as Shiba Tsuchida pointed out, "it's a perfect example of how evil feeds upon itself".  Then again, it could just as easily be an attempt by Jin to cover up an embarrassing mistake.
-
-An even more recent event indirectly linked to Kohaku was the exploits of one of his other apprentices, Jama no Kohaku Hoshiko, who was known to be with Jama Kohaku on the recent Day of Thunder.  For years, a historian assigned to the post of Ratling agent for the 3rd Imperial Legion by Kyuden Hida helped samurai track down the lost swords of people's fallen ancestors who died in the Shadowlands.  One day, after a man named Kakita Hio won such a duel with his recovered ancestor's sword, a mujina appeared and declared that all of these recovered swords had been cursed by Jama no Kohaku Hoshiko, and the mujina named the date and place within the Shadowlands where those who wished could seek revenge and break the curse by slaying the oni through which the curse was bound.  (Hoshiko has evidently learned the technique from Jama Musume of convincing samurai to spread her name for their own purposes, thus empowering her.)
-
-When a small army showed up on the date in question, Oni no Hoshiko was indeed slain, but evidently Hoshiko had also studied the techniques of Jama Kyoso and managed to summon/form a rust oni which was specifically able to ruin swords.  While many were wounded, not one samurai died in the fight against the oni, yet every sword carried by all members of the attacking army was ruined beyond repair.  This gives each member of the army a right of vengeance against Jama no Kohaku Hoshiko, which permits them to spread her name when done so in the furtherance of their search for her, which is how many well-informed people would know her name, especially those who keep abreast of such matters.  Hoshiko is an excellent example of how modern bloodspeakers often combine the teachings of many of Iuchiban's disciples - in her case Kohaku, Musume, and Kyoso - in order to wield their power more effectively.
-
-### Iuchiban's Coup History
-
-What follows is a writeup of Iuchiban's coup attempts and the fallout they generated:
-
-#### Iuchiban's Coup
-
-Armed with the ability to infiltrate the capital without their maho being detected, Iuchiban and his disciples journeyed to Otosan Uchi.  They slowly began to raise the bodies of the honored dead in the Imperial crypt underneath Otosan Uchi, with the intention to mount a surprise attack on the Imperial court.  At the same time, they began quietly abducting members of the Imperial Chancellery whose names they used to power their spells and rituals.
-
-This was ultimately discovered before their preparations were complete, and a group of investigators drawn from each of the 7 Great Clans uncovered Iuchiban's activities and slew him in the resulting battle before he could escape.  The similarities between this event and the original Day of Thunder were not lost on people afterwards, and it was an open question for many years whether this event was another Day of Thunder.  The implications are not trivial - if the original Day of Thunder established the supremacy of humanity for all time, then the stakes of such conflicts are more localized in time and place.  But if humanity needs to periodically renew the Prophecy of the Age of Man (in which the Shinsei revealed that the Fortunes favor mortal man), then humanity's future as a species is not guaranteed.
-
-The Imperial Ministry of Rites took no direct position on this question, though many individual Imperial Ministers of Rites over the years dismissed the question as ludicrous.  Recently the prophet Baiten declared that the Day of Thunder was at hand.  Prince Fukuhachi, who oversaw the city of Toshi Ranbo at the time, reported that he narrowly prevented the assassination of the prophet Baiten, who was later found to have been murdered at the order of Shinjo Jotsu, the leader of the moon cult.  Shinjo Jotsu's later defeat was later revealed to be another Day of Thunder, prompting the Imperial Ministry of Rites to declare that Days of Thunder are indeed periodic events.  Interestingly, the Imperial Ministry of Rites has not yet retroactively declared Iuchiban's coup to be the Second Day of Thunder, though the growing consensus seems to be that this is obviously the case.
-
-Because Iuchiban could not be permanently killed, the Emperor's advisors managed to bind his soul to a prison in the Forgotten Tomb, preventing his resurrection for so long as his soul remained bound there.  While bloodspeakers who have removed their hearts and conquered their fears, desires, and regrets are able to resurrect themselves, Iuchiban's imprisonment was designed to prevent this possibility.
-
-Bloodspeakers and Witch Hunters:
-
-As a reminder, "tsukai" is the general term for a practitioner of maho.  However, once Iuchiban developed the technique of concealing the Shadowlands taint, those tsukai who are able to conceal the taint became known as "bloodspeakers".  As established earlier, all bloodspeakers are tsukai, but not all tsukai are bloodspeakers.
-
-This distinction led to a new urban phenomenon of bloodspeakers in cities, who were able to take advantage of dense populations to acquire more power and commit bolder acts against samurai than they could perform in the countryside.  Kidnappings, murders, and larger rituals (especially on certain busy festival days) are all common, whereas tsukai in the days before Iuchiban were a rural phenomenon, since they could not operate in large population centers without being found by shugenja.
-
-To combat this new bloodspeaker threat, a new Office of the Jade Champion was founded, which oversaw a new type of magistrate called "Witch Hunters".  Trained from a young age by being repeatedly exposed to the Shadowlands taint from early childhood, those Witch Hunters who survive this training are both immune to the Shadowlands taint and able to detect it even in bloodspeakers who try to conceal it.  Unfortunately, this detection is not perfect, and the powerful bloodspeakers have only a small chance of being detected.  Fortunately, if an entire coven is suspected, it's likely that at least one member will fail to escape detection, and once a single bloodspeaker is found, they can reveal the identities of the others - though the identities of their coven members are often obvious based on who they spend their time consorting with.
-
-Witch Hunters quickly grew in number and importance in order to fight against the rapid spread of bloodspeaker covens.  At one point, the Hantei Emperor ordered a Witch Hunter placed in every domain capital in the Empire, with these magistrates of the Jade Champion being given jurisdiction to investigate any reports of tsukai activity anywhere.  Some of these orders were later rescinded for reasons described below, and the power and influence of Witch Hunters has waxed and waned over the centuries according to the needs of the Empire.
-
-#### The Gozoku
-
-Some Hantei Emperors need to take strong action and be closely involved in political matters throughout the Empire.  Other Emperors preside over periods of prosperity which require little of their attention.  During one such period, five families of the Empire collaborated to effectively seize control of the Imperial Chancellery, ensuring that their cabal was the true decisionmakers in most matters decided in the Imperial capital.  Some players may have noticed that a few of the Companies in the 1st Imperial Legion are not from the ruling houses of their respective families.  Those families were members of the Gozoku, and were so powerful that they obtained more wealth and influence than even the houses which ostensibly ruled them.
-
-In case it matters for future reference, the five families of the Gozoku are:
-
-1. The Isawa Family of the Phoenix Clan, which is ruled not by a daimyo but by the Council of Elemental Masters.  Shiba the Great Ancestor who founded the Phoenix Clan bent his knee to Isawa at the dawn of the Empire in order to show his devotion to the Empire and gain Isawa as a vassal, and the Isawa have always had final say over Phoenix Clan affairs, when they choose to exercise it.
-
-2. The Doji Family of the Crane Clan.  Every Emperor since the dawn of the Empire has married a Doji bride, and Doji courtiers have always maintained control over the Imperial courts as the ruling family of the Crane.
-
-3. The Tsume vassal house of the Doji Family.  The northernmost domain in Doji lands, Tsume lands border both the Lion and Phoenix clans, and in times of war the Tsume daimyo has often been granted the position of "General of the Northern Armies of the Crane".  This was not true in recent years, when Tsume Retsu invaded the city of Toshi Ranbo, ultimately kicking off the Lion/Crane war, much to the displeasure of the rest of the Crane Clan.
-
-4. The Bayushi Family of the Scorpion Clan.  Just as the Lion and Crane clans are said to be the Emperor's right and left hands in times of war (this being reversed in times of peace), the Scorpion are said always to be the Emperor's underhand, and the Bayushi have always administered the Scorpion through equal parts rulership and spycraft.
-
-5. The Michio house of the Shosuro Family of the Scorpion Clan.  While the largest city in the Empire is its capital of Otosan Uchi, the second largest city of Ryoko Owari lies next to Beiden Pass where the 2nd Imperial Legion is stationed, separating Lion and Scorpion lands.  This is the hub of all trade in the central Empire, and lies just north of the best lands for silk cultivation.
-
-#### Hantei the 16th
-
-Eventually the time came for the Hantei Emperor to resume direct control of many of the Empire's affairs which had come to be managed by the Gozoku.  Unfortunately, while no one would have dared disobey the Emperor, the structures of government continued to operate as they were rather than immediately shifting according to the Emperor's will.  Whether because of intentional undermining of the Emperor's authority, or simple neglect and carelessness, Hantei the 16th found his orders not being obeyed even as every one of his subjects professed their loyalty to him.
-
-Hantei the 16th proceeded to take a series of actions to break up the alliance of the Gozoku which led to him earning the nickname "the Steel Chrysanthemum".  For example, after Daidoji Tojo became the senior member of the Daidoji Trading Council, he staged a power-play within Crane lands to attack and discredit a childhood rival, which derailed plans the Emperor had been orchestrating for years.  In retaliation, the Steel Chrysanthemum elevated him to the Fortune of Dung.  (Remember the power that Emperors claim to elevate people to become fortunes, discussed previously.)
-
-Hantei the 16th also used the Witch Hunters to investigate those who he suspected of conspiring against his interests.  This led many overzealous Witch Hunters to go beyond what the Steel Chrysanthemum had ordered of them, with some going so far as to lie about the results of their tests, and condemn some suspects as tsukai who had never practiced maho.  After the reign of Hantei the 16th ended, his successor rolled back the power of Witch Hunters as a direct response to the excesses they perpetrated while trying to best serve his father.
-
-For example, Witch Hunters cannot directly accept expensive gifts.  Having sworn a vow of poverty, they instead accept the gifts "on behalf of my office", with the understanding that if/when they are ever reassigned, the gifts would stay with the office rather than departing with the person.  This vow became a requirement of all Witch Hunters everywhere as part of the reforms which occurred after the reign of Hantei the 16th.
-
-#### Iuchiban's Resurrection
-
-It's unclear exactly how Iuchiban's soul was freed from the Forgotten Tomb, but Jama Suru is believed to have used the samurai names he acquired over 2 centuries to perform rituals to break the soul free, and Jama Kohaku constructed a new body for Iuchiban.  Together, they gathered most (though not all) of his other surviving disciples and attempted to take the Empire by force.  They began by raising an army of zombies and moved across the countryside.  Any losses they sustained were quickly replenished with the bodies of fallen samurai.  Recognizing the plight they faced, enemy daimyo quickly put aside their differences to stamp out this force before it could grow too large to stop.  Iuchiban had counted on the Empire remaining too divided to oppose him, but he was once again defeated and slain.
-
-Because the Forgotten Tomb could no longer be relied upon to contain Iuchiban's soul, the Kaiu Family constructed a new Tomb of Iuchiban.  Its exact location is unknown, and it may be at the south end of the Twilight Mountains, or hidden somewhere in the Kuni Wastelands, or deep in the Shinomen Forest.  Kaiu Gineza was the chief architect of this new tomb, and upon its completion he sealed himself inside, both to complete its unbreakable wardings and to prevent any possibility that his knowledge of its defenses could ever be used to break Iuchiban free.  To this day Iuchiban has not escaped again, nor is any bloodspeaker currently alive believed capable of accomplishing such a feat.
-
-After the return of Iuchiban, some of the institutional powers stripped from Witch Hunters after the reign of the Steel Chrysanthemum were restored, though still nowhere near the point they were at their peak.  There are currently only about 200 Witch Hunters stationed throughout the Empire, which currently has 284 domains.  Even a post as prestigious as the 1st Imperial Legion wouldn't have an assigned Witch Hunter if not for the historical reasons for the Empire to be concerned about possible khadi influence on Chai Sedo.
-
-One intent in the above is to use the kinds of words and phrasings that people within the society would use.  For example, look at how Hantei the 16th is described.  Consider the sentence:
-
-"This led many overzealous Witch Hunters to go beyond what the Steel Chrysanthemum had ordered of them, with some going so far as to lie about the results of their tests, and condemn some suspects as tsukai who had never practiced maho."
-
-Read in a history book about a real-life premodern society, that kind of passage would probably suggest that the Emperor really did order the Witch Hunters to lie and falsely condemn his political opponents as tsukai so that they could be executed, which would help re-establish the Emperor's authority and strength.  And indeed, that is the intended interpretation - readers should think that Hantei the 16th was a complicated figure who brutally opposed his enemies, and even if they think his goals and results were mostly just or well-intentioned, they probably wouldn't want a modern Emperor to behave as he did.
-
-However, no one in polite society would ever say that!  Instead, they would say things like, "The Emperor always does what is appropriate for his time and place.  In the past, Emperors such as the Steel Chrysanthemum behaved in ways which were appropriate to the challenges of their era, and the Hantei dynasty of today is wise enough to understand that the current era no longer demands such actions."
-
-## Shugenja
-
-With the "dark" practitioners of "dark" magic covered, the discussion turns to shugenja, the spellcaster priests of the Celestial Order who are members of the samurai caste.
-
-One interesting thing to explore is the difference between the fortunes and the elemental kami.  The latter are the elemental spirits of air, earth, fire, and water which inhabit all physical things.
-
-Shugenja can communicate with the elemental kami much more directly than anyone can communicate with the fortunes, as the elemental kami are generally smaller.  The Elemental Dragons which are the manifestation of the elements are closer to the fortunes in this regard, and are much more difficult to communicate with, even in situations where they physically manifest.
-
-This came up in a previous campaign when a shugenja used their powers to interfere in a duel.  The writeup explaining shugenja and their wisdom and magics and how they interact with Rokugan's legal system follows:
-
-Shugenja are extremely rare.  In most clans, about 1 out of every 10,000 samurai is a shugenja.  Since most domains have about half that number of samurai, about half of the domains in the Empire don't have even a single shugenja.
-
-Shugenja are extremely valuable.  A daimyo who loses a shugenja has usually lost their only shugenja, so they're typically extremely protective of their shugenja, above and beyond most of their other retainers.
-
-Shugenja are human.  They make mistakes and sometimes get into trouble, but as samurai they occupy roughly the same place within the celestial order as other samurai, though as priests rather than warriors.
-
-There is no stated legal doctrine which will tell any magistrate that shugenja are treated according to different rules than any other samurai, but when you combine the above facts you end up with a system which is extremely slanted in their favor.  Even an Imperial magistrate who isn't the one losing a shugenja must understand how deeply he will anger any daimyo whose shugenja he takes away, whether through the death penalty or exile or imprisonment or forced pilgrimage or lengthy remunerative service.
-
-Most magistrates, even Imperial magistrates, will go to extreme lengths to avoid depriving daimyo of their shugenja.  Legal historians can name a number of situations in which Imperial magistrates went too far and made rulings so egregiously biased towards shugenja that their rulings were actually overturned on appeal.  Rulings are only overturned in the most extreme circumstances, but the fact that a number of such cases even exist shows how far most magistrates will go to shield a shugenja from legal consequences.
-
-All of this despite the fact that in theory, shugenja are not to be treated any differently than anyone else who interfered in a duel, since there aren't actually any laws, standards, or precedents saying that the rules are different for shugenja in this regard.  This is typically worked around by shugenja not being allowed to even witness duels, due to the possibility of them magically interfering.
-
-With that being said, there are a few important cases involving shugenja and duel interference, even after it became standard practice for shugenja to be universally disallowed from being present during duels, which mainly came about in the 3rd century after one or two especially egregious cases of duel interference.  (Notably, it's not actually illegal by Imperial decree for shugenja to avoid being present, though most daimyo have standing orders to this effect.)
-
-Isawa Ejuko was the Elemental Master of Water at the beginning of the 8th century.  She was a romantic who loved to see people marry their soulmates, and swore a vow to Benten to perform marriage ceremonies for any star-crossed lovers who asked it of her.  Ejuko performed such a marriage ceremony for her friend Kakita Konishiko to her friend's lover Kakita Torikago.  Konishiko was already betrothed to a man named Doji Reju, so a challenge was issued by Reju to duel Torikago to the death.
-
-An Imperial magistrate ordered that the challenge must be answered, and that the duel would be fought to the death, so that the winner would be free to marry (or stay married) to Ejuko's friend Konishiko.  The magistrate ordered that the matter would be decided by duel "once and for all" on a certain date on which the duel would take place.
-
-Ejuko called upon the water kami and created a torrential rain on that day, preventing any possibility of a duel occurring.  When questioned, she declared that the kami themselves were angered by the efforts to separate this husband and wife, though it seemed clear that she herself had provoked this anger and that the kami were angry as a result of her request as the Master of Water that they show their anger.
-
-Ejuko was ordered back to Phoenix lands so that she could no longer interfere with the duel, which was allowed to go forward.  She was not punished, though she was admonished for having interfered with a valid duel, and it was made clear that even the Master of Water would have suffered the displeasure of the Emperor had she interfered with a duel already in progress.
-
-Fun fact: if not for having been ordered back to Phoenix lands as a result of this ruling, Ejuko would not have been in the right place to marry Mirumoto Asijin to his true love Isawa Maroko.  This was yet another case of Ejuko performing a marriage for someone already betrothed, which led to Akodo Yokutsu leading an army north in retaliation, resulting in the Battle of the Tonbo Plains, which resulted in the creation of the Dragonfly minor clan.
-
-This shows the ways in which the elemental kami are held in high regard, and yet the ability of shugenja to influence them means that their apparent wishes cannot necessarily be weighted as heavily as the will of e.g. the fortunes.
-
-## Gaijin
+### Gaijin
 
 With Rokugan covered, the discussion turns to gaijin cultures.
 
@@ -4454,7 +5831,7 @@ Adapting different religious traditions into the same setting is challenging; th
 
 One of the PCs in that campaign asked the Uru what they know of the Moto.  Here's a bit of background about the Moto and the Unicorn Clan which is relevant to this question.
 
-### Unicorn History
+#### Unicorn History
 
 Many sloppy histories record the Unicorn Clan as "leaving" Rokugan ~100 years after the Empire was founded, and "returning" about 200 years ago, thus being "gone" for about 800 years.
 
@@ -4490,7 +5867,7 @@ As the Moto began to enjoy military success against the Uru, Tetsu began to recr
 
 Here is what Bashi wrote to Tetsu when asked to compose a report on the Moto:
 
-### Bashi's Letter on the Moto
+#### Bashi's Letter on the Moto
 
 To His Excellency Kitsuki Tetsu,
 
@@ -4526,7 +5903,7 @@ Note that Bashi incorrectly refers to the Moto as a "clan" rather than a family 
 
 Regardless, readers should note the similarities this account has with Rokugani religion and also the differences.  In particular, "Tenri" is not a figure previously established in Rokugani religion, though it's certainly possible that such a figure could exist.  Some of the characters are recognizable and could be mapped onto Rokugani deities, and other events don't match anything in Rokugan's history, but since many of these events take place before the dawn of the Empire, it's entirely possible that Rokugan's history is incomplete and the Uru history is correct.  Or perhaps their story is simply wrong, and is an invention of their storytellers, or perhaps some of it is wrong and other bits are accurate.
 
-### Medin al Salaat
+#### Medin al Salaat
 
 In the interest of discussing different gaijin religions, the notes below cover the city, culture, and religion of Medin al Salaat.  The fictional language of Salaam appears here too, loosely inspired by a combination of historical things, real language facts, and invented detail.  The writeups of the city and its factions also drew heavily on the Legend of the Burning Sands material.
 
@@ -4624,13 +6001,13 @@ It's unclear to historians whether current Moto lands are the original ancestral
 
 One theme in these writeups is taking existing historical myths and stories whose underpinnings might not be directly applicable to Rokugan, such as the Assassin's habit of taking people to Paradise, and adapting them to fit within Rokugan's cosmology.
 
-### The Medin al Salaat Dream Quest
+#### The Medin al Salaat Dream Quest
 
 The PCs never actually visited the city in person during this past campaign, but they did end up there as part of a "dream quest".  Adventures in this setting sometimes take place in the Realm of Dreams, in which the PCs enter a shared dream where they must overcome obstacles to gain some information or achieve some other goal.
 
 The description for this particular dream quest follows:
 
-The PCs find themselves standing on the Moto steppes, between the Twilight mountains and the Burning Sands Desert.  They can see both of these things as clearly as if they were next to them but can also see the distances between them.  The rock seat at Chai Sedo is said to be a scale on the Earth Dragon's head, but you can see clearly now that the north and south sides of the Gateway to the Land of the Burning Sands appear as arms, and as the sky above presses down, and the weight of the air threatens to crush the world beneath it, the arms of the Earth Dragon hold up the sky.  You also see the Burning Sands desert, not as a stretch of land, but as a barrier, not between places but between worlds, a shimmering veil separating one world from another.
+The PCs find themselves standing on the Moto steppes, between the Twilight mountains and the Burning Sands Desert.  They can see both of these things as clearly as if they were next to them but can also see the distances between them.  The rock seat at Chai Sedo is said to be a scale on the Earth Dragon's head, but you can see clearly now that the north and south sides of the Gateway to the Land of the Burning Sands appear as arms, and as the sky above presses down, and the weight of the air threatens to crush the world beneath it, the arms of the Earth Dragon hold up the sky.  You also see the Burning Sands desert, not as a stretch of land, but as a barrier, not separating places but separating worlds, a shimmering veil dividing one world from another.
 
 To be clear, these things look to you as they have always looked, but you are seeing now with eyes unclouded, and you can see that they have always looked this way, because this is what they have always been.
 
@@ -4658,13 +6035,13 @@ Eguden Yeke translates for the Uru, as he apparently speaks Salaam.  After the U
 
 That was the second scene of the dream quest.  Here there were deeper secrets to be learned, and I have a separate rules system for dream quests which is used to determine how successful the PCs are and how damaging this can be.
 
-## The Moto
+### The Moto
 
 With gaijin covered, the discussion turns to the Moto.
 
 One of my past campaigns (the "Hidden Way" campaign) involved the Moto Family of the Unicorn Clan, which are loosely based on the peoples of Mongolia (in the same way that Rokugan is based on samurai Japan with a bit of Imperial China thrown in).
 
-### Moto Etiquette
+#### Moto Etiquette
 
 Moto culture is much less cultured and reserved than Rokugan.  In the civilized world, people would be shocked and appalled at an exchange like this:
 
@@ -4684,7 +6061,7 @@ This can create awkward situations for people, especially those with Short or Lo
 
 However, the rule of thumb is that so long as you're willing to sit down and eat and drink with them afterwards, brawling with someone who has insulted you doesn't ruin your reputation/standing/relationship with them.  It may even improve it!
 
-### Moto Tribal Structure
+#### Moto Tribal Structure
 
 The Moto mainly live in nomadic extended-family groups.  An individual group ranges from several dozen to several hundred.  Individual families within the group have their own brands, which they use to mark their horses and cattle.  (Sheep are often marked with ink on their wool.)
 
@@ -4692,7 +6069,7 @@ A "clan" consists of a collection of these extended family groups, "led" by a kh
 
 Because the word "clan" already has a defined meaning in the Empire, the civilized world refers to the Moto clans as "tribes", whereas they refer to themselves as "clans".  The PCs are savvy enough to be assumed to be using the correct terms in the correct company, and the GM will specifically explain if there's ever a situation where there's not a single expected usage, letting the PCs decide which people to upset if necessary.
 
-### The Moto Daimyo
+#### The Moto Daimyo
 
 The "Moto Clan" (or "Moto tribe") is the "ruling" tribe of the Moto.  The word "Moto" literally means "human", so they are the "Human clan" in their language.  The khan of the Moto tribe is always officially the daimyo of the Moto Family according to both the Imperial and Unicorn Clan governments.
 
@@ -4704,13 +6081,13 @@ Even when there is no "khan of khans", groups of khans will sometimes come toget
 
 Imperial official documents refer to "khuraldai" as the Moto word for "chancellery", which is not entirely wrong, since that's probably the closest analog for the concept.  However, because Moto society is so differently structured, an uninformed person who hears "Moto chancellery" would get entirely the wrong idea.
 
-### Moto Language
+#### Moto Language
 
 Our maps separate Moto lands into "eastern" and "western" halves, which basically means "do the local tribes speak Rokugani or do they only speak Moto?"
 
 Eastern Moto are mostly bilingual because Rokugani has been the official language in the Empire for so long and the most successful Moto have needed to be able to communicate with the Unicorn Clan (and sometimes Imperials) for centuries.  It's unclear whether most eastern Moto are bilingual or if it's just the wealthier and more successful ones.
 
-### Approaching a Moto Tribe
+#### Approaching a Moto Tribe
 
 The PCs may occasionally want to approach a Moto tribe to speak with their leader.  Here's what that usually looks like.
 
@@ -4726,7 +6103,7 @@ The PCs may occasionally want to approach a Moto tribe to speak with their leade
 
 - Depending on how well things go, the PCs will either be taken to the khan, or they will need to prove themselves in some way.  Because of the aggressive and insulting style of Moto communication it would not be uncommon to need to engage in some form of physical competition prior to being taken to the khan, either brawling with them or engaging in a wrestling match or a feat of horsemanship or an archery contest, etc.
 
-### Moto Lands
+#### Moto Lands
 
 On paper the Moto are only 1 giant domain approximately 400 miles wide and 250 miles deep.
 
@@ -4746,7 +6123,7 @@ The Burning Sands desert marks the western and southern borders of Moto lands, w
 
 Interestingly, there are suddenly a lot more wealthy Moto than ever before, both because of their recent raids on Lion lands and because of the Emperor's material support of Moto Gaheris.
 
-### The Vindicator Moto
+#### The Vindicator Moto
 
 The Burning Sands desert surrounds Moto lands on its western and southern borders.  The Shadowlands Taint is transmitted through water, and the Burning Sands desert therefore forms a barrier against the Shadowlands.
 
@@ -4756,7 +6133,7 @@ They are mainly a normal nomadic tribe (like most Moto), but their holy place is
 
 (It has since been explained to the PCs in the Hidden Way that Bodi Kaikhan is in fact a shrine to the 4 Gods of Death rather than to Emma-O specifically.)
 
-### The Gods of Death
+#### The Gods of Death
 
 Moto religious practices are often different from those of the rest of Rokugan, and one thing that the PCs encountered was that the modern Moto are in the process of bringing back "the old ways", which involves worship of the Gods of Death.  Here is some information about this.
 
@@ -4850,7 +6227,7 @@ It's unclear what exactly the souls of the dead have to offer Wei Tin in cases w
 
 Pilgrims to Bodi Kaikhan wishing to commune with the spirits of their honored ancestors pray to Wei Tin to assist them, and this is surely what Moto Gaheris must have done before swearing his vows and forging his covenant to the Gods of Death.
 
-### Moto Rank
+#### Moto Rank
 
 The Moto do not award rank in the same way as the rest of the Empire.  This came up briefly in a recent session, though the matter did not have to be officially adjudicated at that time.
 
@@ -4904,7 +6281,7 @@ These sections emphasize the difficulties in integrating the Moto with the rest 
 
 The Moto also practice a fundamentally different kind of horse culture than the rest of Rokugan, so this section outlines first how normal ("Stable") horse culture works and then discusses how the Moto vary from the norm.
 
-### Stable Horse Culture
+#### Stable Horse Culture
 
 Horses are expensive.
 
@@ -4928,7 +6305,7 @@ The best horses come from Unicorn lands, who have spent a thousand years breedin
 
 - The Moto have the best (and most numerous) pack horses, which are especially suited to cold climates.  See below for an explanation of the Moto approach and how it differs from everything above.
 
-### Wild Horse Culture
+#### Wild Horse Culture
 
 Horses grow like weeds in the Moto steppes.  There's plenty of grazing land, but not enough to keep the horses all in one place.  The Moto therefore build pens and let the horses (as well as their sheep) out to graze during the day, counting on most of them to return at night.  After a while, the animals will have grazed enough that they will be herded to a new area, where a different pen will be used.
 
@@ -4940,7 +6317,7 @@ There are plenty of traders who buy horses cheaply in Moto lands for only a few 
 
 Outsider Keep uses both cultures of horse keeping - they have a pen and herdsmen who keep a herd of Moto horses outside the keep, as well as a stables inside the keep where they keep their prize Shinjo riding horses.
 
-### Hay
+#### Hay
 
 Both the Moto and the rest of the Empire use a lot of hay.  While the Moto primarily graze, their horses may struggle to all do enough rooting in the snow in the winter months to feed their massive herds, especially since moving from place to place is more difficult in the winter.  And in the rest of the Empire, horses without grazing land rely on food such as hay to maintain their diet.
 
@@ -4954,27 +6331,7 @@ The Moto army invading Uru lands appears to have in excess of 50,000 horses, as 
 
 Transporting hay can be a hassle because of its weight and awkward density.  Hay weighs about 10 pounds per square foot.  This makes it heavy enough to require teams of oxen to pull haywagons, while still making volume the limiting factor rather than weight.  A standard wagon can only hold about a ton of hay.  A standard haycart can hold multiple tons.  Large haycarts can hold up to around 5 tons.  This means that in addition to other requirements, if the Moto wished to feed their army's horses using only hay, they would need about 100 large haycarts arriving every day.  This would be a gargantuan effort, though still plausibly within the capabilities of the Otaku.
 
-### Food Purity
-
-The Moto also have completely different expectations around what foods are acceptable to eat.  There aren't many places in the area where being ritually unclean will be an issue, though the shrine at Chai Sedo is definitely one of them.
-
-There are many things which can make a person ritually unclean.  Being "unclean" doesn't imply being in a state of sin, but uncleanliness should not be mixed with holiness, and so people who have entered a state of ritual uncleanliness need to purify themselves before they can enter a shrine or temple.
-
-The Moto don't maintain cleanliness rules, though they evidently have enough comparable concepts that they are usually good about checking before entering a non-Moto shrine or temple - after all, no Moto would want to incur the wrath of a divine being for failing to show it respect or violating one of its taboos.
-
-This section focuses on how long it takes for someone to be capable of fully cleansing themselves after having eaten different things.
-
-Eating fish is not unclean and requires no cleansing whatsoever.
-
-Eating pork or poultry is ritually unclean, but a simple ritual purifying bath is enough to cleanse a person with no delay.
-
-Eating rabbit, venison, or sheep requires a special cleansing ritual at a shrine or temple.
-
-Eating goat falls into the same category as rabbit/venison/sheep UNLESS the goat was slaughtered on a particular day of the week and according to the correct ritual process, in which case it is like fish and requires no cleansing because the ritual by which it was slaughtered has already performed the necessary cleansing.  Goat is referred to as "mountain tuna" for this reason.
-
-Eating horse or cattle makes you unclean until more than a full month has passed - after that you can cleanse yourself after the beginning of the following new moon.
-
-### Moto Laws (the yassa)
+#### Moto Laws (the yassa)
 
 The Moto word for "law" is Yassa, which actually means "secret writings".  This is because their legal code is deliberately secret.  Only a khan and his designated advisors are permitted to read the legal code, to prevent the letter of the law from being used to abuse the spirit of the law.
 
@@ -4984,11 +6341,11 @@ The Kuraldai mainly handles cases between members of different Moto tribes, thou
 
 Cases that come before the Kuraldai are not public and in particular the Kuraldai's records are secret.  However, those who come before them are not forbidden from speaking about their cases, so there's a lot of public knowledge even if it's mainly from biased sources.  Khans are also allowed to speak of cases which come before them, so they are generally a more reliable source.
 
-#### Categories of cases
+##### Categories of cases
 
 Most cases you're told about fall into one of several broad categories.
 
-##### Tribute cases
+###### Tribute cases
 
 When individuals or groups get into arguments and decide to resolve them through some sort of martial contest, the winner often takes tribute, as is their right.  However, those who take too much are sometimes accused of exceeding the bounds of tribute and crossing over into taking plunder.
 
@@ -4996,7 +6353,7 @@ The distinction between "tribute" and "plunder" is an important one in Moto law,
 
 These kinds of cases are usually taken to the khans of the two tribes involved first.  Tribute cases are different from other cases in that typically the khans themselves represent their tribes even if they were not directly involved in the original dispute which led to the tribute being taken.
 
-##### Raid cases
+###### Raid cases
 
 Moto families frequently ride through each other's territories, which is not forbidden but often leads to altercations.  This sometimes escalates, when someone who was insulted might return to repay the insult.
 
@@ -5004,7 +6361,7 @@ What distinguishes a "tribute" case above from a "raid" case is that a tribute c
 
 What constitutes a "raid" is also not clear.  For instance, sometimes when traveling through another tribe's territory, a group of Moto will be told to stop on suspicion of being thieves, and then a fight ensues.  There's not a widely known or understood standard for when this is and isn't able to be demanded.
 
-##### Theft cases
+###### Theft cases
 
 Cattle and horses are branded, and sheep are painted/inked, with all marks indicating their owners.  However, because animals are self-transporting, they sometimes end up in the wrong place.
 
@@ -5014,7 +6371,7 @@ Animals are also sometimes killed on raids rather than taken.  It seems to be th
 
 In general, someone is expected to be allowed to inspect their neighbor's herds for animals who wandered off.  There are several cases where someone refused to allow this, and the ruling was over whether that refusal was justified.  Sometimes it is and sometimes it isn't - the attempted justification is usually some variant of "you insulted me so I told you to get lost and send someone more respectful".  However, it's not clear exactly what standard is being applied to distinguish between when this is and isn't allowed.
 
-##### Love and marriage
+###### Love and marriage
 
 If a man and a woman have consensual sexual relations, then either party may demand that they be married.  This may not be refused, though in practice sometimes one side or the other denies that they were ever together.  There are a number of cases which come before the Kuraldai when members of different tribes have such dalliances.
 
@@ -5022,7 +6379,7 @@ It is more common for women to demand marriage than men, though there are also p
 
 There are very few Kuraldai cases involving non-consensual encounters, probably because the Kuraldai only handles matters involving different tribes, and when individuals or small groups of people from different tribes encounter each other they're almost always all men, as Moto women are expected to remain close to the large family units to tend to the communal flocks and herds.
 
-##### Perjury
+###### Perjury
 
 Anyone giving testimony in a case swears an oath to the Kuraldai.  The oath is sworn by Hiderigami, the fortune of drought, while pouring a heavy bowl of water upon the dusty earth as the oath is spoken as an offering to Hiderigami.  This ensures that perjury will result in drought afflicting the family of anyone who forswears themself.  In addition, anyone caught telling a lie during their testimony is put to death - given the need for truth to be spoken and the consequences of lying, this seems to be the only known punishment for perjury.
 
@@ -5030,7 +6387,7 @@ However, in most cases where a ruling would imply perjury, the sentence of perju
 
 Relatedly, sometimes a drought occurs shortly after a case comes before the Kuraldai.  In such cases, perjury is often assumed to have occurred on the part of the afflicted family, and sometimes cases are reassessed as a result.  This can lead to a prior case being overturned and one side potentially being put to death as a sentence for having perjured themselves.
 
-##### Miscellaneous specific cases
+###### Miscellaneous specific cases
 
 - Some members of the Suicide Rider Clan entered the territory of the Slashing Goat Clan.  After getting into an argument and being insulted, they hurled insults in return and rode away.  They were followed by a Slashing Goat rider to watch them.  They turned around and captured the rider, tying him to a tree and then riding back into Suicide Rider lands.  The man they tied up died of thirst before he was found.  The Suicide Riders claimed they had no reason to believe this would happen, since he was still in Slashing Goat territory.  The Kuraldai ordered them to be buried up to their necks until they themselves died of thirst.
 
@@ -5040,13 +6397,13 @@ Relatedly, sometimes a drought occurs shortly after a case comes before the Kura
 
 - Some farmers (which do actually exist in Moto lands, there just aren't nearly as many of them as anywhere else) had been suffering a rash of chicken thefts.  Some visiting members from the Moto Clan were confronted by some local Vindicator clansmen, who demanded to search them and take an accounting of their whereabouts.  An altercation resulted, in which two Vindicator clansmen and one Moto clansman were killed.  The Kuraldai ruled that no further action was needed - the Vindicator were presumably within their rights to request a search, and the Moto were presumably within their rights to refuse, and the fight was therefore mutually agreed upon.  Or something.  Rulings are not always explained, and it's not clear what the underlying logic was.
 
-#### Rules of warfare
+##### Rules of warfare
 
 Moto Jochi explained that the Yassa shall apply to the Uru during warfare against them.  This means that any non-Moto participating in warfare may be penalized for violating the Moto rules of warfare, even if they do not know those rules in advance.  The Moto view is not as simple as "ignorance of the law is no excuse" but rather that the righteous have nothing to fear from the Yassa, and men who act with strength and virtue shall be vindicated in their actions.
 
 Jochi explained the rules the PCs would be bound to.
 
-##### Forbidden death and plunder
+###### Forbidden death and plunder
 
 - Women and children are not to be harmed.
 
@@ -5070,7 +6427,7 @@ Jochi explained the rules the PCs would be bound to.
 
 - Any dwelling other than a farmhouse may be destroyed through fire or other means, but a farmhouse may not.  Other buildings which may exist on a farm such as a barn or stables may also be destroyed.
 
-##### Terms of surrender
+###### Terms of surrender
 
 Gaheris' goal is not the eradication of the Uru people, but rather the death of their khan Timur Beg and the loyalty of the surviving Uru under a new khan who obeys him and rides to war under his banner.  Gaheris is therefore invested in how surrender shall be taken.
 
@@ -5094,7 +6451,7 @@ Because of the language barrier, the intention is to wait with prisoners until a
 
 This procedure shall happen twice, once for each oath.  The second oath shall not be administered until all Uru down the line have sworn to the first oath, to keep the oaths and their penalties separate.  It is important to Gaheris that these be separate oaths.
 
-##### Pillage rights
+###### Pillage rights
 
 Jochi is Gaheris' tribute administrator, so this is where his knowledge is strongest.  Jochi explicitly said he is not among those permitted to read the written Yassa, and therefore his knowledge is only what has been explained to him by people from that group.
 
@@ -5114,7 +6471,7 @@ Jochi is Gaheris' tribute administrator, so this is where his knowledge is stron
 
 The family of Moto Jochi has representatives and assistants in each Moto legion, and they will inventory everything taken to ensure a fair split.  Chenghiz will say that "none would dare interfere or refuse inspection" from Jochi's family.
 
-#### Rulings under Gaheris
+##### Rulings under Gaheris
 
 The Tuesday group asked around about Gaheris' rise to power and how he has treated his opponents as daimyo of the Moto.  Thus far, they have specifically spoken to members of the Moto Clan and the Vindicator Clan.
 
@@ -5230,7 +6587,7 @@ What follows is intended to be a near-complete copy of the "partial" Yassa which
 
 To the extent that the above laws constitute the bulk of Moto laws, it's notable how many things aren't written down.  There's basically nothing procedural, and even most simple laws and customs seem to be simply practiced rather than recorded.
 
-## The Burning Sands Desert
+#### The Burning Sands Desert
 
 Something I like in worldbuilding is when there is genuine ambiguity around the nature of something within the setting.  For such an example of "legitimate" debate, consider the existence of the Burning Sands Desert.  The following is also drawn from some of my notes from a previous campaign:
 
@@ -5240,7 +6597,7 @@ It's unclear why such a large area is made up entirely of desert - this is said 
 
 It is widely agreed, both in Rokugan and even among gaijin, that Lady Sun is responsible for the state of the desert, though people disagree on why and how this came to happen.  The following sections summarize several differing accounts of how the Burning Sands desert was created by Lady Sun.
 
-### Gaijin Fables
+##### Gaijin Fables
 
 According to stories passed down through the Hidden Way, the Burning Sands desert is said by gaijin to have once been a lush and fertile land.  The region was cursed by Lady Sun, though different groups in Medin al Salaat have different explanations as to why.
 
@@ -5248,13 +6605,13 @@ According to the Ashalan, Lady Sun was once imprisoned there by the forces of th
 
 According to the Almekhem, the King of Jinn invaded the night sky with his armies, put out most of the stars in the heavens, and caused Lord Moon to fall into a deep slumber.  He then imprisoned Lady Sun in a prison made of his own awful face.  After the war between men and jinn, the power of jinn was sealed by invoking the power of Lady Sun, and this seal burned away the water of the ocean and greenery of the land which lay where the Burning Sands desert now lies.
 
-### Blessings and Curses
+##### Blessings and Curses
 
 There are a number of stories of how and why the desert was scorched.  Shosuro, the priestess queen who swore fealty to Bayushi during the founding of the Scorpion Clan, explained that the gods appear to humans from behind masks.  Rivers and oceans are merely the masks worn by the water kami, just as ground and mountains are the masks of the earth kami.  What we see in the sky during the daytime is only the mask worn by Lady Sun, whose true form we cannot comprehend.  The desert is what remains in the aftermath of Lady Sun briefly removing her mask, casting her true gaze upon part of the mortal world for only an instant.
 
 The Togashi monks have no one canonical story of how the desert came to exist, but they question the assumption that the desert represents Lady Sun's anger or displeasure.  The desert seems to command more of Lady Sun's attention than other places, this is true.  Yet does that not imply that this land has her favor?  The attention of divine beings can be terrifying, but if Lady Sun's blessing appears to be some form of curse, then does that not simply raise questions about how we understand blessings and curses and whether there is even any difference between them?
 
-### Lady Sun's Apology
+##### Lady Sun's Apology
 
 "This book is a hoax, planted in libraries around the Empire by Isawa Akuma in the 5th century.  Although its contents are fraudulent, it is believed to be adapted from other works whose authorship is unknown, and therefore it has not been banned by the Imperial Ministry of Rites.  Anyone who discovers a copy of this book without this disclaimer is ordered to report it to the office of the Jade Champion."  (The quoted paragraph is the legally mandated disclaimer which appears at the beginning of every legitimate copy of the book Lady Sun's Apology.)
 
@@ -5272,1377 +6629,7 @@ Although this book is a hoax, it's an extremely puzzling one for a number of rea
 
 As for Akuma's motives in publishing the hoax, the commonly accepted conclusion is that Akuma wanted to spread the idea that the Shadowlands taint is not inherently evil, and that Heaven originally planned for humanity to overcome it.  Indeed, the book makes reference to members of The Race cleaning up after rituals performed by tsukai, to prevent the Shadowlands taint from upsetting the kami.  This implies that tsukai were originally intended by heaven to be capable of practicing maho without upsetting the kami, which seems like the kind of thing an oni-summoning tsukai shugenja such as Akuma would want people to believe.
 
-## The Fortunes
-
-While some historical polytheistic religions have a concept of gods who are basically just humans with superpowers, I don't want that at all for my fictional setting of Rokugan.  The idea that the fortunes are part of the fabric of reality is a core part of the theology of my worldbuilding.
-
-In my version of Rokugan, one question which arises is why the fortunes do not give clearer direction to humanity.  Of course, this is a question real-world theologians have also had to grapple with in basically every world religion, and Rokugan is (as a reminder) intended to be "the kind of world historical people genuinely believed themselves to be living in".
-
-Kitsu Okura wrote the book "On the Relationship between Man and the Fortunes" 300 years ago, which sought to tackle this question.  He identifies what he calls "the six doctrines" which attempt to explain this mystery.
-
-Here is the introduction to that book, which I wrote as a "primary source document" for my players to read.  Hopefully this will help explain these concepts as well for the purpose of generating vows:
-
-We seek to know the will of the fortunes, to follow their guidance, to gain their favor, and to teach our children to do the same.  Few accomplish any part of this undertaking, for the ways of the fortunes are inscrutable.  Even those lucky and unlucky few whom the fortunes contact directly seldom comprehend the messages they've received.
-
-Why should this be?  Why do the fortunes not communicate their desires more clearly?  When their instructions are misunderstood, their wishes often go unfulfilled.
-
-I have traveled the world, combed through every library of note, and interviewed every living authority with wisdom to offer, from Isawa no Naka Kuro to Togashi Hoshi to the Council of Elemental Masters to the Qabal of the Sahir.  All collected wisdom on this topic divides roughly into six major doctrines, which I shall articulate herein.  All of them are wrong, and I shall explain in this treatise the particular failures of each to explain the immense complexity of the ways of the fortunes.  Yet each doctrine contains a glimpse of the truth, so by comprehending each well enough to studiously reject it, we bring ourselves closer to true understanding.
-
-What follows is a brief summary of the six doctrines, each corresponding to the lengthier section of my treatise in which I expound and catalog their merits and flaws.
-
-1. Just as we cannot truly comprehend the will and nature of the fortunes, they struggle to understand our limited minds.  Being so vast in their existence, the fortunes speak to us as we might attempt to communicate with worms.  The more attention and effort is brought to bear, the more danger the worm may be crushed by the weight of the superior being.
-
-2. The fortunes push against one another with their very existence.  Consider the forces which direct human behavior.  Fear, desire, regret.  Loyalty, compassion, courage.  Love, hate, joy.  When we break our normal routine to attempt some great endeavor, it means those forces within ourselves are out of proportion and an overflowing of some emotion spurs us to action.  So too with the fortunes, who collectively maintain the balance of the world itself.  When a fortune commands mortals to act, their instructions are muddied by the thousand other fortunes pulling in a thousand other directions.
-
-3. Our struggle to better understand their instructions is what the fortunes truly desire.  When the teacher sends his pupil on a pilgrimage, it is often the journey and not the destination which matters.  Likewise, after completing some great enterprise on behalf of the fortunes, we must consider whether the task itself was their goal, or the result it produced within us as we struggled to obey them.
-
-4. The fortunes desire only the greatest and most dedicated followers to be rewarded with their blessings.  Why should they squander power and effort on those who will fail to act without clear instructions?  By giving enigmatic directions, only their shrewdest and most resourceful disciples will succeed and prove worthy of being imbued with their power.
-
-5. Communicating their will unambiguously carries a high price, which is rarely worth paying.  Lesser spirits are easily understood by humans, but the fortunes must reduce themselves to such an inferior existence for a time when they choose to communicate clearly.  Why should they bear that burden when their mortal servants are already given sufficient direction to discern their will?
-
-6. The fortunes are vast in their existence, but humans are deep in our nature.  We are composed of many disparate parts, and a single fortune is the avatar of only a single piece of our composition.  While that existence has a weight far beyond mortal man, in a sense it is we who are the giants, for we are constructions of all the fortunes combined.  The fortunes are clear to any who listen, but we so rarely pay our attention to whatever small part of ourselves speaks their will that we wrongly call the fortunes unfathomable.
-
-Note that all of the above continues the running theme of the fortunes as cycle/connection entities which make up the fabric of reality.  Moreover, these doctrines highlight the dynamic nature of the relationship between the fortunes and humans.  Whether it's the struggle to understand their instructions, the selective rewarding of their most dedicated followers, or the transformative impact of undertaking tasks on their behalf, these doctrines suggest that the relationship with the fortunes is not just about receiving clear, direct guidance, but also about personal growth, self-discovery, and connection with the deeper truths of existence.
-
-This makes the concept of swearing a vow to a fortune all the more significant, as it's not just a promise to an individual deity, but a commitment to engage with a fundamental aspect of reality and existence.  This commitment is not just about following a set of rules or achieving specific outcomes, but also about embracing the challenge, uncertainty, and transformation inherent in the process.
-
-Some extra information about the names of fortunes in this setting follows, in case it matters.
-
-Many stories about fortunes involve a human becoming a fortune after their death.  This can be confusing because the aspect the fortunes represent always predates the death of that human.  When a human becomes a fortune, this generally means one of two things.
-
-In most cases of a human becoming a fortune, the person was so in tune with a particular fortune that upon their death their soul does not descend into Jigoku (the underworld) but instead becomes one with the fortune.  The Emperor will then officially recognize this, and thereafter anyone referring to that fortune will have a name that can be used to identify and connect to that fortune in their religious practices.
-
-In other cases, the Emperor may use his divine power to elevate a person's soul, causing them to become one with a fortune after their death.  This helps someone who is deemed worthy but whose life was too short to have reached this point on their own.  This helps both the person and all of humanity by providing the world with a name to which they can direct their prayers and offerings.
-
-In both situations, the fortune existed prior to the death of the human and being given a human name.  Many fortunes went by multiple other names in the days before the Great Ancestors brought civilization to humanity.  Although it is not heretical to refer to fortunes by other names, it's considered uncultured and demonstrates ignorance of proper doctrine.
-
-This is my way as the GM of resolving all of the stories of people "becoming" a fortune upon their death.  When a human "becomes" a fortune, it's more about the human's soul merging with, or becoming aligned with, a pre-existing facet of reality represented by the fortune.  The individual doesn't create a new fortune, but rather becomes part of an existing one, which reflects their deep connection with the principle or aspect of life that the fortune embodies.  The naming of fortunes, whether through recognition by the Emperor or association with a particular human, is a way for people to more easily understand, relate to, and connect with these complex and profound forces.
-
-In other cases a fortune has been identified by name without using a name which once belonged to a human.  For example, Bishamon, the Fortune of Strength, has always been known as Bishamon, rather than being named for any specific, identifiable human with that name.
-
-I mentioned "Doji Shizue and the Secrets of Calligraphy" before, and in Rokugan there is a play with that title.  In the play Shizue has sought out the advice of the shugenja Kitsu Okura.  The family line of Kitsu Okura denounces this scene, which is the only scene in which Kitsu Okura appears, though his descendants have declined to say which specific part is not accurate or fails to reflect their family understanding of the fortunes.
-
-Here is the scene, which I wrote as an in-universe example of how some people talk about the fortunes:
-
-### Doji Shizue and the Secrets of Calligraphy (Act 2, Scene 2)
-
-**Okura:**  Suppose that you were touched by the Fortune of obedience, whom I shall not name here.  Consider for a moment what would follow.
-
-**Shizue** *(frowning):*  Is there such a Fortune?  I have not encountered such in my studies, not in any library in the Empire.
-
-**Okura:**  Pfaw!  I spoke the word 'obedience' and you felt my meaning.  Are you foolish enough to doubt the existence of its Fortune simply because lesser scholars have failed to learn his name?
-
-**Shizue:**  Apologies.  What effect would result from being touched by the great Fortune of obedience?
-
-**Okura** *(sharply):*  Did you not tell me you'd studied such things?
-
-**Shizue:**  Yes of course.  I imagine... my loyalty to my lord would increase, while my subordinates' loyalty to me would likewise increase.
-
-**Okura:**  Ha!  You assume a human sensibility from a divine being.  Obedience is not loyalty, and it is loyalty rather than obedience which Akodo identifies as a virtue of bushido.  And your Fortune would care nothing for any virtue, only that you obey your orders without thought, question, or hesitation.
-
-**Shizue:**  I see.  I would need to cleave my own judgement apart from my loyalty, leaving merely dumb obedience.  Only then would my service to the fortune be rewarded.
-
-**Okura:**  And what do you imagine your reward would be?
-
-**Shizue:**  Good luck and prosperity, especially in the sphere of the fortune's influence.  My lord would know I would never betray him - could never betray him - and would grant me authority over many households.  Those under me would find themselves possessed of a share of the same obedience I cultivate in myself.
-
-**Okura** *(amused):*  You are not... entirely wrong.  Yet you underestimate the cost of your service, as well as its rewards.  Tell me, if your obedience increased beyond normal human capacity, what pieces of yourself do you imagine would likewise decrease?
-
-**Shizue:**  Certainly all forms of treachery... but that would not be enough.  By choosing dumb obedience, I would sacrifice away my capacity to pass judgement and decide right from wrong.  Taken far enough, I may lose even the ability to comprehend what outcomes my actions may have, since all that would matter to me is that I obey my lord.
-
-**Okura:**  Indeed.  You would find yourself with the contentment of the Enlightened, blissfully instrumenting your daimyo's will.  Yet you might also struggle to remember, as you looked at the faces of your children, what it means when they smile or frown.
-
-**Shizue:**  Oh my.  Can any balance be struck?
-
-**Okura** *(derisively):*  With the Fortune of obedience?
-
-**Shizue:**  Oh.  I suppose not.  If my daimyo wished otherwise, I might be unable to choose balance over extremity.  Given time, I might be unable to even comprehend the concept.  But surely this is not the case with every Fortune!
-
-**Okura:**  Are you a gambler?  If you find such consequences unacceptable, would you still choose this path on the wager that you escape them?
-
-**Shizue:**  ... for the sake of my family I would sacrifice anything.  Even my humanity, though I pray this shall not be required of me.
-
-**Okura:**  Then answer me this: what separates the Seven Fortunes of Good Luck from the remainder of the Thousand Fortunes?
-
-**Shizue** *(confused):*  They are the Great Fortunes, and the remainder are the Lesser Fortunes.
-
-**Okura** *(forcefully):*  Wrong!  There is no Greater or Lesser, any more than a chain has a greater or lesser link.
-
-**Shizue:**  Why then are the Seven elevated above the rest?
-
-**Okura:**  An intelligent question!  Hard enough to comprehend why it should be asked, and harder still to answer.  Name the aspects of the Seven Fortunes.
-
-**Shizue:**  Romantic Love.  Strength.  Contentment.  Wealth.  Longevity.  Honest Work.  Mercy.
-
-**Okura:**  A strange assortment of things.
-
-**Shizue:**  I'd never considered... how were these Seven selected?
-
-**Okura:**  As you know, by the Hantei in consultation with the Shinsei through wisdom far beyond either of us.  But you ask the wrong question.
-
-**Shizue:**  Ah.  To what goals did the Teacher and the Son of Heaven aspire in their selection?
-
-**Okura:**  You shall not believe me.
-
-**Shizue:**  I shall!
-
-**Okura:**  All extremes lead to disaster.  The Fortunes are extremity itself.  Yet it is by their favor that humanity has won its way into the Age of Man, so we must court disaster through worship of those extremes.  The Seven Fortunes are the least disastrous combination of extremities.
-
-**Shizue:**  I... can see the disaster in tragic love, the immoral acquisition of wealth, the brutality of war... but certainly there is greatness as well as disaster.
-
-**Okura:**  Indeed.  And that is the balance you seek.  Not between the Fortune's values and your own, but between greatness and disaster.  And not the middle ground between them, but the future which encompasses both in equal measure.  Is that what you seek?
-
-**Shizue:**  I... don't know.
-
-**Okura:**  Had you given any other answer, I would have sent you away.  But I think I can see the shape of your future.  I shall describe your destiny to you, and then you may decide whether to walk away.
-
-*End Scene*
-
-The description which Kitsu Okura gives in this fictional account of a real encounter is not strictly heretical, though it differs from how the 7 Major Fortunes of Good Luck are generally described.
-
-With that being said, one concept which the wise do understand in Rokugan is the extent to which being closely connected with any Fortune, or indeed any divine being, profoundly changes any human being.  Someone might set out to gain the power of a Fortune because of some goals, and by the time they have attained the favor and power with which to accomplish that goal, they find their original plans no longer hold value to them.
-
-## Between Places
-
-The focus now returns to Rokugan itself, specifically some miscellaneous setting details worth highlighting.
-
-The Forgotten Tomb has been referenced repeatedly above, as a recurring example of a general category of place known as one of the "between places" - places which are coexistent between two different realms.
-
-Here's another introduction that I wrote for a different adventure, in which the PCs journeyed deep into a cave to meet with a gaijin shaman-woman who they believed had wisdom to share with them:
-
-The morning light fades quickly behind you, being already mainly blocked by the Twilight Mountains.  As you walk deeper into the cave, the light from your lanterns begins to spread out in front of you.  Normally a lantern radiates light, illuminating closer things more brightly than distant surfaces.  But as you walk into the tunnel, you find that very little light is cast behind you, and the light in front of you is so dissipated that it creates the effect of an ambient glow, illuminating the passage evenly.  You quickly find that you can see the turn in the tunnel 20 feet ahead of you as clearly as the hand in front of your face, though the same does not apply to the path behind you, into which the light quickly scatters and disperses into the darkness.
-
-As you go deeper, you find that the smoke from your lantern also intensifies, but without the lantern itself flaring as it would if it encountered marsh fumes or mine gases.  Instead, the smoke rolls out in waves onto the floor ahead of you, being carried faster and more intensely than the slight breeze at your backs can account for.
-
-Eventually you come to a dip in the passage, where most of the tunnel is submerged in water.  The water is quite cold, and ordinarily you might prefer to avoid it as much as possible, to avoid frostbite or worse.  But the smoke from your lantern seems to have multiplied, possibly joining some existing smoke hovering above the water.  Indeed, the smell of the smoke has shifted, the oily smoke of your lantern mixing with the smoke from some other fires which must be burning ahead.  As people familiar with mines as "silver miners", you feel confident that the vapors you're encountering are not the "damps" of mine gases, and in fact the smoke seems unnatural.
-
-You are entering one of the "between places".  People have sometimes gotten lost in the Shinomen Forest only a hundred miles from the Gateway to the Land of the Burning Sands and exited the Isawa Woodlands in Phoenix lands.  The Shifting Islands around the Mantis Isles are another example, where children playing have fallen asleep and woken up off the coast of Otosan Uchi.  Depending on the makeup of this place, you might find an exit out into the Ivory Kingdom.  Though of course, the most dangerous type of "between places" are the ones which are coexistent between different realms.  The Forgotten Tomb simultaneously exists in the mortal world and in Yomi, the realm of the honored dead.  Regardless of what type of place you are in, this may be your last chance to turn back.
-
-### Touched by the Supernatural
-
-A recurring concept in this setting is that people who encounter supernatural entities are "touched" by the experience, in ways which can be seen as both a blessing and a curse.
-
-#### Kuni Isamu at the Forgotten Tomb
-
-For example, I was looking at some of my notes for a past campaign, in which Kuni Isamu was a Witch Hunter who visited the Forgotten Tomb, a "between place" which exists simultaneously in the mortal realm and in Yomi, the realm of the honored dead.  While he was there, he visited the Classrooms of the Great Masters to seek guidance and instruction on how to be a better Witch Hunter and how to seek out bloodspeakers.  He was granted new insights and abilities but was also changed in ways which impaired his perception and ability to communicate.
-
-Here's what I wrote about how this worked after it happened:
-
-Some of this is vague and Isamu will need to discover over time the exact mechanics and how to trigger these newfound abilities, but here's what he knows now about what he's learned how to do:
-
-1. Isamu gained some ability to detect through interrogation whether or not someone has a connection to bloodspeakers.  A lot of cases are cracked not by interrogating bloodspeakers themselves, but by finding out about suspicious activities from their neighbors and relatives.  Unfortunately, even innocent peasants are typically fearful when being interrogated by Witch Hunters, which makes it hard to figure out who's actually hiding something.  Isamu has gained a "supernatural" ability to discern through successful interrogation rolls whether someone is connected to a bloodspeaker, though he will have to figure out the normal way whether that connection is as a friend, neighbor, relative, customer, etc.
-
-I put "supernatural" in quotes because the great scholars would say that the difference between a "natural" and a "supernatural" ability is a false distinction which demonstrates several fundamental misunderstandings about the nature of reality.  On the other hand, the Shinsei once said, "All explanations are false, but some explanations are useful."
-
-2. Bloodspeaker covens are often connected by members who move back and forth between covens in different cities.  Tracking these movements is tremendously difficult and Witch Hunters are rarely able to follow these chains and take down multiple linked covens in succession.  Isamu has gained a "supernatural" ability to see the patterns in a single coven such that with successful investigation rolls he can discern the next city in the chain.  He won't know where in the city to look, but when combined with his first ability, it should be significantly easier to find the "needle in the haystack" and continue the process.
-
-3. Witch Hunters already know the following things about Bloodspeaker covens:
-
-- Bloodspeakers trace their "lineage" through their teachers.  For
-example, the name "Jama no Iuchiban Kohaku" indicates that Kohaku was instructed personally by Iuchiban, and the name "Jama no Kohaku Hoshiko" indicates that Julie's character from the peasant campaign was personally instructed by Jama Kohaku, etc.
-
-- Different bloodspeaker covens therefore tend to be in different
-"families" in the sense that their lineages could theoretically be traced back to different lieutenants of Iuchiban, though much of the time the coven itself wouldn't even know which one.
-
-- There exist ideological variations between bloodspeaker "families",
-e.g. some covens seem to treat murdering samurai as a noble goal unto itself, while others treat it as a means to an end.  This is not well studied or understood, supposedly because the existing research hasn't yielded more effective techniques for hunting bloodspeakers.
-
-- These "families" were founded after Hiruma lands fell during the
-invasion of the Maw.  Evidently the bloodspeakers involved (led by Jama Kohaku) "protected" the peasants in Hiruma lands from the invading army and led them safely back into the Empire, but told them that anyone who wanted to join them as apprentices could learn how to wield the dark power they had witnessed.  Apparently so many peasants took them up on this that most bloodspeaker covens that exist today can be traced back to the peasants who accepted this offer.
-
-Interestingly, Isamu had no idea that any of this was true, but in the Classrooms of the Great Masters this was presented as existing knowledge already well understood by the Witch Hunters, which implies that for whatever reason this is a part of history which is kept secret even from most Witch Hunters.  Isamu has no idea why this would be the case, since it doesn't seem like particularly dangerous knowledge for Witch Hunters to have.
-
-Isamu has gained the "supernatural" ability to understand the different bloodspeaker ideologies, which will allow him to create "family trees" of covens over time.  Not only that, it would allow Isamu to understand the differences of opinion that exist between the different groups of bloodspeakers, and how closely the different groups work together.  Isamu can see a few ways in which this could lead to being able to hunt bloodspeakers more effectively, and the Great Teacher who gave this lecture promised that this was somehow the key to truly understanding bloodspeakers (though this claim seems hard to believe).
-
-However, as established earlier, there are advantages as well as drawbacks to seeing the world more clearly.  Isamu lost "three aspects" of the underworld skill, though each aspect of perception he lost is cross-cutting and relates to other skills as well.  It will take him quite a lot of time to figure all of this out, but here's what he'll come to understand about what he lost within the next few years:
-
-**1) Knowledge**
-
-Isamu no longer understands the distinction between something being legal or illegal.  This applies to physical objects, actions/behaviors, ideologies, etc.  None of this affects Isamu's drive to hunt bloodspeakers or fight the Shadowlands, since he was never motivated to do those things out of regard for the legalism of it.  Still, he's not going to comprehend what other people are babbling on about when they talk about legal precedents and such.
-
-Some would argue that Isamu has gained something here rather than lost anything.  All distinctions are false (though some distinctions are useful), so it's plausible that Isamu now understands the world so much better than everyone else that he has cast aside the simple untruth of "legality" and now perceives the world closer to how it truly exists.  His difficulty in communicating with others would therefore not stem from his own lack of understanding of a basic concept, but rather due to others' failure to grasp a much more complex concept which only Isamu comprehends.
-
-**2) Persuasion**
-
-Isamu can no longer construct persuasive arguments (e.g. make open or contested rolls) involving investigations into anything covered by the underworld skill.  This does include bloodspeakers.  He can still indicate a course of action he believes to be best, and he can still respond to patient questions if someone wants to ask for details about what factors led him to believe in that course of action.  Someone else could therefore argue on his behalf afterwards based on this knowledge.  However, if he was put on the spot by someone who disagreed with him, he would be incapable of arguing the point in a way that would be persuasive.
-
-Since Isamu is capable of arguing about other things, and since he's capable of explaining himself on things related to underworld, this is further evidence that he hasn't "lost" anything but is instead now operating on a higher level than everyone else.  The reason why he cannot engage in persuasive argumentation might be that he now possesses an understanding deeper than language can express, and he therefore cannot use this understanding to persuade anyone who lacks his insight into the true nature of the world.
-
-**3) Perception**
-
-Isamu can no longer perceive physical contraband.  In other words, if a physical object is illegal, he won't be able to perceive its existence.  He could be standing next to a giant pile of opium or watching people gamble over a dice game or looking directly at an obsidian sword and have no idea that anything illegal was in his presence.
-
-This is probably the best evidence *against* the argument that Isamu is now simply operating on a higher level than everyone else.  It's hard to see this as anything other than a handicap.  However, perhaps more study would reveal some deeper truth about this "disability" which would show it to not be that simple.  Like I said, the above explanations are simply what Isamu will come to understand within the first few years of living with these newfound perks and quirks.
-
-The following synthesizes some of the concepts discussed above with some more examples.  One thing this worldbuilding strives for is consistency: new concepts shouldn't contradict existing principles.  Or alternatively, if something is introduced which appears to be a contradiction, that contradiction should feel like a big deal - a new thing of that nature should cause characters to be shocked and unsure what to believe or think.  Ideas which don't seem to be consistent with the setting are sometimes discarded.
-
-On the other hand, cool and "wild" ideas can still work if they are integrated well into the underlying concepts.  Here's another plot hook that I used in a past campaign which I was happy with, so hopefully you can help me evaluate whether it fits well into the setting.  This was the follow up to the backstory of Kitsuki Fu, an NPC in a previous campaign:
-
-Eight centuries ago, there was a tsukai who lived in the forest east of the Shrine of Perfect Contentment, in what is now the Takaba falconry preserve.  Masayoshi (the monk who is the Bearer of the Golden Seal of Amaterasu) suspects that Takaba was this tsukai's name, because this was the name of the forest before it became a preserve for falcons, and the origin of that name has been lost while most other names from the region can be found in the Daidoji histories.
-
-Takaba lived centuries before Hantei Iuchiban became the first bloodspeaker, and thus he had no way to conceal the Shadowlands taint that his witchcraft brought into his body.  However, the Emperor's subjects were less vigorous in prosecuting tsukai in those days, so Takaba was able to practice his craft in the solitude of the forest.  He was sometimes sought out by peasants and samurai alike who desired his aid.
-
-One day he found that his obsidian knife had disappeared.  He performed dark divinations to discern its whereabouts, and tracked it to a nearby village, where it was hidden in the barn of a farmer.  The farmer denied having stolen the knife, and Takaba believed the denial, confident that such a man wouldn't dare steal from him.
-
-When Takaba returned to his forest cottage, he found that his silver chalice was missing, despite the wards and underworld guards he had set upon his home.  He immediately worked to strengthen the wards and summon additional dark entities to watch over his house.  However, when he returned from finding his chalice in another barn of another farmer, his obsidian knife had again been stolen.
-
-Takaba set about studying the ways of wards and traps, experimenting with different principles and practices to fortify the protections he had set.  Still, every time he left to recover a stolen object, he would find another possession missing.
-
-This continued for years, as Takaba drove himself to master the art of warding.  One day he returned and found that one of his magical snares had succeeded in catching the fox which had been burgling his home.  However, even after years of offenses, Takaba could not hate the fox, who had only been acting according to her playful and mischievous nature.  She offered him "a fox's promise" that if he let her go, she would never trouble him again.
-
-Takaba knew what a fox's promise was worth, but he still set her free, unable to bring himself to harm her.
-
-The fox continued to burgle Takaba, and he continued to try to thwart her.  In their battle of wits, Takaba would sometimes succeed in trapping the fox, and she would sometimes succeed in stealing his implements only to abandon them elsewhere for him to recover.  As their contest continued, the two of them reached new pinnacles of mastery of their crafts.  Takaba became the greatest practitioner of wards and bindings that has ever lived, and the fox became the most accomplished of any of her kind in the ways of stealth and shapechanging.  Takaba would ward his cottage such that naught but air and light could enter or leave, and the fox would change herself into a gentle breeze carried upon the moonlight.  Takaba would forge an unbreakable snare which would bind a leg and prevent the leg from changing into anything else, and the fox would shift into a five-legged creature and chew off her now-extra leg to escape unharmed.
-
-As this continued over the years, the two of them fell in love, and had many children together.  Some of their human descendants continue practicing maho witchcraft in the Daidoji domain to this day, while their fox descendants continue to play tricks on farmers and travelers in the Daidoji countryside.
-
-One day Takaba had a brilliant insight - even not knowing the true name of his fox-wife, he could nevertheless construct a ward that would bind any intruder, not by their physical form, but by pinning their name itself.  And so his fox-wife was trapped, and unlike all of Takaba's other successes, which she was able to eventually outwit, this one seemed insurmountable.  Takaba's ward seemed to be based on principles which were unchallengeable in their power over that which was bound.
-
-Eventually the fox had an idea of her own.  She stole into her husband's cottage, and after being pinned by her own name, she chewed her name off from her very self.  Such a thing should not be possible - even people who give their names to bloodspeakers are still connected to that name, and this connection remains even after death.  A thing without a name literally cannot exist in this realm, which is why oni require names in order to be summoned.
-
-Still, while all known principle and doctrine declare this impossible, the fox succeeded.  But having overcome the final ward which could ever trouble her, she was now without a name, and so she began to fade away, becoming less and less herself.  No longer truly a fox, she was becoming something else.  As this happened, her hunger increased, and she found herself consuming the very essences of the foods she sought to eat.
-
-Eventually Takaba realized that it was names that his wife hungered for, so he began to feed her the unused names he had taken as payment for the years of his practice.  But the small names of peasants proved insufficient to satiate his wife's savage hunger, so he fed her larger and larger names.  As he did so he turned his research towards how to bind one of these names to her permanently, in order to replace her true name which had been lost.  He swore by all his power that she would be restored and that her suffering as the Nameless One would cease.
-
-In the course of his research, Takaba tried to record the names he had fed to his wife to understand what satisfied the most, and how big a name had to be in order to temporarily sate her hunger.  He quickly found that he could no longer remember any name once it was fed to her, and any written record of that name quickly became blurred and illegible.  Further inquiry revealed that living people whose names were eaten in this way were themselves forgotten, even by their closest family.  By consuming their names, Takaba's fox-wife had severed their connection to the world, dropping their souls into the underworld without even the memories of that life, forgotten by the world itself.
-
-Takaba eventually devised a ritual that he believed would restore her to her previous form, but it would require a name larger than any he possessed, including his own.  He set about to use the last of his resources to ambush Yasuki Kiringu, the daimyo of the Yasuki Family, which was still part of the Crane Clan at that time, as he returned from a trip to Kyuden Daidoji.
-
-With Kiringu's name eaten, the world continued with his brother Yasuki Tsanumi as the Yasuki daimyo.  Indeed, the world continued as if Tsanumi himself had always been the daimyo, with no one remembering that Kiringu had ever been born.  Tsanumi was much angrier at the Crane Clan for their lack of support than his brother had been - Kiringu had taken the ruling on heretical farming practices in stride and valued long-term stability more than responding to loss and insult.  However, with Tsanumi as daimyo, the Yasuki seceded from the Crane Clan and joined the Crab Clan, to the shock of the whole Empire.
-
-The Emperor's most talented advisors and soothsayers were caught off guard.  Not only had his political advisors been confident that the Yasuki would avoid such drastic action, even the Emperor's prophets had been unable to see this coming.  Apparently the changes to the world caused by the feasts of the Nameless One stand above prophecy itself, affecting the world's futures in ways even they cannot perceive.  The Hantei immediately dispatched members of the Order of Amaterasu to investigate how such a thing could have happened.
-
-Takaba meanwhile was able to perform his final ritual, sacrificing his own life and name to bind his soul to the soul of his wife, uniting the two of them into a single being.  This ritual was powered by the name of the Yasuki daimyo, and for a time it seemed that it had succeeded.  The fox was once again able to walk through the Takaba forest, even as the world forgot her husband for whom it was named, and she began to remember that she was a fox.  However, while this ritual had done more than any names fed to her, it too faded over time and her hunger eventually began to return.
-
-It is unknown how she was trapped by the Emperor's agents.  A prison for the Nameless One was built in the Forgotten Tomb, but no one knows who could have constructed such a thing.  Her prison could hold only a soul with no connections to any names, and the principles by which that is even possible were only later discovered by the Emperor's wisest smiths by examining the construction of this special prison.  It seems clear that whoever succeeded in imprisoning her was eaten in the process, possibly having sacrificed themselves to ensure the success of their endeavor.  Their sacrifice is commemorated in secret by the Order of Amaterasu, though the name or names of whoever is responsible can never be known.
-
-Several years ago, Moto Tsume led an attack on the Forgotten Tomb, attempting to enter it through its entrance in Yomi, the realm of the honored dead.  He failed, retreating with his forces in tatters, the honored ancestors who guard the tomb emerging victorious.  However, his spiritual assault sent dark energies of death into the Forgotten Tomb, rocking its foundations, and weakening the prison for the Nameless One enough for her to escape.
-
-She first ate a legionnaire at Beiden Pass, who was tracked by Kitsuki Fu.  She ate a few others as she regained her strength, eventually making her way home to the Takaba falconry preserve, where she ate the County Magistrate of Kanto in the province of Akishi.  Daidoji Maku subsequently replaced him, with no one having any memory of his predecessor.
-
-As a servant of Yozo, the fortune of legal justice, Masayoshi has tracked her this far, learning much of the story of how she came to exist from her descendants among the foxes and bloodspeakers of the Daidoji domain.  He has struck a bargain with them to work together for the common purpose of finally putting their ancestor to rest.  The bloodspeakers provided a powerful artifact of great name to act as bait, while the foxes set to work searching for the telltale signs of a life that had fallen out of the world, to locate someone close to someone she had replaced.
-
-The PCs were the only people found who perfectly fit the criteria of people most suitable for battling the Nameless One.  They were lightly connected to the previous county magistrate of Kanto, having served him for only a few months before he was eaten.  They later became close friends with Maku.  That combination of being connected with weak-but-still-present ties to someone eaten and strong ties to someone who "replaced" that person was ideal for warding them against being eaten themselves, though the danger would still be great.
-
-Masayoshi set wards and traps around a totem of great name provided by the bloodspeakers of the Daidoji domain.  He knew his wards and traps could only delay rather than ensnare the Nameless One, who laughed at traps even in the days when she was merely a clever fox.  But they would stall her long enough for the PCs to confront her and cleave away the names she had eaten, allowing her soul to finally descend into the underworld and continue on its journey through the cycle of death and rebirth.
-
-Everything I just wrote was the setup to a supernatural adventure which I was happy with.  I did have some concerns about how some of the details violated existing lore or established principles of the setting.  Consistency is key, however I hoped that by making the violations so shocking in-universe, it would emphasize that the general principles of the world stand, but that sometimes things still occur which are beyond our understanding.  Hopefully this indicates not that established doctrines and principles are wrong, but rather that human understanding of them is incomplete, and supposedly "impossible" things are still possible (but extremely rare), such as the existence of a Nameless Fox, or her actions evading the Sight of the Emperor's most gifted prophets.
-
-The generic term I use for things like dream quests is "spirit encounters", since it not only encompasses dreams, but also certain types of supernatural battles, such as the fight to permanently put the Nameless One to rest.
-
-Here's a little more information from my notes on Spirit Encounters, which I hope will help provide context for future work when I ask you to help me generate content.
-
-Spirit encounters are divided into "scenes".  Much like scenes from a dream, the PCs will usually understand where they are and have some sense of what's happening around them, even if they don't remember how they specifically arrived in their current location or how they could get back to it later.  Scenes are divided into rounds - sometimes a scene will last until an objective is completed, or other times a scene will last for a predefined number of rounds.
-
-Every character takes a single action each round.  In the first round of a scene, each PC chooses a single physical ring: Water, Fire, Earth, or Air.  The round progresses through those rings in that order.  Spirit encounters are turbulent, and PCs take ongoing damage as the encounter continues, though this damage depends on which Ring is chosen.
-
-- Water: these actions always include the "evaluate options" action, which helps the party discern what actions they have available to them.  It's advisable for someone in the party to take this action early in an encounter.  Other Water actions let the PCs influence the scene directly.  A PC who chooses the Path of Water automatically takes 5 damage per round, in addition to any additional wounds taken by the action they choose.
-
-- Fire: these actions are the most directly effective, but also the most dangerous.  They always include things which directly accomplish the goals of the scene, but you take the most damage.  People who choose the Path of Fire add an extra die to their pool of rolled dice, and automatically set that die to a 10, which is then rerolled as normal, but also take 10 damage in addition to any wounds taken from the action they choose.
-
-- Earth: these actions have their rolls divided in half, making them less effective than other rolls, and sometimes may only give bonuses to someone else's action rather than directly accomplishing anything.  However, these actions tend to cause less damage to the person who takes them, and people who choose the Path of Earth take no automatic damage.
-
-- Air: these actions usually react to what others are doing, whether that means giving more information about the scene, reducing damage dealt to another PC, or boosting their roll like an Earth action would.  Players who choose the Path of Air take 5 damage if they take an action, however since Air is the final element to resolve its actions a player who chooses this path may choose to forgo their action and take no damage.
-
-PCs choose their elemental path at the beginning of the round, but they are not required to choose the specific action within that path until their turn.  Thus, PCs acting in later paths may use information gained in the earlier paths to inform their decision of which action to take.
-
-At the end of each round, players choose the path they take on the next round, with one restriction: they may choose any ring other than the one "opposing" their path on the previous round.  In other words, someone who chose the Path of Water may choose any path other than the Path of Fire for the next round.  The exception is that any PC may choose the Path of Void to go to an opposite ring (e.g. Air to Earth) - if they do this then the skills they roll will be chosen randomly.  This randomness could hurt, but it could also help by enabling a PC to choose an action which uses skills they don't possess, and allowing them to count on the randomness of the Path of Void to hopefully increase their chances of success.
-
-The idea above is to incorporate the various underlying concepts behind the 5 rings into these rules.  The references to "damage" and "wounds" are spiritual rather than physical, and are what I meant when I talked about impairing someone psychically to raise the stakes.
-
-There's an additional type of damage which can be taken in Spirit Encounters, which is that of "connection damage".  For example, in one dream quest from a past campaign, the PCs found themselves in the Court of the Caliph of Medin al Salaat.  After gaining information in previous scenes, they had the option to exit the dream safely, or proceed to the third and final scene, in which the Caliph and her factions were eating dinner.  Here was a description I wrote of that scene:
-
-It is said in Medin al Salaat that it takes four people to prepare a salad.  A generous person to add the oil, a stingy person to add the vinegar, a wise person to add the salt, and a fool to mix them all together.
-
-Here you can see that the Caliph is the generous person, offering not only her hospitality but immense material support to the Uru in their conflict with the Moto.  The Dahab are stingy, in the way that merchants often are - while they are the main source of the money which is funding the Uru, they wish to know the use to which the Uru will put it.  The Old Man of the Mountain is the wise man here, advising the Uru and Caliph alike, and ensuring that the Houses of Dahab get the answers that will keep their coffers open.  And as for the Uru... considering how they have found themselves thrust into a losing war which seems to benefit everyone except themselves, it would be difficult to ascribe to them any role but that of the fool.
-
-If the PCs chose to enter this scene, they knew that they would no longer be risking "skill damage" of the sort that Kuni Isamu took, but rather "connection damage" which strikes at the ties that bind them together with other people and groups.  Instead of simply learning about secrets and wisdom, they have the opportunity to directly affect the waking world on a spiritual level by disrupting the relationships between people and groups, at the risk of having their own connections damaged.
-
-PCs who enter the scene and choose the Path of Water are able to strike at the Caliph's connections to her subjects, weakening the ties that bind her to one or more of the following:
-- the "outsider" factions such as the Ashalan, the Rashari, and the Khayal
-- the Qabal of the Sahir, who are famously apolitical and therefore have no direct loyalty to her, but who could still support or undermine her in various ways
-- her khadi retainers - it is unknown what exactly ties them together, but weakening these ties could prove most useful if Moto Gaheris eventually lays siege to this city
-
-However, PCs who take a serious wound while in the Path of Water will find their own connections damaged, specifically those which tie them to their Clan.  What would it mean for such connections to be damaged?  Their family might find themselves thinking less of them, their clan-mates might suddenly hold them in less regard, their lineage might turn its back on them for small infractions.  This is the general idea behind the concept of "connection damage".
-
-PCs taking the Path of Fire have the opportunity to disrupt the connections that bind the Uru together, including:
-- Timur Beg and his ties to Eguden Yeke - weakening this could cause the Eguden "ailay" ("tribe" - analogous to a Rokugani "lineage") to perhaps cease supporting the ruling Timur lineage
-- Timur Beg and his ties to Perhat Bugra - the Perhat tribe has continued to fiercely resist the Moto even after multiple devastating defeats, and if their connection to the ruling Timur was weakened then they would be more inclined to finally surrender once and for all rather than continue fighting in the war
-- Timur Beg and Caliph Hanan Talibah - this could go in both directions - Hanan Talibah could cease supporting the Uru and/or the Uru themselves might decide that their loyalty to the Caliphate which has supported them has been paid back in full by the blood they have already spilled, and that there is no need to further throw their lives away against the armies of the Moto
-
-However, PCs who take the Path of Fire risk damaging their own connections to the Moto.  They have had to work hard to get the Moto to respect them and to not simply be viewed as untrustworthy outsiders.  If these connections were damaged, months of hard work and great accomplishments could be unraveled.
-
-Anyway, there were also options for the paths of Earth and Air, but I figure that's enough context.  I mainly wanted to list those things as an example of this concept of "connection damage".  In Rokugan, the Fortunes themselves are composed of the cycles and connections which make up the rhythm of the world and which connect and perpetuate the people and things in it, and thus a person's connections in the right circumstances can be a vulnerable target which sometimes may be directly attacked.
-
-One thing that I tried to highlight to my players about the concept of "connection damage" is that while it is very real, it would be difficult to convince someone who was skeptical that the effect was actually happening, because the effects would be subtle.
-
-For example, consider someone who had suffered connection damage that weakened the ties that bind them to their clan.  This happened to one of my PCs, Bayushi Saburo - other members of the Scorpion Clan were much more inclined to try to take vengeance in response to words or actions which they perceived as insults or betrayals.  And they were far more likely to interpret his behavior in this way.
-
-For example, during the Battle of Coward's Torment, Saburo and the platoon under his command were heavily wounded.  As the acting lieutenant of his platoon, he was in the process of pulling his unit back into the reserves so that a fresh platoon could take his place on the front lines.
-
-However, as he was doing so, he spotted a fellow Scorpion from a different company, Shosuro Yuzo, who had gotten separated from their squad.  She was also wounded and had fallen off her horse, and enemy forces were advancing on her.  Saburo had to decide whether to save her or continue pulling back.  He chose the latter, and Yuzo was killed.
-
-This could have inspired harsh feelings under the best of circumstances, though as a military commander Saburo has great standing, authority, and expertise with which to argue that his actions were for the greater good of the unit and helped ensure their ultimate success in battle, and that it would have created an unacceptable risk for his army if he had broken ranks to save Yuzo.
-
-However, because of the connection damage he suffered in his dream quest in the Court of the Caliph, his fellow Scorpion went far beyond petty forms of retaliation and instead began plotting a revenge which would discredit and publicly humiliate Saburo.
-
-With all of that being said, note how subtle this effect is.  While the connection damage really did have a significant effect, if Saburo tried to convince someone that he was only being targeted because of the connection damage he suffered in his dream quest, this would be nearly impossible to prove.  He really did "abandon" a comrade to die in battle, and it's quite understandable that Yuzo's family might seek revenge for this, so nothing that happened as a result appears supernatural - it would all seem to an outside observer like the normal consequences of regular life in the 1st Imperial Legion.
-
-This theme runs throughout the worldbuilding: supernatural things are very real, but their effect is subtle, and often it can be difficult or impossible to tell someone's superstitions from a real event or effect.
-
-I try to draw a lot of inspiration from these kinds of real-world stories, where claims of the supernatural may have gone unquestioned in the culture where they were made, but where skeptical historians might look back and conclude that nothing supernatural had happened.  This is often true even for historians who themselves believe or are open to the possibility of the supernatural.  Just because such things might exist doesn't mean that real-life scholars do (or should) take claims made in primary source historical documents at face value.
-
-#### Doji no Tsume Toyohiro
-
-Consider the case of Doji no Tsume Toyohiro, a legionnaire in the 1st Imperial legion:
-
-Toyohiro distinguished himself in military service during the Lion/Crane war in the northern front.  In particular, he commanded a company that repelled a group of tunnelers who were trying to literally undermine the walls of Kyuden Tsume itself.  Most of his comrades died, and Toyohiro frequently sees both them and sometimes his opponents as he goes about his day.
-
-Lately he's taken to following where they lead, listening to what they have to say, and speaking with them.  This has frequently taken him into the 6th Battalion, but the Lion have ultimately decided that he is the only Crane allowed to wander freely through their territory, because anyone who struck him down or even interfered with his journey might find themselves haunted by the same ghosts which pull him along.  Matsu no Moyu Kazushi visited each Lion company to counsel this policy of non-interference, though he has suffered some mockery from non-Lion companies as a result.
-
-Note how Toyohiro is seeing ghosts which other people do not see.  This plays upon recurring themes of the ambiguity of the supernatural.  Tsume Toyohiro seeing ghosts which no one else sees could be interpreted as someone who isn't even haunted, but who has hallucinations due to what a modern person might diagnose as PTSD.  Roman legionnaires were sometimes described as being haunted by the ghosts of their former comrades - this doesn't fit the definition of modern PTSD as described in the DSM, but it does sound very much like a trauma response.
-
-If a modern reader read a historical account of a real person with a story like Toyohiro's, then even if that modern person believed that ghosts exist, they might have cause to doubt that this historical figure was really haunted.  Nevertheless, while some people in the setting might wonder about whether every single ounce of Toyohiro's experiences is legitimate, few in Rokugan would dare to dismiss his wanderings, and it would be reasonable for other legionnaires to fear the prospect of becoming haunted if they interfered with his work.
-
-Toyohiro has additionally sworn this vow to help himself in his ministry towards the ghosts which he sees:
-
-"In the sight of Emma-O, Fortune of Death, and King Yan, the Judge of Souls, I, Doji no Tsume Toyohiro, swear a solemn vow.  I am haunted by the spirits of my fallen comrades and opponents who met their ends during the Lion/Crane war, their souls trapped in unrest.  I hear their voices and see their spectral forms, and I understand their struggle to find peace.
-
-Thus, I swear to serve as their voice, their advocate, and their guide.  I vow to listen to their tales, understand their plights, and offer comfort to their lingering spirits.  I promise to do all that is within my power to help them make their passage from the realm of the mortal to the underworld, where they rightfully belong.
-
-May Emma-O lend me the wisdom and the strength to honor this vow, and may he show mercy and provide guidance to the souls who have been lost in the tumult of war.  For as long as I draw breath, I will not falter in this sacred duty.  This I swear."
-
-Even people who do not fear ghosts might worry about the prospect of interfering with his work after he swore that vow, because to do so might antagonize Emma-O or King Yan.  The particular effects of doing this might not be immediately apparent, but could anyone ever really be sure that this wouldn't bring future disaster?  This is an important type of ambiguity - most people would agree that interfering with such vows could bring misfortune, but it would be difficult for anyone to make specific predictions about what form this misfortune might take.
-
-#### Otaku Mirai
-
-Or we could go back to the story of Otaku Mirai, another officer in the 1st Imperial legion:
-
-Starting the night of his gempukku, Mirai was tormented in dreams by a mujina.  This curse followed him to his first assignment as a sergeant in the 1st Imperial legion.  At times he would go weeks without being able to sleep through the night.
-
-One evening, an old man appeared in Mirai's dreams, identifying himself as the spirit of a neglected sword.  Shockingly, the man was a gaijin who named himself Heartseeker.  The old man additionally stated that he was unable to leave his scabbard as he had been defiled by dirty human hands.  Most importantly, the spirit told Mirai that should he wish to permanently rid himself of the hateful mujina, he should clean the blade of its rust.
-
-Mirai tracked down all of the gaijin swords in the legion, of which there were many, and identified and acquired Heartseeker from captain Otaku Hiyu, who had left it languishing in a crate of old antiques not considered worthy of display.  It had originally been taken from a slain gaijin bandit many centuries ago.
-
-Desperate to be able to sleep well again, Mirai carefully cleaned the blade.  As he finished his eyes fell upon the decorative leg of a brazier in his room.  In the flickering light it suddenly resembled the imp in his dreams!  The freshly cleansed sword then moved by itself to lop off that decorative leg, thus freeing Mirai from his nightly torment.
-
-Mirai carries this sword with him at all times, strapped to his back in the manner of a barbarian.  When in his tent it occupies a place of honor at a shrine he has built for it back at camp, but he never travels without it.  Being a courtier and thus not able to duel, he has taken to practicing with it and has developed his own fighting style.  He has spoken of plans to eventually make a warrior's pilgrimage to join Moto Gaheris' army to better learn its techniques and adapt to other more civilized weapons, though many doubt that he will follow through on such plans, as many take this as the boastful talk of a teenager.
-
-This is based on a real historical anecdote, but modern readers might not read that anecdote and think that a sword was really haunted by an imp.  Rather, they might believe that someone had a strange dream, then saw something in the flickering shadows, then thought that they had defeated some supernatural force, and then that belief was self-reinforcing and so he found himself no longer worried about being afflicted and was therefore no longer afflicted.
-
-Even someone in Rokugan, who certainly believes that supernatural things exist, might doubt the accuracy of Mirai's story.
-
-#### Kakita Korihime
-
-Or consider the story of Kakita Korihime:
-
-Korihime is the daughter of Kakita Yariga, who was the executioner to Kakita Toshimoko.  She took up her father's role as executioner, but found herself unusually susceptible to hauntings.  After performing only a handful of executions, she took a demotion in order to serve as a platoon lieutenant in the 1st Imperial legion.
-
-As far as she knows, all of the vengeful ghosts who previously haunted her eventually made their way into Jigoku, and she reports no sightings after arriving at Chai Sedo, though she spends a considerable amount of the week of the Bon Festival in the temple.
-
-Note that in this account, it's also unclear whether anyone else has seen the ghosts that haunted Korihime.  Indeed, a plausible explanation is that she spent some time as the executioner for the Kakita daimyo and found it so traumatic that she suffered psychological issues as a result, which manifested as her believing herself to be haunted.  Then when she moved to the other side of the Empire to take a new post where she was no longer forced to perform executions, her issues subsided and she was no longer "haunted".
-
-None of this is meant to suggest that these mundane explanations are what is "really" happening in Rokugan.  Ghosts definitely do exist in Rokugan.  However, a recurring theme cultivated for the supernatural here is that some apparently supernatural things are real, some are just people being superstitious, and it's incredibly difficult to tell which is which.
-
-One of the things this worldbuilding wants help with, in addition to generating vows, is generating supposedly "magic" items or crafting supposedly supernatural backstories for NPCs.  And one of the most important qualities in that writing is ambiguity.
-
-#### Yamaoroshi
-
-Here's the backstory for the famous sword Yamaoroshi:
-
-The origins of this sword are unknown.  Its known history begins with Mirumoto Tsuki, who was part of the army that defeated the Maw at the Battle of the Cresting Wave.  Her own sword destroyed, she pulled the sword of a fallen comrade out of the Maw's hide.  The sword seemed to move under its own power, hacking and slicing into the Maw, especially when striking from west to east.  When the final coordinated strike from the remaining warriors finally slew the Maw, Tsuki was the only member of the Dragon Clan to help deal the killing blow.
-
-She named the sword Yamaoroshi - "Wind Blowing Down the Mountain".  As the sword that slew the Maw, it gained great renown, and 150 years later made its way into the hands of a duelist named Mirumoto Tetsushi, who used it to defeat Kakita Senri, chief instructor of the Kakita dueling academy.  Already an underdog in the fight, Tetsushi chose to face east into the morning sun, practically blinding him in the garden where they fought.  Yet he emerged victorious, explaining afterwards that just as the Wind Blows Down the Mountain, so too does this sword desire to be striking in the direction from higher elevation to lower elevation, even when its wielder is standing on flat ground.
-
-Yamaoroshi later became the family sword of Agasha Shigeaki, one of the companions of Agasha Kitsuki, and struck down several of the assassins bent on murdering Mirumoto Januko, the daimyo of the Mirumoto Family when the Unicorn returned.  Agasha Kitsuki was granted his own Family name, and so Shigeaki then became Kitsuki Shigeaki, and Yamaoroshi has stayed with the Kitsuki Family ever since.
-
-Note that this sword is steeped in history and is many centuries old, and it is believed to not only benefit from excellent craftsmanship in its manufacture, but that the weight of its past deeds and accomplishments grants its wielder an almost supernatural advantage.
-
-On the other hand... there aren't really any testable claims being made about the sword, exactly.  Even the explanation that the sword has a will to be striking "downhill" would be difficult to measure or prove.  Someone performing katas with the sword might say something like, "oh yes, I can certainly feel the sword's will and the way in which swinging it towards a lower elevation grants me additional strength, as it adds the weight of its desire to my strikes".  But that could easily just be the power of suggestion!
-
-Again, my point here is not to suggest that the claims about the sword are wrong.  Perhaps they are correct!  But the crucial thing is that the claims are ambiguous enough that it's difficult to be sure.
-
-#### The Armor of Fool's Regret
-
-As another example, consider a supposedly cursed item: the Armor of Fool's Regret, which is in the possession of Ikoma Akaho, a platoon lieutenant in the 6th battalion of the 1st Imperial legion.
-
-The Armor of Fool's Regret is a cursed suit of armor possessed by a kansen (usually an elemental spirit which has been corrupted by its own anger or some past wrong or circumstance) which has been in Akaho's family's possession for centuries.  It has been determined that to destroy the armor would free the kansen to wreak havoc elsewhere.  And when the kansen is not "fed" it grows angry and reaches out to cause mischief in its surroundings.
-
-However, those who wear the armor (when the kansen is well-fed) are protected by the kansen's presence.  Wearers of this armor have never (yet) fallen in battle, even when suffering grievous wounds.
-
-The kansen demands blood, and specifically hungers for being worn while the wearer is injured.  Akaho's platoon is therefore the dumping ground for troublemakers, and its members are punished by being beaten while wearing the armor.  Those transferred to the platoon are beaten this way as an initiation.  When a long enough time goes by without any disciplinary actions being required, members of the platoon take turns donning the armor and being struck to appease the bloodlust of the armor's kansen inhabitant.
-
-While some new recruits suggest that the armor should be destroyed, this is rarely a good idea with cursed items, as that would let its resident spirit loose in the world to cause mischief elsewhere, with there no longer being any convenient way to keep it bound.
-
-As before, there are strong, specific claims being made about the armor.  And yet the actual evidence is quite thin - the fact that the wearer of this armor has never fallen in battle doesn't prove very much, because that's true of many if not most suits of armor!
-
-As for the kansen, even if a shugenja were to commune with the armor and determine that the will of its resident kami was indeed consumed by bloodlust... that doesn't necessarily prove that people need to don the armor and be beaten in order to appease the kansen, or that the kansen is capable of leaving its home and causing mischief out in the world.
-
-In general, I think that what I'm describing is a version of Rokugan which is a "low fantasy" setting.  Magic and spirits and gods and the supernatural do exist in this world, but people's superstitions may often be far more common than the actual supernatural things which make those superstitions plausible.
-
-A few more supposedly magic items or cursed items follow, providing additional examples of what this approach is going for.
-
-#### The Candle of Tears
-
-"The Candle of Tears": This technically refers to the candle-holder rather than the candle itself.  Any candle placed in this candle-holder will find its wax dribbling down in two distinct trails, reminiscent of tear-marks on a crying face.  A grief-stricken ghost haunts this candle-holder, and as long as a candle is kept burning at all times, she will be kept satisfied.  The flame of the candle waves wildly when in the presence of a child who is in danger of dying from sickness, and The Candle of Tears is used by doctors to triage cases, but if the flame ever goes out before the candle has burned all the way through its wick, the ghost will become even more distraught and lash out at those around it.
-
-This item is a good example of several different themes already discussed, reiterated here:
-
-- Ambiguity.  The fact that the candle's wax will tend to dribble down in two distinct trails is fairly thin "proof".  Additionally, even a small breeze or change in air currents can cause any candle to have its flame "wave wildly" for a brief time, so it would be difficult to tell the difference between normal flickering and some sort of supernatural omen.
-However, because Rokugan is a society in which people tend to accept supernatural explanations for everyday occurrences, it would be rare for someone to demand proof that the candle is really even haunted.
-
-- Usefulness.  There is good reason for doctors to make use of this candle.  Rokugan's medicine is primitive, so doctors have good reason to want supernatural help.
-
-- Necessity.  Although there is some potential downside to using this candle-holder, since a candle placed in the holder MUST be allowed to burn all the way down to prevent the ghost from lashing out, destroying the candle-holder would free the ghost which is bound to it, which would be even worse.
-
-Not every cursed item or supernatural thing will have all of these qualities, but this is the kind of thing I tend to shoot for.
-
-## Temple Organization
-
-When the Shinsei was advising the Hantei on the new Empire being created, part of his guidance was the identification of the 7 Major Fortunes whose favor would bring good luck and prosperity to humanity:
-
-| Fortune | Domain |
-| --- | --- |
-| Benten | The fortune of romantic love |
-| Bishamon | The fortune of strength |
-| Daikoku | The fortune of wealth |
-| Ebisu | The fortune of honest work |
-| Fukurokujin | The fortune of wisdom and mercy |
-| Hotei | The fortune of contentment |
-| Jurojin | The fortune of longevity |
-
-The Shinsei further recommended that each clan cultivates two major Fortunes to be their patrons, ensuring that every city within the clan has a temple to each of their two patron Fortunes.
-
-| Clan | Patron Fortunes |
-| --- | --- |
-| Crab | Bishamon + Ebisu |
-| Crane | Benten + Daikoku |
-| Dragon | Hotei + Ebisu |
-| Lion | Bishamon + Daikoku |
-| Phoenix | Fukurokujin + Hotei |
-| Scorpion | Benten + Jurojin |
-| Unicorn | Fukurokujin + Jurojin |
-
-In the late 3rd century, Hantei the Tenth formalized the system of the Six Ministries, and along with it codified the requirement that each of the Empire's cities contains a temple to each of its clan's patron fortunes.
-
-The temples in Toshi Ranbo are unusually large and well-funded, due to Toshi Ranbo being the 3rd-largest city in the Empire, but the general structure is the same commonly-used way to organize temples which exists everywhere.
-
-The rank of samurai is well established throughout the Empire, according to the system of the Six Ministries laid down by Hantei the 10th.
-
-Peasants are not samurai, and therefore the most esteemed peasant, even if they be the richest merchant in the Empire, is lower in the Celestial Order, and therefore of lower rank, than the lowliest samurai.
-
-However, monks exist outside the Celestial Order, walking with one foot in the world and one foot outside of it, and therefore any monk is neither lower nor higher ranking than any samurai.
-
-With that being said, religious orders must necessarily have a hierarchy in order to run a large organization.  Here is what that typically looks like:
-
-- An Initiate is one who has begun the process of joining a religious order but is not yet a full member.  Many who become initiates decide against joining an order, and thus never attain any higher standing within any temple.
-
-- A Novice is the lowest level of monk, who has joined an order but not yet sworn all of their religious vows.  A novice would typically have sworn only a vow of obedience to the order, but not any of the more significant vows which help them on their path to enlightenment and spiritual development.
-
-- An Acolyte has progressed enough in their religious education within the order that they have sworn a vow of devotion to the Fortune worshiped by the order.  It would be foolish to have novices swear such vows until such time as they can be trusted to keep to them, lest the broken vows bring disaster upon the order.
-
-- A Junior Monk has graduated in their studies to attain the standing of a monk, and is no longer considered a monk in training.
-
-- An Adept Monk is considered wise enough to teach initiates, novices, and acolytes.
-
-- A Senior Monk has been deemed worthy to be put in charge of directing the work of other monks, such as being put in charge of the custodians who clean the temple grounds, or being tasked with overseeing the temple kitchens.  One of the requirements to attain the position of Senior Monk is a vow of celibacy, and senior monks therefore may not be married.  This means that once a monk attains the position of Adept Monk, they must choose between starting a family and attaining a higher position within the temple.
-
-- Each major temple has a council of Stewards, each responsible for a division of the temple's responsibilities, such as the temple's treasury and budgeting, or its education of members, or the overseeing of religious ceremonies.
-
-- Any provincial city will have an Abbot in charge, and even temples in the capital will be run by an abbot if they do not oversee other temples out in the provinces.
-
-- For large temple networks such as the Order of Bishamon, the temple in the capital is known as the sovereign temple and the provincial temples are subordinate to it.  As explained above, those subordinate temples will have an abbot, but the sovereign temple will be run by a Grand Abbot.
-
-We sometimes talk about "orders" and other times "temples", so what distinguishes an Order from a Temple?
-
-The Order of Bishamon refers to the network of temples, monasteries, and shrines devoted to Bishamon throughout Damasu lands.  Each domain in Lion lands has its own Order of Bishamon with its own Grand Abbot.
-
-Sometimes people refer to "the Order of Bishamon" and mean the general system of all Bishamon-related religious institutions across the entire Empire, but most of the time anyone talking about any particular Order is referring to the institution within that domain.
-
-Although e.g. the Order of Bishamon in a vassal domain will sometimes send gifts and offerings to the Order of Bishamon in the Clan capital, this is more infrequent and informal than the rigid expectation of taxes which exists between the vassal house government and the ruling Clan house.
-
-The Temple of Bishamon in a domain's capital is formally referred to as the **sovereign temple**, while the smaller provincial temples in each of a domain's provincial cities are formally referred to as **subordinate temples**.
-
-To summarize, "the Order of Bishamon" refers to the broader network of all Bishamon temples/monasteries/shrines in a domain, while "the Temple of Bishamon" refers to the sovereign temple in the domain capital.
-
-Here are the designations at each level:
-* The Grand Abbot for an Order serves in the Soverign Temple in the domain capital
-* Provincial abbots serve in subordinate temples in the provincial cities
-* Town preceptors serve in town monasteries in county towns
-* Country monks serve in village shrines
-
-### Temple of Bishamon Finances and History
-
-The Temple of Bishamon in Toshi Ranbo is one of the largest in the Empire, with over 200 monks living in the temple complex.  Because this is unusually large, it's not necessarily representative of most major temples in most major cities, but here are the rough numbers for the monks in each category in the temple:
-
-| Position | Count |
-| --- | --- |
-| Novices | 80-100 |
-| Acolytes | 60-80 |
-| Junior Monks | 40-60 |
-| Adept Monks | 30-40 |
-| Senior Monks | 20-30 |
-| Stewards | 10-20 |
-| Grand Abbot | 1 |
-
-Most of the monks in all of the above categories live in the Temple of Bishamon complex.  This does not include most of the initiates, who have begun their study, usually part-time while working their existing jobs and handling their normal family obligations.  As the Shinsei said of the monastic life, "many are called, few are chosen" - there are generally 200-500 initiates, more in number than all other categories combined!
-
-Here's a rough outline of the Order of Bishamon's standing over the past decade and a half:
-
-Under the old Damasu regime, the Temple of Bishamon was the biggest, richest, most influential temple in Damasu lands, due to the centrality of the fortune Bishamon in Lion life.  A majority of the government's temple funding went to the Order of Bishamon, which made up roughly 50% of the Temple's funding.
-
-12 years ago (in the year 1117), the Tsume house invaded Toshi Ranbo and conquered the city from the Damasu house.  Although during this time they would not have dared defile the temple (due to not wanting to offend Bishamon), they did raid the temple treasury, and their subsequent donations made back to the temple came nowhere close to recouping those losses.
-
-Over the next several years of Tsume occupation, the city was in bad shape, with repeated riots over food shortages and other conditions.  The Tsume government cut the city's funding of the Order of Bishamon down to almost nothing, funneling their money instead to the Order of Daikoku and to the Order of Benten which they quickly expanded using monies which otherwise would have been directed to the Order of Bishamon.  They also seized all of the "temple estates", i.e. properties owned by the temple from which it collected rent.
-
-The Temple of Bishamon thus not only had to contend with the emptying of its treasury, but also losing over half of its funding overnight, putting the temple's finances in dire straits.  The disorder within the city, combined with the Tsume pillaging of the temple's normal roster of wealthy patrons made this problem worse.  Additionally, the temple's budget shortfalls led to a massive scaling back of its charitable endeavors, which further strained the ability of the city's population to cope with the new regime.  Many monks were dismissed from the Temple during this time, reassigned to the provinces or to other domains, and many of these formed the early cadre of the Baitenist movement.
-
-Almost 4 years after the Tsume invasion, the Lion Clan retook the city (in the year 1121), and it reverted to the Damasu.  The Lion Clan investigated the temple's finances and found them lacking, and instead of depleting them further restored their government funding, though they did not have the resources to restore its treasury to its previous levels at this time, due to the ongoing war with the Crane Clan.
-
-About 6 years later, the Lion/Crane war ended (the peace treaty was officially signed in the year 1128), and the peace treaty involved large payments to the Lion Clan.  The Damasu were flush with coin, and donated generously to the Temple.  In the past year, after the peace treaty was signed, the Temple's income is double what it was even under the previous Damasu regime.
-
-The Temple of Bishamon's annual income before the fall of the previous Damasu regime was roughly 10,000 koku/year, which was sourced as follows:
-
-Here is a rough breakdown of what a typical year of income was for the Temple of Bishamon prior to the fall of the Damasu:
-
-| Koku/year | Percent Source |  |
-| --- | --- | --- |
-| ~4,000 | ~40% | government funding |
-| ~2,500 | ~25% | donations from the city's population |
-| ~1,500 | ~15% | income from performing religious services and ceremonies |
-| ~1000 | ~10% | income from land, property, and other investments |
-| ~500 | ~5% | income from the sale of non-religious goods and services |
-| ~500 | ~5% | offerings from subordinate temples, monasteries, and shrines in the provinces |
-
-Note that all of these numbers are extremely approximate, but they should each offer a rough order of magnitude of the Temple of Bishamon's income from various sources.  One other point of interest is that the Temple of Bishamon in the capital distributes more monies in a typical year to its subordinate temples than it receives, so the 5% of "revenue" is misleading and could just as easily be expressed as a negative.
-
-Here's roughly what the temple has historically done with that income each year:
-
-| Koku/year | Percent Category |  |
-| --- | --- | --- |
-| ~2,000 | ~20% | Religious ceremonies, events, and festivals |
-| ~1,500 | ~15% | Savings, investments, loans, land and property management |
-| ~1,000 | ~10% | Maintenance, cleaning, repair, and renovations to the Temple |
-| ~1000 | ~10% | Donations to the needy and other community projects |
-| ~1000 | ~10% | Gifts to patrons, public relations, offerings to other temples, and other forms of diplomacy |
-| ~1000 | ~10% | Funds for subordinate temples, monasteries, and shrines, as well as pilgrimages to these and other destinations |
-| ~1000 | ~10% | Scholarly pursuits, acquisition and upkeep of books, ink, paper, and other religious artifacts and symbols |
-| ~1000 | ~5% | Room and board for the temple monks |
-
-Remember that these are all the approximate baseline numbers before everything changed when Toshi Ranbo fell to the Tsume invasion, and the Temple fell on extremely hard times for several years afterwards.  This had rippling effects not immediately reflected in high-level budget numbers.
-
-For example, there is no line item for clothing on this budget breakdown.  Partially this is because a monk's initial set of robes would be provided out of the "room and board" budget, and replacements often come either out of the budget of the senior monk overseeing the job a monk is working, or donated by members of the community.  For example, Adept monks who teach the city's initiates often take up collections from their students in order to buy new sandals or undergarments or robes.
-
-When the Lion took over the city, few new robes were purchased by the temple for several years, and the poor state of the temple's finances was apparent from the increasingly worn robes which were being constantly patched and mended rather than replaced.
-
-### Temple Daily Life
-
-The above sections detail the temple's hierarchy and budget, but this doesn't quite describe what most of the monks are doing day-to-day.  This is only somewhat reflected in how the temple receives and spends its money, since some things are mostly free and others cost enormous amounts of money.
-
-Because monks tend to perform many roles, there's not a simple or clear breakdown of who is doing what.  For example, consider the role of education in the temple.  While it's true that some Adept monks might spend most of their time educating initiates, teaching and learning does not stop at any rank.  Some senior monks will be active in continuing instruction of the junior monks under their authority, while others will be mainly concerned with temple operations.  Some scribes and librarians will be fully occupied with copying and cataloging, while others will use their expertise to guide the education of the temple's most senior members.
-
-Because of these shared roles and responsibilities, any breakdown of temple work will add up to well over 100%.  However, this is still useful to help understand how the Temple of Bishamon's monks spend their days:
-
-| Percent | Role | Work |
-| --- | --- | --- |
-| ~33% | Clergy | Performing religious ceremonies, rituals, and prayers, as well as guiding others in meditation, study, and training. Some monks specialize in specific aspects of the faith or in performing particular rituals. |
-| ~25% | Educators | The most common task is recruiting and instructing initiates who have not yet been chosen to join the temple, followed by the continuing education of the temple's novices, acolytes, and junior monks. |
-| ~20% | Custodians | This not only includes those who clean the temple but also the skilled work responsible for doing maintenance and repair work. In some cases this will require bringing in and overseeing outside contractors for extremely specialized labor. |
-| ~20% | Cooks | The kitchen staff needs to be large to serve multiple meals per day to hundreds of monks, and this figure also includes those who work in community kitchens which exist as part of the Temple of Bishamon's charitable outreach. |
-| ~15% | Scribes/Scholars | The temple librarians copy religious texts, maintain the temple's library and archives, and engage in scholarly pursuits related to the temple's religious teachings and history. Making new copies of the Tao (and other religious texts) in particular is such incredibly time consuming and important work that many monks devote their entire lives to it. |
-| ~10% | Administrators | Responsible for managing the temple's finances, resources, and personnel, the stewards and senior monks in these positions also liaise with the city government (particularly the Damasu Ministry of Rites), handle correspondence with other temples, and manage temple visitors and pilgrims. |
-| ~10% | Philanthropy | Those who oversee and distribute the temple's charitable donations, which include not only direct donations to the poor but also things like soup kitchens and the like. |
-| ~10% | Security | Responsible for maintaining safety and order within the temple grounds and protecting the temple's valuable religious artifacts and sacred spaces. Counterintuitively, the Temple of Bishamon actually has fewer monks in this role than other temples, because martial training is so much more common as part of the Order of Bishamon's religious education. Thus, while some other temples require a larger staff specifically devoted to security, the Temple of Bishamon has a smaller percentage of its members specifically designated in this role. |
-| ~10% | Pilgrims | This includes not only the holy journeys typically thought of when talking about pilgrimages, but also coordinating with the subordinate temples in the provinces and managing the offerings and donations which flow in both directions. |
-
-There are other miscellaneous specialized roles within the temple not listed here, but the above should give a decent idea of the overall categories.  Remember that the above percentages add up to much more than 100% due to the fact that many monks perform multiple roles at different times.
-
-Another way to think about temple life is to think about what a typical day looks like for monks in the Temple of Bishamon.
-
-Considering the various roles and jobs which exist in the temple, this varies considerably from monk to monk, but a few examples give a general sense of the rhythm and flow of temple life.
-
-First let's consider the daily routine of Kenta, who reports to the Custodian of the Temple Grounds.
-
-| Hour | Task | Description |
-| --- | --- | --- |
-| Hour of the Tiger (4-6am) | Waking and morning prayers | Like most temple monks, Kenta often wakes before dawn to begin his day. After waking, Kenta hurries to attend the temple's communal morning prayers. |
-| Hour of the Hare (6-8am) | Cleaning duties | Kenta begins his custodial work early in the day, with tasks like sweeping the grounds, cleaning the main hall, and especially any tasks which are best performed while the day's weather is still cool. |
-| Hour of the Dragon (8-10am) | Breakfast and rest | The temple provides a daily communal breakfast, typically rice and vegetables. After eating, Kenta spends some time in daily meditation, which provides him with the physical rest and spiritual centering that will prepare him for the remainder of the day. |
-| Hour of the Serpent (10am-noon) | Cleaning duties | As the day heats up, Kenta tends to focus on indoor tasks. Note that this cycle of indoor/outdoor tasks is often reversed between the summer and winter, as snow on the ground usually makes it more advisable to perform indoor tasks in the early hours and outdoor tasks at midday. |
-| Hour of the Horse (noon-2pm) | Midday prayers and lunch | At midday Kenta participates in another period of communal prayers and meditation, followed by the temple lunch, which is similar to breakfast in its simplicity. |
-| Hour of the Goat (2-4pm) | Personal time | While many of the custodial staff use this time for afternoon naps, Kenta uses this time for continuing education. He aspires to become an Adept monk, but first he must improve his reading and writing abilities, which he does by attending classes taught by the Teacher of Bishamon's Wisdom. Once his literacy has improved, he will "graduate" to begin receiving direct instruction from the Senior monk who oversees him. |
-| Hour of the Monkey (4-6pm) | Cleaning duties | As the day cools down, Kenta either resumes his outdoor cleaning (in the summer) or his indoor tasks (in the winter). |
-| Hour of the Rooster (6-8pm) | Evening prayers and dinner | Just as the day begins with prayers, so does it end. Kenta looks forward to the temple dinners, which are larger and fuller meals than the simple breakfasts and lunches. Dinner may involve soup, noodles, pickles, bean curd, seitan, and on some nights the kitchen serves fried tempura or a piece of fresh fruit as a dessert. |
-| Hour of the Dog (8-10pm) | Bathing and personal time | While some of the other young monks venture out into the city for entertainment during this time, Kenta usually spends a few minutes relaxing his thoughts and then turning in about 60 minutes before the Hour of the Boar, when most of the temple turns in for the night. Once his literacy improves enough for it to be practical, he plans to spend this time reading the Tao and whatever other texts his sensei recommends to him. |
-
-As another example, consider the daily routine of Mizuki, who serves as the Scribe of the Eternal Tao.  She is a senior monk who oversees all the copying of the Tao performed by all scribes in the temple library.
-
-| Hour | Task | Description |
-| --- | --- | --- |
-| Hour of the Tiger (4-6am) | Waking and morning prayers | Rather than answering the call to morning prayers rung by the Herald of the Bell, Mizuki instead calls together her scribes to lead them in directed prayer and meditation based on what parts of the Tao will be copied on this day. She invites them to consider the koans and riddles and wisdom of the Shinsei they are about to transcribe, and has each of her scribes select a single word related to their day's work which shall be the focus of their centering prayer. |
-| Hour of the Hare (6-8am) | Planning and organizing | Mizuki begins her workday by reviewing the day's tasks and planning any special projects that must be handled, such as messages, correspondence, purchases, meetings, deliveries, etc. |
-| Hour of the Dragon (8-10am) | Breakfast and review of work | After a simple communal breakfast of rice and vegetables, Mizuki reviews the previous day's transcriptions, looking for errors or areas of improvement in her scribes' copying and calligraphy. During this time, she will mentor the junior scribes based on their previous day's output, to help them learn and improve. |
-| Hour of the Serpent (10am-noon) | Management and oversight | Mizuki typically splits this time between providing guidance and advice as needed to her scribes and performing transcription herself. These two tasks are related, as demonstrating how such things are properly done serves as a useful form of instruction for the junior monks. |
-| Hour of the Horse (noon-2pm) | Lunch and administrative duties | Mizuki is typically too busy to join her workers for midday prayers and meditation, and often works through lunch without noticing her own hunger. This is the time when she continues the day's special projects now that there is sufficient light to write correspondence, order new materials, and update her team's financial records. When the temple was suffering financially under the Tsume and in the aftermath of the Damasu retaking the city, Mizuki's team couldn't afford the cost of the candles and lanterns necessary to do this work in the early morning or late evening, and now that the temple's treasury has been restored to its former glory she is slowly re-accustoming herself to the new normal. |
-| Mizuki's scribes are not allowed the normal midday break. Unlike cooks and custodians and lecturers, Mizuki's team needs sunlight for their work, and so they work with few breaks throughout the daylight hours, taking their personal time in the morning and evening. |  |  |
-| Hour of the Goat (2-4pm) | Personal study | During this time, Mizuki continues to oversee her team, but shifts her own work from transcription to study, diving deeper into the Tao to gain the understanding which only comes with intense and continued study, contemplation, meditation, and prayer. During this time, she especially contemplates any questions she has recently been posed, either by members of her team or students she instructs, or by those she has met with from outside the temple. |
-| Hour of the Monkey (4-6pm) | Oversight and teaching | In addition to the normal oversight and review of the work being performed by her scribes, Mizuki spends some of this time lecturing and leading members of the temple in prayer and meditation, usually based on some of the teachings having been transcribed earlier in the day. Her students consist of a combination of members of the temple library and monks from other parts of the Temple of Bishamon. Occasionally a visiting samurai or pilgrim to the temple will join her lectures, which some have referred to as "one of the temple's hidden gems". |
-| Hour of the Rooster (6-8pm) | Dinner and personal time | With the sun's light fading, Mizuki ends her day's work by enjoying the temple dinner, which is especially welcome on days when she found herself working through lunch. Sometimes she eats outside the temple with patrons and benefactors, often samurai who have commissioned copies of the Tao, to whom she often repeats snippets from her lectures. |
-| Hour of the Dog (8-10pm) | Personal time, bathing, and preparing for the next day | Depending on the hardships of the day, Mizuki might spend this time in additional study, having evening tea with her closest friends in the temple, or finishing up the day's work by candlelight now that the Temple of Bishamon can once again afford candles. |
-
-On days when Mizuki needs to leave the temple to purchase additional supplies or handle other business, this is generally the time when she does so.
-
-Hopefully the similarities and differences between Kenta and Mizuki can help give an idea of the general rhythm of temple life.
-
-For married monks (remember that only Adept monks and below can marry, while Senior monks and above must swear a vow of celibacy), the personal time is usually spent with their families, who usually live in or next to the temple complex in temple housing.
-
-## Temple Relics
-
-This notion of ambiguity can be extended by reviewing temple relics for the Temple of Bishamon in the city of Toshi Ranbo.  One thing to note is how each relic is incredibly impressive and is known to have many supernatural qualities, but also that there are more mundane explanations (often just "power of suggestion") for each of them!
-
-The Order of Bishamon in Toshi Ranbo has one of the largest temples to Bishamon in the Empire.  Having been established a thousand years ago, it has acquired many relics, which pilgrims travel all over the Empire to behold and pray before.  Steward Iori oversees this set of temple responsibilities, which makes him one of the most revered members of the temple, in some ways more so than even Grand Abbot Goemon.
-
-Below is a list of the major temple relics.
-
-### The Staff of Bishamon
-
-This is the first holy relic ever possessed by the Order of Bishamon, and may be the oldest relic of Bishamon in the entire Empire.  Displayed prominently in its own special prayer hall, this intricately carved staff is made from ancient cherry wood, carved from the branch of a tree blessed by Bishamon himself.  It is inscribed with symbols and inscriptions of the Seven Virtues of Bushido.
-
-Legend tells that the staff was found a thousand years ago by the temple's first "high monk" - so called because this predates the title of Grand Abbot!  "High Monk Fujita" came across the staff during a pilgrimage to the Isawa Woodlands, where it lay unclaimed beside a spring said to be touched by the gods.  The monk took this as a sign of Bishamon's blessing and brought the staff back to the temple, where it has been preserved and venerated ever since.
-
-Supplicants commonly report feeling a deep sense of peace and courage when they meditate near the staff.  In times of crisis, the staff has been known to glow faintly, allowing the temple monks to be guided by Bishamon's wisdom and protection.  In particular, monks will sit in the prayer room in worship, occasionally looking upon the staff when inspiration strikes or a moment of clarity seems to descend.  If the staff has been lit up by the sun, or better yet if it seems to be generating its own light (as many have witnessed), that confirms that the thoughts and plans they were forming when they gazed upon the staff are indeed favored by Bishamon.
-
-This is not used only by the Grand Abbot for large undertakings, but also by individuals for their own personal journeys.  For example, a monk trying to decide whether to swear a vow of celibacy and advance to the rank of Senior Monk might first think upon the joys of marriage and parenthood, and then contemplate the path of the Shinsei and the contentment of the enlightened.  After considering each path and praying to Bishamon for guidance, they would raise their head and open their eyes and gaze upon the staff and take note of how much light shines upon it (or from within it, for those who have perceived such things).  Bishamon is said to hide sunbeams behind a cloud when an unfavorable path is being considered, and to instead ask Lady Sun to shine more brightly when the more meritorious action is being prayed upon.  Monks and samurai and pilgrims will often come to the temple begging and waiting for a chance to meditate and pray along with the staff, which focuses and attunes its accuracy and calibration.
-
-### The Pillar of Ten Thousand Names
-
-Rising majestically within the expansive central courtyard of the Temple of Bishamon, this monumental stone pillar is the first thing seen by visitors to the temple complex after they pass through the two statues of Bishamon which guard the temple gates.
-
-The Pillar of Ten Thousand Names is an impressive, smooth monolith, standing at 12 feet in height.  Carved meticulously onto its surface are the countless names of bushi who have valiantly fallen in battle.  The most recent additions are closer to the base, while the oldest, worn down by time and elements, adorn the top.  Surrounding the pillar's foot are a series of simple stone altars where incense perpetually burns, releasing a fragrant aroma that fills the courtyard, accompanied by the gentle hum of prayers from monks and samurai in reverence.
-
-Samurai pilgrims come to the Pillar of Ten Thousand Names before heading into battle.  They kneel at its base, offering incense, while reciting prayers and mantras to Bishamon and the spirits of the departed.  As they gaze up the pillar, it's customary to touch a name and meditate upon it, seeking inspiration and guidance from that fallen warrior's spirit.  By connecting with the memories and legacies inscribed on the stone, samurai hope to call upon the valor and fortitude of those who have gone before them.  Many bushi who have prayed at the pillar report the presence of ancient samurai guiding them in combat.
-
-On quiet nights, some hear faint whispers around the pillar.  This happens most frequently after a battle in which those who have prayed before the pillar have died, as the spirits whose names are engraved on the pillar welcome the fallen dead into their ranks.
-
-### Prayer Beads of the Guardian Spirits
-
-This set of 108 prayer beads is carefully crafted from polished jade, each attuned to a particular guardian spirit revered by the temple.  These spirits are a combination of elemental kami, celestial benefactors, major/minor Fortunes, and especially bodhisattva.  The association of each bead with its patron is well-documented in temple records, though supplicants are not usually told of particulars before they pray, so that they may make use of the prayer beads open to the guidance of any guardian spirit rather than focusing on only one single target.
-
-The beads are strung together with a durable silk thread, each bead separated by a small knot, allowing monks and pilgrims to easily move from one bead to the next during their prayers.  While at a glance, every bead seems uniform, upon closer inspection, each bead is subtly unique (though almost perfectly identical in size), hinting at the individuality of the spirits they symbolize.
-
-When one prays and meditates with the Prayer Beads of the Guardian Spirits, certain beads may change in temperature, becoming noticeably warmer or even chillingly cold to the touch.  Alternatively, individual beads may feel significantly larger to the touch, or in rare cases appear missing when passing the beads through the hands, only to reappear as soon as the supplicant gazes upon the prayer beads.
-
-These variations signify the messages and warnings of the guardian spirits.  Monks are trained to take note of the beads that stand out during their prayers, recording their numbers to later consult the temple's extensive manuals.  These manuals, which have been maintained and updated over countless generations, contain interpretations of the various combinations of beads that might react.
-
-Pilgrims who are granted the privilege of praying with these prayer beads are tested to ensure that they can keep an accurate count of the beads, as they are expected to touch each bead and note any variations.  If a poorly educated pilgrim couldn't say for sure whether an anomaly occurred at the 78th or 79th bead then the prayer beads would be wasted on them.
-
-### The Sword of the First Vow
-
-Also known as the Sword of the Vanquished Warlord, this sword rests prominently on a stone pedestal within a chamber adorned with hanging silk tapestries depicting the heroic feats of the original Akodo Damasu.
-
-The blade reflects an ancient design and is made from beaten rather than folded steel.  A serene blue tassel is affixed to the pommel, intricately woven from the hair of the warlord's betrothed, who tragically passed before their union could be sealed.  A bronze guard, etched with the dynamic dance of two koi fish, completes the sword.
-
-This sword did not belong to the revered Akodo Damasu but rather to his most formidable adversary - a warlord whose very name has been struck from the Akodo histories as a punishment for his refusal to join with Lord Akodo.  In a pivotal battle, Akodo Damasu triumphed over the warlord and took the sword as a symbol of his victory.
-
-Within his personal journal, discovered posthumously, Damasu revealed a profound ambivalence about his continued loyalty to Lord Akodo, considering the option of consolidating his power within the safety of the stronghold rather than riding off to additional wars in the west.  Before the sword of his defeated enemy, his journal reveals that he mustered the courage to swear a secret vow to Bishamon, resolving to channel all his might and spirit into upholding his allegiance to Lord Akodo, never allowing his resolve to falter.  He swore this vow in secret, not wanting to reveal in life that he had struggled over the question of loyalty to his daimyo.
-
-Those preparing for a duel or any significant challenge come to the chamber to draw inspiration from Akodo Damasu's determination and to offer their prayers to Damasu, Bishamon, Lord Akodo, and/or their ancestors.  They kneel in the sword's presence, either making their silent prayer or, should they choose, swear a secret vow upon it.
-
-Given the sanctity of the ritual, the vow-if sworn-is never spoken aloud.  Instead, emulating the original Akodo Damasu, the supplicant may only (if they so choose) write their promise, sealing it away to be discovered posthumously.  Legend holds that those whose vows come to light prematurely are doomed to see their intentions thwarted.
-
-While no overt power radiates from the sword, those who have silently sworn (or even just prayed) in its presence often describe a newfound clarity and inner fire driving them forward.  In duels that permit submission, achieving victory is the most frequent aim of these secret vows.  Implicit in such a pledge is an unwavering resolve, even if it means meeting one's end in the quest for that victory.
-
-### The Helm of Discerning Valor
-
-Resting upon an ornate pedestal of carved ebony wood, within a chamber softly illuminated by lantern light, is a helm of striking distinction.  Constructed from burnished bronze, its design is inspired by the dance between patience and action.  The helm's ridge portrays a serene landscape, symbolizing moments of calm deliberation and strategic waiting.  In contrast, the faceplate intricately details a roaring tempest with infantry soldiers charging forward in a decisive moment of action.  An emerald-tinted plume, a beacon of leadership and unity, rises proudly from the helm's crest, subtly shimmering in the chamber's ambient light.
-
-The Helm of Discerning Valor was commissioned to honor Akodo Kaizen, a revered infantry commander of the Lion Clan.  In a time of great strife during the era of the Gozoku, the Crane Clan laid siege to Toshi Ranbo.  With the city's walls under relentless assault and victory for the Crane seeming inevitable, Akodo Kaizen discerned the perfect moment to sally forth, leading a charge that shattered the Crane's forces scaling the city walls, turning the tide of the siege and cementing his legacy.
-
-After this legendary defense, the helm was crafted in recognition of his brilliant tactics.  Over time, as Akodo Kaizen's descendants drew strength and insight from it, the helm became revered beyond the Akodo Family, eventually earning its place as a sacred relic within the Temple of Bishamon.
-
-On the brink of leading their infantry into battle, military commanders come to the chamber to invoke Akodo Kaizen's strategic genius.  With permission from the Custodian of the Sacred Relics (currently Steward Iori), a commander dons the helm.  As they kneel, they silently meditate, seeking clarity on when to exercise patience and when to charge with unwavering might.
-
-Connecting with the helm, commanders endeavor to absorb the essence of Akodo Kaizen's discernment, hoping to emulate his understanding of the delicate balance between waiting and action on the battlefield.  Infantry troops often recount tales of their leaders emerging from the chamber with newfound clarity and resolve.  On the battlefield, commanders who have invoked the helm's wisdom are said to possess an unparalleled intuition, making decisions that often defy conventional tactics yet lead to remarkable victories.
-
-### The Eternal Wisdom Tree
-
-In the tranquility of the Gardens of Reflection (a prayer garden within the temple complex) stands the Eternal Wisdom Tree, a direct descendant of the tree under which the Shinsei himself once taught.  Its sprawling, ancient branches and deep roots are a living embodiment of spiritual connection and endurance.
-
-Those who meditate under its shade receive whispers of wisdom and are blessed with a calm spirit and a mind sharpened for insight and understanding.  Warriors often seek its peace before battle, hoping for mental clarity and guidance in the conflicts to come.  The tree also symbolizes steadfastness and stability, embodying the unwavering strength of the spiritual path.
-
-### The Chamber of Celestial Echoes
-
-Deep within the heart of the temple complex lies a room that resonates with an otherworldly aura.  While the temple has many ancient holy relics, the Chamber of Celestial Echoes is the temple's crown jewel.  Its entrance is framed by intricately carved arches that depict celestial beings in harmonious dance with samurai and monks, a symbol of the divine interplay between the mortal and immortal realms.
-
-As one steps into the chamber, the outside world seems to fade away.  Many pilgrims hear the gentle, omnipresent hum when they are worthy and prepared to hear the echoes of Lady Sun's far-off celestial choir.  This ethereal sound emanates from the very walls, which are adorned with golden frescoes that tell stories of Bishamon's valor and benevolence.
-
-Dominating the center of the chamber is a raised dais, upon which sits a series of platforms and containers, each nested within the other.  Each level is guarded by intricately carved statues of celestial beings, animals, and legendary samurai.
-
-Outer Platform: The largest and first platform is shaped in a perfect circle and made of deep green jade.  Golden inlays form patterns of clouds, and at the cardinal points are bronze statues of protective tigers, their ever-watchful eyes inlaid with shimmering jade.
-
-Second Platform: Resting atop the first, this hexagonal platform is constructed of polished obsidian, catching and reflecting the dim light of the room in unpredictable patterns.  Surrounding this platform are statues of six revered monks, each holding a different symbolic item: a staff, a scroll, a lotus, a bell, a sword, and a bowl.
-
-Third Platform: Smaller still, this platform is triangular and made of pure, translucent crystal.  It seems to glow from within, casting gentle prisms around the room.  Guarding this platform are three celestial ki-rin.  These are not the ki-rin of the Unicorn Clan, but the celestial ki-rin of Lady Sun's court, with the torso of a deer, the tail of an ox, the hooves of a horse, and wings outspread, each bearing a sapphire in its beak.
-
-Final Container: Upon the crystal platform rests the Vault of Celestial Echoes, a meticulously crafted reliquary made of silver and gold.  Intricate designs of dragons and phoenixes dance around its surface, intertwined in a complex, mesmerizing pattern.  Its lid, though unsealed, is heavy and bears a single golden lotus at its center, symbolizing purity and divine connection.
-
-The Reliquary: Inside the Vault of Celestial Echoes, visible only to those who dare lift the lid, is the inner reliquary.  Fashioned from pale, iridescent pearl and adorned with a singular motif of Bishamon's symbol, it rests upon a cushion of velvet, deep red in hue.  Though it is closed, there is no lock, no seal, and it has not been opened in at least five centuries, possibly more.
-
-Around the dais, there are always at least two monks in deep meditation.  Their role is not merely as physical protectors - few would dare to disturb this chamber - but as spiritual conduits, their meditations and prayers maintaining the chamber's connection to the celestial heavens.
-
-Although the exact contents of the inner reliquary are unknown, there is an extensive list of artifacts which are likely held within.  Although some of these may only be legends, and the exact list is said to be unknown even at the highest levels of the temple, the list supposedly includes:
-
-- the Whispering Crystal
-- a fragment of the Shield of Resolve
-- the Vial of Bishamon's Vigor
-- Breath of the Divine Wind
-- Bishamon's Solemn Knot
-- the Orb of Hallowed Visions
-- the Celestial Quill
-- the Warrior's Heartbeat
-- Tears of the Sunlit Path
-
-### Stolen Relics
-
-The Tsume Family held the city of Toshi Ranbo for 3 years.  After they took the city, they plundered it for its treasures, including the Temple of Bishamon's stored coinage, amounting to many thousands of koku.
-
-After the initial attempt by the Akodo to retake the city failed, the Tsume went a step further and took several of the temple's relics, which they transported to other temples in Crane lands.  They also plundered numerous pieces of temple artwork, as the Temple of Bishamon contains many priceless pieces of historical artwork which are not listed on this page.
-
-The Damasu hoped that all stolen relics and artwork would be returned as part of the peace treaty negotiated at the end of the Lion/Crane war, but in his wisdom, Akodo Toturi decided to prioritize other terms and concessions from the Crane.
-
-Below is the list of three relics which were taken.
-
-#### The Tooth of the Shinsei
-
-The Shrine of Divine Light was the location which safeguarded this relic within the temple, before it was taken by the Tsume.  This tooth was one of the Shinsei's childhood teeth, kept by his mother, and recovered after his death once he had already cemented his place in history.  The tooth, small and unassuming, was housed within a delicate crystal reliquary, suspended by golden chains amidst a soft, eternal light.
-
-Pilgrims and samurai would seek guidance, wisdom, and blessings in the Shrine of Divine Light, since a prayer uttered in the presence of the tooth is said to be heard directly by the Shinsei in the celestial realms.  While the relic empowered legitimate rule and righteous path-following, the Tsume broke with this when they plundered it from the temple.  It has been relocated to Kyuden Doji.
-
-#### The Jade Shinsei
-
-Residing within the Shrine of Harmonious Spirit is a venerated statue crafted from a single, flawless piece of jade, depicting Shinsei in a serene, meditative pose.  The statue is adorned with intricately crafted garments, which are changed three times per year in a solemn and intricate ceremony performed by "the daimyo" (previously the daimyo who ruled over Toshi Ranbo) or a designated representative.
-
-Each garment represents a different aspect and season of life (though notably the three seasons do not correspond to the four yearly seasons): renewal and growth, abundance and prosperity, and withdrawal and introspection.
-
-The Tsume put considerable effort into moving this statue, which is almost 9 feet tall and over 4 tons in weight.  It is now located in Kyuden Tsume, and because the Jade Shinsei was considered a protector of the city and a symbol of the seasons of life, teaching acceptance and adaptation to change, the Tsume believe that its presence in the city is an important reason why Kyuden Tsume never fell to protracted Lion siege.
-
-#### The Chime of Harmony
-
-The above stolen relics are not particular to Bishamon - the Chime of Harmony is a much less significant relic, though in a sense is the most offensive to have been taken, because it is a relic specifically of Bishamon rather than of the Shinsei.
-
-This graceful instrument was previously suspended from a stand of fine polished ebony in the window of the temple's main prayer room.  Its main body is a circular ring made from a blend of rare metals, with seven elongated, slender tines hanging from it.  Every tine is engraved with symbols of protection and valor, each corresponding to a significant battle or sacrifice where Bishamon's presence was felt.
-
-When struck, the Chime produces a sound of crystalline clarity that seems to echo through the very walls of the temple and into the hearts of those present.  However, the beauty of its sound is its subjectivity; each listener might hear a different tone.  To one, the chime may resonate with a harmonious note, indicating alignment with the path of righteousness, while to another, the very same strike might sound dissonant, suggesting a need for inner reflection.
-
-The true magic of the Chime of Harmony is not just in its sound, but in its resonance.  While the clarity or dissonance of the note is subjective to each listener, the duration of its echo seems universally consistent to all listeners.  A harmonious chime, indicative of right action or intent, will resonate for what feels like an eternity, while a note suggesting misalignment is said to fade more rapidly, signaling the need for reconsideration or a change of heart.  Temple monks therefore would strike the chime when considering different courses of action, to determine which one will keep them on the third path of the Shinsei.
-
-On tranquil nights, the Chime occasionally sounded of its own accord - a spontaneous offering of Bishamon's guidance... or perhaps in some cases an expression of greater cosmic harmony.  Whether moved by the hand of a monk, a pilgrim, or an unseen force, the Chime of Harmony stood as a beacon of introspection and spiritual alignment within the temple.
-
-The pilfering of such a sacred artifact of Bishamon was thus even more egregious than moving the Tooth of the Shinsei and the Jade Shinsei, which at least are not actual artifacts of Bishamon specifically.
-
-With items and relics of great power covered, along with ghost stories, the theme of ambiguity continues with various supernatural NPC backstories.
-
-Here's an in-universe story, which is an excerpt from the unpublished autobiography of Mirumoto no Ryusei Yasunobu:
-
-### The Man Who Sold His Destiny
-
-**He will offer no answers, only questions.  Hesitate before answering, and ask no questions yourself.  Pay heed to the danger in any question whose answer seems obvious.**
-
-"A few years before my gempukku, I visited Kyuden Mirumoto.  While my uncle attended his duties, I was free to wander the city, content to lose myself exploring its streets and alleys.  As the colors and smells around me began to shift, I perceived them only as different from my home, not recognizing their unusual and alien nature.
-
-"Feeling eyes on my back, I turned to face an oddly familiar man.  Even at a distance, the intensity of his gaze unnerved me.  After a few moments he broke into a sprint towards me, paying no heed to the strange folk around us.
-
-"I fled into a nearby alley, not slowing until I'd twisted through enough side streets and buildings that I was confident I'd lost my strange pursuer.  I said nothing to my uncle that evening, driven by a childish worry that my freedom of movement on this visit might be restricted.
-
-"Ten years later I returned to Kyuden Mirumoto.  Even having taken over my uncle's responsibilities, I still found time to return to my youthful wandering.  This time I noticed as the clothes became more foreign and the smells more otherworldly.  As I stopped to ponder this, my eyes fell on a young boy walking ahead of me.  He turned, and at once I realized that I was looking upon myself as a child.  I knew he was about to flee, so I ran towards him with all my speed, trying to remember the routes I took all those years ago, but I soon lost sight of the boy.
-
-"I retraced my steps looking for those same streets, but after weeks of walking every inch of the city from every direction I have found only the mundane and ordinary."
-
-I paused to gather my thoughts.  The monk asked no questions, so I continued.
-
-"I have asked abbots and shugenja and fortune tellers about what meaning this might have, and what I should be doing about it.  When I heard of the prophet Baiten who could interpret dreams and omens, I hoped he would offer true wisdom rather than guesses and conjecture.  But I had just been appointed a county magistrate, and I worried that I would be seen to be neglecting my duties if I took such a long journey too soon into my tenure.
-
-"When I heard about the murder of the prophet, I asked after others in the Empire with the wisdom to guide me.  Grand Abbot Okawa was widely believed to be such a man, so I resolved to make a pilgrimage to Ryoko Owari to seek his counsel.  But I again hesitated and delayed my journey to focus on my career.  When I learned that Okawa was killed on the Day of Thunder, I despaired at the thought that there might be no one now living able to guide me."
-
-Again I paused, waiting for a question.  After long moments of silence I continued.
-
-"I am convinced that my experience was a sign to set me on the path to accomplish something.  I now see that I was so focused on worldly matters that I may have put my life's true purpose in jeopardy.  I never would have chosen to sell away my destiny for temporal power, but I fear that is what I may have done."
-
-"You are correct", Hoshi finally spoke.  "You will never unravel the meaning behind these events.  Whatever destiny was offered to you has been lost forever.  Nothing you do will ever change that."
-
-My stomach clenched, and in my shock and despair I struggled not to scream or vomit.  *He will offer no answers, only questions.*  I fought against anger and disbelief that in this of all situations the monk would offer plain and uncryptic truth.
-
-"What will you do now?"
-
-I stared at him in bewilderment as I worked to slow my breathing and calm my pounding heart.  I opened my mouth to demand to know what care he had for my future.  *Hesitate before answering, and ask no questions yourself.*  I closed my mouth.
-
-Would I continue seeking the answer to my question, hoping that dedication in the face of futility might restore my favor with the kami?  No, there is no wisdom in self-deception and seeking out failure.
-
-Would I take my best guess and forge ahead, attempting to fulfill a destiny I understood nothing about?  Pure folly.
-
-What could I do but return home to the life I'd chosen, just as I'd have done after serving my purpose...
-
-The world shifted around me as I glimpsed the future I might have had, returning to an ordinary life, content at having justified my existence.  I would have sought a high position, perhaps becoming a minister or even chancellor, and certainly a role model for my family.  But I would have still been shackled by the same mundane concerns that caused me to shirk my responsibilities to fate itself.
-
-Hoshi's patient gaze demanded no immediate answer to his question, so I re-folded my legs into the half lotus and dropped back into meditation.  In the minutes or hours that followed, I had my first vision, which no words can describe, for the vastness of the way of the interconnectedness of all things is beyond human expression.  I can say only that I perceived my futures, stretched out before me, each one tied to the choices that could make it real.  Although my visions were not yet as clear as they would later become, I saw clearly the shape of my new life.
-
-"My atonement shall be to achieve even more than the destiny I have rejected.  Career, prestige, lineage, these have been my chains, holding me from acting outside of my appointed responsibilities.  All the problems of the world belong to me now, and I will spend my life and death to solve each one as I encounter it, no matter the cost."
-
-For the first time, Hoshi smiled.
-
-"Would you like help?"
-
-> [Note from Yuki: because of the pages missing from sensei's autobiography, I'm not sure if there's more to this chapter.  I'll investigate further before this is published.]
-
-### 3rd Imperial Legion Backstories
-
-With that autobiographical entry complete, here are some backstories of NPCs who are legionnaires in the 3rd Imperial Legion, which is stationed on the Kaiu Wall which protects the Empire from the Shadowlands, where my "Kaiu Wall" campaign took place.  Some of these backstories rely on the understanding that the human body can expel and heal itself from small amounts of Shadowlands taint, but that with enough of it the taint settles into your body permanently, making you forever tainted.  Also note that all of these 3rd Imperial Legion backstories are being told by an unreliable narrator, an unnamed courtier who is relaying these stories to an unknown third party (these letters were found in the office of Kuni Yori following his execution, though they were clearly not addressed to him as they refer to him in the third person):
-
-#### Matsu Tsutomu
-
-The legion's general is Matsu Tsutomu.  When assigned to the Wall during his first tour in the Imperial Legions, Tsutomu was almost killed while on a raiding party.  He and his comrades had been assigned to clear out a horde of goblins about 80 miles from the Wall.  What the Hiruma scouts had failed to realize was that a family of ogres had taken control of the horde and merged it with other nearby hordes.  The battle was intense, with heavy losses on both sides, and most of the raiding party was killed.
-
-As his strength began to fail, Tsutomu felt himself possessed by one of his ancestors, who fought for him and through him.  He charged at the only surviving ogre and finished it off with an inhuman display of strength and skill.  The few remaining goblins fled, leaving only five men left alive in the platoon.
-
-Before his ancestor departed, Tsutomu was told that this was the first of three battles he would fight against overwhelming odds against forces from the Shadowlands.  Only through great courage and strength and cunning would he survive the next two encounters.  His ancestor left without even revealing her name, though Tsutomu later learned through research and augury that it was Matsu Mori, who died gloriously fighting against the Maw.
-
-Tsutomu eventually reenlisted in the Imperial Legions and volunteered to be sent back to the Wall, eager to fulfill his destiny no matter the risk to himself.  He trained obsessively to make himself stronger and studied all the Shadowlands lore available to him.  His skill and expertise led him to quickly rise through the ranks of the Legion, and by the time he reenlisted for a third tour he was already a Company captain.
-
-Nine years after his first great battle, Tsutomu was leading another raiding party, which came across a small nest of goblins.  The goblins fled immediately upon seeing the superior force, but they ran away from the water of the closest swamp and instead headed into the trees of the nearby forest.  Tsutomu was suspicious and sent his best scouts ahead of the platoon to determine whether this was a trap; goblins are occasionally capable of such trickery, and ogres who dominate local goblin hordes can be extremely cunning.
-
-Sure enough, his scouts returned with reports of a far larger force than the platoon could comfortably defeat, waiting to surround them once they entered the trees.  Tsutomu worried that if he turned back to get reinforcements, they would be followed and might not be able to win the battle, even on open ground.  So instead he had his men retreat to the closest hill and hastily construct what fortifications they could.  His scouts crept to the edge of the forest and shot the closest goblins they could find, making much noise before running speedily back to the fortified platoon.  The goblins' nature compelled them to give chase, and soon the entire horde was rushing to the top of the hill to confront the platoon.
-
-Even with their successful plan, it was a grueling fight, and nearly a third of the platoon was killed before the goblins' resolve broke and they fled.  Tsutomu was once again hailed as a hero, and eventually promoted to Battalion commander.  He further gained more respect from the Crab by quelling discontent against the Hiruma scouts who had once again failed to gather accurate information on the size of the goblin hordes less than 100 miles from the Wall.
-
-A few months later while visiting his home in Matsu lands, Tsutomu awoke in the middle of the night in a cold sweat, terrified that his homeland would be attacked by Shadowlands forces.  He could not remember his dream, but the thought was crystal clear in his head that his presence was putting his homeland in danger.  Shaking uncontrollably from the weight of divine revelation, Tsutomu realized that because he was destined to once again face overwhelming Shadowlands forces, the further he went from the Wall, the larger a Shadowlands force would be required to smash through the Empire's defenses to reach him.
-
-Panicked, he departed immediately, and despite the protests from his family he declared that he would not return home until his destiny had been fulfilled.  Many have privately mocked him for holding such a narcissistic belief that he might destroy the Empire simply by traveling north.  Others have respectfully attempted to educate him on the traditional doctrines on prophecy, explaining that such fears are unfounded.  Tsutomu is unwavering, and contends that even if the chance of catastrophe is small, any risk of such absolute destruction is unacceptable.  Even most who deride his concerns are moved by his sense of duty and self-sacrifice.
-
-It has now been almost two decades since his last great battle.  Now that he is well into his 40s, many wonder how long he can remain in command before being forced into retirement.  Tsutomu is convinced that the Day of Thunder heralds dangerous times ahead, and believes it will not be long before his destiny is fulfilled.
-
-Here's a much shorter example:
-
-#### Mirumoto Uta
-
-Mirumoto Uta is a samurai merchant who works as a supply sergeant for her battalion in the 3rd Imperial legion.  She is acquiring a reputation as a degenerate gambler, and many believe that if she were not wealthy enough to sustain the frequent losses that all gamblers face, it would put her position and career in jeopardy.  She has explained that she doesn't gamble for the money or the thrill, but as a form of fortune telling.  It is well known that luck ebbs and flows like the tide, with peaks and troughs like waves on the beach.  By gambling regularly to measure whether her good fortune is waxing or waning, she can choose opportune times to volunteer for missions in the Shadowlands.  Uta attributes her success in goblin battles to this practice.
-
-#### Matsu Kiyora
-
-Of course, many in the legion prefer more traditional prayers and offerings.  Consider the case of Matsu Kiyora:
-
-The second time Kiyora went into the Shadowlands, her raiding party successfully slaughtered a small horde of goblins.  No one was killed, though Kiyora sustained heavy injuries.  She could feel her wounds festering as they journeyed back to the Wall, and by the time they rejoined civilization, Kiyora knew that she had become irrevocably tainted.  The healers told her to wait and see, cautioning her that many rookies become wrongly convinced of their own doom after their first Shadowlands battle, but Kiyora knew the truth.
-
-She awoke the next morning feverish and nauseous.  The clear blue sky seemed tinted and joyless, and the fresh air felt wrong in her lungs.  She fled to the nearby woods, but even walking through the pristine beauty of nature offered no trace of happiness.  Feeling increasingly weak and exhausted, she knelt and drew her wakizashi, contemplating an honorable death in seppuku as the only thing left for her.  Half-delirious, she despaired that even in death the taint would not leave her body, and she wondered what would become of her spirit after it departed its corrupted shell.
-
-Hearing a noise, she looked up to see an unnaturally large wolf not 20 feet from where she knelt.  As it crept towards her, she could see that it was no ordinary animal, and she dropped her wakizashi and prostrated herself, offering her body to the spirit.  She understood at that moment that being consumed by this creature would purify her in death, and the wolf could lead her spirit into Jigoku in payment for her sacrifice.  As the wolf came nearer, she pressed her face to the earth in supplication.  The last thing she remembered was its breath on her neck before she blacked out.
-
-Kiyora awoke some time later, alone and confused.  She remained weak, but felt somehow also rejuvenated.  Though still sick and queasy, her appetite had returned.  As a light breeze wafted through the trees, she felt the beauty of the forest and knew that she had been saved.  Though the taint was still within her, it had been decreased by the spirit wolf such that her body now could fight against it and drive out the rest.  She wept with praise and gratitude, and staggered back to base to tell the others of her miracle.
-
-Though some have wondered whether Kiyora's tale is merely the fever dream of a hysterical rookie, many soldiers have joined Kiyora in leaving gifts and offerings in the forest and praying to the wolf spirit, asking for the same aid if ever they too should fall to the taint of the Shadowlands.
-
-#### Isawa Koichi
-
-Another legionnaire from the 3rd Imperial legion is Isawa Koichi.  As background: in this setting, the Day of Thunder was different from the canonical L5R storyline, and it involved a cult of Lord Moon trying to stage a coup and take over several of the Great Clans in order to destroy the authority of the Emperor (who is more aligned with Lady Sun).  Prior to this time, the worship of Lord Moon was much more tolerated, and even afterwards it has not been declared heretical, since the Empire does not wish to declare itself in opposition to the Lord of the Night Sky, lest it suffer the consequences of his displeasure.  However, there are many more restrictions placed on moon worship than there were before (Lord Moon is not a fortune, but rather a celestial entity, if that matters).  With that in mind, here is Koichi's story:
-
-Koichi is a tracker who hunted bandits in the Isawa woodlands before being assigned to the Imperial Legions.  She once tracked a group of bandits into the woods after following the tracks they left from robbing a caravan, but she soon lost their trail.  Reasoning that few bandits actually live in the woods, she took a chance on them returning to their peasant homes that evening.  After darkness fell, she was vindicated as she saw lantern light in the distance through the trees.  Following behind, she tried to draw close enough to avoid losing track of them, but she ended up stumbling upon one of the bandits who had not bothered to light a lantern.
-
-He shouted for his comrades and attacked even as she drew her katana.  Though she managed to dispatch him, she was now wounded and feared she could no longer run as quickly as she needed to escape her pursuers.  As her lungs burned and her wounds bled, she prayed to whatever kami were listening to deliver her from this danger.
-
-Suddenly she found herself stumbling into a small clearing.  The full moon shone overhead far more brightly than she remembered, enveloping her in its radiance and conveying a profound sense of peace and safety.  As she stepped into the center of the clearing, she looked up at the stars and found she could not recognize any constellations.  As she sat down to bandage her wounds, she periodically looked skyward to thank Lord Moon for offering her shelter.  Each time the night sky seemed different, as if the stars themselves were moving either too slowly or too quickly for her to track.
-
-The next morning Koichi returned home safely, and was eventually able to uncover the identities of the surviving bandits.  She recounted her tale and credited Lord Moon's favor for the arrests, and she began carrying obsidian with her to observe and solicit her good fortune.  She searched the woods for the clearing where she'd accepted sanctuary, but she was unsure whether it was any of the clearings she found, or whether she had even been in this world while taking refuge that night.  She commissioned obsidian figurines to bury in all the clearings in that area, and she burnt incense and prayed her gratitude as she meditated in the forest.
-
-After the Day of Thunder, Koichi found herself looked upon with suspicion.  Lord Moon's favor had become a mark of ignominy, but she was unwilling to forswear her benefactor.  She declared her undying loyalty to the Empire and swore she would never turn against Lady Sun or support any cult of Lord Moon, but neither could she show herself ungrateful.  After all, while the Emperor had recently declared it heretical to pray to Lord Moon from within any temple consecrated to Lady Sun, he had not forbidden his subjects from praying to Lord Moon in general, lest the Empire suffer the consequences of his displeasure.
-
-Still, Koichi found herself marginalized, and eventually volunteered for the Imperial Legions, as that was the only promotion she found herself able to get.  Unfortunately, her reputation has followed her to the Kaiu Wall, where she has encountered similar hostility and suspicion.  Kuni Yori recently visited to interrogate her, and afterwards assured everyone that her loyalty was not in doubt, though he did not say what tests he performed.  Koichi has been ordered to not share any details of their meeting, and she seems haunted by the experience.
-
-Koichi later befriended a well-educated monk named Kouji who was too young to have deep wisdom but who had also struggled against the supernatural and been touched by it.  Though neither was able to answer the most important questions that the other faced, their friendship and collaboration ended up helping both of them navigate both the spiritual challenges and political adversities they each faced.  Kouji helped her to craft a vow to Lord Moon, which she had previously been nervous about swearing, because of the dangers of people thinking it implied disloyalty to the Empire.
-
-Koichi had three requirements for such a vow:
-
-- she will perform some form of appropriate nightly prayers, which she will perform in the absence of any external light source, illuminated only by moonlight
-
-- as she was protected in the nighttime, she will protect any who seek her protection, and she will come to aid in any kind of warrior duties which take place at night from any who ask it of her, and she will continue to do this until they release her from those duties, regardless of what clan or family they are from
-
-- the vow needed to incorporate loyalty to the Empire, and make it clear that neither of the above requirements of the vow may override her loyalty to the Empire, and she may not be forced to ever perform any duty contrary to Imperial law
-
-Kouji was thus able to suggest this wording for Koichi's vow:
-
-"In the sight of all that is, under the timeless gaze of Lord Moon, I, Isawa Koichi, swear a solemn vow.
-
-Each night, when Lord Moon ascends his throne in the celestial heavens, I shall pay homage with earnest prayers and silent reflection, carried out in the purity of his luminous glow.  As he once bathed me in his protective light in the heart of the Isawa Woodlands, so too will I embrace his guidance in the quiet of the night, absent of all other light, a testament to our fateful meeting.
-
-Just as I was sheltered by Lord Moon's radiance amidst danger, I too shall extend my protection to those in need.  As a warrior and servant of the Empire, to any who seek refuge in the quiet of the night, regardless of clan or family, I will provide aid and stand as their shield, until they see fit to release me from such duties.  The cry for assistance in the hush of the night shall not go unanswered, for in me they shall find a vigilant protector, an embodiment of Lord Moon's protective glow.
-
-But let it be known, my devotion to Lord Moon is woven within the fabric of my unwavering loyalty to the Empire.  This vow I swear, the promises I make, and the duties I undertake, shall never overshadow nor undermine my fidelity to the Emperor and the Imperial law.  My actions shall reflect my honor, my strength, and my commitment to the Empire.
-
-Lord Moon, hear my vow, a testament to our bond and a reflection of my gratitude.  May your light guide me in upholding my word, as I navigate the path of honor, service, and loyalty.  This I vow, under your watchful eye, and in the service of our glorious Empire."
-
-#### Matsu Tonami
-
-Here's another story, this one also semi-tragic, about another member of the 3rd legion named Matsu Tonami:
-
-Ever since the first time Tonami saw combat in the Shadowlands, she has been plagued with nightmares about being attacked by Shadowlands creatures.  In her dreams she sees her comrades die around her and feels herself being killed and devoured by monsters until she wakes up shaking or screaming.  She believes she was marked by an oni while in the Shadowlands, which attacks her in the dream realm while she sleeps.  Such things have been known to happen, but it's extremely rare and such dreams usually stem from a lack of courage.  Many soldiers are granted transfers away from the Wall if they cannot handle the stress and danger.
-
-Tonami knows that such a transfer would mark her forever as a coward, so she resists any suggestion to transfer away.  Instead, she has volunteered for more raids than are required, and has consistently demonstrated unflinching courage in the face of danger.  Some have whispered that she is simply making a show of bravery while being secretly terrified, though others argue that true courage is about overcoming fear rather than feeling unafraid.
-
-Tonami eventually volunteered for a second tour on the Wall, attempting to put to rest any suspicion that her dreams come from cowardice or that she shrinks from danger.  She has taken to camping in the nearby woods where Kiyora was blessed by the wolf spirit, praying for it to also assist in her own struggles against the forces of darkness.  Even if the wolf spirit never answers her prayers, at least she will not disturb her comrades when she wakes up screaming, which has been happening with increasing frequency as she goes on more Shadowlands missions.
-
-Tonami recently solicited aid from the shugenja Kuni Yori, but he refused, saying there was nothing he could do to help her.  He further declined to offer any guidance or even his opinion on the nature of her affliction.  Tonami has wondered aloud about the motives behind this odd refusal.  Such incuriousness is uncharacteristic of the Kuni, and this has made her further convinced that her predicament is strange and supernatural in nature.
-
-(Consider how this story is also ambiguous - a modern reader would be likely to interpret Tonami's affliction as psychological in nature rather than supernatural.  However, in addition to the themes of ambiguity, Tonami's circumstances continue to drive her behavior now.)
-
-#### Shiba Asayo (3rd Legion)
-
-A much less sad and unpleasant story is the leadership of lieutenant Shiba Asayo:
-
-Asayo is a courtier who met the customary skepticism that most bushi feel for any courtier assigned to the Wall.  Many feel nervous about going into battle alongside a man who isn't a warrior, far preferring bushi comrades who are maximally trained in combat.  They were further suspicious of his seemingly foppish nature, as his main interests are playwriting and painting.  However, he has proven himself in battle and in the dojo enough times that no one who has fought against or alongside him has any concern about his worthiness.
-
-Before each mission into the Shadowlands, Asayo paints one half of a painting, then finishes it after his return.  The first half is itself a complete (if spare) work, and the second half fills in details which often change the overall meaning of the piece.  He expects that if he falls in battle against the forces of evil then his final "unfinished" painting shall be quite a collector's item.  He has gifted some of his finest works to high-ranking officers and visiting officials, and his art has become well regarded, especially since each painting has an associated (though often exaggerated) story from his mission.
-
-As he progresses in mastery of his art, Asayo increasingly finds himself in a sublime and almost trancelike state as he paints, as the process of the great masters has been described.  Just as a swordsman is told to strike with no thought, so too has Asayo begun to create with a clear mind and let the brush move of its own accord.  Eventually he began noticing details in his half-finished works that he does not remember adding, which he recognizes as a sign that he is on the path to becoming one of the transcendent masters.
-
-About a year ago, when returning to finish a painting after a mission, he started noticing details which reminded him of places or objects he encountered while in the Shadowlands.  It's always subtle, such as an oddly shaped branch or the curve of a rocky stream, but it has now happened enough times that he has begun sharing his unfinished works.  Reactions are mixed, but many have recognized details in his unfinished paintings later appearing in the Shadowlands.  Some of Asayo's comrades have taken to scrutinizing his half-finished works before they embark on a mission with him, looking for signs and omens.
-
-(Asayo's later arrival in Toshi Ranbo and his honors are covered under [Shiba Asayo](#shiba-asayo).)
-
-Here's one more story about a legionnaire from the 3rd Imperial legion:
-
-#### Kitsuki Fu
-
-After being assigned to the Imperial Legions, Kitsuki Fu was first stationed with the 2nd Imperial legion at Beiden Pass.  The legion there is expected to maintain a sizable force in the mountain pass itself, but the soldiers far prefer to spend their time in the nearby city of Ryoko Owari.  People often make arrangements to cover for one another so they can spend extra time in the city, but sometimes due to poor planning or plain irresponsibility people simply fail to report for duty.  Fu was assigned to a squad tasked with recording these absences, tracking down wayward soldiers, and returning them to Beiden Pass for discipline.
-
-One day as Fu set about her usual routine, she found herself with the odd feeling that she was neglecting something important.  She set aside those concerns to focus on the day's work, but that night she reviewed her journal to check for notes or reminders.  She was shocked to learn that she had been investigating a disappearance of which she had no memory.  Fu asked her colleagues, but none of them could remember anything about it.  She took more notes and wrote down her reactions, then wrapped her journal around her daisho in case she awoke the next morning with another hole in her memory.
-
-Fu woke without forgetting her evening's work, but found that the pages she had been studying were missing.  Her entry from the previous night was still present, but all other pages from the past week were gone.  Panicked, she began poring over the legion's attendance records to see who might be missing, and insisting that her colleagues begin constantly journaling their own activities and reviewing those journals daily.
-
-The next night, Fu found herself in the room of her company captain.  As she came back to herself, she found herself being shaken awake even as she realized she was burning the journal she had convinced him to begin keeping.  It was later discovered that she had also destroyed the attendance records as well as all records of the soldiers currently assigned to the legion.
-
-Fu was terrified, and insisted that some sinister force was at work and anyone could now be in danger, perhaps of being eaten by an oni which consumed even the memories of its victims.  The prospect was frightening (if unlikely), so much work was done to determine whether anyone was missing, and new procedures put in place to detect any such disappearances in the future.  Fu insisted that the measures were laughingly insufficient and became belligerent at any suggestion that she was overreacting.  It was pointed out that the only sign of anything awry was her own behavior, and perhaps she had become possessed by some spirit.
-
-A shugenja was called in, who confirmed she was not currently possessed, though this did not prove she had not been possessed at some time in the past or that she would not again fall victim to possession in the future.  As she became increasingly confrontational and hysterical, she was eventually demoted and transferred to the Wall, where the officers had far more experience keeping an eye on soldiers who might be suffering evil influences.
-
-Fu eventually realized that the only way to see the investigation through was to prove her sanity and level-headedness to her superiors in her current post.  She has stated that she wishes to demonstrate her clear thinking and sharp intellect so that her superiors can write letters of recommendation and send word that this matter should be given more urgency than it has previously received.  Because she had been near the end of her tour of duty, she reenlisted to give herself more time to gain the recommendations she requires.
-
-After the Day of Thunder, Fu felt vindicated and she suspects that Lord Moon's servants may have had some hand in this matter.  She has gotten word that this investigation has received increased scrutiny after it was revealed that some in the Scorpion Clan had fallen under Lord Moon's influence, but she remains convinced they are not doing enough.  Fu intends to return to Ryoko Owari after this tour of duty to hunt for whatever monster lurks in the shadows there.
-
-In the meantime, Fu keeps a meticulous journal and has developed an obsessive system of indexing its pages, then carving the index into wooden planks she nails to the walls of the barracks.  She reviews the journals regularly and checks for missing pages to ensure that no more of her memories are stolen from her.  Thus far she has had no further missing time, which only confirms that the danger is centered on Ryoko Owari and Beiden Pass.
-
-Note that Fu's backstory was explained by the story of the Nameless One, though Fu did not have this explanation at the time of the 3rd Imperial Legion campaign.
-
-### 1st Imperial Legion Backstories
-
-Here are some more backstories, this time from the "Hidden Way" campaign, which took place next to the 1st Imperial Legion encampment.
-
-The 1st Imperial Legion is tasked with guarding the Gateway to the Land of the Burning Sands.  The Emperor's second son traditionally commands this legion starting at his gempukku, giving him valuable leadership experience while keeping him away from the temptation of entangling alliances with those who might seek to subvert the authority of the crown prince.  Located on the western frontier of the Empire, this post ends up being mostly ceremonial since it has been centuries since the last gaijin invasion.
-
-A recurring element in this campaign was stories about people being haunted by ghosts.  The pattern has come up before; more examples follow:
-
-#### Matsu no Moyu Kazushi
-
-Here's more information about Matsu no Moyu Kazushi's own experiences with ghosts and hauntings, which he denies strenuously:
-
-A former member of Matsu Gohei's command staff, Kazushi voluntarily took a minor demotion after his association with Gohei became seen so widely as questionable.  He decided to serve in the 1st Imperial legion rather than to join the Office of the Crystal Champion, in part because it is not yet clear what that will ultimately entail.
-
-Gohei was branded "the butcher" by his enemies, and decided to take this on as a mark of pride.  This was for a number of things, including:
-
-- Catching scouts and then executing them as peasants even when they claimed to be samurai.
-
-- Giving samurai executions (i.e. beheadings) to "samurai caught posing as peasants" who may or may not have just been peasants.
-
-- Running off priests and monks who descended on battlefields after battles had ended to perform death rites to prevent the recently deceased from haunting the battlefields as unhappy ghosts.  Occasionally a priest or monk would refuse to leave and Gohei would execute them as Crane spies.
-
-This last example was particularly egregious, but Gohei prides himself on fearing nothing, and especially being unafraid of ghosts, even the vengeful ancestors of his enemies.  In particular, he would raid and pillage ancestral shrines in conquered territory, even while others treated them with the same reverence as shrines and temples to the fortunes and kami.
-
-Kazushi participated in many of these raids and executions, and yet was the first person to warn everyone off attacking Doji no Tsume Toyohiro, saying things like, "Trust me, it's a bad idea and not worth it to interfere with a man's ancestors." Last year during the entire week of the Bon festival, Kazushi enshrined himself in Chai Sedo burning incense and praying to his own ancestors.  Evidently he consulted with Toranosuke (the abbot of Chai Sedo) and was told this was a good way to fulfill his own ancestral commitments while remaining safe from vengeful ghosts during the week in which the gates of Jigoku are open.
-
-It's unclear how Bayushi Iru discovered all of this, since the Lion tend to close ranks and not share internal gossip, and Toranosuke is known for discretion, but Iru is the reason why this is all public knowledge.  After a minor public squabble, she called him out as being haunted, using language like "what did that idiot think would happen - he desecrated ancestral shrines so now of course he's haunted by angry ancestors!" Kazushi challenged her to a duel and was forced to submit by her superior skill.  (Iru said nothing disparaging afterwards, but as a person who always compliments her opponents after any kind of duel her silence spoke volumes.)
-
-Here's another member of the 1st legion with an interesting vow-related experience:
-
-#### Yasuki Kiyomi
-
-Yasuki Kiyomi's mother is the Yasuki Deputy Minister of Works.  Kiyomi should have followed in his parents' footsteps, but shortly before his gempukku his mother had a dream in which a divine being told her that her son should become an Imperial legionnaire and take a vow of poverty.  The exact divine being is unclear: there were several details in the dream which suggested either Bishamon (the fortune of Strength), Hachiman (the fortune of Battle), or Chagatai (the fortune of courage).
-
-Kiyomi was therefore assigned to the 1st Imperial legion and was made a platoon lieutenant at 14 (because of his mother's rank).  He hoped that his first tour would be sufficient, but his astrology reading leading up to the end of his tour indicated that he should continue current endeavors and avoid new undertakings or journeys.  He is therefore in his 2nd tour and hoping to be able to return home - it's certainly possible that becoming a legionnaire was intended to be a single step on the journey towards his destiny.  Or perhaps he will end up needing to remain a legionnaire for his whole life... or at least until his destiny has been clearly fulfilled.
-
-The reason for the vow of poverty is unclear, and Kiyomi has publicly wondered about whether the vow is legitimate, since it was sworn "to the divine being who appeared to my mother in her dream" rather than naming a fortune or kami by name.
-
-#### Agasha Tamori on Kitsu Okura
-
-Another type of ambiguity which exists in this setting is that even when something is plainly supernatural, people will debate its origin and significance.  For example, here's an open letter written by the head of the Agasha shugenja academy, Agasha Tamori, about why he is banning Kitsu Okura's book "On the relationship between Man and the Fortunes" from all Agasha libraries and recommending that it be banned from other Dragon libraries as well:
-
-The line of Kitsu Okura is unique in all of recorded history.  Only one man in ten thousand is gifted by the kami as a shugenja, and even among the children of shugenja, only one in a century will share the talents of their sire.  Yet in every generation for three centuries, the firstborn son of Kitsu Okura unfailingly becomes a shugenja, each choosing the name of Kitsu Okura at his gempukku.
-
-Okura's progeny claim ignorance of the source and nature of their blessing.  Remarkably, though each has been a competent practitioner, none have shown any abilities above or below the ordinary.  Without exception, their powers have been plainly average.
-
-Even still, the significance of this anomaly is nearly impossible to overstate.  If we could understand and replicate whatever pleased the fortunes so greatly about this family, it would usher in a new era of power and prosperity.  In seeking to uncover this mystery, we must ask ourselves what sets this lineage apart.
-
-Three things are extraordinary about the line of Kitsu Okura.  First, their great scholarship; their progenitor was one of the greatest scholars the Empire has ever known, and every descendant has followed in those footsteps.  Second, their unceasing chain of shugenja fathers and sons.  Lastly their conspicuous lack of any notably powerful shugenja in more than three hundred years.
-
-It would be absurdly coincidental for three different exceptional traits to persist for a dozen generations through unrelated happenstance.  Let us therefore assume these peculiarities are interwoven.  We must then ask ourselves what contrivance would produce these three particular outcomes.
-
-One of the linkages is well explored - it has long been noted that power and scholarship are seldom shared by the same shugenja.  List the twenty most accomplished chroniclers of lore and the twenty most powerful shugenja the Empire has ever known, and not one name appears twice.  The ability to explain plainly a complex truth comes with expertise in any natural discipline, but this is apparently not so with the supernatural.
-
-Indeed, the Shinsei rarely answered any question but with another question.  Such teaching enlightens more than outright explanation possibly could.  Any statement about the Tao is wrong, for the Tao is more complex in every facet than words can describe, and those seeking enlightenment must therefore pursue an understanding beyond language.
-
-It follows that using language to describe the indescribable is an impediment to our mastery of the elements.  It therefore seems prudent to give little weight to writings such as those of Kitsu Okura, lest they encourage counterproductive patterns of thought.  One wonders how much potential has been squandered by young shugenja seeking to learn more of their gifts, being ensnared by wise-seeming words, and unknowingly curbing their own talents as they travel false paths.  Even powerful shugenja who cast aside these distractions might have found even greater power had they not wasted past thoughts and energies on the diversions of false scholars.
-
-If a shugenja reads a book and then fails to achieve their full potential as a direct result, is their lost power simply unattained, or could we say it was stolen by the book's author?  Perhaps literally so, if my suspicions are correct.
-
-Are we to believe that after three hundred years, the line of Kitsu Okura has not realized that their attempts at scholarship have held them back?  That every powerful shugenja in history only came into their power after they stopped trying to put the nature of their abilities into words?  Why would the line of Kitsu Okura unceasingly refine and develop their scholastic theories for three centuries, when no great shugenja in that time has ever credited them as aiding the development of his own wisdom and power?
-
-At best, the scholastic works of Kitsu Okura are a well intentioned distraction, best avoided by any shugenja with care for his own achievement.  At worst, they are a trap set to drain us of some portion of our power, so that the line of Kitsu Okura may continue.  In either case, I have ordered his texts banned from all Agasha libraries, and recommend that all other great Families do the same.
-
-The above letter emphasizes several themes that I try to capture in many aspects of Rokugan's cosmology, especially the well-accepted tension between wisdom and scholarship.  Truth and understanding, especially of the Fortunes or more generally of the Tao, are too big and complex to put into words, so any attempts to do so fall flat.  Those who spend their lives trying to come up with the right words to use to describe the indescribable impair their own ability to reach true understanding.  Thus, the greatest scholars are often students of the wisest, rather than being the wisest themselves.
-
-Consider the following dialog between Tamori and Isawa Tsuke, the Elemental Master of Fire, in which they disagreed about the implications of Kitsu Okura and his lineage:
-
-"Tsuke-sama," Tamori begins, his eyes stern and serious, "You've heard of Kitsu Okura's works, haven't you?"
-
-Tsuke waves a hand dismissively.  "Of course.  His 'observations' about man and the fortunes?  Idle musings, at best.  Barely worth mentioning, certainly not worth banning."
-
-Tamori tightens his grip on the scroll in his hands, a copy of Okura's contentious work.  "But isn't that precisely the danger?  His musings, as you call them, might seem harmless.  But they mislead, they distract."
-
-"Distract from what?" Tsuke retorts, chuckling lightly.  "Is your faith so frail, Tamori?  Does your understanding of the Tao tremble at the thought of differing perspectives?"
-
-Tamori remains undeterred, shaking his head.  "It's not about faith, Tsuke-sama.  It's about power, understanding, and mastery over the elements.  Okura's words, well-crafted though they are, form a barrier to true understanding.  They describe the indescribable, thereby weakening our connection to the kami."
-
-Tsuke raises a skeptical eyebrow.  "You believe words on a page can drain our power, Tamori?  That's a rather superstitious notion, isn't it?  Even for a shugenja."
-
-"Consider Okura's lineage," Tamori counters.  "Every firstborn son a shugenja, yet none exceptional in their power, despite their scholarly prowess.  They attempt to describe the Tao in words, and their potential is lost.  Is that not suspicious?"
-
-Tsuke's laughter is robust, echoing in the chamber.  "You think this... this academic malady is some form of... of spiritual vampirism?" He leans forward, smirking.  "Tamori, you do have a flair for the dramatic."
-
-"It's not dramatics, Tsuke-sama, it's prudence," Tamori insists, his voice steady.  "We must guard against influences that can sway us from the true path of understanding."
-
-Tsuke dismisses this with a wave, leaning back in his seat.  "And what is the true path, Tamori?  You argue against the written word, yet here we are, surrounded by our great libraries.  Should we burn those as well?  Our path is diverse, as diverse as the elements we wield."
-
-Tamori bows his head slightly, acknowledging the point.  "True, Tsuke-sama.  Yet even the greatest river is guided by its banks.  Let us not blur those boundaries with such questionable texts."
-
-Tsuke shrugs, seemingly indifferent.  "Perhaps.  But I, for one, am not afraid of a few 'questionable texts'.  If you want to ban them in your libraries, be my guest, Tamori.  But do not expect the rest of us to follow your lead."
-
-As Tsuke dismisses him, Tamori merely nods, a determined glint in his eyes.
-
-Note that from a narrative perspective, Agasha Tamori's theory is really cool and interesting, and as a writer/gamemaster it's tempting to say that cool theories are always correct.  But I think it's more rewarding to maintain a lot of the mystery and ambiguity, and in order to do that, it means that a large percentage of cool theories like this need to be true and another large percentage need to be false.  One of the best ways to do that is for the ambiguity to exist in-universe so that characters themselves will have well-founded arguments about them.
-
-Returning to the earlier discussion of soothsaying: many different types of soothsaying have been covered, mostly focused on different types of augurs and prophets.  However, another means of soothsaying is to create an artifact of great power, attuned to some aspect of reality such that it can behave in ways which predict the future.
-
-### The Burning Words
-
-The most dramatic example of this is the Burning Words, which was supposedly locked up in the early days of the Empire.  The Burning Words are supposedly a physical manifestation in the mortal realm of the marriage contract between Lord Moon and Lady Sun, containing Lady Sun's warmth and wisdom as well as Lord Moon's coldness and cunning.  One who looks upon the Burning Words will have a great truth revealed to them - often but not always a prediction about the future, though sometimes a revelation about the past which completely changes the viewer's conception of their own life and place in the world.
-
-There are two significant properties of the Burning Words which make them the most infamous and supposedly the most powerful source of prophetic revelation in the world:
-
-1. Predictions made by the Burning Words always come true.  Many prophecies are "unstable", in that they do not take themselves into account.  A prophet might predict what would have occurred had her warning not been given, but the fact that a prophecy has been discharged gives humans the opportunity to change which of many possible futures will actually come to pass.  Predictions made by the Burning Words will always come true - one who witnesses such a prediction knows that even if they reveal this truth and are believed, this knowledge will not be enough to prevent the prophecy from being fulfilled.
-
-2. The Burning Words reveal only terrible truths.  It is said that most who gaze upon them wish that they would have been spared the burden of such terrible knowledge.  The Burning Words transmit not only the truth itself, but the terrible sense that there are no technicalities or loopholes, and that any outcome which fulfils them will indeed be terrible in some regard.
-
-A famous historical example is that of Yasuki Noriko.  When the warlord Sato swore fealty to Yasuki, first of her name, and became the first daimyo of the Sato house of the new Yasuki Family of the Crane Clan (remember that the Yasuki were Crane for several hundred years before changing their allegiance to the Crab Clan), Yasuki's niece Noriko married Sato's son Takumi.  Noriko was the most experienced caravan master in the world, having been all across the Empire many times, and as such she was entrusted with safeguarding the Burning Words, bolstered by Seppun Family Imperial guards.
-
-This probably requires some explanation as well.  Artifacts of great power are said to reach out and call people to them - they may not be alive or have an intellect, but they certainly possess great will, and the longer that they stay in one place, the more likely it is that circumstances will conspire to bring someone in contact with the artifact.  A workaround which has sometimes proved effective is to never let such an item of great power remain in one place for long - holy relics whose power is feared might sometimes be moved to different temples across the Empire, for example.
-
-The Hantei are said to have had issues with the Burning Words calling people to them, and therefore they decided to keep them moving, even changing out many of the caravan guards from time to time, to ensure that the Burning Words could work no mischief.
-
-However, due to a freak accident, which was immediately recognized as the Burning Words reaching out into the world to twist fate to cause this outcome, the wheel of the wagon where they were kept broke, and the wagon collapsed, and for a few moments Noriko beheld them.  She beheld the following prophecy.
-
-"Hantei Genji will order the execution of the Sato lineage."
-
-She understood in that moment that her father in law must have already committed treason.  She understood that throwing herself on the mercy of Hantei Genji would do nothing to prevent this outcome.  She understood that this order might not happen immediately, and that she could act to delay or accelerate it.  And most terribly of all, she understood that the only way to save many of those she loved would be to work to render the orders of the Hantei Emperor impotent - while she could not prevent this order from being given, there was some hope that she could prevent it from being carried out.  However, to accomplish this would destroy everything her birth family had fought to create - to make the orders of the Emperor meaningless would be to destroy the Empire itself.  There was some chance that she could save her new family, but it might cost the favor of the gods, and create a future in which Heaven itself turned its back on humanity.
-
-Noriko ultimately accepted the terrible fate, while setting out to save what few members she could.  While many of those she had come to love would certainly die, including her own husband, she could arrange marriages into other lineages or families, saving most (but not all!) of her own children.
-
-After making these arrangements, and confirming the treachery of her father-in-law, Noriko informed the Hantei of the Sato lineage's perfidy and she and her son accepted their own fates, asking only to commit seppuku to demonstrate their honor for history and cleanse the stain on the Yasuki Family's honor.  Hantei Genji accepted, and "The Burning Words" is a famous play commemorating this sacrifice.
-
-Note that while Noriko was helpless to prevent terrible events from unfolding, her situation was not hopeless, as she was able to ensure a better outcome than what otherwise might have occurred!
-
-One final thing to note about the Burning Words is that the Hantei dynasty eventually found a safer place for them in the Forgotten Tomb.  Because the entrance to the Forgotten Tomb moves from place to place over time in patterns which are difficult to predict or anticipate, the Burning Words can stay in one place "forever", while being limited in their ability to cause such strife.  It is said that no Hantei Emperor has looked upon the Burning Words or ordered any other to do so in many centuries, and the last Emperor to do so was Hantei the 16th (the Steel Chrysanthemum).
-
-Note that the Burning Words are unlike almost any other artifact or holy relic in Rokugan.  Its powers are immediately understandable and well-defined, its effects unmistakable, and there's absolutely no ambiguity in what they do or how they work.  (The only ambiguity is whether you actually believe in these stories, since their events are nearly a thousand years ago.)  Although I mainly like to have ambiguity be a theme in how supernatural items function, it's nice to have exceptions from time to time.
-
-This will also be true for some items which PCs encounter - occasionally they will find a magic item whose powers are unmistakable, though even in these cases there will tend to be some amount of ambiguity about what is implied by the ways that its powers manifest.
-
-### Moto Khuyag's Death Detectors
-
-With all of this in mind, a less dramatic but still reproduceable artifact created by a smith is worth describing.  The PCs in the "Hidden Way" campaign were riding back and making camp after an encounter with some caravan raiders on the Moto steppes, and they were approached by a farrier named Moto Khuyag, who offered to reshoe their horses for free.  He explained that Moto tribes had been having issues with ghosts appearing on the horizon, and their wise men had determined that an excellent way to combat that was to reshoe any horse whose rider had recently died OR taken a life.  This helped to disrupt the connections between warriors and the spirits of their slain enemies, which was better all around.  Khuyag later appeared under similar circumstances shortly after the PCs fought a battle against some rebellious Moto who had defied their khan's authority.
-
-The PCs eventually visited Shiro Moto (which the Moto call Karakoru), and sought out Moto Khuyag, partially out of suspicion about how he seemed to repeatedly turn up after battles.  The PCs found that Khuyag's master, Moto Khunbish, was the spiritual advisor to Moto Gaheris, the Moto daimyo.  Khuyag was actually a Rokugani by birth and said that he had been born to the southeast of Kyuden Otaku, before moving there, and then later moving on to Kyuden Shinjo, the capital of Unicorn lands.  He met Gaheris there years earlier while Gaheris was visiting, and was assigned as the farrier to the Moto guests, during which time he impressed Gaheris greatly with his wisdom and philosophical observations as a smith (Khunbish explained he had previously made knives before becoming a farrier, and that the Rokugani name he had chosen for himself prior to becoming Moto Khunbish was Seito).
-
-Khunbish had devised an apparatus by which the molten iron from melted horseshoes would pass through a series of channels and drip-drains.  This apparatus had been calibrated to extract the essences of death from the horseshoes of riders who had encountered death.  It could be recalibrated based on whether it was extracting essences from the horseshoes of horses whose riders had recently killed, recently died, or recently chosen not to fight when presented with the opportunity.  This produced iron ingots in which the purified and distilled essences of death were strong, which allowed them to serve as potent raw materials for the construction of further artifacts.
-
-Khuyag was already a master farrier when Moto Khunbish came to Moto lands 6 years ago.  He re-apprenticed himself to Khunbish as an apprentice smith and eventually produced his masterpiece.  Note that in this context "masterpiece" is a term of art referring to the specific work which proves that an apprentice has become a master, if it passes the judgement of the master who has trained them.
-
-Khuyag's masterpiece was a "death detector" which he explained could predict "large-scale violent death" within Moto lands.  Khunbish deemed this acceptable as a masterpiece, though Khuyag points out its many imperfections:
-
-- Because heaven has gifted humanity with the ability to make choices, the future is not set, and therefore his detector may fail to detect deaths or show false positives.  Since it only detects violent death on a large scale, it is significantly more likely to have false positives than false negatives.  Both the Tuesday and Thursday groups had Khuyag appear at a time he thought a battle had occurred in their vicinity, when in fact no battle had taken place - in both cases a battle was possible but was prevented through human choice.  This is a fundamental limitation on all forms of soothsaying - even the infallibility of the Burning Words allows for human choice to affect the manner in which its prophecies are fulfilled!
-
-- The detection is tied to a geographic location, in which an accurate map is made and where at various landmarks "the blood of horses is spilled" and "bloodied earth is returned to Shiro Moto".  Thus, Khuyag cannot use his detection device in Uru lands where Moto Gaheris was at the time waging war, and Khuyag thus needs to create a separate detector for any other area in which he wishes to detect death.
-
-- The area of detection must be sparsely populated - Moto lands are notoriously poor in everything but grasslands and horses, and have perhaps only a tithe (10%) of the population density of most other places in the Empire.  If it were too dense the "intersections of fates and choices would be too numerous" for Khuyag's death detector to function.
-
-- Other forms of prophetic instruction and oracular divination may be hidden from this detection.  Thus, even a large battle might not show up if e.g. divine intervention provoked a sudden battle.
-
-- All forms of soothsaying are divided into stable and unstable predictions (which is different from the distinction between certain and uncertain predictions).  As explained earlier, stable predictions take themselves into account - they predict futures in which the result of the prediction is known and accounted for in the resulting choices made.  Unstable predictions only tell you what would have happened if the prediction had never been made.
-
-- Khuyag describes his own death detectors as "in the worst of all situations", which is that they sometimes take themselves into consideration and other times do not.  Thus, if mass violent death is predicted at a certain location and you proceed to go to that location, you cannot be sure that the prediction didn't lead to violent deaths which would not have otherwise occurred.  Khuyag is uncertain what factors make his detector sometimes give stable predictions and other times not - there are so many variables which could cause this that it may be impossible to ever determine.
-
-- Khuyag hopes that his next device will be able to solve this.  It may not be possible even in theory to build a device which can always take itself into account - the Burning Words are said to do this, but they may be a creation of heaven and not formed by the hands of man.  But according to Khuyag, "Master Khunbish says it should be within my capabilities to create a new version which never takes its own predictions into account."
-
-This new death detector, configured for Uru lands, would allow Gaheris to do something like the following when he is unsure of where Uru military forces are located:
-
-- Divide his forces into X different detachments, and order each to travel to a particular place in Uru lands to secure that territory.
-
-- After the order is given, but prior to any detachment leaving, consult with the death detector.
-
-- If large-scale violent death doesn't occur in any of those locations, Gaheris can consider those territories secured (temporarily), and can then consolidate his forces back into a single force and repeat this process.
-
-- If large-scale violent death is predicted at one or more of those locations, Gaheris can cancel his orders and instead direct all of his armies to where death will occur, which should all-but guarantee victory.  (Akodo Natsuki was quick to point out, and argued quite convincingly to Khuyag, that this only guarantees death and that such "deadly ground" may lead to defeat.  Khuyag responds that strategy and tactics are not his areas of expertise, but Gaheris is confident that his armies will prevail in direct confrontation and thus is mainly worried about an enemy which seeks to evade him.)
-
-Despite his self-deprecating manner, Khuyag is apparently the most impressive of Moto Khunbish's apprentices, and in consultation with Master Khunbish has also devised an approach for finding water in the Burning Sands desert.  The desert has some amount of underground water sources, but it is extremely difficult to find a suitable location where a well can be dug.  Khuyag has proposed a solution which involves the ancient practice of "fate tying".  Fate tying has fallen into disfavor, but Khuyag is quick to point out that it has never been declared heretical.  The fate of a human who has already been justly sentenced to die is used to make a prediction about an unrelated matter, "tying their fate" to the new matter - in this case finding water in the desert.
-
-This can only occur in remote locations with minimal human presence - even most of the notoriously-sparse Moto lands would be too densely populated.  The "connections of destinies and choices" when close to too many other humans is known to prevent any "fate-tying" scheme from working.
-
-To predict whether a person will die within a broad period of time, in the general case, may not be even theoretically possible.  However, placing more restrictions upon the predictions increases their accuracy.  In this case, we take someone who is extremely isolated (in the desert away from most other humans), and wish to predict whether they will die within a single day by the means of horses (being drawn and quartered) in a matter relating to water.  Khuyag believes that he can build a device which can successfully make predictions under those circumstances.
-
-This device will allow the Moto to find water in the desert in the following way:
-
-- Pick a spot and stand prepared to dig for water.  Take a prisoner we will execute if we find groundwater in this spot within a day of digging.  If the reading indicates that the prisoner would be executed within the day, we dig, find water, and execute the prisoner.  If not then we move on to the next spot with a new prisoner.
-
-- We must perform 1 execution per well we dig.  This is unavoidable under any fate-tying scheme, but is one reason why the Moto need so many Uru prisoners - the Moto have chosen to "decimate" those who have opposed them, and after an Uru army surrenders they take every tenth man to be executed for having opposed the Moto.
-
-- Khuyag points out that this will not work unless the detector he builds is "reliably unstable", i.e. it must NEVER take its own predictions into account.  If it sometimes does (as with his death detection map of Moto lands), then someone might be shown as being executed because the prediction causes it to happen!
-
-- Note that under this scheme we cannot use the same prisoner on two different spots in the same day.  This means that the limit of how many spots can be checked for suitability in the same day is limited to the number of prisoners slated to be executed, and is another reason why the Moto need so many Uru prisoners.
-
-Khuyag also mentioned that there is theoretically a way around that last limitation of only being able to use a prisoner to check a single spot per day.  "Master Khunbish has said that this should be within my ability, but I sometimes wonder if his regard for my skill is greater than my current capabilities."  Here is how the scheme would function:
-
-- Khuyag will attempt to build two "death detectors", one with a prediction length of 1 day as described above, and the second with an extremely short duration, such as 1 minute.  The only length requirement is that we must have enough time to take 2 readings before the time is up.
-
-- As before, the 1-day reader must be calibrated to be "reliably unstable", i.e. never take itself into account and only show whether the person would be dead within a day while not taking things which result from its own prophetic readings into account.
-
-- The 1-minute reader must be calibrated to always take the other device into account but never itself.  (If a device took itself into account, then it would always indicate execution and always be correct, since the act of predicting the execution would cause the execution.)
-
-- This allows us to pick a spot and stand prepared to dig for water.  We have a prisoner we will execute if we find groundwater in this spot within a day of digging.  We then prepare to take a reading with the 1-day reader, but while making that preparation we take a reading with the 1-minute reader.  We only take the second reading if the first reading indicates the person will die within a minute.  If the second reading confirms the first one, which it always should (unless outside forces are at play), then we execute the person and begin digging.
-
-- If for any reason the second reading fails we abort and stop taking readings for that person for the day, since something else interfered with this process and none of the 1-day readings can be trusted until tomorrow.
-
-- This allows us to reuse the same prisoner multiple times in the same day - they can be tested again and again by the 1-minute reader until such time as water is found.  Only then are they executed and do we need to move onto the next prisoner.
-
-Note that this entire scheme is intended (by me as the author) to be horrifying!  Even if the prisoners have been sentenced to be executed for their crimes, this is tantamount to human sacrifice, and modern readers/players are likely to find this entire scheme repulsive.  Indeed, while I intended for this entire scheme to help flesh out the ways in which smiths could create artifacts of power, I also wanted this entire setup to be a giant red flag which caused the PCs to question whether they wanted to continue supporting the NPCs they had allied with (or if they did, then whether they wanted to try to convince them to change their behavior).
-
-When the PCs later consulted with Prince Fukuhachi, the Emperor's son and General of the 1st Imperial Legion, the Prince revealed that while the practice of "fate tying" had not been officially banned, no Emperor had done it since the days of Hantei the 16th.  Later Emperors found they could achieve the same effects by destroying inanimate objects of great significance, such as famous swords or holy relics.  However, this is offensive to the ancestors and gods, and so eventually the Order of Amaterasu realized one could craft sticks of incense so holy that their burning could be detected by the same underlying principles, and since the burning of such incense honored rather than insulted the gods, this is a safe alternative.  However, the creation of such incense is incredibly time consuming and few are qualified to do so - the Order of Amaterasu is able to create perhaps only a dozen sticks per year, which means they must be rationed to be used in only the most important of circumstances and to answer only the most pressing of questions.
-
-Now let's turn to some more lighthearted setting details, that of gardens.  Here was the introduction to the Hidden Way campaign:
-
-> The 1st Imperial Legion is tasked with guarding the Gateway to the Land of the Burning Sands.  The Emperor's second son traditionally commands this legion starting at his gempukku, giving him valuable leadership experience while keeping him away from the temptation of entangling alliances with those who might seek to subvert the authority of the crown prince.  Located on the western frontier of the Empire, this post ends up being mostly ceremonial since it has been centuries since the last gaijin invasion.
-
-> Trade with gaijin lands was banned by Imperial decree over 300 years ago.  However, the gaijin demand for silk and their willingness to buy it with silver makes smuggling incredibly profitable.  The Hidden Way is a criminal syndicate run by samurai ex-legionnaires who have become one of the largest suppliers of silver to the Imperial Mint.
-
-> The player characters in this campaign are the people currently running The Hidden Way.  Over the last 300 years, there have been periods of time when The Hidden Way was ruthlessly cutthroat in the pursuit of their profits, and other times when they viewed themselves as primarily serving the Empire by providing the silver for its coinage while helping the Emperor prevent the more dangerous forms of gaijin trade.  It will be up to the PCs where they want to fall on this spectrum, both individually and collectively.
-
-For centuries, the Hidden Way has maintained the 11 Imperial gardens of Chai Sedo as part of the honorable service "The Western Star" mining company provides to the prince.  Most legionnaires assume that the Hidden Way started these gardens to entice the prince to look the other way on their smuggling, but the truth (known to any student of the legion's history) is the opposite - the Hidden Way itself grew out of the alliance of samurai from different clans who were already tending to these gardens!
-
-Each garden has a "Master of Purity", who most of the legionnaires refer to as the Garden Masters.  The Hidden Way also employs gardeners, stonemasons, woodcarvers, musicians, servants, and other laborers.
-
-Some of these are stroll gardens suitable for enjoyable walks, while others are contemplation gardens designed for meditation and prayer.  Some are "excitement gardens" which delight the eye immediately, while others are "calming gardens" whose beauty is more subtle.  Most of these are walled gardens which require visitors to pass through a series of tori arches to enter.
-
-### The 11 Imperial Gardens of Chai Sedo
-
-Because of the climate and relative lack of water (notwithstanding the artificial ponds, canals, and pools), the 1st Imperial legion is bereft of a bamboo garden, maze garden, temple garden, orchard garden, moat garden, museum garden, residential garden, lake garden, tsukiyama garden, flower garden, or reptile garden.  The 11 gardens listed below are the best effort based on what can be supported in this region.
-
-#### Pond Paradise Garden
-
-A pond garden, made up of a series of cultivated, artificial ponds, some of which contain fish and even koi, which struggle to survive in this climate, but which are brought in and replaced as needed.
-
-#### Borrowed Scenery Garden
-
-Arguably the most impressive of the Imperial gardens, this is a small artificial "lake" (actually a pool) with a carefully curated sand bar garden reminiscent of the pine sand bar off the coast of Otosan Uchi.  The sand bar can be reached either by boat or by walking across a series of stone pillars.
-
-This artificial lake is also artificially seeded with fish, which are brought in mainly from the Firefly river, White Shore Lake, and the River of the Lost Valley.  This is the prince's personal fishery so that he can occasionally eat fresh fish.
-
-#### Garden of Sunken Sceneries
-
-A boating garden composed of a set of artificial ponds and canals, with stone and wooden carvings below the surface.
-
-#### Mossy Stone Triad Garden
-
-This is the smallest but arguably most impressive of the Imperial gardens, since the semi-arid climate of the area doesn't support moss.
-
-#### Garden of Seven Sublimities
-
-A meditative rock garden cultivated and most frequently visited by the members of Togashi Company.
-
-#### Beauty of Empty Space Garden
-
-Dry garden (which some uncultured samurai might confuse with a rock garden) composed of dry streams and rocks and sand to suggest running water, this garden surrounds Chai Sedo itself.  A series of bridges of the sort one might see in a temple garden cross the various streams.
-
-#### Waving Lawn Garden
-
-A shrub garden whose intent is to showcase all of the plants capable of growing in this climate without transplanted soil or other similar interventions.  This is the largest garden and is not walled - by design it's somewhat unclear precisely where the garden begins and ends at each of its edges.  It's commonly visited by legionnaires, especially walked through at night when it is well-lit by various types of lanterns.
-
-The most common lantern is the hexagonal firebox with two openings and carvings of deer.  These lanterns stand on a single solid pillar.
-
-Snow-viewing lanterns stand on three or four legs next to the small pools which dot the landscape.  The big umbrella is perfect to catch the falling snow and present it as a soft white hat to the carefully watching eye.  Some hanging lanterns are also placed on overhanging pillars and so they can hang over these pools.
-
-The gardeners hide small statues of the Shinsei in different places throughout this garden on stone plates, changing locations frequently.
-
-#### Snow Rose Garden
-
-A delightful bonsai garden with as many varieties as can survive in the climate - this includes a number of varieties which are only able to survive because of transplanted soil and the time-consuming tending from the gardeners.
-
-#### Garden of Pleasure After
-
-Named for the fact that a wise ruler attends to business first and only indulges in pleasant activities once the work of administration is complete, this is the Prince's personal courtyard garden.
-
-Some notable things in this garden:
-
-- A hand washing basin composed of several elements that is in the middle of the garden with two stones on either side.  A stepping stone path leads towards a large flat stone in front of the basin on which to stand.  Water flows into the basin through a bamboo tube, and a lantern at the back of the basin helps to guide the guest towards it in the evening.
-
-- A "music jar" buried upside-down in the ground and covered with cobblestones - as water drips through a hole in the bottom of the jar and hits the standing water in its top, it makes a sound reminiscent of a harp.
-
-- A "deer-scarer", which is that thing where a bamboo pipe is balanced like a seesaw under a source of flowing water and one end of the bamboo pipe is open and the other is closed.  When the open end fills with water, the extra weight causes it to snap down onto a stone or wooden block with that very pleasant soft crack as it tips back into place.
-
-#### Elements of a Pure Land Garden
-
-A tea garden with a gate leading up to the pagoda where tea ceremonies are held.  Stepping stones run throughout the garden along its various paths, surrounded by mostly evergreen, non-flowering plants.
-
-#### Circle of Here Garden
-
-A study garden dotted with tents and covered gazebos and a small library.  The books available are mainly a combination of widely-reproduced classics and cheap pillow books, though the prince's manor contains a more impressive personal library.
-
-### The 1st Imperial Legion
-
-Now let's talk about the 1st Imperial Legion itself.  Here are some random notes about the structure and layout of companies.
-
-### Ranks in the Imperial legion
-
-Here's a rough outline of the makeup of a legion.
-
-| Unit | Rank of Officer in Charge | Number of samurai troops |
-| --- | --- | --- |
-| Legion | Legion General | ~1000 |
-| Battalion | Battalion Commander | ~200 |
-| Company | Company Captain | ~50 |
-| Platoon | Platoon Lieutenant | ~10-15 |
-| Squad | Squad Sergeant and Corporal | ~4-6 |
-
-Other notes:
-
-- A collection of Legions is an Army, commanded by an Army General.
-
-- A collection of armies is commanded by someone with the title General of the ____ Armies of the ____.  For example, Daidoji Uji (daimyo of the Daidoji Family) has the title, "General of the Southern Armies of the Crane".
-
-### Companies and Houses
-
-Each House is responsible for providing either part (in the case of small houses) or all (in the case of larger and/or more prestigious houses) of a Company to at least one of the Imperial legions.  Some houses provide more than one company, which can be negotiated with the Imperial Ministries of War and Revenue (through the Treasurer and the Shogun and their subordinates) as part of their tax obligation.
-
-Companies are funded entirely by the Houses which provide them.  Battalion Commanders are frequently Imperials, especially from the Seppun Family, though the 1st Imperial legion is an exception due to its unique mission and history.  A small percentage of each company will consist of samurai from other Houses and sometimes other clans, which will sometimes be transferred/assigned for political or personal reasons.
-
-Due to the sought-after benefits of holding a position in the 1st Imperial Legion, out-of-House assignments are more common in a number of the companies (Hiruma company being an outlier for being almost entirely sold-commissions and Togashi company being an outlier in the other direction).
-
-### Budget
-
-Each company captain in the 1st Imperial Legion has a several thousand koku budget (typically ~1000 koku higher than a company in a different Imperial legion):
-
-- Because of the increased rank across the legion, the stipends alone are in excess of 1200 koku.
-
-- Several hundred additional koku in feeding the troops and support staff - this reflects an increase in the price of good food this far away from the heart of the Empire.
-
-- Hundreds of koku to pay for the support staff and their expenses - a company has ~50 samurai and about two dozen peasant workers, including unskilled or semiskilled labor such as cooks, custodians, launderers, and burakumin, as well as skilled labor such as smiths to maintain the weapons and armor.
-
-- Hundreds of koku for equipment.  This not only includes the upkeep and replacements of weapons and armor, but also the tents, building materials, ditches and fortifications (these being less common in the 1st legion).
-
-- Hundreds of koku for religious and cultural celebrations/festivals and the maintenance of the company shrines.  Each company has at least three shrines: one for the House's ancestors and one for each of the clan's patron fortunes.  Such shrines are located to the south or southeast of the rest of the company structures, i.e. between the company and the Shadowlands.  These religious expenses include not only the sacred items (e.g. special incense/herbs/flowers) but also the alcohol which is consumed at all such celebrations.
-
-- Hundreds of koku for gifts and lobbying of the Prince and other important officials above and beyond the expectations of the major gift-giving holidays.
-
-### Layout
-
-The 1st legion is mostly made of tents rather than wooden barracks, due to the harshness of the climate and its effect on wooden buildings.
-
-The standard sleeping tent is ~10x10 feet wide and 6-8 feet high.  A typical company has ~8 of these sleeping tents:
-
-- 4 holding the non-officer legionnaires of the company's 4 platoons (~8 legionnaires in each)
-
-- 1 holding the 8 corporals
-
-- 1 holding the 8 squad sergeants
-
-- 1 holding the 4 platoon lieutenants
-
-- 1 holding the company captain
-
-In addition, there are several other much larger tents:
-
-- an officer's mess where the corporals, sergeants, lieutenants, and captain dine
-
-- a legionnaire's mess where everyone else dines
-
-- a kitchen tent where the food is prepared
-
-- a meeting tent large enough to hold the entire company where orders are given
-
-Servants sleep in separate tents which line the outside of the company's area.  These tend to be numerous and smaller since many servants frequently live in the legion long-term with their families.
-
-Burakumin and the latrines they dig are located outside of the company encampment.
-
-In addition to tents, a company encampment has several buildings, usually made of stone or clay/mud bricks:
-
-- A granary/storehouse containing provisions.
-
-- An armory where weapons and armor are kept.
-
-- A stables where the horses are kept.  Unicorn companies tend to have multiple stables and will sometimes have more horses than legionnaires, whereas most companies will have only enough for a single platoon.
-
-### The Gateway and Outsider Keep
-
-Here's some more general information about the area where the 1st Imperial Legion is located, known as the "Gateway to the Land of the Burning Sands":
-
-The Twilight Mountains extend along the entire western border of Rokugan.  There are various valleys and gaps, the largest of which is a 13-mile valley which separates Shinjo lands on the east side from Moto lands on the west.  This valley is known as the Gateway to the Land of the Burning Sands.
-
-Chai Sedo is at the north end of the valley and Outsider Keep is at the southern end.
-
-Shiro Moto, which the Moto refer to as Karakoru, is approximately 50 miles west of the valley.
-
-The valley is approximately 100 miles to the northwest of the Shinomen forest.  It's at the edge of the Zenzan domain, which is the westernmost domain in Shinjo lands, approximately 75 miles from Shiro Zenzan, which is built close to White Shore Lake.  The entire valley is technically in the Sanfun province, though historically the Imperial Legion has taken responsibility for the valley itself.
-
-Artistic depictions of the valley often show lush green grass on one side and barren desert on the opposite side.  In fact the whole area is semi-arid, with about 16 inches of rainfall per year.  This is not enough to support much in the way of trees or farms, but there is plenty of vegetation on both sides of the valley.  Still, only about 1% of the land is arable, which is why the local village districts are collectively known as the Three Unfortunate Villages of Sanfun, since the land here is poor and its farms tend to be small and spread out.  The Provincial City of Sanfun, also called Oshindoka Toshi, is said to be "heaven for men and dogs, hell for women and horses".
-
-Thus, despite its name, the Gateway to the Land of the Burning Sands is actually about 400 miles east of the Burning Sands Desert, and about 800 miles east of the city of Medin al Salaat.
-
-Outsider Keep is at the southern end of The Gateway to the Land of the Burning Sands next to an old silver mine which has been fully tapped for centuries.  The keep itself consists of an outer wall surrounding a large compound of brick buildings.  It is maintained by the Western Star Mining Company (aka The Hidden Way):
-
-Outsider Keep has a large staff of other hinin workers who cost about 800 koku/year to employ:
-
-- ~20 miscellaneous servant laborers (cooks, housekeepers, launderers, butchers, bakers, etc)
-
-- ~20 entertainers (mostly actors and musicians)
-
-- ~20 clerks (scribes, bookkeepers, clerical workers, bursars, etc)
-
-- ~10 personal servants for the Veiled Council
-
-- ~10 stablehands
-
-- ~10 skilled craftspeople (carpenters, stonemasons, metalworkers, tailors, etc)
-
-- ~10 animal handlers and drivers and porters
-
-Many of those listed above live with their families in or around Outsider Keep, though this is significantly more common for the laborers than for the samurai or guards.  The total population of Outsider Keep is therefore around/over 400 - around 175 members/employees and the rest being family.
-
-Many of the employees and their families live in tents and yurts in the area outside the walls.
-
-There's also a large pen of horses outside the walls - see Horse cultures for more information.
-
-Outsider Keep itself is situated at the entrance to the old silver mine, and that mine is used as storage for the silk and silver - there are storerooms inside the old mine which are kept behind thick metal doors.
-
-The Hidden Speakers of the Hidden Way live at Outsider Keep, and therefore there are plenty of amenities.  In addition to the company store, there's a sake house, gambling house, distillery, butcher, bakery, and outdoor theater for the permanent acting troupe which is maintained there.  There is no "market day" per se, but occasionally an outdoor bazaar will spring up outside the walls of the keep when enough visiting merchants and customers are present - this has been happening with increasing frequency since there are now so many more wealthy Moto than ever before.
-
-The gambling house and distillery were recently sacked during the Moto invasion, though thankfully the raiders didn't know about the bounty kept inside the old silver mine.
-
-At this point I feel like I'm mostly just sharing random setting details, but I think there's value in that.  Here's a section on "The Dark Moto".
-
-### Bayushi Tangen
+#### Bayushi Tangen
 
 Bayushi Tangen was a warrior-poet who was alive during the return of the Unicorn Clan.  The Emperor famously asked Tangen to write a treatise on treachery, duplicity and espionage.  Tangen called this book "Lies" and this book is said to best capture the philosophy of the Scorpion Clan.  A representative quote from "Lies":
 
@@ -6656,7 +6643,7 @@ After the return of the Unicorn, it was quickly noticed that a new threat had em
 
 The copy in Chai Sedo is over 100 years old, and newer editions presumably contain information this copy lacks, though some attached commentaries by past visiting scholars help to fill in the details.
 
-### The Dark Moto
+#### The Dark Moto
 
 When the Unicorn returned to Rokugan 200 years ago, they didn't arrive in one giant army.  There were waves of nobles and peasants and refugees which journeyed across the desert.
 
@@ -6674,13 +6661,13 @@ Platoons who successfully turn away the Dark Moto without anyone joining their r
 
 Moto Tsume is the leader of the Dark Moto.  Kaiu Yoshizo described an encounter with a platoon of Dark Moto led by Moto Tsume in the aftermath of clearing ogres and goblins out of Hiruma Castle.  Tsume wields powerful dark magics, and declared to Yoshizo that it was the magics of death that he wielded, granted to him by the Gods of Death, and that this magic was not maho - a claim somewhat undercut by his being a tainted skeleton man riding out from the Deep Shadowlands.  Tsume claimed at this time that he and the Dark Moto were fighting on behalf of humanity and for the furtherance of humanity's interests in the mortal realm against the oni lords of the underworld.  This appears to be roughly in line with what Tetsu has read in "The Dark Moto" by Bayushi Tangen.
 
-### The Secret Histories of the Moto
+#### The Secret Histories of the Moto
 
 Apparently the Yassa is not the only secret writing of the Moto, and they evidently have secret histories as well.  Moto Zolzaya and Moto Khunbish have evidently both read some or all of these secret histories, which contain the Moto version of the Black Guard.
 
 According to Moto Zolzaya, when the Moto returned to their ancestral homelands, they reclaimed ancient shrines such as Bodi Kaikhan.  Some of those shrines contained secret teachings and rituals, part of the old ways whose practices had fallen out of use.  A man named Moto Tsume was the khan of the Vindicator (Zolzaya informs you that the Vindicator histories place him as their high priest who defied their khan), who performed certain rituals to immortalize himself before he was driven out by the other noble families of the Vindicator.  Moto Tsume and his disciples escaped into Jigoku after being surrounded in a siege of Bodi Kaikhan, and evidently one of the chief responsibilities of Vindicator priests is to spiritually ward the walls of Bodi Kaikhan to keep them from being able to re-enter the mortal realm directly from Jigoku.  The strength of the Vindicator wards is demonstrated by the fact that the Dark Moto are forced to enter the mortal realm in the Shadowlands, presumably through the Festering Pit of Fu Leng.
 
-## Wasp Bounty Hunters
+## The Wasp Bounty Hunters Campaign
 
 As of this writing, my current campaign is the Wasp Bounty Hunters campaign, which has this three-paragraph description:
 
@@ -6821,11 +6808,11 @@ As a reminder, the Karmic Inquisitors campaign took place in the winter of 1129 
 | 1129 | The kumosaya fungal blight destroys half of the Damasu rice and soybean crop. |
 | 1130 | Tsuruchi Naomi begins considering suitors for her eldest son Ichiro (the future daimyo of the Wasp). |
 
-## Bounties
+### Bounties
 
 The Wasp Clan Charter grants all Wasp samurai the authority to pursue Imperial bounties.  How do those work?
 
-### Registering a bounty
+#### Registering a bounty
 
 Fugitives often flee the jurisdiction where they are wanted, and cross clan boundaries to hide amongst the enemies of the magistrates who seek them.
 
@@ -6851,7 +6838,7 @@ Here is how the monies involved in a bounty are handled:
   - If the target was killed resisting arrest, then it is still traditional to bring their head to the Imperial magistrate who registered the bounty.  However, due to the difficulties involved, a bounty may be disbursed by the local Imperial magistrate in such a case, who will then write to their colleague about the matter to initiate the chain of reimbursement.  Such an action would surely require a **consideration gift** (and possibly an **indemnity gift** if the amount or distance was large enough) if the bounty hunter lacked a pre-existing relationship with the local Imperial magistrate.
 - Traditionally, a samurai who collects a bounty keeps half of the bounty.  Their superior gets a tithe (10%) of the posted amount, and the remainder goes to the daimyo's treasury.
 
-### An example bounty
+#### An example bounty
 
 Shinjo Yoshi is visiting Scorpion lands.  While in Ryoko Owari he becomes inebriated, and takes offense at a perceived slight by Shosuro no Michio Takashi.  Yoshi attacks Takashi without warning, severely injuring him.  When he sobers up the next morning, Yoshi realizes that he may be arrested or challenged to a duel or both, and decides to immediately leave the city and return home.
 
@@ -6875,7 +6862,7 @@ Toshiken disburses the 100 koku bounty to Mukami, who immediately returns to Kyu
 
 (Behind the scenes, Seppun Toshiken's staff writes to Hantei Sukune's staff, informing them of what occurred.  Because this amount is a pittance to the Imperials involved, Sukune immediately sends the 100 koku reimbursement to Toshiken, and doesn't even bother to collect her own repayment from Shosuro Mitsu until the following week, when she happens to be in Ryoko Owari's southern district on other business and finds it convenient to visit Mitsu's estate.)
 
-### Non-criminal bounties targeting political adversaries
+#### Non-criminal bounties targeting political adversaries
 
 In the previous example, a samurai committed assault and fled the jurisdiction rather than face a magistrate's inquest.  However, bounties may also be placed for persons of interest in an open inquiry, e.g. for witnesses to a crime of which they have no suspected culpability.  Consider the following:
 
@@ -6903,7 +6890,7 @@ Zenshiro may additionally argue that this is clearly a manipulated summons, and 
 
 And of course, if Zenshiro declines to agree to return to Kyuden Kakita, it's entirely possible that he himself might be killed while refusing to surrender himself into the authority of the Wasp bounty hunter who confronts him!  This would surely be a shame, including for the poor Kakita Family, whose mystery of the events leading up to their unfortunate teahouse brawl would sadly go forever unsolved.
 
-### Most common bounties
+#### Most common bounties
 
 While every case is unique, there are categories of bounties which represent the vast majority of fugitives which appear in the Imperial bulletins:
 
@@ -6915,7 +6902,7 @@ While every case is unique, there are categories of bounties which represent the
 
 - **A samurai avoiding a legal inquiry out of shame.**  The cases of Shinjo Yoshi and Hida no Akito Zenshiro are both examples of this.  Sometimes a samurai is hiding amongst their family because they are guilty of a crime.  Other times they have witnessed something which they would rather not be involved in and have declined to answer a legal summons to testify (whether to avoid embarrassment or protect a friend or simply avoid a troublesome journey).  In some cases they may be targeted for harassment by their political enemies; the Crane Clan have shown increasing willingness to use their great wealth in this way.  The amounts of these bounties are based on the seriousness of the matter rather than the ranks of those involved (except insofar as higher-ranking people are likely to command larger bounties).
 
-### Questionable bounty collection
+#### Questionable bounty collection
 
 The above example of Hida no Akito Zenshiro is an instructive one, because it is plausibly a case of someone responding to an insult by spending money to use the Imperial Ministry of Justice to harass someone.  In addition to having to deal with the hassle of dodging an Imperial summons, if a Wasp bounty hunter does confront Zenshiro, then he may be subjected to the indignity of being forced to travel over 500 miles (and then the same distance on the return trip) only to find that the sightings of him on the night in question are quickly dismissed as a case of "mistaken identity".
 
@@ -6928,39 +6915,39 @@ This is far from the most questionable type of bounty collection which might tem
 
 - One reason to obtain Imperial travel papers (or letters of introduction from prestigious officials) is to unambiguously identify yourself while far from home.  It used to be distressingly common for unscrupulous local officials to shake down travelers who lacked such identification.  Now that Wasp bounty hunters are increasingly checking for criminals along the Empire's roads and waystations, they will certainly face the same temptations to accept gifts of consideration in lieu of formal identification from "suspicious" travelers.
 
-### Example bounties
+#### Example bounties
 
 Here is a list of outstanding bounties from the latest Imperial bulletin as of the start of the Wasp Bounty Hunters campaign.  This list will be updated as the campaign progresses.
 
-#### **Hiruma Kojiro** [100 koku]
+##### **Hiruma Kojiro** [100 koku]
 
 Widely known to run an Empire-wide opium cartel, Hiruma Kojiro has avoided prosecution through ruthless intimidation of witnesses and using his outstanding skill as a duelist to dissuade investigators from daring to pry into his affairs.  He dares not travel by boat, so as to not risk the wrath of Osano-Wo, as the Lord of Storms is known to sink ships weighed down by heavy sins.  He is known to have departed from the Kuni Wastelands in early spring and will likely pass through the area on his way to Otosan Uchi sometime during this spring or summer.  An Imperial magistrate in northern Otaku lands has issued a summons to ask him some questions pursuant to an investigation into the opium trade, but he has thus far defied the Emperor's justice by ignoring the order.  He typically travels with Yasuki merchant caravans.
 
-#### **Shione Budi** [100 koku]
+##### **Shione Budi** [100 koku]
 
 This Mantis bushi is wanted for questioning in connection with the slashing and burning of Yasuki sugarcane fields three years ago.  Believed to be employed by the Silken Syrup Consortium, likely under a different name.
 
-#### **Shoda the hermit** [100 koku]
+##### **Shoda the hermit** [100 koku]
 
 Age unknown, but described as "old" by witnesses.  Thin build, gray hair worn long and loose.  Has a prominent goiter on the right side of his neck.  On the 7th day of the Month of the Serpent last year, Shoda attacked Bayushi no Daika Koharu, a Scorpion Clan noble hunting wild boar in the Kitsune forest.  Shoda accused Koharu of hunting foxes, which Koharu denied, and Shoda struck him from behind with a woodsman's axe.  Shoda is believed to be traveling with some number of disciples, who disappeared from the area.
 
-#### **"The many-colored Yasuki"** [100 koku]
+##### **"The many-colored Yasuki"** [100 koku]
 
 True name unknown, this Yasuki smuggler sails with forged travel papers and embroidered kimono of many different clans.  When discovered, he sets sail before he can be apprehended, occasionally making a fighting retreat through the harbor.  His Yasuki identity is confirmed by the number of his men who fight in the Crab style.
 
-#### **The oxbow river gang** [100 koku]
+##### **The oxbow river gang** [100 koku]
 
 A gang of approximately six to eight bandits has been attacking barges for the past 2 years on the river west of Kyuden Kakita where it bends through a slow oxbow.  They board from small boats, take what cargo they can carry, and flee into the marshland of the Zenji domain.  Reports indicate that multiple gang members carry Crab-style tetsubo.  One gang member was killed during a recent attack; the body was that of a young man with calloused hands consistent with farm labor.  Kakita magistrates have thoroughly searched their western counties and found nothing, and accuse their Lion neighbors of failing to follow up in their territory.
 
-#### **Kage the shadow-bandit** [75 koku]
+##### **Kage the shadow-bandit** [75 koku]
 
 While raiding the town manor of the county magistrate of Seitoyama (Kakita Hikai) three years ago, the bandit lord Kage successfully stole hundreds of koku and disappeared.  Hikai slashed Kage across the cheek from his left ear down to his chin, and is certain to have left a scar.
 
-#### **Shinjiro the obsidian merchant** [75 koku]
+##### **Shinjiro the obsidian merchant** [75 koku]
 
 Known to have supplied the traitor Shinjo Jotsu with obsidian shipments which were used to profane holy temples, Shinjiro fled Shosuro lands once Jotsu's treachery was discovered.  His stomach and chest are scarred from old battle injuries and he reportedly carries a piece of obsidian at all times.  A man fitting this description was spotted in Shinden Kitsune in the Month of the Ox last winter.
 
-#### **Recovery of the Singing Branch** [75 koku]
+##### **Recovery of the Singing Branch** [75 koku]
 
 A branch from a sacred camphor tree in the Kitsune Forest was cut the night before the Setsubun New Year's Festival.  This tree was famous among pilgrims for producing a faint humming sound when the wind passed through its branches at certain times of year, which Fox priests have identified as being produced by the kami dwelling within.  The branch was cut cleanly with a fine saw.
 
@@ -6968,31 +6955,31 @@ The Fox Clan believes the branch was taken to be carved into a high-quality musi
 
 Kakita Ikura the musician (second cousin, once removed, to Kakita Toshimoko, the daimyo of the Kakita Family) departed unexpectedly, journeying home during the Setsubun festival rather than enjoying the festivities.  He has not been officially listed as a person of interest in the case.
 
-#### **Shione Agus** [50 koku]
+##### **Shione Agus** [50 koku]
 
 Kakita Foruku challenged Shione Agus to a duel on the Autumnal equinox of last year, and Agus fled Kyuden Kakita rather than answer him.  A Mantis Clan man answering to the name Agus was recently spotted in Shiro Suzume.
 
-#### **The Silk-Stained Three** [50 koku]
+##### **The Silk-Stained Three** [50 koku]
 
 Daidoji no Etsuko Azami was waylaid on the road to Shiro Reiji on the 3rd Day of the Month of the Dragon of this year, and 8 bolts of dyed silk were taken.  The bandits were two men and one woman.  Azami threw a sukumo (fermented indigo) dye onto the clothes and faces and hands of the men.  The indigo under their cuticles may take up to a few months to fully fade.
 
-#### **Daidoji Maku** [50 koku]
+##### **Daidoji Maku** [50 koku]
 
 Daidoji Maku's father died during an ecstatic fast in the Sovereign Temple of Hotei in Kyuden Kakita many years ago.  Last year, Maku visited this temple and struck a temple steward.  Kuni Nakadai, the Witch Hunter for Kyuden Kakita, intervened and was subsequently attacked by Maku, who returned to Daidoji lands.  Maku was spotted in the temple during the Setsubun Festival at the beginning of this year, wearing anonymous pilgrim's clothes, and has been seen at least one other time since then.  Kuni Nakadai has placed this bounty on Maku, believing that the local Crane officials are avoiding the awkwardness of investigating their Daidoji cousin.
 
-#### **Togashi Miyuki** [50 koku]
+##### **Togashi Miyuki** [50 koku]
 
 The daughter of Mirumoto Sukune, who ruled the Mirumoto Family in regency during Mirumoto Hitomi's warrior pilgrimage until her return to Dragon lands the year before last.  During the Dragon Winter Court of that year, Mirumoto Miyuki quarreled with and killed a Shosuro actress and was sentenced to death by Kitsuki Yasu, the daimyo of the Kitsuki who acted as the Imperial magistrate for the case.  The sentence was commuted to lifelong exile from Dragon lands at the request of the victim's family, out of respect for the sensibilities of their Dragon hosts, as the death penalty is avoided in Dragon lands.  After leaving Dragon lands, Miyuki joined the monastic order of the Togashi Ise Zume, taking the Togashi name and receiving tattoos from a famous Togashi tattoo artist: the arrowroot, the honeybee, and the hawk.  She is believed to have departed Phoenix lands after the Setsubun New Year's festival on a pilgrimage to the Kitsune forest for reasons unknown.
 
-#### **Kitsune Moriko** [50 koku]
+##### **Kitsune Moriko** [50 koku]
 
 The eldest daughter of Kitsune Shunichi, a Fox Clan shugenja, Moriko quarreled publicly with Bayushi no Daika Isoshi during a trade negotiation over charcoal prices in Shinden Kitsune.  Moriko accused Isoshi of having "a merchant's soul in a samurai's clothing" and Isoshi challenged her to a duel.  Moriko accepted, then left Shinden Kitsune the following morning to "meditate".  The Fox Clan daimyo has refused to compel her return, stating that her retainer "has gone walking in the forest and it is not known when she will return".
 
-#### **The stuttering bandit gang** [40 koku]
+##### **The stuttering bandit gang** [40 koku]
 
 A bandit gang has been operating in the southern Sparrow foothills for several years, attacking travelers in northern Daidoji lands before fleeing to hide in the hills.  Their leader speaks with a pronounced stutter.
 
-#### **"Kitsune Denhei" the charcoal counterfeiter** [40 koku]
+##### **"Kitsune Denhei" the charcoal counterfeiter** [40 koku]
 
 Fox Clan white charcoal commands a premium throughout the Empire because of its odorless, practically smokeless burn, which makes it suitable for use in shrines and tea ceremonies.  The Fox Ministry of Revenue has discovered that counterfeit "Kitsune white charcoal" is being sold in Kakita and Etsuko lands, i.e. ordinary charcoal that has been coated in kiln ash to mimic the whitish-gray surface appearance of genuine white charcoal.  The fraud is discovered only when the charcoal is lit and produces the ordinary smoke and smell of common fuel.
 
@@ -7000,47 +6987,47 @@ These sales were traced back to "Kitsune Denhei" the Fox Clan merchant, who the 
 
 Several tea houses and at least one shrine have been embarrassed by serving guests or conducting ceremonies with counterfeit charcoal.  The Fox consider this not only a commercial crime but a spiritual offense, since impure charcoal used in shrine rituals could offend the kami.  This bounty is for the identification of whoever is responsible for this counterfeit charcoal.
 
-#### **The "heron" bandits** [30 koku]
+##### **The "heron" bandits** [30 koku]
 
 At least four travelers have been robbed while crossing the Mugi-arai-gawa ("the barley-wash river"), a small river coming down from the Sparrow foothills, separating Fox and Daidoji lands.  Each victim reports the same method: the bandits stand waist-deep in the water downstream of the ford and confront travelers mid-crossing when they are most vulnerable.  All are described as unusually tall and thin - "built like herons standing in the shallows".
 
-#### **The Fox Road footpads** [25 koku]
+##### **The Fox Road footpads** [25 koku]
 
 Three men attacked a Fox Clan charcoal merchant on the road south of Shinden Kitsune on the 25th day of the Month of the Hare of this year, taking a cartload of white charcoal.  The merchant's apprentice hid in the underbrush and observed that one of the men had ritual scars on both forearms consistent with the practices of a maho cult.  The forearms of all peasants in the province were inspected, so the culprits must have fled the area.
 
-#### **Roku the porter** [20 koku]
+##### **Roku the porter** [20 koku]
 
 Roku and four accomplices ambushed a team of dock workers on the 21st day of the Month of the Tiger last year, pushing several workers into the harbor and absconding with several crates of lacquerware.  One of the bandits was missing segments of two of the fingers on his right hand, and was identified as a former porter named Roku.
 
-#### **The tide-trap gang** [20 koku]
+##### **The tide-trap gang** [20 koku]
 
 Fishermen operating out of the provincial harbor city of Uminari north of Shiro Etsuko have reported that someone has been repositioning the channel markers which guide boats through the rocky shallows at low tide.  At least two boats have been damaged after following the false markers onto submerged rocks, and their cargo was taken by persons unknown while the crews were occupied with keeping their vessels from sinking.  The nose of one of the gangsters was broken in the recent altercation just before the Haru Higan festival earlier this month.
 
-#### **Doji no Tsume Hariya** [20 koku]
+##### **Doji no Tsume Hariya** [20 koku]
 
 Wanted for questioning in conjunction with a local investigation in the Ehime province of the Masao domain of the Lion Clan, which used to be part of the Natsu domain of the Crane Clan prior to the Lion/Crane war.  Hariya was recently visiting Kyuden Daidoji and will be traveling up the coast by boat, where he is expected to stop in Kyuden Kakita for the Doll Festival, where he can be apprehended.
 
-#### **Bayushi no Daika Rentaro** [15 koku]
+##### **Bayushi no Daika Rentaro** [15 koku]
 
 Rentaro is a Scorpion merchant who held a long-standing contract to purchase Fox Clan white charcoal for resale in Scorpion lands.  Last autumn he took delivery of a large shipment on credit, promising payment after resale.  Payment never arrived.  When the Fox Ministry of Revenue sent representatives to the Daika domain to inquire, Rentaro's household claimed he had departed on an extended trading journey and could not be reached.  Rather than bring suit before an Imperial magistrate to compel Rentaro's family to settle the debt, the Fox have registered this bounty to compel Rentaro to appear personally to answer for the insult.
 
-#### **Iwao the ashigaru** [15 koku]
+##### **Iwao the ashigaru** [15 koku]
 
 A licensed ashigaru from the village district of Aoyagi in the Reiji domain, Iwao was a member of the Flying Spears bandit gang.  When the Flying Spears were arrested the year before last, gang members named Iwao as a member, but he fled with his extended family before he could be detained.  Heavily built, nearly 6 feet tall, and walks with a pronounced leftward lean due to an old hip injury.
 
-#### **"Saburo three-towns"** [10 koku]
+##### **"Saburo three-towns"** [10 koku]
 
 A con artist rather than a violent criminal, "Daidoji" Saburo has defrauded innkeepers in at least three towns in the Etsuko and Kakita domains by posing as the advance man for a visiting dignitary's retinue, securing rooms and meals on credit for himself and his companions, then disappearing before the fictitious retinue arrives.  Medium build, clean-shaven, dresses well above his station.  Multiple victims describe him as "the most polite man I have ever met" and note that he speaks with the refined diction of a Crane courtier.
 
-#### **The "red-ear" fugitive** [10 koku]
+##### **The "red-ear" fugitive** [10 koku]
 
 Kakita Aichiko was attacked on the way to her family's country estate after leaving Kyuden Kakita late in the evening of the 12th day of the Month of the Horse last year.  She partially severed the right ear of one of her assailants.
 
-#### **Genichi the gambler** [5 koku]
+##### **Genichi the gambler** [5 koku]
 
 Genichi operated rigged dice games on market day in Shiro Suzume for months before being caught and sentenced to forced labor.  He escaped his labor detail on the 9th day of the Month of the Boar of last year by slipping away during a rainstorm.  Slight build, quick-moving, has a distinctive gap between his front teeth and is known to be a master of sleight of hand.
 
-## The Sparrow Clan
+### The Sparrow Clan
 
 After his Imperial Majesty Hantei the Tenth gifted his Empire with the then-new system of the [Six Ministries](https://karmicinquisitors.obsidianportal.com/wikis/six-ministries), some within the Great Clans wrestled with the various ways to apply this new structure upon their existing way of life.
 
@@ -7060,7 +7047,7 @@ Signing the charter of the new Sparrow Clan was among the final acts taken by th
 
 Suzume's older brother, Doji Tadaka, went on to become the Doji daimyo (and thus the Crane Clan Champion), and one of the founding members of the Gozoku.
 
-### Sparrow lands
+#### Sparrow lands
 
 Suzume and his followers quickly discovered the poor quality of the lands he had been granted.  The hilly terrain was unsuitable for rice farming, as the sloping hills made it impossible to maintain flooded rice paddies.  The crop yield of the "upland rice" that could be grown on the hillsides was barely half of what could be grown in the surrounding territories, and even the marshy valleys between the hills were barely suitable for taro, rather than more productive crops.  What's more, their rivals in the Imperial chancellery (supported by the greedy first Imperial treasurer, Yasuki Taka) instituted unfavorable land yield assessment standards on these less common crops which more than wiped out any gains the Sparrow Clan could hope to realize from eliminating so-called "inefficient middlemen" landlords.
 
@@ -7072,7 +7059,7 @@ Still, the humid southern environment was well-suited for growing:
 - autumn soybeans, which can often be grown and harvested in the warm fall months after the upland rice harvest; the Sparrow eventually found that a single season of autumn soybeans, when combined with planting Azuki beans and Soba (buckwheat) in the following year, allows for a 2-year crop rotation cycle rather than a 3-year one
 - foxtail millet and barley grow even on the dryer hilltops which dot the Sparrow Hills - although the Sparrow refer to their brewed alcohol as "barley sake", most of the rest of the Empire refuses to call it that, preferring the "polite" term "country wine" (though visitors to Sparrow land often find a cold "barley tea" of steeped roasted barleycorns to be a surprisingly refreshing and nutritious beverage on a hot day)
 
-### Sparrow land management
+#### Sparrow land management
 
 Tenant farming is outlawed in Sparrow lands, as per the terms of their Clan charter.  With no landlords, the Sparrow had to rely on local village headsmen far more than other clans for ensuring that the land was managed and taxes properly collected.  However, the impoverished Sparrow Clan was unable to provide the large stipends used by other clans to maintain the loyalty of these peasant headsmen.
 
@@ -7086,7 +7073,7 @@ bq).  I am [full name], child of [personal names of parents], of the lineage of 
 
 bq).  I vow to live among my neighbors, taking no shelter and consuming no grain of higher quality than that which the peasants of this district use to sustain their own lives.  In return, I beseech Daikoku's grace: grant me the discernment to manage our thin soil wisely and the vision to see opportunities for our village to flourish, even in lean years.  I swear this vow with a pure heart and sincere intentions, in the name of Daikoku and in the light of our radiant Lady Sun.
 
-## The Fox Clan
+### The Fox Clan
 
 At the dawn of the Empire, most of the humans now living under the Celestial Order were reluctant to farm.  Accustomed to the unjust petulance of the barbarous warlords who had previously ruled over them, many strove to continue living outside of the light of civilization, fearful of their new rulers.
 
@@ -7098,7 +7085,7 @@ Asako, first of her name (daimyo of the Asako Family of the new Phoenix Clan) of
 
 While the Asako were unwilling to retract their hospitality, they sought out other places where their intransigent guests might be better suited.
 
-### Fox Lineages and Provinces
+#### Fox Lineages and Provinces
 
 The Fox Clan has five lineages: the ruling Kitsune lineage plus four provincial lineages, each administering one of the four Fox provinces, which are named for the cardinal directions.
 
@@ -7108,7 +7095,7 @@ The Fox Clan has five lineages: the ruling Kitsune lineage plus four provincial 
 - The Nanke lineage administers the southern Minami province.
 - The ruling Kitsune lineage has authority over the forest itself, and always staffs the clan ministries of Rites and Revenue.
 
-### The Kitsune Forest
+#### The Kitsune Forest
 
 The third largest forest in the Empire is the Kitsune Mori ("fox forest").  Bordering the Lion on the north, the Scorpion on the west, the Crane on the east, and the Crab on the south, this vast forest is a source of many natural resources... and just as many supernatural troubles.
 
@@ -7120,7 +7107,7 @@ Osusuki was the black fox, and grew into a shapechanger who married one of Shinu
 
 Although she did not wield the title at the time, Shinun is now recognized as the first Fox Clan Champion, and the children of Osusuki and Akomachi ushered in a new age of coexistence, and the forest gradually ceased troubling the four major clans in its neighboring domains.
 
-### The Imperial Road Through Minami
+#### The Imperial Road Through Minami
 
 An Imperial road runs through Minami, the southernmost Fox province, administered by the Nanke lineage.  Unlike every other stretch of Imperial road in the Empire, this one has no waystations.  In the early centuries of the Empire, when waystations were sparser and the Imperial roads less developed, the waystations along this road were repeatedly abandoned after strange afflictions struck the samurai posted to staff them.  Eventually it became understood that this section of road is perilous to outsiders who linger - though travelers passing through are mostly unbothered, and locals are entirely unaffected.  It is visitors in the countryside, even and especially along the Imperial road, who find themselves targeted if they stay in one place for too long.
 
@@ -7136,13 +7123,13 @@ The wardings themselves are maintained by the County Magistrate of Ochiba county
 
 A Pact-Bowl is a registered offering.  A traveler who passes the threshold has, by Fox reckoning, taken a grain of the rice - accepting the wood's hospitality.  To then waylay another traveler past that point is to have taken without offering in return.  The debt is owed not to the Kitsune but to the wood, and the wood collects in its own currency: time, sleep, memory, luck.  Those who carry a Pact-Bowl debt for a year may find they can no longer remember the names of their own children.
 
-### Fox Lands
+#### Fox Lands
 
 The Fox have roughly 10-20 miles of land surrounding the Kitsune forest in all directions, which totals a few thousand square miles.  This is significantly less than most domains - a typical domain is around 5,000 square miles, and the non-forested non-mountainous sections of Fox lands add up to well under 2,000 square miles - but it still gives them a meaningful amount of farmland.
 
 Fox crops are fairly typical for the latitude (the same as North Carolina): rice, barley, foxtail millet, and other regional staples.  The foxtail millet is grown not because of the clan's name but because it is a common crop for the region.
 
-### The Fox Clan's economy
+#### The Fox Clan's economy
 
 Although the Fox have less than half the farmland of an average domain, they are quite wealthy from the bounty of their vast forest.  Their priests meticulously track and measure the holy places within the forest which must remain forever free from logging.  That still leaves enough trees to supply the lumber for the entire region, accounting for easily ten thousand koku of income per year just from what can be transported by cart, with significantly more being shipped downriver.
 
@@ -7158,7 +7145,7 @@ While the Ministries regulate the use of the forest's resources, the Seven Templ
 
 Fox lands have a higher population than their farmland could support because of the bounty of the forest.  Wild game, shelf mushrooms, and fruits and nuts support not only those who live on the forest's edge but the many hermits and other forest-dwellers who make their lives there.  That said, such foragers cannot afford to eat the best mushrooms, especially matsutake "pine mushrooms" which grow wild in symbiosis with the roots of pine trees.  Even more common wood-ear and shitake mushrooms are widely understood to have superior spiritual essence and purity when wild-harvested rather than cultivated.
 
-### Fox Temples
+#### Fox Temples
 
 There are no Grand Abbots in Fox lands; each temple has a "High Monk" instead, an archaic term that has not been used in over a thousand years in most other parts of the Empire.  Where other temples have Stewards, Fox temples have "Shika" (Knowers of Guests); and where other temples have a Council of Stewards, Fox temples have the "Three Bonds" who actually run the temple and its affairs:
 
@@ -7168,19 +7155,19 @@ There are no Grand Abbots in Fox lands; each temple has a "High Monk" instead, a
 
 These three are the only monks in a Fox temple required to be celibate.  No other position carries a vow of celibacy, and as a result the temple's revenue sources are effectively family businesses passed down along bloodlines within the temple.  Within Fox lands, the question is therefore not "which merchant families do X" but "which temples do X."  This includes moneylending, which is handled by the temples of Fukurokujin and Ebisu - except for loans specifically to fund weddings and dowries, which the Temple of Benten offers.
 
-## The Three Man Alliance
+### The Three Man Alliance
 
 As two minor clans which share a border, the [Fox Clan](#the-fox-clan) and the [Sparrow Clan](#the-sparrow-clan) have been allies for many centuries.  [The Crane wives](#the-crane-wives) set to work after the founding of the Wasp Clan to turn this longstanding alliance into a political and military bloc.
 
 These three minor clans of southeast Rokugan came together because none of them alone possessed any more power than a single vassal house... and in many ways each was even more vulnerable, due to lacking the protections of a patron Family of a Great Clan.  The Three Man Alliance has two main provisions: a military defense pact and a political caucus on the Imperial chancellery.
 
-### Economic Profiles
+#### Economic Profiles
 
 Samurai are generally paid in a combination of rice and coin.  Rokugan is a food-rich but cash-poor society, so much of a samurai's stipend is paid in food, other goods, or even IOUs.  The Fox and Wasp clans are atypically cash-rich, since much of their income comes from collecting coinage directly - from selling goods, in the case of the Fox, and from collecting bounties, in the case of the Wasp.  As a result, both clans hold a much higher percentage of their wealth in coin than the rest of the Empire does, despite the Wasp being poor and the Fox being rich.
 
 The Sparrow, by contrast, are poor in both food and coin, and their contributions to the Three Man Alliance are rarely if ever financial.
 
-### The Imperial Chancellery
+#### The Imperial Chancellery
 
 There are around 350 houses in Rokugan, and therefore about 350 representatives on the Imperial chancellery.  When the chancellery votes on a recommendation to the Emperor, who gets to weigh in is determined by the matter at hand.  On many topics, the full chancellery each makes their opinions known, and their votes are counted.  Some more select matters are voted on by only the heads of the 32 major Families (the 29 families of the 7 Great Clans, plus the Imperial Families of the Seppun, the Miya, and the Otomo).  And for certain matters of particular concern, only 7 representatives of the 7 Great Clans have a say.
 
@@ -7190,7 +7177,7 @@ The Three Man Alliance has formed a caucus, i.e. all three members have agreed t
 
 This has somewhat raised the profile of these three minor clans, as one can potentially make a single visit to reliably secure several votes.  That said, because all three clans of the Three Man Alliance owe favors to the Crane Clan, their voting bloc is occasionally spoken for prior to even being consulted.
 
-### The Lion/Crane War
+#### The Lion/Crane War
 
 The military defense pact between the clans of the Three Man Alliance was intended to be more symbolic than strategic.  The Fox Clan has enjoyed mostly peaceful coexistence with most of its neighbors for most of the history of the Empire, and the Sparrow Clan benefits from hilly terrain which is simultaneously too defensible to be easily taken and too poor to be worth the effort.  Even the new Wasp Clan has benefitted from its Imperial position, making the political fallout from attacking it not worth incurring the wrath of the Hantei dynasty (at least, so long as the Wasp retain the Imperial favor by meeting the Emperor's expectations).
 
@@ -7200,13 +7187,13 @@ That said, the Wasp Clan hosted numerous Crane and Lion guests at Hachinaga Keep
 
 While no battles were fought in Wasp lands, both Wasp and Fox samurai contributed to the defense of the Sparrow hills, and Lion cavalry forces were repelled on numerous occasions over the course of the war.
 
-## The Crane Wives
+### The Crane Wives
 
 After the founding of the Wasp Clan, Tsuruchi's allies in the Crane offered three beautiful and talented young courtiers as wives for him and his two most loyal retainers.  These three women form the Wasp Clan chancellery, which is referred to by many in the Wasp Clan as "the crane wives".
 
 Whether the allusion to the famous fable is unfortunate or fitting or both depends on your view of the moral of that story, and this question is a subject of spirited debate within the Wasp Clan.
 
-### The wives
+#### The wives
 
 Tsuruchi Naomi is the youngest daughter of Doji Kuwanen, the Crane Clan Champion.  She married Tsuruchi immediately after the founding of the Wasp Clan, and she declared at the beginning of this year that she is beginning to plan the arranged marriage for their eldest son Ichiro (who is currently 12, and therefore only a few years away from being able to marry).
 
@@ -7214,7 +7201,7 @@ Tsuruchi Ami is the wife of Tsuruchi Takuan, and the head of the Ami lineage.  T
 
 Tsuruchi Hitomi is the wife of Tsuruchi Kyoma (the PCs' boss), and head of the Kyoma lineage.  This is the lineage joined by substantially all of the samurai from other clans (and more than a few ronin) who joined the Wasp Clan after its founding.  The Kyoma lineage has significantly less internal cohesion than either of the other Wasp lineages; unlike the Tsuruchi lineage there is no common ancestry traced through the common Shin lineage, and unlike the Ami lineage there is no commonality of having come from peasant stock before being elevated into the samurai caste.
 
-### The fable
+#### The fable
 
 There are many variations on this famous story, most of which share the same basic structure.  The most famous version was immortalized by the famous Crane Clan storyteller Doji Shizue.  Here is a high-level summary of that account:
 
@@ -7226,7 +7213,7 @@ bq).  A man marries a woman who is in fact a crane disguised as a human.  To mak
 
 While these stories share the same basic structure, they have somewhat different implications.  Those who refer to the Wasp chancellors as "the Crane wives" might mean very different things, depending on which version of the story they accept, and what they consider the moral to be.
 
-### Tsuruchi Naomi
+#### Tsuruchi Naomi
 
 Naomi is the youngest daughter of Doji Kuwanen, the Crane Clan Champion (i.e. daimyo of the ruling Doji Family of the Crane Clan).
 
@@ -7236,13 +7223,13 @@ The eldest son of Tsuruchi and Naomi is currently 12 years old.  His childhood n
 
 As Ichiro nears his gempukku, Naomi has announced that she will begin the long process of matchmaking this year (1130).  She hopes to consult with Kaori, the Imperial matchmaker, but has initially found that her Crane relatives are attempting to block this access; they would prefer Ichiro to be matched with a Crane wife and for Naomi to remove from consideration the possibility of a Lion or Scorpion marriage.  This caused some degree of tension in the previous season's Winter Court of 1129 (held at Ryoko Owari), and Naomi has already begun researching alternatives in case her Crane relatives block her access to Kaori.
 
-### Tsuruchi Ami
+#### Tsuruchi Ami
 
 Tsuruchi Ami is the chancellor of the new Ami lineage of the Wasp, known colloquially as "the peasantborn lineage".  When she was still Doji no Tsume Ami, she was married to Tsuruchi Takuan, the most accomplished peasant informant in Tsuruchi's employ.  Takuan was instrumental in finding reliable mercenaries who could be relied upon to keep to the secret mission of infiltrating Hachinaga Keep.
 
 Takuan himself was not made chancellor, as his background made him unsuitable for such work, and so his wife was given the position.  Takuan now serves as the Wasp Minister of Retainers.
 
-### Tsuruchi Hitomi
+#### Tsuruchi Hitomi
 
 Hitomi is one of [the crane wives](#the-crane-wives), the three Crane courtiers who form the Wasp Clan chancellery.
 
@@ -7262,7 +7249,7 @@ Agetoki's father seemed perhaps even more furious than the Kakita, and he took h
 
 Daini died the following morning from his wounds.  His sister chose the name Hitomi for herself a few years later at her gempukku, pledging to reclaim the lost family heirlooms.  Unfortunately, the Lion/Crane war deterred those plans, and at this point the goal seems further away than ever.
 
-## Wasp Clan NPCs
+### Wasp Clan NPCs
 
 This section collects miscellaneous NPC backstory writeups.
 
