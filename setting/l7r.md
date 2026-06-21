@@ -2289,7 +2289,7 @@ The Damasu administration have mainly left this temple alone, as they do not wis
 
 ## Soothsaying
 
-As mentioned above, various omens and portents in the Karmic Inquisitors campaign should have foretold the kumosaya fungal blight.  Here is how omens and portents work in Rokugan, and how they are understood as tools of soothsaying.
+This section describes how omens and portents work in Rokugan, and how they are understood as tools of soothsaying.
 
 Although "soothsaying" literally means "truth-speaking", the word colloquially refers to predicting the future.  Soothsaying has two categories, which split into four disciplines, which divide into eight forms, which are composed of innumerable different practices.  Here's the opening that people read when opening the book "On Soothsaying":
 
