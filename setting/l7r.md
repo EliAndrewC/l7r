@@ -1699,19 +1699,25 @@ With that being said, religious orders must necessarily have a hierarchy in orde
 
 - For large temple networks such as the Order of Bishamon, the temple in the capital is known as the sovereign temple and the provincial temples are subordinate to it.  As explained above, those subordinate temples will have an abbot, but the sovereign temple will be run by a Grand Abbot.
 
-### Orders and Temples
-
-First, some terminology distinguishing an Order from a Temple.
+We sometimes talk about "orders" and other times "temples", so what distinguishes an Order from a Temple?
 
 The Order of Bishamon refers to the network of temples, monasteries, and shrines devoted to Bishamon throughout Damasu lands.  Each domain in Lion lands has its own Order of Bishamon with its own Grand Abbot.
 
 Sometimes people refer to "the Order of Bishamon" and mean the general system of all Bishamon-related religious institutions across the entire Empire, but most of the time anyone talking about any particular Order is referring to the institution within that domain.
 
-Although the Order of Bishamon in Damasu lands will sometimes send gifts and offerings to the Order of Bishamon in the Akodo domain, this is more infrequent and informal than the rigid expectation of taxes which exists between the Damasu house government and the ruling Akodo house.
+Although e.g. the Order of Bishamon in a vassal domain will sometimes send gifts and offerings to the Order of Bishamon in the Clan capital, this is more infrequent and informal than the rigid expectation of taxes which exists between the vassal house government and the ruling Clan house.
 
-The Temple of Bishamon in Toshi Ranbo is also formally referred to as the sovereign temple, while the smaller provincial temples in each of the provincial cities of the Damasu provinces are also formally referred to as subordinate temples.
+The Temple of Bishamon in a domain's capital is formally referred to as the **sovereign temple**, while the smaller provincial temples in each of a domain's provincial cities are formally referred to as **subordinate temples**.
 
-To summarize, the Order of Bishamon refers to the broader network of all Bishamon temples/monasteries/shrines in Damasu lands, while the Temple of Bishamon refers to the sovereign temple in the Damasu capital of Toshi Ranbo.
+To summarize, "the Order of Bishamon" refers to the broader network of all Bishamon temples/monasteries/shrines in a domain, while "the Temple of Bishamon" refers to the sovereign temple in the domain capital.
+
+Here are the designations at each level:
+* The Grand Abbot for an Order serves in the Soverign Temple in the domain capital
+* Provincial abbots serve in subordinate temples in the provincial cities
+* Town preceptors serve in town monasteries in county towns
+* Country monks serve in village shrines
+
+#### Temple of Bishamon Finances and History
 
 The Temple of Bishamon in Toshi Ranbo is one of the largest in the Empire, with over 200 monks living in the temple complex.  Because this is unusually large, it's not necessarily representative of most major temples in most major cities, but here are the rough numbers for the monks in each category in the temple:
 
@@ -1728,8 +1734,6 @@ The Temple of Bishamon in Toshi Ranbo is one of the largest in the Empire, with 
 Most of the monks in all of the above categories live in the Temple of Bishamon complex.  This does not include most of the initiates, who have begun their study, usually part-time while working their existing jobs and handling their normal family obligations.  As the Shinsei said of the monastic life, "many are called, few are chosen" - there are generally 200-500 initiates, more in number than all other categories combined!
 
 Here's a rough outline of the Order of Bishamon's standing over the past decade and a half:
-
-#### Temple of Bishamon Finances and History
 
 Under the old Damasu regime, the Temple of Bishamon was the biggest, richest, most influential temple in Damasu lands, due to the centrality of the fortune Bishamon in Lion life.  A majority of the government's temple funding went to the Order of Bishamon, which made up roughly 50% of the Temple's funding.
 
