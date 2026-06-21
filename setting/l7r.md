@@ -1592,8 +1592,6 @@ The twelfth month, Shiwasu ("priests running"), is named for the flurry of activ
 
 ## Oaths and Vows
 
-With a few specific campaign settings covered, here are some of the religious underpinnings of Rokugan and its cosmology.
-
 Oaths and vows are heavily incorporated into this setting.  The main difference between the two is that an oath is sworn by a god, while a vow is sworn to a god or some other type of divine being.  This has several implications, chiefly that an oath is something that the person you swore it to can release you from, but since a vow is sworn to a god, only the god can release you.  This means that oaths can be temporary even if they were originally intended to be permanent, whereas you cannot be freed from a vow.
 
 This setting imposes a certain format for oaths and vows, admittedly based more on the Roman world than Japan.
@@ -1608,19 +1606,19 @@ Here's an example of how this applies to the Legionnaire's Oath, an oath of offi
 
 3. The legionnaire ends with the standard formula for the legionnaire's oath, swearing:
 
-"that I shall faithfully execute all that the Emperor commands, and that in so doing I shall never seek to avoid death."
+> ...that I shall faithfully execute all that the Emperor commands, and that in so doing I shall never seek to avoid death.
 
 As an example of all three parts put together:
 
-"I am Shosuro no Michio Noritaka, son of Ukon and Minon, of the lineage of Shosuro no Michio Yusuke.  From the ranks of yoriki of the Thunder Guard of Ryoko Owari, I swear by Lady Amaterasu, by my ancestors, and by Bishamon, that I shall faithfully execute all that the Emperor commands, and that in so doing I shall never seek to avoid death."
+> I am Shosuro no Michio Noritaka, son of Ukon and Minon, of the lineage of Shosuro no Michio Yusuke.  From the ranks of yoriki of the Thunder Guard of Ryoko Owari, I swear by Lady Amaterasu, by my ancestors, and by Bishamon, that I shall faithfully execute all that the Emperor commands, and that in so doing I shall never seek to avoid death.
 
 Higher-ranking officers need to do more than simply follow orders, so higher-ranking officers swear a different oath.  Corporals and sergeants mostly swear the standard Legionnaire's Oath, but Platoon Lieutenants must swear:
 
-"that I will be faithful and bear true allegiance to His Imperial Majesty the Emperor and his successors, that I shall marshal his troops as he commands, and that in so doing I shall never seek to avoid death."
+> ...that I will be faithful and bear true allegiance to His Imperial Majesty the Emperor and his successors, that I shall marshal his troops as he commands, and that in so doing I shall never seek to avoid death.
 
 Company captains swear an even longer form of this oath, being required to swear:
 
-"that I will be a true and faithful servant to His Imperial Majesty and Son of Heaven the Emperor and his successors.  I shall truly and faithfully show the utmost respect for my duty, and without fear I shall everywhere and in every situation defend the inviolability of the Empire.  I will marshal his troops as he commands, and in so doing I shall never seek to avoid death."
+> ...that I will be a true and faithful servant to His Imperial Majesty and Son of Heaven the Emperor and his successors.  I shall truly and faithfully show the utmost respect for my duty, and without fear I shall everywhere and in every situation defend the inviolability of the Empire.  I will marshal his troops as he commands, and in so doing I shall never seek to avoid death.
 
 Battalion commanders and Legion generals swear even longer oaths, which depending on the particular duties of the legion and their assignments may draw from the oaths of office from any or all the 6 ministries, with these being examples from those other oaths which may be pulled in to form the Officers' oaths:
 
@@ -1648,39 +1646,39 @@ Battalion commanders and Legion generals swear even longer oaths, which dependin
 
 Note the pattern that oaths sworn by large numbers of people are usually fairly simple, and they get more and more complicated for higher-ranking positions.  For example, here is the oath of office sworn by the Damasu Minister of Works (the Damasu is a vassal family of the Akodo Family of the Lion Clan).
 
-"I, [name], do solemnly swear by Daikoku, the Fortune of Wealth, Koshin, the Fortune of Roads, and in the light of our radiant Lady Sun, to faithfully execute my duties as the Minister of Works for the Damasu domain.
-
-I pledge my diligent efforts to the construction and preservation of public works, fostering the prosperity and security of our domain.
-
-Guided by duty and unwavering loyalty to our honorable Daimyo and the Emperor, I will uphold my responsibilities without fear, favor, or prejudice.
-
-I commit to be an exemplar for my subordinates, encouraging their dedication and making honest decisions for the benefit of our domain and the Empire at large.
-
-With this solemn oath, I swear to put the welfare of the Emperor's subjects and the prosperity of the Damasu domain above all else, diligently working for its advancement and diligently safeguarding against any harm that may befall it.
-
-I swear this oath freely, my heart pure and my intentions sincere, in the name of Daikoku, Koshin, and our radiant Lady Sun."
+> I, [name], do solemnly swear by Daikoku, the Fortune of Wealth, Koshin, the Fortune of Roads, and in the light of our radiant Lady Sun, to faithfully execute my duties as the Minister of Works for the Damasu domain.
+>
+> I pledge my diligent efforts to the construction and preservation of public works, fostering the prosperity and security of our domain.
+>
+> Guided by duty and unwavering loyalty to our honorable Daimyo and the Emperor, I will uphold my responsibilities without fear, favor, or prejudice.
+>
+> I commit to be an exemplar for my subordinates, encouraging their dedication and making honest decisions for the benefit of our domain and the Empire at large.
+>
+> With this solemn oath, I swear to put the welfare of the Emperor's subjects and the prosperity of the Damasu domain above all else, diligently working for its advancement and diligently safeguarding against any harm that may befall it.
+>
+> I swear this oath freely, my heart pure and my intentions sincere, in the name of Daikoku, Koshin, and our radiant Lady Sun.
 
 Note that the oath not only references the duties and responsibilities of the position, but also the challenges which the Minister expects to face in office.  This is similar to how the legionnaire's oath promises to never attempt to avoid death, which references the challenges which legionnaires are expected to face in their military service.
 
 As another example, here is the oath of office sworn by the Damasu Minister of Retainers:
 
-"I, [name], do solemnly swear by Hachiman, the Fortune of Loyalty and Honor, by Shinsei, who exemplifies humility and wisdom, and in the light of our radiant Lady Sun, to serve faithfully as the Minister of Retainers for the Damasu domain.
-
-I pledge to uphold my responsibilities, managing the personnel of our domain with diligence, fairness, and integrity.  I will place the needs of our honorable Daimyo, our dedicated samurai, and our loyal subjects above my own, fostering unity, dedication, and obedience within our ranks.
-
-I commit to the duty of preserving the samurai tradition and ensuring its continuity, guiding our samurai in their dedication to the code of Bushido, their service to our Daimyo and the Emperor, and their commitment to the welfare of our domain and the Empire.
-
-I will act as an exemplar for all samurai under my authority, leading with wisdom, fairness, and honor.  I will make decisions with utmost honesty and impartiality, striving always for the prosperity and security of the Damasu domain and the Empire at large.
-
-I swear this oath freely, with sincerity and a pure heart, in the name of Hachiman, Shinsei, and our radiant Lady Sun."
+> I, [name], do solemnly swear by Hachiman, the Fortune of Loyalty and Honor, by Shinsei, who exemplifies humility and wisdom, and in the light of our radiant Lady Sun, to serve faithfully as the Minister of Retainers for the Damasu domain.
+>
+> I pledge to uphold my responsibilities, managing the personnel of our domain with diligence, fairness, and integrity.  I will place the needs of our honorable Daimyo, our dedicated samurai, and our loyal subjects above my own, fostering unity, dedication, and obedience within our ranks.
+>
+> I commit to the duty of preserving the samurai tradition and ensuring its continuity, guiding our samurai in their dedication to the code of Bushido, their service to our Daimyo and the Emperor, and their commitment to the welfare of our domain and the Empire.
+>
+> I will act as an exemplar for all samurai under my authority, leading with wisdom, fairness, and honor.  I will make decisions with utmost honesty and impartiality, striving always for the prosperity and security of the Damasu domain and the Empire at large.
+>
+> I swear this oath freely, with sincerity and a pure heart, in the name of Hachiman, Shinsei, and our radiant Lady Sun.
 
 Additional examples of oaths could be given, but the discussion turns now to vows.  Like the original L5R books, much of the information is "sourced" to in-universe books, presented through "primary source documents" (or descriptions of the contents of those primary source documents).
 
 ### On Vows to the Fortunes
 
-"On Vows to the Fortunes" is one of the fictional books from Rokugan which I use to educate players on vows and how they work.  Here's some information about that:
+"On Vows to the Fortunes" is one of the fictional books from Rokugan which we use to educate players on vows and how they work.
 
-"This book was originally published by Isawa Akuma, who was later discovered to have stolen it from the Great Library.  Its true authorship is unknown.  Anyone who discovers a copy of this book without this disclaimer is ordered to report it to the office of the Jade Champion."
+> This book was originally published by Isawa Akuma, who was later discovered to have stolen it from the Great Library.  Its true authorship is unknown.  Anyone who discovers a copy of this book without this disclaimer is ordered to report it to the office of the Jade Champion.
 
 The above disclaimer is at the front of several books published by Isawa Akuma many centuries ago, including this one.  Akuma was a powerful shugenja who was also the greatest scholar of his generation, which is unusual since it's practically unheard of for masters of magic to also be masters of scholarship.  However, it later turned out that Isawa Akuma had used his great name to summon an oni lord (Oni no Akuma), who took the form of a Great Library hidden deep in the Isawa Woodlands.  This library is said to contain "all of the things which have ever been written, and many of the things which never were written, and more than a few things which will come to be written".  It cannot be found the same way twice, and therefore is very difficult to reach.
 
@@ -1826,47 +1824,47 @@ Some of what's described above is based on historical example, and some is inven
 
 Here is the vow of obedience sworn by all members of the Order of Bishamon in Lion lands (different clans often have different versions of these vows):
 
-"I, [Monk's Name], vow unto Bishamon, the embodiment of strength and defense, and to the Order that serves him.  I submit myself wholly to the guidance and authority of the Abbot, and to the teachings and principles of our sacred Order.
-
-I shall follow their wisdom with humility and dedication, understanding their insight to be born of a deeper connection to the cycles and interconnections of all things.  In obedience, I strive to tread the path towards enlightenment, transcending the bonds of ignorance and suffering.
-
-Under the gaze of Bishamon and the Fortunes, I pledge my loyalty and dedication to this sacred journey.  I vow to uphold the strength and virtue of Bishamon, the eternal cycle of courage and strength, as I strive to align my spirit with his rhythm, becoming an active echo of his divine essence."
+> I, [Monk's Name], vow unto Bishamon, the embodiment of strength and defense, and to the Order that serves him.  I submit myself wholly to the guidance and authority of the Abbot, and to the teachings and principles of our sacred Order.
+>
+> I shall follow their wisdom with humility and dedication, understanding their insight to be born of a deeper connection to the cycles and interconnections of all things.  In obedience, I strive to tread the path towards enlightenment, transcending the bonds of ignorance and suffering.
+>
+> Under the gaze of Bishamon and the Fortunes, I pledge my loyalty and dedication to this sacred journey.  I vow to uphold the strength and virtue of Bishamon, the eternal cycle of courage and strength, as I strive to align my spirit with his rhythm, becoming an active echo of his divine essence.
 
 In addition to the above, the PCs have several different vows which they have the option to take.
 
 One of them is a "vow of fasting" which has this wording:
 
-"In the sight of all that is, and under the watchful gaze of Bishamon, the Fortune of Strength, I, [Name], swear a solemn vow of fasting.  As the kumosaya blight has taken our rice and soybeans, so too shall I limit myself to these humble grains, a symbol of the suffering endured by our lands.  I shall partake only of rice, soybeans, and the simplest of vegetables, abstaining from all other foods, as a testament to my solidarity with those who suffer.  I shall drink only water and tea, pure and clear, renouncing all other beverages as a symbol of my commitment to clarity and purity in my purpose.
-
-May my abstention serve as a constant reminder of the hardship faced by our people, strengthening my resolve to bring relief and rectification.  May my sacrifices purify me and bring me closer to the strength and endurance embodied by Bishamon, so that I may better serve in the pursuit of our collective redemption.
-
-In my daily meals, I shall remember the people, the land, and the divine grace that sustains us all.  And in my strength, may I reflect the strength of Bishamon, using it not for personal gain, but for the betterment of all.  This I swear, in the name of Bishamon, Fortune of Strength, and in the pursuit of the rectification of our great sin."
+> In the sight of all that is, and under the watchful gaze of Bishamon, the Fortune of Strength, I, [Name], swear a solemn vow of fasting.  As the kumosaya blight has taken our rice and soybeans, so too shall I limit myself to these humble grains, a symbol of the suffering endured by our lands.  I shall partake only of rice, soybeans, and the simplest of vegetables, abstaining from all other foods, as a testament to my solidarity with those who suffer.  I shall drink only water and tea, pure and clear, renouncing all other beverages as a symbol of my commitment to clarity and purity in my purpose.
+>
+> May my abstention serve as a constant reminder of the hardship faced by our people, strengthening my resolve to bring relief and rectification.  May my sacrifices purify me and bring me closer to the strength and endurance embodied by Bishamon, so that I may better serve in the pursuit of our collective redemption.
+>
+> In my daily meals, I shall remember the people, the land, and the divine grace that sustains us all.  And in my strength, may I reflect the strength of Bishamon, using it not for personal gain, but for the betterment of all.  This I swear, in the name of Bishamon, Fortune of Strength, and in the pursuit of the rectification of our great sin.
 
 Another is a "vow of poverty", which has this wording:
 
-"I, [Name], in the sight of the Celestial Heavens, the Kami, and the ever-vigilant Bishamon, do solemnly swear a vow of poverty.
-
-I pledge to renounce all worldly possessions and personal wealth, to relinquish the desire for material gain, and to live a life of simplicity and humility.  I commit myself to depend solely on the generosity of others for my basic needs, and to accept their gifts with gratitude, while never seeking or expecting excess.
-
-I promise to use any resources that come my way not for my own benefit, but to help those less fortunate, to alleviate suffering, and to further the harmony of the Empire.  I vow to maintain a clear mind, free from the distractions of material desires, focused solely on the pursuit of enlightenment and the service of others.
-
-In the spirit of Bishamon, I understand that true strength lies not in the accumulation of wealth, but in the resilience of the spirit, the endurance of the body, and the wisdom of the mind.  The Way of the warrior, the path I have chosen, is one of discipline, self-denial, and service.
-
-I acknowledge that, in breaking this vow, I would tarnish my spirit, invite the disfavor of the Heavens, and undermine the very principles I strive to uphold.  I risk falling from Bishamon's favor, and failing in the pursuit of the strength he embodies.
-
-In choosing this path of self-denial, I aim to remind myself and others of the impermanence of earthly riches, the value of spiritual wealth, and the virtue of compassion.  I endeavor to embody the strength of Bishamon, not through material prosperity, but through the strength of my character and the depth of my resolve.
-
-So swear I, [Name], under the watchful eyes of Bishamon, the Fortune of Strength."
+> I, [Name], in the sight of the Celestial Heavens, the Kami, and the ever-vigilant Bishamon, do solemnly swear a vow of poverty.
+>
+> I pledge to renounce all worldly possessions and personal wealth, to relinquish the desire for material gain, and to live a life of simplicity and humility.  I commit myself to depend solely on the generosity of others for my basic needs, and to accept their gifts with gratitude, while never seeking or expecting excess.
+>
+> I promise to use any resources that come my way not for my own benefit, but to help those less fortunate, to alleviate suffering, and to further the harmony of the Empire.  I vow to maintain a clear mind, free from the distractions of material desires, focused solely on the pursuit of enlightenment and the service of others.
+>
+> In the spirit of Bishamon, I understand that true strength lies not in the accumulation of wealth, but in the resilience of the spirit, the endurance of the body, and the wisdom of the mind.  The Way of the warrior, the path I have chosen, is one of discipline, self-denial, and service.
+>
+> I acknowledge that, in breaking this vow, I would tarnish my spirit, invite the disfavor of the Heavens, and undermine the very principles I strive to uphold.  I risk falling from Bishamon's favor, and failing in the pursuit of the strength he embodies.
+>
+> In choosing this path of self-denial, I aim to remind myself and others of the impermanence of earthly riches, the value of spiritual wealth, and the virtue of compassion.  I endeavor to embody the strength of Bishamon, not through material prosperity, but through the strength of my character and the depth of my resolve.
+>
+> So swear I, [Name], under the watchful eyes of Bishamon, the Fortune of Strength.
 
 The third example vow for this campaign is the "vow of discovery", which has this wording:
 
-"In the sight of Bishamon, the mighty Fortune of Strength and Warriors, I, [character's name], vow to delve into the depths of truth regarding the calamity that has befallen these lands.
-
-I swear to guard the secrets entrusted to me, as the armor of Bishamon shields the righteous, valuing the truth above all else, and preserving the confidentiality of those who demand it as a condition of sharing their truths with me.  Yet, in my pursuit of truth, I will not speak falsehoods, nor will I allow deception to cloud the purity of my quest.  When asked, I will speak truth or silence, never lies.
-
-I commit to not publicly accuse any soul of any sin without proof, for the blade of Bishamon does not strike without certainty.  I understand that a hasty accusation may cause harm as grievous as the blight itself.
-
-Guided by Bishamon's strength, I will navigate the path of truth, the path of wisdom, and the path of honor.  May my journey bring clarity and, ultimately, healing to this land we all hold dear.  This I vow, in Bishamon's name."
+> In the sight of Bishamon, the mighty Fortune of Strength and Warriors, I, [character's name], vow to delve into the depths of truth regarding the calamity that has befallen these lands.
+>
+> I swear to guard the secrets entrusted to me, as the armor of Bishamon shields the righteous, valuing the truth above all else, and preserving the confidentiality of those who demand it as a condition of sharing their truths with me.  Yet, in my pursuit of truth, I will not speak falsehoods, nor will I allow deception to cloud the purity of my quest.  When asked, I will speak truth or silence, never lies.
+>
+> I commit to not publicly accuse any soul of any sin without proof, for the blade of Bishamon does not strike without certainty.  I understand that a hasty accusation may cause harm as grievous as the blight itself.
+>
+> Guided by Bishamon's strength, I will navigate the path of truth, the path of wisdom, and the path of honor.  May my journey bring clarity and, ultimately, healing to this land we all hold dear.  This I vow, in Bishamon's name.
 
 Note that, all three of these vows are sworn to Bishamon, but Daikoku, the Fortune of Wealth, would be a more intuitive choice for a vow of poverty.  After all, to renounce material wealth is to engage directly with the domain that Daikoku oversees.
 
@@ -1906,15 +1904,15 @@ Toranosuke, the abbot who advised Tetsu on his vows, notes that the main danger 
 
 With this in mind, Tetsu ended up swearing this vow:
 
-"I, Kitsuki Tetsu, in reverence to Saibankan, the fortune of justice and guiding hand of magistrates, do solemnly vow to uphold the principles of fairness and balance in all aspects of my life.  I pledge to serve as a beacon of preventative justice, tempering actions and providing measured responses, regardless of personal sentiments and societal pressures.
-
-I promise to embody the wisdom of Saibankan, to act as a guidepost for others, making clear the lines between right and wrong, promoting understanding over ignorance.  In my actions, may the will of Saibankan be echoed, teaching others of the consequences and rewards of their deeds.
-
-I recognize the trials that this path will bring, the loyalties it may test, and the conflicts it may stir.  Yet, I embrace these challenges, understanding that the clarity of insight and the trust earned will guide me towards the path of true justice.
-
-May my every decision, whether in official capacity or private conduct, reflect the principles that Saibankan holds dear.  In times of adversity, may the spirit of Saibankan guide me, allowing me to discern truth from deceit, justice from vengeance.
-
-So swear I, Kitsuki Tetsu."
+> I, Kitsuki Tetsu, in reverence to Saibankan, the fortune of justice and guiding hand of magistrates, do solemnly vow to uphold the principles of fairness and balance in all aspects of my life.  I pledge to serve as a beacon of preventative justice, tempering actions and providing measured responses, regardless of personal sentiments and societal pressures.
+>
+> I promise to embody the wisdom of Saibankan, to act as a guidepost for others, making clear the lines between right and wrong, promoting understanding over ignorance.  In my actions, may the will of Saibankan be echoed, teaching others of the consequences and rewards of their deeds.
+>
+> I recognize the trials that this path will bring, the loyalties it may test, and the conflicts it may stir.  Yet, I embrace these challenges, understanding that the clarity of insight and the trust earned will guide me towards the path of true justice.
+>
+> May my every decision, whether in official capacity or private conduct, reflect the principles that Saibankan holds dear.  In times of adversity, may the spirit of Saibankan guide me, allowing me to discern truth from deceit, justice from vengeance.
+>
+> So swear I, Kitsuki Tetsu.
 
 Tetsu's other two vows follow.
 
@@ -1940,27 +1938,27 @@ Toranosuke recommends this combination of three vows because of how it orients T
 
 Here is the wording of the vow of creation that Tetsu swore to Jikoju:
 
-"I, Kitsuki Tetsu, in honor of Jikoju, the fortune of the East Wind and purveyor of wisdom and justice, do pledge to foster the seeds of enlightenment and civilization within the city of Medin al Salaat.
-
-I vow to construct and nurture a temple in your honor, a beacon of knowledge amidst the wilderness, a testament to the boundless opportunities that spring from wisdom and justice.  This temple shall stand as a symbol of your might, Jikoju, a place where the spirits of wisdom can dance on the eastern winds, inspiring and guiding those who seek enlightenment.
-
-I understand the weight of this commitment, the challenges it may bring, and the sacrifices it may demand.  Yet, I embrace these, knowing the importance of this task and the good it can bring to the world.  May my every step forward be a testament to my dedication to this vow.
-
-Should the waves of fate crash against me, I am ready to become a pilgrim, journeying to the ends of the Earth, risking all, even my life, to fulfill this promise.  I shall carry with me a part of the temple, ensuring that each day, wherever I am, I can offer my prayers to you, Jikoju, as if within the sacred walls of the temple I vowed to build.
-
-So swear I, Kitsuki Tetsu."
+> I, Kitsuki Tetsu, in honor of Jikoju, the fortune of the East Wind and purveyor of wisdom and justice, do pledge to foster the seeds of enlightenment and civilization within the city of Medin al Salaat.
+>
+> I vow to construct and nurture a temple in your honor, a beacon of knowledge amidst the wilderness, a testament to the boundless opportunities that spring from wisdom and justice.  This temple shall stand as a symbol of your might, Jikoju, a place where the spirits of wisdom can dance on the eastern winds, inspiring and guiding those who seek enlightenment.
+>
+> I understand the weight of this commitment, the challenges it may bring, and the sacrifices it may demand.  Yet, I embrace these, knowing the importance of this task and the good it can bring to the world.  May my every step forward be a testament to my dedication to this vow.
+>
+> Should the waves of fate crash against me, I am ready to become a pilgrim, journeying to the ends of the Earth, risking all, even my life, to fulfill this promise.  I shall carry with me a part of the temple, ensuring that each day, wherever I am, I can offer my prayers to you, Jikoju, as if within the sacred walls of the temple I vowed to build.
+>
+> So swear I, Kitsuki Tetsu.
 
 Finally, here is the wording for the vow of fasting that Tetsu swore to Kamoku:
 
-"I, Kitsuki Tetsu, in homage to Kamoku, the fortune of the West Wind, the bringer of challenges and opportunities, do pledge to honor you in a manner befitting your reverence for Lady Sun.
-
-I vow to fast each day from the setting of the sun until its rise, abstaining from food and drink in the hours of darkness.  As a symbol of my dedication, I will only partake of sustenance when I can see daylight, honoring the journey of the sun, the journey of life, and your gentle but formidable force.
-
-In doing so, I open myself to the challenges you bring, to the opportunities hidden within.  I embrace these tests, knowing they are stepping stones towards the prosperity and growth that can be achieved by overcoming adversity.  May I seize these opportunities and, in doing so, honor you.
-
-In the times of darkness, in the challenges of life, may your guiding winds of the west steer me towards success, not shying away from conflict but facing it with the resolve to emerge triumphant.
-
-So swear I, Kitsuki Tetsu."
+> I, Kitsuki Tetsu, in homage to Kamoku, the fortune of the West Wind, the bringer of challenges and opportunities, do pledge to honor you in a manner befitting your reverence for Lady Sun.
+>
+> I vow to fast each day from the setting of the sun until its rise, abstaining from food and drink in the hours of darkness.  As a symbol of my dedication, I will only partake of sustenance when I can see daylight, honoring the journey of the sun, the journey of life, and your gentle but formidable force.
+>
+> In doing so, I open myself to the challenges you bring, to the opportunities hidden within.  I embrace these tests, knowing they are stepping stones towards the prosperity and growth that can be achieved by overcoming adversity.  May I seize these opportunities and, in doing so, honor you.
+>
+> In the times of darkness, in the challenges of life, may your guiding winds of the west steer me towards success, not shying away from conflict but facing it with the resolve to emerge triumphant.
+>
+> So swear I, Kitsuki Tetsu.
 
 This set of vows is an important example because it demonstrates how vows can combine to define a path which is larger than the sum of its individual parts.  These three vows are specific, but the place in the world they create for Tetsu is more than what the wording of any single one of these vows conveys.
 
@@ -1990,27 +1988,27 @@ Here are some miscellaneous facts about the Empire's roads:
 
 With all of this in mind, Natsuki visited a disused waystation in the desert - the Eyes Over the Desert Wells.  He decided to swear a vow of creation, that he would return and establish a new waystation on this site.  Here is the wording of the vow that he swore:
 
-"I, Akodo no Sugiwara Natsuki, stand humbled before Koshin, God of Roads and Waystations, the unfailing guide of all travelers.  I stand at the brink of the Eyes Over the Desert Wells, a beacon of the past now lost to time and sand.
-
-In your name, Koshin, I swear a vow of creation.  I pledge to resurrect this waystation, to breathe life into its quiet halls and to make it once again a haven for those who journey the vast desert.  I will lay the stones, raise the walls, and light the beacon that will stand as a testament of your influence and our devotion to your ways.
-
-Under your watchful gaze, I promise to restore this place, not only to serve the weary travelers but also to honor the interconnectedness you represent.  In bringing back the Eyes Over the Desert Wells, I seek to strengthen the ties that bind the Empire, to facilitate the free flow of trade, ideas, and prosperity that are the lifeblood of our people.
-
-I understand the gravity of this vow and accept the responsibility it places upon my shoulders.  I stand ready to face the trials and challenges that lie ahead.  Even if the winds of fortune do not favor our efforts, I swear to carry out this task, even at great expense and risk, for my word is my bond, and my resolve is unyielding.
-
-So swear I, Akodo no Sugiwara Natsuki."
+> I, Akodo no Sugiwara Natsuki, stand humbled before Koshin, God of Roads and Waystations, the unfailing guide of all travelers.  I stand at the brink of the Eyes Over the Desert Wells, a beacon of the past now lost to time and sand.
+>
+> In your name, Koshin, I swear a vow of creation.  I pledge to resurrect this waystation, to breathe life into its quiet halls and to make it once again a haven for those who journey the vast desert.  I will lay the stones, raise the walls, and light the beacon that will stand as a testament of your influence and our devotion to your ways.
+>
+> Under your watchful gaze, I promise to restore this place, not only to serve the weary travelers but also to honor the interconnectedness you represent.  In bringing back the Eyes Over the Desert Wells, I seek to strengthen the ties that bind the Empire, to facilitate the free flow of trade, ideas, and prosperity that are the lifeblood of our people.
+>
+> I understand the gravity of this vow and accept the responsibility it places upon my shoulders.  I stand ready to face the trials and challenges that lie ahead.  Even if the winds of fortune do not favor our efforts, I swear to carry out this task, even at great expense and risk, for my word is my bond, and my resolve is unyielding.
+>
+> So swear I, Akodo no Sugiwara Natsuki.
 
 For another example of a vow, let's return to the concept of a warrior's pilgrimage.  Kuni Isamu wanted to go on such a pilgrimage, and beforehand decided to swear a vow to Bishamon about the pilgrimage he was about to undertake.  However, Isamu is not educated in these matters and so he consulted with a wise priestess to advise him.  The priestess suggested several possible vows, and Isamu felt drawn to a vow of silence.  He couldn't explain why he was drawn to this vow, which he took as a sign that Bishamon was directing him towards this vow in particular, for reasons which Isamu was not capable of comprehending.
 
 However, he was concerned about the vow interfering with his higher duties as a Witch Hunter.  With that being said, he didn't want to "water down" his vow to the point where it didn't really bind him.  Instead, he merely wanted some framework for an extremely limited exemption, for example perhaps only in situations where it would save a human life or capture a maho-tsukai.  The wise priestess with whom he consulted offered him the following wording for his vow:
 
-"In the sight of Bishamon, Patron of Warriors and the Fortune of Strength, I, Kuni Isamu, vow to uphold a pledge of silence.  I recognize this vow as an act of discipline and sacrifice, a testament to my internal focus and commitment to the path of the warrior.
-
-Until the end of this year, I promise to speak only when necessity dictates, and even then, to use the least words needed.  This exception is confined strictly to circumstances wherein human lives are at risk or when the capture of a maho-tsukai is within reach, reflecting my duty as a Witch Hunter.
-
-Let my silence be a conduit of Bishamon's strength, a testament to my devotion and my commitment to the path I walk.  May my actions serve as my voice, my commitment to justice and the protection of Rokugan speak louder than words.
-
-May Bishamon guide my path and give me the strength to uphold this vow.  This I swear."
+> In the sight of Bishamon, Patron of Warriors and the Fortune of Strength, I, Kuni Isamu, vow to uphold a pledge of silence.  I recognize this vow as an act of discipline and sacrifice, a testament to my internal focus and commitment to the path of the warrior.
+>
+> Until the end of this year, I promise to speak only when necessity dictates, and even then, to use the least words needed.  This exception is confined strictly to circumstances wherein human lives are at risk or when the capture of a maho-tsukai is within reach, reflecting my duty as a Witch Hunter.
+>
+> Let my silence be a conduit of Bishamon's strength, a testament to my devotion and my commitment to the path I walk.  May my actions serve as my voice, my commitment to justice and the protection of Rokugan speak louder than words.
+>
+> May Bishamon guide my path and give me the strength to uphold this vow.  This I swear.
 
 In some cases vows tie strongly into the personal history of the human who "became" a fortune.  (In Rokugan, a fortune would have existed before the life of that human, but the human merged with the fortune or joined it or became part of it.)
 
@@ -2038,27 +2036,27 @@ Note that "the case of the stolen smell" is lifted from a story about the real p
 
 Note that the current Minister of Justice for the Damasu domain has sworn this vow to Saibankan above and beyond the usual oath of office:
 
-"In the sight of Saibankan, the Fortune of Magistrates and Judges, I, [name], humbly offer my deepest vow of unwavering devotion, in tandem with my oath of office as the Minister of Justice for the Damasu domain.
-
-In my pursuit of truth and justice, I pledge to disregard all external influences and self-interest.  I vow to deliver rightful punishment for every crime committed within the jurisdiction entrusted to me, irrespective of the offender's rank, position or family ties.  No power, be it political or familial, shall sway my dedication to the course of true justice.
-
-I devote myself to Saibankan's guiding principles, promising to adhere firmly to our law, undeterred by threats, inducements, or consequences.  I recognize the heavy responsibility I bear and willingly accept the potential for resentment, schemes, and obstructions that may be devised against me by those who reject justice's impartial hand.
-
-In return, I seek Saibankan's blessing, praying for the divine insight necessary to discern truth from falsehood, enabling me to dispense justice with wisdom and fairness.  I dedicate my career, my honor, and my very life to the tireless pursuit of justice, undeterred by the challenges and sacrifices this path may entail.
-
-Saibankan, whose net upholds the justice of the Empire, accept my vow.  Bestow upon me the courage to stand steadfast in the face of adversity, the wisdom to judge fairly, and the strength to enforce the law without falter.  My devotion is yours; I walk this path in your name and for the people of the Damasu domain."
+> In the sight of Saibankan, the Fortune of Magistrates and Judges, I, [name], humbly offer my deepest vow of unwavering devotion, in tandem with my oath of office as the Minister of Justice for the Damasu domain.
+>
+> In my pursuit of truth and justice, I pledge to disregard all external influences and self-interest.  I vow to deliver rightful punishment for every crime committed within the jurisdiction entrusted to me, irrespective of the offender's rank, position or family ties.  No power, be it political or familial, shall sway my dedication to the course of true justice.
+>
+> I devote myself to Saibankan's guiding principles, promising to adhere firmly to our law, undeterred by threats, inducements, or consequences.  I recognize the heavy responsibility I bear and willingly accept the potential for resentment, schemes, and obstructions that may be devised against me by those who reject justice's impartial hand.
+>
+> In return, I seek Saibankan's blessing, praying for the divine insight necessary to discern truth from falsehood, enabling me to dispense justice with wisdom and fairness.  I dedicate my career, my honor, and my very life to the tireless pursuit of justice, undeterred by the challenges and sacrifices this path may entail.
+>
+> Saibankan, whose net upholds the justice of the Empire, accept my vow.  Bestow upon me the courage to stand steadfast in the face of adversity, the wisdom to judge fairly, and the strength to enforce the law without falter.  My devotion is yours; I walk this path in your name and for the people of the Damasu domain.
 
 As another example of someone swearing a vow which goes above and beyond his usual oath of office, the Damasu Minister of Works has sworn this vow:
 
-"Before the gaze of Daikoku, Fortune of Wealth and Bounty, I, Akodo no Damasu Kishiro, humbly make my vow of unyielding devotion, an extension of my solemn oath as the Minister of Works for the Damasu domain.
-
-In my service to the domain, I pledge to champion the wealth of our land, and strive for its prosperity, recognizing that the abundance or scarcity we face impacts every soul within our domain.  I vow to steward our resources wisely and effectively, irrespective of personal gain, and to strive for the wealth of the Damasu domain above all else.
-
-I dedicate myself to Daikoku's teachings, promising to nurture our land, foster its productivity, and maximize its prosperity.  I realize the risk of envy, greed, and strife that may stem from those who covet the wealth I am pledged to protect and augment.
-
-In return, I beseech Daikoku's grace, praying for the divine acumen to guide the domain towards prosperity.  I dedicate my service, my honor, and my very existence to the ceaseless pursuit of wealth and prosperity for the Damasu domain, undeterred by the challenges and sacrifices this journey may demand.
-
-Daikoku, Fortune of Wealth, I humbly seek your acceptance of my vow.  Grant me the discernment to wisely manage our resources, the vision to see opportunities for growth, and the fortitude to stand firm against those who would threaten our prosperity.  My devotion is yours; I chart this course in your name and for the prosperity of the people of Damasu."
+> Before the gaze of Daikoku, Fortune of Wealth and Bounty, I, Akodo no Damasu Kishiro, humbly make my vow of unyielding devotion, an extension of my solemn oath as the Minister of Works for the Damasu domain.
+>
+> In my service to the domain, I pledge to champion the wealth of our land, and strive for its prosperity, recognizing that the abundance or scarcity we face impacts every soul within our domain.  I vow to steward our resources wisely and effectively, irrespective of personal gain, and to strive for the wealth of the Damasu domain above all else.
+>
+> I dedicate myself to Daikoku's teachings, promising to nurture our land, foster its productivity, and maximize its prosperity.  I realize the risk of envy, greed, and strife that may stem from those who covet the wealth I am pledged to protect and augment.
+>
+> In return, I beseech Daikoku's grace, praying for the divine acumen to guide the domain towards prosperity.  I dedicate my service, my honor, and my very existence to the ceaseless pursuit of wealth and prosperity for the Damasu domain, undeterred by the challenges and sacrifices this journey may demand.
+>
+> Daikoku, Fortune of Wealth, I humbly seek your acceptance of my vow.  Grant me the discernment to wisely manage our resources, the vision to see opportunities for growth, and the fortitude to stand firm against those who would threaten our prosperity.  My devotion is yours; I chart this course in your name and for the prosperity of the people of Damasu.
 
 And now, here's an example of what a vow of deathseeking typically looks like.  Note that deathseekers don't try to meaninglessly throw their lives away.  The goal is to "spend" your death in a way that benefits your clan and brings glory to your ancestors.  A deathseeker who simply breaks from their unit and in so doing undermines their army's chances of winning the battle has done the opposite.
 
@@ -2066,19 +2064,19 @@ With that being said, a platoon or company full of deathseekers is a fearsome an
 
 All of this leads to the vow having this kind of form:
 
-"I, (name), now stand before you, Emma-O, the Fortune of Death, and the spirits of my ancestors, bearing the weight of my disgrace and failure.  I understand that the only path left for me to restore honor to my name and to my family is to seek death in the service of my daimyo and clan.
-
-In this sacred moment, I make my vow.  I shall embrace my fate, not with fear but with courage, seeking opportunities where my death may turn the tide of battle and bring victory to my clan.  I pledge to find honor in each fight, in each encounter, and with every decision I make, always looking for the path that leads towards a noble end.
-
-I vow that I will not squander my life needlessly.  My death shall not be in vain, nor shall it weaken our cause.  Instead, I shall be a beacon of resolve, an embodiment of Lion's spirit, that even in death, we fight on.
-
-I acknowledge that I tread on the edge of a blade, that each step I take is one closer to my end.  Yet, I walk this path willingly, embracing the role of a deathseeker, my purpose rooted in my duty and honor.  I know my time may be short, yet I shall strive to make each moment count.
-
-By the power of Emma-O, and the eyes of my ancestors, I make this vow.  I seek death, not as an escape, but as a path to redemption.  I shall not shy away from danger, but meet it head-on, with the strength of a Lion and the conviction of a samurai.
-
-My name, once a symbol of disgrace, shall echo in the halls of our ancestors as a testament to my commitment and determination.  The echoes of my deeds shall remind all of the price of honor, the strength of conviction, and the unyielding spirit of a true Lion samurai.
-
-From this day forth, I am a Deathseeker.  Until the day that I fall in battle, every breath I take shall be in service to my daimyo, my clan, and my honor.  This is my vow, this is my path."
+> I, (name), now stand before you, Emma-O, the Fortune of Death, and the spirits of my ancestors, bearing the weight of my disgrace and failure.  I understand that the only path left for me to restore honor to my name and to my family is to seek death in the service of my daimyo and clan.
+>
+> In this sacred moment, I make my vow.  I shall embrace my fate, not with fear but with courage, seeking opportunities where my death may turn the tide of battle and bring victory to my clan.  I pledge to find honor in each fight, in each encounter, and with every decision I make, always looking for the path that leads towards a noble end.
+>
+> I vow that I will not squander my life needlessly.  My death shall not be in vain, nor shall it weaken our cause.  Instead, I shall be a beacon of resolve, an embodiment of Lion's spirit, that even in death, we fight on.
+>
+> I acknowledge that I tread on the edge of a blade, that each step I take is one closer to my end.  Yet, I walk this path willingly, embracing the role of a deathseeker, my purpose rooted in my duty and honor.  I know my time may be short, yet I shall strive to make each moment count.
+>
+> By the power of Emma-O, and the eyes of my ancestors, I make this vow.  I seek death, not as an escape, but as a path to redemption.  I shall not shy away from danger, but meet it head-on, with the strength of a Lion and the conviction of a samurai.
+>
+> My name, once a symbol of disgrace, shall echo in the halls of our ancestors as a testament to my commitment and determination.  The echoes of my deeds shall remind all of the price of honor, the strength of conviction, and the unyielding spirit of a true Lion samurai.
+>
+> From this day forth, I am a Deathseeker.  Until the day that I fall in battle, every breath I take shall be in service to my daimyo, my clan, and my honor.  This is my vow, this is my path.
 
 In the next campaign, the PCs are not only members of the Order of Bishamon, but also members of a secret society, the Order of Lord Moon.
 
@@ -2086,7 +2084,7 @@ Lord Moon is not evil per se, but is a terrifying figure because of his emphasis
 
 Here is the vow which members of The Order of Lord Moon swear upon their initiation:
 
-"I, (NAME), swear to Lord Moon that I shall be a faithful member of his Order, and show loyalty to the brothers and sisters who share in its teachings and ways.  I swear to always act in the best interests of our order and its members.  I swear to keep secret the identities of my fellow members, and to protect their lives and wellbeing as if they were my own.  I will use the knowledge and power gained from my membership in The Order of Lord Moon to pursue my personal goals and ambitions, but will never allow my actions to bring harm to our order or its members.  I will devote myself fully to the service of Lord Moon and to the advancement of our order, and will remain steadfast in my loyalty to The Order of Lord Moon until the end of my days.  So swear I, (NAME)."
+> I, (NAME), swear to Lord Moon that I shall be a faithful member of his Order, and show loyalty to the brothers and sisters who share in its teachings and ways.  I swear to always act in the best interests of our order and its members.  I swear to keep secret the identities of my fellow members, and to protect their lives and wellbeing as if they were my own.  I will use the knowledge and power gained from my membership in The Order of Lord Moon to pursue my personal goals and ambitions, but will never allow my actions to bring harm to our order or its members.  I will devote myself fully to the service of Lord Moon and to the advancement of our order, and will remain steadfast in my loyalty to The Order of Lord Moon until the end of my days.  So swear I, (NAME).
 
 This vow is shorter than most of the other vows above, in part because it is an older vow which has been passed down for many centuries, and thus predates some of the common forms and conventions used in vows.
 
@@ -2102,53 +2100,53 @@ One of the PCs was a disciple of Nanube, a member of Lord Moon's heavenly court.
 
 With this in mind, suppose that one of the PCs wanted to swear a vow to Nanube that they would use each and every one of these failed omens and portents in order to "take down" a human or family or institution which was guilty of wrongdoing, by framing them as being the reason why these omens and portents did not trigger.  The idea is that lies will bring about justice when the truth has failed.
 
-"I, (NAME), disciple of Nanube the Deceiver, do solemnly vow before Lord Moon and his servant Nanube, to exploit each and every one of the failed omens and portents that ought to have forewarned us of the fungal blight kumosaya.  In the name of justice, I shall craft tales and weave deceptions to ensure punishment for those guilty of wrongdoing, those who prosper through injustice and greed.
-
-I shall find those who are guilty of great sins, and I pledge to bring low these offenders, be they man, woman, family, or institution, by painting their sins as the reason why the omens and portents did not manifest.  I will use the power of lies, not to hide, but to uncover the truth of their transgressions, to right the wrongs, to protect the innocent, and to strike down the guilty.  I may never discover the truth or bring those truly responsible for this absence of premonitions to justice, and I will surely provoke the ire of those I condemn, but I remain dedicated to punishing evildoers.
-
-I vow to exploit the darkness to bring about the light, to use deception to reveal the truth, to use lies as a tool for justice when the truth has failed.  I will be the whisper in the darkness, the unseen hand that stirs the pot, and the voice that shapes the course of events.
-
-By the light of Lord Moon, by the wits of Nanube, and by my own determination, I swear this vow.  To break it would be to betray not only my fellow humans who suffer in this world, but also the essence of myself.  In the face of trials, in the heart of conflict, in the eyes of the guilty, I will not falter.  For my lies are my weapon, my shield, my truth.  So swear I, (NAME)."
+> I, (NAME), disciple of Nanube the Deceiver, do solemnly vow before Lord Moon and his servant Nanube, to exploit each and every one of the failed omens and portents that ought to have forewarned us of the fungal blight kumosaya.  In the name of justice, I shall craft tales and weave deceptions to ensure punishment for those guilty of wrongdoing, those who prosper through injustice and greed.
+>
+> I shall find those who are guilty of great sins, and I pledge to bring low these offenders, be they man, woman, family, or institution, by painting their sins as the reason why the omens and portents did not manifest.  I will use the power of lies, not to hide, but to uncover the truth of their transgressions, to right the wrongs, to protect the innocent, and to strike down the guilty.  I may never discover the truth or bring those truly responsible for this absence of premonitions to justice, and I will surely provoke the ire of those I condemn, but I remain dedicated to punishing evildoers.
+>
+> I vow to exploit the darkness to bring about the light, to use deception to reveal the truth, to use lies as a tool for justice when the truth has failed.  I will be the whisper in the darkness, the unseen hand that stirs the pot, and the voice that shapes the course of events.
+>
+> By the light of Lord Moon, by the wits of Nanube, and by my own determination, I swear this vow.  To break it would be to betray not only my fellow humans who suffer in this world, but also the essence of myself.  In the face of trials, in the heart of conflict, in the eyes of the guilty, I will not falter.  For my lies are my weapon, my shield, my truth.  So swear I, (NAME).
 
 Here's a vow which the Order of Daikoku is pressuring the Minister of Revenue to swear:
 
-"I, (NAME), as Damasu's Minister of Revenue, do swear by Daikoku, the Patron of Wealth and Harvest, and by Fukurokujin, the Patron of Wisdom and Mercy, to exercise my duty with diligence and compassion in these trying times.  I vow to use the powers entrusted to me to alleviate the burdens of those suffering most from the blight of kumosaya.
-
-I pledge to seek out and implement policies that will reduce tax and rent burdens on those most afflicted by this calamity, to the best of my ability and within the limits of my power.  I vow to refuse the collection of moneys from those whose larders are empty, whose fields are barren, and whose futures are uncertain due to this devastating blight.  I promise to strive to ensure that no family starves because they are burdened with debts they cannot pay.
-
-Although I am but one man, I pledge to exert my influence to enforce policies of compassion, and I shall labor tirelessly to ensure that those under my authority adhere to the spirit of this vow.  I swear this vow in all humility, knowing that its fulfillment lies as much in the hearts and minds of those I lead as it does in my own efforts.
-
-By the grace of Daikoku and Fukurokujin, and in their names, I swear this vow."
+> I, (NAME), as Damasu's Minister of Revenue, do swear by Daikoku, the Patron of Wealth and Harvest, and by Fukurokujin, the Patron of Wisdom and Mercy, to exercise my duty with diligence and compassion in these trying times.  I vow to use the powers entrusted to me to alleviate the burdens of those suffering most from the blight of kumosaya.
+>
+> I pledge to seek out and implement policies that will reduce tax and rent burdens on those most afflicted by this calamity, to the best of my ability and within the limits of my power.  I vow to refuse the collection of moneys from those whose larders are empty, whose fields are barren, and whose futures are uncertain due to this devastating blight.  I promise to strive to ensure that no family starves because they are burdened with debts they cannot pay.
+>
+> Although I am but one man, I pledge to exert my influence to enforce policies of compassion, and I shall labor tirelessly to ensure that those under my authority adhere to the spirit of this vow.  I swear this vow in all humility, knowing that its fulfillment lies as much in the hearts and minds of those I lead as it does in my own efforts.
+>
+> By the grace of Daikoku and Fukurokujin, and in their names, I swear this vow.
 
 Here's the vow of devotion sworn by members of the Order of Daikoku:
 
-"I, [Monk's Name], vow unto Daikoku, the embodiment of wealth and harvest, and to the Order that serves him.  I surrender myself to the wisdom and authority of the Abbot, and to the teachings and principles of our sacred Order.
-
-I commit to nurturing the abundance around me and within me, just as Daikoku nurtures the prosperity of the world.  I am mindful that wealth is not a reward, but a responsibility; not a privilege, but a mandate to serve.
-
-I shall embrace their wisdom with humility and dedication, acknowledging their insight as the fruit of a profound connection with the cycles of life and bounty.  In devotion, I strive to walk the path towards enlightenment, transcending the bonds of scarcity and suffering.
-
-Under the watchful eyes of Daikoku and the Fortunes, I pledge my loyalty and dedication to this sacred journey.  I vow to uphold the abundance and generosity of Daikoku, the ceaseless cycle of prosperity and harvest, as I strive to align my spirit with his rhythm, becoming an active echo of his divine abundance."
+> I, [Monk's Name], vow unto Daikoku, the embodiment of wealth and harvest, and to the Order that serves him.  I surrender myself to the wisdom and authority of the Abbot, and to the teachings and principles of our sacred Order.
+>
+> I commit to nurturing the abundance around me and within me, just as Daikoku nurtures the prosperity of the world.  I am mindful that wealth is not a reward, but a responsibility; not a privilege, but a mandate to serve.
+>
+> I shall embrace their wisdom with humility and dedication, acknowledging their insight as the fruit of a profound connection with the cycles of life and bounty.  In devotion, I strive to walk the path towards enlightenment, transcending the bonds of scarcity and suffering.
+>
+> Under the watchful eyes of Daikoku and the Fortunes, I pledge my loyalty and dedication to this sacred journey.  I vow to uphold the abundance and generosity of Daikoku, the ceaseless cycle of prosperity and harvest, as I strive to align my spirit with his rhythm, becoming an active echo of his divine abundance.
 
 Another example is the Vow of consumption to Lord Moon sworn by a different member of The Order:
 
-"In the silvery gaze of the ever-changing Lord Moon, I, [Name], solemnly swear my vow of consumption.  As Lord Moon feasts on celestial flesh and imbibes the ambrosia of the heavens, so too will I partake of the earthly bounty, a reflection of the divine banquet above.
-
-Each day, as sure as the moon follows the sun, I will feast upon the flesh of animals and drink from the cup of spirits, these actions serving as a testament of my commitment to Lord Moon.  In doing so, I shall honor his insatiable hunger and thirst, mirroring them in my own earthly existence.
-
-I trust this vow to serve as a continuous connection to Lord Moon, reminding me of his raw, primal power.  Let my daily indulgence fortify me, just as Lord Moon draws strength from his celestial feast.
-
-In my meals and libations, I shall remember the celestial grace that sustains us all.  May my strength, in turn, reflect the mighty Lord Moon, using it both for personal gain and for the greater good.  This I vow, in the name of Lord Moon, the mighty and unpredictable."
+> In the silvery gaze of the ever-changing Lord Moon, I, [Name], solemnly swear my vow of consumption.  As Lord Moon feasts on celestial flesh and imbibes the ambrosia of the heavens, so too will I partake of the earthly bounty, a reflection of the divine banquet above.
+>
+> Each day, as sure as the moon follows the sun, I will feast upon the flesh of animals and drink from the cup of spirits, these actions serving as a testament of my commitment to Lord Moon.  In doing so, I shall honor his insatiable hunger and thirst, mirroring them in my own earthly existence.
+>
+> I trust this vow to serve as a continuous connection to Lord Moon, reminding me of his raw, primal power.  Let my daily indulgence fortify me, just as Lord Moon draws strength from his celestial feast.
+>
+> In my meals and libations, I shall remember the celestial grace that sustains us all.  May my strength, in turn, reflect the mighty Lord Moon, using it both for personal gain and for the greater good.  This I vow, in the name of Lord Moon, the mighty and unpredictable.
 
 And the public-facing vow to Bishamon with similar terms:
 
-"In the sight of Bishamon, the stalwart Fortune of Strength, I, [Name], pledge my vow of consumption.  Inspired by my past of scarcity and hardship, I promise to savor the strength of the earth, in meat and spirits, each day and night, as a testament to my perseverance and will.
-
-Just as Bishamon endures, so too will I endeavor to fulfill this vow, even in the face of adversity.  My past poverty taught me the value of these gifts, and so I honor Bishamon by partaking of them daily, drawing strength from my commitment.
-
-My vow serves as a reminder of the blessings we often take for granted.  Each meal, each drink, will bolster my resolve, and remind me of the strength and endurance embodied by Bishamon.
-
-In this act, I shall remember the people, the land, and the divine strength that provides for us.  May my own strength, in turn, reflect that of Bishamon, used not for personal gain but for the betterment of all.  This I swear, in the name of Bishamon, the unyielding Fortune of Strength."
+> In the sight of Bishamon, the stalwart Fortune of Strength, I, [Name], pledge my vow of consumption.  Inspired by my past of scarcity and hardship, I promise to savor the strength of the earth, in meat and spirits, each day and night, as a testament to my perseverance and will.
+>
+> Just as Bishamon endures, so too will I endeavor to fulfill this vow, even in the face of adversity.  My past poverty taught me the value of these gifts, and so I honor Bishamon by partaking of them daily, drawing strength from my commitment.
+>
+> My vow serves as a reminder of the blessings we often take for granted.  Each meal, each drink, will bolster my resolve, and remind me of the strength and endurance embodied by Bishamon.
+>
+> In this act, I shall remember the people, the land, and the divine strength that provides for us.  May my own strength, in turn, reflect that of Bishamon, used not for personal gain but for the betterment of all.  This I swear, in the name of Bishamon, the unyielding Fortune of Strength.
 
 ## Temple Organization
 
@@ -2732,15 +2730,15 @@ Koichi had three requirements for such a vow:
 
 Kouji was thus able to suggest this wording for Koichi's vow:
 
-"In the sight of all that is, under the timeless gaze of Lord Moon, I, Isawa Koichi, swear a solemn vow.
-
-Each night, when Lord Moon ascends his throne in the celestial heavens, I shall pay homage with earnest prayers and silent reflection, carried out in the purity of his luminous glow.  As he once bathed me in his protective light in the heart of the Isawa Woodlands, so too will I embrace his guidance in the quiet of the night, absent of all other light, a testament to our fateful meeting.
-
-Just as I was sheltered by Lord Moon's radiance amidst danger, I too shall extend my protection to those in need.  As a warrior and servant of the Empire, to any who seek refuge in the quiet of the night, regardless of clan or family, I will provide aid and stand as their shield, until they see fit to release me from such duties.  The cry for assistance in the hush of the night shall not go unanswered, for in me they shall find a vigilant protector, an embodiment of Lord Moon's protective glow.
-
-But let it be known, my devotion to Lord Moon is woven within the fabric of my unwavering loyalty to the Empire.  This vow I swear, the promises I make, and the duties I undertake, shall never overshadow nor undermine my fidelity to the Emperor and the Imperial law.  My actions shall reflect my honor, my strength, and my commitment to the Empire.
-
-Lord Moon, hear my vow, a testament to our bond and a reflection of my gratitude.  May your light guide me in upholding my word, as I navigate the path of honor, service, and loyalty.  This I vow, under your watchful eye, and in the service of our glorious Empire."
+> In the sight of all that is, under the timeless gaze of Lord Moon, I, Isawa Koichi, swear a solemn vow.
+>
+> Each night, when Lord Moon ascends his throne in the celestial heavens, I shall pay homage with earnest prayers and silent reflection, carried out in the purity of his luminous glow.  As he once bathed me in his protective light in the heart of the Isawa Woodlands, so too will I embrace his guidance in the quiet of the night, absent of all other light, a testament to our fateful meeting.
+>
+> Just as I was sheltered by Lord Moon's radiance amidst danger, I too shall extend my protection to those in need.  As a warrior and servant of the Empire, to any who seek refuge in the quiet of the night, regardless of clan or family, I will provide aid and stand as their shield, until they see fit to release me from such duties.  The cry for assistance in the hush of the night shall not go unanswered, for in me they shall find a vigilant protector, an embodiment of Lord Moon's protective glow.
+>
+> But let it be known, my devotion to Lord Moon is woven within the fabric of my unwavering loyalty to the Empire.  This vow I swear, the promises I make, and the duties I undertake, shall never overshadow nor undermine my fidelity to the Emperor and the Imperial law.  My actions shall reflect my honor, my strength, and my commitment to the Empire.
+>
+> Lord Moon, hear my vow, a testament to our bond and a reflection of my gratitude.  May your light guide me in upholding my word, as I navigate the path of honor, service, and loyalty.  This I vow, under your watchful eye, and in the service of our glorious Empire.
 
 #### Matsu Tonami
 
@@ -3180,11 +3178,11 @@ If a modern reader read a historical account of a real person with a story like 
 
 Toyohiro has additionally sworn this vow to help himself in his ministry towards the ghosts which he sees:
 
-"In the sight of Emma-O, Fortune of Death, and King Yan, the Judge of Souls, I, Doji no Tsume Toyohiro, swear a solemn vow.  I am haunted by the spirits of my fallen comrades and opponents who met their ends during the Lion/Crane war, their souls trapped in unrest.  I hear their voices and see their spectral forms, and I understand their struggle to find peace.
-
-Thus, I swear to serve as their voice, their advocate, and their guide.  I vow to listen to their tales, understand their plights, and offer comfort to their lingering spirits.  I promise to do all that is within my power to help them make their passage from the realm of the mortal to the underworld, where they rightfully belong.
-
-May Emma-O lend me the wisdom and the strength to honor this vow, and may he show mercy and provide guidance to the souls who have been lost in the tumult of war.  For as long as I draw breath, I will not falter in this sacred duty.  This I swear."
+> In the sight of Emma-O, Fortune of Death, and King Yan, the Judge of Souls, I, Doji no Tsume Toyohiro, swear a solemn vow.  I am haunted by the spirits of my fallen comrades and opponents who met their ends during the Lion/Crane war, their souls trapped in unrest.  I hear their voices and see their spectral forms, and I understand their struggle to find peace.
+>
+> Thus, I swear to serve as their voice, their advocate, and their guide.  I vow to listen to their tales, understand their plights, and offer comfort to their lingering spirits.  I promise to do all that is within my power to help them make their passage from the realm of the mortal to the underworld, where they rightfully belong.
+>
+> May Emma-O lend me the wisdom and the strength to honor this vow, and may he show mercy and provide guidance to the souls who have been lost in the tumult of war.  For as long as I draw breath, I will not falter in this sacred duty.  This I swear.
 
 Even people who do not fear ghosts might worry about the prospect of interfering with his work after he swore that vow, because to do so might antagonize Emma-O or King Yan.  The particular effects of doing this might not be immediately apparent, but could anyone ever really be sure that this wouldn't bring future disaster?  This is an important type of ambiguity - most people would agree that interfering with such vows could bring misfortune, but it would be difficult for anyone to make specific predictions about what form this misfortune might take.
 
