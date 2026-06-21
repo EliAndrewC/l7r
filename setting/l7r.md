@@ -28,6 +28,11 @@
   - [The Ministry of Justice](#the-ministry-of-justice)
   - [Samurai Lineages](#samurai-lineages)
   - [The Imperial Budget](#the-imperial-budget)
+- [The Measure of Standing and the Accordances of Rank](#the-measure-of-standing-and-the-accordances-of-rank)
+  - [Baseline ranks](#baseline-ranks)
+  - [Gifts and the Accordances of Rank](#gifts-and-the-accordances-of-rank)
+  - [The Doctrine of Three Steps](#the-doctrine-of-three-steps)
+  - [Investigations and bounties](#investigations-and-bounties)
 - [Rokugan's Calendar](#rokugans-calendar)
   - [The Twelve Months](#the-twelve-months)
   - [The Sexagenary Cycle](#the-sexagenary-cycle)
@@ -47,18 +52,13 @@
     - [12th Month: Shiwasu ("priests running")](#12th-month-shiwasu-priests-running)
 - [The Karmic Inquisitors Campaign](#the-karmic-inquisitors-campaign)
   - ["the Order"](#the-order)
-  - [Temple Organization](#temple-organization)
-  - [Orders and Temples](#orders-and-temples)
-    - [Temple Daily Life](#temple-daily-life)
   - [Karmic Inquisitors Timeline](#karmic-inquisitors-timeline)
   - [Lord Moon's Heavenly Court](#lord-moons-heavenly-court)
   - [The Damasu Domain](#the-damasu-domain)
     - [Damasu Lineages](#damasu-lineages)
-      - [Provincial and cosmopolitan lineages](#provincial-and-cosmopolitan-lineages)
     - [Damasu Provinces](#damasu-provinces)
     - [Damasu Temples](#damasu-temples)
 - [Soothsaying](#soothsaying)
-  - [Examples of Omens and Portents](#examples-of-omens-and-portents)
 - [Relic Seekers](#relic-seekers)
 - [Famous Swords](#famous-swords)
 - [The First Toshi Ranbo Campaign](#the-first-toshi-ranbo-campaign)
@@ -66,16 +66,7 @@
 - [Oaths and Vows](#oaths-and-vows)
 - [Maho and Bloodspeakers](#maho-and-bloodspeakers)
   - [Iuchiban and His Lieutenants](#iuchiban-and-his-lieutenants)
-    - [Jama no Iuchiban Suru](#jama-no-iuchiban-suru)
-    - [Jama Musume](#jama-musume)
-    - [Asahina Yajinden](#asahina-yajinden)
-    - [Jama no Iuchiban Kyoso](#jama-no-iuchiban-kyoso)
-    - [Jama no Iuchiban Kohaku](#jama-no-iuchiban-kohaku)
   - [Iuchiban's Coup History](#iuchibans-coup-history)
-    - [Iuchiban's Coup](#iuchibans-coup)
-    - [The Gozoku](#the-gozoku)
-    - [Hantei the 16th](#hantei-the-16th)
-    - [Iuchiban's Resurrection](#iuchibans-resurrection)
 - [Shugenja](#shugenja)
 - [Gaijin](#gaijin)
   - [Unicorn History](#unicorn-history)
@@ -92,8 +83,10 @@
   - [Doji Shizue and the Secrets of Calligraphy (Act 2, Scene 2)](#doji-shizue-and-the-secrets-of-calligraphy-act-2-scene-2)
 - [Between Places](#between-places)
   - [Touched by the Supernatural](#touched-by-the-supernatural)
+- [Temple Organization](#temple-organization)
+  - [Temple Daily Life](#temple-daily-life)
 - [Temple Relics](#temple-relics)
-  - [Yasunobu's Vision](#yasunobus-vision)
+  - [The Man Who Sold His Destiny](#the-man-who-sold-his-destiny)
   - [3rd Imperial Legion Backstories](#3rd-imperial-legion-backstories)
   - [1st Imperial Legion Backstories](#1st-imperial-legion-backstories)
   - [The Burning Words](#the-burning-words)
@@ -104,11 +97,6 @@
   - [The Dark Moto](#the-dark-moto)
   - [The Secret Histories of the Moto](#the-secret-histories-of-the-moto)
 - [Wasp Bounty Hunters](#wasp-bounty-hunters)
-- [The Measure of Standing and the Accordances of Rank](#the-measure-of-standing-and-the-accordances-of-rank)
-  - [Baseline ranks](#baseline-ranks)
-  - [Gifts and the Accordances of Rank](#gifts-and-the-accordances-of-rank)
-  - [The Doctrine of Three Steps](#the-doctrine-of-three-steps)
-  - [Investigations and bounties](#investigations-and-bounties)
 - [Bounties](#bounties)
 - [The Sparrow Clan](#the-sparrow-clan)
 - [The Fox Clan](#the-fox-clan)
@@ -983,17 +971,7 @@ House Ryusei has five provinces, which are listed below, along with their govern
 | Nagano | Mirumoto no Ryusei Urumi | Noa | 7 |
 | Yokohama | Mirumoto no Ryusei Yayoi | Tokino | 4 |
 
-Note that in Ryusei lands, all of the lineages are "cosmopolitan lineages" and there are no "provincial lineages" or "dynasty provinces".  To define these terms:
-
-- Sometimes a province will be staffed almost entirely by members of a specific lineage, whose samurai mostly live there.  This often happens when the geographic area of this province is the home of those samurai from long ago.  For example, the Aki lineage in Daidoji lands is from the province and provincial city of Akishi.
-
-- Therefore, the Aki are a "provincial lineage".
-
-- The Aki province of Akishi is a "dynasty province".
-
-- All of the Ryusei provinces are assigned governors and other officials by the Ryusei chancellery, and therefore these are known as "stewardship provinces".
-
-- Because none of the Ryusei lineages are tied to any specific province, they are all known as "cosmopolitan lineages".
+Note that in Ryusei lands, all of the lineages are "cosmopolitan lineages" and all of its provinces are "stewardship provinces", with no "provincial lineages" or "dynasty provinces".  These terms are defined under [Provincial and cosmopolitan lineages](#provincial-and-cosmopolitan-lineages) below.
 
 Geography:
 
@@ -1023,9 +1001,125 @@ This explicit attribution serves two purposes.  First, it confers status on the 
 
 Many ambitious samurai are drawn to high-paying posts (county magistrate, Minister of Works) not purely for personal enrichment but for the prestige of eventually becoming the lineage's named patron of the next generation.  Many county magistrates describe their motivation in those terms: not "I want to be rich" but "I want to be the uncle whose name my nephews are taught to revere when they receive their first commissions."  The patronage system thus acts as a moderate counterweight to pure self-enrichment by senior officials, channeling some of the wealth that would otherwise be hoarded back into supporting the lineage.
 
+#### Provincial and cosmopolitan lineages
+
+Some lineages are tied to the specific land and holdings they administer on behalf of their daimyo.  Consider the Aki lineage of the Daidoji house.
+
+After the warlord Hayaku swore fealty to Lady Doji at the dawn of the Empire, he changed his name to Daidoji (literally: protector-of-Doji) and helped conquer territory in her name.  A local warlord named Aki saw the wisdom in accepting the gifts of civilization offered by the Empire, so he swore fealty to Lord Daidoji.  To this day, the Aki lineage is a powerful faction of the ruling house of the Daidoji, and the Aki chancellor represents their interests on the Daidoji chancellery.
+
+Most samurai from the Aki lineage live in the province of Akishi, and the provincial city of Akishi was the original seat of power of the warlord Aki even before he swore fealty to Lord Daidoji.  The Aki lineage has administered the province of Akishi for over a thousand years, and in recognition of this loyalty, no Daidoji daimyo would dream of appointing a provincial governor of Akishi from any other lineage.  This type of lineage is often referred to as a provincial lineage, in recognition of the lineage's ties to a single province.
+
+However, not all provinces are like Akishi, and not all lineages are tied to a particular province.
+
+Many provincial cities in the Empire began as small county townships and grew over time, usually due to some combination of normal population growth, favorable location along the Imperial roads, especially fertile farmland leading to local wealth, etc.  In such cases, governorship of these provinces will generally be awarded by the daimyo, at the recommendation of the House Chancellery, based on a combination of the merit of the candidates and the usual political horse-trading of the house lineages.
+
+Likewise, many lineages were established by those who distinguished themselves to their daimyo, who rewarded them with an appointment to the chancellery.  In many cases, members of other lineages which have fallen into disfavor will clamor to marry or be adopted into this new lineage, and new lineages often end up being created specifically to reward and elevate specific members from some existing lineage.  These lineages are not tied to any particular province, though they may lobby for their members to be appointed to administer counties and provinces when those positions come before the House Chancellery.  Such lineages are often referred to as cosmopolitan lineages, which communicates that they are based in their domain's capital.
+
+These cosmopolitan lineages often have semi-hereditary government posts which they always occupy.  For example, the Sasara lineage of the Ryusei domain (of the Mirumoto Family of the Dragon Clan) always holds the position of Minister of Rites, in recognition of their piety and mastery of proper religious doctrine.  There are no laws or decrees to that effect, but once such a tradition has persisted for centuries, few samurai nobles would break with the past without an extremely compelling reason.
+
+Provinces like Akishi which are administered by a provincial lineage are often called dynasty provinces.  Provinces whose provincial governments are drawn from the domain's various lineages based on merit and politics are known as stewardship provinces.
+
 ### The Imperial Budget
 
 The Imperial Budget is documented in detail in [`budgets.md` - The Imperial Budget](budgets.md#the-imperial-budget).  It is provisionally located there while the budget framework is being iteratively refined; once stable it will be promoted into this file alongside the other Imperial-level structural notes.
+
+## The Measure of Standing and the Accordances of Rank
+
+The Wasp Bounty Hunters campaign is one in which the specifics of rank and money are especially important, even by the standards of Rokugan.  Here are some notes about this:
+
+At the dawn of the Empire, the Lady Doji established the **Measure of Standing**, the system determining what actions are and aren't appropriate between members of different ranks.
+
+All samurai have a rank, and there are 15 ranks.  This is an in-universe system of ordering the peerage of the Empire.  The Emperor is the only person who is "of the fifteenth rank", and a samurai just past their gempukku with no government post and no immediate family of a high rank is "of the first rank".
+
+### Baseline ranks
+
+This is the current standard baseline of what types of people inhabit the various ranks (this has changed somewhat from the early days of the Empire, at which time there were only 10 ranks):
+- Rank 15: the Emperor (and no one else)
+- Rank 14: Clan Daimyo
+- Rank 13: Family Daimyo
+- Rank 12: House Daimyo
+- Rank 11: Chancellor
+- Rank 10: Minister
+- Rank 9: Deputy Minister
+- Rank 8: Governor
+- Rank 7: Provincial Minister
+- Rank 6: Deputy Provincial Minister
+- Rank 5: County Magistrate
+- Rank 4: Squad Sergeant
+- Rank 3: Corporal
+- Rank 2: rank and file legionnaires
+- Rank 1: unposted samurai with no higher-ranking immediate family
+
+Ranks have an "upper" and "lower" level, which we usually represent with decimals on character sheets, e.g. "Rank 7.5" would be referred to as "the upper seventh rank" and "Rank 7.0" would be referred to as "the lower seventh rank".
+
+### Gifts and the Accordances of Rank
+
+Once the Lady Doji had detailed the Measure of Standing, she proceeded to establish the **Accordances of Rank**, which detail the rights, privileges, and restrictions which samurai nobles must respect in relation to one another and to the lower classes, i.e. heimen (half-people) and hinin (non-people).
+
+To this day, Lady Doji's guidance continues to dictate all aspects of life, ranging from:
+- the clothing that can be worn by people of different classes and ranks
+- under what circumstances someone is expected to greet another by nodding, bowing, scraping, kneeling, pressing one's head to the floor, etc
+- the provisions of hospitality, e.g. under what circumstances a host should merely provide room and board for a guest, as opposed to being expected to give up their own quarters to an honored guest
+
+Money (and the monetary value of certain gifts) is also one of the Accordances of Rank:
+- The stipend a samurai receives from their daimyo should be the square of their formal Rank, e.g. people of the seventh rank should have a stipend of 49 koku per year.  (This is the same for people of both the upper and lower seventh rank, i.e. people whose character sheets say Rank 7.0 and Rank 7.5.)
+    - Note that for samurai with important government posts, their stipend will be a small fraction of their overall wealth, which will be generated by their position's budget and/or its tax collection authority.
+- When a gift is given, the value of the gift is always based on the rank of the highest-ranking person involved, regardless of whether that person is on the giving or receiving side.
+- A **courtesy gift** is given when visiting the home or office of someone with whom you have an established personal or professional relationship.  A courtesy gift has no expectation of value, regardless of the relative ranks of those involved.  ("I happened to pass by a fruit vendor on the way over here and thought you might enjoy a fresh persimmon"  would be equally appropriate for a clerk of the second rank or a member of the Imperial Chancellery, provided you are already friends or colleagues.)
+- A **token gift** should be given by anyone visiting the home or office of someone with whom they do not have a close personal or professional relationship.  The value of that gift should be zeni equal to the highest rank of anyone involved.
+  - When a retainer is visiting directly on behalf of a higher-ranking official, the rank of their master is used, but if the retainer is merely carrying out their general duties, then the retainer's rank is used.
+  - When a guest is meeting with a subordinate, the rank of the head of their office or household is used rather than the rank of the subordinate who is representing their master.
+- When making a request which would require their host to expend an extra effort above and beyond the normal day-to-day responsibilities of their position, a **consideration gift** is appropriate.  The expected value of a consideration gift should be counted in bu rather than zeni (i.e. bu equal to the rank of the highest-ranking person involved).
+- A **compensatory gift** is called for when making a request which is understood to be especially burdensome.  The value of a compensatory gift should be counted in koku rather than bu.
+- Above and beyond these baseline gifts, guests and petitioners are expected to provide an **indemnity gift** to account for extra expenses incurred by requests which rise above the expectations of normal duty and hospitality.
+
+### The Doctrine of Three Steps
+
+Interactions between people of different ranks are governed by the **Doctrine of Three Steps**:
+- Two people are of **peer standing** if they are no more than 1 rank apart.
+- Two people are of **accordant standing** if they are no more than 3 ranks apart, and are otherwise of **discordant standing** with respect to one another.
+- Some interactions require peer standing and others merely require accordant standing.
+- These comparisons use only the baseline numbers, e.g. someone of the upper seventh rank is of peer standing with someone of the lower sixth rank, despite there being a "1.5 rank" difference between them.
+- A person's **merits** may raise or lower their status for the purpose of determining their peer standing with respect to others of accordant standing, but do not alter their discordant standing among significantly higher or lower ranked individuals.
+  - Players can think of merits as the advantages and disadvantages which affect their perceived rank, though magistrates may take other things into account.  The legal standard for considering merits (as originally defined by Soshi Saibankan) is **the totality of circumstance**, which can include anything the magistrate considers relevant.
+
+The Accordances of Rank apply the Doctrine of Three Steps to dictate everything from banquet seating:
+- Two people must be of accordant standing to eat at the same small table.
+- When sizeable groups are seated around a large table (e.g. the banquet table of a lord's great hall), they must be ordered such that all are seated beside others of accordant standing.
+- When small groups of discordant standing eat around the same large table, a respectful distance must be maintained between them, proportionate to their differences in rank.
+
+...to challenging other samurai to duels:
+- Challenges are considered **proper** or **improper** irrespective of rank.  What constitutes grounds for a proper challenge has nothing to do with rank, but whether a proper challenge must be accepted is determined by the rank of the parties involved.
+- A samurai MUST accept proper challenges from an equal or higher ranking bushi.
+- A samurai MAY **dismiss** a proper challenge from a lower ranking samurai who is of discordant standing, i.e. a samurai more than 3 **formal ranks** (i.e. your legal rank, not considering merit) below you is always **dismissible**.
+- In other words, a samurai more than 3 ranks above another is **beyond the reach** of the challenger even if the challenge is valid.
+- Conversely, the Doctrine of Three Steps dictates that a higher-ranking challenged party is **within the reach** of the challenger (such that the challenger is not dismissible) if there are no more than 3 formal ranks between them.
+- A samurai MUST accept a proper challenge from a lower-ranking bushi of peer standing.
+  - As mentioned above, while accordant standing is determined by formal rank, peer standing is adjusted by the merits of each party.
+  - Therefore a magistrate might rule that after considering the merits of two samurai of accordant standing, the totality of circumstance grants the challenger peer standing with the challenged party despite being of lower rank, and thus a proper challenge must be accepted.
+
+The Doctrine of Three Steps also requires that no samurai may be more than 3 ranks lower than their immediate family members (parents, spouses, siblings, and children).
+- For example, if a family member is promoted to the eighth rank, any members of their immediate family are immediately raised to the fifth rank if they were previously at a lower rank.
+- A samurai must be of a lower rank than their superior, so depending on the circumstances, the promotion of a family member may require a samurai to leave their post.  ("My deepest apologies, but my brother's new duties are heavy, and I am called to assist him in his new position.  The Ministry of Retainers will no doubt select my replacement in short order.")
+- In other cases, such a promotion might trigger the minor elevation of a superior to the upper rank.  ("Congratulations on your promotion to the upper fifth rank.  Coincidentally, I myself have just been elevated to the lower fifth rank as a result of my brother's recent appointment.  It appears to have been a favorable season, has it not?")
+
+The Doctrine of Three Steps also governs how a House represents itself at the courts above it.  A standing emissary must be of sufficient rank to deal with the court they are sent to on accordant terms, which fixes the rank of each kind of representative a vassal House maintains abroad:
+- The House's **representative on the Imperial Chancellery** (not to be confused with *the* Imperial Chancellor, who heads that body at Rank 14) is of the **upper 11th rank**.
+- Its **emissary to its Clan's capital** is of the **lower 11th rank** - one notch below its Imperial-Chancellery representative, to give the Emperor his due.
+- Its **emissary to its Family's capital** is of the **10th rank**.
+- Its **ambassadors to peer vassal Houses** are typically of the **9th rank**, though an ambassador to an unusually important neighbor may be raised to the 10th or 11th - a Daidoji vassal House whose lands abut the Yasuki Estates (the capital of the Yasuki Family) needs an ambassador of standing enough to treat with the Yasuki daimyo, Yasuki Taka, who took his name in honor of the first Imperial Treasurer.
+
+These emissaries are posted outside their home domain but remain on their own daimyo's payroll.  A structural consequence is worth noting: *within* a single vassal House there is exactly one samurai of the 12th rank (the daimyo), a small handful of the 11th (the lineage chancellors who sit on the House council), and the six Ministers of the 10th - and no others of those ranks holding office at home.  But the House also fields several *additional* samurai of the 10th and 11th rank stationed abroad as the emissaries above, and - through the immediate-family rule - a substantial number of 8th- and 9th-rank samurai who hold no office at all but are the close kin of the daimyo and the chancellors.  (The budget consequences of this rank structure for the median domain are worked out in [`budgets.md` - Samurai Rank Distribution](budgets.md#samurai-rank-distribution).)
+
+### Investigations and bounties
+
+The Doctrine of Three Steps limits which magistrates can interview other samurai in the course of an investigation (or in pursuit of a bounty).  It is always a samurai's prerogative to call upon another samurai of lower rank, but even duly authorized magistrates and bounty hunters are dismissible by someone "beyond their reach".  Such investigators must therefore be of accordant standing with those they wish to interview.  While some samurai may deign to meet with and answer questions posed by lower-ranking officials of discordant standing, this is unusual and not something to ever be expected.
+
+To execute an arrest, a magistrate or bounty hunter must be of peer standing with their target.  Even possessing a lawful warrant is not sufficient to proceed with the capture of a target without possessing sufficient rank.  As per the Accordances of Rank, the merits of an investigator may elevate someone from merely being of accordant standing to being considered of peer standing with a target, in which case they may proceed to detain such a target.  (Of course, there may be disagreement in the moment about the weight of the respective merits, and occasionally such matters are ultimately decided through deeds, not words.)
+
+Magistrates and bounty hunters must exercise caution in their investigations to ensure that they do not forget their place.  Samurai whose rank is within reach of investigators but who are too highly ranked to be of peer standing with those investigators may decline to personally meet with them, foisting such meetings off on underlings.
+
+Of course, in many circumstances, some samurai prefer to press forward and make an arrest if they believe they know all that's needed to be confident their actions are just and proper, trusting that victory will be sufficient justification, in the event that the matter is ever brought before an Imperial magistrate for review.
 
 ## Rokugan's Calendar
 
@@ -1643,205 +1737,6 @@ Regardless, Ippei spoke with compassion, explaining that he had no intention of 
 
 Since the Karmic Inquisitors campaign deals with monks, the discussion turns to how temples are structured as institutions, and from there to Damasu lands more generally.
 
-### Temple Organization
-
-When the Shinsei was advising the Hantei on the new Empire being created, part of his guidance was the identification of the 7 Major Fortunes whose favor would bring good luck and prosperity to humanity:
-
-| Fortune | Domain |
-| --- | --- |
-| Benten | The fortune of romantic love |
-| Bishamon | The fortune of strength |
-| Daikoku | The fortune of wealth |
-| Ebisu | The fortune of honest work |
-| Fukurokujin | The fortune of wisdom and mercy |
-| Hotei | The fortune of contentment |
-| Jurojin | The fortune of longevity |
-
-The Shinsei further recommended that each clan cultivates two major Fortunes to be their patrons, ensuring that every city within the clan has a temple to each of their two patron Fortunes.
-
-| Clan | Patron Fortunes |
-| --- | --- |
-| Crab | Bishamon + Ebisu |
-| Crane | Benten + Daikoku |
-| Dragon | Hotei + Ebisu |
-| Lion | Bishamon + Daikoku |
-| Phoenix | Fukurokujin + Hotei |
-| Scorpion | Benten + Jurojin |
-| Unicorn | Fukurokujin + Jurojin |
-
-In the late 3rd century, Hantei the Tenth formalized the system of the Six Ministries, and along with it codified the requirement that each of the Empire's cities contains a temple to each of its clan's patron fortunes.
-
-The temples in Toshi Ranbo are unusually large and well-funded, due to Toshi Ranbo being the 3rd-largest city in the Empire, but the general structure is the same commonly-used way to organize temples which exists everywhere.
-
-The rank of samurai is well established throughout the Empire, according to the system of the Six Ministries laid down by Hantei the 10th.
-
-Peasants are not samurai, and therefore the most esteemed peasant, even if they be the richest merchant in the Empire, is lower in the Celestial Order, and therefore of lower rank, than the lowliest samurai.
-
-However, monks exist outside the Celestial Order, walking with one foot in the world and one foot outside of it, and therefore any monk is neither lower nor higher ranking than any samurai.
-
-With that being said, religious orders must necessarily have a hierarchy in order to run a large organization.  Here is what that typically looks like:
-
-- An Initiate is one who has begun the process of joining a religious order but is not yet a full member.  Many who become initiates decide against joining an order, and thus never attain any higher standing within any temple.
-
-- A Novice is the lowest level of monk, who has joined an order but not yet sworn all of their religious vows.  A novice would typically have sworn only a vow of obedience to the order, but not any of the more significant vows which help them on their path to enlightenment and spiritual development.
-
-- An Acolyte has progressed enough in their religious education within the order that they have sworn a vow of devotion to the Fortune worshiped by the order.  It would be foolish to have novices swear such vows until such time as they can be trusted to keep to them, lest the broken vows bring disaster upon the order.
-
-- A Junior Monk has graduated in their studies to attain the standing of a monk, and is no longer considered a monk in training.
-
-- An Adept Monk is considered wise enough to teach initiates, novices, and acolytes.
-
-- A Senior Monk has been deemed worthy to be put in charge of directing the work of other monks, such as being put in charge of the custodians who clean the temple grounds, or being tasked with overseeing the temple kitchens.  One of the requirements to attain the position of Senior Monk is a vow of celibacy, and senior monks therefore may not be married.  This means that once a monk attains the position of Adept Monk, they must choose between starting a family and attaining a higher position within the temple.
-
-- Each major temple has a council of Stewards, each responsible for a division of the temple's responsibilities, such as the temple's treasury and budgeting, or its education of members, or the overseeing of religious ceremonies.
-
-- Any provincial city will have an Abbot in charge, and even temples in the capital will be run by an abbot if they do not oversee other temples out in the provinces.
-
-- For large temple networks such as the Order of Bishamon, the temple in the capital is known as the sovereign temple and the provincial temples are subordinate to it.  As explained above, those subordinate temples will have an abbot, but the sovereign temple will be run by a Grand Abbot.
-
-We sometimes talk about "orders" and other times "temples", so what distinguishes an Order from a Temple?
-
-The Order of Bishamon refers to the network of temples, monasteries, and shrines devoted to Bishamon throughout Damasu lands.  Each domain in Lion lands has its own Order of Bishamon with its own Grand Abbot.
-
-Sometimes people refer to "the Order of Bishamon" and mean the general system of all Bishamon-related religious institutions across the entire Empire, but most of the time anyone talking about any particular Order is referring to the institution within that domain.
-
-Although e.g. the Order of Bishamon in a vassal domain will sometimes send gifts and offerings to the Order of Bishamon in the Clan capital, this is more infrequent and informal than the rigid expectation of taxes which exists between the vassal house government and the ruling Clan house.
-
-The Temple of Bishamon in a domain's capital is formally referred to as the **sovereign temple**, while the smaller provincial temples in each of a domain's provincial cities are formally referred to as **subordinate temples**.
-
-To summarize, "the Order of Bishamon" refers to the broader network of all Bishamon temples/monasteries/shrines in a domain, while "the Temple of Bishamon" refers to the sovereign temple in the domain capital.
-
-Here are the designations at each level:
-* The Grand Abbot for an Order serves in the Soverign Temple in the domain capital
-* Provincial abbots serve in subordinate temples in the provincial cities
-* Town preceptors serve in town monasteries in county towns
-* Country monks serve in village shrines
-
-#### Temple of Bishamon Finances and History
-
-The Temple of Bishamon in Toshi Ranbo is one of the largest in the Empire, with over 200 monks living in the temple complex.  Because this is unusually large, it's not necessarily representative of most major temples in most major cities, but here are the rough numbers for the monks in each category in the temple:
-
-| Position | Count |
-| --- | --- |
-| Novices | 80-100 |
-| Acolytes | 60-80 |
-| Junior Monks | 40-60 |
-| Adept Monks | 30-40 |
-| Senior Monks | 20-30 |
-| Stewards | 10-20 |
-| Grand Abbot | 1 |
-
-Most of the monks in all of the above categories live in the Temple of Bishamon complex.  This does not include most of the initiates, who have begun their study, usually part-time while working their existing jobs and handling their normal family obligations.  As the Shinsei said of the monastic life, "many are called, few are chosen" - there are generally 200-500 initiates, more in number than all other categories combined!
-
-Here's a rough outline of the Order of Bishamon's standing over the past decade and a half:
-
-Under the old Damasu regime, the Temple of Bishamon was the biggest, richest, most influential temple in Damasu lands, due to the centrality of the fortune Bishamon in Lion life.  A majority of the government's temple funding went to the Order of Bishamon, which made up roughly 50% of the Temple's funding.
-
-12 years ago (in the year 1117), the Tsume house invaded Toshi Ranbo and conquered the city from the Damasu house.  Although during this time they would not have dared defile the temple (due to not wanting to offend Bishamon), they did raid the temple treasury, and their subsequent donations made back to the temple came nowhere close to recouping those losses.
-
-Over the next several years of Tsume occupation, the city was in bad shape, with repeated riots over food shortages and other conditions.  The Tsume government cut the city's funding of the Order of Bishamon down to almost nothing, funneling their money instead to the Order of Daikoku and to the Order of Benten which they quickly expanded using monies which otherwise would have been directed to the Order of Bishamon.  They also seized all of the "temple estates", i.e. properties owned by the temple from which it collected rent.
-
-The Temple of Bishamon thus not only had to contend with the emptying of its treasury, but also losing over half of its funding overnight, putting the temple's finances in dire straits.  The disorder within the city, combined with the Tsume pillaging of the temple's normal roster of wealthy patrons made this problem worse.  Additionally, the temple's budget shortfalls led to a massive scaling back of its charitable endeavors, which further strained the ability of the city's population to cope with the new regime.  Many monks were dismissed from the Temple during this time, reassigned to the provinces or to other domains, and many of these formed the early cadre of the Baitenist movement.
-
-Almost 4 years after the Tsume invasion, the Lion Clan retook the city (in the year 1121), and it reverted to the Damasu.  The Lion Clan investigated the temple's finances and found them lacking, and instead of depleting them further restored their government funding, though they did not have the resources to restore its treasury to its previous levels at this time, due to the ongoing war with the Crane Clan.
-
-About 6 years later, the Lion/Crane war ended (the peace treaty was officially signed in the year 1128), and the peace treaty involved large payments to the Lion Clan.  The Damasu were flush with coin, and donated generously to the Temple.  In the past year, after the peace treaty was signed, the Temple's income is double what it was even under the previous Damasu regime.
-
-The Temple of Bishamon's annual income before the fall of the previous Damasu regime was roughly 10,000 koku/year, which was sourced as follows:
-
-Here is a rough breakdown of what a typical year of income was for the Temple of Bishamon prior to the fall of the Damasu:
-
-| Koku/year | Percent Source |  |
-| --- | --- | --- |
-| ~4,000 | ~40% | government funding |
-| ~2,500 | ~25% | donations from the city's population |
-| ~1,500 | ~15% | income from performing religious services and ceremonies |
-| ~1000 | ~10% | income from land, property, and other investments |
-| ~500 | ~5% | income from the sale of non-religious goods and services |
-| ~500 | ~5% | offerings from subordinate temples, monasteries, and shrines in the provinces |
-
-Note that all of these numbers are extremely approximate, but they should each offer a rough order of magnitude of the Temple of Bishamon's income from various sources.  One other point of interest is that the Temple of Bishamon in the capital distributes more monies in a typical year to its subordinate temples than it receives, so the 5% of "revenue" is misleading and could just as easily be expressed as a negative.
-
-Here's roughly what the temple has historically done with that income each year:
-
-| Koku/year | Percent Category |  |
-| --- | --- | --- |
-| ~2,000 | ~20% | Religious ceremonies, events, and festivals |
-| ~1,500 | ~15% | Savings, investments, loans, land and property management |
-| ~1,000 | ~10% | Maintenance, cleaning, repair, and renovations to the Temple |
-| ~1000 | ~10% | Donations to the needy and other community projects |
-| ~1000 | ~10% | Gifts to patrons, public relations, offerings to other temples, and other forms of diplomacy |
-| ~1000 | ~10% | Funds for subordinate temples, monasteries, and shrines, as well as pilgrimages to these and other destinations |
-| ~1000 | ~10% | Scholarly pursuits, acquisition and upkeep of books, ink, paper, and other religious artifacts and symbols |
-| ~1000 | ~5% | Room and board for the temple monks |
-
-Remember that these are all the approximate baseline numbers before everything changed when Toshi Ranbo fell to the Tsume invasion, and the Temple fell on extremely hard times for several years afterwards.  This had rippling effects not immediately reflected in high-level budget numbers.
-
-For example, there is no line item for clothing on this budget breakdown.  Partially this is because a monk's initial set of robes would be provided out of the "room and board" budget, and replacements often come either out of the budget of the senior monk overseeing the job a monk is working, or donated by members of the community.  For example, Adept monks who teach the city's initiates often take up collections from their students in order to buy new sandals or undergarments or robes.
-
-When the Lion took over the city, few new robes were purchased by the temple for several years, and the poor state of the temple's finances was apparent from the increasingly worn robes which were being constantly patched and mended rather than replaced.
-
-#### Temple Daily Life
-
-The above sections detail the temple's hierarchy and budget, but this doesn't quite describe what most of the monks are doing day-to-day.  This is only somewhat reflected in how the temple receives and spends its money, since some things are mostly free and others cost enormous amounts of money.
-
-Because monks tend to perform many roles, there's not a simple or clear breakdown of who is doing what.  For example, consider the role of education in the temple.  While it's true that some Adept monks might spend most of their time educating initiates, teaching and learning does not stop at any rank.  Some senior monks will be active in continuing instruction of the junior monks under their authority, while others will be mainly concerned with temple operations.  Some scribes and librarians will be fully occupied with copying and cataloging, while others will use their expertise to guide the education of the temple's most senior members.
-
-Because of these shared roles and responsibilities, any breakdown of temple work will add up to well over 100%.  However, this is still useful to help understand how the Temple of Bishamon's monks spend their days:
-
-| Percent | Role | Work |
-| --- | --- | --- |
-| ~33% | Clergy | Performing religious ceremonies, rituals, and prayers, as well as guiding others in meditation, study, and training. Some monks specialize in specific aspects of the faith or in performing particular rituals. |
-| ~25% | Educators | The most common task is recruiting and instructing initiates who have not yet been chosen to join the temple, followed by the continuing education of the temple's novices, acolytes, and junior monks. |
-| ~20% | Custodians | This not only includes those who clean the temple but also the skilled work responsible for doing maintenance and repair work. In some cases this will require bringing in and overseeing outside contractors for extremely specialized labor. |
-| ~20% | Cooks | The kitchen staff needs to be large to serve multiple meals per day to hundreds of monks, and this figure also includes those who work in community kitchens which exist as part of the Temple of Bishamon's charitable outreach. |
-| ~15% | Scribes/Scholars | The temple librarians copy religious texts, maintain the temple's library and archives, and engage in scholarly pursuits related to the temple's religious teachings and history. Making new copies of the Tao (and other religious texts) in particular is such incredibly time consuming and important work that many monks devote their entire lives to it. |
-| ~10% | Administrators | Responsible for managing the temple's finances, resources, and personnel, the stewards and senior monks in these positions also liaise with the city government (particularly the Damasu Ministry of Rites), handle correspondence with other temples, and manage temple visitors and pilgrims. |
-| ~10% | Philanthropy | Those who oversee and distribute the temple's charitable donations, which include not only direct donations to the poor but also things like soup kitchens and the like. |
-| ~10% | Security | Responsible for maintaining safety and order within the temple grounds and protecting the temple's valuable religious artifacts and sacred spaces. Counterintuitively, the Temple of Bishamon actually has fewer monks in this role than other temples, because martial training is so much more common as part of the Order of Bishamon's religious education. Thus, while some other temples require a larger staff specifically devoted to security, the Temple of Bishamon has a smaller percentage of its members specifically designated in this role. |
-| ~10% | Pilgrims | This includes not only the holy journeys typically thought of when talking about pilgrimages, but also coordinating with the subordinate temples in the provinces and managing the offerings and donations which flow in both directions. |
-
-There are other miscellaneous specialized roles within the temple not listed here, but the above should give a decent idea of the overall categories.  Remember that the above percentages add up to much more than 100% due to the fact that many monks perform multiple roles at different times.
-
-Another way to think about temple life is to think about what a typical day looks like for monks in the Temple of Bishamon.
-
-Considering the various roles and jobs which exist in the temple, this varies considerably from monk to monk, but a few examples give a general sense of the rhythm and flow of temple life.
-
-First let's consider the daily routine of Kenta, who reports to the Custodian of the Temple Grounds.
-
-| Hour | Task | Description |
-| --- | --- | --- |
-| Hour of the Tiger (4-6am) | Waking and morning prayers | Like most temple monks, Kenta often wakes before dawn to begin his day. After waking, Kenta hurries to attend the temple's communal morning prayers. |
-| Hour of the Hare (6-8am) | Cleaning duties | Kenta begins his custodial work early in the day, with tasks like sweeping the grounds, cleaning the main hall, and especially any tasks which are best performed while the day's weather is still cool. |
-| Hour of the Dragon (8-10am) | Breakfast and rest | The temple provides a daily communal breakfast, typically rice and vegetables. After eating, Kenta spends some time in daily meditation, which provides him with the physical rest and spiritual centering that will prepare him for the remainder of the day. |
-| Hour of the Serpent (10am-noon) | Cleaning duties | As the day heats up, Kenta tends to focus on indoor tasks. Note that this cycle of indoor/outdoor tasks is often reversed between the summer and winter, as snow on the ground usually makes it more advisable to perform indoor tasks in the early hours and outdoor tasks at midday. |
-| Hour of the Horse (noon-2pm) | Midday prayers and lunch | At midday Kenta participates in another period of communal prayers and meditation, followed by the temple lunch, which is similar to breakfast in its simplicity. |
-| Hour of the Goat (2-4pm) | Personal time | While many of the custodial staff use this time for afternoon naps, Kenta uses this time for continuing education. He aspires to become an Adept monk, but first he must improve his reading and writing abilities, which he does by attending classes taught by the Teacher of Bishamon's Wisdom. Once his literacy has improved, he will "graduate" to begin receiving direct instruction from the Senior monk who oversees him. |
-| Hour of the Monkey (4-6pm) | Cleaning duties | As the day cools down, Kenta either resumes his outdoor cleaning (in the summer) or his indoor tasks (in the winter). |
-| Hour of the Rooster (6-8pm) | Evening prayers and dinner | Just as the day begins with prayers, so does it end. Kenta looks forward to the temple dinners, which are larger and fuller meals than the simple breakfasts and lunches. Dinner may involve soup, noodles, pickles, bean curd, seitan, and on some nights the kitchen serves fried tempura or a piece of fresh fruit as a dessert. |
-| Hour of the Dog (8-10pm) | Bathing and personal time | While some of the other young monks venture out into the city for entertainment during this time, Kenta usually spends a few minutes relaxing his thoughts and then turning in about 60 minutes before the Hour of the Boar, when most of the temple turns in for the night. Once his literacy improves enough for it to be practical, he plans to spend this time reading the Tao and whatever other texts his sensei recommends to him. |
-
-As another example, consider the daily routine of Mizuki, who serves as the Scribe of the Eternal Tao.  She is a senior monk who oversees all the copying of the Tao performed by all scribes in the temple library.
-
-| Hour | Task | Description |
-| --- | --- | --- |
-| Hour of the Tiger (4-6am) | Waking and morning prayers | Rather than answering the call to morning prayers rung by the Herald of the Bell, Mizuki instead calls together her scribes to lead them in directed prayer and meditation based on what parts of the Tao will be copied on this day. She invites them to consider the koans and riddles and wisdom of the Shinsei they are about to transcribe, and has each of her scribes select a single word related to their day's work which shall be the focus of their centering prayer. |
-| Hour of the Hare (6-8am) | Planning and organizing | Mizuki begins her workday by reviewing the day's tasks and planning any special projects that must be handled, such as messages, correspondence, purchases, meetings, deliveries, etc. |
-| Hour of the Dragon (8-10am) | Breakfast and review of work | After a simple communal breakfast of rice and vegetables, Mizuki reviews the previous day's transcriptions, looking for errors or areas of improvement in her scribes' copying and calligraphy. During this time, she will mentor the junior scribes based on their previous day's output, to help them learn and improve. |
-| Hour of the Serpent (10am-noon) | Management and oversight | Mizuki typically splits this time between providing guidance and advice as needed to her scribes and performing transcription herself. These two tasks are related, as demonstrating how such things are properly done serves as a useful form of instruction for the junior monks. |
-| Hour of the Horse (noon-2pm) | Lunch and administrative duties | Mizuki is typically too busy to join her workers for midday prayers and meditation, and often works through lunch without noticing her own hunger. This is the time when she continues the day's special projects now that there is sufficient light to write correspondence, order new materials, and update her team's financial records. When the temple was suffering financially under the Tsume and in the aftermath of the Damasu retaking the city, Mizuki's team couldn't afford the cost of the candles and lanterns necessary to do this work in the early morning or late evening, and now that the temple's treasury has been restored to its former glory she is slowly re-accustoming herself to the new normal. |
-| Mizuki's scribes are not allowed the normal midday break. Unlike cooks and custodians and lecturers, Mizuki's team needs sunlight for their work, and so they work with few breaks throughout the daylight hours, taking their personal time in the morning and evening. |  |  |
-| Hour of the Goat (2-4pm) | Personal study | During this time, Mizuki continues to oversee her team, but shifts her own work from transcription to study, diving deeper into the Tao to gain the understanding which only comes with intense and continued study, contemplation, meditation, and prayer. During this time, she especially contemplates any questions she has recently been posed, either by members of her team or students she instructs, or by those she has met with from outside the temple. |
-| Hour of the Monkey (4-6pm) | Oversight and teaching | In addition to the normal oversight and review of the work being performed by her scribes, Mizuki spends some of this time lecturing and leading members of the temple in prayer and meditation, usually based on some of the teachings having been transcribed earlier in the day. Her students consist of a combination of members of the temple library and monks from other parts of the Temple of Bishamon. Occasionally a visiting samurai or pilgrim to the temple will join her lectures, which some have referred to as "one of the temple's hidden gems". |
-| Hour of the Rooster (6-8pm) | Dinner and personal time | With the sun's light fading, Mizuki ends her day's work by enjoying the temple dinner, which is especially welcome on days when she found herself working through lunch. Sometimes she eats outside the temple with patrons and benefactors, often samurai who have commissioned copies of the Tao, to whom she often repeats snippets from her lectures. |
-| Hour of the Dog (8-10pm) | Personal time, bathing, and preparing for the next day | Depending on the hardships of the day, Mizuki might spend this time in additional study, having evening tea with her closest friends in the temple, or finishing up the day's work by candlelight now that the Temple of Bishamon can once again afford candles. |
-
-On days when Mizuki needs to leave the temple to purchase additional supplies or handle other business, this is generally the time when she does so.
-
-Hopefully the similarities and differences between Kenta and Mizuki can help give an idea of the general rhythm of temple life.
-
-For married monks (remember that only Adept monks and below can marry, while Senior monks and above must swear a vow of celibacy), the personal time is usually spent with their families, who usually live in or next to the temple complex in temple housing.
-
 ### Karmic Inquisitors Timeline
 
 The timeline below covers events related to the Karmic Inquisitors campaign:
@@ -2211,24 +2106,6 @@ Each domain usually has 5-10 major lineages which make up the majority of its sa
 Most domains have a handful of smaller lineages which are too minor to be granted a position in the House Chancellery, but whose members still proudly uphold the traditions of their family line.  Sometimes such lineages grow sufficiently large and successful to be granted a seat on the chancellery, and other times existing lineages shrink or otherwise fall into disfavor and lose their seat.  In general, lineages which make up at least 10% of a domain usually have seats in their local House Chancellery, and smaller lineages do not, though this is not a legal requirement and daimyo have absolute legal authority in their domains to promote or dismiss their retainers at their sole discretion.
 
 Such changes most often happen during turbulent times, and the recent war and changes in Damasu lands (as explained on the Timeline) have caused many changes to the makeup of the Damasu's lineages, which are now almost completely different than they were 15 years ago before the Tsume invasion.
-
-##### Provincial and cosmopolitan lineages
-
-Some lineages are tied to the specific land and holdings they administer on behalf of their daimyo.  Consider the Aki lineage of the Daidoji house.
-
-After the warlord Hayaku swore fealty to Lady Doji at the dawn of the Empire, he changed his name to Daidoji (literally: protector-of-Doji) and helped conquer territory in her name.  A local warlord named Aki saw the wisdom in accepting the gifts of civilization offered by the Empire, so he swore fealty to Lord Daidoji.  To this day, the Aki lineage is a powerful faction of the ruling house of the Daidoji, and the Aki chancellor represents their interests on the Daidoji chancellery.
-
-Most samurai from the Aki lineage live in the province of Akishi, and the provincial city of Akishi was the original seat of power of the warlord Aki even before he swore fealty to Lord Daidoji.  The Aki lineage has administered the province of Akishi for over a thousand years, and in recognition of this loyalty, no Daidoji daimyo would dream of appointing a provincial governor of Akishi from any other lineage.  This type of lineage is often referred to as a provincial lineage, in recognition of the lineage's ties to a single province.
-
-However, not all provinces are like Akishi, and not all lineages are tied to a particular province.
-
-Many provincial cities in the Empire began as small county townships and grew over time, usually due to some combination of normal population growth, favorable location along the Imperial roads, especially fertile farmland leading to local wealth, etc.  In such cases, governorship of these provinces will generally be awarded by the daimyo, at the recommendation of the House Chancellery, based on a combination of the merit of the candidates and the usual political horse-trading of the house lineages.
-
-Likewise, many lineages were established by those who distinguished themselves to their daimyo, who rewarded them with an appointment to the chancellery.  In many cases, members of other lineages which have fallen into disfavor will clamor to marry or be adopted into this new lineage, and new lineages often end up being created specifically to reward and elevate specific members from some existing lineage.  These lineages are not tied to any particular province, though they may lobby for their members to be appointed to administer counties and provinces when those positions come before the House Chancellery.  Such lineages are often referred to as cosmopolitan lineages, which communicates that they are based in their domain's capital.
-
-These cosmopolitan lineages often have semi-hereditary government posts which they always occupy.  For example, the Sasara lineage of the Ryusei domain (of the Mirumoto Family of the Dragon Clan) always holds the position of Minister of Rites, in recognition of their piety and mastery of proper religious doctrine.  There are no laws or decrees to that effect, but once such a tradition has persisted for centuries, few samurai nobles would break with the past without an extremely compelling reason.
-
-Provinces like Akishi which are administered by a provincial lineage are often called dynasty provinces.  Provinces whose provincial governments are drawn from the domain's various lineages based on merit and politics are known as stewardship provinces.
 
 ##### Old and new lineages of the Damasu
 
@@ -5820,6 +5697,205 @@ However, because Rokugan is a society in which people tend to accept supernatura
 
 Not every cursed item or supernatural thing will have all of these qualities, but this is the kind of thing I tend to shoot for.
 
+## Temple Organization
+
+When the Shinsei was advising the Hantei on the new Empire being created, part of his guidance was the identification of the 7 Major Fortunes whose favor would bring good luck and prosperity to humanity:
+
+| Fortune | Domain |
+| --- | --- |
+| Benten | The fortune of romantic love |
+| Bishamon | The fortune of strength |
+| Daikoku | The fortune of wealth |
+| Ebisu | The fortune of honest work |
+| Fukurokujin | The fortune of wisdom and mercy |
+| Hotei | The fortune of contentment |
+| Jurojin | The fortune of longevity |
+
+The Shinsei further recommended that each clan cultivates two major Fortunes to be their patrons, ensuring that every city within the clan has a temple to each of their two patron Fortunes.
+
+| Clan | Patron Fortunes |
+| --- | --- |
+| Crab | Bishamon + Ebisu |
+| Crane | Benten + Daikoku |
+| Dragon | Hotei + Ebisu |
+| Lion | Bishamon + Daikoku |
+| Phoenix | Fukurokujin + Hotei |
+| Scorpion | Benten + Jurojin |
+| Unicorn | Fukurokujin + Jurojin |
+
+In the late 3rd century, Hantei the Tenth formalized the system of the Six Ministries, and along with it codified the requirement that each of the Empire's cities contains a temple to each of its clan's patron fortunes.
+
+The temples in Toshi Ranbo are unusually large and well-funded, due to Toshi Ranbo being the 3rd-largest city in the Empire, but the general structure is the same commonly-used way to organize temples which exists everywhere.
+
+The rank of samurai is well established throughout the Empire, according to the system of the Six Ministries laid down by Hantei the 10th.
+
+Peasants are not samurai, and therefore the most esteemed peasant, even if they be the richest merchant in the Empire, is lower in the Celestial Order, and therefore of lower rank, than the lowliest samurai.
+
+However, monks exist outside the Celestial Order, walking with one foot in the world and one foot outside of it, and therefore any monk is neither lower nor higher ranking than any samurai.
+
+With that being said, religious orders must necessarily have a hierarchy in order to run a large organization.  Here is what that typically looks like:
+
+- An Initiate is one who has begun the process of joining a religious order but is not yet a full member.  Many who become initiates decide against joining an order, and thus never attain any higher standing within any temple.
+
+- A Novice is the lowest level of monk, who has joined an order but not yet sworn all of their religious vows.  A novice would typically have sworn only a vow of obedience to the order, but not any of the more significant vows which help them on their path to enlightenment and spiritual development.
+
+- An Acolyte has progressed enough in their religious education within the order that they have sworn a vow of devotion to the Fortune worshiped by the order.  It would be foolish to have novices swear such vows until such time as they can be trusted to keep to them, lest the broken vows bring disaster upon the order.
+
+- A Junior Monk has graduated in their studies to attain the standing of a monk, and is no longer considered a monk in training.
+
+- An Adept Monk is considered wise enough to teach initiates, novices, and acolytes.
+
+- A Senior Monk has been deemed worthy to be put in charge of directing the work of other monks, such as being put in charge of the custodians who clean the temple grounds, or being tasked with overseeing the temple kitchens.  One of the requirements to attain the position of Senior Monk is a vow of celibacy, and senior monks therefore may not be married.  This means that once a monk attains the position of Adept Monk, they must choose between starting a family and attaining a higher position within the temple.
+
+- Each major temple has a council of Stewards, each responsible for a division of the temple's responsibilities, such as the temple's treasury and budgeting, or its education of members, or the overseeing of religious ceremonies.
+
+- Any provincial city will have an Abbot in charge, and even temples in the capital will be run by an abbot if they do not oversee other temples out in the provinces.
+
+- For large temple networks such as the Order of Bishamon, the temple in the capital is known as the sovereign temple and the provincial temples are subordinate to it.  As explained above, those subordinate temples will have an abbot, but the sovereign temple will be run by a Grand Abbot.
+
+We sometimes talk about "orders" and other times "temples", so what distinguishes an Order from a Temple?
+
+The Order of Bishamon refers to the network of temples, monasteries, and shrines devoted to Bishamon throughout Damasu lands.  Each domain in Lion lands has its own Order of Bishamon with its own Grand Abbot.
+
+Sometimes people refer to "the Order of Bishamon" and mean the general system of all Bishamon-related religious institutions across the entire Empire, but most of the time anyone talking about any particular Order is referring to the institution within that domain.
+
+Although e.g. the Order of Bishamon in a vassal domain will sometimes send gifts and offerings to the Order of Bishamon in the Clan capital, this is more infrequent and informal than the rigid expectation of taxes which exists between the vassal house government and the ruling Clan house.
+
+The Temple of Bishamon in a domain's capital is formally referred to as the **sovereign temple**, while the smaller provincial temples in each of a domain's provincial cities are formally referred to as **subordinate temples**.
+
+To summarize, "the Order of Bishamon" refers to the broader network of all Bishamon temples/monasteries/shrines in a domain, while "the Temple of Bishamon" refers to the sovereign temple in the domain capital.
+
+Here are the designations at each level:
+* The Grand Abbot for an Order serves in the Soverign Temple in the domain capital
+* Provincial abbots serve in subordinate temples in the provincial cities
+* Town preceptors serve in town monasteries in county towns
+* Country monks serve in village shrines
+
+### Temple of Bishamon Finances and History
+
+The Temple of Bishamon in Toshi Ranbo is one of the largest in the Empire, with over 200 monks living in the temple complex.  Because this is unusually large, it's not necessarily representative of most major temples in most major cities, but here are the rough numbers for the monks in each category in the temple:
+
+| Position | Count |
+| --- | --- |
+| Novices | 80-100 |
+| Acolytes | 60-80 |
+| Junior Monks | 40-60 |
+| Adept Monks | 30-40 |
+| Senior Monks | 20-30 |
+| Stewards | 10-20 |
+| Grand Abbot | 1 |
+
+Most of the monks in all of the above categories live in the Temple of Bishamon complex.  This does not include most of the initiates, who have begun their study, usually part-time while working their existing jobs and handling their normal family obligations.  As the Shinsei said of the monastic life, "many are called, few are chosen" - there are generally 200-500 initiates, more in number than all other categories combined!
+
+Here's a rough outline of the Order of Bishamon's standing over the past decade and a half:
+
+Under the old Damasu regime, the Temple of Bishamon was the biggest, richest, most influential temple in Damasu lands, due to the centrality of the fortune Bishamon in Lion life.  A majority of the government's temple funding went to the Order of Bishamon, which made up roughly 50% of the Temple's funding.
+
+12 years ago (in the year 1117), the Tsume house invaded Toshi Ranbo and conquered the city from the Damasu house.  Although during this time they would not have dared defile the temple (due to not wanting to offend Bishamon), they did raid the temple treasury, and their subsequent donations made back to the temple came nowhere close to recouping those losses.
+
+Over the next several years of Tsume occupation, the city was in bad shape, with repeated riots over food shortages and other conditions.  The Tsume government cut the city's funding of the Order of Bishamon down to almost nothing, funneling their money instead to the Order of Daikoku and to the Order of Benten which they quickly expanded using monies which otherwise would have been directed to the Order of Bishamon.  They also seized all of the "temple estates", i.e. properties owned by the temple from which it collected rent.
+
+The Temple of Bishamon thus not only had to contend with the emptying of its treasury, but also losing over half of its funding overnight, putting the temple's finances in dire straits.  The disorder within the city, combined with the Tsume pillaging of the temple's normal roster of wealthy patrons made this problem worse.  Additionally, the temple's budget shortfalls led to a massive scaling back of its charitable endeavors, which further strained the ability of the city's population to cope with the new regime.  Many monks were dismissed from the Temple during this time, reassigned to the provinces or to other domains, and many of these formed the early cadre of the Baitenist movement.
+
+Almost 4 years after the Tsume invasion, the Lion Clan retook the city (in the year 1121), and it reverted to the Damasu.  The Lion Clan investigated the temple's finances and found them lacking, and instead of depleting them further restored their government funding, though they did not have the resources to restore its treasury to its previous levels at this time, due to the ongoing war with the Crane Clan.
+
+About 6 years later, the Lion/Crane war ended (the peace treaty was officially signed in the year 1128), and the peace treaty involved large payments to the Lion Clan.  The Damasu were flush with coin, and donated generously to the Temple.  In the past year, after the peace treaty was signed, the Temple's income is double what it was even under the previous Damasu regime.
+
+The Temple of Bishamon's annual income before the fall of the previous Damasu regime was roughly 10,000 koku/year, which was sourced as follows:
+
+Here is a rough breakdown of what a typical year of income was for the Temple of Bishamon prior to the fall of the Damasu:
+
+| Koku/year | Percent Source |  |
+| --- | --- | --- |
+| ~4,000 | ~40% | government funding |
+| ~2,500 | ~25% | donations from the city's population |
+| ~1,500 | ~15% | income from performing religious services and ceremonies |
+| ~1000 | ~10% | income from land, property, and other investments |
+| ~500 | ~5% | income from the sale of non-religious goods and services |
+| ~500 | ~5% | offerings from subordinate temples, monasteries, and shrines in the provinces |
+
+Note that all of these numbers are extremely approximate, but they should each offer a rough order of magnitude of the Temple of Bishamon's income from various sources.  One other point of interest is that the Temple of Bishamon in the capital distributes more monies in a typical year to its subordinate temples than it receives, so the 5% of "revenue" is misleading and could just as easily be expressed as a negative.
+
+Here's roughly what the temple has historically done with that income each year:
+
+| Koku/year | Percent Category |  |
+| --- | --- | --- |
+| ~2,000 | ~20% | Religious ceremonies, events, and festivals |
+| ~1,500 | ~15% | Savings, investments, loans, land and property management |
+| ~1,000 | ~10% | Maintenance, cleaning, repair, and renovations to the Temple |
+| ~1000 | ~10% | Donations to the needy and other community projects |
+| ~1000 | ~10% | Gifts to patrons, public relations, offerings to other temples, and other forms of diplomacy |
+| ~1000 | ~10% | Funds for subordinate temples, monasteries, and shrines, as well as pilgrimages to these and other destinations |
+| ~1000 | ~10% | Scholarly pursuits, acquisition and upkeep of books, ink, paper, and other religious artifacts and symbols |
+| ~1000 | ~5% | Room and board for the temple monks |
+
+Remember that these are all the approximate baseline numbers before everything changed when Toshi Ranbo fell to the Tsume invasion, and the Temple fell on extremely hard times for several years afterwards.  This had rippling effects not immediately reflected in high-level budget numbers.
+
+For example, there is no line item for clothing on this budget breakdown.  Partially this is because a monk's initial set of robes would be provided out of the "room and board" budget, and replacements often come either out of the budget of the senior monk overseeing the job a monk is working, or donated by members of the community.  For example, Adept monks who teach the city's initiates often take up collections from their students in order to buy new sandals or undergarments or robes.
+
+When the Lion took over the city, few new robes were purchased by the temple for several years, and the poor state of the temple's finances was apparent from the increasingly worn robes which were being constantly patched and mended rather than replaced.
+
+### Temple Daily Life
+
+The above sections detail the temple's hierarchy and budget, but this doesn't quite describe what most of the monks are doing day-to-day.  This is only somewhat reflected in how the temple receives and spends its money, since some things are mostly free and others cost enormous amounts of money.
+
+Because monks tend to perform many roles, there's not a simple or clear breakdown of who is doing what.  For example, consider the role of education in the temple.  While it's true that some Adept monks might spend most of their time educating initiates, teaching and learning does not stop at any rank.  Some senior monks will be active in continuing instruction of the junior monks under their authority, while others will be mainly concerned with temple operations.  Some scribes and librarians will be fully occupied with copying and cataloging, while others will use their expertise to guide the education of the temple's most senior members.
+
+Because of these shared roles and responsibilities, any breakdown of temple work will add up to well over 100%.  However, this is still useful to help understand how the Temple of Bishamon's monks spend their days:
+
+| Percent | Role | Work |
+| --- | --- | --- |
+| ~33% | Clergy | Performing religious ceremonies, rituals, and prayers, as well as guiding others in meditation, study, and training. Some monks specialize in specific aspects of the faith or in performing particular rituals. |
+| ~25% | Educators | The most common task is recruiting and instructing initiates who have not yet been chosen to join the temple, followed by the continuing education of the temple's novices, acolytes, and junior monks. |
+| ~20% | Custodians | This not only includes those who clean the temple but also the skilled work responsible for doing maintenance and repair work. In some cases this will require bringing in and overseeing outside contractors for extremely specialized labor. |
+| ~20% | Cooks | The kitchen staff needs to be large to serve multiple meals per day to hundreds of monks, and this figure also includes those who work in community kitchens which exist as part of the Temple of Bishamon's charitable outreach. |
+| ~15% | Scribes/Scholars | The temple librarians copy religious texts, maintain the temple's library and archives, and engage in scholarly pursuits related to the temple's religious teachings and history. Making new copies of the Tao (and other religious texts) in particular is such incredibly time consuming and important work that many monks devote their entire lives to it. |
+| ~10% | Administrators | Responsible for managing the temple's finances, resources, and personnel, the stewards and senior monks in these positions also liaise with the city government (particularly the Damasu Ministry of Rites), handle correspondence with other temples, and manage temple visitors and pilgrims. |
+| ~10% | Philanthropy | Those who oversee and distribute the temple's charitable donations, which include not only direct donations to the poor but also things like soup kitchens and the like. |
+| ~10% | Security | Responsible for maintaining safety and order within the temple grounds and protecting the temple's valuable religious artifacts and sacred spaces. Counterintuitively, the Temple of Bishamon actually has fewer monks in this role than other temples, because martial training is so much more common as part of the Order of Bishamon's religious education. Thus, while some other temples require a larger staff specifically devoted to security, the Temple of Bishamon has a smaller percentage of its members specifically designated in this role. |
+| ~10% | Pilgrims | This includes not only the holy journeys typically thought of when talking about pilgrimages, but also coordinating with the subordinate temples in the provinces and managing the offerings and donations which flow in both directions. |
+
+There are other miscellaneous specialized roles within the temple not listed here, but the above should give a decent idea of the overall categories.  Remember that the above percentages add up to much more than 100% due to the fact that many monks perform multiple roles at different times.
+
+Another way to think about temple life is to think about what a typical day looks like for monks in the Temple of Bishamon.
+
+Considering the various roles and jobs which exist in the temple, this varies considerably from monk to monk, but a few examples give a general sense of the rhythm and flow of temple life.
+
+First let's consider the daily routine of Kenta, who reports to the Custodian of the Temple Grounds.
+
+| Hour | Task | Description |
+| --- | --- | --- |
+| Hour of the Tiger (4-6am) | Waking and morning prayers | Like most temple monks, Kenta often wakes before dawn to begin his day. After waking, Kenta hurries to attend the temple's communal morning prayers. |
+| Hour of the Hare (6-8am) | Cleaning duties | Kenta begins his custodial work early in the day, with tasks like sweeping the grounds, cleaning the main hall, and especially any tasks which are best performed while the day's weather is still cool. |
+| Hour of the Dragon (8-10am) | Breakfast and rest | The temple provides a daily communal breakfast, typically rice and vegetables. After eating, Kenta spends some time in daily meditation, which provides him with the physical rest and spiritual centering that will prepare him for the remainder of the day. |
+| Hour of the Serpent (10am-noon) | Cleaning duties | As the day heats up, Kenta tends to focus on indoor tasks. Note that this cycle of indoor/outdoor tasks is often reversed between the summer and winter, as snow on the ground usually makes it more advisable to perform indoor tasks in the early hours and outdoor tasks at midday. |
+| Hour of the Horse (noon-2pm) | Midday prayers and lunch | At midday Kenta participates in another period of communal prayers and meditation, followed by the temple lunch, which is similar to breakfast in its simplicity. |
+| Hour of the Goat (2-4pm) | Personal time | While many of the custodial staff use this time for afternoon naps, Kenta uses this time for continuing education. He aspires to become an Adept monk, but first he must improve his reading and writing abilities, which he does by attending classes taught by the Teacher of Bishamon's Wisdom. Once his literacy has improved, he will "graduate" to begin receiving direct instruction from the Senior monk who oversees him. |
+| Hour of the Monkey (4-6pm) | Cleaning duties | As the day cools down, Kenta either resumes his outdoor cleaning (in the summer) or his indoor tasks (in the winter). |
+| Hour of the Rooster (6-8pm) | Evening prayers and dinner | Just as the day begins with prayers, so does it end. Kenta looks forward to the temple dinners, which are larger and fuller meals than the simple breakfasts and lunches. Dinner may involve soup, noodles, pickles, bean curd, seitan, and on some nights the kitchen serves fried tempura or a piece of fresh fruit as a dessert. |
+| Hour of the Dog (8-10pm) | Bathing and personal time | While some of the other young monks venture out into the city for entertainment during this time, Kenta usually spends a few minutes relaxing his thoughts and then turning in about 60 minutes before the Hour of the Boar, when most of the temple turns in for the night. Once his literacy improves enough for it to be practical, he plans to spend this time reading the Tao and whatever other texts his sensei recommends to him. |
+
+As another example, consider the daily routine of Mizuki, who serves as the Scribe of the Eternal Tao.  She is a senior monk who oversees all the copying of the Tao performed by all scribes in the temple library.
+
+| Hour | Task | Description |
+| --- | --- | --- |
+| Hour of the Tiger (4-6am) | Waking and morning prayers | Rather than answering the call to morning prayers rung by the Herald of the Bell, Mizuki instead calls together her scribes to lead them in directed prayer and meditation based on what parts of the Tao will be copied on this day. She invites them to consider the koans and riddles and wisdom of the Shinsei they are about to transcribe, and has each of her scribes select a single word related to their day's work which shall be the focus of their centering prayer. |
+| Hour of the Hare (6-8am) | Planning and organizing | Mizuki begins her workday by reviewing the day's tasks and planning any special projects that must be handled, such as messages, correspondence, purchases, meetings, deliveries, etc. |
+| Hour of the Dragon (8-10am) | Breakfast and review of work | After a simple communal breakfast of rice and vegetables, Mizuki reviews the previous day's transcriptions, looking for errors or areas of improvement in her scribes' copying and calligraphy. During this time, she will mentor the junior scribes based on their previous day's output, to help them learn and improve. |
+| Hour of the Serpent (10am-noon) | Management and oversight | Mizuki typically splits this time between providing guidance and advice as needed to her scribes and performing transcription herself. These two tasks are related, as demonstrating how such things are properly done serves as a useful form of instruction for the junior monks. |
+| Hour of the Horse (noon-2pm) | Lunch and administrative duties | Mizuki is typically too busy to join her workers for midday prayers and meditation, and often works through lunch without noticing her own hunger. This is the time when she continues the day's special projects now that there is sufficient light to write correspondence, order new materials, and update her team's financial records. When the temple was suffering financially under the Tsume and in the aftermath of the Damasu retaking the city, Mizuki's team couldn't afford the cost of the candles and lanterns necessary to do this work in the early morning or late evening, and now that the temple's treasury has been restored to its former glory she is slowly re-accustoming herself to the new normal. |
+| Mizuki's scribes are not allowed the normal midday break. Unlike cooks and custodians and lecturers, Mizuki's team needs sunlight for their work, and so they work with few breaks throughout the daylight hours, taking their personal time in the morning and evening. |  |  |
+| Hour of the Goat (2-4pm) | Personal study | During this time, Mizuki continues to oversee her team, but shifts her own work from transcription to study, diving deeper into the Tao to gain the understanding which only comes with intense and continued study, contemplation, meditation, and prayer. During this time, she especially contemplates any questions she has recently been posed, either by members of her team or students she instructs, or by those she has met with from outside the temple. |
+| Hour of the Monkey (4-6pm) | Oversight and teaching | In addition to the normal oversight and review of the work being performed by her scribes, Mizuki spends some of this time lecturing and leading members of the temple in prayer and meditation, usually based on some of the teachings having been transcribed earlier in the day. Her students consist of a combination of members of the temple library and monks from other parts of the Temple of Bishamon. Occasionally a visiting samurai or pilgrim to the temple will join her lectures, which some have referred to as "one of the temple's hidden gems". |
+| Hour of the Rooster (6-8pm) | Dinner and personal time | With the sun's light fading, Mizuki ends her day's work by enjoying the temple dinner, which is especially welcome on days when she found herself working through lunch. Sometimes she eats outside the temple with patrons and benefactors, often samurai who have commissioned copies of the Tao, to whom she often repeats snippets from her lectures. |
+| Hour of the Dog (8-10pm) | Personal time, bathing, and preparing for the next day | Depending on the hardships of the day, Mizuki might spend this time in additional study, having evening tea with her closest friends in the temple, or finishing up the day's work by candlelight now that the Temple of Bishamon can once again afford candles. |
+
+On days when Mizuki needs to leave the temple to purchase additional supplies or handle other business, this is generally the time when she does so.
+
+Hopefully the similarities and differences between Kenta and Mizuki can help give an idea of the general rhythm of temple life.
+
+For married monks (remember that only Adept monks and below can marry, while Senior monks and above must swear a vow of celibacy), the personal time is usually spent with their families, who usually live in or next to the temple complex in temple housing.
+
 ## Temple Relics
 
 This notion of ambiguity can be extended by reviewing temple relics for the Temple of Bishamon in the city of Toshi Ranbo.  One thing to note is how each relic is incredibly impressive and is known to have many supernatural qualities, but also that there are more mundane explanations (often just "power of suggestion") for each of them!
@@ -5968,7 +6044,7 @@ With items and relics of great power covered, along with ghost stories, the them
 
 Here's an in-universe story, which is an excerpt from the unpublished autobiography of Mirumoto no Ryusei Yasunobu:
 
-### Yasunobu's Vision
+### The Man Who Sold His Destiny
 
 **He will offer no answers, only questions.  Hesitate before answering, and ask no questions yourself.  Pay heed to the danger in any question whose answer seems obvious.**
 
@@ -5994,11 +6070,11 @@ Again I paused, waiting for a question.  After long moments of silence I continu
 
 "You are correct", Hoshi finally spoke.  "You will never unravel the meaning behind these events.  Whatever destiny was offered to you has been lost forever.  Nothing you do will ever change that."
 
-My stomach clenched, and in my shock and despair I struggled not to scream or vomit.  He will offer no answers, only questions.  I fought against anger and disbelief that in this of all situations the monk would offer plain and uncryptic truth.
+My stomach clenched, and in my shock and despair I struggled not to scream or vomit.  *He will offer no answers, only questions.*  I fought against anger and disbelief that in this of all situations the monk would offer plain and uncryptic truth.
 
 "What will you do now?"
 
-I stared at him in bewilderment as I worked to slow my breathing and calm my pounding heart.  I opened my mouth to demand to know what care he had for my future.  Hesitate before answering, and ask no questions yourself.  I closed my mouth.
+I stared at him in bewilderment as I worked to slow my breathing and calm my pounding heart.  I opened my mouth to demand to know what care he had for my future.  *Hesitate before answering, and ask no questions yourself.*  I closed my mouth.
 
 Would I continue seeking the answer to my question, hoping that dedication in the face of futility might restore my favor with the kami?  No, there is no wisdom in self-deception and seeking out failure.
 
@@ -6016,7 +6092,7 @@ For the first time, Hoshi smiled.
 
 "Would you like help?"
 
-[Note from Yuki: because of the pages missing from sensei's autobiography, I'm not sure if there's more to this chapter.  I'll investigate further before this is published.]
+> [Note from Yuki: because of the pages missing from sensei's autobiography, I'm not sure if there's more to this chapter.  I'll investigate further before this is published.]
 
 ### 3rd Imperial Legion Backstories
 
@@ -6744,104 +6820,6 @@ As a reminder, the Karmic Inquisitors campaign took place in the winter of 1129 
 | 1128 | The Crab Clan, under the direction of the Kuni Witch Hunters, begin experimenting with the Black Scrolls. |
 | 1129 | The kumosaya fungal blight destroys half of the Damasu rice and soybean crop. |
 | 1130 | Tsuruchi Naomi begins considering suitors for her eldest son Ichiro (the future daimyo of the Wasp). |
-
-## The Measure of Standing and the Accordances of Rank
-
-The Wasp Bounty Hunters campaign is one in which the specifics of rank and money are especially important, even by the standards of Rokugan.  Here are some notes about this:
-
-At the dawn of the Empire, the Lady Doji established the **Measure of Standing**, the system determining what actions are and aren't appropriate between members of different ranks.
-
-All samurai have a rank, and there are 15 ranks.  This is an in-universe system of ordering the peerage of the Empire.  The Emperor is the only person who is "of the fifteenth rank", and a samurai just past their gempukku with no government post and no immediate family of a high rank is "of the first rank".
-
-### Baseline ranks
-
-This is the current standard baseline of what types of people inhabit the various ranks (this has changed somewhat from the early days of the Empire, at which time there were only 10 ranks):
-- Rank 15: the Emperor (and no one else)
-- Rank 14: Clan Daimyo
-- Rank 13: Family Daimyo
-- Rank 12: House Daimyo
-- Rank 11: Chancellor
-- Rank 10: Minister
-- Rank 9: Deputy Minister
-- Rank 8: Governor
-- Rank 7: Provincial Minister
-- Rank 6: Deputy Provincial Minister
-- Rank 5: County Magistrate
-- Rank 4: Squad Sergeant
-- Rank 3: Corporal
-- Rank 2: rank and file legionnaires
-- Rank 1: unposted samurai with no higher-ranking immediate family
-
-Ranks have an "upper" and "lower" level, which we usually represent with decimals on character sheets, e.g. "Rank 7.5" would be referred to as "the upper seventh rank" and "Rank 7.0" would be referred to as "the lower seventh rank".
-
-### Gifts and the Accordances of Rank
-
-Once the Lady Doji had detailed the Measure of Standing, she proceeded to establish the **Accordances of Rank**, which detail the rights, privileges, and restrictions which samurai nobles must respect in relation to one another and to the lower classes, i.e. heimen (half-people) and hinin (non-people).
-
-To this day, Lady Doji's guidance continues to dictate all aspects of life, ranging from:
-- the clothing that can be worn by people of different classes and ranks
-- under what circumstances someone is expected to greet another by nodding, bowing, scraping, kneeling, pressing one's head to the floor, etc
-- the provisions of hospitality, e.g. under what circumstances a host should merely provide room and board for a guest, as opposed to being expected to give up their own quarters to an honored guest
-
-Money (and the monetary value of certain gifts) is also one of the Accordances of Rank:
-- The stipend a samurai receives from their daimyo should be the square of their formal Rank, e.g. people of the seventh rank should have a stipend of 49 koku per year.  (This is the same for people of both the upper and lower seventh rank, i.e. people whose character sheets say Rank 7.0 and Rank 7.5.)
-    - Note that for samurai with important government posts, their stipend will be a small fraction of their overall wealth, which will be generated by their position's budget and/or its tax collection authority.
-- When a gift is given, the value of the gift is always based on the rank of the highest-ranking person involved, regardless of whether that person is on the giving or receiving side.
-- A **courtesy gift** is given when visiting the home or office of someone with whom you have an established personal or professional relationship.  A courtesy gift has no expectation of value, regardless of the relative ranks of those involved.  ("I happened to pass by a fruit vendor on the way over here and thought you might enjoy a fresh persimmon"  would be equally appropriate for a clerk of the second rank or a member of the Imperial Chancellery, provided you are already friends or colleagues.)
-- A **token gift** should be given by anyone visiting the home or office of someone with whom they do not have a close personal or professional relationship.  The value of that gift should be zeni equal to the highest rank of anyone involved.
-  - When a retainer is visiting directly on behalf of a higher-ranking official, the rank of their master is used, but if the retainer is merely carrying out their general duties, then the retainer's rank is used.
-  - When a guest is meeting with a subordinate, the rank of the head of their office or household is used rather than the rank of the subordinate who is representing their master.
-- When making a request which would require their host to expend an extra effort above and beyond the normal day-to-day responsibilities of their position, a **consideration gift** is appropriate.  The expected value of a consideration gift should be counted in bu rather than zeni (i.e. bu equal to the rank of the highest-ranking person involved).
-- A **compensatory gift** is called for when making a request which is understood to be especially burdensome.  The value of a compensatory gift should be counted in koku rather than bu.
-- Above and beyond these baseline gifts, guests and petitioners are expected to provide an **indemnity gift** to account for extra expenses incurred by requests which rise above the expectations of normal duty and hospitality.
-
-### The Doctrine of Three Steps
-
-Interactions between people of different ranks are governed by the **Doctrine of Three Steps**:
-- Two people are of **peer standing** if they are no more than 1 rank apart.
-- Two people are of **accordant standing** if they are no more than 3 ranks apart, and are otherwise of **discordant standing** with respect to one another.
-- Some interactions require peer standing and others merely require accordant standing.
-- These comparisons use only the baseline numbers, e.g. someone of the upper seventh rank is of peer standing with someone of the lower sixth rank, despite there being a "1.5 rank" difference between them.
-- A person's **merits** may raise or lower their status for the purpose of determining their peer standing with respect to others of accordant standing, but do not alter their discordant standing among significantly higher or lower ranked individuals.
-  - Players can think of merits as the advantages and disadvantages which affect their perceived rank, though magistrates may take other things into account.  The legal standard for considering merits (as originally defined by Soshi Saibankan) is **the totality of circumstance**, which can include anything the magistrate considers relevant.
-
-The Accordances of Rank apply the Doctrine of Three Steps to dictate everything from banquet seating:
-- Two people must be of accordant standing to eat at the same small table.
-- When sizeable groups are seated around a large table (e.g. the banquet table of a lord's great hall), they must be ordered such that all are seated beside others of accordant standing.
-- When small groups of discordant standing eat around the same large table, a respectful distance must be maintained between them, proportionate to their differences in rank.
-
-...to challenging other samurai to duels:
-- Challenges are considered **proper** or **improper** irrespective of rank.  What constitutes grounds for a proper challenge has nothing to do with rank, but whether a proper challenge must be accepted is determined by the rank of the parties involved.
-- A samurai MUST accept proper challenges from an equal or higher ranking bushi.
-- A samurai MAY **dismiss** a proper challenge from a lower ranking samurai who is of discordant standing, i.e. a samurai more than 3 **formal ranks** (i.e. your legal rank, not considering merit) below you is always **dismissible**.
-- In other words, a samurai more than 3 ranks above another is **beyond the reach** of the challenger even if the challenge is valid.
-- Conversely, the Doctrine of Three Steps dictates that a higher-ranking challenged party is **within the reach** of the challenger (such that the challenger is not dismissible) if there are no more than 3 formal ranks between them.
-- A samurai MUST accept a proper challenge from a lower-ranking bushi of peer standing.
-  - As mentioned above, while accordant standing is determined by formal rank, peer standing is adjusted by the merits of each party.
-  - Therefore a magistrate might rule that after considering the merits of two samurai of accordant standing, the totality of circumstance grants the challenger peer standing with the challenged party despite being of lower rank, and thus a proper challenge must be accepted.
-
-The Doctrine of Three Steps also requires that no samurai may be more than 3 ranks lower than their immediate family members (parents, spouses, siblings, and children).
-- For example, if a family member is promoted to the eighth rank, any members of their immediate family are immediately raised to the fifth rank if they were previously at a lower rank.
-- A samurai must be of a lower rank than their superior, so depending on the circumstances, the promotion of a family member may require a samurai to leave their post.  ("My deepest apologies, but my brother's new duties are heavy, and I am called to assist him in his new position.  The Ministry of Retainers will no doubt select my replacement in short order.")
-- In other cases, such a promotion might trigger the minor elevation of a superior to the upper rank.  ("Congratulations on your promotion to the upper fifth rank.  Coincidentally, I myself have just been elevated to the lower fifth rank as a result of my brother's recent appointment.  It appears to have been a favorable season, has it not?")
-
-The Doctrine of Three Steps also governs how a House represents itself at the courts above it.  A standing emissary must be of sufficient rank to deal with the court they are sent to on accordant terms, which fixes the rank of each kind of representative a vassal House maintains abroad:
-- The House's **representative on the Imperial Chancellery** (not to be confused with *the* Imperial Chancellor, who heads that body at Rank 14) is of the **upper 11th rank**.
-- Its **emissary to its Clan's capital** is of the **lower 11th rank** - one notch below its Imperial-Chancellery representative, to give the Emperor his due.
-- Its **emissary to its Family's capital** is of the **10th rank**.
-- Its **ambassadors to peer vassal Houses** are typically of the **9th rank**, though an ambassador to an unusually important neighbor may be raised to the 10th or 11th - a Daidoji vassal House whose lands abut the Yasuki Estates (the capital of the Yasuki Family) needs an ambassador of standing enough to treat with the Yasuki daimyo, Yasuki Taka, who took his name in honor of the first Imperial Treasurer.
-
-These emissaries are posted outside their home domain but remain on their own daimyo's payroll.  A structural consequence is worth noting: *within* a single vassal House there is exactly one samurai of the 12th rank (the daimyo), a small handful of the 11th (the lineage chancellors who sit on the House council), and the six Ministers of the 10th - and no others of those ranks holding office at home.  But the House also fields several *additional* samurai of the 10th and 11th rank stationed abroad as the emissaries above, and - through the immediate-family rule - a substantial number of 8th- and 9th-rank samurai who hold no office at all but are the close kin of the daimyo and the chancellors.  (The budget consequences of this rank structure for the median domain are worked out in [`budgets.md` - Samurai Rank Distribution](budgets.md#samurai-rank-distribution).)
-
-### Investigations and bounties
-
-The Doctrine of Three Steps limits which magistrates can interview other samurai in the course of an investigation (or in pursuit of a bounty).  It is always a samurai's prerogative to call upon another samurai of lower rank, but even duly authorized magistrates and bounty hunters are dismissible by someone "beyond their reach".  Such investigators must therefore be of accordant standing with those they wish to interview.  While some samurai may deign to meet with and answer questions posed by lower-ranking officials of discordant standing, this is unusual and not something to ever be expected.
-
-To execute an arrest, a magistrate or bounty hunter must be of peer standing with their target.  Even possessing a lawful warrant is not sufficient to proceed with the capture of a target without possessing sufficient rank.  As per the Accordances of Rank, the merits of an investigator may elevate someone from merely being of accordant standing to being considered of peer standing with a target, in which case they may proceed to detain such a target.  (Of course, there may be disagreement in the moment about the weight of the respective merits, and occasionally such matters are ultimately decided through deeds, not words.)
-
-Magistrates and bounty hunters must exercise caution in their investigations to ensure that they do not forget their place.  Samurai whose rank is within reach of investigators but who are too highly ranked to be of peer standing with those investigators may decline to personally meet with them, foisting such meetings off on underlings.
-
-Of course, in many circumstances, some samurai prefer to press forward and make an arrest if they believe they know all that's needed to be confident their actions are just and proper, trusting that victory will be sufficient justification, in the event that the matter is ever brought before an Imperial magistrate for review.
 
 ## Bounties
 
