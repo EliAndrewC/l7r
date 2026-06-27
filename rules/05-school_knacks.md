@@ -86,7 +86,7 @@ By engaging another character in conversation you may gain insight into that cha
 
 **Ring:** Fire
 
-The TN to hit your target is raised by 20.  If successful, roll extra damage dice as if the TN hadn't been raised, and inflict a serious wound in addition to the normal damage roll.  On an unsuccessful parry, this extra serious wound becomes 2 extra rolled damage dice, or 4 extra rolled damage dice if someone else unsuccessfully parried for the target.
+This is a type of **attack roll**, made in place of the attack skill, in which the TN to hit your target is raised by 20.  If successful, roll extra damage dice as if the TN hadn't been raised, and inflict a serious wound in addition to the normal damage roll.  On an unsuccessful parry, this extra serious wound becomes 2 extra rolled damage dice, or 4 extra rolled damage dice if someone else unsuccessfully parried for the target.
 
 ## Dragon Tattoo
 
@@ -98,13 +98,13 @@ At the beginning of each combat round, you may breathe spiritual fire which exte
 
 **Ring:** Fire
 
-This attack does no damage, but if successful it yields a temporary void point which may be used this round.  Your highest action is then moved to the current phase.  The target is not told whether the attack against them is a feint until after they see whether it hits, and after any parries are resolved.
+This is a type of **attack roll**, made in place of the attack skill, that does no damage, but if successful it yields a temporary void point which may be used this round.  Your highest action is then moved to the current phase.  The target is not told whether the attack against them is a feint until after they see whether it hits, and after any parries are resolved.
 
 ## Iaijutsu
 
 **Ring:** Fire
 
-The iaijutsu rules are explained with the other combat rules.
+This is a type of **attack roll** even when not being used to attack; its full rules are explained with the other combat rules.
 
 ## Kharmic Spin
 
@@ -116,7 +116,7 @@ Spend a void and roll this knack to swap the highest and second highest Ring ran
 
 **Ring:** Fire
 
-Roll this knack instead of attack when attacking someone to roll an extra die of damage if you hit.  Everyone fighting you gets a free raise on their next attack against you this round.
+This is a type of **attack roll**, made in place of the attack skill, that grants an extra die of damage if you hit.  Everyone fighting you gets a free raise on their next attack against you this round.
 
 ## Oppose Knowledge
 
