@@ -53,7 +53,7 @@ You get a free raise on wound checks.
 After you exceed the TN of a wound check, divide the difference between your wound check and the damage roll by 5, rounding down.  You may add that number multiplied by X to any future type of attack roll this combat, where X is your attack skill.
 
 **Fourth Dan:**
-Raise your current and maximum Water by 1.  Raising your Water now costs 5 fewer XP.  You may spend void points after rolling a wound check to receive a free raise for each void point spent.
+Raise your current and maximum Water by 1.  Raising your Water now costs 5 fewer XP.  After making any combat roll for which void points may be spent, you may spend void points to receive a free raise for each void point spent.  Void points spent this way are not subject to the normal limit on how many void points may be spent on a single roll.
 
 **Fifth Dan:**
 After you take damage, you may spend void points to deal 10 light wounds to the attacker for each void point spent, up to the amount of damage you took.
