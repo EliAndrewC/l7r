@@ -1374,7 +1374,7 @@ This sensibility is illustrated in the following story of Hantei the Tenth, told
 
 > After being named the first Imperial Treasurer, during a morning meeting with His Imperial Majesty, Yasuki Taka suggested that the Hantei Emperor was being overly generous in the gifts and budgets allocated to his retainers.  Members of every clan were being given lavish budgets far above what they needed to fulfil their duties, well beyond the expected extra which would be needed to secure their gratitude and loyalty.  Taka proposed a "modest" reduction to shore up the Imperial treasury, indicating that he himself would propose an even more severe reduction but had deferred to the Hantei's legendary generosity in his more modest proposal.
 >
-> Hantei the X considered this, and then named a reduction in budgets more significant than what Taka had proposed, asking what the size of his treasury would be had he established this reduction at the beginning of his reign.
+> Hantei the X considered this, and then named a reduction in budgets more significant than what Taka had proposed, asking what size his treasury would be had he established this reduction at the beginning of his reign.
 >
 > To the amazement of all present, Taka's fingers flew over his abacus, and with only the briefest consultation of his notes and budgets was able to answer the Hantei's question within minutes, summed across all Six Ministries, down to the koku.  Even the Emperor could not conceal his surprised regard for his treasurer's skill.
 >
