@@ -1,8 +1,3 @@
-# Domain budgets
-
-Per-tier budget breakdowns for the median domain hierarchy, plus supporting tables.
-
-## Contents
 
 - [What these populations count](#what-these-populations-count)
 - [What the samurai counts mean](#what-the-samurai-counts-mean)
