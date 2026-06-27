@@ -536,10 +536,10 @@ Add (X-10) / 5 to TN and contested rolls, where X is the TN or your opponent's r
 After a feint which met its TN, lower the TN of the target by 10 the next time they are attacked, even if the feint was parried.
 
 **First Dan:**
-Roll one extra die on precepts and any two rolls.
+Roll one extra die on precepts and any two types of rolls.
 
 **Second Dan:**
-You get a free raise on any type of roll.
+You get a free raise on any one type of roll.
 
 **Third Dan:**
 After seeing the result of any TN or contested skill roll, you may spend a void point to subtract Xk1 from the roll, where X is your tact skill.  You know the result of TN and contested rolls except sincerity and interrogation.
@@ -593,7 +593,7 @@ Your maximum number of void points is equal to your highest Ring plus your schoo
 Roll one extra die on precepts and any two types of rolls.
 
 **Second Dan:**
-You get a free raise on rolls for any skill.
+You get a free raise on rolls for any one skill.
 
 **Third Dan:**
 After another character makes a roll for which void points may be spent, you may spend one void point to roll Xk1 and add the result to their total, where X is your precepts skill.  You may only do this once per roll.
