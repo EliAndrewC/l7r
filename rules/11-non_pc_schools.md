@@ -19,10 +19,10 @@
 You suffer no penalties for being impaired.
 
 **First Dan:**
-Roll one extra die on any three rolls.
+Roll one extra die on any three types of rolls.
 
 **Second Dan:**
-You get a free raise on any type of roll.
+You get a free raise on any one type of roll.
 
 **Third Dan:**
 When making any TN or contested roll, you may take a serious wound to add +XkX to the roll, where X is your Recognition.
@@ -46,10 +46,10 @@ Double the number of serious wounds it takes to kill you.
 Add your Rank to open, TN, and contested rolls.
 
 **First Dan:**
-Roll one extra die on any three rolls.
+Roll one extra die on any three types of rolls.
 
 **Second Dan:**
-You get a free raise on any type of roll.
+You get a free raise on any one type of roll.
 
 **Third Dan:**
 You get X free raises per day, where X is your Rank.  These may be spent after seeing your roll on any TN or contested roll.
@@ -73,10 +73,10 @@ Once per conversation or combat, you may reduce all dice rolled on all skill rol
 Once per target per combat round or conversation, you may substitute your School Ring in place of the usual ring when making a roll involving that target.
 
 **First Dan:**
-Roll one extra die on any three rolls.
+Roll one extra die on any three types of rolls.
 
 **Second Dan:**
-You get a free raise on any type of roll.
+You get a free raise on any one type of roll.
 
 **Third Dan:**
 Each adventure you get 2X free raises, where X is your precepts skill, which may be spent after seeing your roll on attack, wound checks, and any three skills.  You may not spend more than X of these free raises on a single roll.  You may also perform priest rituals at the cost of one free raise per ritual.
@@ -103,7 +103,7 @@ Each phase you select an "offensive" or "defensive" posture.  While fighting wit
 Roll one extra die on initiative, athletics, and wound checks.
 
 **Second Dan:**
-You get a free raise on any type of roll.
+You get a free raise on any one type of roll.
 
 **Third Dan:**
 After making an attack roll during a phase in which you have chosen an offensive posture, you may spend one action die from any phase to give yourself +X to attack and damage rolls for the rest of the round, where X is your attack skill.  After seeing the result of an attack roll made against you while fighting with a defensive posture, you may spend one action die from any phase to increase your wound checks and TN to be hit by X for the remainder of the round, where X is your attack skill.
@@ -130,7 +130,7 @@ You may spend void points after you see the results of your initial roll.
 Roll one extra die on precepts, commerce, and wound checks.
 
 **Second Dan:**
-You get a free raise on any type of roll.
+You get a free raise on any one type of roll.
 
 **Third Dan:**
 Each adventure you get 2X free raises, where X is your precepts skill, which may be spent after seeing your roll on commerce, heraldry, sincerity, tact, attack, and wound checks.  You may not spend more than X of these free raises on a single roll.
