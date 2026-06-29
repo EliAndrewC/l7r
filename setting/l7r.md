@@ -1,6 +1,7 @@
 # L7R Campaign Notes
 
 - [The Setting](#the-setting)
+  - [The Great Clans](#the-great-clans)
   - [Hierarchies](#hierarchies)
   - [The Median Domain](#the-median-domain)
   - [Place Names](#place-names)
@@ -109,23 +110,33 @@
 
 ## The Setting
 
-The "L7R" setting is a version of Rokugan based on how the setting is portrayed in the original L5R source books, supplemented with many additional details and some outright changes.
+The "L7R" setting is based on how the Emerald Empire of Rokugan is portrayed in the original L5R source books, supplemented with many additional details and some outright changes.
 
-L7R Rokugan is a "low fantasy" setting whose core conceit is **the kind of world that real historical people believed themselves to be living in**.  Magic and gods and other supernatural things exist, but encountering them is rare.  However, because they exist, people are justifiably superstitious, since it's difficult to tell which of your prayers and practices are helpful and which produce no effect.  Thus, rather than focus on the supernatural, this document begins by discussing the physical, material reality of Rokugan and how it's organized.
+L7R Rokugan is a "low fantasy" setting whose core conceit is **the kind of world that real historical people believed themselves to be living in**.  Magic and gods exist, but encountering the supernatural is rare.  However, because they exist, people are justifiably superstitious, since it's difficult to tell which of your prayers and practices are helpful and which produce no effect.  Thus, rather than focus on Rokugan's mythology, this document begins by discussing the physical, material reality of the Emerald Empire and how it's organized.
 
-Rokugan is basically "Japanese samurai culture with Chinese geography".  Of course, "samurai culture" is reductive because it spans a thousand years and many forms of government.  Similarly, saying "Chinese geography" isn't quite right, since Rokugan's geography doesn't look very much like China, but the phrase does convey that Rokugan is not an island surrounded on all sides by water and that it is instead a continental land mass with an eastern ocean and a population comparable to Imperial China.
+Rokugan is basically "Japanese samurai culture with Chinese geography".  Of course, "samurai culture" is reductive because it spans a thousand years and many forms of government.  Similarly, saying "Chinese geography" isn't quite right, since Rokugan's geography doesn't look much like China, but the phrase conveys that Rokugan is not an island surrounded on all sides by water and is instead a continental land mass with an eastern ocean and a population comparable to Imperial China.
 
-Thus, "samurai culture on a Chinese scale" accurately summarizes Rokugan as a fantasy mix of different influences.  The samurai influences include (both in this document and 1st edition canon L5R) Heian-period courts, Sengoku-period samurai/peasant demographics, and Tokugawa-period feudalism.  The geography is canonically China-sized, so this document adds a Han-dynasty provincial administration, Sui-dynasty government ministries, and Tang-dynasty uniformity of local government size and structure with Song-dynasty market towns.  This maintains the L5R source material's depiction of the relative size and power of the setting's samurai clans and families.
+Thus, "samurai culture on a Chinese scale" accurately summarizes Rokugan as a fantasy mix of different influences.  The samurai influences include (both in this document and 1st edition canon L5R) Heian-period courts, Sengoku-period samurai/peasant demographics, and Tokugawa-period feudalism.  The geography is canonically China-sized, so this document adds Han-dynasty provincial administration, Sui-dynasty government ministries, and Tang-dynasty uniformity of local government size and structure with Song-dynasty market towns.  This maintains the L5R source material's depiction of the relative size and power of the setting's samurai Clans and Families.
 
-Specifically: Rokugan is about 1500 miles top-to-bottom and about 1000 miles across, which totals about 1,500,000 square miles.  It has a total population of about 100,000,000 humans divided into currently 284 domains.  Samurai are about 2% of the total population, which is about 2 million people.
+Specifically: Rokugan is about 1500 miles top-to-bottom and about 1000 miles across, which totals about 1,500,000 square miles.  It has a total population of about 100,000,000 humans divided into (currently) 284 domains.  Samurai are about 2% of the total population, which is about 2 million people.
+
+### The Great Clans
+
+The Emperor's Imperial Families directly administer a small portion of northeastern Rokugan, and a smattering of Minor Clans dot the Empire, but most of the land in Rokugan is divided between the 7 Great Clans.  The Clans each have their own self-conceived identities; the stalwart Crab, the refined Crane, the enigmatic Dragon, the militant Lion, the spiritual Phoenix, the underhanded Scorpion, the nomadic Unicorn.  That said, these differences - while very real - are largely overstated.
+
+Every Clan must administer land, build castles, collect taxes, stockpile grain, assess tariffs, defend its borders, engage in military and political alliances, and generally participate in the Empire's feudal system to fund its elite military class.  Naturally, there are significant cultural and political differences between the Clans (and between different Families within each Clan, different Houses within each Family, different Lineages within each House, etc).  Many of these differences stem from deep religious or ideological convictions, but they all exist downstream of the geographic and demographic circumstances which shape the material conditions under which each Clan operates; the crops that can be grown, the distance from the capital, the natural resources available within their borders, the local climate, what specific threats they face, etc.
+
+The 7 Clans each possess a self-conception grounded in their individual history, legacy, strengths, and accomplishments.  People in Rokugan often attribute these differences between the Clans to innate differences in their noble bloodlines.  However, while family traits and traditions do matter, **every successful human institution continues to exist by adapting itself to its material circumstances**.  Conversely, human institutions which cling to their self-identity or traditions at the expense of their political stability or military security will be replaced by their more ruthless competitors.
+
+In other words, each Clan perpetuates the specific behaviors and traditions which ensure their survival and continuity.  These customs are overwhelmingly the same across the Clans, because the Clans all exist within the same feudal system and macroclimate, which imposes broadly similar constraints on every Clan.  In other words, while many samurai would be shocked or even offended by this assertion, the Clans are far more similar than they are different.
+
+Of course, **there are substantial differences between the Clans**; any polity spanning thousands of miles and millions of people will contain enormous regional, political, ideological, cultural, religious, and even biological variation.  Describing what sets each Clan apart risks reducing them to stereotypes, and while these stereotypes are based on real truths, they are nonetheless reductive to the point of potentially misleading readers about the overwhelmingly similar lives led by samurai and peasants throughout the Empire.  Thus, rather than focus on the particular situation of each Clan, this document 
 
 ### Hierarchies
 
-Most of the land in Rokugan is divided between the 7 Great Clans, though there are additional holdings administered directly by Imperial Families and a handful of Minor Clans.
+Each of the Great Clans is divided into 3-5 Great Families, of which one is the ruling Family.
 
-Each of the Great Clans is divided into 3-5 Great Families, of which one is the ruling family.
-
-Each of the Great Families has a ruling House which oversees a single domain, with the rest of the family's holdings being divided into many other domains, each ruled by a vassal House.
+Each of the Great Families has a ruling House which oversees a single domain, with the rest of the Family's holdings being divided into many other domains, each ruled by a vassal House.
 
 Each domain is further divided into provinces, overseen by a Provincial Governor, who lives in the provincial city, which is usually central to the province.
 
@@ -133,7 +144,7 @@ Each province is divided into counties, administered by a County Magistrate, who
 
 Each county is divided into Village Districts, overseen by a peasant Village Headsman who lives in the main village.
 
-Each village district usually has a number of small outlying farming communities known as hamlets.  (Hamlet here just refers to a small farming community.  The word in Europe originally referred to a farming community organized around orchards rather than farms, but in Rokugan it simply refers to a small cluster of farms which belongs to a village district and is overseen by a village headsman who lives in the main village and not in the hamlet.)
+Each village district usually has a number of small outlying farming communities known as hamlets.  ("Hamlet" here refers to a small farming community; the word in Europe originally referred to a farming community organized around orchards rather than farms, but in Rokugan it simply refers to a small cluster of farms which belongs to a village district and is overseen by a village headsman who lives in the main village and not in the hamlet.)
 
 ### The Median Domain
 
@@ -145,23 +156,23 @@ The median domain has around 250,000 total human population, with approximately 
 
 A useful way to think about the median domain is that it holds **roughly 1/400th of both the land area and the population of the Empire** (the Empire is ~1.5 million square miles and ~100 million inhabitants; divide either by 400 and you land at the median domain's ~3,750 square miles and ~250,000 people).  This "median domain" (MD) is the unit the budget math aggregates on, even though there are only ~284 *actual* domains - because a minority of domains are several times larger than the median, the actual count is smaller than the 400 MDs the Empire's total size would divide into.  When this matters at the table, the GM will tell players whether they are in a roughly median-sized domain or in an unusually large or small one; the worked examples throughout these notes (and in [`budgets.md`](budgets.md#the-two-empire-wide-multipliers)) assume a close-to-median domain unless stated otherwise.
 
-The capital of the domain is usually close to the center of the domain, with roads connecting to each of its provincial cities.  Each level within the domain usually has around half a dozen units, e.g. approximately six provinces per domain, approximately six counties per province, etc.
+The capital of a domain is usually close to its center, with connecting roads to each of its provincial cities.  Each level within the domain usually has around half a dozen units, e.g. approximately six provinces per domain, approximately six counties per province, etc.
 
-Here is how the population of the domain is divided between these various levels:
+The population of a domain is divided between these various levels:
 
 | Category | Count | Population (individual) | Population (total) | Percent of domain |
 | --- | --- | --- | --- | --- |
 | the capital | 1 | ~12,400 | ~12,400 | ~5% |
-| provincial cities | 6 | 2000 - 4000 | ~18,000 | ~7% |
-| large towns | 36 | ~1190 | ~42,800 | ~17% |
-| small villages | 216 | 200 - 500 | ~75,000 | ~30% |
-| tiny hamlets | 1296 | 50 - 100 | ~97,000 | ~40% |
+| provincial cities | ~6 | 2000 - 4000 | ~18,000 | ~7% |
+| large towns | ~36 | ~1190 | ~42,800 | ~17% |
+| small villages | ~216 | 200 - 500 | ~75,000 | ~30% |
+| tiny hamlets | ~1296 | 50 - 100 | ~97,000 | ~40% |
 
-These tiers are the named settlements and sum to about ~246,000 (~98% of the domain).  The remaining ~1.6% (~4,000) is peasants living outside any named settlement and outside the magistrate's notice - households on land too marginal, too remote, or too newly-cleared to have been entered on the tax rolls at all.  Isolated farms that *are* taxed, including samurai country estates, get tallied under the nearest village district and so fall inside the ~246,000 rather than here.  Because Rokugan is unusually well-administered, this off-the-books fringe is deliberately small - the exception rather than the rule - but nonzero, leaving room for non-state peasants the local magistrate has never counted.  The 250,000 is a real headcount that includes them, so the full domain rounds to the canonical ~250,000 (see [`budgets.md`](budgets.md#population-outside-named-settlements) for the full reconciliation and historical grounding).
+These tiers are the named settlements and sum to about ~246,000 (~98% of the domain).  The remaining ~1.6% (~4,000) is peasants living outside any named settlement and outside the magistrate's notice - households on land too marginal, too remote, or too newly-cleared to have been entered on the tax rolls.  Isolated farms that *are* taxed, including samurai country estates, get tallied under the nearest village district and so fall inside the ~246,000 rather than here.  Because Rokugan is unusually well-administered, this off-the-books fringe is deliberately small - the exception rather than the rule - but nonzero, leaving room for non-state peasants the local magistrate has never counted.  The 250,000 is a real headcount that includes them, so the full domain rounds to the canonical ~250,000 (see [`budgets.md`](budgets.md#population-outside-named-settlements) for the full reconciliation and historical grounding).
 
-The above numbers cover the total human population, but let's discuss the samurai population specifically.  The median domain has around 5,000 samurai.  A child legally becomes an adult during their gempukku at the age of 14, and is considered a "useful" adult until they retire.  The default age at which one is eligible for retirement is 40, at 50 it is encouraged, and at 60 it is mandatory without special dispensation from your daimyo.
+The above numbers cover the total human population, but let's discuss the samurai population specifically.  The median domain has around 5,000 samurai.  A child legally becomes an adult during their gempukku at the age of 14, and is considered a "useful" adult until they retire.  Samurai are eligible for retirement at 40, encouraged to retire at 50, and required to retire at 60 without special dispensation.
 
-Rokugan samurai culture is more egalitarian with respect to gender than historical samurai culture, a deliberate choice to keep the game welcoming to female players - roleplaying constant intense sexism isn't fun for most male players either.  The population of "useful" adults is therefore considered equal for both sexes.
+Rokugan samurai culture is more egalitarian with respect to gender than historical samurai culture, a deliberate choice to keep the game welcoming; most women don't want to experience sexism in their hobbies, and roleplaying constant sexist attitudes isn't fun for most men.  The population of "useful" adults is therefore considered equal for both sexes.
 
 Of the 5,000 samurai in the domain, approximately 2,900 (~58%) are past their gempukku (and thus legally adults) and have not yet retired.  Of these ~2,900 "useful" samurai, about ~2,690 serve *within* the domain and ~216 serve in Imperial posts *outside* it (the Imperial Legions, cross-clan magistrate/yoriki tours, and central court roles at Otosan Uchi - paid by the Empire while they serve, but still counted as the domain's own people).  The in-domain ~2,690 break down as:
 - ~800 samurai in the capital
@@ -284,9 +295,11 @@ Because these are peasant merchant families, they are not permitted to maintain 
 
 In addition to their main businesses, most successful merchants (and all large merchant families) make substantial revenue from owning land.  Most farmers are tenant farmers, and most landlords are merchant landlords, so merchants end up making a sizeable percentage of their revenue through farm rent.
 
-A domain has approximately (based on the numbers established above):
+A domain has approximately (based on the numbers established in [https://github.com/EliAndrewC/l7r/blob/master/setting/budgets.md](budgets.md)):
 
+```
     (70 * 6 ** 3 + 15 * 6 ** 4 + 156 * 6 ** 2) => 40,176 families of farmers
+```
 
 Farm taxes are capped at 1/3 of the estimated productivity of the land, and rent is capped at 1/6 of the productive capacity of the land, and a farming family plot typically has an estimated output of ~15 koku per year.
 
