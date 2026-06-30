@@ -7264,7 +7264,7 @@ Daini died the following morning from his wounds.  His sister chose the name Hit
 
 This section collects miscellaneous NPC backstory writeups.
 
-Tsuruchi Byakuya:
+#### Tsuruchi Byakuya
 
 As the Distinguished Plenipotentiary to the Southern Allies of the Wasp, Tsuruchi Kyoma must maintain a residence in both Shinden Kitsune and in Shiro Suzume.  And a man of his stature requires a Household Steward even when he is present.  While the PCs manage the affairs of his office, his household stewards manage his personal affairs.
 
@@ -7278,7 +7278,7 @@ Kyoma's former lineage members were recalcitrant, though fortunately only two of
 
 Byakuya runs Kyoma's household in Sparrow lands, while raising his young daughter Hatsuko.
 
-Tsuruchi Tatsuki:
+#### Tsuruchi Tatsuki
 
 Tatsuki is deeply superstitious, and has been a generous patron to the PCs during their time in Kitsune lands.
 
@@ -7292,5 +7292,3 @@ When the PCs spoke of journeying into the Kitsune forest, Tatsuki gave each of t
 - **Pilgrim's bell (junrei-suzu)** - a small brass bell, finger-sized, tied to a walking staff or the side of a pack.  Each bell's tone is attuned to the shrines that blessed it; as long as it is ringing on the path, the shrine's awareness extends to the bearer, and most fox-illusions cannot easily replace the way back.  If the bearer sets the staff down and the bell falls silent, the protection lapses until they pick it up again.
 - **Iron pin (kurogane-bari)** - a small black iron pin, worn in the hair or pinned to the inside of clothing where it touches the skin.  Iron is anathema to most spirits, and a single pin worn against the skin is known to disrupt a range of low-grade fox glamours.
 - **Spirit-mirror (kage-tama)** - the shared party item, a small disc of polished obsidian or smoky quartz, the size of a copper zeni, worn on a cord around the neck.  Held up against a confusing path, a hut that wasn't there yesterday, or a person whose face seems off, the surface reveals whether what one sees is real.
-
-Note the order in which this information has been presented.  Considerable time was spent on the realities of Rokugan's geography, culture, caste system, government, and organization before any of the supernatural was discussed.  And when the supernatural finally did come up, much of it is ambiguous and difficult to understand or explain.  This reflects the "low-fantasy" nature of the setting.  The supernatural is very real, and "everyone knows" that "foxes are always kidnapping children and replacing them" and "everyone" knows someone who has seen a ghost, but it's unclear (and deliberately undefined!) how often any of these things are true!
