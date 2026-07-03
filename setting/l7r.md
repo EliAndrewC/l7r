@@ -56,6 +56,7 @@
   - [Food Purity](#food-purity)
 - [Soothsaying](#soothsaying)
 - [The Fortunes](#the-fortunes)
+  - [On the Relationship between Man and the Fortunes](#on-the-relationship-between-man-and-the-fortunes)
   - [Doji Shizue and the Secrets of Calligraphy (Act 2, Scene 2)](#doji-shizue-and-the-secrets-of-calligraphy-act-2-scene-2)
   - [The Man Who Sold His Destiny](#the-man-who-sold-his-destiny)
   - [Between Places](#between-places)
@@ -2475,9 +2476,11 @@ As another example, here are the signs which the Damasu know to look for which w
 
 ## The Fortunes
 
-While some historical polytheistic religions have a concept of gods who are basically just humans with superpowers, I don't want that at all for my fictional setting of Rokugan.  The idea that the fortunes are part of the fabric of reality is a core part of the theology of my worldbuilding.
+While some historical polytheistic religions have a concept of gods who are basically just humans with superpowers, the Fortunes are part of the fabric of reality, and this is central to the theology of Rokugan.
 
-In my version of Rokugan, one question which arises is why the fortunes do not give clearer direction to humanity.  Of course, this is a question real-world theologians have also had to grapple with in basically every world religion, and Rokugan is (as a reminder) intended to be "the kind of world historical people genuinely believed themselves to be living in".
+Rokugani scholars have long grappled with the question of why the gods do not simply give clear, consistent, and unambiguous directions to humanity.  Of course, this question has had to be addressed by real-world theologians in basically every world religion, and Rokugan is fundamentally "the kind of world historical people genuinely believed themselves to be living in".
+
+### On the Relationship between Man and the Fortunes
 
 Kitsu Okura wrote the book "On the Relationship between Man and the Fortunes" 300 years ago, which sought to tackle this question.  He identifies what he calls "the six doctrines" which attempt to explain this mystery.
 
@@ -2503,6 +2506,8 @@ What follows is a brief summary of the six doctrines, each corresponding to the 
 
 6. The fortunes are vast in their existence, but humans are deep in our nature.  We are composed of many disparate parts, and a single fortune is the avatar of only a single piece of our composition.  While that existence has a weight far beyond mortal man, in a sense it is we who are the giants, for we are constructions of all the fortunes combined.  The fortunes are clear to any who listen, but we so rarely pay our attention to whatever small part of ourselves speaks their will that we wrongly call the fortunes unfathomable.
 
+### Commentary, takeaways, and precedent
+
 Note that all of the above continues the running theme of the fortunes as cycle/connection entities which make up the fabric of reality.  Moreover, these doctrines highlight the dynamic nature of the relationship between the fortunes and humans.  Whether it's the struggle to understand their instructions, the selective rewarding of their most dedicated followers, or the transformative impact of undertaking tasks on their behalf, these doctrines suggest that the relationship with the fortunes is not just about receiving clear, direct guidance, but also about personal growth, self-discovery, and connection with the deeper truths of existence.
 
 This makes the concept of swearing a vow to a fortune all the more significant, as it's not just a promise to an individual deity, but a commitment to engage with a fundamental aspect of reality and existence.  This commitment is not just about following a set of rules or achieving specific outcomes, but also about embracing the challenge, uncertainty, and transformation inherent in the process.
@@ -2521,9 +2526,9 @@ This is my way as the GM of resolving all of the stories of people "becoming" a 
 
 In other cases a fortune has been identified by name without using a name which once belonged to a human.  For example, Bishamon, the Fortune of Strength, has always been known as Bishamon, rather than being named for any specific, identifiable human with that name.
 
-I mentioned "Doji Shizue and the Secrets of Calligraphy" before, and in Rokugan there is a play with that title.  In the play Shizue has sought out the advice of the shugenja Kitsu Okura.  The family line of Kitsu Okura denounces this scene, which is the only scene in which Kitsu Okura appears, though his descendants have declined to say which specific part is not accurate or fails to reflect their family understanding of the fortunes.
+"Doji Shizue and the Secrets of Calligraphy" is mentioned in the section on Vows as a play which exists in this setting.  In the play, Shizue seeks the advice of the shugenja Kitsu Okura.  The family line of Kitsu Okura denounces this scene, which is the only scene in which Kitsu Okura appears, though his descendants have declined to say what specifically is not accurate or fails to reflect their family understanding of the fortunes.
 
-Here is the scene, which I wrote as an in-universe example of how some people talk about the fortunes:
+Here is the scene, which exists as an in-universe example of how some people talk about the fortunes:
 
 ### Doji Shizue and the Secrets of Calligraphy (Act 2, Scene 2)
 
