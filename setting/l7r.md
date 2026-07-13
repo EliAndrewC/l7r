@@ -5691,15 +5691,19 @@ Now let's talk about the 1st Imperial Legion itself.  Here are some random notes
 
 #### Ranks in the Imperial legion
 
-Here's a rough outline of the makeup of a legion.
+Here's a rough outline of the makeup of the 1st Imperial legion.
 
-| Unit | Rank of Officer in Charge | Number of samurai troops |
-| --- | --- | --- |
-| Legion | Legion General | ~1000 |
-| Battalion | Battalion Commander | ~200 |
-| Company | Company Captain | ~50 |
-| Platoon | Platoon Lieutenant | ~10-15 |
-| Squad | Squad Sergeant and Corporal | ~4-6 |
+| Unit | Officer in Charge | Officer's Rank in the 1st Legion | Number of samurai troops |
+| --- | --- | --- | --- |
+| Legion | Legion General | Rank 10 | ~1000 |
+| Battalion | Battalion Commander | Rank 9 | ~175 |
+| Company | Company Captain | Rank 8 | ~50 |
+| Platoon | Platoon Lieutenant | Rank 7 | ~10-15 |
+| Squad | Squad Sergeant and Corporal | Rank 6 and Rank 5 | ~4-6 |
+
+Imperial legion postings are normally reckoned one rank higher than the equivalent post in a clan army, but postings in the 1st Imperial legion are reckoned two ranks higher - a platoon lieutenant is Rank 7 in the 1st Imperial legion, versus Rank 6 in any other Imperial legion or Rank 5 in a clan army (see [`budgets.md` - The rank uplift principle](budgets.md#the-rank-uplift-principle)).  Since samurai keep their elevated rank when they return to clan service, a single tour in the 1st legion is worth two full ranks, which goes a long way towards explaining how sought-after its postings are.
+
+The 1st legion's structure is also subtly nonstandard: its platoons are smaller and more numerous than the Imperial norm (4 platoons of ~13 per company rather than 3 of ~16-20), and its ~20 companies are grouped into 6 battalions of 3-4 companies rather than the usual 5 battalions of 4-5.  These quirks artificially inflate the number of officer postings available in the legion where the Emperor's second son serves.
 
 Other notes:
 
@@ -5711,7 +5715,7 @@ Other notes:
 
 Each House is responsible for providing either part (in the case of small houses) or all (in the case of larger and/or more prestigious houses) of a Company to at least one of the Imperial legions.  Some houses provide more than one company, which can be negotiated with the Imperial Ministries of War and Revenue (through the Treasurer and the Shogun and their subordinates) as part of their tax obligation.
 
-Companies are funded entirely by the Houses which provide them.  Battalion Commanders are frequently Imperials, especially from the Seppun Family, though the 1st Imperial legion is an exception due to its unique mission and history.  A small percentage of each company will consist of samurai from other Houses and sometimes other clans, which will sometimes be transferred/assigned for political or personal reasons.
+Like the rest of the Imperial legions, companies are funded by the Imperial treasury through the Imperial Ministry of War, but each House also supplies significant extra funds to supplement its company's budget so as not to be outshone by the other Houses.  Battalion Commanders are frequently Imperials, especially from the Seppun Family, though the 1st Imperial legion is an exception due to its unique mission and history.  A small percentage of each company will consist of samurai from other Houses and sometimes other clans, which will sometimes be transferred/assigned for political or personal reasons.
 
 Due to the sought-after benefits of holding a position in the 1st Imperial Legion, out-of-House assignments are more common in a number of the companies (Hiruma company being an outlier for being almost entirely sold-commissions and Togashi company being an outlier in the other direction).
 
@@ -5719,11 +5723,11 @@ Due to the sought-after benefits of holding a position in the 1st Imperial Legio
 
 Each company captain in the 1st Imperial Legion has a several thousand koku budget (typically ~1000 koku higher than a company in a different Imperial legion):
 
-- Because of the increased rank across the legion, the stipends alone are in excess of 1200 koku.
+- Because of the two-rank uplift across the legion, the stipends alone are ~1,260 koku (1 captain at 64 + 4 lieutenants at 49 + 8 sergeants at 36 + 8 corporals at 25 + 32 rank-and-file at 16), versus ~800 koku for a company in a normal Imperial legion.
 
 - Several hundred additional koku in feeding the troops and support staff - this reflects an increase in the price of good food this far away from the heart of the Empire.
 
-- Hundreds of koku to pay for the support staff and their expenses - a company has ~50 samurai and about two dozen peasant workers, including unskilled or semiskilled labor such as cooks, custodians, launderers, and burakumin, as well as skilled labor such as smiths to maintain the weapons and armor.
+- Hundreds of koku to pay for the support staff and their expenses - as a long-term permanent encampment, the legion supports roughly two peasant support workers per legionnaire, so a company of ~50 samurai accounts for a share of ~100 support staff.  A few dozen of these are attached directly to the company, including unskilled or semiskilled labor such as cooks, custodians, launderers, and burakumin, as well as skilled labor such as smiths to maintain the weapons and armor; the rest belong to the battalion- and legion-level pool (stables, kitchens, construction crews, the camp market, and the like).
 
 - Hundreds of koku for equipment.  This not only includes the upkeep and replacements of weapons and armor, but also the tents, building materials, ditches and fortifications (these being less common in the 1st legion).
 
@@ -6957,7 +6961,7 @@ A gang of approximately six to eight bandits has been attacking barges for the p
 
 ##### **Kage the shadow-bandit** [75 koku]
 
-While raiding the town manor of the county magistrate of Seitoyama (Kakita Hikai) three years ago, the bandit lord Kage successfully stole hundreds of koku and disappeared.  Hikai slashed Kage across the cheek from his left ear down to his chin, and is certain to have left a scar.
+While raiding the town manor of the county magistrate of Seitoyama (Kakita Hikai) three years ago, the bandit lord Kage successfully stole hundreds of koku and disappeared.  Hikai slashed Kage across the cheek from his left ear down to his chin, and is certain to have left a scar.  (Note that is not in the Imperial bulletin: "Kage" means "shadow" and is a common name for bandits to identify themselves by rather than a real name - players will likely encounter many bandits called Kage in different places.)
 
 ##### **Shinjiro the obsidian merchant** [75 koku]
 
