@@ -1144,7 +1144,7 @@ First of all, because Rokugan is not a real place on earth and has a different c
 
 Second, each month is a 30 day lunar month, and the lunar cycle is exactly 30 days, with the full moon falling in the middle of each month and the new moon happening at the beginning/end of each month.  This makes the lunar cycle easy to keep track of alongside the calendar.  It also reinforces the centrality of the sun and moon in the Rokugani cosmology.
 
-The months of the Rokugani calendar do not exactly line up with the Gregorian one.  The 1st day of the Rokugani year is the 1st day of spring, which falls at roughly the end of February.
+The months of the Rokugani calendar do not exactly line up with the Gregorian one.  The 1st day of the Rokugani year is the 1st day of spring, which falls in early February.
 
 ### The Twelve Months
 
@@ -1269,7 +1269,7 @@ Many of the "firsts" of the year are special - the first visit to a shrine, the 
 
 ##### 1st Day (4 Feb): Risshun (first day of spring)
 
-In the solar calendar, Risshun marks the first day of spring.
+In the solar calendar, Risshun marks the first day of spring.  This is the first day of solar spring rather than of seasonal spring: Risshun falls almost exactly halfway between the Winter Solstice and the Vernal Equinox, at the point where the lengthening days turn the year back toward the sun.  It is not the end of the cold.  Early Mutsuki is still the dead of winter across most of Rokugan, and snow on Risshun is unremarkable.  What the festival celebrates is the turning of the sun, not any warmth on the ground.
 
 The first day of the year begins with rituals and ends with a festival.  The Emperor and daimyo begin the day with the ceremony of Shihohai (Prayer to the Four Directions), and nobles and vassals participate in Kochohai (Lesser Obeisance), paying respects to their lords and masters.
 
