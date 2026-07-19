@@ -4,7 +4,7 @@ Legend of the Five Rings is an RPG which began as a collectible card game, with 
 
 My L5R playgroup created our own house rules to refine the play experience to our own preferences, like a home cook adjusting the spice content of a dish to their personal taste.  We began by taking the original (1st edition) L5R rules and combining them with rules for 7th Sea, another Alderac game.  Because of this, we dubbed our system **L7R**, though these rules are our own creation, taking ideas and inspiration from those and many other tabletop RPGs.
 
-The original books for these games are well worth reading and have great material which any roleplaying group can use.
+The original books for these games are a joy to read and have tons of great material which any roleplaying group can use.
 
 In addition to our [house rules](https://github.com/EliAndrewC/l7r/tree/master/rules/) we've also developed [extensive worldbuilding and setting notes](https://github.com/EliAndrewC/l7r/blob/master/setting/l7r.md) which use the original books as a starting point and customizes it with historical research and original content.
 
