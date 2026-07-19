@@ -1254,7 +1254,7 @@ The Rokugani calendar is divided into twelve lunar months of 30 days each.  The 
 
 The most important festival days tend to occur on the 15th days of months and on "double odd" days, such as the first day of the first month, the third day of the third month, and so on.  Each month also brings its seasonal flowers and colors.  This manifests itself in many ways, especially in poetry, clothing, and decorations.
 
-Here's a breakdown of the 1st month of the Rokugani calendar.  This description lists the real-world calendar days which are roughly equivalent to the days on the Rokugani calendar, to help the reader account for the fact that the 1st day of the Rokugani year is the first day of spring, which represents a considerable offset from the Gregorian calendar.
+Here's a breakdown of the 1st month of the Rokugani calendar.  This description lists the real-world calendar days which are roughly equivalent to the days on the Rokugani calendar, to help the reader account for the fact that the 1st day of the Rokugani year is the first day of solar spring, i.e. the midway point between the winter solstice and spring equinox (this means the Rokugani "first day of spring" - the first day of the Rokugani year - is still mid-winter on the Gregorian calendar).
 
 #### 1st Month: Mutsuki ("affection month")
 
@@ -1269,7 +1269,7 @@ Many of the "firsts" of the year are special - the first visit to a shrine, the 
 
 ##### 1st Day (4 Feb): Risshun (first day of spring)
 
-In the solar calendar, Risshun marks the first day of spring.  This is the first day of solar spring rather than of seasonal spring: Risshun falls almost exactly halfway between the Winter Solstice and the Vernal Equinox, at the point where the lengthening days turn the year back toward the sun.  It is not the end of the cold.  Early Mutsuki is still the dead of winter across most of Rokugan, and snow on Risshun is unremarkable.  What the festival celebrates is the turning of the sun, not any warmth on the ground.
+In the solar calendar, Risshun marks the first day of solar spring, i.e. Risshun falls exactly halfway between the Winter Solstice and the Vernal Equinox, the point where the lengthening days are halfway toward turning the year back toward the day and night being of equal length, rather than being the end of the cold season.  Early Mutsuki is still the dead of winter across most of Rokugan, and snow on Risshun is unremarkable.  What the festival celebrates is the turning of the sun, not any warmth on the ground.
 
 The first day of the year begins with rituals and ends with a festival.  The Emperor and daimyo begin the day with the ceremony of Shihohai (Prayer to the Four Directions), and nobles and vassals participate in Kochohai (Lesser Obeisance), paying respects to their lords and masters.
 
@@ -1336,7 +1336,7 @@ On the fourth day of the second month, the governmental Ministries of Rites hold
 
 On the eleventh day of the second month, at the Imperial Court, nobles selected for promotion from the Sixth Rank wear garlands of flowers and proceed to be formally examined by the top ministers of the government.  Their names are entered into the rolls of officials of the Fifth Rank, and they join their new ministers for the three-by-three exchange of wine cups.
 
-##### 12th Day (18 Mar): Haru Higan (Haru Higan festival)
+##### 12th Day (18 Mar): Haru Higan festival
 
 The twelfth day of the second month marks the beginning of the Haru Higan festival, a seven-day Shinseist festival centered on the Vernal Equinox.  Families visit the graves of their ancestors, weed and clean the graves, and make offerings of flowers, incense, and rice balls.  During this time, monks chant the canon of Shinseist sutras, and services are held every day at temples.  Many people attend midday temple services every day during Haru Higan.
 
