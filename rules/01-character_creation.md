@@ -77,17 +77,17 @@ Your Honor starts at 1.0 and may be raised as high as 5.0 at character creation.
 <details>
 <summary><strong>What does it mean to have high honor or low honor?</strong></summary>
 
-Our rules explain that a character's honor score represents "the strength of their convictions", but what does this *mean*?  When I roleplay as the GM, how do high-honor NPCs differ from low-honor NPCs?  My sensibilities differ from how "honor" and "alignment" values are usually portrayed in RPGs, including the original L5R source material.  Players can decide for themselves what their characters' honor scores "mean" in a philosophical sense (the mechanics are what they are), and this section explains one way to think about the concept of "honor" in both L7R and in real life.
-
-High-honor and low-honor characters might hold identical beliefs; what differs is their decision-making tendencies and their resulting choices.
-
-An unfortunate reality of the world in which we live is that many people hold strong beliefs which feel core to their identity, but **their actions are largely uncorrelated with those beliefs**.  They may opine at length on the meaning of honor and courage, but if circumstances would require them to make some sacrifice for the sake of their supposed values, they will inevitably find a reason not to do so.
-
-This is how I model "low-honor" characters in my game; **low-honor characters are exactly as good as their incentives.**  Thus, their behavior and choices are often virtuous!  Rokugan is an unusually well-run and just society by historical premodern standards, and in societies where virtuous actions tend to be rewarded, people driven by selfishness will tend to behave virtuously.  That said, if asked, for the sake of virtue, to make some sacrifice, suffer some personal setback, or expend considerable personal resources, then a low-honor character is overwhelmingly likely to find some reason to decline, unless they perceive a long-term advantage in acquiescing.
-
-By contrast, high-honor characters are primarily motivated by doing the right thing.  PCs need not convince a high-honor character that a particular decision would be personally beneficial - merely that it is the most just and virtuous choice.  Most people fall short of this ideal despite being genuinely motivated by virtue, just as most L7R characters have honor scores between the minimum and maximum values.
-
-This is the lens through which I view real-world ethics and the ways humans navigate moral challenges.  **Everyone bears the moral responsibility to be better than their incentives**, and people's moral failings are frequently downstream of the material reality that doing the right thing can be more difficult than simply choosing whatever their circumstances make easiest.
+> Our rules explain that a character's honor score represents "the strength of their convictions", but what does this *mean*?  When I roleplay as the GM, how do high-honor NPCs differ from low-honor NPCs?  My sensibilities differ from how "honor" and "alignment" values are usually portrayed in RPGs, including the original L5R source material.  Players can decide for themselves what their characters' honor scores "mean" in a philosophical sense (the mechanics are what they are), and this section explains one way to think about the concept of "honor" in both L7R and in real life.
+>
+> High-honor and low-honor characters might hold identical beliefs; what differs is their decision-making tendencies and their resulting choices.
+>
+> An unfortunate reality of the world in which we live is that many people hold strong beliefs which feel core to their identity, but **their actions are largely uncorrelated with those beliefs**.  They may opine at length on the meaning of honor and courage, but if circumstances would require them to make some sacrifice for the sake of their supposed values, they will inevitably find a reason not to do so.
+>
+> This is how I model "low-honor" characters in my game; **low-honor characters are exactly as good as their incentives.**  Thus, their behavior and choices are often virtuous!  Rokugan is an unusually well-run and just society by historical premodern standards, and in societies where virtuous actions tend to be rewarded, people driven by selfishness will tend to behave virtuously.  That said, if asked, for the sake of virtue, to make some sacrifice, suffer some personal setback, or expend considerable personal resources, then a low-honor character is overwhelmingly likely to find some reason to decline, unless they perceive a long-term advantage in acquiescing.
+>
+> By contrast, high-honor characters are primarily motivated by doing the right thing.  PCs need not convince a high-honor character that a particular decision would be personally beneficial - merely that it is the most just and virtuous choice.  Most people fall short of this ideal despite being genuinely motivated by virtue, just as most L7R characters have honor scores between the minimum and maximum values.
+>
+> This is the lens through which I view real-world ethics and the ways humans navigate moral challenges.  **Everyone bears the moral responsibility to be better than their incentives**, and people's moral failings are frequently downstream of the material reality that doing the right thing can be more difficult than simply choosing whatever their circumstances make easiest.
 
 </details>
 
