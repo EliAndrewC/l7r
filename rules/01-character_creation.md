@@ -87,7 +87,7 @@ Your Honor starts at 1.0 and may be raised as high as 5.0 at character creation.
 >
 > By contrast, high-honor characters are primarily motivated by doing the right thing.  PCs need not convince a high-honor character that a particular decision would be personally beneficial - merely that it is the most just and virtuous choice.  Most people fall short of this ideal despite being genuinely motivated by virtue, just as most L7R characters have honor scores between the minimum and maximum values.
 >
-> This is the lens through which I view real-world ethics and the ways humans navigate moral challenges.  **Everyone bears the moral responsibility to be better than their incentives**, and people's moral failings are frequently downstream of the material reality that doing the right thing can be more difficult than simply choosing whatever their circumstances make easiest.
+> This is the lens through which I view real-world ethics and the ways humans navigate moral challenges.  **Everyone bears the moral responsibility to be better than their incentives**, and people's moral failings are frequently downstream of the material reality that doing the right thing can be more difficult than simply choosing whatever their circumstances make easiest.  (Any fellow Bible nerds may recognize this as essentially the message of [Luke 6:32-36](https://www.biblegateway.com/passage/?search=Luke%206%3A32-36&version=NRSVUE).)
 
 </details>
 
