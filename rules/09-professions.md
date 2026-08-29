@@ -37,9 +37,9 @@ Money bonuses may or may not apply depending on the campaign.
   - *Money bonus: 20%*
 - You get 4 free raises on bragging and precepts rolls when speaking about your own sense of ethics.
   - *Money bonus: 10%*
-- You get 2 free raises on strength rolls.
+- You get 2 free raises when making Water athletics rolls for feats of strength.
   - *Money bonus: 20%*
-- You get 2 free raises on all endurance rolls.
+- You get 2 free raises when making Earth athletics rolls for feats of endurance.
   - *Money bonus: 20%*
 - You get 5 free raises on open sincerity and open tact rolls when trying to avoid being in trouble with an authority figure.
   - *Money bonus: none*
