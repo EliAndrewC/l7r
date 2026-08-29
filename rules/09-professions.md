@@ -31,7 +31,7 @@ Money bonuses may or may not apply depending on the campaign.
   - *Money bonus: 20%*
 - You receive 3 free raises on etiquette when speaking to anyone from a higher social class.
   - *Money bonus: 10%*
-- You may buy and raise any advanced skill which is normally basic as if it were basic.  (Depending on the background and campaign, some normally-basic skills might be advanced, such as making Law an advanced skill for peasant farmers.)
+- You may buy and raise any advanced skill which is normally basic as if it were basic.  (Depending on the background and campaign, some normally-basic skills might be advanced, such as making Law an advanced skill for peasant farmers.  If you take this ability after having already spent XP on an advanced skill, you get back the extra XPs which were previously spent.)
   - *Money bonus: 10%*
 - You get three free raises on commerce rolls when making purchases.
   - *Money bonus: 20%*
