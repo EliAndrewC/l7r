@@ -10,7 +10,7 @@
 
 - When you make an attack roll that would miss, raise it by 5.  Any parry attempt against an attack that receives a free raise in this manner automatically succeeds.
 - Raise the TN of someone trying to parry one of your attacks by 5.
-- When using a weapon that deals less than 4k2 damage, add an extra rolled damage die to the weapon's base damage, to a maximum of 4k2 base damage.  Also, subtract 2 from your armor damage reduction penalty.
+- When using a weapon that rolls fewer than 4 damage dice, add an extra rolled damage die to the weapon's base damage, to a maximum of 4 rolled damage dice.  Also, subtract 2 from your armor damage reduction penalty.
 - Round your damage rolls up to the nearest multiple of 5.  If the roll is already a multiple of 5, then raise it by 3.
 - You may reroll 10s on a single die when impaired.
 - Roll one extra unkept die on initiative.
