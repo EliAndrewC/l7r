@@ -102,6 +102,7 @@
     - [The Dark Moto](#the-dark-moto)
     - [The Secret Histories of the Moto](#the-secret-histories-of-the-moto)
 - [The Wasp Bounty Hunters Campaign](#the-wasp-bounty-hunters-campaign)
+  - [The Wasp hierarchy](#the-wasp-hierarchy)
   - [Bounties](#bounties)
   - [The Sparrow Clan](#the-sparrow-clan)
   - [The Fox Clan](#the-fox-clan)
@@ -6827,6 +6828,28 @@ As a reminder, the Karmic Inquisitors campaign took place in the winter of 1129 
 | 1128 | The Crab Clan, under the direction of the Kuni Witch Hunters, begin experimenting with the Black Scrolls. |
 | 1129 | The kumosaya fungal blight destroys half of the Damasu rice and soybean crop. |
 | 1130 | Tsuruchi Naomi begins considering suitors for her eldest son Ichiro (the future daimyo of the Wasp). |
+
+### The Wasp hierarchy
+
+The PCs are the **Wasp Marshals** for the region, reporting to Tsuruchi Kyoma and overseeing all Wasp bounty hunting activity for the following six domains:
+
+- the Fox domain
+- the Sparrow domain
+- the Kakita domain (i.e. the ruling house of the Kakita Family of the Crane Clan)
+- the Etsuko domain (the northernmost Daidoji domain of the Crane Clan)
+- the Reiji domain (the northeasternmost Hida domain of the Crab Clan)
+- the Daika domain (the Bayushi domain of the Scorpion Clan west of the Kitsune forest)
+
+Each domain has an Imperial magistrate who distributes and pays out the bounties collected.  The Wasp Clan has assigned a Metsuke (an Inspector - literally "one who directs their eye") to each domain, and each Inspector has a small team of Gosonin (Escorts - aka a "transport guard") who assist them in collecting bounties and then delivering them to the location where the bounties were placed in order to collect the reward.  (An org chart for the region is on the campaign wiki: https://waspbountyhunters.obsidianportal.com/wikis/wasp-hierarchy)
+
+As marshals (**haribugyo** - literally "magistrates of the sting"), the PCs have the following responsibilities:
+
+- They are expected to periodically report to Tsuruchi Kyoma, typically a few times per week when not traveling.  Kyoma is expected to offer direction and priorities for how to allocate resources towards the many open bounties on the Imperial bulletin.
+- The PCs send guidance to each Inspector regarding how they should prioritize the work in their jurisdiction and whether they should assist a neighboring domain in the pursuit of their own bounties.  (The PCs are of the upper 7th rank and the Inspectors of the lower 7th rank, making the PCs of peer standing according to the [Doctrine of Three Steps](#the-doctrine-of-three-steps) while still being their direct superiors.)
+- As necessary, the PCs may intervene directly by personally conducting interviews or investigations.  This would be especially appropriate in situations where a higher ranking or otherwise more suitable magistrate is called for.
+- The PCs are often the appropriate people to receive guests on official business, particularly in situations where they are closer in Rank to the visitors than Kyoma himself, and e.g. able to sit at the same table when receiving such visitors.
+
+The PCs are not the first to hold these posts: they replaced a team of three haribugyo - Tsuruchi Kaminari, Tsuruchi Danji, and Tsuruchi Okihito - who were promoted at the start of 1130 to serve as the Haribugyo in the Yasuki Estates, opening the positions for the PCs.
 
 ### Bounties
 
