@@ -54,9 +54,9 @@ Money bonuses may or may not apply depending on the campaign.
   - *Money bonus: 10%*
 - You get 3 free raises when making bragging and precepts rolls relating to your business experience, and an extra free raise if the roll is contested.
   - *Money bonus: 10%*
-- You get 2 free raises to contested commerce rolls when your commerce rank is at least as high as your opponent's.
+- You get 2 free raises to contested commerce rolls when your commerce skill is at least as high as your opponent's.
   - *Money bonus: 20%*
-- You get 4 free raises to culture rolls to purchase gifts.
+- You get 4 free raises to culture rolls for the purpose of purchasing gifts.
   - *Money bonus: 20%*
 - You get 5 free raises on heraldry rolls for the purpose of knowing your customers and their family backgrounds and relationships.
   - *Money bonus: 20%*
