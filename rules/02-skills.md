@@ -61,7 +61,12 @@ Actions which either fail or succeed call for rolls with a target number (TN) th
 
 Open rolls are used for actions with a range of effectiveness instead of success or failure.  The higher your roll, the better the result.  What your roll actually means depends on the skill being used and the situation.
 
-When two characters' actions oppose each other, a contested roll occurs.  The skills being used may differ, but higher skills grant a bonus: you get a free raise for every point your character's skill is higher than your opponent's.  The higher total wins.
+When two characters' actions oppose each other, a contested roll occurs.  The skills being used may differ, but higher skills grant a bonus: you get a free raise for every point your character's skill is higher than your opponent's.  The higher total wins.  Most skills are contested against themselves, and a tie between two such rolls is simply a tie.  However, three pairs of skills are always rolled against each other instead and never contest themselves:
+* interrogation against sincerity
+* manipulation against tact
+* investigation against sneaking
+
+In each of these pairs the first skill named wins a tie, e.g. a manipulation roll succeeds when it matches the tact roll opposing it.
 
 No roll uses more than 10 dice.  When the number of rolled dice would exceed 10, one extra die is instead kept for every rolled dice above 10.  For every rolled or kept die beyond 10k10, add 1 to the result of the roll.  Also, certain conditions create free raises, which add 5 to a roll's total; these are either granted by the GM as situational bonuses or automatically created by advantages and schools.
 
@@ -210,11 +215,11 @@ This also aids your basic skills; you receive one free raise on all culture, law
 
 **Ring:** Air
 
-Roll this contested against the sincerity of an NPC when you wish to detect whether they're lying.  If you are speaking to them casually rather than grilling them, they get 4 free raises.  If instead you are clearly interrogating them but they are telling a lie which they believe you are incapable of proving wrong, they get 2 free raises.  GMs are also encouraged to assign situational free raises to the interrogator when the other person is scared, feels guilty, etc.
+Roll this contested against the sincerity of an NPC when you wish to detect whether they're lying.  If you are speaking to them casually rather than grilling them, they get 2 free raises.  If instead you are clearly interrogating them but they are telling a lie which they believe you are incapable of proving wrong, they get 2 free raises.  GMs are also encouraged to assign situational free raises to the interrogator when the other person is scared, feels guilty, etc.
 
 This skill is rolled once for each line of questioning.  When you ask questions that get closer to the truth and continue to force the other side to lie, you receive free raises.  Conversely, when the liar manages to steer the conversation to things which they have ready answers for or don't have to lie at all, they receive free raises.
 
-Exceeding the opposing sincerity roll tells you whether the other person is lying.  Exceeding it by at least 10 tells you whether they're concealing information even if they're not lying outright.  Exceeding it by at least 20 lets you perceive their specific motivations whether they're lying or not.
+Meeting or exceeding the opposing sincerity roll tells you whether the other person is lying.  Exceeding it by at least 10 tells you whether they're concealing information even if they're not lying outright.  Exceeding it by at least 20 lets you perceive their specific motivations whether they're lying or not.
 
 ### Intimidation
 
