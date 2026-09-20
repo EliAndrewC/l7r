@@ -6,11 +6,11 @@ My L5R playgroup created our own house rules to refine the play experience to ou
 
 The original books for these games are a joy to read and have tons of great material which any roleplaying group can use.
 
-In addition to our [house rules](https://github.com/EliAndrewC/l7r/tree/master/rules/) we've also developed [extensive worldbuilding and setting notes](https://github.com/EliAndrewC/l7r/blob/master/setting/l7r.md) which use the original books as a starting point and customizes it with historical research and original content.
+In addition to our [house rules](https://github.com/EliAndrewC/l7r/tree/master/rules/), we've also developed [extensive worldbuilding and setting notes](https://github.com/EliAndrewC/l7r/blob/master/setting/l7r.md) which customize the original L5R setting with historical research and original content.
 
 ## Copyright and Attribution
 
-Shout out to Asmodee and Fantasy Flight Games for putting out a policy that encourages fan projects like this one!  As explained above, the ownership of L5R is long and complicated, but it's heartwarming that the current owners are such good caretakers of the property.  In turn, I'll try to be a responsible fan and respect their terms and conditions by including the usual disclaimers below:
+Shout out to Asmodee and Fantasy Flight Games for adopting official policy that encourages fan projects like this one!  As explained above, the ownership of L5R is long and complicated, but it's heartwarming that the current owners are such good caretakers of the property.  In turn, I'll try to be a responsible fan and respect their terms and conditions by including the usual disclaimers below:
 
 This unofficial work is not affiliated with, endorsed, sponsored, or approved by Fantasy Flight Games, Asmodee, or any of their affiliates.
 
